@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, wearing a blue mantle and a halo, is seated on a blue donkey, cradling the Christ Child, who is swaddled in white. Joseph, with a blue cap and a beard, walks beside the donkey, carrying a red cloth bundle on a stick over his shoulder. The figures are set against a gold background, suggesting a divine or spiritual context, with a patch of green grass at the bottom indicating the ground. The overall composition is simple and devotional.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_MS0700/DEPOT/B721816101_MS0700_0062/3966,955,1134,1294/full/0/default.jpg"
+}

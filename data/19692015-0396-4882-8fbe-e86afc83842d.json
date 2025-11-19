@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a royal court setting where a king, seated on a throne and adorned with a crown and regal blue robes, gestures with his right hand. Before him, a procession of individuals presents offerings. One man, dressed in green, carries a basket of loaves on his head. Another, in blue, holds out a loaf of bread to a supplicant dressed in brown, who is kneeling. To the right, a woman cradles a baby, and other figures observe the scene. In the background, architectural elements suggest an interior space with arched windows and decorative columns. Above, a small vignette shows a figure, possibly a saint or divine being, in a celestial setting.",
+    "scene_interpretation": "Feeding the Poor",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "roof",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "King",
+        "Woman",
+        "Baby"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0367.jp2/2666,3531,1289,1525/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A kneeling figure, dressed in a fur-trimmed robe over a red tunic, with hands clasped in prayer, faces a standing figure. The standing figure, wearing a golden chasuble over a white alb, extends their hands as if in blessing or offering. The scene takes place indoors, against a backdrop of a large, panelled door and a draped curtain. The floor is wooden, with visible planks.",
+    "scene_interpretation": "Confession",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "door",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.9495/Vat.lat.9495_0226_pr_0201.jp2/189,169,375,409/full/0/default.jpg"
+}

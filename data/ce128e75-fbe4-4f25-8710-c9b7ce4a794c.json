@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A conical structure, adorned with gold and red checkered patterns and a decorative band with small arches, stands prominently on the left. Behind it, other similar structures in blue and red are partially visible. To the right, a man in golden armor, with a beard and a golden cap, raises his arms in supplication or despair, facing a dark, stormy sky from which stones are falling. He is positioned in front of a large, marching army clad in grey armor. The scene depicts a divine punishment or a miraculous event occurring in an outdoor setting.",
+    "scene_interpretation": "The Israelites' journey through the desert, specifically the event where God sent fiery serpents or stones from heaven to punish them, as described in the Book of Numbers.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tent"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f494/1022,4214,3338,1430/full/0/default.jpg"
+}

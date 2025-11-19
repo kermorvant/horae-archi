@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded male figure, likely a saint, stands within an arched architectural setting. He wears a habit with a cross emblem on the chest and holds an open book in his left hand, while his right hand rests on a staff or crosier adorned with beads. To his left, a small animal, possibly a dog or a wolf, is depicted. To his right, a stylized architectural element resembling a tower or a building facade with a circular motif is visible. The background is filled with a dotted pattern, suggesting a decorative or symbolic element. The overall scene is rendered in a woodcut style, typical of medieval manuscripts.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0027/1174,816,456,598/full/0/default.jpg"
+}

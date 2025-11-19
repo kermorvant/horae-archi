@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a fortified city or castle with multiple towers and crenellated walls. Figures are visible on the battlements, some looking out. One tower features a projecting window structure with a gabled roof. The architecture is rendered in a detailed, somewhat stylized manner, characteristic of medieval manuscript illumination. The overall impression is one of a defensive structure, possibly representing a city under siege or a significant stronghold.",
+    "scene_interpretation": "city_under_siege",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "fortress",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "battlement",
+        "crenellation",
+        "tower",
+        "window",
+        "gable",
+        "wall",
+        "fortification_wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/HMML/HMML%2000534/HMML_00534_068v.JPG/4434,5153,478,1288/full/0/default.jpg"
+}

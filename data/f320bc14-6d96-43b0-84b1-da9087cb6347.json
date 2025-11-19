@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth, his body marked by wounds. To the right, a man in a pink robe and blue mantle kneels with his hands clasped in prayer, looking up at Christ. The background features a hilly landscape with trees and a distant building, all under a bright blue sky. The entire scene is framed by an arched border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Man praying"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3769/Vat.lat.3769_0282_fa_0135v.jp2/962,682,1022,1090/full/0/default.jpg"
+}

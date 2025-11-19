@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist, identifiable by his halo and his traditional attribute, an eagle, which is shown to his left holding weights in its beak. John is shown with long, blond hair, looking upwards with an expression of divine inspiration. He is dressed in a red tunic and a purple cloak, and he holds a quill in his right hand, poised as if to write. A scroll lies open before him, suggesting he is in the act of writing his Gospel. The background features a stylized landscape with rolling hills, trees, and distant blue mountains, indicative of an outdoor setting.",
+    "scene_interpretation": "Saint John the Evangelist writing his Gospel",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1168304/2822,742,686,742/full/0/default.jpg"
+}

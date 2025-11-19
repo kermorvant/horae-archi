@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A priest, identified by his golden vestments and halo, holds a chalice aloft, performing a religious rite. He is positioned within a golden architectural structure featuring arches and decorative elements, possibly an altar or a tabernacle. Before him, several figures with halos, likely saints or holy individuals, are depicted in prayer, their hands clasped and faces turned upwards in devotion. The background is a deep blue adorned with golden stars, suggesting a celestial or divine setting. Red drapery frames the scene, adding a sense of solemnity and richness.",
+    "scene_interpretation": "Mass",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Priest"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f49/1837,940,939,1587/full/0/default.jpg"
+}

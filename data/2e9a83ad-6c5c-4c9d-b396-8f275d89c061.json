@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a landscape setting. On the left, three figures in dark robes, possibly monks or religious figures, stand together. One holds a staff. In the center, a large white animal, likely a sheep or lamb, lies on the ground. To the right, two figures, also in dark robes, are seated or kneeling. One figure, with a head covering, gestures with her hand towards her chest, looking upwards. The background features rolling hills and distant architectural structures resembling castles or fortified buildings. The overall impression is one of a pastoral or devotional scene, possibly related to a biblical narrative or a saint's life.",
+    "scene_interpretation": "The scene is likely a depiction of the Nativity or a related event involving shepherds. The presence of the lamb and the figures in humble attire suggests a pastoral context. The seated woman with her hand on her chest could be the Virgin Mary, and the other figures could be shepherds or attendants. The distant architecture might represent Bethlehem or a symbolic representation of a settlement.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0050/2855,444,1341,1597/full/0/default.jpg"
+}

@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, likely a scholar or prophet, wearing a green tunic and a blue headdress, with a golden halo indicating sanctity. He is shown in an architectural setting, possibly a study or a chapel, with books open before him. He gestures towards one of the books, engaged in contemplation or dictation. To his right, a winged figure, possibly an angel, dressed in a golden robe, looks on attentively and holds a small object, perhaps a stylus or a writing instrument. The background features a patterned tapestry and a vaulted ceiling with starry decoration. To the left, a window reveals a potted plant with blue flowers, suggesting an indoor space with a view.",
+    "scene_interpretation": "The scene likely represents a prophet or evangelist receiving divine inspiration or dictating scripture, possibly Saint Matthew or Saint Mark, given the presence of an angelic figure. The halo signifies their holy status, and the books represent their sacred writings.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "wall",
+        "column",
+        "capital",
+        "roof"
+    ],
+    "persons": [
+        "Prophet",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509627p/f39/797,486,1679,2372/full/0/default.jpg"
+}

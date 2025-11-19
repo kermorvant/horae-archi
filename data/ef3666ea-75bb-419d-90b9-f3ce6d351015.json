@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a Gothic architectural setting. On the left, the Angel Gabriel, with blue wings and a halo, is seated and holds a scroll with Latin text. He gestures towards the Virgin Mary on the right, who is standing, also with a halo, and looking towards the angel. She holds an open book and her hands are raised in a gesture of surprise or acceptance. The architecture features pointed arches, ribbed vaults, and windows with tracery, suggesting a church or chapel interior. Above the architectural structure, a celestial scene with stars and a figure (possibly God the Father) is visible. The floor is tiled with a geometric pattern, and a green curtain hangs in the background.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "ribbed_vault",
+        "window",
+        "tracery_window",
+        "wall",
+        "arch",
+        "column",
+        "capital",
+        "roof",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3340/DEPOT/B441096101_MS3340_0031/3730,406,1539,2334/full/0/default.jpg"
+}

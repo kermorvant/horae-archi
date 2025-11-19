@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left, winged and dressed in a tunic, gesturing towards the Virgin Mary on the right. The Virgin Mary, wearing a veil and a draped garment, is seated and appears contemplative, with her hand touching her chin. Behind them, architectural elements suggest an interior setting, possibly a room with a window or niche. The overall composition is framed by an arched structure.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0020/2268,3796,804,666/full/0/default.jpg"
+}

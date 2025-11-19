@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Baptist, identifiable by his halo and traditional iconography, standing in a landscape. He is shown with a beard and long hair, wearing a draped garment. In his arms, he holds a lamb, a symbol of Christ, and a book. A cross is visible above the lamb. The background is rendered as a stylized landscape with rocky formations and foliage. The entire scene is framed by an arched architectural element adorned with decorative foliage.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f409/757,58,1171,1658/full/0/default.jpg"
+}

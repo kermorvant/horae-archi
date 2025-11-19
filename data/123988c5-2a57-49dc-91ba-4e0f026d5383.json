@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a table, with one figure, likely Christ, seated and gesturing. In the foreground, a woman kneels, washing feet with a vessel. Several men are present, some appearing to be seated at the table, while others stand behind. The setting is suggested by an arched architectural element above the figures, hinting at an interior space. This scene is identifiable as the Washing of the Feet, a significant event in the New Testament where Jesus washes the feet of his disciples.",
+    "scene_interpretation": "Washing of the Feet",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0042/5656,3253,589,1117/full/0/default.jpg"
+}

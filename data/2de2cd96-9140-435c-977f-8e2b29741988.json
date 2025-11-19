@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A young woman with long blonde hair, wearing a vibrant red robe, is seated outdoors. She has a halo, indicating she is a saint. She is holding an open book in her hands, appearing to read or study it. Behind her, a tall, reddish-brown tower with crenellations and arched openings is visible. The background depicts a simple landscape with a pale blue sky and sparse vegetation. The scene likely represents a saint in contemplation or study, possibly Saint Barbara, who is often depicted with a tower.",
+    "scene_interpretation": "Saint in contemplation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "halo",
+        "arch",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "Saint Barbara"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/15763591/3096,3962,472,495/full/0/default.jpg"
+}

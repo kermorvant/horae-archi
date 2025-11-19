@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A knight in golden armor and a blue tunic, wearing a blue hat with a feather, rides a white horse. The horse is adorned with a red and white patterned saddle cloth. The knight holds a lance, poised to strike a green dragon with wings and claws. The scene is set outdoors with a body of water and distant hills under a blue sky. The entire image is framed by an ornate, gilded border.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008559f/f12/311,1141,701,745/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a stable-like structure. The Virgin Mary, seated and wearing a blue mantle, holds the Christ Child on her lap. Three Magi, identified by their crowns, approach, each bearing a golden vessel. The first Magus, an older man with a long white beard, kneels before them. Behind him, two younger Magi stand, one in a red tunic and the other in a blue robe. The architectural setting is rudimentary, suggesting a humble stable with exposed wooden beams and a thatched roof. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8555843r/f144/804,140,1097,1496/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered within an arched architectural frame. In the foreground, the Virgin Mary, clad in a blue robe, kneels with her hands clasped in prayer. Beside her, another figure, possibly Saint John the Evangelist, also kneels in prayer. Behind them, a crowd of men, all with halos, look upwards with expressions of awe and devotion. One man in the center, wearing a green garment, gestures with his hands towards the sky. Above them, in a niche or window, a dove descends, radiating light, symbolizing the Holy Spirit. The background suggests an interior space with walls and windows, framed by an ornate archway with decorative elements.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "niche"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0022/DEPOT/B441096101_MS0022_0181/1657,642,1269,1802/full/0/default.jpg"
+}

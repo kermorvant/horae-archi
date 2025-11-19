@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of women, possibly a procession or a gathering, walking amidst stylized foliage. The women are dressed in medieval attire, with elaborate headdresses and flowing robes. Their faces are rendered with simple lines, conveying a sense of solemnity or contemplation. The foliage, depicted as tall, leafy branches, suggests an outdoor setting, perhaps a garden or a natural landscape. The overall impression is one of serene movement and communal presence.",
+    "scene_interpretation": "Procession of Virgins",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0081/5119,1114,451,982/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Baptist seated outdoors, with a halo around his head, holding an open book in his lap. He is dressed in a brown tunic and a red cloak. To his right, a lamb stands with a halo, and behind it, a banner with a cross and a white cloth is visible. The background features a body of water, lush green trees, and distant blue mountains under a light blue sky. The figure's bare feet are visible, and his long hair and beard are rendered in detail. The overall setting is pastoral and serene.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421718/326,507,621,777/full/0/default.jpg"
+}

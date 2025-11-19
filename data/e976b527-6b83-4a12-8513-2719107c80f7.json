@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body rendered with anatomical detail and blood flowing from his wounds. To the left stands the Virgin Mary, draped in a dark blue robe and a patterned pink garment, her head bowed in sorrow. To the right is Saint John the Evangelist, clad in a pink robe over a dark blue tunic, also with a somber expression. The figures are set against a richly patterned background of gold, blue, and red squares, suggesting a divine or celestial setting. The ground beneath them is depicted as a green, undulating landscape. The entire composition is framed by a decorative border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.61/Ross.61_0065_fa_0048r.jp2/1250,251,589,696/full/0/default.jpg"
+}

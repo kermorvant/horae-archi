@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a single male figure, likely a prophet or a king, wearing an elaborate turban and ornate robes. He has a long beard and is looking upwards and to the right. His right hand is raised, holding a folded piece of fabric or parchment, with his index finger extended as if making a point or delivering a prophecy. His left hand is also visible, pointing downwards. The background is sparsely decorated with small circles, suggesting a celestial or abstract setting.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00130/333,1445,616,698/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "In a pastoral landscape, a male shepherd, dressed in a pink tunic and blue sleeves, with a yellow hood and blue cap, leans on a staff and points towards a flock of sheep. Beside him, a woman in a blue dress with pink sleeves and a white headdress kneels, tending to a lamb. In the background, a river flows past a watermill, and several buildings with red roofs are nestled on rolling hills. The scene evokes a peaceful rural life, possibly alluding to the shepherds witnessing the Nativity or a general devotional theme of pastoral care and innocence.",
+    "scene_interpretation": "Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "bridge",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550106099/f17/187,238,778,812/full/0/default.jpg"
+}

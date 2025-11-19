@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely God the Father, enthroned and holding a crucifix with Christ's body. The figure is robed in blue and orange, with a golden halo and beard. The background is a patterned tapestry of pink and gold. Above the figure is a stylized architectural canopy. The overall impression is one of divine authority and the central event of Christian salvation.",
+    "scene_interpretation": "The Trinity, specifically the Father holding the Son on the cross, representing the sacrifice of Christ for humanity's sins.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f55/525,380,1306,1632/full/0/default.jpg"
+}

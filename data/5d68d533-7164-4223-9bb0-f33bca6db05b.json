@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the Virgin Mary in the foreground, cloaked in blue and seated with her head bowed in sorrow. She is accompanied by other mourners, including a woman in a pink veil and a man in a red robe. To the right, Christ's body, marked by wounds, is being lowered from the cross by figures in green and red tunics. In the background, a fortified building with red roofs and towers is visible, and a group of figures, some playing instruments, are gathered. The setting is a rocky, uneven terrain with sparse vegetation, and several wooden crosses stand in the background.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b520004510/f147/1024,1000,1120,1617/full/0/default.jpg"
+}

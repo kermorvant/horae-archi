@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a reclining figure, likely deceased, who is covered by a shroud. The figures are shown in profile and frontal views, with several men and women looking towards the central figure. One woman, positioned to the left, holds a palm frond, a symbol often associated with martyrdom or victory. The scene is framed by an arched architectural element above, suggesting an interior or a niche. The overall impression is one of mourning or veneration.",
+    "scene_interpretation": "Death of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0052/711,2938,587,801/full/0/default.jpg"
+}

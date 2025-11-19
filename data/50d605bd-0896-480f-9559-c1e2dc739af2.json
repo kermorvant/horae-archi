@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an arched frame, suggesting a manuscript illumination. In the center, a man with a halo, presumably Christ, is being embraced by another man, likely Judas, who is kissing him. Christ is being led by figures holding staffs and clubs, some with menacing expressions. To the right, another haloed figure carries a large cross. The figures are dressed in medieval attire. The background is dark and appears to be a stylized representation of a setting, possibly a courtyard or a street, with a low fence-like structure in the foreground. The upper part of the frame features decorative foliage.",
+    "scene_interpretation": "Kiss of Judas",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Douai/Bibliotheque_municipale/591786101_MS0188/DEPOT/591786101_MS0188_0066/1120,718,1043,1760/full/0/default.jpg"
+}

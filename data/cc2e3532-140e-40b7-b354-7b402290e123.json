@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, is depicted seated within an architectural niche. She wears a golden gown and a blue mantle, with a white headdress. Her head is bowed, and her eyes are closed in contemplation. In her right hand, she holds a wreath of thorns, a symbol of Christ's Passion. The architectural setting features columns with sculpted figures in niches, and a decorative arch behind her. The background suggests an outdoor setting with a blue sky and a distant structure. The overall scene evokes a sense of sorrowful piety and reflection on Christ's sacrifice.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f60/1101,1120,3312,3759/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity seated on a throne. God the Father, on the right, is crowned and bearded, wearing a blue robe and a pink mantle. He is pointing to an open book. Jesus Christ, on the left, is depicted with a halo and a beard, wearing a blue robe and a pink mantle, holding a cross. The Holy Spirit is represented as a dove with a halo, positioned between God the Father and Jesus. Behind them, a fiery halo composed of red flames and angelic faces emanates, suggesting a divine presence. The figures are seated on a tiered structure with a checkered floor. The architectural elements are minimal, suggesting a symbolic rather than literal setting.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Jesus Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509627p/f72/1732,486,1664,2305/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts two shepherds in a pastoral landscape, with a flock of sheep grazing behind them and a dog in the foreground. Above them, in a golden halo, an angel with wings is shown, gesturing downwards. The shepherds are dressed in medieval attire, one in a red tunic and blue mantle, the other in a blue tunic and red hood. They hold staffs, suggesting their role as shepherds. In the background, simple buildings with thatched roofs are visible, indicating a rural setting. The angel's presence and gesture suggest a divine message or intervention, likely related to the shepherds, hinting at the Annunciation to the Shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yk435gb3262%2FW178_000162_1200/3554,2433,1834,3051/full/0/default.jpg"
+}

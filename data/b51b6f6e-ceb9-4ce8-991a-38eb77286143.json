@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts King David on horseback, identified by the inscription \"DAVID\" above him. He is surrounded by various beasts, including a lion on his left and a dragon-like creature and a wolf-like animal on his right. An angel hovers above, holding a sword, suggesting divine intervention or protection. David is shown with his hands raised, possibly in prayer or supplication. The setting is a landscape with a tree, flowers, and a body of water, with a city visible in the background. Architectural elements like walls and buildings are present in the foreground and background, suggesting a fortified or urban environment.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "bridge"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00092/994,509,1228,1672/full/0/default.jpg"
+}

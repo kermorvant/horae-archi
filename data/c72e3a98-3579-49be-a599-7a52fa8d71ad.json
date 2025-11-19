@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary breastfeeding the Christ Child while seated on a golden crescent moon. She is dressed in a pink robe with a green trim and a white veil. The Christ Child is held in her arms, nursing. Above them, in the upper portion of the image, a depiction of God the Father appears, enthroned on clouds, holding a golden orb topped with a cross. The background is a rich, patterned textile in shades of blue, red, and gold, with stars scattered across the upper section. This imagery represents the Virgin Mary as the Woman of the Apocalypse, as described in the Book of Revelation.",
+    "scene_interpretation": "Woman of the Apocalypse",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000466t/f48/836,216,1110,1645/full/0/default.jpg"
+}

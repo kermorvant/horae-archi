@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, with a golden halo, is seated on a donkey, holding the Christ Child, who also has a golden halo. The Christ Child is reaching towards his mother. Behind them, Joseph, also with a golden halo, walks alongside the donkey, carrying a staff over his shoulder. He wears a white cap and tunic. The figures are set against a landscape with stylized trees and bushes, rendered in shades of grey and with touches of gold. In the background, a small building with a tower and a pitched roof is visible on a hill. The ground is depicted with undulating lines suggesting terrain and vegetation.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f79/206,275,2005,3256/full/0/default.jpg"
+}

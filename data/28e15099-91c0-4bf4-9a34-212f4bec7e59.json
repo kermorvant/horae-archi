@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The image is divided into two distinct scenes. On the left, a group of figures are gathered around a lectern displaying a text. A prominent figure in a blue robe and a tall, ornate headdress stands to the left, overseeing the scene. To the right, within what appears to be a church interior with arched windows and columns, a golden reliquary is displayed. On the right side of the image, a crucifixion scene is depicted. Christ is shown on the cross, with figures in monastic habits kneeling and praying before him. The setting is an elevated platform with wooden railings, suggesting an altar or chancel area within a religious building. The floor is tiled in a checkered pattern.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "roof",
+        "wall",
+        "stairs"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0397.jp2/2585,4254,1404,1201/full/0/default.jpg"
+}

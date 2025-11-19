@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Raising of Lazarus. Christ, in a blue robe, stands with his hand raised, facing a tomb from which Lazarus, wrapped in white cloth, is emerging. A crowd of onlookers surrounds Christ, some gesturing or looking on with awe. To the left, a building with arched windows and a dark roof is visible, suggesting an urban or ecclesiastical setting. In the background, a walled city with towers and spires is depicted under a blue sky, with rolling hills and trees.",
+    "scene_interpretation": "Raising of Lazarus",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Lazarus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55007801k/f596/196,104,1521,2147/full/0/default.jpg"
+}

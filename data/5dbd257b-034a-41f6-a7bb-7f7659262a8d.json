@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, his body rendered in a pale, emaciated style. Two angels, one on each side, kneel on ornate platforms, their faces turned towards Christ. They are depicted with wings and wear simple white robes. Behind Christ, a dark, architectural structure rises, suggesting a tomb or altar, with decorative elements. The overall setting is framed by an arched border with decorative motifs. The scene is rendered in a monochromatic style, typical of early manuscript illumination.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0140/2701,392,1287,1660/full/0/default.jpg"
+}

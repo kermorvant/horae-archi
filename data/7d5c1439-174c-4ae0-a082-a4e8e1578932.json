@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A male saint, identified by his halo, stands within an arched frame adorned with foliate motifs. He is depicted in profile, looking towards the right, holding a book in his left hand and a processional cross in his right. He wears a red cloak over a green garment and blue hose. Behind him, a richly patterned blue and gold textile serves as a backdrop. To the right, an open window reveals a landscape with trees, suggesting an outdoor setting beyond the immediate interior. The architectural elements visible include a wooden ceiling with visible beams and a stone structure framing the window.",
+    "scene_interpretation": "Saint Andrew",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Andrew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0190/3194,318,793,1274/full/0/default.jpg"
+}

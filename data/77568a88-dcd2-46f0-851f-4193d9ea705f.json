@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A man and a woman embrace tenderly outside a small building. The woman, wearing a blue tunic and a white veil, is embraced by a man in a red robe and a blue hat. They are positioned in front of a simple wooden door set into a light-colored building with a brown roof. Behind them, a wooden fence encloses a green, hilly landscape under a blue sky. The scene likely depicts a moment of affection or reunion, possibly related to a biblical or devotional narrative.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "door",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000424g/f55/971,82,468,533/full/0/default.jpg"
+}

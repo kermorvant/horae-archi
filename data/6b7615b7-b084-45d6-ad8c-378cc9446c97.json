@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bearded figure, identified as God the Father by his halo and divine radiance emanating from the upper left, is depicted with his hand on the shoulder of a crowned woman. The woman, dressed in a blue gown adorned with gold patterns, holds a white banner with a cross. They stand before a Gothic architectural structure, possibly a church portal, characterized by pointed arches and pinnacles. The background is a deep blue sky filled with golden stars, suggesting a celestial or divine setting.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "pinnacle",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f31/1878,927,921,1566/full/0/default.jpg"
+}

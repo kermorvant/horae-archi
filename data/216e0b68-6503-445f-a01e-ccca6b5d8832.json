@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, stands in a grassy field, holding an open book in their left hand and a palm frond in their right. The figure wears a blue robe over an orange undergarment and a white mantle. The background is a deep red with scattered gold floral motifs. The scene is set outdoors, with a stylized representation of grass and a decorative, patterned backdrop.",
+    "scene_interpretation": "Saint with Palm",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_012/DEPOT/762595409_A_10_012_0114/1133,1717,1556,1125/full/0/default.jpg"
+}

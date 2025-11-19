@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, with a halo and wounds, stands bound to a column. Four figures surround him, two on each side, inflicting blows with whips and rods. The figures on the left wear a yellow tunic and a green tunic, while those on the right wear a blue tunic and a pink tunic. The background is a rich gold, suggesting a divine or significant setting, framed by architectural elements including arches and a column. The floor is tiled in red.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f512/537,752,1926,2514/full/0/default.jpg"
+}

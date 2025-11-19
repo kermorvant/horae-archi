@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a seated, crowned male figure, likely God the Father, holding a globe and gesturing with his right hand. Before him, the Virgin Mary kneels, hands clasped in prayer, with a halo indicating her sanctity. Behind her, two smaller figures, a child and a woman, also kneel in prayer. Above and behind Mary, two winged angels are shown, one presenting a crown to her, while another group of angels looks on from a higher register. The architectural setting is elaborate, with ornate structures suggesting a divine or royal court. The overall scene conveys a moment of divine recognition or coronation of the Virgin Mary, possibly alluding to her Assumption or Coronation as Queen of Heaven.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_impr_2003_1_078/DEPOT/M490075203_impr_2003_1_078_0065/3467,979,1806,2183/full/0/default.jpg"
+}

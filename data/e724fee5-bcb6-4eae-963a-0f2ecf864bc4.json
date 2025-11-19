@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, bleeding from his wounds. Above him, a bearded figure wearing a crown and a blue mantle, likely representing God the Father, is depicted. To the right of God the Father, a white dove, symbolizing the Holy Spirit, is shown. The figures are framed by an arched architectural element, and the entire scene is bordered by decorative elements typical of medieval manuscripts. The base of the cross rests on a green structure, possibly an altar or a stylized representation of Golgotha.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "God the Father",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.1.46%2F016_B.1.46_f012v-f013r.jpg/1937,550,595,617/full/0/default.jpg"
+}

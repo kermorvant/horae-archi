@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ being crowned with thorns. Four figures surround Christ, who is seated and looking downwards with a pained expression. Two figures on either side are shown placing a thorny crown on his head, while two other figures stand behind him, one appearing to hold his head steady and the other perhaps gesturing or observing. The figures are dressed in medieval attire. The background is plain, suggesting an indoor setting, possibly a cell or a room where this event took place.",
+    "scene_interpretation": "Crowning with Thorns",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00314/149,759,293,328/full/0/default.jpg"
+}

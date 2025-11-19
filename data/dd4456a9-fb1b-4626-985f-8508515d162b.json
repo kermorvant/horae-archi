@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, with hands clasped in prayer and a halo, kneels beside the Christ Child, who lies in a manger. To the right, Saint Joseph, also with a halo, sits with his hand raised in a gesture of blessing or awe. Two oxen are present, one looking towards the viewer and the other towards the child. Behind them, a wooden structure with a pitched roof is visible, and through an opening, a group of figures, possibly shepherds or onlookers, are seen in the distance against a landscape. The scene is framed by a decorative border on the left with floral motifs.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/49756539/843,356,1075,1608/full/0/default.jpg"
+}

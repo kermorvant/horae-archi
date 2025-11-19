@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in conversation, set against a backdrop of stylized architecture and a tessellated, jewel-toned sky. On the left, two women stand near a large, arched entryway of a building. The woman in the foreground, dressed in a vibrant blue robe with gold trim, gestures with her right hand. Behind her, another woman in a golden-brown robe looks on. To the right, a third figure, also in a pink robe with blue trim, faces the central figure, appearing to speak or react. The architecture includes a tower with crenellations and a conical roof, and a building with prominent red gabled roofs. The background is a dense mosaic of small squares in shades of blue, red, and gold, suggesting a celestial or richly decorated interior space.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "roof",
+        "gable",
+        "battlement",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f150/458,890,894,1659/full/0/default.jpg"
+}

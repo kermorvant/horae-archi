@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "A skeletal figure, personifying Death, is seated on a golden sarcophagus, wearing a crown and holding a spear tipped with an arrow. Death cradles a human skull in its lap. The scene is set in a walled garden with a brick wall, and in the background, a walled city with a prominent cathedral and other buildings is visible, nestled against a hill. To the right, a small, ornate tomb or shrine stands in the grass. The overall composition, with Death as a crowned monarch holding symbols of mortality, evokes the theme of the universality of death.",
+    "scene_interpretation": "The Triumph of Death",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "church",
+        "house",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch",
+        "spire",
+        "fortification_wall"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100248249/f313/346,276,1060,1709/full/0/default.jpg"
+}

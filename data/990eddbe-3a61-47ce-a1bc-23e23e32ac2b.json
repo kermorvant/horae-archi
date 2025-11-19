@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A man, dressed in a white tunic, yellow undergarment, white hose, and dark shoes, walks across a field, sowing seeds. He wears a straw hat and has a beard. His left arm is bent, holding a basket of seeds, while his right arm is extended, scattering seeds onto the tilled earth. A tree with green foliage stands to the left of the scene, against a vibrant blue sky dotted with golden clouds. The ground is depicted as ploughed furrows, with small green shoots emerging in places. The scene likely represents the Parable of the Sower, a teaching of Jesus about the different ways people receive the word of God.",
+    "scene_interpretation": "Parable of the Sower",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Sower"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828146/906,2695,804,1080/full/0/default.jpg"
+}

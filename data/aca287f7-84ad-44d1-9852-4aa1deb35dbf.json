@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, draped in a blue mantle, sits holding the Christ Child. Three kings, identified by their crowns, approach them. The first king, in a brown robe, offers a chalice. The second king, in a blue tunic, holds another vessel. The third king kneels, presenting his gifts. Behind them, a simple thatched-roof structure is visible, suggesting a humble dwelling. The background features rolling green hills, trees, and a distant city. The sky is a deep blue with a single star.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0028/DEPOT/M441095203_MS0028_0052/3611,478,1930,2246/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The Virgin Mary, dressed in a blue mantle, cradles the lifeless body of Christ, who is wrapped in a white shroud. Christ's wounds are visible, including stigmata on his hands and feet, and a wound in his side. To the left, a figure in a reddish-gold robe and purple tunic, likely Saint John the Evangelist, supports Christ's legs. To the right, a figure in a reddish-gold robe and purple mantle, likely Mary Magdalene, kneels with hands clasped in prayer. Behind them, a large wooden cross stands, bearing the inscription \"INRI\" at the top. The background features a blue sky with stylized clouds, rolling hills, and sparse greenery, suggesting an outdoor setting. The figures are rendered with halos, indicating their sanctity.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "Saint John the Evangelist",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10644165/385,323,1540,2141/full/0/default.jpg"
+}

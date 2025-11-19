@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a turban-like headdress. He is shown in profile, looking to the left. His wavy hair and beard are visible. He is draped in flowing robes. To his left, a portion of an architectural structure, possibly a niche or a decorative element, is visible. To his right, a patterned background suggests foliage or grapes, and a small architectural element resembling a capital or a small tower is present. The overall style is that of a woodcut or engraving, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "This image likely represents a prophet or a biblical figure, possibly from the Old Testament, given the attire and beard. Without further context or accompanying text, a specific identification is difficult, but the depiction aligns with common representations of figures like Isaiah or Jeremiah in medieval art.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "capital"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0028/5573,3828,332,639/full/0/default.jpg"
+}

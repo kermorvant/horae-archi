@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A haloed female figure, identified as Saint Margaret of Antioch, kneels in prayer, holding a cross. She is depicted with long, flowing hair and is dressed in a simple robe. To her left, a monstrous creature, likely a dragon or a demon in disguise, is shown with its mouth open, biting at a cloth. The background is filled with a dotted pattern, suggesting a celestial or spiritual realm. Above the figure, an architectural element resembling an arch frames the scene, with decorative elements on either side. The presence of the dragon is a key iconographic element associated with Saint Margaret's legend.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0081/984,726,424,628/full/0/default.jpg"
+}

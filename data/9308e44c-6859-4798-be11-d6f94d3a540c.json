@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two haloed figures, likely saints or martyrs, stand facing forward. They are adorned in elaborate robes, one white with a pattern of black ermine-like markings and the other a patterned fabric. Both figures hold palm fronds, symbols of martyrdom, and books. The background features a decorative, grid-like pattern within an arched frame, suggesting an interior setting or a symbolic representation of a sacred space. The floor is tiled in a diamond pattern. The figures' poses and attributes suggest a devotional context, possibly representing saints honored in a Book of Hours.",
+    "scene_interpretation": "Saints with Palms",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f177/978,377,787,1180/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ, set within an arched architectural structure that opens to a landscape view. Christ, with a halo, is bound to a central column, his body showing marks of scourging. Several figures surround him: one in blue and gold attire appears to be a guard, another in green holds a whip, and others in purple and green are shown striking Christ with rods. A figure in red is on his knees, sweeping the floor. The background reveals a city with towers and buildings, viewed through arcades supported by columns.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "arcade",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_4%2F1945_65_4_jp2.zip%2F1945_65_4_jp2%2F1945_65_4_0033.jp2/5293,1817,4610,8089/full/0/default.jpg"
+}

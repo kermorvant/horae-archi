@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a single male figure, likely a saint or prophet, within an architectural frame. He has a beard and wears a cap. His hands are clasped, holding a book or scroll. The figure is rendered in a stylized, linear fashion, characteristic of woodcut illustrations. The surrounding frame features decorative elements resembling foliage and Gothic tracery, suggesting a religious context, possibly an initial or border from a Book of Hours.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0081/3898,1063,287,2130/full/0/default.jpg"
+}

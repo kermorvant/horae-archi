@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Christ in Majesty, seated on a throne with a rainbow arc behind him, holding a blue orb representing the world. He is surrounded by two trumpeting angels. Below, the Virgin Mary and Saint John the Evangelist kneel in prayer. In the foreground, figures emerge from open graves, some with hands clasped in prayer, suggesting the resurrection of the dead. The setting is a green landscape with stylized trees and a blue sky, framed by an ornate border.",
+    "scene_interpretation": "The Last Judgment",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vs234vd4916%2FW195_000160_1200/4887,1135,3455,5282/full/0/default.jpg"
+}

@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a royal court setting where a king, seated on a throne, gestures towards a supplicant kneeling before him. The king is adorned in regal attire, including a jeweled crown and a rich robe. The kneeling figure, an old man with a beard, looks upwards with outstretched hands, seemingly pleading. He is dressed in a simple tunic and blue cloak. Around them, a crowd of courtiers, guards, and attendants are present. Some guards are armed with halberds and wear helmets. To the left, a woman in a white headdress and a man in a red tunic are also present, with other figures in the background. The architecture features a grand hall with arches, columns, and a richly decorated tapestry behind the throne. The floor is tiled in a geometric pattern. A small dog on a leash is visible in the foreground.",
+    "scene_interpretation": "The scene likely represents a plea for justice or mercy, possibly depicting a biblical or historical event where a subject appeals to a ruler. Given the context of a Book of Hours, it could also be an allegorical representation of prayer and divine judgment, with the king symbolizing God or Christ, and the kneeling figure representing a sinner seeking forgiveness.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "roof",
+        "canopy",
+        "door",
+        "stairs"
+    ],
+    "persons": [
+        "King",
+        "Supplicant"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502694t/f164/81,77,3434,4882/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a simple architectural structure, possibly a stable. On the left, the Virgin Mary, with a halo, cradles the Christ Child, who also has a halo. To the right, three kings, distinguished by their crowns, approach. One king kneels, presenting a chalice filled with what appears to be gold coins. Another king stands, holding a lantern-like object, and the third king, also standing, holds a similar object. The background features a checkered floor and a wooden roof structure. The overall scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f67/1113,304,866,1290/full/0/default.jpg"
+}

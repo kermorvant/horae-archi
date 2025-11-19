@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and wearing a blue mantle, cradles the Christ Child. Before them kneels a figure in a dark robe, possibly representing a king or a devout observer. To the left, a young boy in white attire holds a chalice and a green disc. To the right, two figures, one in a red robe and blue hood, and another in a patterned robe and hat, approach. The background features a golden tapestry and an open architectural structure with visible wooden beams and a blue sky beyond. A small, ornate vessel sits on the ground in the foreground.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525011578/f178/283,151,414,637/full/0/default.jpg"
+}

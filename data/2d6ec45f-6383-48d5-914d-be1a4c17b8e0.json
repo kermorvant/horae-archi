@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, adorned with a golden halo and a richly patterned golden robe over a blue mantle, standing in a verdant landscape. She holds an open book in her left hand. At her feet, a small, crowned figure with an expressive face looks upwards. In the background, stylized trees and a rocky outcrop are visible against a blue sky. The overall impression is one of serene devotion, with the Virgin Mary as the central figure of contemplation.",
+    "scene_interpretation": "The Virgin Mary holding a book and standing in a landscape, with a crowned child at her feet, is a common iconography for the Virgin Mary as the Mother of God, or possibly representing a specific moment of her life or a devotional theme related to her role in salvation history. The crowned child could represent Christ Child, or potentially a symbolic representation of royalty or divine authority.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_269/DEPOT/710146101_269_0158/1497,727,1421,1979/full/0/default.jpg"
+}

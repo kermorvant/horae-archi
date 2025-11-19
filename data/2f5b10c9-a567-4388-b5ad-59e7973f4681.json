@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A female saint, identifiable by her halo and crown of thorns, stands in a landscape. She wears a black mantle over a white habit and holds a red heart in her left hand and a purple book in her right. At her feet, a horned demon lies defeated. The background depicts rolling hills and a blue sky, with a low wall and trees in the middle ground. The scene likely represents a saint's triumph over temptation or her devotion to divine love.",
+    "scene_interpretation": "Saint's Triumph over Temptation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f372/867,926,1074,1842/full/0/default.jpg"
+}

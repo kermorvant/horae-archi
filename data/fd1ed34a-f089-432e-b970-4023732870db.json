@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure, likely a saint or a royal personage, standing triumphantly over a lion. This figure wears a crown, a blue tunic with fur trim, green hose, and a royal mantle lined with ermine. They hold a sword in their right hand and a helmet in their left. To the left, an angel with green wings and a green robe plays a harp. To the right, another angel with red and green wings and a blue robe plays a lute. The background is a rich tapestry of gold squares interspersed with blue and green, bordered by a wavy blue band with gold stars. The floor is tiled in a red diamond pattern. The overall impression is one of divine victory and heavenly celebration.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint George",
+        "Angel",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fx476tb0662%2FW186_000573_1200/767,1679,1810,2591/full/0/default.jpg"
+}

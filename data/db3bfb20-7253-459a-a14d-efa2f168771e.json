@@ -1,0 +1,12 @@
+{
+    "scene_description_enriched": "A group of four men are depicted, kneeling or seated, with their hands clasped in prayer. They are dressed in simple robes. The man on the far left looks upwards with his hands joined. The man next to him also looks upwards, with his hands in a similar praying gesture. The third man from the left has a stern expression and looks forward. The man on the far right has his arms crossed and looks to the side. The scene appears to be set in an unspecified location, possibly outdoors or in a simple interior, with no discernible architectural features.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00032/1210,2668,700,714/full/0/default.jpg"
+}

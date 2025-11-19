@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "An angel, depicted with golden wings and a halo, descends from the sky, holding a scroll that reads \"Gloria in excelsis Deo\" (Glory to God in the highest). Below, in a pastoral landscape dotted with sheep, three shepherds are shown. One shepherd, with a long grey beard and wearing a blue robe and red hood, gestures upwards with his right hand. Another shepherd, in a red tunic and black hat, looks up with an astonished expression. A third figure, in a blue robe and green scarf, also looks upwards, shielding his eyes. In the background, a town with numerous towers and spires is visible, along with a river on which a boat sails. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/555797/1117,442,1730,2279/full/0/default.jpg"
+}

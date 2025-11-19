@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "In the foreground, a man in a blue tunic and red hose, wearing a helmet, is in the process of attacking another person lying on the ground, who is draped in a pink garment. The attacker holds a sword. Behind a wooden fence, a building with a red tiled roof and gabled dormers is visible, along with other houses. In the middle ground, on a grassy hill, two figures are depicted, one kneeling and holding a child, while another figure stands behind them. Further in the background, a path leads to a tower-like structure on a hill. A woman and child observe the scene from a small, open-sided structure on the right.",
+    "scene_interpretation": "The scene appears to depict an act of violence or aggression, possibly related to a narrative from the Old Testament or a secular story. The presence of a kneeling figure with a child and another figure attacking them could allude to a story of abduction, assault, or a dramatic conflict. Without further context, a precise biblical or devotional interpretation is difficult, but it evokes themes of peril and protection.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof",
+        "gable",
+        "wall",
+        "fortification_wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/16032502/1870,456,1176,1957/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Assumption of the Virgin Mary, who is shown ascending into heaven, crowned and with hands clasped in prayer, surrounded by a golden halo and a fiery mandorla. Below her, a small angel with green wings holds a rosary. A group of male figures, likely apostles, gaze upwards in awe. One figure on the right, possibly Saint Peter, holds keys and a book, while another to his left holds a book. The figures are set against a blue sky with scattered gold stars, and the ground below is depicted as a golden mound. The scene is framed by decorative borders with floral motifs and gold leaf.",
+    "scene_interpretation": "Assumption of the Virgin Mary",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jt855sc2143%2FW289_000166_1200/4396,701,4718,5876/full/0/default.jpg"
+}

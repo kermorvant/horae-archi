@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The Virgin Mary, in a blue mantle, cradles the body of Christ, who is shown with wounds from the crucifixion. To her left, another figure, likely Mary Magdalene, supports Christ's head. To the right, a man in a blue robe and a distinctive hat holds a vessel, possibly for anointing or collecting blood. In the background, a stylized city with towers and spires is visible, set against a green, hilly landscape. A large wooden cross dominates the upper portion of the scene, framing the figures.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "cross",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/555732/504,307,1635,2350/full/0/default.jpg"
+}

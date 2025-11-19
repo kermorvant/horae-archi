@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a sick person lying in a bed, attended by a cleric in a blue robe who holds a candle and appears to be administering last rites or offering comfort. Behind the cleric, three other figures, likely mourners or attendants, stand with hands clasped in prayer or sorrow. Above, two angels are shown descending, holding a shroud or blanket, possibly to receive the soul of the dying person, while a small, praying figure, perhaps representing the soul or a saint, is positioned between them. The background is richly decorated with gold leaf and intricate patterns, suggesting a devotional context.",
+    "scene_interpretation": "The Last Rites / Deathbed Scene",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Cleric",
+        "Mourner",
+        "Angel",
+        "Praying figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.22%2F114_B.11.22_f055v.jp2/1195,572,1148,1267/full/0/default.jpg"
+}

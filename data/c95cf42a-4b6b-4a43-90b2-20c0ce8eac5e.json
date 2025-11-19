@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a throne, holding the Christ Child. To her left stands Saint John the Baptist, holding a lamb and a book. To her right, a crowned female saint reads from a book. In the foreground, a kneeling man in clerical attire, possibly a bishop due to the mitre and crozier visible on the coat of arms, and a kneeling woman in a red dress and black veil are shown in supplication before the Virgin and Child. The background features an architectural setting with decorative elements, suggesting an interior space. The presence of the Virgin and Child, along with saints and devotional figures, points to a religious context, likely a devotional scene or a representation of the Holy Family with intercessors and patrons.",
+    "scene_interpretation": "Madonna and Child with Saints and Donors",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/pr444bb2006%2FW292_000044_1200/3063,835,6369,9040/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A male figure, identified as a bishop by his mitre and crozier, stands in a verdant landscape. He is clad in a white alb, a green chasuble, and an orange cope adorned with blue trim and gold embroidery. His right hand is raised in a gesture of blessing, while his left hand holds a golden crozier. The background features a decorative pattern of gold motifs on a red ground, suggesting a stylized, perhaps heavenly, setting. The lower portion of the image depicts a green grassy area with stylized yellow plants.",
+    "scene_interpretation": "Saint in episcopal vestments",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f232/903,1066,1372,1330/full/0/default.jpg"
+}

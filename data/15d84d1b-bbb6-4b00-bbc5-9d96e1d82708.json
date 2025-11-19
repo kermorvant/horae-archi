@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, seated and holding the Christ Child, who is reaching for an apple offered by his mother. The Virgin Mary is dressed in a blue mantle and gown, with a golden patterned tapestry behind her. Above them is a red canopy adorned with gold lettering and fringe. To the right, a man in a black robe with his hands clasped in prayer gazes towards the Virgin and Child. Behind the figures are windows with diamond-shaped panes, suggesting an interior setting. The overall impression is one of a devotional scene, likely a private prayer or contemplation.",
+    "scene_interpretation": "Madonna and Child with a Donor",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0082/DEPOT/M601415401_MS0082_0043/3974,554,1682,2462/full/0/default.jpg"
+}

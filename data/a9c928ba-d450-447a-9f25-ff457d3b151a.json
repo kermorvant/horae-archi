@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ, with a crown of thorns, is being lowered from a wooden beam by several figures. One man in an orange tunic holds a hammer and rope, assisting in the descent. Another man in a red tunic kneels and supports Christ's legs. A crowd of onlookers, some on horseback, are gathered around, observing the event. In the background, a fortified city with towers and a spire is visible, along with a ladder leaning against a wooden structure, possibly a remnant of the crucifixion. The scene is framed by an ornate golden archway, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower",
+        "ladder"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f252/1465,989,2636,3960/full/0/default.jpg"
+}

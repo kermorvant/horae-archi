@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A woman, dressed in a dark gown and veil, kneels with her hands clasped in prayer before an open book placed on a green-covered table. The book displays musical notation. Behind her, a bed with red drapery and a dark, possibly wooden, structure is visible. The background appears to be a brick wall. The scene is framed by decorative architectural elements on the left and right, featuring gold leaf and blue panels with stylized motifs. The overall setting suggests a private devotional space within a domestic or monastic context.",
+    "scene_interpretation": "Devotional Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52507466f/f22/333,573,2210,2878/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A young woman with a halo stands in a dark, stylized landscape. She wears a long dress and cloak, and her hands are held in a gesture of contemplation or prayer. To her left, a small, square tower with battlements is depicted. To her right, a stylized tree or plant is visible. The background is dark and textured, with faint decorative elements. The scene is framed by a decorative border at the top and bottom, featuring floral motifs. This scene likely depicts a female saint, possibly Saint Barbara, given the presence of the tower, a common attribute associated with her martyrdom.",
+    "scene_interpretation": "Saint Barbara",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "battlement"
+    ],
+    "persons": [
+        "Saint Barbara"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f374/2355,372,868,1333/full/0/default.jpg"
+}

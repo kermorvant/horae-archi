@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A female figure, identified as Saint Mary Magdalene by her attribute, kneels with her hands clasped over her abdomen. She wears a blue tunic and a red cloak, and a golden halo encircles her head. In her right hand, she holds a golden vessel, possibly an ointment jar. The background depicts a stylized green landscape with hints of architectural structures in the distance, suggesting an outdoor setting. The scene is likely a devotional representation of Saint Mary Magdalene, emphasizing her penitence and devotion.",
+    "scene_interpretation": "Saint Mary Magdalene",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_INCRIA063/DEPOT/B721816101_INCRIA063_0078/3509,467,576,801/full/0/default.jpg"
+}

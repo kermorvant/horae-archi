@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts three bearded men in conversation, set against a backdrop of rudimentary architectural elements. Two men on the left are adorned with crowns and wear elaborate armor or ceremonial dress. The man in the center, also crowned, points with his right index finger towards the third man on the right. This third man, wearing a hat and a draped garment, holds a staff and appears to be speaking or gesturing. The architectural elements suggest an interior setting, possibly a hall or chamber, with decorative arches and what might be crenellated structures above.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Magi"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0090/1003,481,639,1203/full/0/default.jpg"
+}

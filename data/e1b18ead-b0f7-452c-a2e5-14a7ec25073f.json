@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, bound to a column, is shown covered in blood, with wounds visible on his body. Two tormentors are actively scourging him. The figure on the left, dressed in a red and blue tunic, holds a bundle of rods and appears to be spitting. The figure on the right, wearing a white tunic and red hose, wields a whip with barbed ends. The setting is an interior space with a tiled floor and a large column supporting a circular window with tracery. The overall impression is one of intense suffering and brutality.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_130%2Flewis_e_130_jp2.zip%2Flewis_e_130_jp2%2Flewis_e_130_0102.jp2/1480,1371,2344,3831/full/0/default.jpg"
+}

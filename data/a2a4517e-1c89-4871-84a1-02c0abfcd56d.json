@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an interior setting, suggested by the presence of architectural elements like a wall and possibly a doorway or archway in the background. In the foreground, three central figures are prominent. On the left, a woman with long hair and a headdress is shown, her hands clasped. To her right, a bearded man wearing a tall, ornate headdress, possibly a bishop's mitre, stands with his hands crossed over his chest. Between them, and slightly to the right, another figure, likely a man, is depicted with his hands clasped with the woman's. He wears a crown or coronet and a cloak adorned with circular motifs. Other figures are visible in the background, their faces partially obscured. The overall impression is one of a formal gathering, possibly a ceremony or a significant event involving these individuals.",
+    "scene_interpretation": "Marriage Ceremony",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Bishop",
+        "Bride",
+        "Groom"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0049/790,469,601,1253/full/0/default.jpg"
+}

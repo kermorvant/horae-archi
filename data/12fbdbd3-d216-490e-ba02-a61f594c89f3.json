@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary. Christ, seated on a throne and holding a golden orb, blesses the kneeling Virgin Mary. Above them, an angel descends, holding a golden crown to place upon Mary's head. Four attendant virgins, with hands clasped in prayer, stand behind Mary, looking upwards. The background features a starry blue sky and architectural elements suggesting a celestial or heavenly setting, with ornate golden structures and drapery.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/AARB/AARB%2000002/AARB_00002_IMG_080v.jpg/899,832,1535,2624/full/0/default.jpg"
+}

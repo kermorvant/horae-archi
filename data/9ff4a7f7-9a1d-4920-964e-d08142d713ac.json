@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, an angel, likely Gabriel, points towards the Virgin Mary on the right. The angel wears a reddish-brown robe and has red lips and blonde hair. The Virgin Mary, clad in a blue mantle and a gold-patterned dress, is shown with her hands clasped in prayer and her head bowed, her expression conveying humility and acceptance. Above and behind the angel, a white dove, representing the Holy Spirit, descends with rays of light. The background suggests an architectural setting with a golden arch and drapery, hinting at a divine or sacred space.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0009/858,2052,485,892/full/0/default.jpg"
+}

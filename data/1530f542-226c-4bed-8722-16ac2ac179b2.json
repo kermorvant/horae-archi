@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, dressed in blue, holds the Christ Child, who is looking towards the viewer. They are accompanied by a woman in red carrying a basket, likely representing a supplicant or follower. Facing them is an elderly man with a beard, possibly Simeon, dressed in rich robes, and another figure in a red cap. They stand before a stone building with a large, ornate window and niches containing statues. The architecture suggests a religious building, possibly a church or temple, with Gothic stylistic elements. The background shows a blue sky and a lone green tree against a red wall.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "niche",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550085652/f149/543,90,1131,1638/full/0/default.jpg"
+}

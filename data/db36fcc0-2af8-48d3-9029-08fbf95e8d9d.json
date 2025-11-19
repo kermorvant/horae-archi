@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and crozier, stands in the foreground, blessing. He wears a blue cope adorned with gold dots and a red undergarment. To his left, three young boys are depicted kneeling in a wooden tub, their hands clasped in prayer. The background features a decorative gold and red diamond pattern, suggesting an interior setting, possibly within a church or a richly adorned room. The scene likely depicts a saint associated with the protection or martyrdom of children.",
+    "scene_interpretation": "Martyrdom of Saint Nicholas",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100224243/f426/615,166,1032,1359/full/0/default.jpg"
+}

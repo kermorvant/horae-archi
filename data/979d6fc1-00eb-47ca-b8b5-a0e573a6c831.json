@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a divine figure, likely God the Father, holding a cross with Christ crucified upon it. A dove, representing the Holy Spirit, is shown near Christ's head. To the left, a kneeling figure in an orange robe, presumably a supplicant or donor, is shown with hands clasped in prayer before an open book. The background is a rich blue with an intricate pattern of foliage. The figures are positioned in a space that suggests an altar or a sacred setting, with a simple architectural element supporting the cross.",
+    "scene_interpretation": "The Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "altar"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f405/352,573,767,869/full/0/default.jpg"
+}

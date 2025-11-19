@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ, wearing a crown of thorns and a loincloth, is nailed to a cross. His body is covered in wounds. Two figures, dressed in red and blue tunics, are actively nailing his hands and feet with hammers. Behind Christ, a man in a golden robe with a blue hat and a long beard stands, gesturing with his hands. To his left, another figure in a green tunic holds a pole with an axe-like weapon. The setting is an outdoor landscape with a hilly terrain and a pale blue sky with some clouds. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_130%2Flewis_e_130_jp2.zip%2Flewis_e_130_jp2%2Flewis_e_130_0122.jp2/1386,1042,2369,4185/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation over the dead body of Christ. Christ's body, pale and marked with wounds, lies on a white shroud atop a stone sarcophagus. He is attended by several figures: the Virgin Mary, dressed in blue, cradles his head with a sorrowful expression; John the Evangelist, in red, looks on with hands clasped in prayer; another figure, possibly Nicodemus, stands to the left holding a vessel, perhaps for anointing; and an older man, likely Joseph of Arimathea, stands to the right, his hand resting on Christ's body. The background is a simple landscape with rolling green hills under a pale blue sky. The sarcophagus itself is decorated with carved arches.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "John the Evangelist",
+        "Nicodemus",
+        "Joseph of Arimathea"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/16032398/1851,769,755,666/full/0/default.jpg"
+}

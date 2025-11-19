@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A group of seven women, each with a golden halo, are depicted in a stylized interior setting. The central figures are two women, one in a golden dress with a blue mantle, and another in a richly patterned red robe holding a staff. To their left, three women are dressed in purple and red. To their right, two women are dressed in pink and purple. Behind the central figures, a small, ornate architectural structure resembling a tower or shrine is visible. The background is a red cross-hatched pattern, suggesting an interior space. The scene likely represents a devotional or biblical narrative involving holy women.",
+    "scene_interpretation": "The presence of golden halos and the depiction of multiple women in a group, along with the architectural element, strongly suggests a scene from the life of a saint or a biblical event involving female figures. Without further context, it is difficult to pinpoint the exact event, but it could represent a gathering of holy women, such as the Holy Women at the Sepulchre, or a scene from the life of the Virgin Mary with her attendants or other female saints.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kr986bn6539%2FW215_000146_1200/3981,2345,2655,1800/full/0/default.jpg"
+}

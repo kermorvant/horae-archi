@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A woman, depicted with a head covering and a long, draped garment, is seated and cradling a small animal, possibly a lamb or a dog, in her arms. To her right, a flowering plant with multiple blooms is shown in a vase. The scene is framed by decorative architectural elements, suggesting an interior setting. The presence of the animal and the flower, often symbolic, points to a devotional or allegorical representation.",
+    "scene_interpretation": "Penitent Magdalene",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "undefined_element"
+    ],
+    "persons": [
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0049/2603,3432,333,449/full/0/default.jpg"
+}

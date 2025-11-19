@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a beard, dressed in a blue robe, kneeling in prayer on a grassy bank beside a body of water. His hands are clasped in front of him, and he looks upwards. In the background, across the water, a town with several buildings, including a church with a spire, is visible. Further in the distance, a rocky, golden formation rises from the water. Above the town and landscape, in a celestial realm depicted with a blue sky and clouds, a figure, likely Christ, is seated, also with a halo and looking downwards. The overall scene is framed by an ornate, gilded arch.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f494/1138,1553,793,2364/full/0/default.jpg"
+}

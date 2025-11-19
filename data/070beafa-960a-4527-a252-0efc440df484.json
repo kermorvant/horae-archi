@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A female saint, identified by a halo and holding a book and a sword, is depicted in a landscape. She wears a blue gown and a red cloak. The background features rolling green hills dotted with trees and a distant city with towers. The saint's gaze is directed downwards towards the open book in her lap. The halo above her head is adorned with small floral motifs. The sword, a symbol of martyrdom, rests across her lap, its hilt visible. The overall scene evokes a sense of contemplation and devotion.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154676/f251/189,430,837,910/full/0/default.jpg"
+}

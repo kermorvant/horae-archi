@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a red tunic and white hose, stands in water, holding a long staff. He is enveloped in a large blue cloak adorned with gold patterns. A haloed child, wearing a pink garment, is seated on the man's shoulders, with one hand resting on the man's head and the other holding something white. The background depicts a hilly landscape with scattered trees and a city with spires and towers in the distance. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "The scene likely depicts Saint Christopher carrying the Christ Child across a river. Saint Christopher is traditionally shown as a giant who ferried people across a dangerous river, and one day he carried a child who revealed himself to be Christ.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Saint Christopher"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100224243/f419/325,155,1057,1402/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely representing God the Father, holding a crucified Christ. The figure is draped in a blue robe and has a halo with radiating lines. Behind the figure is a dark background adorned with a repeating pattern of stylized floral motifs in gold and orange. Below the figures, there is a light-colored architectural element resembling a balustrade or altar, with arched openings. The overall composition is framed by decorative borders.",
+    "scene_interpretation": "The Pietà, specifically the Trinity in the form of God the Father holding the crucified Christ, symbolizing the sacrifice of Christ for humanity.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://images.lib.cam.ac.uk/iiif/MS-II-00006-00002-000-00026.jp2/1621,2354,2343,3642/full/0/default.jpg"
+}

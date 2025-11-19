@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, framed by an arched architectural element adorned with foliage. Christ is shown on the cross, wearing a crown of thorns, with the inscription \"INRI\" above him. To the left, the Virgin Mary stands with her hands clasped in prayer, her face conveying sorrow. Behind her, another female figure is partially visible. To the right, a group of men, some wearing hats, observe the scene. One man, possibly a Roman soldier or official, is depicted on horseback, looking towards Christ. The background is a simple, textured landscape.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034545r/f113/2894,438,935,1340/full/0/default.jpg"
+}

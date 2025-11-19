@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered indoors, with the Virgin Mary at the center, looking upwards. She is surrounded by several male figures, some of whom are also looking upwards. One figure kneels in prayer before an open book on a lectern, while another sits and reads from a book. Above and to the right, a dove descends, radiating golden light, symbolizing the Holy Spirit. The architectural setting is suggested by arches and columns, with a hint of an exterior landscape visible through an opening. This scene is interpreted as the Pentecost, the descent of the Holy Spirit upon the Apostles and the Virgin Mary.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kx876df8760%2FW184_000052_1200/3439,1868,2103,3310/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, wearing a crown of thorns and a blue and gold robe, carrying a large wooden cross. He is shown from the chest up, with his head bowed in exertion. To his left, a man with a white beard and hair, possibly Simon of Cyrene, also grips the cross. Behind Christ, two women are visible: one with auburn hair and a golden robe, and another, the Virgin Mary, wearing a blue mantle and white veil, her hands clasped in sorrow. The background is a stylized representation of a body of water with vertical lines suggesting rain or spears, and a grey architectural structure with arched openings.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_008v.jp2/1049,463,1523,2069/full/0/default.jpg"
+}

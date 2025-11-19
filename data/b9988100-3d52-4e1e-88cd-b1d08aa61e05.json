@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Three figures are depicted in a field of dry stalks, likely representing a harvest or post-harvest scene. The figure on the left, dressed in green and pink, carries a large bundle of sticks or branches on their shoulders. The central figure, in a light purple tunic and blue leggings, appears to be working with their hands, possibly gathering or examining something from the ground. The figure on the right, wearing pink and green, holds a stick and looks down. In the background, a town with buildings and a prominent church spire is visible under a pale blue sky. The scene likely represents agricultural labor, possibly a month from a calendar cycle of the seasons.",
+    "scene_interpretation": "Agricultural Labor",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "church",
+        "house"
+    ],
+    "architectural_elements": [
+        "spire",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3770/Vat.lat.3770_0007_fa_0001r.jp2/529,248,1451,892/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a female saint, identifiable by her halo, holding an open book and a white staff with a red tip. She is dressed in a blue tunic and a golden-brown mantle. To her left, a figure in a pink garment holds a small, brown, demonic-looking creature suspended by a white cord, which is being struck by the staff held by the saint. In the background, a walled city with towers and buildings is visible, suggesting an urban setting. To the right of the saint, a lush green bush with red berries and golden accents is depicted. The overall scene suggests a narrative of spiritual triumph over evil.",
+    "scene_interpretation": "Martyrdom of a Female Saint",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_107v.jp2/2236,962,1915,2173/full/0/default.jpg"
+}

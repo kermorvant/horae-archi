@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man with long hair, dressed in a blue tunic and a red cloak, sits outdoors with his legs crossed. He is looking upwards and holding a small object in his right hand. To his left, a shoe lies on the ground. In the upper right portion of the image, a blue, monstrous figure with a beard and flowing hair emerges from a dark, rocky landscape, reaching out towards the man. The background consists of stylized trees and foliage, suggesting a natural setting. This scene likely depicts David in the wilderness, possibly during his persecution by Saul, or a moment of divine inspiration or confrontation.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0020/1642,926,740,1228/full/0/default.jpg"
+}

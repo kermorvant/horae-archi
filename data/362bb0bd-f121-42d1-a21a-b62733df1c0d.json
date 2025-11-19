@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier (partially visible), stands in profile, gesturing with his right hand. He is robed in a rich, gold-trimmed crimson garment. Before him kneels a figure in a blue tunic and white head covering, with hands clasped in prayer. The background depicts a stylized landscape with rolling green hills and a bright blue sky. The scene is framed by an ornamental border.",
+    "scene_interpretation": "The scene likely depicts a bishop bestowing a blessing or performing a rite upon a supplicant. Given the context of a Book of Hours, this could represent a saintly figure interacting with a devotee, or a moment of spiritual guidance.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop",
+        "Supplicant"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0010/820,2962,477,927/full/0/default.jpg"
+}

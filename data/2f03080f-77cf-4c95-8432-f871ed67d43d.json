@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, likely an apostle or saint, is depicted holding an open book. He is dressed in a draped robe and has a halo, indicating his sanctity. The background shows a landscape with trees and a building, possibly a castle or tower, in the distance. The scene appears to be a devotional portrait of a biblical figure.",
+    "scene_interpretation": "Saint holding a book",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00365/392,509,306,329/full/0/default.jpg"
+}

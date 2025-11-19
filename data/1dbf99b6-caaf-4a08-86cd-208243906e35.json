@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body showing signs of suffering. A scroll with text is draped over the cross. To the left, the Virgin Mary, clad in a blue mantle, stands with her hands clasped, accompanied by another figure. To the right, a man in a red and yellow robe points upwards and gestures, seemingly addressing Christ, while other figures stand behind him. The background features a green, hilly landscape with distant architectural structures, possibly a city or town, under a blue sky dotted with stars and a crescent moon.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0022/DEPOT/B441096101_MS0022_0177/3679,617,1294,1852/full/0/default.jpg"
+}

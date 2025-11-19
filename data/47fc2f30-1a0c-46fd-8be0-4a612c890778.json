@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael the Archangel, clad in golden armor and a crimson cloak, standing over a defeated red demon. He holds a sword in his right hand, poised to strike, and a blue shield emblazoned with gold fleurs-de-lis in his left. Behind him, a body of water is visible with several boats, suggesting a coastal or maritime setting. The scene is framed by ornate golden architectural elements, including columns and what appear to be decorative arches, suggesting it is an illuminated manuscript illustration.",
+    "scene_interpretation": "Saint Michael the Archangel",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch"
+    ],
+    "persons": [
+        "Saint Michael the Archangel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515740c/f285/297,1100,849,753/full/0/default.jpg"
+}

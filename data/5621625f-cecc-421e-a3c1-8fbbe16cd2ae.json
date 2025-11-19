@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Virgin Mary, dressed in blue and with a halo, is seated with her hands crossed over her chest, looking downwards at an open book placed on a dark lectern. Behind her is a red curtain with gold ornamentation. To the right, the Angel Gabriel, adorned in a red robe and with large blue wings, kneels and gestures towards Mary. Above Gabriel, a dove, representing the Holy Spirit, descends. The figures are framed by an arched architectural structure with gold detailing, suggesting an interior space, possibly a room or a chapel.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/1034899/1034306.tif/423,444,748,1060/full/0/default.jpg"
+}

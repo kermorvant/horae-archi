@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two nude figures, likely Adam and Eve, stand facing each other, holding hands. They are depicted in a garden setting with foliage and a patterned background that could represent a fence or trellis. The figures are rendered in a stylized, medieval manner, with simple features and proportions. The scene is enclosed within a circular frame, suggesting a medallion or miniature within a larger work.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f10/658,982,371,431/full/0/default.jpg"
+}

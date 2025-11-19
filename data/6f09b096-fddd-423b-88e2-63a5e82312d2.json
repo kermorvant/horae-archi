@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A lone figure, likely a scholar or cleric, stands in a grassy landscape, holding an open book. The figure wears a red robe with gold trim over a blue tunic and a blue head covering. Behind the figure, a fortified castle with multiple towers and crenellations is depicted. The setting suggests a journey or contemplation taking place in proximity to a significant structure.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "battlement",
+        "crenellation",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN321296575/files/images/00000051.tif/446,1801,644,801/full/0/default.jpg"
+}

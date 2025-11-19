@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a wooden stable structure. The Virgin Mary, with a halo, is kneeling with her hands clasped in prayer, gazing downwards. Beside her stands an older man, likely Saint Joseph, also with hands in prayer and a halo. In the foreground, the Christ Child lies in a manger, also with a halo. To the left, a donkey and an ox are visible, their heads turned towards the manger. Behind them, a group of figures, possibly shepherds or soldiers, are looking into the stable from behind a wooden barrier. A star shines brightly in the upper left corner, illuminating the scene. The architectural elements are rudimentary, suggesting a humble setting for the birth of Christ.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46241860.tif/1104,421,1602,2470/full/0/default.jpg"
+}

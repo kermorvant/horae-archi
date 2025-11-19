@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in royal attire with a blue and green striped robe and a fur-trimmed collar, kneels with his hands clasped in prayer. Before him lies a crown on a cushion, and to his left, a harp. He looks upwards towards a divine figure depicted within a celestial orb, radiating golden light. The scene appears to be set within an architectural structure, suggested by an ornate archway and a draped tapestry with a fleur-de-lis pattern. Beyond the architecture, a landscape with trees and a body of water is visible, with distant buildings. The overall impression is one of supplication and divine communication.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000004/MAA_00004_077.jpg/2112,368,727,1038/full/0/default.jpg"
+}

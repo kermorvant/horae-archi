@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Christ carrying the cross, accompanied by several figures. Christ, in a blue robe, bears the heavy wooden cross on his shoulders, his head bowed and haloed. He is chained by the wrist to a soldier in green. To his left, a woman in a blue mantle, presumably the Virgin Mary, with a halo, reaches out towards him, accompanied by another figure in red. Behind Christ, several soldiers in helmets and varied attire, some carrying weapons, follow. To the left, a pink building with arched openings and columns suggests an urban setting. The ground is grassy, and the sky is a deep blue with scattered stars and a red banner flying from a pole.",
+    "scene_interpretation": "The Procession to Calvary",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515743q/f349/418,530,1010,1187/full/0/default.jpg"
+}

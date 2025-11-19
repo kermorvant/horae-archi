@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men, identifiable as kings by their crowns and rich attire, gathered in prayer. They are positioned in the foreground, with their hands clasped in devotion. Behind them, a lush green landscape unfolds, featuring two tall trees and rolling hills. In the distance, a body of water is visible with a small boat, and beyond that, a majestic castle with spires dominates the horizon under a blue sky with scattered clouds. The entire scene is framed by an ornate, golden archway, suggesting a devotional or ceremonial context.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "King",
+        "King",
+        "King",
+        "King",
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f160/1386,1479,768,2462/full/0/default.jpg"
+}

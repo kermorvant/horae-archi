@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts two haloed figures within an architectural setting. On the left, a figure in a pink robe with gold trim kneels, hands clasped in prayer. Facing them on the right is a figure in a vibrant blue robe, also haloed, holding an open red book and gesturing with clasped hands. Behind them, a red, star-studded vaulted ceiling is visible, supported by columns. The background features arched windows with tracery. The overall impression is one of devotion and religious contemplation, likely depicting a scene from the life of a saint or a biblical narrative.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "window",
+        "tracery_window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0109/utp-0109_021r.jp2/1445,596,2102,3608/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of three individuals engulfed in flames within a two-tiered, brick structure that resembles a furnace or pyre. Below, two figures are shown tending to the fire, one with a long pole, while another lies prostrate, possibly already deceased or being prepared for sacrifice. To the right, a group of onlookers observes the event. Prominent among them is a figure in a blue, ornate robe and a golden crown, holding a scepter, who appears to be a king or ruler. Beside him stands another figure in a pink robe and a jeweled headdress, possibly a religious or royal advisor. The background features a stylized landscape with rolling hills, trees, and distant buildings, suggesting an outdoor setting. The inscription \"nabugouenor\" is visible above the onlookers, likely referring to Nebuchadnezzar.",
+    "scene_interpretation": "The scene is likely an illustration of the biblical account of Shadrach, Meshach, and Abednego being thrown into a fiery furnace by King Nebuchadnezzar for refusing to worship his golden idol. The inscription \"nabugouenor\" (Nebuchadnezzar) strongly supports this interpretation. The figures in the furnace are depicted as martyrs, and the presence of the king and his retinue highlights the authority that commanded their punishment.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Nebuchadnezzar"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0422.jp2/2168,2122,1260,1350/full/0/default.jpg"
+}

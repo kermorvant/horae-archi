@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a central, circular altar or brazier with flames erupting from its top. This central structure is supported by a white, cylindrical base decorated with vertical fluting. Above the base, a golden, open-sided canopy is supported by slender columns. The canopy has a decorative, crenellated edge. Flanking the central structure are two smaller, basket-like containers, also filled with flames. The background is black and speckled with small, dark dots, suggesting a night sky or a void. The entire composition is framed within a circular border with a gold, scalloped edge, set against a red background.",
+    "scene_interpretation": "Sacrifice",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f392/392,247,669,643/full/0/default.jpg"
+}

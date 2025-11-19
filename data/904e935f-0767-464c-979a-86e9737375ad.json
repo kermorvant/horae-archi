@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the Virgin Mary kneeling and reaching out towards the body of Christ, who is being lowered from the cross. Christ's body is shown wounded and wrapped in a white shroud. Several figures surround them, including a man in a red robe supporting Christ's legs, another man in blue holding his upper body, and two other women in the background. Behind them, a ladder leans against a wooden cross, and a scroll with Latin text is visible at the top. The setting is an outdoor landscape with green hills and scattered trees.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0078/DEPOT/M601415401_MS0078_0103/2842,2284,1636,1095/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary enthroned, holding the Christ Child. She is crowned and seated on an ornate throne, draped in a blue mantle over a white garment. The Christ Child, also with a halo, is held in her arms. To the left, a kneeling woman in a red dress holds an open book. Above and behind the throne, two winged figures, likely angels, are depicted. One plays a harp, and the other plays a pipe. Two more angels are visible above the throne, holding a banner with Latin inscription. The throne is set on a circular platform with a patterned floor, suggesting an elevated or sacred space. The overall setting is rich and decorative, with architectural elements framing the central figures.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/b01324b8-c552-4737-b1bb-aaf92b200661/2328,1238,2618,3571/full/0/default.jpg"
+}

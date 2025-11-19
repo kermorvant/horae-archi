@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Resurrection of Christ, with Jesus emerging from a stone tomb. He is shown with a halo, wounds on his feet and side, and is draped in a pink robe. He holds a standard with a cross. Around the tomb, soldiers in armor are depicted in various states of surprise and slumber. One soldier is asleep, leaning on his spear, while another is falling backwards, dropping his weapon. A woman in a blue dress and a distinctive headdress kneels in prayer. In the background, a walled city with towers and spires is visible, suggesting a setting beyond the immediate tomb. The scene is framed by an ornate, gilded architectural border with figures at the top corners, one blowing a horn and another gesturing.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower",
+        "roof",
+        "portal"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10509406b/f44/786,476,1165,1761/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a woman kneeling with her hands clasped in prayer, wearing a crown and elaborate clothing. Behind her, three men are gathered. One man, with a beard, stands to the left, holding a flower-like object. Two other men are positioned behind him, with one whispering into the ear of the other. In the background, architectural elements suggest a town or city with buildings and towers. The presence of a spinning wheel near the kneeling woman is notable. This scene likely represents Saint Catherine of Alexandria, known for her martyrdom involving a breaking wheel and her intellectual debates with philosophers.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0085/4188,2593,632,867/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts two figures standing within a richly decorated architectural setting. The figure on the left, with a halo, wears a blue robe and a reddish-brown cloak, gesturing with their right hand. The figure on the right, also with a halo and wearing a crown, is dressed in an orange robe and a greyish-purple cloak, with their hands clasped at their chest. They are positioned within a golden, shimmering background, framed by elaborate golden architectural elements that resemble Gothic tracery and pinnacles. The architectural elements suggest a sacred or royal space, possibly a church or a palace interior, with decorative motifs of trefoils and lancet windows.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pinnacle",
+        "window",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/hf206wb9742%2FW104_000166_1200/4189,498,2907,3513/full/0/default.jpg"
+}

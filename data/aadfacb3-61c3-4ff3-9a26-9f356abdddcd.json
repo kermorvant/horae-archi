@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Resurrection of Christ. Christ, with a halo and wounds visible on his body, stands triumphantly above an open sarcophagus, holding a banner with a cross. Rays of golden light emanate from him. Around the sarcophagus, soldiers in armor are shown in various states of shock and defeat, some falling, others recoiling. An angel, with wings spread, is depicted near the sarcophagus, possibly attending to it. In the background, a landscape unfolds with hills, a body of water with boats, and a distant city. To the left, a cross is visible on a hill, and figures in white robes are present, possibly representing the women at the tomb or other witnesses.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0083/DEPOT/M601415401_MS0083_0137/1240,836,2687,3636/full/0/default.jpg"
+}

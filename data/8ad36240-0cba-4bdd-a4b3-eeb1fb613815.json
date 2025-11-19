@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Matthew, identifiable by his halo and scholarly attire, seated and writing in a large book with a quill. He is dressed in a red robe and a blue mantle. Before him is a lectern holding the book. To his right, an angel with large blue wings and a pink mantle kneels, holding a golden object that resembles a scroll or a reliquary. The setting appears to be an interior space with a richly decorated wall tapestry behind Saint Matthew. An arched opening reveals a landscape with buildings in the distance. The ceiling above is a vibrant blue with golden stars, suggesting a celestial or divine influence.",
+    "scene_interpretation": "The scene represents the Evangelist Saint Matthew writing his Gospel, inspired by divine revelation, as symbolized by the presence of the angel. This is a common depiction of the \"Evangelist Writing\" theme in Christian art.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "window",
+        "column",
+        "capital",
+        "vault"
+    ],
+    "persons": [
+        "Saint Matthew",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f39/576,318,955,1838/full/0/default.jpg"
+}

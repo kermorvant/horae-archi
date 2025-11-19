@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A procession of figures carries a lamb on a platter. The lamb is depicted lying down, with its head turned to the left. The figures are dressed in robes and caps, and some appear to be holding the platter. Behind them, an architectural structure with arches and decorative elements is visible. The scene is rendered in a woodcut style, with strong lines and hatching to create shading. This scene likely depicts a religious procession or offering, possibly related to a sacrifice or a feast day, where the lamb symbolizes Christ as the Lamb of God.",
+    "scene_interpretation": "Sacrifice of the Lamb",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0100/928,3552,601,1153/full/0/default.jpg"
+}

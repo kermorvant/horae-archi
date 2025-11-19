@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit, also known as Pentecost. A group of figures, all with golden halos, are gathered together. In the foreground, a figure in a red robe kneels before an open book. In the center, a woman in a blue robe looks upwards with her hands outstretched. Above them, rays of golden light descend from a dove, representing the Holy Spirit, which is surrounded by a radiant halo. The figures are enclosed within an architectural space, suggested by a red curtain and windows in the background. The overall impression is one of divine inspiration and spiritual fervor.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550008032/f264/542,169,542,791/full/0/default.jpg"
+}

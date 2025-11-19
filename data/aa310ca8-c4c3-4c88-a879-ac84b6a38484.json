@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of people gathered around a table, under a canopy. In the foreground, a woman in a blue robe holds a baby. A man in a red robe is presenting a basket containing birds to another man who is kneeling. Behind them, several other figures observe the scene. The background features an arched architectural structure with columns and windows, suggesting an interior setting. The overall scene appears to be a religious presentation or offering.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:42:2:wdl_14422:442_SMC_1_217v/1417,342,1224,2008/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, with a halo, kneels in prayer beside the Christ Child, who lies in a manger. A man, possibly Saint Joseph, also kneels in prayer. An ox and a donkey are present, with the ox looking towards the manger. Above, a structure with arches and columns is visible, from which angels descend, holding scrolls with inscriptions. The background is a vibrant green, suggesting a pastoral setting, and the entire scene is framed by decorative borders with gold leaf.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "roof",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/bs390xv5099%2FW270_000136_1200/4591,1075,3638,5829/full/0/default.jpg"
+}

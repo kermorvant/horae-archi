@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands in a landscape. He wears a blue robe adorned with gold floral motifs and a golden cope. His left hand is raised in a gesture of blessing or teaching, while his right hand holds the crozier. The background features rolling green hills and a lush green tree with gold accents, suggesting a natural, outdoor setting. The figure is depicted with a halo, indicating his saintly status.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_002v.jp2/4009,5903,1306,1669/full/0/default.jpg"
+}

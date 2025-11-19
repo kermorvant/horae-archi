@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two male saints, identified by their halos, are depicted. The saint on the left, wearing a blue tunic and a purple and gold mantle, holds a large key in his left hand and a red book in his right. The saint on the right, dressed in a red and gold garment, holds a sword in his right hand and a red book in his left. Both figures have grey beards and hair, and are looking upwards. The background is a simple green landscape. The scene is framed by a gold border.",
+    "scene_interpretation": "Saints Peter and Paul",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_101r.jp2/1016,1125,1457,1622/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, likely King David, kneels in prayer before an open book on a wooden table. He is richly dressed in a red tunic with gold embroidery and a blue mantle lined with ermine. To his left, a golden harp stands beside the table, and a small crown rests on a white cushion. The background features a red tapestry with a floral pattern, beyond which are green trees against a blue sky. The scene is enclosed within a decorative border typical of illuminated manuscripts.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f375/1633,1540,737,815/full/0/default.jpg"
+}

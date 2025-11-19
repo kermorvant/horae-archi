@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity, with God the Father, crowned and robed in gold and blue, seated on a throne. He holds the crucified Christ, whose body bears wounds and is draped in a white loincloth. A dove, representing the Holy Spirit, hovers between them. Surrounding them are multiple figures with blue faces and wings, likely representing angels. The figures are set against a blue background with golden rays, suggesting a divine or heavenly realm. Below the figures, a text in Latin is visible, illuminated with decorative initials.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/3093440/251,169,2261,3849/full/0/default.jpg"
+}

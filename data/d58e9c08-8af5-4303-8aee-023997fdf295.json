@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, stands on the left, holding a golden chalice containing a dark object, possibly a bird or a demon. The figure wears a pink robe over a yellow garment. To the right, a kneeling man in a blue robe adorned with gold embroidery prays before a book placed on a table draped with a blue and green cloth decorated with keys. The background features an architectural setting with arched openings and columns, suggesting an interior space. The floor is tiled with a black and white geometric pattern. The scene is framed by an illuminated border.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84528158/f15/479,129,1623,1945/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left, gesturing towards the Virgin Mary on the right. Gabriel, with long auburn hair and a halo, wears a golden robe over a white tunic and is seated. Mary, also with auburn hair and a halo, is depicted kneeling with her hands clasped in prayer, wearing a golden robe. Above them, the Holy Spirit descends as a dove, radiating light. The setting appears to be an interior space, suggested by the architectural elements such as columns, arches, and a background wall with decorative patterns. The floor is tiled. The overall scene is framed by ornamental architectural elements.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0028/DEPOT/M441095203_MS0028_0029/837,465,2233,3222/full/0/default.jpg"
+}

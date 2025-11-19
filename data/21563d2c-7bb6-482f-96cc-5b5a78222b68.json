@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint, stands within an arched opening. She wears a long blue robe and a patterned mantle, holding an open book in her left hand and a staff with a trident-like top in her right. The background is a rich red tapestry with gold ornamentation. The scene is framed by grey architectural elements suggesting an alcove or niche.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421742/1091,1181,765,750/full/0/default.jpg"
+}

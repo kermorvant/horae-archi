@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and seated, holding the Christ Child on her lap. She is surrounded by a retinue of seven female saints, also crowned and with halos, suggesting their virginity and martyrdom. The figures are positioned within an architectural setting characterized by arches and columns, with a patterned floor. In the background, a landscape with trees and hills is visible through the arches. To the right, a small, stylized building resembling a tower or a small castle is depicted. The overall composition suggests a devotional scene, likely the Madonna and Child enthroned with attendant virgins.",
+    "scene_interpretation": "Madonna and Child with Saints",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_101%2Flewis_e_101_jp2.zip%2Flewis_e_101_jp2%2Flewis_e_101_0056.jp2/1416,1416,2305,3614/full/0/default.jpg"
+}

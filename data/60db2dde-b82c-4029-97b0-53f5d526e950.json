@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two male figures, each with a halo, flanking a white dove with outstretched wings. The figure on the left, with a beard and brown hair, points with his right index finger. The figure on the right, also bearded and with brown hair, holds a cross in his left hand, which is placed on a golden orb. Both figures are draped in red cloaks over brown tunics. The dove is positioned above an open book, its wings spread. The background is a vibrant blue, with golden halos around the heads of the figures, each containing inscribed symbols. This imagery represents the Holy Trinity, with the dove symbolizing the Holy Spirit, and the two figures likely representing God the Father and God the Son, or possibly Christ and a saint, in a theological representation.",
+    "scene_interpretation": "Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Borgh.183/Borgh.183_0123_fa_0060r.jp2/268,368,328,280/full/0/default.jpg"
+}

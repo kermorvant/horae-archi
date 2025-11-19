@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within a richly decorated architectural setting, likely a church interior, suggested by the Gothic tracery and pinnacles. On the left, a woman in a blue robe, crowned and with a halo, kneels with her arms crossed over her chest. On the right, a figure, possibly Christ, also with a halo, is seated and holds a globe in his left hand, while gesturing with his right. The background features elaborate, vertical architectural elements resembling a screen or reredos, with niches containing figures, and a central blue panel with celestial imagery. The overall impression is one of solemnity and divine encounter.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "tracery_window",
+        "pinnacle",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rodez/Bibliotheque_de_la_Societe_des_lettres_de_l_Aveyron/122025302_MS0001/DEPOT/122025302_MS0001_0074/725,377,1880,3092/full/0/default.jpg"
+}

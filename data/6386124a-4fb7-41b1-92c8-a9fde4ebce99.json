@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, with a halo, cradles the Christ Child, who is also haloed. They are surrounded by several figures. To the left, a woman in a head covering holds a child. To the right, a figure in a hooded robe holds a small animal, possibly a lamb or a cat. Several men, some in elaborate attire and others in simpler robes, are gathered around, presenting gifts. One man kneels and offers a chalice. The background suggests a rustic stable with wooden beams and a thatched roof, with rays of light emanating from above, possibly symbolizing divine intervention. The overall setting is humble, emphasizing the significance of the event.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0034/984,750,1529,2010/full/0/default.jpg"
+}

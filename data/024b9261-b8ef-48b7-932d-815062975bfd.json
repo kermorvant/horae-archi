@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. The Virgin Mary, clad in a blue robe, kneels before a lectern, her hands resting on an open book. Above her, an angel, identified as Gabriel, descends, holding a scroll with text. A dove, representing the Holy Spirit, is shown between them, emanating rays of light. In the background, architectural elements suggest a room with windows and a draped canopy over a bed. A small table with a vase of flowers stands to the right. The scene is framed by an illuminated border.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_072/DEPOT/M490075203_MS2003_1_072_0033/3936,930,1239,2001/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered around a central figure identified as Christ, who is gesturing with his hands. To the left, a figure in a tunic points outwards. To the right, a figure wearing a crown or elaborate headdress holds a book. The figures are framed by architectural elements suggesting an interior space with arched openings and decorative columns. The overall composition suggests a religious narrative, possibly Christ teaching or interacting with his disciples and onlookers.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0032/1122,3041,1042,442/full/0/default.jpg"
+}

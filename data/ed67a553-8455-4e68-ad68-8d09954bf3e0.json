@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo, is seated and cradling the Christ Child, who also has a golden halo. She wears a blue mantle over a red garment. Behind her is a grey, stepped architectural structure with decorative elements. To the right, a kneeling figure in a black robe, with hands clasped in prayer and a golden halo, looks up towards the Virgin and Child. The background is a textured pink with gold scrollwork, and the scene is bordered by a red frame with decorative elements on the right edge.",
+    "scene_interpretation": "Madonna and Child with a Donor",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "microarchitecture",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Caen/Musee_des_Beaux_Arts/141185204_coll_mancel_ms0241/DEPOT/141185204_coll_mancel_ms0241_0025/1480,1277,1438,2089/full/0/default.jpg"
+}

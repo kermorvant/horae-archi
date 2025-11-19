@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit, with the Virgin Mary at the center, surrounded by the Apostles. All figures are depicted with halos, indicating their sanctity. The Virgin Mary is shown with her hands clasped in prayer, wearing a blue mantle over a white garment. The Apostles, including figures with beards and varied hairstyles, are also shown with their hands raised or clasped in prayer, looking upwards. Above them, a white dove, representing the Holy Spirit, descends from a golden light, with rays of light emanating downwards. In the background, there is a representation of an architectural interior, with red and green panels suggesting doors or windows, and a dark grey upper section with decorative elements. The overall impression is one of devotion and spiritual reception.",
+    "scene_interpretation": "Descent of the Holy Spirit",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "door",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_MS0127/DEPOT/B721816101_MS0127_0067/3544,499,1539,1801/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "In a verdant landscape dotted with trees, a crowned figure kneels with hands clasped in prayer, looking upwards. Above, a divine figure, depicted as an elderly man with a beard, is surrounded by golden rays and holds a globe. To the right, an angel with red wings and a sword stands, gesturing towards the praying figure. In the background, a city with towers and walls is visible. The scene is framed by decorative borders.",
+    "scene_interpretation": "The Visitation of the Angel to David",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "David",
+        "Angel",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jt855sc2143%2FW289_000198_1200/4318,1142,4853,5352/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in a landscape setting. On the left, a man with a beard and wearing a cap prays with his hands clasped. In the center, a figure in a hooded robe also appears to be praying or pleading. On the right, another man with a beard, dressed in dark robes, kneels with his hands clasped, looking upwards. Behind him, a large, indistinct form, possibly representing a burden or a struggle, is visible. The overall impression is one of supplication and hardship. The scene is likely a representation of David in prayer, possibly during a time of persecution or penitence, as suggested by the figures' postures and expressions of distress.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007441s/f35/324,952,1138,964/full/0/default.jpg"
+}

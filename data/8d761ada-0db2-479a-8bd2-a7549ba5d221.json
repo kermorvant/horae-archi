@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A winged, demonic figure with a purple face and clawed feet attacks a kneeling, elderly man who is partially covered by a white cloth. The demon holds a club raised to strike the man. Behind the figures, a stone building with crenellations and arched windows is visible, suggesting a castle or fortified structure. The background depicts a landscape with rolling hills and trees under a blue sky. This scene likely represents the Temptation of Saint Anthony, a common theme in medieval art where the saint is tormented by demons.",
+    "scene_interpretation": "Temptation of Saint Anthony",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "battlement",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Anthony"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f135/227,303,737,899/full/0/default.jpg"
+}

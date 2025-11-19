@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ritual. In the background, Christ, with a halo and crown of thorns, stands in a stone basin, his body marked with wounds. Above him, various instruments of the Passion are displayed against a starry blue background, including a hammer, tongs, a spear, and a scourge. To the left, a column supports a bundle of reeds and a sword. In the foreground, a priest in ornate vestments holds a chalice with a host, raising it towards Christ in prayer. He is flanked by two other figures, one in a red robe and the other in monastic attire. A ladder leans against the structure behind Christ, suggesting his placement or descent. The overall setting appears to be a symbolic representation of the Mass or a devotional scene related to the Passion.",
+    "scene_interpretation": "Mass of Saint Gregory",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "arch",
+        "roof",
+        "ladder",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Priest"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427237h/f442/1666,444,722,975/full/0/default.jpg"
+}

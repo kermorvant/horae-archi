@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. On the left, the Virgin Mary, dressed in a blue robe, looks down towards a cradle containing the Christ Child. The cradle is rendered in white with radiating lines suggesting divine light. To the right, an older man with a beard, possibly Joseph, kneels and looks towards the child, his hands clasped in prayer or adoration. Behind him, two other figures, one wearing a red cap, are partially visible, observing the scene. The background is abstract and dark, with hints of architectural elements like a red drapery on the left and a suggestion of a structure above. The overall impression is one of quiet reverence and divine presence.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0136/DEPOT/315556101_MS0136_0056/4040,488,2057,2979/full/0/default.jpg"
+}

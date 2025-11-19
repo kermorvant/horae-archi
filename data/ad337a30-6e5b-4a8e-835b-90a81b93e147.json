@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "A crowned figure, likely God the Father, sits on a raised dais, holding a globe. Before him kneels a woman with long, wavy hair, her hands clasped in prayer. To the right, an angel with wings and a halo hovers, holding a book and looking towards the kneeling woman. Behind the angel are two other figures, possibly angels or attendants, also looking towards the woman. The scene is framed by architectural elements suggesting a throne room or a celestial setting, with decorative motifs and what appear to be Gothic architectural fragments.",
+    "scene_interpretation": "The Annunciation to Mary",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "canopy",
+        "dais",
+        "microarchitecture",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0034/1221,1033,2020,2133/full/0/default.jpg"
+}

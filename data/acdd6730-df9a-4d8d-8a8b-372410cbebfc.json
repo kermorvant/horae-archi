@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a martyrdom, likely Saint Lawrence, being martyred on a gridiron. Two figures, presumably executioners, are shown prodding the victim with sticks. One executioner, wearing a pink tunic and helmet, actively strikes the victim. The other, in a yellow tunic and blue cap, appears to be recoiling or reacting to the scene. The victim lies on a dark, striped surface, possibly the gridiron, with flames suggested beneath. Above, a golden sun with radiating lines symbolizes divine presence or heavenly reward. The background is a deep blue, dotted with gold flecks, suggesting a celestial or spiritual setting.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0078/3585,1741,476,723/full/0/default.jpg"
+}

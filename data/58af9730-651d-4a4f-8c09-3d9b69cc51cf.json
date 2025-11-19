@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation of the Christ Child, held by a figure who appears to be Mary, to a group of men. The setting is an interior space with arched windows and columns. The floor is tiled with a green geometric pattern. A red banner with golden sunburst motifs hangs in the background. The figures are dressed in medieval attire, with halos indicating sanctity. One figure, possibly a priest or elder, wears a dark, conical hat and holds the child. Another figure, to the left, holds a key and a basket of flowers. The overall scene suggests a religious ceremony or event.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS21%2FBMC_MS21_jp2.zip%2FBMC_MS21_jp2%2FBMC_MS21_0077.jp2/2754,1379,2442,3432/full/0/default.jpg"
+}

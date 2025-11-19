@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a blue veil and a halo, holds up a white cloth displaying the face of Christ. Christ's face is rendered with brown hair and beard, and he appears to be looking forward. The background behind the Virgin Mary suggests an architectural setting with horizontal lines and vertical elements, possibly representing a wall or a screen. The overall scene is a devotional representation of the Veil of Veronica.",
+    "scene_interpretation": "Veil of Veronica",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1219/DEPOT/352386106_MS1219_0064/3712,1217,519,835/full/0/default.jpg"
+}

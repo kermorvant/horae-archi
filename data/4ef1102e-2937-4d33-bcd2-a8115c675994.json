@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation to the Shepherds. In the foreground, three shepherds are gathered with their flock of sheep and a dog. One shepherd, seated and playing a pipe, looks upwards. Another shepherd, standing and gesturing with his hands, also looks up. A third shepherd, to the left, points towards the sky. Above them, an angel with blue wings descends, holding a banner that reads \"Gloria in altissimum Deo et in terra pax hominibus\" (Glory to God in the highest and on earth peace to men). In the background, a walled city with towers and buildings is visible, set against a mountainous landscape. The entire scene is framed by ornate architectural borders with figures of saints on either side.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "tower",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421833/208,186,1117,1577/full/0/default.jpg"
+}

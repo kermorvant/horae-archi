@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, adorned with a mitre and halo, is seated on an ornate chair, engrossed in reading an open book. Beside him stands another figure, likely a cleric, holding a crosier and wearing a green cope over a white alb. The scene is set within an interior space, suggested by the arched ceiling and the presence of windows in the background. A richly patterned tapestry or curtain hangs behind the figures, adding to the sense of an indoor, possibly ecclesiastical or noble, setting. The bishop's attire and the presence of the crosier indicate a scene of religious authority and learning.",
+    "scene_interpretation": "The scene likely depicts a bishop engaged in study or teaching, possibly representing a saintly bishop or a figure of religious wisdom. The presence of the crosier and the bishop's regalia suggest a figure of authority within the church. The act of reading an open book is a common motif for learned individuals, particularly in religious contexts.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "canopy"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f16/565,2744,580,734/full/0/default.jpg"
+}

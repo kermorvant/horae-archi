@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A haloed figure, presumably Christ, stands on the left, gesturing with his right hand towards a group of attentive listeners. The listeners, depicted with varied expressions of awe and contemplation, are gathered in a semi-circle, looking upwards at the speaker. To the right, a stylized architectural structure resembling a tower or gatehouse with crenellations and small windows is visible. The background is filled with a pattern of small squares, suggesting a decorative or symbolic element rather than a realistic setting. The scene is framed by decorative borders.",
+    "scene_interpretation": "Sermon on the Mount",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window",
+        "battlement",
+        "pinnacle"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_Jacquemart_Andre/751085428_MS0001(254)/DEPOT/751085428_MS0001(254)_0131/3118,705,1229,1121/full/0/default.jpg"
+}

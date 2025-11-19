@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The Virgin Mary, seated and draped in a blue mantle, holds the Christ Child on her lap. She is surrounded by several angels. Two angels on the left are playing musical instruments, one a viol and the other a harp. Two more angels on the right are also playing instruments, one a harp and another a lute. Two additional angels are depicted above, seemingly holding a golden drapery behind the Virgin and Child. The background features a decorative gold and patterned textile. The scene is set against a blue-green ground.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8496557x/f481/479,776,1135,1334/full/0/default.jpg"
+}

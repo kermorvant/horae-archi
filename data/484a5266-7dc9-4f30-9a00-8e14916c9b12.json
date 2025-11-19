@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary, with her body lying asleep on the ground, her head resting on her hand, and a golden vessel beside her. Above her, the Virgin Mary is shown ascending to heaven, surrounded by a host of angels. The setting is a rocky, hilly landscape with scattered trees and a building complex in the background. Two figures, possibly mourners or disciples, are visible in the lower part of the scene.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "door",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502614h/f359/696,190,1380,2224/full/0/default.jpg"
+}

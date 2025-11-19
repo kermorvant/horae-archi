@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A figure, likely Saint John the Baptist, is depicted seated outdoors in a landscape. He has long, flowing hair and wears a simple tunic. He holds an open book in his lap and gestures with his right hand, possibly in discourse or contemplation. Beside him, a lamb rests, its head turned towards the figure. The background is a muted, undulating landscape with a suggestion of hills or fields under a pale sky. The scene is rendered in a monochromatic style with white highlights, suggesting a sketch or underdrawing.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0033/DEPOT/M441095203_MS0033_0133/1467,1618,790,903/full/0/default.jpg"
+}

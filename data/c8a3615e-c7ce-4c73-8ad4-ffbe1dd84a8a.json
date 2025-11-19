@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of people gathered indoors, looking upwards with hands clasped in prayer. In the foreground, an elderly man with a long beard and a woman in a dark headdress are prominent. Behind them, a crowd of individuals, both men and women, are visible, their faces turned towards the upper right. Above them, a dove, representing the Holy Spirit, descends with rays of light emanating from it. The setting appears to be within a building with architectural elements such as columns and a patterned ceiling. A book lies open on a decorated table in the foreground. This scene is interpreted as the Descent of the Holy Spirit upon the Apostles and Mary, also known as Pentecost.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037275w/f105/1381,33,999,1518/full/0/default.jpg"
+}

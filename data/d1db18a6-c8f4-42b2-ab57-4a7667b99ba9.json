@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely Saint John the Baptist, stands in a verdant landscape under a starry blue sky. He wears a golden robe and a pink mantle, and holds a white lamb on his left arm, pointing at it with his right index finger. The lamb looks upwards. In the background, a river flows, and a walled city with towers and spires is visible on a hill. Several smaller figures, some with halos, are depicted in the middle ground, walking along a path or near the river. The overall scene evokes a pastoral and spiritual setting.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/b9f87c01-87fd-48f0-8548-b677ec84d30a/2268,1271,1856,2789/full/0/default.jpg"
+}

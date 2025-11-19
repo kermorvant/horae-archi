@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a blue mantle, meeting Elizabeth, who is dressed in an orange robe and wears a head covering. They are shown clasping hands. Behind Mary, a green hillside slopes upwards towards a distant town with towers and walls. To the right, a building with a purple facade and decorative frieze is visible, suggesting an architectural setting. Golden rays descend from the sky above, possibly symbolizing divine intervention or blessing. The ground is rendered in earthy tones with patches of green grass.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_049r.jp2/799,563,2847,4684/full/0/default.jpg"
+}

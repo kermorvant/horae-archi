@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts a frontal view of Christ's face, rendered in grayscale with subtle shading. His eyes are partially closed, and his lips are slightly parted. Long, dark hair frames his face and falls to his shoulders. Above Christ's head, a woman, likely the Virgin Mary, is shown from the shoulders up, wearing a white veil and a dark garment. She is holding a peach-colored cloth, which drapes over Christ's head and shoulders, partially obscuring the upper part of his face. The background behind the woman is a vibrant blue, suggesting a celestial or ethereal setting. The entire scene is framed by a decorative border.",
+    "scene_interpretation": "Veil of Veronica",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kb564yr3366/W165_000218_300/290,324,705,1016/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an arched architectural setting. In the foreground, a woman in a blue robe kneels, holding a red book. Facing her is a man in a green robe, gesturing with his hands. Behind them, several other figures with halos are visible, suggesting a religious context. The background features an ornate tapestry and windows with tracery. Above, a divine symbol of a dove surrounded by rays of light indicates a spiritual event. The overall impression is one of a sacred gathering or a moment of divine revelation.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0384_0232/DEPOT/620416201_MS0384_0232_0115B/2667,1180,2237,3042/full/0/default.jpg"
+}

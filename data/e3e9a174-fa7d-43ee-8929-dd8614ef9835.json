@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely Christ, dressed in a blue robe and wearing a golden halo, being led by two figures in dark attire. He is being presented to a seated figure in elaborate robes and a jeweled mitre, who gestures towards him. The background is a plain green cloth, suggesting an indoor setting or a stylized representation. The interaction appears to be a formal presentation or judgment.",
+    "scene_interpretation": "Christ before Caiaphas",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Caiaphas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BookofHoursoftheRomanuse_18%2FBookofHoursoftheRomanuse_18_jp2.zip%2FBookofHoursoftheRomanuse_18_jp2%2FBookofHoursoftheRomanuse_18_0035.jp2/1336,2438,893,978/full/0/default.jpg"
+}

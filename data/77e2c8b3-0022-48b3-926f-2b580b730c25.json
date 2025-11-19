@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures, including the Virgin Mary seated and reading a book, surrounded by Apostles. Above them, the Holy Spirit descends in the form of a dove, emanating flames, symbolizing divine inspiration. The figures are gathered within an architectural setting that suggests an interior space, with arched windows visible in the background. The overall composition conveys a moment of spiritual reception and divine presence.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/15918481/2152,402,1089,1492/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a banquet or feast taking place within a hall. On the left, several men are seated at a long table covered with a white cloth, some with food and vessels before them. The background wall is adorned with a gold, patterned tapestry. To the right, a group of individuals, including young men and women, are entering the space, some carrying platters. The architecture suggests an interior space with a window offering a glimpse of an outdoor landscape. The overall impression is one of a formal gathering or meal.",
+    "scene_interpretation": "Feast",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "hall"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f616/923,4264,3346,1520/full/0/default.jpg"
+}

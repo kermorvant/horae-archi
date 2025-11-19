@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A group of five women are depicted in profile, facing towards the left of the frame. The woman in the foreground on the left is wearing a headdress and a long, flowing gown. Her hands are clasped together in front of her. To her right, three other women are visible, also wearing headdresses and similar attire. The woman on the far right of this group is also clasping her hands. The background is plain, suggesting an indoor or abstract setting. The scene likely depicts a devotional moment, possibly the Visitation or a group of supplicants.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Woman",
+        "Woman",
+        "Woman",
+        "Woman",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00035/1703,2284,621,797/full/0/default.jpg"
+}

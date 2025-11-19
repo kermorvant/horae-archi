@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a figure kneeling in prayer with hands clasped, facing a chalice with a host. Above and to the left, a bust of a bearded man with a turban is visible within an arched frame, possibly representing a prophet or a divine vision. In the background, a hilly landscape features a small church with a spire and bare trees. Below the kneeling figure, several other figures are shown, some appearing to be asleep or resting, arranged around what seem to be barrels or containers. The overall composition suggests a moment of intense spiritual contemplation or a divine revelation, possibly related to the Eucharist, with the sleeping figures representing disciples or followers.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "spire",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.119/Ross.119_0032.jp2/1377,20,594,760/full/0/default.jpg"
+}

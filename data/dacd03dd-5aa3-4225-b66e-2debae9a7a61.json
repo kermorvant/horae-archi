@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed woman, dressed in a white veil, a blue mantle over an orange gown, stands in a verdant landscape. She holds an open book in her left hand and a cylindrical vessel, possibly a pot or a reliquary, in her right. The background features stylized trees and a patterned tapestry-like sky. The scene is rendered with vibrant colors and a flat, decorative quality typical of manuscript illumination.",
+    "scene_interpretation": "Saint Mary Magdalene",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ad45cd2b-1503-4cdf-b969-d3e57cc21371/2242,1359,1882,2762/full/0/default.jpg"
+}

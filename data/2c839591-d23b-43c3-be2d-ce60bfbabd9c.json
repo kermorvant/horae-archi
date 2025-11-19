@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts King David, identifiable by the inscription \"David\" and his regal attire, standing with a staff and looking upwards. He is accompanied by a green dragon-like creature. In the background, a celestial scene unfolds with a sun and stars, and two angels, one in yellow and one in pink, are shown in flight. Below them, birds and stones are depicted. To the right, a group of people, including a man kneeling in prayer and two women, observe the scene, alongside a donkey and a cow. The overall composition suggests a narrative of divine intervention or a miraculous event, possibly related to King David's faith or a victory over evil, symbolized by the dragon.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0410.jp2/2236,2380,1320,1448/full/0/default.jpg"
+}

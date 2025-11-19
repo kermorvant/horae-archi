@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with God the Father holding the body of Christ, who is shown with wounds from the crucifixion. God the Father is depicted as an elderly man with a beard, wearing a crown and a pink robe. Christ is depicted as pale and lifeless, with his head resting on God the Father's arm, and his body covered by a white loincloth. The scene is set against a gold background, suggesting a divine or heavenly realm, and framed by an arched blue border.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sy560zv0718/W918_000157_300/200,411,285,486/full/0/default.jpg"
+}

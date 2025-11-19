@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary seated at a desk, reading from a book. An angel, dressed in a red robe and with blue wings, approaches her from the left, with hands clasped in prayer and a scroll emerging from its mouth. Rays of golden light descend from the upper left, illuminating the scene. The figures are set against an architectural backdrop that includes columns and a window, with a landscape visible in the background. The Virgin Mary is depicted with a halo, signifying her sanctity, and her gesture of placing a hand on her chest suggests contemplation or acceptance.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sw741tz6027%2FW177_000032_1200/3218,2616,1404,2196/full/0/default.jpg"
+}

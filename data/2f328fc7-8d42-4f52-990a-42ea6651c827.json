@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a woman seated on a throne-like structure, holding a crown and offering it to a kneeling figure. The seated woman is richly dressed, with a patterned robe draped over her. The kneeling figure, likely the Virgin Mary due to the halo, is shown with hands clasped in prayer. Behind them, two young figures, possibly children or attendants, peer over a draped curtain. The setting appears to be an interior space, suggested by the drapery and the implied enclosure. The overall composition suggests a scene of investiture or presentation, possibly related to the coronation of the Virgin or a similar devotional theme.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0065/2750,327,1336,1717/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation of a child, likely the Christ Child, to a group of figures. A man in ornate robes and a tall, jeweled hat holds the child, who is swaddled and has a halo. He stands behind a table or altar-like structure. To his left, a man in a clerical robe stands with his hands clasped. In front of the table, a woman kneels, her head bowed and hands clasped in prayer, draped in a dark cloak. Behind her, an older man with a beard leans on a staff. To the right, a young woman holds a basket containing what appears to be fruit or offerings. The background suggests an interior space with arched windows and a patterned ceiling or canopy.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032335w/f107/1099,79,526,804/full/0/default.jpg"
+}

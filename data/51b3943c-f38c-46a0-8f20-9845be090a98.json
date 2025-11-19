@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross in the center. To the left, the Virgin Mary, dressed in blue and gold, kneels in sorrow, accompanied by another female figure. To the right, a group of men observe the event. One man, richly dressed with a fur-lined robe and a blue hat, points towards the cross. A horse is also present, with a rider or attendant holding its reins. In the background, stylized trees and rolling hills are visible, along with architectural structures that resemble churches or castles with towers and domes. The scene is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "dome",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS1135_0219/DEPOT/620416201_MS1135_0219_0025A/739,1457,2363,2995/full/0/default.jpg"
+}

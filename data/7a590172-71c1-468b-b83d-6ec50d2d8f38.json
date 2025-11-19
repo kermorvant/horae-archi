@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a procession entering a church or chapel. In the foreground, two men are carrying a large white object, possibly a shroud or a large fowl. Behind them, a procession of figures in religious habits, including monks and nuns, are led by a figure holding a processional cross. A nun reads from a book. To the left, a wall with crosses and an 'A' symbol suggests a cemetery or sacred ground. Above, in a celestial vision framed by gold, God the Father is depicted with seraphim, blessing and holding a crown and cross. A winged demon is shown being struck by an angel, with a figure in armor also engaged in combat. The architectural elements include a church facade with arched windows and a decorative pinnacle.",
+    "scene_interpretation": "The scene likely represents a funeral procession or a procession for a saint's feast day, possibly involving the Last Judgment or a struggle against evil. The presence of God the Father, angels, and a demon suggests a divine intervention or a depiction of the spiritual realm. The church and cemetery elements ground the scene in earthly religious practice.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "pinnacle",
+        "wall",
+        "cross"
+    ],
+    "persons": [
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509627p/f239/887,449,1564,2360/full/0/default.jpg"
+}

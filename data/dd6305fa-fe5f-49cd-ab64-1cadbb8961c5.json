@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, dressed in blue and white, cradles the Christ Child who is adorned with a halo. Three Magi are present: one kneels before the child, offering a chalice; another kneels, holding a golden vessel; and a third, dressed in orange, stands and holds a golden vessel and a lamp. A group of onlookers stands in the background, observing the scene. Behind them, a stone wall with crenellations suggests a city setting. To the right, a wooden structure with a thatched roof provides shelter. An elderly man in a blue robe stands near the entrance of this structure, looking towards the main event. The overall setting is a blend of outdoor elements like the city wall and sky, and a partially enclosed architectural space.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "battlement",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3770/Vat.lat.3770_0308_fa_0151v.jp2/797,245,1543,2366/full/0/default.jpg"
+}

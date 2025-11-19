@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary kneeling in prayer, dressed in a blue robe, and holding a book. Archangel Gabriel, with golden wings and a richly patterned robe, descends from above, holding a scroll with text. He is accompanied by rays of divine light emanating from a figure in the upper left, likely God the Father. The setting appears to be a room with architectural elements suggesting an interior, including a bed with green cushions and a red canopy or curtained structure. The background shows a series of arches, indicative of a religious or grand architectural space.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Archangel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dt765nv8976%2FW206_000052_1200/3505,2204,1777,2074/full/0/default.jpg"
+}

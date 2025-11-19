@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in an outdoor setting with a river and castles in the background. On the left, a woman in a purple habit and black veil holds a red book. In the center, a person wearing a red hood and a gold and blue tunic gestures with their right hand. To the right, a child in a gold tunic and blue stockings kneels on a path, holding a spoon. The background features rolling hills, trees, a river, and several fortified castles. The entire scene is framed by a decorative arch.",
+    "scene_interpretation": "The scene is likely a depiction of the Miraculous Draught of Fishes, where Christ (represented by the child, possibly in a symbolic representation of his divine nature or youth) performs a miracle for his disciples. The woman with the book could represent a follower or witness, and the central figure might be an apostle or another disciple. The castles in the background suggest a worldly setting, contrasting with the divine intervention.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f626/1642,942,2098,2685/full/0/default.jpg"
+}

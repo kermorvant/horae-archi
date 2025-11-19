@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ within a rustic stable. The Virgin Mary, in a blue robe, kneels with hands clasped in prayer before the Christ Child, who lies on the ground radiating light. To the right, Saint Joseph, also in prayer, wears a pink robe and blue hood. An angel kneels behind Mary, and a donkey and ox are present. In the background, shepherds are shown tending their sheep, with a distant view of a walled city and a tower. An angel in the sky holds a scroll with \"Gloria in excelsis Deo\" inscribed.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "chapel",
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "window",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505805b/f86/764,151,824,1221/full/0/default.jpg"
+}

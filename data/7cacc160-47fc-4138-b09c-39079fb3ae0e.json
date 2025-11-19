@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in an outdoor setting with a stylized representation of buildings in the background. On the left, a bearded man with long hair, dressed in a robe, gestures with his hands. To his right, a woman with a veil covering her head, also in a robe, clasps her hands in prayer. In the foreground, a child lies on their back, looking upwards. The background features simplified structures with crenellated tops, suggesting a town or city. The overall composition suggests a narrative scene, possibly religious, given the praying woman and the presence of a child.",
+    "scene_interpretation": "The scene is likely the Nativity or a related event from the life of Christ, possibly depicting the Holy Family. The bearded man could represent Joseph, the veiled woman the Virgin Mary, and the child the Christ Child. The prayerful posture of Mary and the presence of the infant are common iconography for the Nativity. The background buildings might represent Bethlehem.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_T1343/DEPOT/B530626201_T1343_0105/1472,1331,588,1115/full/0/default.jpg"
+}

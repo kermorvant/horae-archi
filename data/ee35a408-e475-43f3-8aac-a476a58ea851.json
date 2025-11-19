@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three figures standing beneath a decorative arch. On the left, a bearded man with a hat clasps his hands in prayer. In the center, a woman with a veiled head and folded arms looks forward. To the right, another man, also wearing a hat, stands with his arms crossed. Behind them, architectural elements suggest an interior space, possibly a hall or a room within a building, with a dotted background that could represent a starry sky or a decorative tapestry. The overall composition suggests a devotional or narrative scene, possibly related to a biblical event or a saint's life, though specific identification is not possible from the visual cues alone.",
+    "scene_interpretation": "Devotional Scene",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0021/948,1956,451,768/full/0/default.jpg"
+}

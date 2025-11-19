@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary kneeling on the right, her hands crossed over her chest, and a halo around her head. She is dressed in a blue robe. On the left, the Angel Gabriel kneels, his wings spread, holding a scroll with text. He is gesturing towards Mary. Behind them, architectural elements suggest a building with arched doorways and windows. The background features a patterned mosaic-like texture. The scene is set outdoors with green grass and foliage.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "door",
+        "wall",
+        "column"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0028/DEPOT/352386106_MS0028_0037/3687,507,1531,2030/full/0/default.jpg"
+}

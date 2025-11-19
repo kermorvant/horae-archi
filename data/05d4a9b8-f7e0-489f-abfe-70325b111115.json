@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left, kneeling and holding a scroll with text, addressing the Virgin Mary on the right. The Virgin Mary is seated, looking towards the angel, with a book open before her on a lectern. A vase with a single white flower and buds is placed on the lectern. The background shows a building with arched windows and a pink facade. The scene is framed by an ornate border with floral motifs. Rays of golden light descend from above, indicating divine presence.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/bs390xv5099%2FW270_000064_1200/4493,1224,3982,6034/full/0/default.jpg"
+}

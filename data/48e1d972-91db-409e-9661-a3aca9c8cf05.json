@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a stable-like structure. The Virgin Mary, in a blue robe, holds the Christ Child, who is reaching towards a golden vessel offered by a kneeling king. Another king, in blue and gold, presents a similar vessel, while a third king, in green, stands behind him. A tonsured monk, holding a tambourine, stands to the left of Mary. In the background, figures are visible on a wooden staircase, and a horse is tethered. The setting is rustic, with wooden beams and a thatched roof, suggesting a humble dwelling. The overall scene represents the recognition of Christ's divinity by the Gentile kings.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "stairs",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_4%2F1945_65_4_jp2.zip%2F1945_65_4_jp2%2F1945_65_4_0179.jp2/5312,1895,4591,7953/full/0/default.jpg"
+}

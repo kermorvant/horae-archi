@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a flock of sheep grazing on a green hillside. In the foreground, a young shepherd, dressed in a blue robe and red hood, is seated and tending to his footwear, with a discarded shoe beside him. Above and behind him, on a higher elevation amidst lush greenery, a crowned figure, identified as Saint Eligius by his attributes, holds a golden orb and a cross. In the background, a city with prominent church towers and a body of water with a boat are visible, nestled between rolling hills and rocky outcrops. The overall composition suggests a divine vision or intervention within a humble, earthly setting.",
+    "scene_interpretation": "Saint Eligius",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower"
+    ],
+    "persons": [
+        "Saint Eligius"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/9ae0600d-512d-4ff5-a300-77b7c0bd9dc1/711,1054,2196,2737/full/0/default.jpg"
+}

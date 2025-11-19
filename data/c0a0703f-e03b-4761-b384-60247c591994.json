@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a person, likely a man, seated and holding a bunch of grapes. He is wearing a hooded garment. To his right, a stylized plant with leaves and flowers grows. Further to the right, a creature resembling a scorpion or a large insect is depicted. The background is plain, suggesting an outdoor setting. The overall style is simple and linear, characteristic of early woodcuts or manuscript illuminations.",
+    "scene_interpretation": "This scene does not depict a specific biblical or devotional event. It appears to be a genre scene or an illustration related to nature or agriculture, possibly representing the harvest of grapes.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "person"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_T1343/DEPOT/B530626201_T1343_0011/1818,1070,1491,489/full/0/default.jpg"
+}

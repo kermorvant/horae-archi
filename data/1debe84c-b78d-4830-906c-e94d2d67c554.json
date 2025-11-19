@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint, is depicted holding a palm frond in her left hand and a model of a tower in her right. She is shown in a seated or kneeling posture, draped in flowing robes. The background is filled with a stippled pattern, suggesting a decorative or symbolic space. Above her, an arched architectural element frames the scene, possibly representing a canopy or a stylized architectural setting. The figure's long, wavy hair and serene expression contribute to a devotional atmosphere.",
+    "scene_interpretation": "Saint Barbara",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Barbara"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0019/5167,713,446,592/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts God the Father, crowned and with a long white beard, holding the body of Christ. Christ is shown with a crown of thorns, wounds on his body, and a bloodied loincloth. He is being cradled by God the Father, with his head bowed and eyes closed. Behind them, a landscape with rolling hills and trees is visible through a window or opening. The figures are rendered in a stylized, medieval manner, with flat colors and minimal shading. The overall impression is one of sorrow and divine compassion.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0028/DEPOT/M441095203_MS0028_0121/3758,659,925,1264/full/0/default.jpg"
+}

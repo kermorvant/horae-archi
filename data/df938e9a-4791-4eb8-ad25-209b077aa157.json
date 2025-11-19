@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, cloaked in blue, presents the Christ Child to an elderly man wearing a bishop's mitre and vestments, who holds the child. Behind Mary stands a woman in red holding a basket, and behind her, an older man with a staff. To the right, a richly decorated altar-like structure is visible, with a red frontal and a white, patterned cloth draped over it. The background features a patterned tapestry and architectural elements suggesting an interior space, possibly a church or temple.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door",
+        "roof",
+        "altar"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.31%2F112_B.11.31_f050v.jp2/2323,419,1793,2551/full/0/default.jpg"
+}

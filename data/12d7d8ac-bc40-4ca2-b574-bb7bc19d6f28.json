@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a woman in a hooded garment, seated and tending to a small animal, possibly a lamb or a dog, which is lying on her lap. She appears to be holding a tool or a knife. To her right, a stylized column separates her from a monstrous creature resembling a scorpion or a large insect, which is positioned over wavy lines suggesting water. In the background, to the left, foliage and a bearded man with a hood and a staff are visible. To the right, a cityscape with towers and buildings is depicted. The overall composition suggests a symbolic or allegorical representation rather than a specific biblical narrative.",
+    "scene_interpretation": "Allegory",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "woman",
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0012/4086,3493,1177,512/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a winged angel, clad in a white robe, standing with hands clasped in prayer, facing a man with a grey beard and halo, dressed in a red tunic and blue mantle, who is seated and reading from a book. The man is positioned behind a wooden lectern, which is elaborately decorated with gold and features a small, pointed arch window. The background is dark and textured, suggesting an interior space, while the lower portion of the image shows a body of water and a wooden bench or platform.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0078/DEPOT/M601415401_MS0078_0020/1395,1578,885,743/full/0/default.jpg"
+}

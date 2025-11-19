@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic battle with numerous soldiers clad in dark armor, some bearing shields and spears. The ground is littered with fallen figures and bloodstains, indicating intense combat. In the background, a dense forest with tall, slender trees stands to the left, while a green, cultivated field stretches to the right. A banner with the inscription \"EOM\" flutters from a pole, and another flag is visible on the right side of the image. The overall impression is one of a violent conflict unfolding in a rural landscape.",
+    "scene_interpretation": "Battle",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f328/1658,1768,694,2231/full/0/default.jpg"
+}

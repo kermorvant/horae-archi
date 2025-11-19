@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A young, haloed figure with long, reddish-blond hair stands holding a golden chalice in their left hand. They are dressed in a green tunic and a flowing crimson cloak. The figure's right hand is raised, with the index finger extended. The background is a vibrant blue tapestry adorned with intricate gold patterns, including stylized foliage and cloud-like motifs. The floor is tiled in a checkerboard pattern of pinkish-brown and green squares. The scene is framed by a decorative border.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427237h/f446/1581,998,770,1052/full/0/default.jpg"
+}

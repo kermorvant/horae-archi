@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A group of figures, including the Virgin Mary in blue and a man in a brown robe kneeling, are depicted in prayer. They are looking upwards towards a dove radiating golden light, symbolizing the Holy Spirit. Behind them, a stone structure with inscribed text is visible, suggesting a sacred or significant location. A table with a book displaying musical notation is present in the foreground. The scene is framed by an arched border, typical of manuscript illumination.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "arch",
+        "door",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Melun/Bibliotheque_municipale/772886201_MS0010/DEPOT/772886201_MS0010_0059/1437,549,1548,2343/full/0/default.jpg"
+}

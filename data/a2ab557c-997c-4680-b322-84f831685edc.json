@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a skeletal figure, representing Death, standing to the left and a robed woman, possibly a nun or a devout laywoman, to the right. Death holds a staff and gestures towards the woman. The woman holds a book and appears to be looking at Death. Above them, an architectural canopy is visible, adorned with decorative elements and flanked by skulls and bones. The overall composition suggests a contemplation of mortality and the inevitability of death.",
+    "scene_interpretation": "Memento Mori",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0065/5792,1724,599,1203/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts an anointing ceremony. An elderly man with a long white beard, wearing a golden robe and a red mantle, is anointing a kneeling king with a crown. The king is dressed in a blue tunic and a golden robe. Behind the king stand two figures, one in a blue tunic and the other in a brown robe, both looking towards the anointing. In the background, a stylized city with towers and walls is visible under a blue sky. The entire scene is framed by an ornate, gilded archway with decorative motifs.",
+    "scene_interpretation": "The anointing of a king is a significant biblical event, often symbolizing divine selection and investiture with authority. This scene likely represents the anointing of David as king by the prophet Samuel, a pivotal moment in the Old Testament.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "King",
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0044/3745,817,1164,1607/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary kneeling on the left, dressed in a blue robe and holding a book. Facing her is the Angel Gabriel, kneeling on the right, with wings and a red cloak over a white tunic. Gabriel holds a scroll with text, and his hand is raised in a gesture of greeting or pronouncement. Behind them, architectural elements suggest an interior space, with arched windows and decorative elements. A small portrait of a crowned figure is visible in a niche above the angel. The background features rich textiles and architectural details, creating a devotional setting.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/89425182/90743918.tif/405,433,1206,1531/full/0/default.jpg"
+}

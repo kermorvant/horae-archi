@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and robed in blue, cradling the Christ Child, who is dressed in a pink garment. They are set against a backdrop of golden drapery, suggesting a regal or divine setting. Above them, a band of blue with stylized faces, possibly representing angels or a heavenly host, is visible. The figures are rendered with bold outlines and flat colors, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0081/4077,2057,818,1090/full/0/default.jpg"
+}

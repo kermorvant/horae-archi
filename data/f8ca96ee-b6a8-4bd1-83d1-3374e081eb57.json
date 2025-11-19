@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An angel with red and white wings descends from a radiant sky, holding a golden banner inscribed with \"GLORIA IN EXCELSIS DEO.\" Below, a flock of sheep grazes in a pastoral landscape dotted with houses and a distant castle. Three shepherds are depicted: one seated, looking upwards in awe; another standing, holding a staff and gazing towards the angel; and a third seated, gesturing towards the angel with an expression of surprise. The scene is framed by stylized trees and a body of water in the foreground.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10023007f/f106/267,341,1504,1930/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three men in a room with a wooden ceiling and a stone wall. One man, seated and wearing a blue robe and pink hat, is writing on a scroll. Another man, standing and wearing a blue robe and blue hat, points towards the seated man. A third man, kneeling and wearing a pink robe and red hat, is looking into an open wooden chest filled with clothes. On a wooden table behind them are a sack, a pitcher, and several round objects, possibly coins or rolls of fabric. The overall impression is of a domestic or commercial setting, possibly related to accounting or trade.",
+    "scene_interpretation": "This scene does not depict a specific biblical, liturgical, or hagiographic event. It appears to be a genre scene illustrating a secular activity, possibly related to commerce, record-keeping, or the distribution of goods.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f284/552,1566,819,766/full/0/default.jpg"
+}

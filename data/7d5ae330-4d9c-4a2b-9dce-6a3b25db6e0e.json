@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, his body showing wounds. Below the cross, several figures are engaged in actions related to the event. On the left, a group of mourners, including the Virgin Mary, stand with sorrowful expressions. To the right of the cross, soldiers are depicted. One soldier, wearing a red hat, appears to be hammering a nail into Christ's hand, while another, in blue, holds a spear. In the foreground, other figures are present, including some who seem to be gambling with dice, possibly representing the soldiers casting lots for Christ's garments. The background features a stylized, golden, grid-like pattern behind the figures, suggesting a divine or symbolic space, and a green, undulating ground.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f78/939,387,1357,1624/full/0/default.jpg"
+}

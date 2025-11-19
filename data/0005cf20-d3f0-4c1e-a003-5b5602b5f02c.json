@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Sebastian, a young man with his hands raised above his head, pierced by multiple arrows. He stands unclothed except for a loincloth. To his left, an archer, dressed in a tunic and hose, draws a bow, aiming another arrow at the saint. The setting is an outdoor landscape with trees in the background and a rocky, uneven ground. This iconography represents the martyrdom of Saint Sebastian, a Roman soldier who was condemned to be shot to death with arrows by order of Emperor Diocletian.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian",
+        "Archer"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511236p/f155/754,1103,430,444/full/0/default.jpg"
+}

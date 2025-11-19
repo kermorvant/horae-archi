@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling before a figure radiating a halo, who gestures with open hands. To the right, another figure stands with hands clasped in prayer, while a third figure, dressed in white, kneels on a wooden platform, also in prayer. The background is a rolling green landscape dotted with trees and featuring two distant castles on hilltops. The overall impression is one of supplication and divine intervention.",
+    "scene_interpretation": "Miracle of the Leper",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Leper"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892129/263,2057,1121,807/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts three figures within an architectural setting. A bearded man, seated and wearing a hat and a fur-lined cloak, holds a scepter. He is flanked by two other figures. To his left, a person is partially visible, also seated. To his right, a standing figure, wearing a cap and a tunic, faces the seated man. The background features architectural elements suggesting an interior space, possibly a hall or throne room, with decorative elements above. The overall composition suggests a scene of authority or judgment.",
+    "scene_interpretation": "This scene is likely a representation of a king or ruler, possibly in a scene of judgment or investiture, given the presence of the scepter and the formal arrangement of figures. Without further context or identifying attributes, a specific biblical or devotional interpretation is not possible.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0014/778,1528,578,902/full/0/default.jpg"
+}

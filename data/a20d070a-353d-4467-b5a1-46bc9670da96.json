@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A crowned female figure, likely a saint or queen, stands holding an open book in her left hand and a sword in her right, its hilt resting on the ground. She wears a golden crown and a blue robe over a white garment, with a red mantle lined in gold. A golden halo encircles her head, and rays emanate from it. The background is a simple blue sky with hints of green landscape at the bottom. The figure's posture and attributes suggest a depiction of a holy woman, possibly a martyr or a queen renowned for her piety and strength.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0078/3622,782,406,644/full/0/default.jpg"
+}

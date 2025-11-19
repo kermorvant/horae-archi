@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, visibly pregnant and wearing a blue mantle, being greeted by Saint Elizabeth, who is kneeling and wearing a blue habit and a dark veil. Another woman, possibly a servant or attendant, stands behind them to the left, carrying a small box. The figures are set against a backdrop of rolling green hills and a distant cityscape featuring towers and fortified buildings. To the right, a large, multi-story building with a prominent tiled roof and arched windows suggests a domestic or civic setting, with an arched doorway leading into it.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "window",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0106.jp2/547,442,1741,2580/full/0/default.jpg"
+}

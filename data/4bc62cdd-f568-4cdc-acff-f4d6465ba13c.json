@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the body of Christ after his crucifixion. Christ's body is shown pale and wounded, with visible stigmata. The Virgin Mary, dressed in a blue mantle and a white veil, holds him tenderly, her face contorted in grief. Above them, a representation of God the Father is shown with his hand raised, possibly in lament or blessing, with rays of light emanating from him. The background is a rich red tapestry with a gold diamond pattern, and above that, a dark blue celestial sky dotted with gold stars. The figures are set against a rocky, barren ground, with scattered bones visible at the bottom, suggesting Golgotha. The overall composition is framed by decorative borders.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f91/567,292,1321,3933/full/0/default.jpg"
+}

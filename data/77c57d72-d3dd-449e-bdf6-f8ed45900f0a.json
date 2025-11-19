@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts two figures seated within an architectural structure that appears to be a canopy or a niche. On the left, a woman, likely the Virgin Mary, is shown kneeling, her head bowed and hands clasped over her chest, wearing a crown. On the right, a bearded man, presumably Christ, is seated, holding a globe in his left hand and raising his right hand with two fingers extended in a gesture of blessing or teaching. The background features a decorative textile or tapestry with arched motifs. The overall setting suggests a devotional or theological representation.",
+    "scene_interpretation": "Christ and the Virgin Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511766t/f95/567,299,700,741/full/0/default.jpg"
+}

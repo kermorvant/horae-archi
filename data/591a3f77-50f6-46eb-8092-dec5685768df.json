@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A lone figure, likely a pilgrim or saint, stands in profile, facing left. He is depicted with a long white beard and a halo, wearing a wide-brimmed hat adorned with a cross. His attire consists of a flowing blue robe and bare feet. He carries a long staff in his right hand, topped with a small cross or finial, and a satchel hangs from his shoulder. In his left hand, he holds a closed book. The background is a decorative pattern of red and gold squares, suggesting a stylized or symbolic setting rather than a realistic one. The ground beneath his feet is a simple green expanse.",
+    "scene_interpretation": "Pilgrim",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Pilgrim"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024827n/f588/1036,585,938,1293/full/0/default.jpg"
+}

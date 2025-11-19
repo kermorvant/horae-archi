@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a blue robe, standing and looking down with a gentle expression. Elizabeth, wearing an orange gown and a white veil, kneels before Mary, her hands reaching out to touch Mary's abdomen. The setting is an outdoor landscape with rolling hills, lush green bushes, and distant buildings that appear to be castles or fortified structures. A large, rocky formation dominates the left side of the background, and the sky is a clear blue with hints of gold in the clouds.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0035/bge-lat0035_0050r.jp2/1226,778,2218,3211/full/0/default.jpg"
+}

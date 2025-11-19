@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, possibly a prophet or saint, is depicted looking upwards with his right hand raised, index finger extended, in a gesture of supplication or prophecy. He wears a cap and a richly decorated garment with circular motifs. The scene is framed by an architectural element resembling an arch with decorative detailing. The background is textured, suggesting a stylized representation of a divine or spiritual space.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0096/4199,3991,439,714/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "An angel with orange wings descends from a blue, star-filled sky, holding a scroll with Latin text. Below, in a pastoral landscape dotted with trees and distant buildings, three figures interact. Two figures, one in blue and the other in orange, appear to be shepherds. The figure in blue, with a beard, is being embraced by the figure in orange. A third figure, also in blue and orange robes, kneels and gently touches a sheep. Several sheep are scattered across the green, grassy terrain. The scene is framed by an arched border with decorative floral motifs and gold accents.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0067/DEPOT/M601415401_MS0067_0059/4105,629,1457,2199/full/0/default.jpg"
+}

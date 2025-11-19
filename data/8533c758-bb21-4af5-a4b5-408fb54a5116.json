@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a beard, looking upwards with his hands raised in prayer or supplication. He is accompanied by an angelic figure with wings, who is reaching towards him, and another figure, possibly human, standing behind the man. Above them, stylized rays of light descend. In the background, a simplified representation of a walled city with towers and buildings is visible, suggesting an urban or fortified setting. The overall composition suggests a divine intervention or a moment of spiritual revelation.",
+    "scene_interpretation": "The scene is likely an illustration of a biblical event, possibly the vision of a prophet or a moment of divine communication. The presence of an angel and the upward gaze of the central figure suggest a divine encounter. The walled city in the background could represent Jerusalem or another significant biblical location.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0099/5754,519,676,1241/full/0/default.jpg"
+}

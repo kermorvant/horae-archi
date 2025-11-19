@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "In a garden setting, Christ, depicted with a halo and holding a banner staff, stands on the left. He is reaching out towards Mary Magdalene, who is kneeling on the right, also with a halo. The scene is lush with foliage and flowers, and a fence or wall is visible in the background. This image depicts the \"Noli me tangere\" moment, where Christ, after his resurrection, appears to Mary Magdalene and tells her not to touch him.",
+    "scene_interpretation": "Noli me tangere",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032954j/f229/1031,782,965,993/full/0/default.jpg"
+}

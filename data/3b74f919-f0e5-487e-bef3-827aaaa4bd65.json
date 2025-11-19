@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Saint John the Evangelist, is seated on a gilded throne, dressed in a flowing grey robe. He holds an open book in his lap, writing with a quill, and gestures with his other hand. To his left, a lectern holds another open book, and a small cabinet displays a closed book. A bird, possibly an eagle, is depicted on the green tiled floor in the foreground. The scene is framed by architectural elements, including columns and arches, and a window reveals a landscape with rolling hills and buildings. The overall impression is one of scholarly contemplation and divine inspiration.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/np517xz5161%2FW196_000094_1200/5055,1564,3355,5462/full/0/default.jpg"
+}

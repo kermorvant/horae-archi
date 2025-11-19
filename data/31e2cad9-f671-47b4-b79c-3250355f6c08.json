@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael, a winged warrior clad in golden armor and a blue pleated skirt, standing triumphantly over a blue dragon. He holds a sword raised in his right hand, poised to strike, and a lance in his left, which pierces the dragon. His eyes are closed in concentration or divine inspiration. In the background, a stylized, fantastical city with towers and spires rises against a blue sky. The ground is a vibrant green, suggesting an outdoor setting.",
+    "scene_interpretation": "Saint Michael Slaying the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550057309/f200/525,1271,567,594/full/0/default.jpg"
+}

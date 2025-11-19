@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A bearded man, likely representing a prophet or a saint, is depicted with a halo and a somber expression, his hands clasped in prayer or contemplation. Beside him stands a youthful figure, possibly an angel or a disciple, dressed in white. In the foreground, a scroll or band with musical notation and a cross symbol is visible. The background is dark and sparsely decorated with small, hanging elements, suggesting an interior setting. The scene likely depicts a moment of divine inspiration or prayer, possibly related to a biblical narrative or devotional practice.",
+    "scene_interpretation": "Prophet in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bearded man with halo",
+        "Youthful figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037275w/f22/1421,623,449,493/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ is shown on the cross, with wounds visible and blood dripping. He is surrounded by several figures. To his left, the Virgin Mary, veiled and with a halo, is being comforted or supported. Another female figure, also with a halo, stands behind her. To Christ's right, a man in a dark robe and hood stands, seemingly observing. Another figure, also wearing a cap, is positioned behind Christ on the cross, possibly assisting with the crucifixion. A ladder is placed against the cross, suggesting the process of crucifixion or the removal of the body. The background is a simple landscape with hills and a blue sky.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550092764/f179/316,376,718,643/full/0/default.jpg"
+}

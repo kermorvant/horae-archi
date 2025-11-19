@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A male figure, likely a saint or cleric, stands in a richly decorated interior. He wears an orange chasuble over a white alb, adorned with gold trim and blue and red circular motifs. He holds a book in his left hand and a grid-like implement, possibly a gridiron, in his right. The background features a blue semi-circle filled with a pattern of golden circles, radiating light, suggesting a divine presence or halo. The floor is tiled in a checkerboard pattern of dark green and black. The scene is framed by a gold border.",
+    "scene_interpretation": "Saint Lawrence",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Boulogne-sur-Mer/Bibliotheque_municipale/B621606201_MS0089/DEPOT/621606201_MS0089_0083/3240,799,1323,1166/full/0/default.jpg"
+}

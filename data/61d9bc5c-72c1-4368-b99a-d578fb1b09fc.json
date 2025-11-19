@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a book, with the Virgin Mary at the center, her hands clasped in prayer. To her left, a male figure with a halo and a crown-like headdress also prays. To her right, another figure, possibly a woman, with a halo, also prays. Behind them, several other figures with halos are visible, their faces turned towards the center. Above them, a dove, symbolizing the Holy Spirit, descends from a dark, radiating sky. The figures are positioned within an architectural setting suggested by an archway and decorative border, with a tiled floor beneath them. This scene represents the Descent of the Holy Spirit upon the Apostles and the Virgin Mary, an event known as Pentecost.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS0358/DEPOT/B514546101_MS0358_0062/760,339,628,957/full/0/default.jpg"
+}

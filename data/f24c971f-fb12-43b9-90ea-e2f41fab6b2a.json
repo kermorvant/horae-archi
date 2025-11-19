@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ, with a halo, is shown partially nude and affixed to a wooden cross. Two figures, one in blue and one in green, are actively nailing his hands and feet to the cross. Another figure in red appears to be supporting Christ's body. To the right, a group of four figures, all with halos, observe the scene with sorrowful expressions. In the background, a castle with towers is visible on a hill, and the ground is littered with bones and skulls. The entire scene is framed by a decorative border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f333/312,1357,739,856/full/0/default.jpg"
+}

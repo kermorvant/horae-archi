@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a domestic interior with three figures. On the left, a woman, likely the Virgin Mary, holds a haloed infant. To the right, another woman, possibly a midwife or attendant, is shown leaning over a cradle-like object, pouring liquid from a jug. A third figure, also with a halo, is partially visible behind the first woman, appearing to be in prayer or contemplation. The background suggests an architectural setting with an arched opening and interior walls, possibly a room within a house or stable.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0051/5055,2082,514,802/full/0/default.jpg"
+}

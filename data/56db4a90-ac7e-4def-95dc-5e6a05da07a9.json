@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael the Archangel, identified by his halo and wings, standing over a dragon-like creature. He is clad in a blue robe and red tunic, and holds a spear aloft, poised to strike the beast. The background is a rich, patterned tapestry of red and gold, with a small green tree on the left. The dragon is depicted with a scaly body, a coiled tail, and sharp teeth. The overall composition suggests a moment of triumph over evil.",
+    "scene_interpretation": "Saint Michael the Archangel",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Michael the Archangel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/45fd6ff5-c063-4cc2-8e1f-806976a7cf68/2309,608,1936,3119/full/0/default.jpg"
+}

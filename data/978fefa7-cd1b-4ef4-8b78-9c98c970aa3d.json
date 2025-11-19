@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Adam reclining in a lush green landscape, asleep, with a dove flying overhead. Eve stands before him, her arms outstretched, surrounded by a variety of animals including deer, lions, goats, sheep, and birds. The background features rolling hills, trees, and a distant view of a valley with a body of water. This imagery represents the creation of Eve from Adam's rib, a pivotal moment in the biblical narrative of creation and the Fall of Man. The presence of the dove symbolizes the Holy Spirit, suggesting divine involvement in this foundational event.",
+    "scene_interpretation": "Creation of Eve",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100248249/f188/1004,260,1147,1659/full/0/default.jpg"
+}

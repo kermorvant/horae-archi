@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, is depicted seated on a dragon. She holds a cross in her hands. The background features decorative architectural elements, possibly representing a canopy or a stylized interior. The dragon's head is visible, with its mouth open, and its tail curves upwards. The scene is rendered in a monochromatic style typical of manuscript illumination.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034543v/f204/2085,606,476,716/full/0/default.jpg"
+}

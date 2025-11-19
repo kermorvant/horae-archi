@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation to the Shepherds. Two shepherds, one in a blue robe and the other in a white robe with a red collar, are shown outdoors in a pastoral landscape. They are looking upwards with expressions of awe and surprise, holding staffs. A flock of sheep is behind them, and a dog is at the feet of the shepherd in white. Above them, in a celestial realm indicated by a blue sky with golden rays and stars, three angels are visible. One angel, in the center and slightly forward, holds a scroll with musical notation. The angels appear to be delivering a message from above. In the background, distant buildings with spires suggest a settlement or fortified area.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel",
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_BERNIER_I-C-028/DEPOT/M601415401_BERNIER_I-C-028_0058/3918,779,1400,2237/full/0/default.jpg"
+}

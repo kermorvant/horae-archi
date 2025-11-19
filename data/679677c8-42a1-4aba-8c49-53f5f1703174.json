@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a cloth bearing the face of Christ. On the left, a woman in a veil and mantle, with hands clasped in prayer, looks towards the center. Next to her, another figure, possibly a woman, also with hands clasped, gazes forward. Behind them, another figure stands. To the right, a man in a hat and robes, with a distinctive profile, holds the cloth with the face of Christ. Behind him, another figure is partially visible. In the background, to the right, a simplified representation of buildings with towers and roofs suggests an urban or ecclesiastical setting. The entire scene is framed by an arched element, possibly representing a canopy or architectural detail.",
+    "scene_interpretation": "Veil of Veronica",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0029/2167,3819,929,649/full/0/default.jpg"
+}

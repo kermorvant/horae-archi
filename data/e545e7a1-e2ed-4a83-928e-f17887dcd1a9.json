@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a hat and a hooded garment, is depicted in profile, looking to the left. He has long hair and a prominent beard. His hands are clasped together in front of him. The scene is framed by architectural elements, suggesting an interior setting. The overall style is that of a woodcut or engraving, common in medieval manuscripts.",
+    "scene_interpretation": "The image depicts a figure in prayer or contemplation. Without further context or identifying attributes, a specific biblical or devotional scene cannot be definitively identified. However, the posture and attire suggest a religious or contemplative figure, possibly a saint, prophet, or devout layman.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Bearded man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0029/3119,3841,332,635/full/0/default.jpg"
+}

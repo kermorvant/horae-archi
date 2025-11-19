@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher wading through a body of water, carrying the Christ Child on his shoulders. Saint Christopher is depicted as a large, bearded man with a red cloak over a blue tunic, carrying a staff. The Christ Child, with a halo, is seated on his shoulder, raising a hand in blessing. On the left, a woman in a red robe and black veil stands with her hands clasped in prayer. On the right, a figure in a black robe stands with hands clasped. The background features rocky outcrops and foliage, with a bright blue sky above. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_269/DEPOT/710146101_269_0151/3510,532,1463,2090/full/0/default.jpg"
+}

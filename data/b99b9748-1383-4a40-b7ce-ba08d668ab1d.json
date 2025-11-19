@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. On the left, the Angel Gabriel, with feathered wings and a halo, kneels on a patterned floor, holding a branch and gesturing towards the Virgin Mary. Rays of light emanate from the upper left, illuminating a bird in flight. The Virgin Mary, on the right, also with a halo, stands with her hands clasped in prayer, her head bowed. She is dressed in a blue mantle over a pink gown. Behind them, a green curtain hangs, and the walls are rendered in a green brick pattern. A golden lectern is positioned between the figures. The background shows a blue sky with stylized trees.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000008/MAA_00008_015.jpg/917,448,822,1190/full/0/default.jpg"
+}

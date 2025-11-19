@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act, likely a beheading, with a figure kneeling and being struck by a sword. A bearded man, possibly an executioner or a figure of authority, points towards the kneeling figure. Several other men, some wearing crowns or helmets, stand behind, observing the event. In the background, stylized architectural elements suggest an urban or fortified setting, with buildings featuring arched windows and towers. The overall impression is one of a dramatic and grim execution.",
+    "scene_interpretation": "Martyrdom",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0083/3501,617,643,871/full/0/default.jpg"
+}

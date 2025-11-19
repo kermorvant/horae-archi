@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A winged figure, likely an angel, is depicted on the left, facing right. The angel appears to be in profile, with a helmet-like head covering and a body adorned with patterned fabric. To the right of the angel, a woman is shown in prayer, her hands clasped together. She wears a head covering and a garment with vertical stripes. The background is dark and indistinct, suggesting a spiritual or otherworldly setting. The scene likely represents the Annunciation, where the Angel Gabriel announces to the Virgin Mary that she will conceive Jesus.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036304k/f83/777,2183,419,407/full/0/default.jpg"
+}

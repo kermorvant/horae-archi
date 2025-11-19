@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint or prophet, stands with arms outstretched and head tilted upwards, gazing at a starry sky. The figure is draped in a flowing robe. In the background, a few buildings with pitched roofs are visible, suggesting a settlement. The foreground is adorned with stylized flowers and foliage. The overall scene evokes a sense of divine contemplation or prophecy, possibly depicting a moment of revelation or prayer under the heavens.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0045/4999,2148,372,1050/full/0/default.jpg"
+}

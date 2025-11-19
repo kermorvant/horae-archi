@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an interior space, likely a church or chapel. In the foreground, a kneeling figure in a blue mantle and white robe raises their hands in prayer before an altar covered with a green cloth. On the altar are a book and a chalice. To the left, a figure in a red cloak holds a staff, and another figure in a white robe stands near a cross. Above the altar, a depiction of Christ on the cross is visible, with a figure of Mary at its base. To the right, a figure in a purple robe holds a blue vessel. In the background, a niche contains a small figure, possibly a saint or a representation of the Virgin Mary. The entire scene is framed by an ornamental border with swirling blue and white elements, suggesting water or divine light.",
+    "scene_interpretation": "The scene likely represents a Mass or a devotional act related to the Crucifixion and the Eucharist. The kneeling figure in prayer, the altar with the book and chalice, and the presence of the cross all point to a liturgical context. The figure of Christ on the cross and Mary at its base directly reference the Passion. The figure holding the blue vessel might be a deacon or priest preparing for or concluding a sacrament, possibly the administration of holy water or wine.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "altar",
+        "niche",
+        "cross"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_104%2Flewis_e_104_jp2.zip%2Flewis_e_104_jp2%2Flewis_e_104_0372.jp2/703,1466,1641,1603/full/0/default.jpg"
+}

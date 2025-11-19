@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "An elderly man with a halo, dressed in a blue tunic and a red and gold mantle, is seated at a wooden desk. He is writing in a book with a quill pen. Before him, on the desk, are two other books, one open and green, the other closed and purple. To his right, a large, open book rests on a lectern. The background suggests an interior space with architectural elements, including what appears to be a vaulted ceiling or canopy above the figure and a purple curtain or tapestry with gold patterns on the wall behind. The scene is framed by an arched border decorated with floral motifs and gold leaf. This depiction represents Saint Jerome, a Doctor of the Church, known for his translation of the Bible into Latin (the Vulgate) and his scholarly work.",
+    "scene_interpretation": "Saint Jerome in his study",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010385p/f38/608,208,972,1342/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Mark by his winged lion symbol, is depicted seated on a throne. He wears a red tunic and a blue mantle, and has a golden halo. He is shown writing on a scroll with a quill in his right hand and a stylus in his left. The scroll is unfurled and rests on the back of a winged lion, which is positioned beneath him. The lion is a symbol of Saint Mark, and its wings are also visible. The background features a patterned tapestry with diamond shapes in gold, blue, and white. The throne is pink and appears to be made of wood. The scene is set against a green ground.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Saint Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_004%2Fwidener_004_jp2.zip%2Fwidener_004_jp2%2Fwidener_004_0038.jp2/879,1427,2078,2491/full/0/default.jpg"
+}

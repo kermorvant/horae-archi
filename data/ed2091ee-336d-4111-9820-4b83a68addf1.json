@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a genealogical tree, likely representing the lineage of Christ. At the bottom, a sleeping figure, possibly Jesse, lies on a green landscape. From his body, a stylized tree or vine emerges, bearing numerous figures. These figures, depicted as kings or patriarchs, are seated on green, leaf-like structures. Many wear crowns or elaborate hats and regal attire. One figure at the top holds a child, likely the Virgin Mary with the Christ Child. The background is a clear blue sky with faint golden motifs. In the distance, a stylized architectural structure resembling a castle or tower is visible on a hill.",
+    "scene_interpretation": "Jesse Tree",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Jesse",
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_096%2Flewis_e_096_jp2.zip%2Flewis_e_096_jp2%2Flewis_e_096_0049.jp2/2412,1124,3223,4890/full/0/default.jpg"
+}

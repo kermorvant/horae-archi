@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, bleeding from his wounds. To his left stands the Virgin Mary, draped in a blue mantle and praying. To his right is Saint John the Evangelist, also in prayer, wearing a red cloak over a blue tunic. At the foot of the cross, a skull and crossbones are visible, symbolizing Golgotha, the place of the skull. The background features a landscape with trees and distant buildings under a blue sky with a crescent moon and a sun.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f94/693,290,702,909/full/0/default.jpg"
+}

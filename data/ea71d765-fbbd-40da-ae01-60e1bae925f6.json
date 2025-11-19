@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the arrest of Christ in the Garden of Gethsemane. Jesus, with a golden halo, is being embraced by Judas, who points to him. A group of soldiers, armed with swords and spears, surround them. One soldier in the foreground is falling, while another, dressed in blue and gold, stands guard. In the background, a walled city with towers and spires is visible, set against a landscape with rolling hills and trees. The overall composition suggests a dramatic moment of betrayal and capture.",
+    "scene_interpretation": "The Arrest of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Jesus",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vs234vd4916%2FW195_000070_1200/4758,1117,3271,5566/full/0/default.jpg"
+}

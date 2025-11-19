@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands in the foreground, gesturing with his right hand. He wears a red cope over a white alb. To the left, a kneeling figure in a white habit, likely a nun or devout woman, prays with clasped hands. The background depicts a pastoral landscape with rolling green hills, scattered trees, and a distant city with towers and walls under a pale blue sky. The scene likely represents a bishop offering a blessing or intercession to a supplicant.",
+    "scene_interpretation": "Blessing of a Supplicant",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Bishop",
+        "Nun"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154676/f250/808,446,809,948/full/0/default.jpg"
+}

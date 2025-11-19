@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue robe, meeting Elizabeth, who wears a red garment and a white veil. They are shown in an outdoor setting, with a stone wall and a building with arched windows to the left, and a fortified castle with towers in the background to the right. A river or body of water is visible behind the wall. In the middle ground, a figure in an orange tunic and blue trousers is engaged in manual labor, possibly tending to the trees or working in the garden. The figures of Mary and Elizabeth are rendered with halos, indicating their saintly status.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009437p/f146/562,356,915,1423/full/0/default.jpg"
+}

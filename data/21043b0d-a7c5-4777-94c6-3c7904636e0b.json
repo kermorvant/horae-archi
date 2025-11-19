@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the Virgin Mary cradling the body of Jesus in her lap. To the left, a bearded man in a white robe and orange garment, possibly Joseph of Arimathea, gestures with his hand. To the right, another figure in a grey robe with red trim looks on, and a kneeling figure in a pink robe anoints Christ's feet. In the background, Golgotha is depicted with three crosses, two of which bear crucified figures. Figures are shown on a rocky, uneven terrain, with some architectural elements resembling towers and walls in the distance. The overall scene is rendered with a gold halo around the heads of the main figures, indicating their sanctity.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b520004510/f161/1111,1121,1076,1418/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A king, adorned with a golden crown and a richly decorated pink robe, kneels in prayer outdoors. He faces a fortified tower with crenellations and a prominent turret, from which barred windows reveal figures within. In the sky above, a divine figure, possibly God or Christ, is depicted descending from heaven, with a hand outstretched as if in blessing or communication. The background features a lush, green landscape with trees and rolling hills, culminating in distant, hazy fortifications. This scene likely represents a moment of divine intervention or a plea for divine favor, possibly related to the king's imprisonment or a significant event in his life.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "battlement",
+        "turret",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0057/2446,926,848,1355/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts an elderly man with a long white beard, wearing a dark, ornate hat and a red and white robe, seated on a throne-like chair draped with blue fabric. He appears to be engaged in writing or examining something in his hands. To his right, a younger man in a reddish tunic and armbands holds a staff and a small grey bag. In the background, a small, nude child with outstretched arms is visible, seemingly floating or being held aloft. The overall setting is sparse, with a grey, textured wall behind the figures and a hint of architectural framing at the top.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Magi",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_des_Arts_decoratifs/Musee_des_Arts_decoratifs_INV_40343/DEPOT/Musee_des_Arts_decoratifs_INV40343_0061/1239,360,1119,1720/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and blue and gold robe, standing and raising a whip-like object, seemingly in the act of expelling figures from a space. He is facing a table covered with a blue cloth, on which are placed several round objects that appear to be coins or weights. To Christ's right, three individuals are depicted. One man, wearing a red tunic and a blue and gold turban, looks towards Christ with a hand on his chest, appearing distressed or surprised. Behind him, another man in a blue robe and a red hat also looks on. A woman in a green dress and an elaborate headdress stands further back, observing the scene. The background suggests an interior architectural setting with columns, arched windows with diamond-shaped panes, and a tiled floor. The overall impression is one of divine intervention and judgment.",
+    "scene_interpretation": "The Expulsion of the Money Changers from the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "column",
+        "window",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0110/utp-0110_060v.jp2/1728,463,3327,6422/full/0/default.jpg"
+}

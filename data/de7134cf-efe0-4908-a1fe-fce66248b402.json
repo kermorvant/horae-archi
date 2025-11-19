@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her halo and blue undergarment, embracing Saint Elizabeth. Mary wears a red robe and a white veil, while Elizabeth is dressed in a golden patterned robe and a blue hat. They stand in front of a stone structure, possibly a city wall or building, with a castle and other buildings visible in the background under a golden sky. The figures are rendered with a focus on their emotional connection, with their faces close and their arms around each other.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010116g/f309/497,235,936,1570/full/0/default.jpg"
+}

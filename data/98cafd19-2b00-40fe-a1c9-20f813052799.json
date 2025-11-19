@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Three bearded men are depicted. The central figure, kneeling, wears a hooded robe and clasps his hands in prayer. To his left, another man, also bearded and robed, looks upwards with a solemn expression. To the right of the kneeling figure, a third man, with a long beard and wearing a hooded robe, holds a rosary with a cross pendant, his hands also clasped in prayer. The figures are rendered in a woodcut style with strong outlines and hatching to indicate drapery and form. No architectural elements or specific setting are visible, suggesting a focus on the devotional act.",
+    "scene_interpretation": "Devotional Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bearded man",
+        "Bearded man",
+        "Bearded man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00016/297,2289,615,772/full/0/default.jpg"
+}

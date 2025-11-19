@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A haloed woman with long, flowing red hair stands in a room with a red, gold-patterned wall and a green, raised platform. She wears a vibrant red cloak over a pale yellow gown. In her hands, she holds a small, cylindrical vessel, possibly a pot or a reliquary, with its lid open. The floor is tiled in a black and pink diamond pattern. The scene is framed by an arched architectural element with blue and red borders, suggesting an interior setting.",
+    "scene_interpretation": "Saint Mary Magdalene",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Saint Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025267c/f252/524,378,1306,1965/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within a grand church interior. Several figures in clerical attire, including a bishop in red vestments and a priest in green, are gathered around an altar. One figure, possibly a cleric, holds a processional cross. In the background, a depiction of Christ on the cross is visible, along with other religious statuary. The architecture features ribbed vaults, pointed arches, and large windows, indicative of Gothic style. The overall scene suggests a Mass or a devotional service, likely focusing on the Passion of Christ.",
+    "scene_interpretation": "Mass of Saint Gregory",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "vault",
+        "window",
+        "column",
+        "arch",
+        "cross"
+    ],
+    "persons": [
+        "Bishop",
+        "Priest"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:42:2:wdl_14422:214_SMC_1_103v/1312,303,1342,2294/full/0/default.jpg"
+}

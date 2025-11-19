@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a funeral procession or a religious ceremony outdoors. A group of clerics, some in blue and gold vestments and others in black habits, are gathered, holding an open book and singing. One cleric carries a censer. In the foreground, two figures are tending to a deceased person wrapped in a white shroud, lying on the ground. Behind them, a young acolyte in a white robe holds a lantern and stands near a processional cross. In the background, there is a building with arched windows and a pitched roof, suggesting a church or monastery, and a cross with a golden halo. The sky is a vibrant blue with rays of light emanating from above.",
+    "scene_interpretation": "Funeral Rites",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "cross"
+    ],
+    "persons": [
+        "Cleric",
+        "Acolyte"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_072/DEPOT/M490075203_MS2003_1_072_0145/1936,1065,1373,2093/full/0/default.jpg"
+}

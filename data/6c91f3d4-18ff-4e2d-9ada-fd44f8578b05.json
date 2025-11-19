@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an ornate architectural setting. The Virgin Mary, dressed in a blue robe, is seated and reading from a book, her gaze directed downwards. To her left, the Angel Gabriel, adorned in a richly decorated robe and holding a scepter, appears to be delivering his message. A scroll with Latin text and lilies, symbolizing purity, unfurls between them. Above, in a separate architectural compartment, two angels are shown, one leaning over another who is asleep in a bed. Rays of divine light descend from the upper left, and a dove, representing the Holy Spirit, hovers above the Virgin. The architecture features elaborate golden tracery, arches, and what appears to be a cityscape in the background.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "tracery_window",
+        "roof",
+        "gable",
+        "pinnacle",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f55/641,373,1015,1777/full/0/default.jpg"
+}

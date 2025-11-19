@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary, with the Virgin kneeling in prayer, clad in a blue mantle with gold trim, her hands clasped. To her right, Christ, seated and holding an orb, extends his hand towards her, bestowing a crown. Above them, a host of cherubic figures, some with wings, are depicted in the celestial realm, with one group placing a crown upon the Virgin's head. The scene is framed by an arched architectural element, suggesting a divine or sacred space.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000003/MAA_00003_075.jpg/1986,433,953,1094/full/0/default.jpg"
+}

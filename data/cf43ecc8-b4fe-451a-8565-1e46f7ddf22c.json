@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A group of figures are depicted under a decorative arch. In the foreground, two figures are shown. The figure on the left, a child, is praying with hands clasped. To the right of the child, another figure, possibly an adult, also appears to be in prayer or contemplation. Behind them, several other figures are visible, some looking towards the central figure who is leaning forward with arms crossed. The scene is framed by an architectural element resembling an arch, suggesting an interior or a structured setting. The overall impression is one of devotion or a solemn gathering.",
+    "scene_interpretation": "Devotional Scene",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0068/880,331,508,689/full/0/default.jpg"
+}

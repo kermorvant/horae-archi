@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated and breastfeeding the Christ Child, who is held in her arms. To the left, a bearded man, presumably Saint Joseph, looks on with his hand resting on Mary's shoulder. Behind them, a simplified architectural structure with towers and crenellations suggests a town or castle. The background is filled with diagonal lines, possibly representing a roof or a stylized sky. The overall composition is intimate, focusing on the tender interaction between mother and child, with the presence of Saint Joseph grounding the scene in a domestic or familial context.",
+    "scene_interpretation": "Madonna and Child with Saint Joseph",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0054/869,427,733,1016/full/0/default.jpg"
+}

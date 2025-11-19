@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an arched architectural setting. The Virgin Mary, dressed in a blue robe, is seated on the left, holding an open book. Facing her, on the right, is the Angel Gabriel, kneeling and presenting a scroll with the inscription \"Ave gratia plena Dominus tecum\". Behind them, a richly decorated ceiling with blue panels and gold stars is visible, along with arched windows. A figure, possibly God the Father, is depicted in the upper right corner, radiating light.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_074/DEPOT/M490075203_MS2003_1_074_0030/4105,1089,1184,1814/full/0/default.jpg"
+}

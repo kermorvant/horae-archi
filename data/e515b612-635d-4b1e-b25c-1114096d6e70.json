@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A central figure, depicted as a muscular youth with long hair, stands triumphantly atop a golden, rocky structure, wielding a club raised high as if to strike. This figure appears to be battling or subduing a serpentine creature with a red tail, which coils around the base of the rock. Water cascades down from the rock and from two flanking sculptures of putti or cherubic figures, suggesting a fountain. The background is a vibrant blue, possibly representing the sky or water, with scattered gold flecks. The entire scene is framed by an ornate, golden archway with decorative elements.",
+    "scene_interpretation": "Hercules and the Lernaean Hydra",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "undefined_element"
+    ],
+    "persons": [
+        "Hercules"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510074b/f214/2314,5235,870,1085/full/0/default.jpg"
+}

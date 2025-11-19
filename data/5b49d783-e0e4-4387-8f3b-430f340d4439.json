@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a sarcophagus, which is covered with a white cloth. In the foreground, a woman kneels with her hands clasped in prayer. Behind her, several other individuals, including men and women, stand and observe. To the right, within an architectural structure, a figure holds a baby. The background shows a glimpse of a city or landscape with buildings. The overall setting appears to be within a religious or funerary context, possibly a chapel or a tomb.",
+    "scene_interpretation": "Funeral of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0058/900,424,1326,1625/full/0/default.jpg"
+}

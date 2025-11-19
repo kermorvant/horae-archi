@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary, with the Virgin lying on a blue-draped bed, appearing to be in a state of repose or death. A bearded man, possibly a priest or bishop, stands at her head, holding a cross-like object and extending his hand. To his left, another figure with a halo and a brown cloak prays. In the foreground, a kneeling figure in a white robe with a halo prays with clasped hands. To the right of the bed, three figures with halos and praying hands are gathered, one in a purple robe and two in orange and purple robes. The background is a solid blue, suggesting an interior or a stylized setting, with a hint of architectural detail at the top left.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892141/266,2080,1089,771/full/0/default.jpg"
+}

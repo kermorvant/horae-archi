@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene is divided into three distinct narrative sections framed by elaborate architectural elements. On the left, a pastoral landscape depicts John the Baptist, identifiable by the lamb and the cross with a banner, standing in a verdant field near a river. In the upper right, a group of figures are gathered around a table, suggesting a feast or meal within an interior space. The lower right section portrays a dramatic event: John the Baptist kneels, his head bowed, while a man in an orange tunic raises a sword to strike him. A woman in a blue gown holds a platter, presumably to receive the head. The overall composition is framed by gilded architectural structures with Gothic detailing, including arches, columns, and niches containing figures. The text below the main scene provides a devotional context.",
+    "scene_interpretation": "Beheading of Saint John the Baptist",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "niche",
+        "wall",
+        "roof",
+        "microarchitecture"
+    ],
+    "persons": [
+        "John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/07f9eadd-64b5-4f89-a2b6-a9c2f8262443/331,937,3395,4961/full/0/default.jpg"
+}

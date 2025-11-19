@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A figure, identifiable as Christ due to the halo, stands within an architectural frame. He is depicted with a beard and long hair, wearing a blue robe with gold stripes over a white garment. He holds a cross in his left arm and a book in his right hand. The background features a pink textile with gold star-like motifs, set against a dark blue curtain. The floor is a green and black checkered pattern. The architectural elements suggest a niche or a stylized interior space, with golden, ornate framing.",
+    "scene_interpretation": "Christ Carrying the Cross",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dt765nv8976%2FW206_000070_1200/3704,2247,1571,2010/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony or blessing. A bishop, identifiable by his mitre and ornate blue cope, holds a red book and raises his hand in a gesture of blessing or instruction. He is accompanied by another figure, likely a saint or apostle, also with a halo, wearing a green robe and holding a red book. In the foreground, three men in blue robes kneel, their hands clasped in prayer or supplication. Above, a hand emerges from a golden disc, pointing downwards, suggesting divine intervention or approval. The background is a rich red tapestry with gold patterns, and the ground is depicted as green with stylized vegetation.",
+    "scene_interpretation": "Consecration",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop",
+        "Saint",
+        "Man",
+        "Man",
+        "Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f387/1903,820,795,1511/full/0/default.jpg"
+}

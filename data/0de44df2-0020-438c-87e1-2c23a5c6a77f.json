@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A female saint, identified by a golden halo, is depicted in a devotional pose. She wears a blue garment with puffed sleeves and a red mantle draped over her shoulders. In her left hand, she holds a sword with a golden pommel, resting its blade on the ground. In her right hand, she holds an open book, its pages filled with text. The background is a deep black, suggesting a metaphysical or symbolic space, with a golden border framing the image.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515741t/f245/300,2174,569,595/full/0/default.jpg"
+}

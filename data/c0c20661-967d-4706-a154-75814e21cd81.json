@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts two large, stylized fish swimming in a blue expanse, possibly representing water. Above them, a landscape unfolds with rolling hills, some topped with structures that resemble buildings or fortifications. A bright, radiating sun is visible in the upper right, casting rays. In the distance, there are hints of more complex structures and possibly birds in flight. The overall impression is a stylized representation of a natural environment with some architectural elements.",
+    "scene_interpretation": "Creation of the Fishes",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421765/502,1019,413,532/full/0/default.jpg"
+}

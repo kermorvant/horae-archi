@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition from the Cross. Christ's body, pale and marked with wounds, is being carefully lowered from the cross by a figure standing on a ladder. Another figure, possibly Joseph of Arimathea, supports Christ's legs. To the right, a group of mourners, including the Virgin Mary in blue and a figure in red holding a book, stand in sorrow. In the background, a stylized city with towers and buildings is visible. The ground is rendered as green, suggesting an outdoor setting.",
+    "scene_interpretation": "Deposition from the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS26%2FBMC_MS26_jp2.zip%2FBMC_MS26_jp2%2FBMC_MS26_0097.jp2/2656,1378,2637,3843/full/0/default.jpg"
+}

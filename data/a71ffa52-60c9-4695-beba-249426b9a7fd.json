@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a rocky, outdoor landscape, with some sparse vegetation and trees in the background. The central action involves several men struggling to carry a large wooden cross. Christ, identifiable by his halo, is shown bearing the cross, with a man in a blue robe assisting him. To the left, the Virgin Mary, also with a halo, looks on with sorrow, accompanied by other figures. To the right, a man in a pink tunic carries a basket filled with what appear to be nails or thorns. The surrounding figures, some in military attire with helmets and weapons, and others in more civilian clothing, appear to be a mix of tormentors and onlookers. The overall atmosphere is one of suffering and religious solemnity.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ott.lat.2919/Ott.lat.2919_0052_fa_0022v.jp2/445,426,485,635/full/0/default.jpg"
+}

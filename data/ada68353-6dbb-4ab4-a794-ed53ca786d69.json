@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a humble stable. The Virgin Mary, adorned with a golden halo, cradles the Christ Child on her lap. She wears a vibrant blue gown embellished with gold patterns. Before them kneels one of the Magi, offering a golden chalice. Behind him stand two other Magi, also crowned and holding chalices, their faces turned towards the infant. In the background, a simple wooden structure with a thatched roof forms the stable, juxtaposed with more elaborate stone buildings featuring arched windows and turrets, suggesting a town or castle beyond. The overall composition is framed by an ornamental border with floral motifs.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0035/bge-lat0035_0080v.jp2/2153,629,2284,3426/full/0/default.jpg"
+}

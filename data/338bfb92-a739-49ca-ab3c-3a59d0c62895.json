@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, seated and breastfeeding the Christ Child, who is looking towards the viewer. To the left, a monk in a white habit kneels in prayer before a stone altar. Behind the monk, a woman in a black headdress and dark dress looks on with a gentle expression. The figures are framed by classical columns and arches, suggesting an architectural setting. In the background, a landscape with rolling hills and trees is visible. Scrolls with Latin inscriptions are draped across the scene, adding a textual layer to the visual narrative. The overall composition suggests a devotional scene, likely a prayer or meditation on the Virgin and Child, with the monk as the intercessor.",
+    "scene_interpretation": "Madonna and Child with a praying monk",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "roof",
+        "altar"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127516/f86/453,326,1016,1483/full/0/default.jpg"
+}

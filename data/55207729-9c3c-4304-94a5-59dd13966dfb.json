@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The dead body of Christ, with visible wounds from crucifixion, is cradled by the Virgin Mary, who is dressed in blue and white. To the left, a figure in a red robe, likely Saint John the Evangelist, supports Christ's body and looks on with sorrow. In the background, a rocky landscape gives way to a body of water with a distant figure walking along its bank. Beyond the water, a fortified city with towers and a domed building is visible, suggesting a setting outside of Jerusalem. A wooden cross, bearing the inscription 'I.N.R.I.', stands prominently in the upper center.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "cross",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/5afd95b0-7516-4a16-9897-09a31fb322dd/755,1039,2181,2620/full/0/default.jpg"
+}

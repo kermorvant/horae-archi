@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel, clad in a vibrant orange robe and with large wings, kneeling on the left. He holds a sprig of white flowers and gestures towards the Virgin Mary, who is kneeling on the right, engrossed in reading a book. Above Gabriel, a dove, representing the Holy Spirit, descends with rays of light. The background features a blue, starry sky and a lush green tree on the left, while on the right, a richly decorated architectural structure, possibly a throne or a canopy, is visible. The figures are set against a backdrop that includes architectural elements and a red curtain.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.C.IV.111/Chig.C.IV.111_0041_fa_0015r.jp2/183,271,401,421/full/0/default.jpg"
+}

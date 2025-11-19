@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint John the Baptist by his halo and traditional depiction, kneels in a grassy landscape. He wears a red cloak lined with gold over a simple garment, exposing his legs. His left hand is open, palm up, while his right index finger points upwards towards a radiant sun. Beside him lies an open book, its pages filled with text. In the upper right corner, a lamb is depicted within the sun's rays, symbolizing Christ. The scene is set outdoors with rolling green hills and a few trees in the background under a blue sky. The overall composition suggests a divine revelation or vision.",
+    "scene_interpretation": "The Vision of Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009437p/f95/237,1134,617,639/full/0/default.jpg"
+}

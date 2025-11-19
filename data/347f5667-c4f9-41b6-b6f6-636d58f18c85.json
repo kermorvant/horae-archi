@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure, likely Christ, seated on a throne or celestial chariot, holding a hammer and possibly a scepter. He is surrounded by a starry or speckled background, suggesting a divine or cosmic setting. To his left, a bird is perched. To his right, a figure in a robe stands, and below them, a smaller, possibly angelic, figure is visible. The lower part of the image shows several human figures, some with beards and wearing hats, looking upwards. The overall composition suggests a divine judgment or a celestial event.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0055/603,2551,636,653/full/0/default.jpg"
+}

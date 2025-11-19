@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Adam and Eve in a garden setting. Adam, on the left, is shown with a beard and is holding an apple. Eve, on the right, is pregnant and is also reaching for or holding an apple. A serpent, coiled around a tree, is prominently featured. The serpent's head is near Eve, and a severed human head, possibly representing the consequence of the sin, dangles from the tree. The background is a deep blue with gold stars, suggesting a celestial or otherworldly realm, though the foreground shows green grass and trees, indicating an earthly garden.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f32/465,998,823,1666/full/0/default.jpg"
+}

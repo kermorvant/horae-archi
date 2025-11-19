@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary. A seated figure, likely God the Father or Christ, wearing a bishop's mitre and a red robe with a blue mantle, places a golden crown upon the head of the kneeling Virgin Mary. She is dressed in a blue robe and kneels with her hands clasped in prayer. To her left, an angel in a golden robe with white wings stands with hands clasped. Above them, two smaller angels with halos and golden robes are depicted in prayer. The figures are set against a backdrop of ornate, patterned drapery and architectural elements, suggesting a heavenly or royal setting.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0033/bge-lat0033_087v.jp2/1508,481,1456,2346/full/0/default.jpg"
+}

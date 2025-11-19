@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A group of men, led by an elder with a long white beard and blue robes adorned with gold patterns, stand on a grassy ground. The elder is gesturing towards a raised platform or altar, on which are placed baskets filled with grain or seeds, and two vessels. Above, in a celestial realm depicted with a red and gold patterned background and stars, a figure wearing a golden crown and robes, possibly a divine being or prophet, is shown reaching down. Two doves are perched on the platform. The scene appears to depict an offering or a divine revelation.",
+    "scene_interpretation": "The scene likely represents the \"Presentation of the First Fruits\" or a similar Old Testament offering, where gifts of the harvest are presented to God. The figure in the sky could be God himself or a divine messenger, receiving the offerings. The presence of doves might symbolize peace or the Holy Spirit.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f86/404,1178,935,1676/full/0/default.jpg"
+}

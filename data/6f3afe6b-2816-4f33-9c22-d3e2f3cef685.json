@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus Christ nailed to a wooden cross. He is shown with a crown of thorns, wounds from the crucifixion, and a white loincloth. The background is a stylized landscape of blue sky and green earth, with hints of water and distant hills. The scene is framed by decorative architectural elements, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52506271h/f10/750,252,2139,2452/full/0/default.jpg"
+}

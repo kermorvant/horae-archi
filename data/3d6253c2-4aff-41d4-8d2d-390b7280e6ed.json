@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts the Virgin Mary holding the Christ Child. Mary is shown with a halo of stars and rays emanating from behind her head, suggesting divine light. She wears a veil and a patterned garment. The Christ Child is held in her arms, also with a halo. The scene is framed by a circular border with decorative elements, including what appear to be rays of light or flames and some foliage. In the lower left corner, there are dice and a bundle of sticks, possibly symbolic elements. The overall style is that of a woodcut illustration.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/b9526a58-bddf-4733-8cc8-80ac5557f7c9/2606,1679,1541,1628/full/0/default.jpg"
+}

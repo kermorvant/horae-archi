@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The Virgin Mary, draped in a blue mantle and purple robe, cradles the lifeless body of Christ, who is shown pale and wounded, wrapped in a white loincloth. To Mary's left, a young man, likely John the Evangelist, supports Christ's legs. To Mary's right, a woman in a yellow robe, possibly Mary Magdalene, kneels in prayer. Behind them, a wooden cross is visible, and the background features a green, hilly landscape with trees and a distant city skyline under a blue sky. The overall composition conveys sorrow and devotion.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "John the Evangelist",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/26121223/1673,1269,884,826/full/0/default.jpg"
+}

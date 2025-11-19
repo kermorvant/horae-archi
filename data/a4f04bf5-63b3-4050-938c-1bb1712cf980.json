@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Christ Child lies in a wooden manger, swaddled and with a halo. To the left, a cow and a donkey are visible, with the donkey's head raised as if braying. In the foreground, the Virgin Mary, in a blue robe and with a halo, kneels with her hands clasped in prayer before an open book placed on a wooden stool. To her right, Saint Joseph, also with a halo, kneels with his hands clasped in prayer, wearing a pink cloak over an orange tunic. The figures are set against a green grassy ground and a blue sky, within a simple wooden stable structure.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0100/utp-0100_067v.jp2/2491,1833,2427,2355/full/0/default.jpg"
+}

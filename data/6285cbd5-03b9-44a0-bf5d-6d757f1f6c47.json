@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely King David, kneeling in prayer with his hands raised towards a radiant sun in a deep blue sky. He is dressed in a richly patterned crimson robe over a blue tunic and wears a distinctive blue and gold patterned hat. A harp rests beside him, suggesting his role as a musician and psalmist. The background features a stylized landscape with rolling hills, trees, and distant buildings with spires, indicative of a medieval town or city. Rays of light emanate from the sun, illuminating the scene and emphasizing a divine presence. In the distance, figures and animals are visible, suggesting a broader narrative context.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0070/DEPOT/M601415401_MS0070_0006/4293,779,1551,2246/full/0/default.jpg"
+}

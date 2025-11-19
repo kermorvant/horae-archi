@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Two crowned figures, likely a king and queen, are seated on a bench. The figure on the left, dressed in pink, has their hands clasped near their face, possibly in prayer or contemplation. The figure on the right, in a blue robe adorned with gold fleur-de-lis patterns, holds a golden object, perhaps a crown or a reliquary, in their lap. They are positioned within a decorative architectural frame featuring a trefoil arch and a background of gold and blue diamond patterns. The scene is framed by a border with intricate geometric and foliate motifs. The overall impression is one of royal dignity and possibly a devotional or ceremonial moment.",
+    "scene_interpretation": "Coronation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "King",
+        "Queen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS0845/DEPOT/786466101_MS0845_0068/4215,1265,1704,1967/full/0/default.jpg"
+}

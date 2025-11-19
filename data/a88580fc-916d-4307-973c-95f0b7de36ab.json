@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "In a pastoral landscape, several figures in monastic robes are depicted looking upwards with awe and reverence. One figure kneels beside a flock of sheep, while others stand. Above them, an angel descends from the sky, its wings outstretched. In the background, rolling hills are dotted with trees and a distant building, possibly a church or castle, is visible. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511766t/f69/521,315,746,770/full/0/default.jpg"
+}

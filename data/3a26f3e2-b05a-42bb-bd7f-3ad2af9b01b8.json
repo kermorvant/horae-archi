@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a book. In the center, a woman, likely the Virgin Mary, wearing a veil, is looking down at the book. To her right, a man, possibly Saint Joseph, and another figure, perhaps a child, are also present. In the foreground, a seated man, possibly a scholar or monk, is intently reading from a book. The background suggests an outdoor setting with foliage and a small architectural structure resembling a building with a gable and a tower or spire. The overall composition evokes a sense of quiet contemplation and religious study.",
+    "scene_interpretation": "The scene likely represents the Holy Family in a moment of study or devotion, possibly the Education of the Virgin or a scene from the life of Christ. The presence of a seated figure reading could also allude to Saint Jerome or another scholar engaged with sacred texts, a common theme in Books of Hours.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "gable",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0066/4124,588,614,1040/full/0/default.jpg"
+}

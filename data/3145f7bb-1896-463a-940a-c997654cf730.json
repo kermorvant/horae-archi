@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, identified as King David by the presence of a harp, is depicted wearing a crown and a blue cap. He is dressed in a red robe adorned with gold patterns and a white collar. His left hand points outwards, while his right hand holds a white cloth. A harp, a musical instrument associated with King David, is visible to his left. The background is a vibrant blue with scattered circular motifs. The scene is framed by an architectural element suggestive of a decorative archway.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0031/5083,1750,770,956/full/0/default.jpg"
+}

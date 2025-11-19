@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts a single figure, likely a saint or a royal personage, standing within an architectural frame. The figure wears a headdress and a pleated garment adorned with decorative elements at the shoulders. They hold a staff or scepter in their right hand and raise their left hand with two fingers extended, possibly in a gesture of blessing or teaching. The architectural setting appears to be a niche or an archway, suggesting an interior or a framed representation. The style is characteristic of medieval woodcut illustrations.",
+    "scene_interpretation": "The figure's gesture of raising two fingers is often associated with Christ or a saint giving a blessing or teaching. The scepter suggests authority or sainthood. Without further iconographic clues, a specific interpretation is difficult, but it likely represents a devotional figure within a religious context.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0034/866,361,452,638/full/0/default.jpg"
+}

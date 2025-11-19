@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ is shown on the cross, with a loincloth. To his left, a figure in dark robes, likely the Virgin Mary, is shown grieving. To Christ's right, another figure, possibly Longinus, pierces Christ's side with a spear. Below the cross, two figures are kneeling. One, on the left, appears to be looking up at Christ with sorrow. The other, on the right, is hunched over, possibly collecting Christ's blood in a vessel. The background is dark and indistinct, suggesting a somber and possibly outdoor setting.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Besançon/Bibliotheque_municipale/B250566101_MS0154/DEPOT/B250566101_MS0154_0034/3550,965,1043,1139/full/0/default.jpg"
+}

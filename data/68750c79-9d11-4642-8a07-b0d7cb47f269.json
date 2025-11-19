@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A man wearing a distinctive hat and robes stands before a well. He gestures with his hands, one holding a small object, the other open as if in explanation or supplication. Behind him, a stylized cityscape with towers and buildings is depicted. The scene is rendered in a woodcut style with strong outlines and hatching.",
+    "scene_interpretation": "The scene is likely allegorical or devotional, possibly representing a parable or a moral lesson. The man's gesture and the presence of the well could symbolize drawing from a source of wisdom, spiritual sustenance, or even a temptation. Without further context, a specific biblical or liturgical event cannot be definitively identified.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0097/5866,443,652,1204/full/0/default.jpg"
+}

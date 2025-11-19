@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A haloed woman, likely a saint, is depicted kneeling outdoors, engrossed in reading a book. She wears a blue tunic with gold trim and voluminous gold sleeves, over which a pink mantle with gold lining is draped. Her hair is braided and falls over her shoulders. To her left, a cylindrical tower with crenellations and arched openings rises, suggesting a fortified structure. Behind her, a rocky, green landscape is visible. The scene is framed by an arched border with gold ornamentation. The presence of the halo and the book suggests a devotional context, possibly representing a saint in contemplation or study.",
+    "scene_interpretation": "Saint Reading",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "battlement",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550130827/f247/185,665,751,885/full/0/default.jpg"
+}

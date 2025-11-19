@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a grey robe and blue mantle, kneels in prayer on a patterned green floor. He is positioned in what appears to be a domestic interior, with a bed frame to his right and a table covered with a striped cloth to his left, upon which rests a golden object. Behind him, a rich tapestry or wall hanging is visible. Through an architectural opening, a landscape unfolds with rolling green hills, trees, and a distant walled city. Above, a divine figure, possibly God or an angel, is depicted within a blue cloud, radiating light.",
+    "scene_interpretation": "The scene likely depicts a moment of prayer or divine revelation, possibly related to a biblical figure or a saint. The presence of the distant city and the divine figure suggests a vision or a prayer for intercession. Given the context of a Book of Hours, this could represent a specific psalm or devotional text.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "bed",
+        "table"
+    ],
+    "persons": [
+        "Bearded man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bayeux/Bibliotheque_municipale/B140476201_MS0511/DEPOT/B140476201_MS0511_0058/3603,1040,1514,1751/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. On the left, an angel, identified by wings and a halo, kneels and gestures towards the Virgin Mary on the right. The angel wears a red robe over blue leggings and pointed shoes. The Virgin Mary, also with a halo, kneels with her hands clasped, holding a red book. She is dressed in a blue robe. The background features a pink wall with decorative elements and a large arched window revealing a landscape with hills, trees, and a body of water. The floor is tiled in a black and white checkerboard pattern. The architectural setting includes two large arches framing the scene and a smaller arched niche above the window.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.393/Barb.lat.393_0030_fa_0013v.jp2/437,316,376,580/full/0/default.jpg"
+}

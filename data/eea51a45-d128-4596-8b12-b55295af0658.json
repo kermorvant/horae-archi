@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identified by his halo, standing and gesturing towards a reclining man and a woman who is kneeling and looking towards Christ. The reclining man appears to be ill or wounded, with his head resting on his arm. The woman is partially unclothed and clasps her hands in supplication. Behind them, architectural elements suggest an interior space, with decorative columns and arches. The overall composition suggests a moment of healing or divine intervention.",
+    "scene_interpretation": "Healing of the Paralytic",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0094/5926,481,627,1229/full/0/default.jpg"
+}

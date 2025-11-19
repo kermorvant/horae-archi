@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ carrying the cross, accompanied by several figures. Christ, with a golden halo, is shown from the chest up, bearing a large wooden cross. To his left are two women, one veiled and with a halo, and another with a halo. To Christ's right, three figures in armor, possibly soldiers, are depicted. The background is a simple blue sky, suggesting an outdoor setting. The figures are rendered in a stylized manner typical of medieval manuscript illumination.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550092764/f163/398,355,639,719/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "Two bearded men, dressed in medieval attire, are depicted looking upwards. The man on the left wears a red cap and a purple tunic over a blue garment. The man on the right wears a brown hood and a red tunic over a green garment. His hands are clasped in prayer. The background is a vibrant blue, possibly representing the sky, with some indistinct swirling forms and small dots that could be stars. To the right, a stylized, light blue architectural element with circular motifs and vertical lines is visible, suggesting a building or decorative structure.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0013/5063,1416,763,888/full/0/default.jpg"
+}

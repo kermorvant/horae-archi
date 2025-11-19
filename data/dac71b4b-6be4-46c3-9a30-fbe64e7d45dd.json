@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a royal figure, likely a king, seated on a throne and holding a sword. He is dressed in a blue robe adorned with gold trim and wears a crown. Before him, an older man in a golden robe presents a sword, possibly as an offering or a symbol of authority. Behind the older man, a figure with a halo, presumably Christ, stands with his hand raised in a gesture of blessing or guidance. Several other figures, dressed in blue and golden robes, kneel and look up at the scene with supplication. The background features a richly patterned tapestry and a red curtain behind the throne, suggesting an indoor, possibly courtly, setting. The overall composition conveys a sense of investiture or a significant presentation of power.",
+    "scene_interpretation": "Investiture of a King",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f309/1909,1182,1057,1705/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two haloed male figures stand in an outdoor landscape. The figure on the left, dressed in a blue robe over a red tunic, holds a large key. He gestures with his right hand. The figure on the right, wearing a golden robe patterned with red motifs over a blue tunic, leans on a sword. The background depicts rolling green hills, a body of water, and distant buildings. A single tree stands between the two figures. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Saints Peter and Paul",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0367/bge-lat0367_171v.jp2/2437,755,3162,4674/full/0/default.jpg"
+}

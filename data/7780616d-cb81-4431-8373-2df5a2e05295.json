@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, likely King David, kneeling in prayer. He is dressed in a royal blue robe adorned with golden fleurs-de-lis and a red lining, suggesting his regal status. His hands are clasped in supplication. To his left, a harp stands ready, hinting at his musical talents. In the background, a richly decorated bed canopy suggests a domestic or royal chamber. To the right, a wooden chest is visible, topped with a golden crown. Through an arched opening on the left, a haloed figure, possibly a prophet or a divine messenger, is seen in a blue niche, gesturing with a raised hand and radiating light. The overall setting is an interior space, possibly a private chamber within a palace or a monastic cell, emphasizing a moment of personal devotion and divine communication.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_009/DEPOT/762595409_A_10_009_0014/3637,634,1488,1810/full/0/default.jpg"
+}

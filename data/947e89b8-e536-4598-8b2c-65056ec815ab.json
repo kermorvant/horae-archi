@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting framed by a golden arch. On the left, the Angel Gabriel, with large wings and wearing a golden robe, kneels and presents a scroll inscribed with \"AVE MARIA\". Facing him on the right, the Virgin Mary, dressed in a blue robe, kneels with her hands clasped in prayer before an open book. The background features a pink wall with gold flecks, and behind it, a glimpse of a room with windows and what appears to be a bed canopy. The floor is tiled in a green and white checkered pattern. The overall scene is rendered with a devotional focus on the moment of divine revelation.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0004/DEPOT/210545209_004_0005/3687,448,1726,2258/full/0/default.jpg"
+}

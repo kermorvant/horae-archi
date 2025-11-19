@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts an outdoor setting with a building on the left, characterized by a steeply pitched roof and visible walls. In the foreground, a dense arrangement of foliage and trees dominates the landscape. On the right side of the image, a few figures are visible amidst the trees, though their actions are indistinct. The overall impression is of a rural or pastoral environment.",
+    "scene_interpretation": "No specific religious or biblical scene is clearly identifiable from the visual information provided.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511766t/f9/757,1141,490,262/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a confrontation between a demonic figure and a bearded man wearing a halo and a simple tunic. The demon, with a grotesque face, pointed ears, and fur-like texture, is shown holding a scroll or book. The man, appearing to be a saint or holy figure, stands with his hands clasped, looking towards the demon. Behind them, architectural elements suggest an interior setting, possibly a church or a hall, with arches and decorative elements visible.",
+    "scene_interpretation": "Temptation of a Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0040/1279,3533,601,965/full/0/default.jpg"
+}

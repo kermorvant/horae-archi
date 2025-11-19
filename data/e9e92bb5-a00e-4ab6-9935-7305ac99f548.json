@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a celestial vision above a terrestrial landscape. In the upper register, a group of figures, including what appears to be the Virgin Mary holding the Christ Child, are surrounded by a radiant halo of light and numerous other figures, possibly saints and angels. To the left, a bearded man in a flowing robe gestures upwards. To the right, a robed figure with a book reads. The lower register shows a knight on horseback, possibly Saint George, in the act of slaying a dragon, which is not explicitly depicted but implied by the context of the scene and the fallen armored figure at the knight's feet. A group of onlookers observes the event. The landscape is rendered with undulating lines suggesting hills or rough terrain.",
+    "scene_interpretation": "The scene likely represents the Apotheosis of the Virgin or a similar celestial vision, possibly combined with the legend of Saint George and the Dragon. The upper part with the Virgin and Child surrounded by heavenly figures suggests a divine revelation or ascension. The lower part with the knight and the fallen figure strongly points to the iconography of Saint George slaying the dragon, a popular theme in medieval art.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f119/2509,607,887,1212/full/0/default.jpg"
+}

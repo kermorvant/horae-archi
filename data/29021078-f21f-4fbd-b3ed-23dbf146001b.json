@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two haloed male figures stand on a green ground against a background of text. The figure on the left wears a red tunic and a purple mantle, holding a set of keys. The figure on the right wears a blue tunic and a pink mantle, holding a red book and a sword. The presence of keys and a sword are common attributes of saints Peter and Paul, respectively. The scene likely depicts these two apostles.",
+    "scene_interpretation": "Apostles Peter and Paul",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00036276_00200/702,1139,886,747/full/0/default.jpg"
+}

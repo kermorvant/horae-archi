@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, wearing a blue robe and white veil, holds the Christ Child. One of the Magi, kneeling, offers a golden chalice filled with what appears to be gold coins. Another Magus, standing and dressed in blue, holds a golden vessel and points towards the child. A third Magus, also standing, presents a golden monstrance-like object. Behind them, a group of onlookers and attendants are gathered, some on horseback. The architectural setting is a humble stable, with a wooden structure and a thatched roof visible. In the background, a walled city with towers is depicted on rolling hills under a blue sky with a sun.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505805b/f97/197,176,844,1257/full/0/default.jpg"
+}

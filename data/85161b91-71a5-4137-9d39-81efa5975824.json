@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ within a rustic, partially constructed building. The Virgin Mary, in a blue mantle, kneels beside the Christ Child, who lies on a simple cloth on the ground. Saint Joseph, with a halo and a red robe, sits to the left, looking towards the child. An ox and a donkey are present, their heads bowed. The background shows a window with a view of a blue sky and water, and the architectural elements suggest a stable or a humble dwelling under construction, with exposed wooden beams and a partially open doorway.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_004/DEPOT/762595409_A_10_004_0033/3615,935,1464,2844/full/0/default.jpg"
+}

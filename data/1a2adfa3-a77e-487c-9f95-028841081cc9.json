@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man wearing a crown and a richly decorated robe sits with his hands clasped in prayer, looking upwards towards a window. Beside him stands a young woman in a red dress and a green headdress. The scene takes place indoors, within a room with brick walls and a tiled floor. A stylized sunburst emanates from the window, suggesting divine light or inspiration. The composition evokes a moment of intense prayer or supplication, possibly by a king or royal figure.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_112%2Flewis_e_112_jp2.zip%2Flewis_e_112_jp2%2Flewis_e_112_0114.jp2/742,3140,1338,1536/full/0/default.jpg"
+}

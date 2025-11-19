@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher carrying the Christ Child on his shoulders. Saint Christopher, a bearded man with a staff, is shown wading through water, indicated by the patterned ground. The Christ Child, positioned on his shoulders, holds a cross and raises one hand in blessing. They are framed by an architectural element resembling an arch, with a dotted background suggesting a stylized, perhaps celestial, setting. The figures are rendered in a woodcut style with strong outlines and hatching.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0043/1106,749,474,621/full/0/default.jpg"
+}

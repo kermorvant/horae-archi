@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a female figure, identified by her halo and prayerful posture, kneeling and holding a cross. To her left, a monstrous creature with a gaping mouth and sharp teeth is shown. The figures are framed by architectural elements, including columns and an arched canopy, suggesting an interior or a stylized architectural setting. The background is filled with a stippled pattern. This imagery is commonly associated with Saint Margaret of Antioch, who is often depicted triumphing over a dragon or demon, symbolizing her victory over temptation and evil through faith.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0107/5816,3690,677,990/full/0/default.jpg"
+}

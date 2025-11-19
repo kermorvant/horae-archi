@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A woman, identified as Saint Margaret of Antioch, is depicted seated on a dragon. She wears a red dress and a blue mantle, and holds a cross aloft. Above her, a dove descends from a blue, cloud-filled sky, symbolizing the Holy Spirit. The dragon, with its mouth open and a blue cloth caught in its teeth, appears subdued. In the background, a body of water separates the foreground from a walled town with towers and blue-roofed buildings, set against a rolling green landscape dotted with trees. The scene is framed by an ornate border.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10549444b/f63/408,502,1433,1679/full/0/default.jpg"
+}

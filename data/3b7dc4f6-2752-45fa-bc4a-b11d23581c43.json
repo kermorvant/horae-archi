@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a white veil and a blue mantle over a golden gown, is seated on an ornate throne. Her head is bowed, and her right hand rests on her chest. The throne is flanked by architectural elements featuring niches with sculpted figures, including winged angels and bearded men. To the left, a landscape with rolling hills is visible through an arched opening. To the right, a window looks out onto a blue sky. The scene is framed by decorative architectural elements, suggesting an interior setting within a grand structure. The overall impression is one of solemnity and divine contemplation, likely representing the Virgin Mary in a moment of prayer or reflection, possibly during the Annunciation or another significant event in her life.",
+    "scene_interpretation": "Virgin Mary in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "niche",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f44/1049,1267,3252,3404/full/0/default.jpg"
+}

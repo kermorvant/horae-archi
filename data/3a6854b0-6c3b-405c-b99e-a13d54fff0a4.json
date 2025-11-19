@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body pale and his loincloth yellow. To his left stands the Virgin Mary, draped in blue and pink, her head bowed. To his right is Saint John the Evangelist, in a blue robe, also with a sorrowful expression. Above the cross, two angels with faces are depicted, one on each side, with wings outstretched. The figures are set against a golden background, framed by elaborate architectural elements that suggest a Gothic style, including pointed arches, columns, and decorative tracery. The overall impression is one of solemnity and religious devotion.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "tracery_window",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/hf206wb9742%2FW104_000005_1200/810,1032,3694,5378/full/0/default.jpg"
+}

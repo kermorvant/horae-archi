@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men, some in armor and others in more elaborate attire. The central figure, with a beard and wearing a distinctive hat, gestures with his hands. To his left, a man in armor holds a sword. To the right, another figure in armor, possibly a guard, stands with a shield. The background suggests an architectural setting with arched elements and decorative motifs, possibly indicating a palace or a grand hall. The overall impression is one of a formal gathering or a scene of authority.",
+    "scene_interpretation": "This scene does not depict a specific biblical or devotional event that can be definitively identified from the visual cues alone. It appears to be a secular or historical representation, possibly of a king or ruler with his retinue, or a scene from a historical narrative.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0031/765,3565,614,1178/full/0/default.jpg"
+}

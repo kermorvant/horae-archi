@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely a saint, kneels with his hands raised in supplication or defense, surrounded by demonic figures. These demons, with grotesque features, horns, and claws, appear to be tormenting or attacking the saint. The scene is framed by architectural elements that suggest a stylized, possibly ruined, building with arched openings. The overall impression is one of spiritual struggle and the triumph of faith over evil.",
+    "scene_interpretation": "Temptation of a Saint",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0084/4184,2716,637,974/full/0/default.jpg"
+}

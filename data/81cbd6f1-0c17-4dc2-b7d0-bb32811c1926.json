@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated, holding the Christ Child on her lap. The Christ Child is reaching out towards a crowned female figure kneeling before them. This figure, dressed in a blue robe, holds a circular object with intricate designs. The background is a rich red tapestry with a repeating gold pattern. The figures are rendered with halos, indicating their sacred status. The Virgin Mary and Christ Child are seated on a wooden bench or throne.",
+    "scene_interpretation": "The scene likely represents the Virgin and Child with a supplicant, possibly a queen or a saintly figure, seeking intercession or blessing. The crowned figure could represent a royal patron or a symbolic representation of the Church. The gesture of the Christ Child reaching out suggests an interaction or bestowal of grace.",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.D.V.71/Chig.D.V.71_0148_fa_0070v.jp2/308,308,421,423/full/0/default.jpg"
+}

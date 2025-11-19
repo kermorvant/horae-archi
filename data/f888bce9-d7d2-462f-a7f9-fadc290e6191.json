@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic battle with numerous armored figures on horseback and on foot, engaged in combat. A white horse is central, with a rider in blue armor being pulled down by another figure. To the right, a kingly figure in a blue surcoat adorned with gold embroidery, wearing a crown, surveys the scene, holding a shield. Several fallen soldiers and a severed head are visible on the green ground, suggesting a violent conflict. The background is filled with more soldiers and horses, and the sky is a pale blue.",
+    "scene_interpretation": "Battle of David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7d975bcf-c406-40f5-bb3d-8832df7d9e24/2024,1933,1194,979/full/0/default.jpg"
+}

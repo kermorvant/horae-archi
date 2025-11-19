@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A crowned king, seated and richly robed in blue and gold, gestures with his right hand towards two women. One woman, in a blue gown, holds a long sword, pointing it downwards. Beside her, another woman in a pink gown looks on. In front of the king, two unclothed children are depicted, one embracing the other. Behind the figures, a stone wall decorated with blue squares and golden stars forms the backdrop. Above this, a crenellated wall supports several small, gabled buildings with golden roofs, flanked by towers. The scene appears to be set within an architectural structure, possibly a hall or throne room, with an arched opening framing the view of the buildings and sky beyond.",
+    "scene_interpretation": "Judgment of Solomon",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower",
+        "battlement"
+    ],
+    "persons": [
+        "King Solomon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f262/474,931,869,1591/full/0/default.jpg"
+}

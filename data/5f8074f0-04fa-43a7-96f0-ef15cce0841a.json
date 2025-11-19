@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit, with the Virgin Mary at the center, surrounded by a group of figures, likely the Apostles, all with hands clasped in prayer. Above them, a radiant dove, symbolizing the Holy Spirit, descends from a golden light. The figures are positioned within an architectural setting that suggests an interior space, possibly a room or a chapel, with arched openings visible in the background. Two kneeling figures, one in black and white habit and the other in a red robe, are positioned in the foreground, also in prayer. A coat of arms is displayed between them. The overall atmosphere is one of devotion and divine inspiration.",
+    "scene_interpretation": "Descent of the Holy Spirit",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000515v/f137/514,372,1511,2344/full/0/default.jpg"
+}

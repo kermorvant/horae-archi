@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A figure, likely Saint Jerome, is depicted seated on a throne-like chair, wearing a red robe and a wide-brimmed red hat, and reading from an open book placed on a lectern. A halo surrounds the figure's head, indicating sainthood. To the right of the figure, a lion lies on the floor. The scene is set within an architectural space with blue vaulted ceilings and brick walls. An arched opening reveals an outdoor landscape with trees and a path. The floor is decorated with a checkered pattern of blue and light blue squares. The overall scene suggests a scholarly or devotional setting, possibly representing Saint Jerome in his study, a common depiction in medieval art.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "wall",
+        "column",
+        "roof"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_003%2Fwidener_003_jp2.zip%2Fwidener_003_jp2%2Fwidener_003_0287.jp2/2118,964,1408,2386/full/0/default.jpg"
+}

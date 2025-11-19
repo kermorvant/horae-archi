@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, identified as a saint by his halo and regal attire, is seated on an ornate throne. He wears a golden crown and a blue mantle over a white garment with red cross-like markings. He holds an open book in his left hand and gestures with his right. The background is decorated with a rich, tessellated pattern of blue, red, and gold squares, suggesting a divine or elevated setting. The floor is also patterned with black and white diamonds. The overall impression is one of authority and spiritual wisdom.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.61/Ross.61_0069_fa_0051r.jp2/1258,242,572,692/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross. To his left stands the Virgin Mary, draped in a blue mantle and with her hands clasped in prayer. To his right is Saint John the Evangelist, also with hands clasped in prayer, wearing a blue tunic and a red mantle. The background features a patterned textile and a blue sky with celestial bodies, including a sun and a moon. The ground is depicted as green and rocky.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lehigh_codex_016%2Flehigh_codex_016_jp2.zip%2Flehigh_codex_016_jp2%2Flehigh_codex_016_0206.jp2/643,455,1469,2334/full/0/default.jpg"
+}

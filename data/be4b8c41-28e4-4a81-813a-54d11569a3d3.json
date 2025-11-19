@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a man, likely King David, in profile, playing a harp. He wears a distinctive hat and a richly patterned garment. His long beard and wavy hair are visible. Above and to the right of the harp, a star is depicted. The figure is shown in a seated or stooping posture, with his left hand on the harp and his right hand extended, pointing downwards. The scene is framed by a border, and the background contains decorative elements and stars, suggesting a celestial or symbolic setting.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00030/290,1444,607,734/full/0/default.jpg"
+}

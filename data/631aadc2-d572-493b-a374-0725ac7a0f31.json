@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, seated on a pink cushion. To the left, an angel with blue wings and a red robe kneels with hands clasped in prayer. The background features a golden, textured wall with vertical lines and a red architectural element above. The figures are positioned on a tiled floor, with a green, grassy area visible behind them. The overall impression is one of a devotional scene, likely representing the Madonna and Child with an attendant angel.",
+    "scene_interpretation": "Madonna and Child with an Angel",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0751_0780/DEPOT/620416201_MS0751_0780_0018B/3411,1082,2070,2919/full/0/default.jpg"
+}

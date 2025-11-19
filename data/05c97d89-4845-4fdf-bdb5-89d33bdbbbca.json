@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity, with two figures resembling Christ seated side-by-side, holding an open book between them. A dove, symbolizing the Holy Spirit, hovers above the book. The figure on the right holds a crown topped with a cross. Both figures are robed and have halos, indicating their divine nature. Behind them, a red drapery is pulled back, revealing a multitude of faces and wing-like forms, possibly representing angels or a heavenly host. The figures are seated on a golden platform, suggesting a celestial setting. The overall composition is framed by an ornate border with foliate motifs.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537195/46168233.tif/480,329,1581,2642/full/0/default.jpg"
+}

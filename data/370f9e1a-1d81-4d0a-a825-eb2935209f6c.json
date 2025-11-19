@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and carrying the cross, being led through a crowd. He is dressed in a blue robe with gold embellishments. Several figures surround him, including a man with a beard helping to carry the cross, and a group of women, one of whom, likely the Virgin Mary, is shown with hands clasped in prayer. Behind Christ, a multitude of soldiers with spears are visible, their weapons forming a dense, upright pattern against the blue sky. The setting is an outdoor landscape with rolling hills and sparse trees under a bright blue sky with golden clouds. The overall impression is one of suffering and procession.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011051v/f214/1022,237,1217,1889/full/0/default.jpg"
+}

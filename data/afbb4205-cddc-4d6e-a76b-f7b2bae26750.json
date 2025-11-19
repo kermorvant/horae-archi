@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Archangel Michael, identifiable by his wings and armor, in the act of striking a defeated demon with a sword. Michael stands over the demon, which is depicted as a grotesque, pale figure with sharp teeth and claws, lying on the ground. The background is a simple blue sky with rolling green hills, suggesting an outdoor setting. The overall composition conveys a sense of divine triumph over evil.",
+    "scene_interpretation": "The Triumph of Saint Michael",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Archangel Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_INCRIA063/DEPOT/B721816101_INCRIA063_0074/3451,1446,592,1074/full/0/default.jpg"
+}

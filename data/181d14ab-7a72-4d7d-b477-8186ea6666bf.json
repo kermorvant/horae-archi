@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a sorrowful Christ, seated and bearing wounds from his crucifixion, including a prominent wound on his side and marks on his hands and feet. He is draped in a white cloth. Above and behind him, an angel with large, feathered wings gently places a hand on Christ's head, offering solace or perhaps a gesture of divine recognition. The background is a starry blue, suggesting a celestial or spiritual setting, framed by an arched architectural element that hints at a divine space. Below Christ is a raised platform or sarcophagus, adorned with decorative arches.",
+    "scene_interpretation": "Man of Sorrows",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421915/213,1799,265,610/full/0/default.jpg"
+}

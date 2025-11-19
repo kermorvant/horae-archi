@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary kneeling in prayer within an architectural setting. She is adorned in a golden dress and a blue mantle, with her hands crossed over her chest and a halo around her head. To her left, a lily plant symbolizes her purity. Behind her, an open book rests on a richly decorated lectern, suggesting her devotion and study. The background features architectural elements, including arched windows and a vaulted ceiling, rendered in gold and blue with star motifs. To the far left, a figure, possibly a prophet or an angel, is partially visible, looking down and holding a scroll. A dove, representing the Holy Spirit, descends towards the Virgin. The overall scene conveys a sense of quiet contemplation and divine presence.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "roof",
+        "column",
+        "capital",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/qr056bk8287%2FW267_000035_1200/1253,933,2715,4009/full/0/default.jpg"
+}

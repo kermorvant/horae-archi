@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a woman, likely Bathsheba, bathing in a square, ornate fountain or pool. She is partially submerged in the water, holding a cloth or garment. To the left, another woman, possibly a servant or attendant, is seated and looking towards the bather. In the background, a building with a pitched roof and what appears to be a tower or turret is visible, set against a green, hilly landscape. Above and to the left, a figure in a red and blue hat is looking down from a balcony or upper level, observing the scene. The overall setting is outdoors, with elements of architecture and lush greenery.",
+    "scene_interpretation": "Bathsheba bathing",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326038/f172/523,2241,294,359/full/0/default.jpg"
+}

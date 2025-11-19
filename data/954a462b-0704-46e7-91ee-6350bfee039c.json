@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A winged figure, likely an angel, is depicted seated and playing a harp. The figure wears a red robe and has blond hair. The harp is a large, upright instrument with numerous strings. Behind the figure, a small architectural structure resembling a tower with battlements is visible. The background is a rich gold, suggesting a divine or heavenly setting. The scene is likely a representation of celestial music or praise.",
+    "scene_interpretation": "Celestial Music",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "battlement"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.C.IV.111/Chig.C.IV.111_0040_fa_0014v.jp2/130,538,161,189/full/0/default.jpg"
+}

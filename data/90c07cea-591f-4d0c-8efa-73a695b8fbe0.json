@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts two figures seated on a throne, holding a book of the Ten Commandments between them. The figure on the left, with a halo and a crown of thorns, represents Christ. The figure on the right, wearing a papal tiara, is likely Moses, or possibly a representation of the Old Covenant. A dove, symbolizing the Holy Spirit, is perched above the book. The figures are framed by an arched architectural element with decorative tracery and are surrounded by stylized angelic figures. The overall composition suggests a divine or heavenly setting.",
+    "scene_interpretation": "The Trinity and the Ten Commandments",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tracery_window",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Moses"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0022/DEPOT/B441096101_MS0022_0148/3645,600,1235,1886/full/0/default.jpg"
+}

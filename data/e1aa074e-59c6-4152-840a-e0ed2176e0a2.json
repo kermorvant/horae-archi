@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Raising of Lazarus. Christ, with outstretched arms and a halo, is shown on the right, gesturing towards a figure lying on a bed, presumably Lazarus. Lazarus is wrapped in a shroud and appears to be rising. To the left of the bed, a woman, likely Mary or Martha, kneels with her hands clasped in prayer, while another figure stands behind her. Above, angels are depicted, one of whom is carrying a soul towards heaven. The architectural setting is suggested by a blue brick wall and arched structures in the background, framed by decorative borders. The overall scene is set within an arched architectural frame, with a golden background indicating a divine or spiritual realm.",
+    "scene_interpretation": "Raising of Lazarus",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Lazarus",
+        "Mary",
+        "Martha",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_009%2Fwidener_009_jp2.zip%2Fwidener_009_jp2%2Fwidener_009_0459.jp2/4433,1622,4493,5396/full/0/default.jpg"
+}

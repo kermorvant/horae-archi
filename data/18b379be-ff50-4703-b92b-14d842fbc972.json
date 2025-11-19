@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body emaciated and crowned with thorns. A sign with 'INRI' is affixed to the cross. Below, a group of figures surrounds the cross. To the left, the Virgin Mary, dressed in blue, kneels in sorrow, supported by another woman. To the right, a man in a blue and gold robe holds a cloth to support Christ's body, while another figure in a pink robe looks up with hands clasped. In the background, a ladder leans against the cross, and a man in a red tunic is positioned on the crossbeam. Beyond the figures, a landscape unfolds with rolling hills and a walled city with towers and blue-roofed buildings. The sky is a vibrant blue with stylized clouds and celestial bodies.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0131.jp2/2412,1193,3096,4118/full/0/default.jpg"
+}

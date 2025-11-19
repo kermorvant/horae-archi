@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Catherine of Alexandria, identifiable by her crown and halo, holding a sword and standing next to a broken wheel, her attribute. She is dressed in a golden robe over a blue tunic. To her left and right, two figures in monastic habits pull back a decorative tapestry, revealing the central figure. At the bottom right, a kneeling figure in blue and white robes, also crowned, prays to Saint Catherine. The background is a patterned tapestry of pink with floral motifs. The overall setting appears to be a stage-like presentation, possibly within a manuscript illumination.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://adore.ugent.be/IIIF/images/archive.ugent.be:ACDEC1CE-F244-11E7-B6BF-C49F0AD9BE4D:DS.289/1841,885,1597,2454/full/0/default.jpg"
+}

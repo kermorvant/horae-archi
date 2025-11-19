@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, with a halo and bound, stands in the center, his body marked with wounds. To his left, a figure in a red tunic and tan hose holds a whip. To his right, another figure, wearing a blue head covering and a brown tunic with red hose, raises a club to strike Christ. The background features a blue wall and an arched, vaulted ceiling, suggesting an interior architectural setting. The ground is tiled in green.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326072/f45/450,160,945,1317/full/0/default.jpg"
+}

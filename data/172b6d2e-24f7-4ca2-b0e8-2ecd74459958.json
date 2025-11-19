@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A man in a blue robe and a turban stands on the right, holding a book aloft. He appears to be officiating or preaching. In front of him, three men are depicted kneeling and looking upwards with hands clasped in prayer. One of these men is in a brown robe, while the other two are in blue robes. Behind the kneeling figures, a richly patterned tapestry or wall hangs. In the foreground, a white cloth covers a structure that resembles an altar or a tomb, decorated with arched niches. Above the main figures, a haloed figure is shown in the upper left, seemingly descending or ascending, also holding a book.",
+    "scene_interpretation": "The scene likely depicts a religious ceremony or a moment of divine revelation. The man in blue could be a priest, prophet, or saint. The kneeling figures represent worshippers or disciples. The presence of books and the haloed figure suggest a biblical or devotional context, possibly related to scripture, prophecy, or a saint's vision. The altar-like structure further reinforces a religious setting.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "niche",
+        "altar"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f389/1934,924,764,1430/full/0/default.jpg"
+}

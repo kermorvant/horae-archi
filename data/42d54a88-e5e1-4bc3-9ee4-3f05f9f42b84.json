@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A man, likely a king or nobleman, kneels in prayer, his hands clasped and his head tilted upwards. He is richly attired in a blue robe with gold trim and a red cloak lined with ermine. Behind him, a patterned tapestry or screen fills the upper portion of the scene, featuring a complex geometric design in blue, red, and gold. Above this, a cherubic figure with wings is depicted. The lower part of the scene shows a green landscape with sparse vegetation. To the right, a crown rests on a cushion, suggesting royalty. To the left, a musical instrument, possibly a harp or lyre, lies on the ground. The overall composition is framed by an arched architectural element, suggestive of a window or portal.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/24625846/25082063.tif/240,113,770,1125/full/0/default.jpg"
+}

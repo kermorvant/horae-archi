@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "Two bearded men stand facing each other, holding a golden scroll that unfurls between them. The man on the left wears a red and gold patterned hat and a golden robe over a blue tunic. He holds the scroll in his left hand, which is inscribed with the letters \"S.D.R.\". The man on the right wears a conical red hat with a tassel and a blue robe. He holds the scroll in his right hand, and the word \"Abraham\" is prominently written on it. The background depicts a landscape with a body of water, boats, trees, and distant buildings, suggesting an outdoor setting. The overall scene is rendered with rich colors and gilded details, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "Abraham",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Abraham"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f18/2130,4273,1740,1421/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, veiled in blue, presents the Christ Child to an elderly man kneeling before her. The Christ Child, depicted as a young boy, is held by Mary and appears to be reaching out. To the left, a man in a red robe with hands clasped in prayer stands beside Mary. To the right, a woman in a green robe, also with hands clasped, stands behind the kneeling man. Behind the figures, a simplified architectural structure is visible, suggesting the interior of a temple or sanctuary, with a depiction of a figure in a niche. The background is a rich gold, indicative of a divine or sacred setting.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "niche"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515833p/f88/592,1089,1046,971/full/0/default.jpg"
+}

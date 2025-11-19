@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A man, likely a cleric given his attire, is seated on a green and gold chair, wearing a red robe over a blue garment and a distinctive red hat. He holds an open book in his lap and appears to be reading. To his left, a small, brown dog lies on the floor. Behind him, a blue curtain is visible. To his right, a wooden lectern supports an open book, and further to the right, a shelf unit contains several books and scrolls. The floor is tiled in a diamond pattern of blue and yellow squares. The scene depicts a scholarly or devotional moment within an interior setting.",
+    "scene_interpretation": "This scene likely represents a scholar or a religious figure engaged in study or prayer, possibly a depiction of a saint or a biblical figure known for their learning or piety. The presence of books and a lectern strongly suggests an intellectual or spiritual pursuit.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_333/1619,1555,615,595/full/0/default.jpg"
+}

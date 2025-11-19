@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint or queen, stands centrally, adorned in a rich red gown with gold star-like embellishments and a white fur-lined mantle. She wears a golden crown and has a golden halo. In her left hand, she holds a golden reliquary or monstrance. The background features a decorative tiled wall with alternating gold, blue, and patterned squares, flanked by two blue panels that suggest doorways or curtains. The floor is depicted with a patterned tile design. The scene is framed by architectural elements suggesting an interior setting, possibly a chapel or a royal chamber.",
+    "scene_interpretation": "The figure's regalia (crown, halo) and the presence of a reliquary suggest she is a saintly queen or a venerated female figure, possibly a martyr or a virgin saint. The reliquary indicates devotion and the veneration of relics.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "door",
+        "canopy"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kr986bn6539%2FW215_000090_1200/4073,2045,2328,2067/full/0/default.jpg"
+}

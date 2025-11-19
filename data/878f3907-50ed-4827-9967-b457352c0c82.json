@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A kneeling figure with hands clasped in prayer faces a tall, slender structure topped with a chalice. To the left and right of the kneeling figure are two seated figures, both with halos, appearing distressed or contemplative. The figure on the left rests their head on their hand, while the figure on the right also holds their head. In the background, a tree and a small architectural structure resembling a shrine or tempietto are visible. The scene is set in an outdoor landscape with undulating ground.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "chalice",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90680221/f34/1698,1122,1356,1666/full/0/default.jpg"
+}

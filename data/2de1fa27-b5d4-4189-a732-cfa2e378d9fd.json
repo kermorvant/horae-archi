@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Jonah being swallowed by a large sea creature, likely a whale, in a turbulent sea. In the foreground, Jonah, with a long beard and flowing hair, is shown on his hands and knees, being pulled into the creature's gaping maw. The creature's head and part of its body are visible, with its mouth wide open. In the background, a large sailing ship with multiple masts and sails is visible, with several figures on its deck. The ship appears to be in distress or is observing the event. In the far distance, rocky islands with fortified structures and a city skyline are depicted, suggesting a coastal setting. The entire scene is rendered in shades of blue, creating a monochromatic and dramatic effect.",
+    "scene_interpretation": "Jonah and the Whale",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "fortification_wall"
+    ],
+    "persons": [
+        "Jonah"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8447767x/f17/347,374,1275,2087/full/0/default.jpg"
+}

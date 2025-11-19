@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, dressed in a dark robe and mantle, kneels with her hands clasped in prayer before the Christ Child, who lies on the ground. To the right, Saint Joseph, bearded and wearing a dark cloak over a white tunic, also kneels, gesturing towards the child. Behind them is a simple architectural structure with a brick wall and a thatched roof, suggesting a stable. The background shows a pastoral landscape with trees and a fence.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032288x/f60/614,193,1098,1502/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a skeletal figure, personifying Death, holding a scythe and draped in cloth, dancing with a young woman. The woman is adorned with a crown, necklace, and a long, flowing gown. They are positioned against a stippled background with stars, framed by an arched architectural element with decorative tracery. The overall composition suggests a Dance of Death motif, where Death claims all, regardless of status or beauty.",
+    "scene_interpretation": "Dance of Death",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0067/5088,279,559,909/full/0/default.jpg"
+}

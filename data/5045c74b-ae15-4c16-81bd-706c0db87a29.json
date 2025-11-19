@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. A robed figure, likely a priest, holds the infant Christ on a dark, pedestal-like structure, preparing to perform a ritual. To the left, the Virgin Mary, veiled and in blue, stands with a halo, observing the event. Beside her, an older man, possibly Simeon, holds a staff. Behind the figures, a green curtain suggests an interior setting, possibly within the Temple. The overall scene is framed by a decorative border, typical of illuminated manuscripts.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008559f/f6/223,614,712,729/full/0/default.jpg"
+}

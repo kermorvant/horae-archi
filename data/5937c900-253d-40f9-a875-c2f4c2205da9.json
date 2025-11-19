@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, possibly a prophet or saint, kneels with his left leg bent and his right leg extended. He wears a red robe with gold trim over a yellow tunic. His hands are clasped together, holding a white object, possibly a scroll or a book. The background depicts a stylized landscape with a blue sky, green ground, and hints of architectural structures on the left and right, suggesting an outdoor setting. The figure has a halo, indicating his saintly status.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0026/5202,3660,463,723/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A male figure, likely a king or saint, stands in armor and a blue cloak, wearing a hat. He holds a sword in his right hand and a scepter in his left. He stands over a lion, which lies at his feet. The scene is set within an architectural space with blue walls and windows with tracery. A red and gold patterned tapestry hangs behind the figure. The overall composition is framed by an ornamental border.",
+    "scene_interpretation": "David",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Tournus/Hotel_Dieu_Musee_Greuze/715435210_inv_82_1206/DEPOT/715435210_inv_82_1206_0283/3366,1820,926,863/full/0/default.jpg"
+}

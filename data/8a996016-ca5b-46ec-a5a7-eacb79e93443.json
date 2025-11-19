@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of individuals gathered around a table laden with food, suggesting a meal or preparation for one. An older man, dressed in a red robe and white cloth, stands behind the table, holding a knife and a bowl. He appears to be serving or preparing food. Several younger figures, dressed in colorful attire, are looking towards him, some with bowls in hand. The setting is indoors, with architectural elements such as columns and arches framing the scene, adorned with decorative sculptures. The overall impression is one of a domestic or communal gathering, possibly related to a feast or a religious observance involving food.",
+    "scene_interpretation": "Feast",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_002/317,1046,1311,1030/full/0/default.jpg"
+}

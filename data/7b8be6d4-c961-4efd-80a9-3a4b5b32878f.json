@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a royal figure, likely a king, seated on a throne and holding a scepter and orb, wearing a crown. Before him kneels a woman, possibly the Virgin Mary, with her hands clasped in prayer. Two angels are present: one on the left presents a crown to the kneeling figure, while another on the right plays a lute. The setting appears to be an interior space, suggested by the presence of drapery and architectural elements like columns and an arch framing the scene. The background features a green, textured surface with radiating lines, possibly representing divine light or a tapestry.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "King",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_S_119_099_A/DEPOT/710146101_S_119_099_A_0076/1353,625,1497,2039/full/0/default.jpg"
+}

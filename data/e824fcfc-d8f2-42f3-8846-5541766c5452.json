@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed man, likely Saint Jerome, kneels on a green floor, dressed in a blue robe adorned with gold patterns. He is writing on a scroll, with a quill in his right hand. To his left, a golden dog stands attentively. The scene is framed by architectural elements suggesting an interior space, with a blue tapestry featuring gold motifs behind the man and a green window visible in the background. A red and gold canopy is suggested above the man, and decorative columns with red and blue elements frame the right side of the image.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "canopy",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024151j/f45/416,1369,609,557/full/0/default.jpg"
+}

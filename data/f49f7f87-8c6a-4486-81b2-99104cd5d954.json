@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely Saint Martha, is depicted anointing a kneeling man with a dark liquid from a vessel. She wears a blue and white robe with gold trim. The man, dressed in white, kneels with clasped hands, his head bowed. Behind him, several other figures, including a woman in a white veil and men with beards, look on with expressions of piety or concern, also with clasped hands. The scene unfolds in an outdoor setting with a rocky outcrop dominating the mid-ground. In the background, a green hillside leads up to a fortified castle with towers and flags. The overall impression is one of a miraculous healing or blessing, possibly related to Saint Martha's legend of taming the Tarasque or her role as a healer.",
+    "scene_interpretation": "Saint Martha Healing",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Saint Martha"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:41:4:wdl_14414:042_74G37a_015v/1083,216,1070,1736/full/0/default.jpg"
+}

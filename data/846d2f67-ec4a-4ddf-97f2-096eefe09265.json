@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act under a decorative arch. Several figures, all men, are gathered around a fallen individual who appears to be a woman, identifiable by her long, wavy hair and a halo. One man, positioned centrally, is holding a sword aloft, seemingly about to strike the fallen person. Another man to the right, with a beard, also holds a sword, pointing it towards the victim. The other figures are looking on, some with expressions of concern or anticipation. The setting is suggested by the arched architectural element above, which frames the figures and hints at an interior space, possibly a courtyard or a hall.",
+    "scene_interpretation": "Martyrdom of Saint Catherine",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Catherine"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0086/5078,726,440,677/full/0/default.jpg"
+}

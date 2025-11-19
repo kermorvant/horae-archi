@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a profile view of a bearded man, possibly a king or prophet, wearing a cap and a draped garment. His hands are clasped in prayer. He is framed by architectural elements that suggest an interior or a niche. The background is filled with a stippled pattern. The scene's devotional context is suggested by the prayerful posture of the figure.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0038/5290,4003,489,690/full/0/default.jpg"
+}

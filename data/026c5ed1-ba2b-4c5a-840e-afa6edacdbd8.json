@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Jesus being held by mourners after his crucifixion. Christ's body, pale and marked with wounds, is cradled by several figures, including the Virgin Mary, who appears to be supporting his head. Other figures, likely disciples and holy women, surround them, expressing grief. A wooden cross stands in the background, and the ground is depicted as a green mound with small white crosses, suggesting Golgotha. The figures are rendered with halos, indicating their sanctity. The background is a rich blue tapestry with gold geometric patterns.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84522015/f127/358,452,1158,1217/full/0/default.jpg"
+}

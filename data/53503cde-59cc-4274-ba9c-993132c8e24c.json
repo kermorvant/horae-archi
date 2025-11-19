@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Christ, is seated on a wooden chair with a green draped back, reading from a lectern. The figure wears a blue robe and a white garment. To the left, a monkey-like creature sits on the floor, looking towards a scroll that unfurls from the lectern. The setting appears to be an interior space with pink walls and a checkered floor. Several arched windows with dark panes are visible along the upper wall. To the right, a wooden stand holds a green book with a grid pattern. The scene is framed by an arched border.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/2295747/406,313,721,885/full/0/default.jpg"
+}

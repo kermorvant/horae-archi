@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Saint George on horseback, clad in golden armor, triumphantly spearing a green dragon. The dragon is shown with its mouth open and wings spread, impaled by a lance. In the background, a woman in a red and blue gown kneels on a rocky outcrop, possibly representing the princess or a supplicant. Further in the distance, a fortified castle with towers and spires is visible on a hill, suggesting a setting within a kingdom or a besieged city. The overall scene is framed by an arched border with text, indicating it is part of a larger manuscript.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_282/231,154,538,814/full/0/default.jpg"
+}

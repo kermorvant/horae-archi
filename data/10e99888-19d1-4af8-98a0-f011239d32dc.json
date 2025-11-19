@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a golden, stepped platform, holding the Christ Child. She is dressed in a blue robe and wears a golden halo. The Christ Child, also with a golden halo, is held in her arms. Mary is shown holding a white rose, a symbol of purity. To the left, an angel kneels, playing a harp. The angel is dressed in white and has golden wings. The background features a red tapestry with gold ornamentation and a blue curtain. The figures are situated on a green, grassy ground with scattered flowers. The overall scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0006/cea-0006_184r.jp2/718,592,2259,2943/full/0/default.jpg"
+}

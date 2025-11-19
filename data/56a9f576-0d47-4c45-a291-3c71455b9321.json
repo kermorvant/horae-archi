@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, stands within an elaborately decorated architectural setting. The figure wears a white alb and a dark, star-patterned cope, holding an open book in their left hand and a palm frond in their right. The background features a patterned textile and ornate architectural elements, including pointed arches, columns, and tracery windows, suggesting an interior space of religious significance. The floor is tiled in a geometric pattern. The overall impression is one of solemn devotion and sanctity.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f157/923,351,791,1196/full/0/default.jpg"
+}

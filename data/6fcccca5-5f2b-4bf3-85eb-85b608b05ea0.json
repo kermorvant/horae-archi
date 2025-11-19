@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, is depicted riding a donkey, accompanied by a man in a red cloak and hood, possibly Saint Joseph. They are traveling through a landscape with a body of water in the background. To the left, a cylindrical structure with an arm-like appendage is visible, possibly representing a well or a primitive mechanism. The scene evokes a journey, likely the Flight into Egypt or the Visitation, given the figures and the context of a Book of Hours.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.94/Ross.94_0240_fa_0117v.jp2/321,175,242,415/full/0/default.jpg"
+}

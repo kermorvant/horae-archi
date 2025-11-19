@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. To his left stands the Virgin Mary, clad in a blue mantle and praying with clasped hands. To his right is Saint John the Evangelist, also with hands clasped, wearing a pink and purple robe. In the background, a stylized cityscape with towers and buildings is visible, set against a green, hilly landscape with scattered trees. The scene is framed by an ornate border with floral and foliate motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_014/DEPOT/890245409_n_014_0024/3692,446,1489,2148/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, likely a monk or hermit, seated and holding a rosary, with his right hand raised and pointing upwards. He is dressed in a dark, hooded robe. Behind him, a stylized floral motif is visible. In the background, a cluster of religious buildings, including a church with a prominent cross and a bell tower, are rendered in a simplified architectural style. The text above, \"Hepi quoniam epau diet dominus: Vocem orationis mce [O]luia\", suggests a devotional context, possibly a psalm or prayer.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "cross",
+        "bell",
+        "roof",
+        "gable",
+        "window"
+    ],
+    "persons": [
+        "monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0059/4164,2849,2026,1273/full/0/default.jpg"
+}

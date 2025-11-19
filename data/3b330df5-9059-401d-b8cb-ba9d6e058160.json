@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Jesus, bearing wounds from crucifixion, laid out on a stone slab. Several figures surround him, expressing grief. The Virgin Mary, in a blue mantle, clasps her hands in prayer. Another woman, possibly Mary Magdalene, in a red garment, leans towards Christ. Other figures, including men in elaborate headwear and robes, are also present, some appearing to support or mourn. The setting is outdoors, with a rolling green landscape and a single tree in the background under a blue sky. A decorative stone structure, possibly a tomb or bier, is visible beneath Christ's body.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b54002414v/f69/359,2132,764,898/full/0/default.jpg"
+}

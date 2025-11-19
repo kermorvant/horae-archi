@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary breastfeeding the Christ Child, with Saint Joseph standing to her left. They are positioned within a simple architectural structure, possibly a stable, suggested by the wooden beams overhead. In the background, a walled town or city with buildings and a prominent tower is visible, set against a hilly landscape. The composition evokes a sense of domesticity and the humble beginnings of Christ's life.",
+    "scene_interpretation": "Madonna and Child with Saint Joseph",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00054/315,263,654,934/full/0/default.jpg"
+}

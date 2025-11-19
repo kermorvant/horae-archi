@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures. On the left, a man with a beard holds a child. Behind them, a woman with a veil looks on. In the center, a figure with a distinctive hat holds a scroll with text. To the right, another bearded man, also wearing a hat, holds a document with the number '300' written on it. The background features architectural elements, including a lattice-like pattern suggesting a window or screen, and what appears to be a wall or partition. The text above the figures likely provides context for the scene, possibly related to a religious narrative or a historical event.",
+    "scene_interpretation": "The image appears to depict a scene related to Saint Barbara, as suggested by the text \"p nobis bła Barbara\". The figures could represent Saint Barbara, her father Dioscurus, and possibly a servant or other family member. The number '300' might refer to a quantity or a date relevant to her story. Without further context or clearer iconography, a definitive interpretation is challenging, but it strongly suggests a hagiographic scene.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_T1343/DEPOT/B530626201_T1343_0105/1455,3398,2240,1029/full/0/default.jpg"
+}

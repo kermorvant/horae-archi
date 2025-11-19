@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered in what appears to be a courtyard or open area in front of a building with arched windows and a tower. In the foreground, two central figures are engaged in conversation, one in a blue robe and the other in a golden robe, both holding scrolls with text. Surrounding them are other men, some in turbans and elaborate hats, and others in more common attire. To the left, a richly decorated red textile with golden sunburst patterns is visible, possibly a tapestry or banner. In the background, a city with spires and towers is nestled among rolling hills under a blue sky. The overall impression is one of a significant event or meeting taking place within a structured, possibly urban, environment.",
+    "scene_interpretation": "The scrolls held by the central figures and the presence of multiple individuals suggest a scene of dialogue, negotiation, or perhaps a religious or legal proceeding. Without specific iconography or context from the surrounding text, a precise interpretation is difficult. However, the presence of figures in varied attire, including some with what might be interpreted as religious or scholarly headwear, and the architectural setting, points towards a narrative scene from the Bible or a hagiographic account.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025446v/f303/461,95,1179,1673/full/0/default.jpg"
+}

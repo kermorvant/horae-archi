@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary enthroned, adorned with a crown and a royal mantle lined with ermine. She is seated on an ornate, gilded throne with architectural elements, possibly representing a celestial palace. Her dress is green and intricately patterned with gold. Surrounding her is a red, radiating halo, and beyond that, a deep blue background filled with the faint outlines of numerous angelic figures, each with a golden halo. The overall impression is one of divine majesty and heavenly presence.",
+    "scene_interpretation": "The Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/bbf0d633-cebc-4ea8-a550-a59b77f01b23/1693,566,2677,4082/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Baptist, recognizable by his halo and beard, standing in water and holding a staff. He is dressed in a white tunic and a red garment. Above and behind him, a haloed child, likely representing Christ, is shown reaching out with an object, possibly a globe. In the background, to the left, is a depiction of a town or city with buildings featuring domed roofs and arched windows. The setting is predominantly aquatic, with the figures immersed in water, suggesting a river or baptismal site. The overall composition is characteristic of medieval manuscript illumination, with a flat perspective and symbolic representation.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "dome",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Saint John the Baptist",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/mv404mn8568%2FW434_000428_1200/4475,3890,1425,1526/full/0/default.jpg"
+}

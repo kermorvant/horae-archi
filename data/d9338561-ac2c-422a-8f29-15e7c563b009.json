@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A woman, depicted with a halo, kneels on the back of a dragon. She wears an orange robe and a red cloak, and her right hand is raised, holding a small cross. The dragon, with its mouth open and teeth bared, is depicted in shades of white, grey, and purple. The background suggests an interior space with stone walls and a large window with tracery. A blue curtain hangs behind the woman. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "tracery"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bpun/bpun-A0028/bpun-A0028_204v.jp2/1846,723,2144,2617/full/0/default.jpg"
+}

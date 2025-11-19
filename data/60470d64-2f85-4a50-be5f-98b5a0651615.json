@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, with a halo and wounds from the crucifixion visible on his hands and feet, holding a shovel-like implement. He is interacting with a kneeling woman, identified as Mary Magdalene, who is reaching out to him. The setting is outdoors, with a grassy foreground, a tree, and a landscape in the background featuring buildings and a body of water. The woman is dressed in rich attire, suggesting her status. This scene is interpreted as the \"Noli me tangere\" (Do not touch me), a moment after Christ's resurrection when he appears to Mary Magdalene.",
+    "scene_interpretation": "Noli me tangere",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0367/bge-lat0367_118v.jp2/2235,670,3215,4770/full/0/default.jpg"
+}

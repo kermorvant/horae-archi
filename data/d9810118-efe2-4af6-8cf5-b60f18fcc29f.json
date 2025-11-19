@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated on a green cushion, holds the Christ Child on her lap. She wears a blue robe over a golden tunic and has a halo. Before her, one of the Magi kneels, offering a golden chalice, while another stands, holding a similar vessel. A third figure, also richly attired, stands to the left, holding a staff. To the right, an older man with a beard, possibly a shepherd, leans on a staff. In the background, a simple building with a thatched roof and wooden beams is visible, and beyond that, a fortified castle sits atop a hill, with a river and figures on horseback in the middle ground. A greyhound is depicted in the foreground.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle",
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55007801k/f252/201,119,1503,2148/full/0/default.jpg"
+}

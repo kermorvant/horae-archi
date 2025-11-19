@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three skeletal figures, personifications of Death, advancing from the left. The foremost skeleton is draped in a flowing robe and carries a broom. Behind them, a group of living individuals, some on horseback, are visible behind a stone wall. One figure in the foreground gestures towards the skeletons. The inscription around the oval frame reads 'OMNIS HOMO NATUS DE MULIERE BREVIS VIVENS TEMPORE IMPLORAT'. This scene is a visual representation of the Dance of Death or a similar memento mori theme, emphasizing the inevitability of death for all, regardless of social standing, as suggested by the contrast between the skeletons and the living figures, some of whom appear to be of higher status. The inscription translates to 'Every man born of woman, living a short time, implores'.",
+    "scene_interpretation": "Memento Mori / Dance of Death",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/16929237/266,290,1567,2538/full/0/default.jpg"
+}

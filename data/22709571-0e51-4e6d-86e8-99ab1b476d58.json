@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two figures standing before a patterned tapestry. On the left, a tonsured man in a black monastic habit holds a helmet in his left hand and a red bag in his right. He is identified as Saint Lawrence. On the right, a bishop in full regalia, including a mitre and a red chasuble, gestures with his right hand. Between them is a wooden tub containing four nude children. Above them, rays of light descend from a blue sky with clouds, suggesting a divine presence. The ground is tiled in a green and white checkered pattern. The overall scene likely represents Saint Lawrence, the patron saint of the poor and the poor, being depicted with children, possibly symbolizing his charitable acts or martyrdom.",
+    "scene_interpretation": "Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Caen/Musee_des_Beaux_Arts/141185204_coll_mancel_ms0239/DEPOT/141185204_coll_mancel_ms0239_0021/3747,752,1285,1853/full/0/default.jpg"
+}

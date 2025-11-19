@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a blue mantle, kneeling and holding the hand of Elizabeth, who is seated and wearing a white veil and brown robes. To the left, an angel with pointed wings and a brown robe stands observing the encounter. The background features a rolling landscape with stylized trees and distant castles, suggesting an outdoor setting. The interaction between Mary and Elizabeth, a key moment in the Nativity narrative, is central to the devotional purpose of the image.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Blois/Blois_musee_diocesain/410185409_INV_084_1_298/DEPOT/410185409_INV_084_1_298_0011/3645,685,1776,2376/full/0/default.jpg"
+}

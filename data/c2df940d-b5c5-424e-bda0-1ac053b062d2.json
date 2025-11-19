@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts the Virgin Mary, crowned and cloaked in dark fabric, holding the Christ Child. The figures are centrally placed within an oval frame, surrounded by radiating lines that suggest divine light or glory. The Christ Child is reaching towards his mother, who gazes downwards. The overall impression is one of maternal tenderness and divine presence, set against a dark, abstract background.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rouen/Bibliotheque_municipale/B765406101_MS3024/DEPOT/B765406101_MS3024_0110/933,630,1014,1738/full/0/default.jpg"
+}

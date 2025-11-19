@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, stands in a landscape. She wears a blue tunic and a red mantle draped over her shoulders and body. Her right hand is raised in a gesture of blessing or speech, while her left hand holds a golden chalice. The background depicts rolling hills, scattered trees, and distant, stylized rock formations under a blue sky with scattered clouds. The foreground is a sandy or earthy ground with some indistinct objects. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Saint holding a chalice",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0035/DEPOT/352386106_MS0035_0020/1378,541,1480,2520/full/0/default.jpg"
+}

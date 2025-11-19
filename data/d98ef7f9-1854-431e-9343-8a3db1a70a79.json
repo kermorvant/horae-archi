@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a brutal martyrdom. Several figures, identified by their halos and serene expressions despite their suffering, are being executed. One woman in an orange robe is pierced by an arrow, while others are beheaded. Three executioners are actively engaged in the violence: one in an orange tunic wields an axe, another in a pink tunic with a red and green hat strikes with a sword, and a third in a blue robe with gold ornamentation appears to be directing or participating in the beheading. The setting is an outdoor landscape with rocky terrain and sparse vegetation, under a blue sky with golden rays emanating from the sun. The overall scene is one of violent persecution and martyrdom, likely of Christian saints.",
+    "scene_interpretation": "Martyrdom of Saints",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Ursula",
+        "Martyrs"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F409_B.11.32_f213r.jp2/768,579,1786,2343/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An elderly man with a long white beard, wearing a blue robe adorned with gold floral patterns and a red cap, is seated and writing on a large illuminated manuscript displayed on a wooden lectern. To his left stands a winged figure, likely an angel, dressed in a golden tunic and green undergarment, holding a book. The scene is set indoors, within a room that features a tiled floor, wooden furniture including a desk with books, and a window with a diamond-patterned pane. The background shows architectural elements suggestive of a study or scriptorium, with shelves filled with books and decorative arched windows.",
+    "scene_interpretation": "The scene depicts Saint Jerome in his study, a common subject in medieval art, often shown translating the Bible or writing. The presence of the angel suggests divine inspiration or guidance in his scholarly work. This imagery aligns with devotional practices focused on scripture and the lives of Church Fathers.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f29/278,228,1257,1102/full/0/default.jpg"
+}

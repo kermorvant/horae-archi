@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. On the left, the Angel Gabriel, with large wings and dressed in a white robe, kneels and presents a scroll inscribed with Latin text. Facing him on the right, the Virgin Mary, adorned in a pink dress and a blue mantle, kneels before a wooden lectern. She has a halo and her hand is raised in a gesture of surprise or acceptance. The room features a checkered floor of blue and white tiles, a wooden ceiling, and large windows that reveal a glimpse of trees and sky outside. The architecture is simple, suggesting a domestic setting.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Reg.lat.165/Reg.lat.165_0051_fa_0024r.jp2/250,447,520,610/full/0/default.jpg"
+}

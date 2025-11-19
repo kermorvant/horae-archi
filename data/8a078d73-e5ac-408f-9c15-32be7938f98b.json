@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "Two haloed male figures, identified as Saints Peter and Paul, are depicted seated on wooden benches within a grand architectural space. Saint Peter, on the left, wears a blue and green robe over a red garment and holds an open book with a key symbol. Saint Paul, on the right, is dressed in a golden tunic and a blue robe, and holds a sword upright. Behind them, the scene reveals the interior of a Gothic-style building with tall, arched windows and columns. The overall setting suggests a church or a similar religious edifice, possibly depicting a moment of theological discussion or contemplation between the two apostles.",
+    "scene_interpretation": "Saints Peter and Paul",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/e0184195-29c6-417a-b090-76a11d422a58/775,1001,2156,2818/full/0/default.jpg"
+}

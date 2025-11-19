@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, depicted in profile, is shown with his hands clasped in prayer. He wears a cap and a draped garment. He is positioned within an architectural setting featuring an arched opening and decorative elements. The background behind the figure is filled with a stippled pattern, possibly representing foliage or a textured wall.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0019/1736,3809,345,652/full/0/default.jpg"
+}

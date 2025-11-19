@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A saintly figure, likely a bishop or abbot, stands centrally, clad in a black monastic habit and wearing a jeweled mitre and halo. He holds an open book in his left hand and a crosier in his right, with a white cloth draped over it. To his left, a man in a black habit kneels with hands clasped in prayer. To his right, a woman in a red gown and black head covering also kneels with hands clasped. The figures are positioned within an architectural setting that suggests a church interior, with ornate golden structures resembling choir stalls or a reredos behind them. The background features blue walls with decorative patterns and arched windows. The overall scene depicts a devotional encounter, possibly a saint interceding for the kneeling figures.",
+    "scene_interpretation": "Veneration of a Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505805b/f40/746,158,847,1271/full/0/default.jpg"
+}

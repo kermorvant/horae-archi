@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a single figure, likely a king, shown in profile. He wears a richly decorated hat with a scalloped brim and a crown atop it. His long, wavy hair and beard are visible. He is dressed in ornate armor or ceremonial robes adorned with floral motifs and geometric patterns. His hands are clasped in front of him. The style suggests a woodcut illustration, possibly from a printed book.",
+    "scene_interpretation": "Royal Figure",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00173/150,1298,263,1392/full/0/default.jpg"
+}

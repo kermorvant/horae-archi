@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Kiss of Judas, a pivotal moment in the Passion of Christ. Jesus, identifiable by his halo, is surrounded by a group of men. One man, presumably Judas, is embracing Jesus and kissing him, while others, some armed with clubs, surround them, appearing to apprehend Jesus. A figure kneels at the bottom left, possibly a disciple or a bystander. The background features architectural elements suggesting an interior space, with arched structures and decorative motifs.",
+    "scene_interpretation": "Kiss of Judas",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Jesus",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0033/1298,1020,609,925/full/0/default.jpg"
+}

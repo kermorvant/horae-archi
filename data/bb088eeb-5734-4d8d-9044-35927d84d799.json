@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, stands in a verdant landscape, holding a golden vessel. She is dressed in a golden undergarment and a flowing purple mantle. Behind her, a woven fence separates the foreground from a middle ground with rolling hills and scattered bushes. In the distance, a city with towers and walls is depicted, and on a hill to the left, a domed structure topped with a cross is visible. The scene is framed by an ornamental border.",
+    "scene_interpretation": "The figure with a halo and holding a vessel is likely a female saint, possibly Mary Magdalene or another saint associated with carrying ointments or relics. The domed structure with a cross suggests a religious site, perhaps a church or a shrine, and the distant city could represent Jerusalem or a symbolic representation of a holy city.",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f388/862,821,1316,1918/full/0/default.jpg"
+}

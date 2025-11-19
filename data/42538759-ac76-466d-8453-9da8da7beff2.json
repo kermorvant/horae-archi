@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a celestial gathering, dominated by the Holy Trinity at the apex. God the Father, crowned and robed in red, sits on a blue orb, flanked by Christ, also crowned and robed in pink, holding a scepter. Above them, the Holy Spirit is represented by a dove within a radiant halo. Below them, the Virgin Mary, in blue, looks upwards with clasped hands, while a multitude of saints and figures ascend towards them through clouds. On the lower level, a group of figures are gathered, including a muscular, nude male figure holding arrows (likely Saint Sebastian), a knight in armor, several monks, and ecclesiastics in ornate robes. Cherubic figures and angels are interspersed throughout the clouds, some holding palm branches. The overall setting is ethereal and heavenly, with swirling clouds and golden light emanating from the divine figures.",
+    "scene_interpretation": "The Last Judgment / Heavenly Coronation / Communion of Saints",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Virgin Mary",
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10538036n/f19/296,227,1831,2605/full/0/default.jpg"
+}

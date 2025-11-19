@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ carrying the cross, a pivotal moment in the Passion narrative. Christ, rendered in white with a sorrowful expression, bears the heavy wooden cross on his shoulders. He is surrounded by a group of figures, some of whom appear to be soldiers or tormentors, dressed in dark blue and gold attire, their faces contorted with effort or malice. Others, possibly onlookers or mourners, are also present. In the background, a stylized architectural structure, possibly a city or a fortress, is visible beneath a deep blue, star-like sky. The ground is rendered with rough, rocky textures. The overall impression is one of suffering, burden, and the grim procession towards crucifixion.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0083/DEPOT/M601415401_MS0083_0148/4594,1306,1795,2753/full/0/default.jpg"
+}

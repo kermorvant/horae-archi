@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, dressed in a blue mantle, cradles the Christ Child, who is swaddled in white. To their left, Saint Joseph, wearing a blue hat and a red and purple robe, leads a donkey. In the background, a green, grassy hill rises, topped by a small, golden architectural element. Above, a golden cherub or angel is depicted in flight. To the right, a simplified representation of buildings with arched windows suggests a distant town or city.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_033v.jp2/1149,430,1208,2301/full/0/default.jpg"
+}

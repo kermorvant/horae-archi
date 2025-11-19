@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony, likely the Presentation of Christ in the Temple. On the left, a bishop, identifiable by his mitre and vestments, presides over an altar draped with white and blue cloths. To the right of the altar, a man in a brown monastic habit holds the Christ Child, who is naked and has a halo. Kneeling before him is the Virgin Mary, dressed in a blue robe adorned with gold patterns, also with a halo. Behind her stands a woman in an orange dress and a white headdress, possibly a prophetess or attendant. The background suggests an interior space with wooden paneling and a doorway.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "altar",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025268t/f72/584,129,1028,1059/full/0/default.jpg"
+}

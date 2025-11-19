@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "An elephant, adorned with a blue cloth and a decorative band, carries a tower-like structure on its back. The tower is constructed of white brick with an orange crenellated parapet and a blue domed roof. A person with blonde hair, wearing a blue tunic, stands within the tower, blowing a horn. To the left, a figure resembling a wild man is depicted drawing a bow and arrow. The scene is set against a red background with decorative white scrollwork. The text 'ginum' is visible to the left of the elephant.",
+    "scene_interpretation": "The scene likely depicts a historical or allegorical event, possibly related to warfare or a procession. The presence of an elephant with a tower suggests a military context or a representation of exotic power. The figure with the bow and arrow could represent an archer or a symbolic figure. The horn blower might be signaling an advance or a call to attention. The text 'ginum' could be part of a larger inscription related to the scene.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "archer",
+        "horn blower"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xq443wf4818%252FW102_000059_300/1026,1021,633,638/full/0/default.jpg"
+}

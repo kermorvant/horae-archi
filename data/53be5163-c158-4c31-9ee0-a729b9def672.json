@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "In a celestial scene, Christ is depicted in glory, seated within a golden mandorla, his wounds visible on his chest and feet. He is flanked by two angels with red wings, one on each side, reaching towards him. Below, on a green landscape, stand the Virgin Mary and another female figure, both with halos, looking upwards. In the foreground, several severed heads emerge from the green ground, suggesting martyrdom or resurrection. The sky is a vibrant blue, dotted with golden stars and white cloud-like forms.",
+    "scene_interpretation": "The Resurrection of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1557/DEPOT/352386106_MS1557_0052/993,676,1614,2618/full/0/default.jpg"
+}

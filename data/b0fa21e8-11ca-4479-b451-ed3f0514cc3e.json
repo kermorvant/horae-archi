@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A mounted figure, dressed in a blue tunic and black leggings, is shown from the waist up, holding a sword. The figure is on a white horse with red trappings. To the right, a nearly naked man, possibly a beggar or supplicant, reaches out towards the mounted figure. The scene unfolds in a verdant landscape with rolling hills, scattered trees, and a body of water in the background. In the far distance, a city with spires and towers is visible. The entire scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Saint Martin Dividing His Cloak",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Martin"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000442d/f298/450,105,648,994/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, flanked by two female figures. The Virgin Mary, dressed in a blue mantle over a pinkish garment, cradles the infant. The Christ Child is depicted as a small, nude figure. To the left, a woman in a red robe over a yellow tunic holds a small object, possibly a flower or fruit. To the right, another woman in a red robe stands, with the inscription \"SAL MAR\" visible on her garment. The figures are set against a backdrop of a red curtain and wooden panels, suggesting an interior space. Green foliage is visible at the bottom, hinting at an outdoor element or a decorative border.",
+    "scene_interpretation": "Madonna and Child with Saints/Donors",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_impr_sr_347/DEPOT/710146101_impr_sr_347_0131/3527,659,1065,965/full/0/default.jpg"
+}

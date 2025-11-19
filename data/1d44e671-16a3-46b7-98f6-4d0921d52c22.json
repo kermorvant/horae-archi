@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A group of figures, some with halos, are gathered indoors. In the foreground, a woman in a blue robe and white headdress, with a halo, holds a lit candle. Beside her, another woman, also with a halo, wears a blue garment and holds the candle. To their right, a man with a beard and halo clasps his hands in prayer, holding a feather. Behind them, several other figures with halos are visible, their faces turned towards the center. The background features a richly patterned tapestry and blue drapery, suggesting an interior setting, possibly a chamber or a chapel.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_151/1311,668,1137,1582/full/0/default.jpg"
+}

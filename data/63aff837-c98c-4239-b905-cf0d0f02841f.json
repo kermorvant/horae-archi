@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded, elderly man, likely a saint, stands in a landscape, holding an open book. He wears a dark cloak over a tunic. To his left, a wolf is depicted, its head lowered as if drinking or sniffing the ground. Behind the man, to the right, is a simple architectural structure with a rounded archway. The background features trees and foliage, suggesting an outdoor setting. The presence of the wolf is a common attribute for certain saints, particularly those associated with wild animals or monastic life.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f164/2458,1278,1344,1397/full/0/default.jpg"
+}

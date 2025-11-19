@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint John the Evangelist by his halo and traditional iconography, is depicted writing in a manuscript. He is seated within a wooden architectural structure that resembles a lectern or a scribe's booth, complete with decorative tracery and a canopy. Before him is a slanted desk holding an open book and inkwell. To his right, on a separate stand, are two more books, one green and one open with text. The background is a rich gold leaf, typical of illuminated manuscripts, suggesting a divine or elevated setting. The scene is interpreted as Saint John the Evangelist writing his Gospel, a common theme in Books of Hours, emphasizing the divine inspiration of scripture.",
+    "scene_interpretation": "Saint John the Evangelist writing his Gospel",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall",
+        "roof",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f398/649,849,1788,2424/full/0/default.jpg"
+}

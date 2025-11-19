@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a long white beard, seated and wrapped in a white cloth, with his hands clasped over his chest. He appears frail and possibly ill. To his left, a man in a blue tunic with gold trim and a red, jeweled hat points towards the seated figure. Behind the pointing man, several other bearded men are visible, their faces partially obscured. In the background, a stylized architectural structure with towers and windows is depicted against a backdrop of green foliage and a blue sky. The overall impression is one of a narrative scene, possibly involving a consultation or a judgment, set in a somewhat idealized outdoor environment with architectural elements.",
+    "scene_interpretation": "Job and his Friends",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "tower"
+    ],
+    "persons": [
+        "Job",
+        "Friend"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Blois/Blois_musee_beaux_arts/410185203_Inv_861_1_12/DEPOT/410185203_Inv_861_1_12_0002/492,171,4134,6193/full/0/default.jpg"
+}

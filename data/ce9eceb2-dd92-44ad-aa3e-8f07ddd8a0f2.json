@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, in a blue robe and with hands clasped in prayer, kneels before the Christ Child, who lies on the ground. A cow and a donkey are present, with the donkey's head visible behind Mary. Several figures surround the child: a man holding a lantern, a woman in an orange garment with hands clasped, and another woman in a green robe reaching towards the child. A small dog stands near Mary. Above, a wooden structure with visible beams and rafters suggests the stable's roof, and a starry blue sky with a crescent moon and birds is visible through an opening. The scene is framed by an arched border with floral motifs.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/2235811/2235039.tif/761,586,1409,1970/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit, also known as Pentecost. A group of twelve figures, including the Virgin Mary in the center, are gathered indoors, looking upwards. Above them, a dove, representing the Holy Spirit, descends from a golden, circular halo from which fiery tongues of light emanate, showering down upon the assembled figures. The figures are dressed in medieval attire and are shown with hands clasped in prayer or raised in awe. The architectural setting is suggested by two ornate columns with gilded capitals and a patterned floor, implying an interior space, possibly a room or a hall.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_008%2Fwidener_008_jp2.zip%2Fwidener_008_jp2%2Fwidener_008_0219.jp2/2978,958,2266,2816/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A man, depicted in profile, stands within an architectural frame. He wears a distinctive headdress with striped elements and a feathered plume. A decorative pendant hangs from his neck, and his sleeves are adorned with patterned bands. His left hand is raised, index finger pointing upwards, while his right arm is bent, resting on his chest. The scene is framed by an arch supported by decorative elements, suggesting an interior architectural setting.",
+    "scene_interpretation": "The gesture of pointing upwards, combined with the formal attire and the architectural setting, could suggest a figure of authority, a prophet, or a saint in contemplation or discourse. Without further iconographic clues, a specific religious interpretation is difficult to ascertain, but it likely represents a devotional or didactic scene.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "undefined_element"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0031/4175,412,389,501/full/0/default.jpg"
+}

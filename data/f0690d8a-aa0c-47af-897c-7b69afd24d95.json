@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity. God the Father, depicted as an elderly man with a halo and a gesture of blessing, holds the cross upon which Christ is crucified. The Holy Spirit is represented by a dove descending towards Christ. Christ's body is rendered with wounds, and blood drips from his hands and feet. God the Father is seated on a throne-like structure, with his arms outstretched to support the cross. The background is a rich blue tapestry with a repeating geometric pattern. The entire scene is framed by an ornate border featuring geometric and foliate motifs in gold, red, and blue.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f263/457,525,1822,2157/full/0/default.jpg"
+}

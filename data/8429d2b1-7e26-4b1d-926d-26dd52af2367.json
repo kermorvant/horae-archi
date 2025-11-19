@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of four figures, three women and one man, gathered around a central figure who is seated and appears to be holding something. The figures are dressed in medieval attire, with hoods and draped garments. The architectural setting is suggested by an arched structure above the figures, possibly representing a canopy or a decorative architectural element. The overall composition is enclosed within a decorative border. The scene is likely a depiction of the Visitation, where Mary, pregnant with Christ, visits her cousin Elizabeth, who is also pregnant. The central figure could be Elizabeth, and the woman on the left, Mary. The other two figures are likely attendants or witnesses.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0035/4949,354,548,1007/full/0/default.jpg"
+}

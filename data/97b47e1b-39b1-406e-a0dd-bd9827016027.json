@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts three figures within a circular frame. On the left, a bearded figure, possibly representing Adam, stands with his chest exposed and a serpent coiled around his arm and torso. He appears to be reaching out or gesturing. To the right, two other figures, also bearded and robed, are shown. One is reaching towards the central figure, while the other stands behind, holding something in their hands. The background is filled with a stippled pattern, suggesting a void or a celestial setting. The overall composition evokes the biblical narrative of the Fall of Man.",
+    "scene_interpretation": "Fall of Man",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0081/711,3435,609,519/full/0/default.jpg"
+}

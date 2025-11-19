@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, veiled and holding the Christ Child, riding a donkey. She is accompanied by a bearded man, likely Saint Joseph, who walks beside them. The figures are set against a green, hilly landscape with some vegetation. Above them, an ornate architectural frame with a patterned background suggests a decorative border or a stylized representation of a celestial realm. The Virgin Mary wears a blue mantle over a red tunic, and Saint Joseph wears a pink robe over a blue garment. The Christ Child is visible in Mary's arms, with a halo.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0109/utp-0109_079v.jp2/2586,362,2481,3932/full/0/default.jpg"
+}

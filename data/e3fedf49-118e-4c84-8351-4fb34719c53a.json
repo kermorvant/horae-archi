@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a burial procession. In the foreground, a figure in a dark, patterned cloak, likely a cleric, leads a group of four individuals. One of these, dressed in white, carries a staff topped with a cross. To the left, a man is actively digging a grave, with a shovel in hand, over a shrouded body lying on the ground. In the background, architectural structures, including buildings with arched windows and towers, are visible, suggesting a town or city setting. The overall atmosphere is somber and devotional, likely representing a funeral rite.",
+    "scene_interpretation": "Funeral Procession",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Cleric",
+        "Mourner",
+        "Grave Digger"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038211z/f107/3302,350,1200,1780/full/0/default.jpg"
+}

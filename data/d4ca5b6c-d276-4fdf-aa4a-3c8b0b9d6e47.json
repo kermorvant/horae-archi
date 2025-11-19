@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within a dark, possibly interior, setting. On the left, a bearded man with a halo stands, gesturing with his left hand. In the center, a woman holds two infants. The infants appear to be looking upwards. Behind them, another figure, possibly male, is visible, also with a halo. The overall impression is of a religious scene, likely depicting a biblical or devotional moment. The dark background and limited architectural detail suggest a focus on the figures and their spiritual significance.",
+    "scene_interpretation": "Madonna and Child with Saints",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Besançon/Bibliotheque_municipale/B250566101_MS0050/DEPOT/B250566101_MS0050_0072/1728,812,1321,2106/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, is seated and reading from a scroll. The figure wears a blue robe over a brown garment and a brown cap. To the left of the figure, a small, dark, ape-like creature with green eyes sits on a green patterned ground. Behind the figure is a grey wall with vertical and horizontal lines, suggesting a structured interior space. The scene is framed by an arched opening with decorative elements above.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS1687/DEPOT/786466101_MS1687_0027/4030,732,855,1363/full/0/default.jpg"
+}

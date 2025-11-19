@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary cradling the body of Christ after the crucifixion. Mary, wearing a blue mantle and a golden halo, gazes downwards with a sorrowful expression. Her hands support the lifeless body of Christ, who is depicted with a beard and long hair, his body pale and marked. The background is a rich, dark red, adorned with scattered golden stars and fleur-de-lis motifs, suggesting a celestial or symbolic setting.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0071/3478,1635,348,628/full/0/default.jpg"
+}

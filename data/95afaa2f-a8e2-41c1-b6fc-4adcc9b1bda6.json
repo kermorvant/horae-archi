@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene is divided into two parts by a column. On the left, a crowned figure, identified by the inscription \"DRUMD\" on their robe, stands in a richly decorated architectural setting. This figure, possibly King David, is depicted with a harp at their feet and appears contemplative. The architecture features pointed arches, ribbed vaults, and windows with tracery. On the right, a group of people, some with hands clasped in prayer, look upwards towards a celestial vision. Christ, depicted with stigmata, stands within a mandorla, flanked by angels. Below this divine manifestation, birds fly and animals, including a lion and a lamb, gaze upwards. The setting on the right is an outdoor landscape with green hills.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "vault",
+        "ribbed_vault",
+        "window",
+        "tracery_window",
+        "column",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0246.jp2/2226,1205,1587,1421/full/0/default.jpg"
+}

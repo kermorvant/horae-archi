@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint, stands draped in flowing robes and a headdress. She holds a cylindrical lantern in her right hand and her left hand rests on her drapery. Beneath her feet, a serpent or dragon is depicted, its body coiled and its head raised. The background is filled with a starry or speckled pattern, suggesting a celestial or symbolic setting. The scene is framed by architectural elements, including an arch above and a column to the right, suggesting a niche or a portal.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0025/5172,1054,421,755/full/0/default.jpg"
+}

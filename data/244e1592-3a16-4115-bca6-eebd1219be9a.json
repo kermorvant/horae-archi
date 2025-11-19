@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a throne, holding the Christ Child. To the left, an angel with golden and blue wings plays a lute. The figures are positioned within an architectural setting that includes a large arched window with diamond-shaped panes, revealing a landscape with trees and birds outside. The floor is tiled with a blue and yellow geometric pattern. A blue canopy with gold ornamentation is visible above the throne. The overall impression is one of serene domesticity and divine presence, suggesting a devotional scene.",
+    "scene_interpretation": "Madonna and Child with an Angel",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "column",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/555725/1210,399,1605,2227/full/0/default.jpg"
+}

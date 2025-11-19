@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple, framed by an arched architectural element adorned with floral motifs. In the foreground, the Virgin Mary, in a blue robe, holds the Christ Child, who reaches towards a white cloth draped over a pedestal. To Mary's left stands a woman holding a staff. To the right, a bearded man, possibly Joseph, kneels, and behind him, a tonsured monk reads from an open book. In the background, through an arched opening, a cityscape with towers is visible under a sky with rays of light. The interior space is suggested by the presence of windows with diamond-shaped panes and a decorative canopy overhead.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421842/1276,186,903,1538/full/0/default.jpg"
+}

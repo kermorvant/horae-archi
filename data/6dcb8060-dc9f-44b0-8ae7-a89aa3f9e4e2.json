@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures standing within an architectural setting characterized by arches and decorative elements. On the left, a woman wearing a crown and veil is depicted with hands clasped in prayer. To her right, a man with a long beard and wearing a crown is shown gesturing with his hands. Between them and to their right are other figures, including men and women, some wearing head coverings and elaborate garments. The architectural framework suggests a formal, possibly religious or courtly, space. The overall impression is one of a gathering or a council, possibly related to a biblical or historical event.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Magi"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0067/3570,3237,1574,609/full/0/default.jpg"
+}

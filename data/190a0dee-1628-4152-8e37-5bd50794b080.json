@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a richly decorated blue robe with gold trim and a pink collar, stands in a landscape. He is holding a red orb in his left hand and appears to be touching his beard or mouth with his right hand. To his left, a harp lies on the ground. The background features rolling hills, stylized trees, and in the distance, a city with towers and bridges. Birds are depicted in the sky. The scene is likely an illustration of King David, perhaps in a moment of contemplation or playing his harp.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0403.jp2/2668,4226,1299,1170/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape framed by an ornate golden border. In the foreground, a shepherd in a pink tunic lies on the ground, seemingly wounded by an arrow that has pierced his chest. A dark dog sits beside him. Behind him, a flock of white sheep graze. To the right, two shepherds are playing musical instruments: one with bagpipes and another with a pipe. In the middle ground, a small rural dwelling with a water wheel is visible. In the background, a mountainous landscape is dominated by a large, imposing castle. Two winged figures, possibly angels or cherubs, are depicted in the sky, one with outstretched wings and the other with a ribbon trailing behind it. The overall scene evokes a sense of pastoral life interrupted by an act of violence, set against a backdrop of rural and architectural elements.",
+    "scene_interpretation": "The scene is likely an illustration of the story of David and Goliath, specifically the moment David, a shepherd, is called to fight the giant Goliath. The wounded shepherd in the foreground could represent a fallen soldier or a symbolic representation of the vulnerability of the people before Goliath's threat. The presence of sheep reinforces David's identity as a shepherd. The castle in the background might symbolize the Philistine camp or the stronghold of the enemy. The winged figures in the sky could represent divine intervention or heavenly observation of the unfolding events.",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0037/DEPOT/751085109_LDUT_0037_0062/963,714,1424,2237/full/0/default.jpg"
+}

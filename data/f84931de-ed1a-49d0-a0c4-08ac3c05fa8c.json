@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with God the Father seated on a throne behind the cross, holding it. Christ is shown on the cross, with the inscription \"INRI\" above him. To the left and right of the throne are winged figures representing the Evangelists: a lion for Mark, an eagle for John, and a winged man for Matthew. To the right, an angel kneels. Above God the Father, a child with wings holds a blue, conical object adorned with gold. The background features a blue tiled wall and a patterned red canopy. The floor is a green and black checkered pattern. The overall composition suggests a divine perspective on the sacrifice of Christ.",
+    "scene_interpretation": "The Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zs503zt2162%2FW240_000030_1200/4657,973,2770,4902/full/0/default.jpg"
+}

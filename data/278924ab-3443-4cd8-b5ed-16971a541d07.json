@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Archangel Michael, identifiable by his wings and armor, triumphing over a demonic figure. Michael, with red wings spread, stands with one foot on the prostrate demon, raising a sword to strike. The demon is dark-skinned, horned, and appears to be writhing. The background is a rocky, mountainous landscape. The scene is framed by decorative architectural elements on the left and right, suggesting it is part of a larger illuminated manuscript page.",
+    "scene_interpretation": "The Triumph of Saint Michael",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Archangel Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_019/551,1619,723,504/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint or scholar, dressed in a red robe and a wide-brimmed red hat, is seated at a desk, reading from an open book. The desk is covered with a blue cloth adorned with gold patterns. On the desk are another open book, a lectern, and a candlestick with a lit candle. Behind the figure, shelves are stocked with books and vials. To the right of the desk, a lion is depicted lying down, with its mouth open. The scene takes place indoors, with a tiled floor and stone walls visible. The overall setting suggests a study or scriptorium, possibly within a religious or scholarly institution.",
+    "scene_interpretation": "Saint Jerome in His Study",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509634r/f328/1028,447,1846,2207/full/0/default.jpg"
+}

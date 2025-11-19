@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, identified as Christ, with a halo, seated and writing on a scroll. He is dressed in a red tunic and a blue mantle. The background is a landscape with trees and a body of water, suggesting an outdoor setting. Rays of light emanate from the upper left, possibly symbolizing divine inspiration or the Holy Spirit. The overall impression is one of contemplation and divine activity.",
+    "scene_interpretation": "The scene likely represents Christ as the author of the Gospels or as a figure engaged in divine contemplation and writing. The rays of light could symbolize the divine inspiration behind his words or actions.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0147/bge-lat0147_0008r.jp2/531,840,3701,4279/full/0/default.jpg"
+}

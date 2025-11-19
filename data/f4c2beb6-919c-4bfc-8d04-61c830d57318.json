@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family in a pastoral setting. The Virgin Mary, with a halo, cradles the Christ Child in her arms. To her left, Saint Joseph, also with a halo and a long beard, looks on with a concerned expression. Behind them, a simplified representation of a town or castle with towers and walls is visible, suggesting a distant settlement. The figures are rendered in a woodcut style, with bold lines and hatching to indicate form and shadow. The overall impression is one of tender domesticity within a devotional context.",
+    "scene_interpretation": "Holy Family",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0087/952,396,724,1059/full/0/default.jpg"
+}

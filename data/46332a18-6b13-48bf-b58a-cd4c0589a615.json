@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An angel with large wings hovers behind a seated figure, identified as Christ, who is depicted with a beard and long hair, and appears to be wounded or suffering. The angel's hands are placed on Christ's shoulders, suggesting comfort or support. Christ is partially draped in a cloth, and his body shows marks of suffering. The scene is framed by architectural elements, including arches and what appear to be small buildings or niches on either side, suggesting an interior or a symbolic architectural setting. The background is filled with stippling, creating a textured effect.",
+    "scene_interpretation": "The Agony in the Garden",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0083/4203,1143,565,990/full/0/default.jpg"
+}

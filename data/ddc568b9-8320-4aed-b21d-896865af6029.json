@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity. On the left, Christ, with wounds visible on his hands and side, is seated and draped in a red cloak, holding a golden staff. Above and between the figures, a white dove, symbolizing the Holy Spirit, is depicted in flight. On the right, God the Father, depicted as an elderly man with a beard and wearing a papal tiara and ornate robes, is seated and holding a globe. Both figures are surrounded by a radiant golden background, suggesting a divine and heavenly setting, with clouds depicted at the bottom. The composition is framed by architectural elements on the sides, suggesting a divine throne or celestial architecture.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "God the Father",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550106099/f218/263,354,947,1406/full/0/default.jpg"
+}

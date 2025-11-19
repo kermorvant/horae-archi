@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a robed figure, likely a bishop or high-ranking cleric, seated behind a wooden desk, writing on a scroll. The figure wears a mitre and a blue and gold cope. Behind the desk, a richly patterned tapestry hangs. To the right, a smaller figure, possibly an acolyte or a saint, kneels, holding a scroll with text. The setting appears to be an interior space, suggested by the presence of windows showing a landscape outside, and architectural elements like columns and an arched frame. The overall impression is one of scholarly or spiritual activity within a structured environment.",
+    "scene_interpretation": "Saint Matthew Writing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Matthew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8538808p/f68/1013,351,1192,2152/full/0/default.jpg"
+}

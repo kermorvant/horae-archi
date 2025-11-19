@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "A procession is depicted entering a fortified complex. On the left, a figure in papal regalia, likely a bishop or pope, is greeted by a crowned woman seated on the ground. The bishop, wearing a mitre and ornate cope, extends his gloved hands towards the seated woman. Behind the bishop, several figures in red hoods and white robes follow. The seated woman, adorned with a crown and halo, wears a blue gown and a pink mantle. She is surrounded by a group of women, many with halos, some praying. The architectural setting includes a large stone building with a prominent arched entrance, towers with conical roofs, and crenellations. In the background, rolling hills are dotted with more fortified structures and a distant castle on a hilltop. The sky is blue with scattered clouds and gold flecks, suggesting a divine or celestial presence.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "fortress"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "roof",
+        "battlement",
+        "wall",
+        "column",
+        "door"
+    ],
+    "persons": [
+        "Bishop",
+        "Crowned Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892323/605,258,1449,2589/full/0/default.jpg"
+}

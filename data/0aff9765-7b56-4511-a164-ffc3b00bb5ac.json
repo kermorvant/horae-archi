@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a simple wooden stable. The Virgin Mary, dressed in a blue robe, cradles the Christ Child on her lap. The Christ Child, with a halo, reaches towards an open golden box presented by one of the Magi. This Magus, an older man with a long white beard, kneels before them, wearing a pink robe and a blue mantle. Behind him, two other Magi, identified by their crowns and regal attire, stand. One, in an orange robe, holds a golden vessel and points upwards, possibly towards the Star of Bethlehem visible in the deep blue sky. The other, in a green patterned robe, also holds a golden vessel. A cow and a donkey are visible in the background within the stable structure. The ground is rendered with green grass.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458140s/f102/856,537,979,1337/full/0/default.jpg"
+}

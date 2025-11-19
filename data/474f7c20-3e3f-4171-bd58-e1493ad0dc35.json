@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting. On the left, a woman kneels, holding a key-like object. She is dressed in a patterned robe with a high collar. To her right, another woman, possibly the Virgin Mary given her halo and the book she holds, also kneels. She is draped in a mantle over a dark garment. Behind them, two arched windows with tracery are visible, suggesting an interior space. The overall impression is one of a devotional scene, possibly related to the Visitation or a saint's life.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_MS0091/DEPOT/330636101_MS0091_0035/933,543,1600,2266/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A crowned king, with a long grey beard, kneels in prayer before an altar. He wears a blue tunic and an orange mantle lined with ermine, and a golden bell hangs from his belt. The altar is adorned with a book, a pitcher, and a candlestick. Behind the altar, a rich red tapestry with gold patterns serves as a backdrop. To the left, a white architectural structure with arches and columns frames the scene. In the upper part of the image, God the Father, depicted with a beard and halo, blesses the scene from a celestial realm, from which rays of light descend towards a distant city with spires and a river. The overall scene suggests a moment of divine revelation or intercession.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/15918438/633,219,1102,1734/full/0/default.jpg"
+}

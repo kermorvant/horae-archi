@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael, an archangel, in a red robe adorned with gold lines, kneeling and holding a golden cross staff. He is shown triumphing over a dark, demonic creature with claws and horns, which lies beneath him. The background features a stylized landscape with rolling green hills, distant rocky formations, and a bright blue sky. In the far distance, on a hill, a castle-like structure with multiple towers is visible. The entire scene is framed by a decorative border with gold leaf and floral motifs.",
+    "scene_interpretation": "Saint Michael Slaying the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-manuscripta.ch/zuz/i3f/v20/1657584/778,572,2208,1781/full/0/default.jpg"
+}

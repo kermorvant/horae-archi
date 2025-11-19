@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bust of a bearded man, identified as Christ, is depicted wearing a jeweled crown and a red robe with gold trim. He holds a blue orb topped with a golden cross in his left hand and raises his right hand in a gesture of blessing. He is framed by an arched architectural element, suggesting a divine or regal setting. The background is a vibrant blue with golden rays emanating from behind Christ's head, indicating his divinity. The scene is presented as if viewed through an opening, with golden architectural columns and arches on either side.",
+    "scene_interpretation": "Christ Pantocrator",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yk435gb3262%2FW178_000401_1200/591,2043,1047,1566/full/0/default.jpg"
+}

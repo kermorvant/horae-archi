@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A crowned woman, depicted with a halo, kneels on a blue patterned cushion. She wears a pink mantle over a blue tunic and holds a sword in her right hand. Her left hand rests on an open book displayed on a golden lectern. The background features a dark, curtain-like element on the left and a richly decorated architectural structure on the right, suggesting an interior setting. The scene likely depicts a saintly queen, possibly Saint Margaret of Antioch, known for her martyrdom and association with a sword.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0005/DEPOT/210545209_005_0149/3770,1537,849,989/full/0/default.jpg"
+}

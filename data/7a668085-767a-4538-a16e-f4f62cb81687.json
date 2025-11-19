@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a gathering of figures, predominantly men, with one central female figure, all adorned with golden halos, suggesting their sanctity. They are positioned within an architectural setting that features a richly decorated, vaulted ceiling and arched openings. Above them, a dove, representing the Holy Spirit, descends with fiery tongues, illuminating the scene. The figures are shown with hands clasped in prayer or raised in supplication, some looking upwards towards the divine presence. The central female figure, likely the Virgin Mary, holds an open book and also has her hands in prayer. The overall atmosphere is one of devotion and spiritual reception.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "roof",
+        "wall",
+        "column",
+        "capital",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505805b/f140/782,176,829,1283/full/0/default.jpg"
+}

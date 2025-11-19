@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a grassy outdoor setting, with a decorative gold background suggesting a manuscript illumination. In the foreground, a barefoot man in a blue robe, identified by a halo, gestures towards a seated figure. To the left, another figure in an orange robe and hood approaches, also gesturing. Behind the central figure, a person in a green head covering holds a cross. The seated figure, dressed in an elaborate orange robe and a blue bishop's mitre, appears to be receiving or addressing the others. The overall composition, with its stylized figures and rich ornamentation, points to a religious narrative.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f68/1011,914,1318,1406/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A male figure, depicted in profile, with long brown hair and a beard, wears a red tunic adorned with gold patterns and a green mantle. He has a halo, suggesting a saintly or divine status. The figure is framed by an architectural element that appears to be a stylized arch or niche, with gold leaf detailing. The background is a vibrant blue, and the overall presentation suggests a devotional image, likely a saint from the Christian tradition.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "halo"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0084/DEPOT/M601415401_MS0084_0219/4021,895,247,644/full/0/default.jpg"
+}

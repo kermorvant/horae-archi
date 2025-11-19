@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey through a rocky, hilly landscape under a pale blue sky with scattered clouds. The Virgin Mary, wearing a blue mantle and red tunic, rides a donkey, cradling the Christ Child. Joseph, in a tan cloak and red hat, walks beside the donkey, holding a staff. The figures are framed by an architectural archway with decorative columns and capitals, suggesting a transition from a structured space to the open road. The overall impression is one of humble travel and divine protection.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_008%2Fwidener_008_jp2.zip%2Fwidener_008_jp2%2Fwidener_008_0139.jp2/3154,834,2266,3086/full/0/default.jpg"
+}

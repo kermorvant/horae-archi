@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two bearded male figures, each with a halo, stand side-by-side. The figure on the left wears a brown hooded robe with gold trim and a blue garment underneath. The figure on the right wears a red cloak over a green robe, also with gold trim. Both figures have their hands extended, palms open, in a gesture of offering or blessing. The background is a simple blue sky with hints of green landscape below, suggesting an outdoor setting. The figures' solemn expressions and halos indicate they are saints or important religious figures.",
+    "scene_interpretation": "Saints",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint",
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0011/801,1042,485,982/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A group of people are gathered in a grassy, outdoor setting. An elderly man with a long white beard, dressed in a blue robe with gold trim, raises his hands and looks upwards, seemingly in prayer or supplication. Behind him, a crowd of men and women, also in richly colored attire, observe. Some of the women wear blue dresses with puffed sleeves and gold trim, while one wears a green dress. One man in the foreground, to the right, wears a blue robe and holds a circular object, possibly a tambourine or a plate. The background features a stylized sky with a blue expanse dotted with golden stars above a red, cloud-like pattern with golden accents. The scene evokes a sense of communal devotion or a significant event being witnessed.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f374/542,1326,860,1592/full/0/default.jpg"
+}

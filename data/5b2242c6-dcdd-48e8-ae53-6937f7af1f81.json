@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A lion with a mane composed of swirling curls sits in a landscape. Its tail curves upwards and ends in a serpentine head with an eye. In the background, a blue, stylized castle or tower is visible on a green hill under a blue sky with white clouds. The scene is framed by an arched border.",
+    "scene_interpretation": "Bestiary",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0029.jp2/2393,3535,834,902/full/0/default.jpg"
+}

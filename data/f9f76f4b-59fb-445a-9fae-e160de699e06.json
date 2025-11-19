@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable. A newborn Christ Child lies on the ground, illuminated by golden rays emanating from above. To the left, an elderly man, likely Saint Joseph, kneels and holds a staff, looking towards the child. Behind him, the heads of a donkey and an ox are visible. In the center, the Virgin Mary, adorned in a blue mantle and with a halo, kneels with her hands clasped in prayer, gazing at her son. To her right, another woman, possibly Saint Anne or a shepherdess, also kneels with her hands in prayer. The stable is constructed with wooden beams and a thatched roof, with a backdrop of trees and a blue sky.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3780/Vat.lat.3780_0101_fa_0045r.%5B01.fx.0000%5D.jp2/150,213,373,484/full/0/default.jpg"
+}

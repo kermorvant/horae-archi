@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, with a golden halo, is seated on the left, reading from a book. Beside her stands a woman, possibly a midwife, looking towards the manger. In the center, the Christ Child lies in a wooden manger, reaching out a hand. To the right, an older man, likely Saint Joseph, sits with a staff, wearing a green hood and a pink robe. A cow and a donkey are visible behind the manger, and a small fire burns on the floor in the foreground. The structure appears to be a simple shelter with a thatched roof.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yw595xk3647%2FW211_000276_1200/3928,2629,1887,2718/full/0/default.jpg"
+}

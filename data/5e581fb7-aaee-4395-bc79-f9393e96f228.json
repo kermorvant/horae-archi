@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A young man in full armor kneels before a book placed on a wooden lectern. He wears a golden collar and a circlet on his head. Behind him, a rich red and gold curtain is drawn back, revealing a checkered floor. Below the kneeling figure, a coat of arms is displayed, featuring a helmet topped with a crown and elaborate mantling in red and grey. The scene is framed by a decorative border.",
+    "scene_interpretation": "Devotional prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Knight"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/492680/539,319,2396,3659/full/0/default.jpg"
+}

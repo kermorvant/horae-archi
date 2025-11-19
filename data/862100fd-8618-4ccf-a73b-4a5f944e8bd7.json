@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "A bearded king, seated on a throne draped in red and gold fabric, holds a scepter. He wears a blue and gold patterned hat. At his feet, a dark-skinned figure kneels. To the right, a crowned figure in blue kneels and offers a chalice to a group of men in orange and blue robes. The scene takes place within an architectural setting, suggested by a vaulted ceiling and an arched doorway in the background, which opens to a relief depicting a battle or procession. The overall impression is one of royal audience or presentation, possibly with a religious undertone due to the chalice.",
+    "scene_interpretation": "Royal Audience",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "roof",
+        "wall",
+        "door",
+        "column"
+    ],
+    "persons": [
+        "King",
+        "Crowned figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f352/1617,1644,760,2364/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, dressed in a blue mantle, holds the Christ Child on her lap. One of the Magi, kneeling, offers a gift. Another Magus stands behind him, also holding a gift, and a third Magus, depicted with darker skin, stands to the right, presenting his offering. The figures are positioned within a partially enclosed architectural setting, with brick walls and doorways visible. A star shines in the blue sky above, indicating the guiding star of Bethlehem. The ground is rendered as a green, hilly landscape.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537191/46161140.tif/882,222,1872,3034/full/0/default.jpg"
+}

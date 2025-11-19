@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "An angel with large orange wings hovers over a sleeping man who is kneeling. The angel, dressed in a golden robe over a white garment, points a finger towards the man. The man, with a grey beard and wearing a hooded red and purple robe, appears to be asleep or in a trance. The scene is set within a simple interior space with grey walls and a wooden ceiling.",
+    "scene_interpretation": "Dream of Joseph",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0063/4796,1686,620,1038/full/0/default.jpg"
+}

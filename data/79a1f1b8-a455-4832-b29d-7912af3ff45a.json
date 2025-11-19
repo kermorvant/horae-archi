@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands in the foreground, gesturing with his right hand. He is dressed in elaborate liturgical vestments, including a blue dalmatic and a red cope adorned with gold embroidery. To his left, three young boys, depicted with pale skin and hands clasped in prayer, are partially submerged in a wooden tub. Behind the boys, a section of a stone wall with a Gothic-style window is visible. The background behind the bishop is a vibrant blue, decorated with scattered gold motifs, suggesting a divine or celestial setting. The scene likely depicts a saintly bishop performing a miracle, possibly related to the protection or salvation of children.",
+    "scene_interpretation": "Miracle of a Bishop",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.unifr.ch/loris/utp%2Futp-0111%2Futp-0111_104r.jp2/1043,3694,1756,2065/full/0/default.jpg"
+}

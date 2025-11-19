@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A king, identifiable by his crown and scepter, presides over a scene involving several figures. To his left, a man in a cap and tunic stands. To his right, a woman with a veiled head and draped clothing is seated. In the foreground, a figure lies on the ground, possibly deceased or asleep, with a sword or staff extending over them. The background suggests an architectural setting with arched openings and decorative elements, possibly within a hall or chamber. The overall composition implies a scene of judgment, presentation, or a significant event involving royalty and other individuals.",
+    "scene_interpretation": "The scene is likely a depiction of a royal judgment or a significant event involving a king. Without further iconographic clues, a specific biblical or devotional interpretation is difficult. However, the presence of a king, other figures, and a figure on the ground could allude to themes of justice, power, or even a narrative from secular history or legend.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0071/5964,3518,652,1165/full/0/default.jpg"
+}

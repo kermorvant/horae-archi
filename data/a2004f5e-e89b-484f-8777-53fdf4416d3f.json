@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A female saint, identified by her halo and devotional attributes, stands in a room with a checkered floor. She wears a blue tunic, a red mantle, and a white headdress. In her right hand, she holds a sword, and in her left, a small, grey, house-like reliquary. Beneath her feet lies a brown, beast-like creature, possibly a lion or dragon, symbolizing the vanquished evil. The background suggests an interior space with a doorway opening to a landscape with rolling hills and trees. The scene is framed by decorative borders typical of illuminated manuscripts.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8538808p/f378/999,312,1188,1810/full/0/default.jpg"
+}

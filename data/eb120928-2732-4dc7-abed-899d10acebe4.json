@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A crowned female saint, identified by the palm frond and sword, stands in a landscape. She wears a white tunic adorned with small dark marks and a rich red cloak lined with gold fabric. A golden halo surrounds her head, and a jeweled crown sits upon her blonde hair. In her right hand, she holds a golden sword with a decorative hilt, and her left hand rests on her cloak. The background depicts a verdant, rolling landscape with stylized trees and distant architectural structures, including towers and what appear to be fortified buildings. The overall scene evokes a sense of solemnity and devotion, typical of depictions of female martyrs.",
+    "scene_interpretation": "Martyrdom of a Female Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower",
+        "fortress"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Female Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-cl0124/bge-cl0124_205v.jp2/1386,684,2643,4576/full/0/default.jpg"
+}

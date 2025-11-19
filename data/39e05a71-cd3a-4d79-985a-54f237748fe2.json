@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, clad in a blue mantle and white veil, with her head bowed and hands clasped in a gesture of sorrow or contemplation. Beside her stands a young man, possibly Saint John the Evangelist, wearing a red tunic and looking towards the viewer with a pensive expression. In the background, a wooden cross is partially visible, suggesting a connection to the Crucifixion. The figures are rendered with delicate brushstrokes, and their halos indicate their sacred status. The overall mood is one of solemnity and devotion.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1ef69e6c-58b5-468f-baac-4054a32fa202/741,1422,1122,1112/full/0/default.jpg"
+}

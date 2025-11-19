@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A kneeling figure, identified as Mary Magdalene by her gesture of supplication and the presence of Christ, is depicted in a garden setting. She is looking upwards towards a standing figure of Christ, who holds a cross staff and appears to be emerging from behind a tree. The background is decorated with a dark, patterned textile or tapestry, suggesting an indoor or enclosed space, yet the ground is rendered with grass, indicating an outdoor element. The scene likely represents the \"Noli me tangere\" moment, where Christ instructs Mary Magdalene not to touch him after his resurrection.",
+    "scene_interpretation": "Noli me tangere",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f487/464,605,963,1204/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A group of men, some with beards and wearing robes and head coverings, are depicted in an outdoor setting. The foreground shows several figures in conversation, with one older man in a blue and gold robe gesturing outwards. Behind them, a lush green landscape stretches into the distance, dotted with trees and a few distant buildings. The sky above is a vibrant blue with scattered golden clouds. The scene is framed by an ornate, gilded archway, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "This scene likely depicts a biblical narrative involving disciples or apostles, possibly during a journey or a moment of teaching. The presence of multiple male figures in conversation and the outdoor setting are common in depictions of events from the Gospels or the Acts of the Apostles.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f84/1526,1570,810,2429/full/0/default.jpg"
+}

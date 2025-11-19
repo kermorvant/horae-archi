@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, likely a king or elder, with long wavy hair and a regal robe, gestures with his left hand towards a younger figure. He holds a scepter topped with a cross and a crown. The younger figure, possibly a queen or princess, is depicted with hands clasped in prayer, wearing a similar regal garment and a headdress. Behind them, stylized architectural elements suggest a building with arched openings and pinnacles. The scene appears to be set outdoors, with hints of architectural structures in the background.",
+    "scene_interpretation": "The scene likely depicts a royal investiture or a blessing of a queen, possibly related to a biblical or historical narrative involving royalty. The scepter and crown are symbols of authority and lineage, and the praying posture of the younger figure suggests reverence or acceptance of a divine or royal decree.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pinnacle"
+    ],
+    "persons": [
+        "King",
+        "Queen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0088/5914,3512,639,1216/full/0/default.jpg"
+}

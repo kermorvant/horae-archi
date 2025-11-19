@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A figure in a blue tunic and golden armor, wearing a helmet, stands to the right of a brown, bull-like creature. The figure holds a long, thin object, possibly a spear or staff, pointed towards the creature. The creature appears to be breathing heavily, with white froth around its mouth. The background is a green, grassy landscape under a blue sky, with some sparse vegetation. The scene depicts a moment of confrontation or interaction between the armored figure and the beast.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0065/1980,738,765,1153/full/0/default.jpg"
+}

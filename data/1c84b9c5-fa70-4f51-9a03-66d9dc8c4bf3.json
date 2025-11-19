@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts three figures under an arched architectural element. On the left, a young person with a halo holds out their hands. In the center, a woman, also with a halo, wears a veil and holds her hands clasped to her chest. To the right, a bearded man with a hat gestures with his right hand, pointing upwards. Behind him, a building with a tower and windows is visible. The overall composition suggests a narrative scene, possibly religious, given the halos.",
+    "scene_interpretation": "The Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "window",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0038/4638,3804,891,665/full/0/default.jpg"
+}

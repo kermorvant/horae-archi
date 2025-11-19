@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, likely a saint or a noblewoman, is depicted holding a lantern in their left hand. The figure wears an elaborate headdress and a richly decorated garment. To the lower left, a dog or a similar animal is visible. The scene is framed by an architectural element resembling an arch with decorative foliage. The overall style suggests a woodcut illustration, possibly from a devotional text.",
+    "scene_interpretation": "Saint Lucy",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint Lucy"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0064/4077,472,393,508/full/0/default.jpg"
+}

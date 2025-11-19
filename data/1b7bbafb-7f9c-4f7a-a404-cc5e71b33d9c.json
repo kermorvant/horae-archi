@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely a saint, stands holding a book in his left arm and a staff or crozier in his right hand. He wears a monastic habit. The background features a dotted pattern suggesting a celestial or decorative setting, framed by an arched architectural element. To the left, a stylized landscape with hills and a building is visible, while to the right, a creature, possibly a lion, is depicted. The overall scene is framed within an ornamental border.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0092/1072,738,474,620/full/0/default.jpg"
+}

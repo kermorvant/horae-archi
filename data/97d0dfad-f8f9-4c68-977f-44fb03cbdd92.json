@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a celestial gathering, with a central figure seated on a throne-like structure, possibly representing Christ or God, holding a scale. This figure is surrounded by a multitude of saints and holy figures, many with halos, gazing upwards or towards the central figure. Two winged angels flank the throne, their wings spread wide. The figures are depicted in flowing robes, and the overall atmosphere suggests a divine assembly. The lower portion of the image shows swirling blue and dark green forms, possibly representing clouds or the earthly realm below the heavenly sphere.",
+    "scene_interpretation": "The Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Saints",
+        "Angels"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/pb462wj5265%2FW190_000093_1200/1168,579,2894,4293/full/0/default.jpg"
+}

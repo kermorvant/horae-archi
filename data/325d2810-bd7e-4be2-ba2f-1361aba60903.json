@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, stands in a landscape, facing left. The figure wears a blue robe with gold trim and a white undergarment. To the left, a dragon-like creature with wings and claws is depicted. In the background, a body of water is visible, with trees and a castle-like structure on a hill. The scene is framed by an arched border with floral motifs.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501939c/f324/970,320,962,1314/full/0/default.jpg"
+}

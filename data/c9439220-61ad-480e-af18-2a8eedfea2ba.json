@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Angel Gabriel, with green wings and a golden robe, kneels and points towards the Virgin Mary. Above him, the Holy Spirit descends as a dove, radiating light. On the right, the Virgin Mary, clad in a pink dress and a blue mantle, is seated with her hands clasped in prayer over an open book. The setting appears to be an interior space with architectural elements suggesting a religious building, possibly a chapel or a church, indicated by the arched doorway and decorative wall panels.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/492681/573,278,1612,2288/full/0/default.jpg"
+}

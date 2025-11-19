@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A procession of figures, predominantly in monastic attire, moves across a cobblestone ground. In the foreground, two monks in dark habits with white undergarments stand prominently. One holds a red book, while the other stands beside a young acolyte in a white robe holding a tall banner with a flame-like finial. Behind them, a group of figures, including women in wimples and hooded cloaks, observe the procession. In the background, simplified representations of buildings with red roofs and light-colored walls suggest an urban or ecclesiastical setting.",
+    "scene_interpretation": "Procession",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Monk",
+        "Acolyte"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024151j/f221/1466,1864,519,771/full/0/default.jpg"
+}

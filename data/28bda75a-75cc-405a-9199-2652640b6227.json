@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Baptism of Christ. Christ, with a golden halo and radiating light, stands on the left, holding a golden cross. He is draped in a pink robe, with his feet bare. To his right, John the Baptist, an older man with a beard, kneels with his hands clasped in prayer, wearing a blue robe and a brown cloak. Above Christ, a white dove, symbolizing the Holy Spirit, descends. A group of onlookers stands behind John the Baptist, some with hands clasped in prayer, observing the event. The setting is an outdoor landscape with rolling green hills, a body of water (likely the Jordan River), and stylized trees. In the background, distant blue hills and faint architectural structures are visible. The entire scene is framed by an ornate, gilded arch with floral motifs.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10549444b/f105/433,400,1458,1785/full/0/default.jpg"
+}

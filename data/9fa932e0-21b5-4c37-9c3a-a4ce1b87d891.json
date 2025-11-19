@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "In a celestial and earthly landscape, Christ, with a halo of divine light, kneels in prayer, his hands clasped. An angel, with vibrant wings and a yellow robe, offers him a chalice. Above, a host of cherubic angels descend from a golden sky, some carrying instruments of the Passion: a ladder, a scourge, a crown of thorns, and a cross. In the background, a procession of figures moves towards a distant city, while other figures rest in the foreground. The scene likely depicts Christ's Agony in the Garden, with the angels offering solace and symbolic representations of his future suffering and sacrifice.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105380373/f322/351,212,1773,2579/full/0/default.jpg"
+}

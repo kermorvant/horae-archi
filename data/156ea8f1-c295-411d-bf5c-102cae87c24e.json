@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, crowned and holding a book, standing to the left and facing Elizabeth. An angel, with large wings and a halo, stands between them, gesturing towards Elizabeth. Elizabeth, an older woman with a head covering, is shown holding a baby, while another child stands beside her. The figures are set against a red, patterned background within a decorative frame. The overall composition suggests a religious narrative, likely the meeting of Mary and Elizabeth after the Annunciation, a pivotal moment in Christian theology.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f252/1015,651,1722,1897/full/0/default.jpg"
+}

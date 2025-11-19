@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, cloaked in a vibrant blue mantle adorned with gold trim, rides a donkey, cradling the Christ Child. The Child, with a halo, is held close by Mary, who wears a golden headdress. Leading the donkey is Saint Joseph, dressed in an orange tunic and a purple cloak, with a blue cap and a long white beard. He holds the donkey's rope and a staff. The figures are set against a landscape with rolling hills, sparse vegetation, and a single tree. Above, a blue sky is dotted with stars, and golden rays emanate from a celestial source, suggesting divine presence. The overall impression is one of humble travel under divine guidance.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/48464456/655,797,1559,1810/full/0/default.jpg"
+}

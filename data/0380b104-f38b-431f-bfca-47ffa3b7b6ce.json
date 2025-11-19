@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, holding the Christ Child, is presented by a bearded man, likely Joseph, to a high priest. The high priest, wearing a white robe and a blue mantle, stands before a cylindrical altar. Behind them, a woman in a blue dress and green sash holds a basket and a staff, possibly representing a supplicant or a witness. The background features a red tapestry with gold ornamentation and an architectural element with arched windows, suggesting an interior setting within a religious building. The floor is tiled in green squares.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/62939064/63503740.tif/534,528,1696,2453/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The Virgin Mary, crowned and with a halo, cradles the Christ Child in her arms. She is depicted kneeling on a crescent moon, surrounded by a radiant golden mandorla against a red background dotted with stars. The Christ Child is also haloed. The scene is framed by decorative borders.",
+    "scene_interpretation": "The Virgin Mary as Queen of Heaven, referencing Revelation 12:1, where a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550094367/f246/362,260,879,1387/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "An elderly man with a long grey beard and a halo is depicted in profile, wearing a pink robe and a blue and gold headdress. He is seated and appears to be reading from a large, open book, holding a stylus or quill in his right hand. The background suggests an indoor setting with a window showing a blue sky. The scene is likely a representation of a prophet or a scholar engaged in study or contemplation.",
+    "scene_interpretation": "Prophet in Study",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS2842/DEPOT/315556101_MS2842_0022/4190,826,940,1306/full/0/default.jpg"
+}

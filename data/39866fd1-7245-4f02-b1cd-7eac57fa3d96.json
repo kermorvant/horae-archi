@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the creation of Eve from Adam's rib. God, wearing a crown and a royal robe, is shown reaching towards Adam, who lies asleep on the ground. An angel stands to God's left, placing a hand on God's shoulder. To God's right, Eve, depicted as a nude woman, stands with her hands clasped. Behind them, a tree laden with fruit, possibly from the Tree of Knowledge, is visible, with a serpent coiled around its trunk. In the background, a body of water flows past a lush green landscape dotted with trees, leading to a walled city with towers and spires. A peacock stands prominently on the right side of the composition, and several birds are scattered on the ground.",
+    "scene_interpretation": "The Creation of Eve",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "God",
+        "Adam",
+        "Eve",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/pr444bb2006%2FW292_000045_1200/1450,797,3495,5263/full/0/default.jpg"
+}

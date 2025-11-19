@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary, dressed in blue and with hands clasped in prayer, kneeling before a lectern. To her left, an angel, clad in red and with a halo, gestures towards her, presumably delivering the divine message. The background is a simple green wall, suggesting an interior setting. The figures are rendered with halos, indicating their sacred status.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/HMML/HMML%2000534/HMML_00534_069r.JPG/800,2274,897,1567/full/0/default.jpg"
+}

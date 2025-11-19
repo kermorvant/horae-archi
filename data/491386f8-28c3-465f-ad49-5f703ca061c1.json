@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two male figures stand within an interior space. The figure on the left wears a green tunic, a red hat, and a draped reddish garment over his shoulder. He holds a glass bottle aloft in his right hand. The figure on the right wears a red surcoat over a blue tunic and green hose, and holds a brown vessel in his left hand and a knife in his right. Behind them is a wooden bench with decorative carvings and a blue cushion. A window with multiple panes is visible in the background. The floor is tiled in a checkered pattern of pink, blue, and white squares. Both figures have halos, suggesting they are saints. The scene likely depicts a moment related to the saints' lives, possibly involving the dispensing of a medicinal or sacramental substance.",
+    "scene_interpretation": "Saints with Halos",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10509406b/f132/786,444,1128,1762/full/0/default.jpg"
+}

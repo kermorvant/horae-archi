@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A woman, identified as Saint Catherine of Alexandria, kneels in prayer with her hands clasped. She is dressed in a blue gown with a white patterned tunic. Behind her, a man in a red tunic raises a large sword, poised to strike her head. To the right, a wooden structure with a large wheel, likely a breaking wheel, is visible. Behind this, two figures are observing the scene: one is a woman in a dark hooded garment, and the other is a man wearing a crown, suggesting royalty. In the background, a castle with towers and battlements is depicted amidst a green, hilly landscape with trees. The scene depicts the martyrdom of Saint Catherine.",
+    "scene_interpretation": "Martyrdom of Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "battlement",
+        "tower"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f193/368,375,1426,2187/full/0/default.jpg"
+}

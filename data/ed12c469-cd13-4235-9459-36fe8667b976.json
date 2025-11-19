@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a martyrdom, likely of Saint Sebastian, given the arrows and the presence of figures associated with his legend. A haloed figure, possibly Saint Sebastian himself, stands on the left, holding a staff and gesturing towards a young man suspended by his arms from a wooden structure supported by columns. This suspended figure is pierced by arrows. To the right, two women observe the scene, one in a yellow robe and purple mantle, the other in a pink robe. A ladder leans against the structure, suggesting the means by which the arrows were inflicted. The background features a stylized landscape with trees and a body of water, and a blue, cloud-like form in the sky. The text below the image contains a rubric and a large illuminated initial 'E'.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892298/549,181,1595,2188/full/0/default.jpg"
+}

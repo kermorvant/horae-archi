@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "A man, seated and wearing a crown and ornate robe, gestures with his hands towards a woman who stands before him, also crowned and robed. The architectural setting behind them features pointed arches and decorative elements, suggesting an interior space within a grand building. The scene appears to depict a royal or noble encounter, possibly a betrothal or a formal audience, within a richly decorated architectural environment.",
+    "scene_interpretation": "Royal Audience",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "capital",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "King",
+        "Queen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0100/5841,3414,740,1229/full/0/default.jpg"
+}

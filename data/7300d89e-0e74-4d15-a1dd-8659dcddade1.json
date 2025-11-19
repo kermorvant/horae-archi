@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A procession of figures, led by a crowned man in a golden robe, moves through a green landscape towards a fortified city in the distance. The crowned figure, likely a king, is accompanied by several other men, some with beards and wearing turbans or caps. The city in the background features tall towers, crenellated walls, and spires, suggesting a significant urban or royal center. The scene is framed by an architectural element, possibly an archway or a decorative border, on the left and right sides, with a glimpse of a blue sky with scattered clouds above.",
+    "scene_interpretation": "This scene likely depicts a royal procession or a significant journey, possibly related to a biblical narrative involving kings, such as the Adoration of the Magi or a scene from the life of King David. The fortified city in the background could represent Jerusalem or another important biblical city.",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "battlement",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f244/1394,1710,801,2314/full/0/default.jpg"
+}

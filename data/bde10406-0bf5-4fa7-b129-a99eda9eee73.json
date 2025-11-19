@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure, likely Christ, holding a staff and gesturing towards a group of people. To the left, a figure with a tormented expression emerges from behind the central figure. To the right, several individuals are shown, some with hands clasped in prayer or supplication, and one appears to be kneeling. Above them, within an arched architectural element, a winged figure, possibly an angel or demon, is depicted in a dynamic pose. The overall setting is suggestive of a spiritual or infernal realm, with the arched structure and the presence of figures in distress.",
+    "scene_interpretation": "The Harrowing of Hell",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0047/5816,514,629,1119/full/0/default.jpg"
+}

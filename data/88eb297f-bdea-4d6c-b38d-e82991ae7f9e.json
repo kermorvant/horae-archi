@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a bed, holding the Christ Child. She wears a blue robe and a crown, with a halo behind her head. To the left, a woman in a red gown and an elaborate headdress kneels in prayer. The background features a richly patterned red tapestry and architectural elements suggesting an interior space, with arches and columns visible. The overall scene conveys a devotional moment of prayer and veneration.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f46/720,1590,720,716/full/0/default.jpg"
+}

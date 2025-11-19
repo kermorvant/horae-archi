@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of five women, some crowned and others veiled, standing in a landscape with architectural elements in the background. The women are richly dressed and adorned. The two leftmost women are embracing, with one whispering into the ear of the other. The central figure is an angel with large wings, holding a sword. To the right of the angel, another woman holds a rose, and the woman furthest right holds a chalice. Above them, in a celestial realm depicted with clouds, three figures, likely representing the Trinity, are shown reading from a large open book. In the background, a cityscape with buildings and towers is visible, and in the foreground, a small church-like structure is depicted. The overall composition suggests a devotional or allegorical scene, possibly related to female saints or virtues.",
+    "scene_interpretation": "Allegory of the Church or Female Saints",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "spire",
+        "window",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_de_la_Societe_Eduenne/710145201_album_bulliot_31/DEPOT/710145201_album_bulliot_31_0001/889,1132,1589,2437/full/0/default.jpg"
+}

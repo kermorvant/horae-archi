@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable structure. The Virgin Mary, in a blue robe and white veil, kneels with hands clasped in prayer. Beside her, a figure in a red robe, likely Saint Joseph, leans towards the Christ Child lying on the ground. An ox and a donkey are visible behind them. The background features a green, hilly landscape with trees. Rays of light emanate from the upper part of the image, suggesting divine presence. The overall composition is framed by an arched border with floral motifs.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1512/DEPOT/352386106_MS1512_0068/1387,575,1345,1945/full/0/default.jpg"
+}

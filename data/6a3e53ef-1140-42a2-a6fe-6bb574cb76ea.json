@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures seated on a bench against a gold, patterned background. On the left, a woman, identified as the Virgin Mary by her halo and crown, is shown with her hands clasped in prayer and her head bowed. She wears a red-brown mantle over an orange tunic and a green undergarment. On the right, a bearded man, likely Joseph, also with a halo, places a crown on the Virgin Mary's head. He wears a blue mantle over a grey tunic and holds a white, circular object in his lap. The scene is framed by decorative borders.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://images.lib.cam.ac.uk/iiif/MS-DD-00004-00017-000-00025.jp2/1213,1195,2304,3328/full/0/default.jpg"
+}

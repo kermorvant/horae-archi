@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, stands holding a chalice in her left hand and a draped cloth in her right. She wears a long, flowing garment. Behind her, to the right, is a depiction of buildings with towers and arched windows, suggesting an urban or architectural setting. To the left, there are indications of other figures or elements, partially obscured, and a decorative arch frames the upper portion of the scene. The figure's gesture and the chalice are indicative of martyrdom or a saintly attribute.",
+    "scene_interpretation": "Saintly Figure with Chalice",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0109/5816,3715,652,990/full/0/default.jpg"
+}

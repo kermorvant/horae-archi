@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, is seated and points to an open book held by a young girl, possibly the Christ Child. The woman wears a purple robe and a red veil with gold trim, while the girl is dressed in a blue gown. They are positioned within an architectural setting featuring a golden archway and columns. Behind them, two windows with diamond-shaped panes are visible, suggesting an indoor space. The scene is illuminated with gold leaf, particularly on the architectural elements and the clothing, indicating a devotional context.",
+    "scene_interpretation": "Education of the Virgin Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515740c/f301/282,587,832,857/full/0/default.jpg"
+}

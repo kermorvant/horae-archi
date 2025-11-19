@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded male figure, identified as a saint by his halo, stands in a dark, draped robe. He holds a cross in his right hand and a book or tablet in his left. The background is partially obscured, but suggests an architectural setting with buildings and possibly a landscape. The figure's posture and attire suggest contemplation or prayer.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0062/2803,2359,389,613/full/0/default.jpg"
+}

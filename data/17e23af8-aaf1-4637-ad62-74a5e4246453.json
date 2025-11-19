@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an arched architectural space. On the left, two figures in clerical attire, one in red and the other in green, are engaged in reading a book. In the center and right, three figures are dressed in dark hooded robes, suggesting they are monks or clergy. A blue, tent-like structure, possibly a catafalque or a symbolic representation of a tomb, is prominently placed in the foreground, adorned with candles. The background reveals architectural elements including ribbed vaults in blue and pink, arched windows, and what appears to be a tiered structure. The overall setting suggests a religious or funerary context, possibly a vigil or a memorial service.",
+    "scene_interpretation": "Funeral Vigil",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "wall",
+        "pillar",
+        "canopy"
+    ],
+    "persons": [
+        "Cleric",
+        "Cleric",
+        "Monk",
+        "Monk",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0028/DEPOT/352386106_MS0028_0120/3814,566,1447,2056/full/0/default.jpg"
+}

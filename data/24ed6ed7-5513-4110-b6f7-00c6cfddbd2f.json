@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A figure, possibly a saint or a bishop, stands in a blue robe over a white tunic, holding a book and a staff. The figure wears a distinctive headdress. The scene is framed by architectural elements, suggesting an interior or a partially enclosed space. In the background, architectural structures with arches and walls are visible, along with a green grassy area and a black railing.",
+    "scene_interpretation": "The figure's attire and the book suggest a religious context, possibly representing a saint, a bishop, or a scholar of religious texts. The staff could be a crozier or a symbol of authority. Without further iconographic clues, a specific biblical or devotional scene cannot be definitively identified.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xr480bs5669%2FW183_000082_1200/3355,2537,1180,1084/full/0/default.jpg"
+}

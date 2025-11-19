@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a tumultuous event, likely the Arrest of Christ. A central figure, presumably Christ, with a golden halo, is being embraced by a man in a purple robe, while another figure, also with a halo, is being struck with a sword. A soldier in armor stands to the left, and a crowd of figures with halos and soldiers with helmets surround them. In the background, stylized mountains and a radiant sun suggest an outdoor setting. The overall composition is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100224243/f43/308,107,1081,1432/full/0/default.jpg"
+}

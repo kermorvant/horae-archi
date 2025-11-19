@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary seated in the center, hands clasped in prayer, and a book open before her. Around her are the Apostles, some reading, others with hands raised in prayer or awe. Above them, the Holy Spirit descends in the form of a dove, radiating golden light. The figures are gathered within an architectural space suggested by arched windows and a red drapery that forms a backdrop. The overall impression is one of spiritual fervor and divine inspiration.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_097%2Flewis_e_097_jp2.zip%2Flewis_e_097_jp2%2Flewis_e_097_0134.jp2/703,879,2774,3312/full/0/default.jpg"
+}

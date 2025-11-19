@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely Saint Andrew, stands in a landscape, holding a large wooden cross. He is dressed in a pink tunic and a blue mantle. The background depicts rolling hills with sparse trees and a distant, indistinct building. The figure's gaze is directed away from the viewer, and his expression suggests contemplation or suffering. The scene is rendered in a typical medieval manuscript style with vibrant colors and a focus on the central figure and his attribute.",
+    "scene_interpretation": "Saint Andrew",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Andrew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0086/DEPOT/M601415401_MS0086_0060/3920,2122,995,1254/full/0/default.jpg"
+}

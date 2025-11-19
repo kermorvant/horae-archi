@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with a group of figures gathered around the body of Christ as it is laid in a sarcophagus. Christ's body, showing wounds from crucifixion, is held by several mourners. A woman in a blue mantle, likely the Virgin Mary, cradles his arm, while another figure in red supports his legs. The background features a stylized landscape with rolling hills, trees, and a distant city under a blue sky with golden rays emanating from above. The figures are rendered with expressive faces and draped robes, conveying sorrow and grief.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1334/DEPOT/352386106_MS1334_0090/3679,651,1362,1861/full/0/default.jpg"
+}

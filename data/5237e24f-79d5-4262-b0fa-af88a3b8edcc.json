@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and cope, stands on a patterned floor, radiating divine light. He is depicted in the act of blessing or interceding for two nude figures, likely children, who are submerged in a large tub or vat. The scene is framed by an arched architectural element and decorative foliage borders, suggesting a sacred or devotional context. The bishop's gesture and the presence of the children in the tub are indicative of a miracle or a saintly intervention.",
+    "scene_interpretation": "The Miracle of Saint Nicholas",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f423/325,0,1304,1713/full/0/default.jpg"
+}

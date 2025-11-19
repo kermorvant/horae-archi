@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel kneeling on the left, presenting a scroll with text to the Virgin Mary, who is seated on the right. Gabriel has green wings and wears a purple cloak over a white tunic. Mary, with a halo, is dressed in a blue robe and has her hands clasped over her chest, looking down. She is seated before a red-draped table with an open book. A golden vase with a sprig of greenery stands on the table. The background features a patterned red wall and green curtains. Above and to the left, a bust of a bearded man, possibly God the Father, is depicted within a blue circular frame, surrounded by rays of light. The floor is tiled in a red and brown checkerboard pattern.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/2295767/457,279,726,902/full/0/default.jpg"
+}

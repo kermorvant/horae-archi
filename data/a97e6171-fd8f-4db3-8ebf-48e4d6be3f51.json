@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A crowned female figure, identified as a saint, stands holding an open book in her left hand and a sword in her right, which is planted point-down in the ground. She wears a mantle over a patterned tunic and a diadem. The background is filled with a dotted pattern, suggesting a stylized interior or a symbolic space. Above her, an architectural element resembling an arch with decorative tracery frames the scene. The presence of the book and sword are common attributes of saints, particularly martyrs.",
+    "scene_interpretation": "Saint holding book and sword",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0091/1591,2746,440,689/full/0/default.jpg"
+}

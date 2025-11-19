@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, depicted in profile, wears an elaborate crown and a tunic. His right hand is raised in a gesture of blessing or speech, while his left hand is clasped over his chest. He is framed by an architectural element resembling an arch, with a decorative border above. The background is filled with a stippled pattern, suggesting a stylized representation of foliage or a textured surface. The figure's attire and posture suggest a figure of importance, possibly a king or prophet.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "undefined_element"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0021/1499,3372,350,561/full/0/default.jpg"
+}

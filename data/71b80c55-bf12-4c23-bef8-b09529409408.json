@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A group of figures are depicted in a scene that appears to be indoors, possibly within a building. In the foreground, a man in a blue tunic and brown hose looks upwards with his arms outstretched. Behind him, several other figures are visible, some with halos, suggesting a religious context. One figure, centrally placed and also with a halo, wears a blue garment with gold stripes. The overall impression is of a devotional scene, possibly depicting a moment of prayer, supplication, or a biblical event.",
+    "scene_interpretation": "Biblical Event",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1219/DEPOT/352386106_MS1219_0008/1167,1860,490,855/full/0/default.jpg"
+}

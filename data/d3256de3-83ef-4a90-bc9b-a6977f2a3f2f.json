@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a seated, elderly man with a long white beard and hair, wearing a pink loincloth, gesturing with his hands. He is positioned on the left side of the image, seated on a stone block. To his right, three men in elaborate attire, including turbans and richly colored robes, are engaged in conversation. The background features architectural elements, specifically large stone columns and what appears to be a partial facade of a classical building, partially obscured by lush green foliage. The sky above is a vibrant blue. The overall impression is one of a significant encounter or discourse taking place in an outdoor setting with classical architectural remnants.",
+    "scene_interpretation": "Job and His Friends",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Job"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537210/46199127.tif/578,507,2466,3789/full/0/default.jpg"
+}

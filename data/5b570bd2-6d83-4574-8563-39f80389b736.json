@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Two male figures, identified as saints by their halos, stand side-by-side. The figure on the left holds a large key and an open book, while the figure on the right grasps a sword and also holds an open book. Both figures are depicted with beards and wear robes. Behind them, an architectural element resembling a stylized archway with decorative tracery is visible, suggesting a sacred or monumental setting. The scene is rendered in a woodcut style, with strong linework and hatching.",
+    "scene_interpretation": "Saints Peter and Paul",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0075/4184,933,547,839/full/0/default.jpg"
+}

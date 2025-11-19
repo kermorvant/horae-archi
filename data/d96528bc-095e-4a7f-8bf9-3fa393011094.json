@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a humble stable, indicated by the wooden structure and the presence of a horse and donkey. The Virgin Mary, in a blue robe, holds the Christ Child, who is reaching out. Saint Joseph, in a yellow and blue robe, stands beside them. One of the Magi, dressed in a red and white ermine-trimmed robe, kneels before the child, offering a golden vessel. Other Magi and attendants are gathered, some bearing gifts. In the background, a bustling medieval city with churches and a castle is visible, suggesting the journey's end or a contrast between the humble birth and the worldly realm. A star shines brightly in the sky above the stable.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "castle"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326055/f114/1140,425,1469,2157/full/0/default.jpg"
+}

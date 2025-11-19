@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, dressed in a blue mantle and holding the Christ Child, stands on the left. To the right, a figure in priestly vestments, likely Simeon, receives the child and is about to wrap him in a cloth. Several onlookers, including a woman in an orange dress and men in various colored hats and robes, are present. The setting is an interior space with arched windows and columns, suggesting a religious building. A small dog is visible on the patterned floor.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/hw305bv4114%2FW197_000230_1200/4650,1319,4280,6640/full/0/default.jpg"
+}

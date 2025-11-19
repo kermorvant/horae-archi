@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of three figures in prayer, kneeling. The central figure, adorned with a papal tiara and ornate robes, appears to be a Pope. To his left, two other figures, possibly clergy or devout individuals, are also shown with hands clasped in prayer. They are positioned within an architectural setting characterized by a large arch overhead and columns to the right, suggesting a sacred or ceremonial space. The overall impression is one of solemn devotion and religious observance.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column"
+    ],
+    "persons": [
+        "Pope"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0081/754,422,594,882/full/0/default.jpg"
+}

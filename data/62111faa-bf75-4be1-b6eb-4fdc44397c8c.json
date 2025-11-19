@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three figures seated together. On the left, a man wearing a cap and a draped robe is leaning forward with his hands resting on his lap. In the center and right, two women are seated. The woman in the center, also wearing a draped robe and a circlet, is looking towards the woman on the right. The woman on the right, adorned with a circlet and a necklace, is holding a golden object, possibly a reliquary or a piece of jewelry, and appears to be presenting it or examining it. Both women are dressed in white robes with gold trim around their necks. The background features an arched structure with a lattice-like pattern and a reddish-brown textured wall. The figures are seated on a patterned surface that suggests a cushioned or upholstered area, with some foliage depicted below. The overall setting appears to be an interior space, possibly a chamber or a private room.",
+    "scene_interpretation": "The scene likely represents a devotional moment, possibly the presentation of a relic or a sacred object. The presence of two women, one possibly a noblewoman and the other perhaps a companion or attendant, along with a man, could allude to a private devotional practice or a scene from a saint's life where relics are venerated.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022328h/f11/387,386,1264,1264/full/0/default.jpg"
+}

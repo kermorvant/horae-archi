@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, likely a hermit or saint, is depicted seated within a simple, thatched shelter. He wears a brown monastic habit and holds a red book. Beside him, a brown animal, possibly a dog or a wild boar, rests. The shelter is constructed with woven material and straw. In the background, a rocky landscape gives way to a distant city with spires and buildings, set against a pale purple sky. The scene evokes a sense of solitude and contemplation, possibly representing a saint in his hermitage.",
+    "scene_interpretation": "Saint in Hermitage",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1588/DEPOT/352386106_MS1588_0153/1344,837,1464,2047/full/0/default.jpg"
+}

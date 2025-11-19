@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man wearing a crown and a hat adorned with a flower. He is dressed in a robe with a patterned collar and holds a shield decorated with floral motifs. The figure is framed by decorative architectural elements, suggesting a regal or important personage. The overall style is that of a woodcut illustration, likely from a medieval or early Renaissance manuscript.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0092/5179,1838,723,948/full/0/default.jpg"
+}

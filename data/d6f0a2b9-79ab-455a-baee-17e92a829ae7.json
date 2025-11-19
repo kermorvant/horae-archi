@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, with two angels present. One angel is positioned above and to the right of Mary, while another is to her left. The figures are rendered in a dark, stylized manner, with halos indicating their sacred status. The background is dark, suggesting a spiritual or celestial setting, and is framed by decorative foliage at the top. The overall composition focuses on the tender interaction between Mary and the infant Jesus, a common devotional image.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f240/2401,324,887,1283/full/0/default.jpg"
+}

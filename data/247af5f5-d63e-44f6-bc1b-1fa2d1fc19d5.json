@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bishop, adorned with a mitre and a golden cope over a white alb with blue trim, stands holding an open book. He is flanked by three figures in red robes and red hats, with hands clasped in prayer. To the right, two younger figures, one in a red and gold garment and the other in blue, kneel with hands pressed together in supplication. The scene is set against a golden, likely metaphysical background, with a hint of green ground at the bottom. The overall impression is one of a religious ceremony or devotion, possibly a blessing or presentation.",
+    "scene_interpretation": "Presentation of the Faithful",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop",
+        "Cleric",
+        "Cleric",
+        "Cleric",
+        "Youth",
+        "Youth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/26121238/964,2672,803,838/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ scourged, bound to a column by his hands. He is shown with wounds and bloodstains on his body. Two figures, one in a blue tunic and the other in a pink tunic, stand on either side of Christ, holding whips or scourges. Their faces are contorted in expressions of exertion or cruelty. Above them, in separate compartments framed by architectural elements, are two heads with halos, possibly representing angels or divine witnesses. The background is a patterned textile or tapestry, with a grassy ground beneath the figures. The entire scene is enclosed within a decorative border.",
+    "scene_interpretation": "The Scourging of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS0845/DEPOT/786466101_MS0845_0091/1362,1324,1748,1955/full/0/default.jpg"
+}

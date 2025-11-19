@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, bleeding and crowned with thorns. Below the cross, on the left, stand several grieving women, including the Virgin Mary, draped in blue and gold. On the right, a bearded man, possibly a high priest or a Roman soldier, gestures towards the cross, accompanied by a group of soldiers in armor. In the background, a stylized cityscape with towers and buildings is visible under a bright, radiating sun. The overall setting is an open, green landscape.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_075/DEPOT/M490075203_MS2003_1_075_0055/4142,947,1884,3197/full/0/default.jpg"
+}

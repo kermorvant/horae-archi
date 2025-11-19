@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a man in a blue robe lying on the ground, being dragged by a rope held by two other men. The man on the ground has a golden halo, suggesting he is a saint or a holy figure. The two men pulling the rope are dressed in red and blue tunics and wear turbans. Behind them, a building complex is visible, featuring a round tower with a conical roof and adjacent structures with pitched roofs. Another figure, possibly an authority figure, stands on a raised platform to the left, holding a staff and observing the scene. The overall setting appears to be outdoors, with a green, uneven ground surface.",
+    "scene_interpretation": "Martyrdom of a Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0191/3222,474,702,1111/full/0/default.jpg"
+}

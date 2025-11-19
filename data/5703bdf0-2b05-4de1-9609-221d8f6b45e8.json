@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts Saint Catherine of Alexandria, identifiable by the inscription \"SAINTE CATHERINE\" above her. She is crowned and holds a palm frond, symbolizing martyrdom, and a sword, representing her beheading. To her left, a large wheel, her instrument of torture, is visible. She is dressed in a golden robe over a purple tunic and a blue skirt. The background suggests an architectural setting with vertical elements that could represent columns or a wall.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53000319s/f139/245,172,469,758/full/0/default.jpg"
+}

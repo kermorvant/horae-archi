@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Entombment of Christ. Christ's body, marked with wounds, is being laid into a sarcophagus by two men. The Virgin Mary, with a sorrowful expression, stands behind Christ, attended by another woman. Two other men are present, one on the left holding a cloth, and another on the right assisting with the body. A wooden cross is visible in the background, suggesting the crucifixion has just occurred. The setting is an outdoor landscape with rolling hills under a blue sky.",
+    "scene_interpretation": "Entombment of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_008%2Fwidener_008_jp2.zip%2Fwidener_008_jp2%2Fwidener_008_0428.jp2/1045,1417,2152,2397/full/0/default.jpg"
+}

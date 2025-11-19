@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures, likely monks or hermits, in a desolate, hilly landscape under a starry night sky. Some figures are seated or lying down, appearing weary or contemplative, while others are standing. In the background, a wooden palisade suggests a boundary or enclosure. To the right, a lone figure in a hooded robe kneels in prayer, facing a chalice or vessel placed on a mound. The overall atmosphere is one of solitude and spiritual devotion.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f41/304,2048,1254,487/full/0/default.jpg"
+}

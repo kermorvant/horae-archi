@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, his body showing signs of suffering. To the left, a figure in blue and orange, likely the Virgin Mary, looks up towards Christ with hands clasped in prayer. To the right, another figure in orange and blue, possibly Saint John the Evangelist, also gazes upwards. The background is a richly patterned textile or tapestry, rendered in gold, blue, and red squares. The setting appears to be outdoors, with a rocky ground and sparse vegetation at the base of the cross. The entire scene is framed by an illuminated arch with foliate motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_des_Arts_decoratifs/Musee_des_Arts_decoratifs_INV_40342/DEPOT/Musee_des_Arts_decoratifs_INV40342_0112/1452,410,920,1663/full/0/default.jpg"
+}

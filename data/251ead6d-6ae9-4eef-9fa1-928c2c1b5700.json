@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. On the left, the Angel Gabriel, with blue wings and a pink robe, kneels and presents a scroll with text to the Virgin Mary. The Virgin Mary, dressed in a blue robe and with a halo, is seated on the right, her hand raised in a gesture of acceptance or surprise, and her gaze directed downwards towards an open book on a table. The setting features a checkered floor and green drapery, suggesting an indoor domestic or devotional space. The gold background and decorative border indicate the manuscript's precious nature.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/wt195gt4247%2FW263_000037_1200/1241,885,3350,4067/full/0/default.jpg"
+}

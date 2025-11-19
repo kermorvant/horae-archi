@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Mark, identified by his halo and his attribute, the winged lion, seated at a desk and writing. He is dressed in a blue tunic and a red robe, with a halo around his head. Before him is an open book on a lectern, and a scroll. To his left, the winged lion, also with a halo, sits attentively. Behind Saint Mark, a vaulted architectural space is visible, with columns and arched windows. The background suggests an interior setting with a glimpse of a landscape through an opening on the left. The overall scene represents the evangelist Saint Mark in the act of writing his Gospel, accompanied by his symbolic animal.",
+    "scene_interpretation": "Saint Mark Writing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "vault",
+        "roof"
+    ],
+    "persons": [
+        "Saint Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.unifr.ch/loris/utp%2Futp-0105%2Futp-0105_021r.jp2/1171,308,2320,3641/full/0/default.jpg"
+}

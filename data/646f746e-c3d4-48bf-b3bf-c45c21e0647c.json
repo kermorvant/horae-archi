@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A woman with long, wavy hair and a headdress is depicted in profile, facing right. She wears a long-sleeved garment with decorative bands on the sleeves and a draped skirt. Her left hand is raised, and her right hand is held lower. She is positioned within an architectural setting featuring a large, segmented arch above her head, decorated with foliage or floral motifs. The background is filled with a stippled pattern, suggesting texture or depth. The scene is likely devotional, possibly representing a saint or a figure from biblical narrative.",
+    "scene_interpretation": "Devotional Figure",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0050/1766,3755,272,656/full/0/default.jpg"
+}

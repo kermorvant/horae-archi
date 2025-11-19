@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a wide-brimmed hat adorned with a gold emblem and a feather. He is draped in a blue cloak over a pink garment. His right hand rests on a golden staff or scepter. A golden halo encircles his head, suggesting a saintly or royal figure. The scene is framed by an arched architectural element with gold ornamentation, set against a blue background.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000009/MAA_00009_117.jpg/2183,342,519,525/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a beard and a cap, wearing armor, wrestling with a lion. The man's left hand is gripping the lion's mane, while his right arm is bent, possibly preparing to strike or hold the beast. The lion appears to be struggling, with its mouth open. In the background, to the left, are stylized representations of buildings with arched windows and crenellated tops, suggesting an urban or fortified setting. The overall style is that of a woodcut illustration, common in medieval manuscripts.",
+    "scene_interpretation": "Samson Wrestling the Lion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "battlement"
+    ],
+    "persons": [
+        "Samson"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0067/840,3389,614,1266/full/0/default.jpg"
+}

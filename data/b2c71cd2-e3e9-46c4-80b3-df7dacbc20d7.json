@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a regal enthroned figure, likely Christ, holding a golden orb, gesturing with one hand. Before him kneels a crowned figure, presumably the Virgin Mary, with hands clasped in prayer. Several winged angels attend the scene: two are positioned behind the enthroned figure, one holding a crown, and another two are near the kneeling figure, one of whom holds a staff. The figures are set within an architectural space suggested by a richly decorated canopy and a patterned textile backdrop. The floor is tiled in a green and black checkerboard pattern. The entire scene is framed by an elaborate border with floral motifs and gold ornamentation.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509634r/f130/1169,307,1807,2520/full/0/default.jpg"
+}

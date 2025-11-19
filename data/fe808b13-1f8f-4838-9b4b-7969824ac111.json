@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a saint, identifiable by her halo, lying on a tilted wooden bench. A figure dressed in blue and a red cap is using forceps to extract a tooth from the saint's mouth. Another figure, dressed in orange and blue, sits on the ground holding a tool, possibly assisting or waiting. The background is a decorative tapestry with a diamond pattern of fleur-de-lis. The ground is depicted as green with sparse vegetation. This scene likely represents the martyrdom of Saint Apollonia, who is traditionally depicted as having her teeth extracted.",
+    "scene_interpretation": "Martyrdom of Saint Apollonia",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Apollonia"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_004%2Fwidener_004_jp2.zip%2Fwidener_004_jp2%2Fwidener_004_0392.jp2/1084,1388,1963,2464/full/0/default.jpg"
+}

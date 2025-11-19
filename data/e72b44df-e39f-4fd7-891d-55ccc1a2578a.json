@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with three shepherds and several sheep. One shepherd kneels in prayer, looking upwards, while another sits with his hands raised in supplication. A third shepherd stands behind them, also looking upwards. Above them, an angel with blue wings hovers within a golden oval, bearing a scroll with the inscription \"GLORIA IN EXCELSIS DEO\". In the background, a city with towers and buildings is visible. The overall scene is framed by decorative architectural elements, suggesting a divine revelation to the shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_111%2Flewis_e_111_jp2.zip%2Flewis_e_111_jp2%2Flewis_e_111_0080.jp2/890,1065,2167,3130/full/0/default.jpg"
+}

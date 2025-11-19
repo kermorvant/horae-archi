@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity, with the Virgin Mary kneeling in prayer before the Christ Child, who lies on a richly decorated bed. Two bearded men, likely representing Saint Joseph and another elder, stand behind the bed. One holds a candle, illuminating the scene, while the other clasps his hands in prayer. The figures are set within an architectural space suggested by a dark background and a window with tracery. A red, gold, and patterned canopy hangs above the figures, adding to the devotional atmosphere.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "window",
+        "tracery"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53000319s/f97/247,150,534,811/full/0/default.jpg"
+}

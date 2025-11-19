@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus centrally positioned on the cross, bleeding from his wounds. To his left stands the Virgin Mary, dressed in a blue mantle, with her hands clasped in sorrow. To Christ's right, a figure, likely Saint John the Evangelist, is shown with his hand to his forehead, also in grief, holding a book. Two other figures are crucified on crosses on either side of Christ, appearing as thieves. The background is a vibrant blue sky dotted with gold stars, suggesting a celestial or symbolic setting. The ground is rendered in green, with some red foliage at the base of Christ's cross.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00095049_00336/408,26,526,724/full/0/default.jpg"
+}

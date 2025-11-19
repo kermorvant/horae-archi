@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The image is divided into four panels, each depicting a saint or religious figure within an architectural setting. The top left panel shows a tonsured monk in a black habit, holding a staff and a book. The top right panel features a bishop in full regalia, including a mitre and cope, holding a crozier and blessing. The bottom left panel illustrates a figure in a red and blue robe, holding a vial of yellow liquid, with a young boy standing before them. The bottom right panel depicts a figure in a blue robe, holding a jar and an instrument, attending to a kneeling figure. All panels feature patterned backdrops and arched windows, suggesting an interior space.",
+    "scene_interpretation": "Saints",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window"
+    ],
+    "persons": [
+        "Monk",
+        "Bishop",
+        "Saint",
+        "Boy"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100254479/f529/396,700,1135,1604/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a white veil and a pink garment beneath a blue mantle, tenderly holds the Christ Child. Both figures are adorned with golden halos. The Virgin's halo is decorated with wavy lines, while the Christ Child's has radiating lines. They are positioned against a background of small, tessellated squares in red, blue, and gold, suggesting a rich, decorative surface. The Virgin stands on a golden crescent moon, which is intricately patterned. The overall scene is framed by a border with vertical stripes of gold and red.",
+    "scene_interpretation": "The Virgin Mary on the crescent moon is a common iconographic representation of the Immaculate Conception, referencing the vision in the Book of Revelation (12:1) where a woman clothed with the sun, with the moon under her feet, gives birth to a son.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f85/548,923,1354,1986/full/0/default.jpg"
+}

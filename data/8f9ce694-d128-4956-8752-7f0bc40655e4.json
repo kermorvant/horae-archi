@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body emaciated and head bowed. To the left stands a figure in a dark habit, likely a nun, with hands clasped in prayer and a veiled head. To the right, a figure, possibly the Virgin Mary, holds a book and looks down with a sorrowful expression. The background is adorned with an intricate, swirling floral pattern, and circular medallions with decorative motifs are placed behind the heads of Christ and the Virgin Mary. The ground beneath the figures is rendered with a textured, dark surface.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032954j/f3/2456,212,2389,3285/full/0/default.jpg"
+}

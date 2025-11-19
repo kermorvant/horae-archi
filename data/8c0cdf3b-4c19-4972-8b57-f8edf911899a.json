@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A man, identified as Christ by his halo, is seated on a gilded throne, gesturing with his right hand. He wears a red tunic and a blue mantle. Facing him, a woman, identified as the Virgin Mary by her halo and posture, kneels. She wears a blue mantle over a tan tunic and has her hands clasped. The scene takes place indoors, within a room that features architectural elements such as a window with tracery and a decorative red canopy. The floor is green and patterned. The overall impression is one of a devotional scene, likely depicting a moment of teaching or discourse between Christ and Mary.",
+    "scene_interpretation": "Christ and Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xr480bs5669%2FW183_000054_1200/3496,2355,1630,2573/full/0/default.jpg"
+}

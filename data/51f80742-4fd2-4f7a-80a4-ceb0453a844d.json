@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with shepherds and their flock. In the foreground, three shepherds are tending to a flock of sheep. One shepherd, wearing a blue hood and yellow tunic, looks upwards, holding a staff. Another shepherd, in a red tunic and grey cloak, plays a horn, accompanied by a dog. A third shepherd, in a yellow tunic and blue sleeves, also looks upwards, holding a staff. In the middle ground, a lone figure sits on a hill, mending footwear, with sheep nearby. In the background, a fortified city with towers and battlements is visible on a hill, and further in the distance, a windmill stands atop another hill. Above the scene, an angel with golden wings and a halo descends from a radiant blue sky, pointing downwards and holding a scroll that reads 'Gloria in excelsis Deo et m'. The overall scene evokes a sense of divine announcement to humble shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower",
+        "battlement",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/195bc142-f0ec-45b1-9a86-8400f795065b/2347,1253,1830,3385/full/0/default.jpg"
+}

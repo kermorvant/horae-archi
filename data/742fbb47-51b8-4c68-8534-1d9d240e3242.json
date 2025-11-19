@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man, likely a monk or hermit, wearing a hooded robe and a hat. He is shown in profile, looking upwards and to the right, with his hands clasped together in prayer or contemplation. He holds a book or scroll in his left arm. The figure is framed by architectural elements: on the left, a decorative arch with foliage motifs, and on the right, a column. The background is filled with a stippled pattern, suggesting a textured surface or a stylized representation of nature.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0039/1848,3840,368,670/full/0/default.jpg"
+}

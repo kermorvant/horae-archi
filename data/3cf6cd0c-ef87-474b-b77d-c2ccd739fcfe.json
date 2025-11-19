@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint, stands in a landscape holding an open book. She wears a halo, indicating her sanctity, and her attire suggests a medieval noblewoman. Behind her, to the left, are rows of what appear to be barrels or large containers, possibly in a field or vineyard. To the right, a fortified structure with towers and crenellations is visible on a hill. Scattered in the foreground and midground are arrows, suggesting a narrative of martyrdom or conflict. The overall scene depicts a saint in a setting that combines elements of rural life and military architecture, possibly alluding to her life or martyrdom.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "tower",
+        "battlement",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f168/2344,1102,1184,1320/full/0/default.jpg"
+}

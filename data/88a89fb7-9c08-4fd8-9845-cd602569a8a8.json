@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts three figures standing beneath a large arch. On the left, a figure with long, wavy hair and a draped garment faces two bearded men. The central figure gestures with his right hand, while the figure on the right stands with his hands clasped. Behind them, a building with a prominent vertical element, possibly a tower or a doorway, is visible. The overall impression is of a narrative moment, possibly a discussion or a confrontation, set within an architectural context.",
+    "scene_interpretation": "The scene is too generic to definitively interpret a specific religious or biblical event without further context or identifying attributes of the figures. It could represent a moment from the Gospels, a scene from the Old Testament, or a hagiographic narrative.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0075/4983,706,422,653/full/0/default.jpg"
+}

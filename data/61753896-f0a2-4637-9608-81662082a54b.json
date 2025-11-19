@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A female saint, identified as Saint Catherine of Alexandria by her iconography, stands in a grassy outdoor setting. She is depicted with long blonde hair, wearing a white tunic over a golden skirt and a crimson cloak. In her left hand, she holds an open book, and in her right, a scepter or torch. A large sword rests point-down in the ground before her, its hilt near her hand. At her feet lies a defeated figure, possibly a pagan emperor or philosopher, wearing a green crown and lying on a blue cloth. Behind her, a large wooden wheel, a symbol of her martyrdom, stands prominently. In the background, a fortified castle or city with towers and walls is visible, suggesting a historical or allegorical setting. The scene likely represents the triumph of faith and reason over paganism and persecution.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "arch",
+        "roof",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008564m/f221/475,334,1201,1143/full/0/default.jpg"
+}

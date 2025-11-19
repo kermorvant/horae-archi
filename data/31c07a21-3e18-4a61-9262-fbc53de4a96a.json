@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, with a halo and bound by ropes, stands before a column. Two figures, presumably tormentors, are shown on either side, raising whips or scourges to strike him. The background is a grid pattern, suggesting a confined space or a symbolic representation of suffering. The figures are rendered in a stylized, medieval manner, with emphasis on their actions and the narrative.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_Jacquemart_Andre/751085428_MS0001(254)/DEPOT/751085428_MS0001(254)_0089/3002,747,1223,1168/full/0/default.jpg"
+}

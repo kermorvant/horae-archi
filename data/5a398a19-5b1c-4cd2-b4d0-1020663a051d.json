@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an interior space, possibly a hall or chamber. On the left, a man identified as Christ, wearing a purple robe with gold embellishments, stands with his hands bound. He is surrounded by other men, some in armor and one with a green cap and beard. On the right, a regal figure, likely a king or high-ranking official, sits on a throne draped with red and gold fabric. This figure, wearing a crown and a blue and gold robe, is shown pouring water from a ewer into a basin held by another attendant. The presence of bound hands and the act of washing suggest a scene of judgment or trial, likely related to the Passion of Christ.",
+    "scene_interpretation": "Passion of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0079/DEPOT/M601415401_MS0079_0025/1836,418,1522,2474/full/0/default.jpg"
+}

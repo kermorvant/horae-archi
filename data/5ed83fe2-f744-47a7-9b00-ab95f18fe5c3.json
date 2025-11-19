@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body pale and marked by wounds. To his left stands the Virgin Mary, draped in a blue mantle, her hands crossed over her chest in grief. To his right is Saint John the Evangelist, his hands clasped in prayer and his gaze directed upwards towards Christ. The figures are set against a bright blue sky with hints of green landscape and rocky formations. The scene is framed by an arched border decorated with floral motifs and a stylized vine.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8452807q/f181/660,180,1464,1821/full/0/default.jpg"
+}

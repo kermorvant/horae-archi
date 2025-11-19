@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, with a halo, ascending into heaven. He is surrounded by a semicircular architectural element, possibly representing a celestial arch or a stylized cloud formation. Below Christ, a group of figures are shown looking upwards with hands clasped in prayer or awe. Two figures flank Christ on either side, also looking towards him. The setting appears to be a landscape with undulating ground. This imagery likely represents the Ascension of Christ, a pivotal event in Christian theology.",
+    "scene_interpretation": "Ascension of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0042/1091,575,564,1028/full/0/default.jpg"
+}

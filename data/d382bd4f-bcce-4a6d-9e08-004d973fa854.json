@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A winged figure, likely an angel, dressed in a white robe, holds open a book and points to it with a quill. Facing the angel is a bearded man, seated and wearing a green hat and a red robe with a blue mantle. He is holding a quill and appears to be writing on a scroll. The background is a patterned gold and grey fabric, suggesting an interior setting. The scene likely depicts a moment of divine inspiration or instruction, possibly related to the writing of scripture or prophecy.",
+    "scene_interpretation": "Prophet Dictating to Scribe",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/68534352/68569874.tif/1216,709,1122,1067/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A person wearing a blue and gold patterned mantle over a white tunic and a blue cap is depicted inside a large wooden barrel, appearing to be working with their hands. To the right, several wooden barrels are stacked, one with a lid. The scene takes place within a dimly lit interior space with wooden walls and a tiled floor. The overall impression is of a domestic or workshop setting related to storage or production.",
+    "scene_interpretation": "This scene likely depicts a secular activity, possibly related to the production or storage of goods like wine or ale, or perhaps a domestic chore. Without further context from the manuscript, a specific religious or biblical interpretation is not possible.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0005/DEPOT/210545209_005_0013/3848,3289,1332,848/full/0/default.jpg"
+}

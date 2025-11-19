@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts the Virgin Mary tenderly holding the Christ Child. Mary, wearing a pink garment and a blue mantle, gazes down at the sleeping child. The Christ Child, swaddled in white cloth, rests in her arms. Both figures are illuminated by a golden halo, suggesting their divine nature. The background is a textured gold, indicative of a heavenly or spiritual setting.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0012_T2/DEPOT/M441095203_MS0012_T2_0008/913,600,2216,3527/full/0/default.jpg"
+}

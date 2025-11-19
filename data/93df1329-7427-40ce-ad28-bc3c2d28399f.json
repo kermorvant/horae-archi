@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. The Virgin Mary, dressed in a blue robe and veil, stands holding an open book, her hands resting on its pages. Before her, the Angel Gabriel kneels, wearing a green cloak over a pink garment, and looking up towards Mary. A scroll with text emerges from behind Gabriel and curves towards Mary. Behind Mary, a pink canopy is visible, and a patterned blue and gold background suggests an interior space. Above, in a blue archway, a bearded figure, possibly God the Father, looks down. The floor is tiled in a black and white checkerboard pattern.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/ff688vm4417%2FW166_000014_1200/3888,1059,2757,4503/full/0/default.jpg"
+}

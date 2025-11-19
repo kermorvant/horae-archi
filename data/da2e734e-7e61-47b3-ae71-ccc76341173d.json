@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary. Mary, depicted kneeling with hands clasped in prayer and wearing a crown, is being crowned by an angel. To her left and right sit two figures, likely God the Father and Christ, both holding globes and wearing halos. The background is a starry blue sky, suggesting a celestial setting, with architectural elements that appear to be part of a heavenly structure or throne. The figures are richly robed in red and green, with gold accents, and the entire scene is framed by an ornate border.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Angel",
+        "God the Father",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0063/DEPOT/M601415401_MS0063_0080/1775,610,1626,2396/full/0/default.jpg"
+}

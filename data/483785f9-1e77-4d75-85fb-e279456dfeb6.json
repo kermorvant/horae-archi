@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a king, identifiable by his crown, engaged in conversation with a bearded man wearing a cap and tunic. They are positioned within an architectural setting that includes columns and arches, suggesting an interior space. To the left and right, two other figures, possibly monks or religious figures, are shown in profile, one with hands clasped in prayer. In the background, simplified representations of buildings are visible. The overall composition is framed by decorative borders with floral motifs.",
+    "scene_interpretation": "This scene likely represents a historical or biblical event involving royalty and religious figures. Without specific iconography or text, a precise interpretation is difficult, but it could depict a king receiving counsel, a royal audience, or a scene from the life of a saint or biblical character interacting with royalty.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0021/1693,3728,1241,621/full/0/default.jpg"
+}

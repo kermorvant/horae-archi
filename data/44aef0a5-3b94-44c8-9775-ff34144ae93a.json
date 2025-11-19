@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a man in a long robe and cap standing in a landscape with a tree to his left. In the background, there are stylized buildings and a creature that appears to be a demon or a wild animal with horns and a tail, lunging towards a smaller, hunched figure. The overall composition suggests a narrative of temptation or struggle, possibly illustrating a biblical or hagiographic event.",
+    "scene_interpretation": "The scene likely represents a temptation or a struggle against evil, possibly depicting a saint being tempted by demons or a scene from the life of a sinner. The presence of the demonic figure and the distressed posture of the smaller figure in the background suggest a conflict between good and evil.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0017/2024,3828,865,608/full/0/default.jpg"
+}

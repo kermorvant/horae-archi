@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a gathering of numerous figures, predominantly human, with Christ at the center, holding a globe and raising his right hand in a gesture of blessing or teaching. He is surrounded by a diverse crowd including the Virgin Mary, identifiable by her blue robe and clasped hands, a knight in armor with a red surcoat bearing a golden cross, various clergy in liturgical vestments (including bishops with mitres and a cardinal's hat), and laypeople. Several figures are kneeling, particularly monks in their habits. In the background, banners and processional crosses are visible, suggesting a religious procession or a significant devotional event. The figures are set against a golden background, with a blue, cloud-like border at the top and bottom, indicating a spiritual or heavenly setting.",
+    "scene_interpretation": "Christ in Majesty",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ab32c968-f167-4861-a17d-4d66839d725b/784,1259,2108,2546/full/0/default.jpg"
+}

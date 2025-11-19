@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man, identified as Saint Bartholomew, standing within an arched architectural frame. He wears a red tunic and a blue mantle, both trimmed with gold. In his left hand, he holds a book with musical notation, and in his right, a long staff. Behind him, a vaulted ceiling is visible, and to his left, a window looks out onto a landscape with trees and a blue vase on a ledge. The overall setting suggests an interior space with an opening to the exterior.",
+    "scene_interpretation": "Saint Bartholomew",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Bartholomew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0105/utp-0105_033v.jp2/2927,596,2204,3379/full/0/default.jpg"
+}

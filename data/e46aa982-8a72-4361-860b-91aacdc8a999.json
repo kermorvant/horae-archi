@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Jesus laid out on a stone sarcophagus. Christ's body, showing wounds from crucifixion, is supported by the Virgin Mary, who is dressed in blue and looks down with sorrow. To her right, another woman, possibly Mary Magdalene, also gazes at Christ. On the right side of the sarcophagus, a man in a green robe and a distinctive hat, possibly Joseph of Arimathea, is tending to Christ's feet. The background is a rocky landscape with sparse trees, and the entire scene is framed by a decorative border with gold leaf and floral motifs.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/td467pn7624%2FW173_000133_980/688,787,4018,4924/full/0/default.jpg"
+}

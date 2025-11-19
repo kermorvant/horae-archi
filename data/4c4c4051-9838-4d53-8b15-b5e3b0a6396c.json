@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ is shown on the cross, with a white loincloth. To his left, the Virgin Mary, dressed in blue, is comforted by another figure. Below them, a skull rests on the ground. To Christ's right, a figure on a ladder, wearing a red tunic and blue leggings, appears to be involved in the process of the crucifixion, possibly placing the inscription 'INRI' above Christ's head. Another figure kneels on the right side of the composition, looking towards Christ. The background is a stylized landscape with green hills and a blue sky with scattered stars and birds.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537214/46195730.tif/1104,685,1853,2972/full/0/default.jpg"
+}

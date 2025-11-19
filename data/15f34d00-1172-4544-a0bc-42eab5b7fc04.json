@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in a grassy, hilly landscape under a blue sky. On the left, an older man with grey hair, wearing a striped tunic and red hose, plays bagpipes. In the center, a child in a reddish-brown tunic kneels with hands outstretched. To the right, a person in a dark hooded robe kneels with hands clasped in prayer, looking upwards. Rays of golden light descend from the sky, illuminating the scene. A small brown dog lies in the foreground. In the background, a rocky outcrop with a hint of a structure is visible on the left, and distant buildings are suggested on the right. The scene is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "Adoration of the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_HP_0768/DEPOT/352386106_HP_0768_0055/3814,465,1413,2224/full/0/default.jpg"
+}

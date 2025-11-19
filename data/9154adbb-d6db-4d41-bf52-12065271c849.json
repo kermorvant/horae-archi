@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures. The upper figure, likely a prophet or saint, is shown from the waist up, wearing a crown and a richly decorated garment. They hold a book in their left hand and point with their right index finger. Below this figure, a second figure, possibly a king or a wise man, is depicted from the chest up, also wearing a crown and a patterned garment. A star with eight points shines above their head. The figures are framed by decorative architectural elements, including what appears to be a capital with acanthus leaves and a patterned frieze.",
+    "scene_interpretation": "The presence of a star above the head of the lower figure, combined with the depiction of figures in regal or prophetic attire, strongly suggests a scene related to the Adoration of the Magi or the Annunciation to the Shepherds, where a star guides the wise men or shepherds to the nativity. The book held by the upper figure could represent scripture or prophecy.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "capital",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00032/2218,1158,272,2214/full/0/default.jpg"
+}

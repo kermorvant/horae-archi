@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael the Archangel in golden armor, with large red wings, poised to strike a dragon with a sword. He holds a blue shield in his left hand. The setting is an outdoor landscape with rolling hills and distant mountains under a blue sky. The dragon, with its mouth open, appears to be the target of Saint Michael's attack. The overall scene represents the triumph of good over evil.",
+    "scene_interpretation": "Saint Michael Slaying the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013837f/f229/309,1435,902,1012/full/0/default.jpg"
+}

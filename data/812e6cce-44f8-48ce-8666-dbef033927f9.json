@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "In a pastoral landscape, a young man in a red hat and blue tunic wrestles a lion, holding its jaws open. To the right, a thatched-roof structure shelters beehives. In the background, a body of water reflects a castle with towers and spires. Further in the distance, a figure with a staff appears to be tending to sheep. The scene is framed by an ornate, gilded border.",
+    "scene_interpretation": "Samson",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Samson"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3770/Vat.lat.3770_0022_fa_0008v.jp2/764,327,1411,2152/full/0/default.jpg"
+}

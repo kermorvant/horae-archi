@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in blue and white, standing on the left, her hand resting on her pregnant belly. She is facing Saint Elizabeth, who is dressed in blue and red and is reaching out to touch Mary's abdomen. Two angels, one on each side, hold up a red tapestry decorated with blue floral motifs. Behind them, a rocky landscape with a barren tree is visible under a blue sky. The entire scene is framed by an ornate border with gold leaf and blue and red decorative elements.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100252641/f112/351,69,1251,1601/full/0/default.jpg"
+}

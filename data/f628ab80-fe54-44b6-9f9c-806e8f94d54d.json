@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ Child in the Temple. The Virgin Mary, holding the swaddled Christ Child, stands to the left, accompanied by a female figure, possibly Saint Anne. Facing them is an elderly man, likely Simeon, wearing a headdress and holding a white cloth, presumably to receive the child. The figures are positioned within an architectural setting characterized by Gothic arches and ribbed vaults, suggesting a sacred or ceremonial space. Decorative elements, possibly floral motifs, frame the scene on the sides.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "ribbed_vault",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10035924b/f24/2494,534,888,1536/full/0/default.jpg"
+}

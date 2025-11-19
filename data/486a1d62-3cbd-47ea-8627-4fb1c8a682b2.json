@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Luke by the presence of his symbolic ox, is depicted writing in a large book on a lectern. He is seated within an architectural setting that includes shelves filled with books and a brick wall. The man wears a red tunic and a blue mantle, and has a halo indicating his saintly status. The ox, a common attribute of Saint Luke, is shown looking towards the viewer from the left side of the scene. The overall impression is one of scholarly devotion and the act of divine inspiration.",
+    "scene_interpretation": "Saint Luke Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3781/Vat.lat.3781_0024.jp2/670,303,711,1120/full/0/default.jpg"
+}

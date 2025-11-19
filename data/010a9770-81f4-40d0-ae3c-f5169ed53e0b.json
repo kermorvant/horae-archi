@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The upper portion of the image depicts an astrological calendar with zodiac signs (Aquarius and Pisces) and celestial bodies, indicating the month of February. Below this, a winter landscape unfolds. In the foreground, a rustic shelter with a thatched roof houses several figures, one of whom is a woman in a blue dress. Nearby, sheep are sheltered in a woven enclosure, and crows peck at the snow. To the right, a tall, cylindrical brick structure, possibly a kiln or oven, stands beside a woman wrapped in a white cloak. In the middle ground, a man loads a donkey with bundles, while another man, dressed in blue, is engaged in an activity in a snowy wooded area. In the background, a village with a church steeple is visible amidst snow-covered hills. The scene represents the month of February, characterized by winter activities and the signs of the zodiac.",
+    "scene_interpretation": "February",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "house",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "spire",
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0007/1012,445,2180,3104/full/0/default.jpg"
+}

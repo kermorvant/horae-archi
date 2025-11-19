@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael the Archangel, clad in golden armor and a blue tunic adorned with golden fleur-de-lis, engaged in combat with a dark, demonic creature. Saint Michael, with large white wings and a halo, wields a sword raised high in his right hand, while his left hand holds a spear or lance that he is thrusting into the mouth of the demon. The demon is depicted as a grotesque, bat-winged figure with sharp teeth and claws. The background features rolling green hills under a blue sky, suggesting an outdoor setting. The entire scene is framed by a decorative golden border, hinting at its placement within a manuscript.",
+    "scene_interpretation": "Saint Michael and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550098895/f173/200,1910,577,523/full/0/default.jpg"
+}

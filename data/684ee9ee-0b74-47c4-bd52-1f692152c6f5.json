@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation to the Shepherds. In the upper left, an angel descends from a blue, cloud-filled sky, radiating golden light and holding a scroll that reads \"GLORIA IN EXCELSIS DEO\". Below, a group of shepherds are shown in a pastoral landscape. Some are seated, tending to their sheep, while others are reacting with awe and surprise to the angelic apparition. One shepherd is shown prostrate on the ground. In the background, a simple building with a pitched roof and arched windows is visible, suggesting a rural setting.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0032/3535,609,2470,3586/full/0/default.jpg"
+}

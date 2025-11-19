@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts an interior space with architectural elements suggesting a religious or scholarly setting. On the left, a figure stands behind a railing, possibly a choir screen, with what appears to be an altar or lectern in front of them. In the center, two figures in clerical robes are reading from a book. To the right, a seated figure, also with a book, is positioned within an arched architectural structure. The overall impression is one of devotion and study, likely within a church or monastic context.",
+    "scene_interpretation": "Devotional Reading/Study",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "capital",
+        "wall",
+        "roof",
+        "microarchitecture",
+        "ornamental_tracery",
+        "arcature"
+    ],
+    "persons": [
+        "Cleric",
+        "Cleric",
+        "Scholar"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_Jacquemart_Andre/751085428_MS0001(254)/DEPOT/751085428_MS0001(254)_0145/2989,509,1447,1379/full/0/default.jpg"
+}

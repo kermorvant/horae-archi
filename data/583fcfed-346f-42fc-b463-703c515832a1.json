@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of people on a grassy hill, looking towards a chariot drawn by two figures in armor, one holding a sword aloft. In the background, a city with various buildings and towers is visible. On the left, a bearded man with raised hands gestures towards the chariot, accompanied by another figure. On the right, a man points towards the chariot, with two other figures beside him, one wearing a hooded garment. The overall impression is one of awe or wonder at a celestial or powerful procession.",
+    "scene_interpretation": "Elijah's Ascension",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Elijah"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0086/3860,3221,1366,712/full/0/default.jpg"
+}

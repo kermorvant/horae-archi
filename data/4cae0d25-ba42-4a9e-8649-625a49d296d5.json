@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, a bearded man with a halo, likely representing God the Father or Christ, is seated and gesturing with his right hand. Facing him, on the right, is a woman with a halo, presumably the Virgin Mary, kneeling and clasping her hands. Behind her, an angel with wings, identified as the Angel Gabriel, kneels in a window opening, looking towards Mary. The setting appears to be an interior space with architectural elements suggesting a domestic or possibly a chapel setting, indicated by a patterned screen on the left and an arched doorway with gothic tracery. The background outside the window shows a blue sky with clouds.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tracery_window",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sw741tz6027%2FW177_000208_1200/3193,2555,1515,2339/full/0/default.jpg"
+}

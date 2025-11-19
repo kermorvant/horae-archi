@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a young woman with a halo, dressed in a long robe, standing and holding hands with a bearded man wearing a crown and ornate clothing. To the right and slightly below, another bearded man kneels, looking towards the central figures. The figures are positioned within an architectural setting characterized by an arched structure overhead, supported by a column. The background suggests an interior space with textured walls and possibly steps or a platform.",
+    "scene_interpretation": "The iconography suggests the Marriage of the Virgin, a common theme in Christian art depicting the betrothal of Mary to Joseph. The halo on the woman signifies her sanctity, and the presence of the kneeling figure could represent a witness or a priest officiating the ceremony.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "stairs"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0021/5079,2992,532,1002/full/0/default.jpg"
+}

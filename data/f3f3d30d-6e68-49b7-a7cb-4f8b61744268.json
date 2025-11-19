@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, dressed in a blue robe adorned with gold, presents the Christ Child to a bishop who is seated. The bishop, wearing a mitre and ceremonial robes, is reaching out to receive the child. Behind the Virgin Mary stands a bearded man, possibly Joseph, holding a candle. To the left, an angel with white wings and a golden halo is depicted above a blue, wavy sea-like element, holding a scroll. Another angel, also with a halo and wings, is positioned lower left, also holding a scroll. The architectural setting is an interior with a vaulted ceiling decorated with blue and gold patterns, supported by columns. The scene is framed by an arch.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Bishop",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8571085n/f220/771,162,2327,2753/full/0/default.jpg"
+}

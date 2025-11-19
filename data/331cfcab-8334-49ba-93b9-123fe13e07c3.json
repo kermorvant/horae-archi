@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, cloaked in blue, embracing Saint Elizabeth, who is dressed in green. Above them, an angel with blue wings and a golden halo hovers, observing the embrace. Behind the figures is a stylized representation of a brick wall, suggesting an architectural setting. The figures are rendered with simple forms and vibrant colors, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_115%2Flewis_e_115_jp2.zip%2Flewis_e_115_jp2%2Flewis_e_115_0093.jp2/3398,2111,2305,2444/full/0/default.jpg"
+}

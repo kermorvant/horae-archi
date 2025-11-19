@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist, identifiable by his halo, seated outdoors on a rocky outcrop, writing on a scroll. He is dressed in a dark blue robe and a red cloak. To his left, a large eagle, his traditional symbol, stands and looks towards him. The landscape behind them features rolling green hills, trees, and in the distance, several fortified buildings or castles. The entire scene is framed by an ornate, arched architectural element with decorative gold tracery and red and blue painted sections.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0135/DEPOT/315556101_MS0135_0011/3542,441,2555,3251/full/0/default.jpg"
+}

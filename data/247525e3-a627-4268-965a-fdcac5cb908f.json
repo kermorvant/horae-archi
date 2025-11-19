@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A man, dressed in a blue tunic, pink hose, and a brown cap, stands in a grassy field, holding a club. He appears to be confronting a wild boar that is partially obscured by trees. In the background, a distant castle or fortified structure is visible on a hill. The scene depicts a moment of potential conflict or interaction between a human and an animal in a rural landscape.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0005/DEPOT/210545209_005_0015/3833,3281,1347,841/full/0/default.jpg"
+}

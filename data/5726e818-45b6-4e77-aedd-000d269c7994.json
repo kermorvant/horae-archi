@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures, including the Virgin Mary in the foreground with hands clasped in prayer, and several male figures behind her, all with halos. The Virgin Mary is dressed in a blue mantle over an orange tunic. The male figures are clad in green garments and red drapery. Behind them, a window reveals a blue landscape with a castle-like structure. From the window, a white dove descends, emitting golden rays and fiery tongues that extend towards the figures. The background is a grey wall with decorative motifs. This scene represents the Pentecost, where the Holy Spirit descended upon the Apostles and the Virgin Mary, empowering them with divine gifts.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10840813/334,349,1107,1759/full/0/default.jpg"
+}

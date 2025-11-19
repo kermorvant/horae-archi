@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A male figure, depicted frontally with a golden halo, stands holding a large, blue-covered book in his left arm and a golden object, possibly a chalice or reliquary, in his right hand. He wears a red robe adorned with vertical gold stripes and a white collar. The background is a light blue sky with a green landscape below. The figure's attire and the halo suggest he is a saint or a religious figure.",
+    "scene_interpretation": "Saint holding a book and a chalice",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0075/3645,2532,429,609/full/0/default.jpg"
+}

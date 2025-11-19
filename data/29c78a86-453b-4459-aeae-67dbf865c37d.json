@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The upper register depicts Adam and Eve in the Garden of Eden, with Eve taking fruit from the serpent-entwined tree and Adam reaching for it, while an angel with a sword expels them from the garden. The lower register illustrates the Annunciation, with the Angel Gabriel presenting a scroll to the Virgin Mary, who is shown in prayer. A plant in a vase stands between them, and a dove, symbolizing the Holy Spirit, hovers above Mary. Both scenes are set against a gold background, suggesting a divine or sacred context.",
+    "scene_interpretation": "Fall of Man and Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve",
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Pal.lat.537/Pal.lat.537_0075_fa_0037r.jp2/410,323,857,1325/full/0/default.jpg"
+}

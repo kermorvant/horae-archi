@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the lifeless body of Christ after his crucifixion. Mary, dressed in a vibrant blue mantle and veil, is seated, her expression one of profound sorrow. Christ's body, rendered in pale tones, lies across her lap, his head lolling and his limbs limp. Behind them stands a large wooden cross, a stark symbol of his sacrifice, with the inscription 'I.N.R.I.' visible at the top. The setting is an outdoor landscape, with rolling green hills and scattered trees under a pale blue sky. The overall impression is one of grief and solemnity, emphasizing the human suffering and maternal anguish associated with the Passion.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN321296575/files/images/00000064.tif/1287,936,627,776/full/0/default.jpg"
+}

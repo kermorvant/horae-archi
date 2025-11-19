@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, his body contorted in suffering. Above him is a plaque with the inscription 'INRI'. To the left and right of the cross stand two figures, likely the Virgin Mary and Saint John the Evangelist, their hands raised in gestures of grief or lamentation. The figures are framed by an architectural structure that resembles a Gothic facade with pointed arches, spires, and decorative elements. The background is a textured, dark color, suggesting a somber atmosphere. The base of the scene features a decorative border with circular motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "spire",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066046t/f22/2749,611,1180,2012/full/0/default.jpg"
+}

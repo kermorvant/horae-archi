@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her halo, standing on a set of stairs leading to a building entrance. She is dressed in a blue mantle over a white garment and holds a small object in her hand. Facing her, and slightly lower on the stairs, is Saint Elizabeth, dressed in a purple gown and a white veil, gesturing towards Mary. Behind Mary, within the doorway of the building, a nun or servant is visible, looking out and holding a rope, possibly indicating she is ringing a bell or operating a mechanism. The architecture features a gabled roof, a pointed archway with decorative tracery, and columns. The setting appears to be an exterior with some architectural elements suggesting a dwelling or religious building.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "roof",
+        "gable",
+        "tracery_window",
+        "stairs",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892141/1449,167,436,1277/full/0/default.jpg"
+}

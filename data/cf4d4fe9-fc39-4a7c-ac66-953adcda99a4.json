@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a stable. The Virgin Mary, in a blue robe and white veil, kneels with her hands clasped in prayer before the Christ Child, who lies in a manger. Behind them, Saint Joseph, in a yellow robe and red cloak, also looks towards the child. A cow is visible in the background. The architecture suggests a humble dwelling with arched openings and a rough stone or brick construction. Light rays emanate from above, symbolizing divine intervention. Two figures are visible through an arched window on the left, observing the scene.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525011578/f156/260,148,418,624/full/0/default.jpg"
+}

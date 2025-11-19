@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bearded man, seated on a throne-like structure adorned with intricate patterns, gestures with his right hand towards a kneeling woman. The woman, wearing a crown, is also depicted with clasped hands. Behind her, three figures with halos and what appear to be wings stand, observing the scene. The architectural setting features Gothic tracery on the left, suggesting an interior space, while the background depicts a tiled roof and a sky, implying a view from within or a partially enclosed structure. The scene likely represents a coronation or investiture, possibly of a queen or a saint, with divine approval indicated by the winged figures.",
+    "scene_interpretation": "Coronation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tracery_window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Queen",
+        "Saints"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037191j/f53/2114,236,1024,1563/full/0/default.jpg"
+}

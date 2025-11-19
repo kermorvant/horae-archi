@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a regal figure, likely a king, seated on a throne and holding a golden orb. He is gesturing with a green frond towards a kneeling figure, presumably the Virgin Mary, who is crowned and praying with clasped hands. Above the Virgin Mary, a haloed child, likely the Christ Child, is depicted, also with a halo. The figures are set against a backdrop of blue sky with scattered golden motifs, framed by architectural elements that suggest a canopy or tent-like structure with red, patterned drapery. The overall impression is one of a divine or royal audience.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3340/DEPOT/B441096101_MS3340_0084/1463,499,1455,2275/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed man, likely Saint Mark, is seated outdoors under a tree, dressed in a blue tunic and a red and yellow cloak. He is holding an open book and a quill, appearing to write or study. Beside him, a griffin stands attentively. The background depicts a serene landscape with a body of water, a small house on an island, distant mountains, and a city skyline. A golden beam descends from the sky, suggesting divine inspiration. The scene is framed by an ornate golden architectural element on the left.",
+    "scene_interpretation": "Saint Mark Writing",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0037/DEPOT/751085109_LDUT_0037_0023/1182,700,1488,2350/full/0/default.jpg"
+}

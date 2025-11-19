@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A procession of figures carries a rectangular object, possibly a coffin or reliquary, under a decorative arch. The figures are depicted in profile and three-quarter view, with some wearing armor and others in draped garments. The scene is framed by an ornamental border, suggesting it is part of a larger narrative or devotional work. The overall impression is one of solemnity and movement, possibly depicting a funeral or the transport of sacred relics.",
+    "scene_interpretation": "Funeral Procession",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0052/745,1629,553,982/full/0/default.jpg"
+}

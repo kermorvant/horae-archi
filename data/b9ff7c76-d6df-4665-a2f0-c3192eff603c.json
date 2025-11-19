@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "An elderly man with a long beard, wearing a blue robe and a green and gold headdress, sits on a stool in an interior space. He is holding a book and appears to be reading or writing. In front of him is a wooden desk with several books and a scroll. A fire burns in a hearth to his left, and a bundle of firewood lies nearby. The room is framed by architectural elements, including large columns and arches, with a view of a landscape through an opening. The scene likely depicts a scholar or a religious figure engaged in study or contemplation, possibly a representation of Saint Jerome in his study, given the presence of books and the solitary, studious atmosphere.",
+    "scene_interpretation": "Saint Jerome in his study",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0221.jp2/2588,1183,2901,4098/full/0/default.jpg"
+}

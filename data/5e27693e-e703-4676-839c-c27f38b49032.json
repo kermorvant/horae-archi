@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary kneeling on a green grassy surface, with a book open before her. She is dressed in a blue robe with gold trim and a white veil. Behind her, an angel with red and white wings kneels with hands clasped in prayer. The background is a richly decorated tapestry or wall hanging, composed of a grid of gold squares interspersed with red and blue patterns. The overall impression is one of divine revelation or contemplation.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55005889s/f117/1229,127,550,809/full/0/default.jpg"
+}

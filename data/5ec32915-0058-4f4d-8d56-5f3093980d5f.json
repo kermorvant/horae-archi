@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, possibly a prophet or saint, is depicted in profile, looking upwards with clasped hands in prayer. He wears a simple robe and a distinctive horned headdress. He is positioned within an architectural setting that includes a column on the left and an arched structure above, suggesting a sacred or contemplative space. The background is filled with a stippled pattern, common in manuscript illuminations to represent a divine or ethereal atmosphere.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0042/2956,3720,363,627/full/0/default.jpg"
+}

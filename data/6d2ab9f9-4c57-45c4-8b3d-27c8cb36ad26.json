@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "An angel, depicted with large wings and a golden halo, stands holding a sword above its head and a balance scale. The scale's left pan contains a globe with blue and yellow markings, while the right pan holds a small, kneeling human figure. The angel wears a white robe and a crown. The background features a rich, patterned tapestry and a blue sky with wispy clouds. The floor is tiled with a geometric pattern. This scene likely represents the Last Judgment, where an angel weighs souls, with the globe symbolizing the world and the kneeling figure representing a soul being judged.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/3123927/310,305,731,1093/full/0/default.jpg"
+}

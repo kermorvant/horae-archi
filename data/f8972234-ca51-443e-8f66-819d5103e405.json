@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "An elderly man with a long white beard and a red and white patterned hat places his hand on the head of a kneeling man in a blue robe. The kneeling man has his hands clasped in prayer. Behind him, another man in a red robe also has his hands clasped, and a third man in a pinkish robe stands to the side, looking upwards. The scene is set against a vibrant blue sky filled with golden clouds, and the figures stand on a green, grassy ground with small white floral motifs. The elderly man wears a long blue robe with gold trim and a golden cloak. The overall impression is one of blessing or investiture.",
+    "scene_interpretation": "Blessing of the Sons",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Elderly man",
+        "Kneeling man",
+        "Man in red robe",
+        "Man in pinkish robe"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f238/431,888,851,1480/full/0/default.jpg"
+}

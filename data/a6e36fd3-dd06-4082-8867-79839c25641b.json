@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts two haloed women in a verdant, rolling landscape dotted with trees and winding paths. The woman on the left, dressed in a vibrant blue robe, stands with her hands clasped. The woman on the right, wearing a blue veil, an orange tunic, and a green overskirt, gestures towards the first woman with her right hand, while her left hand appears to be holding a book or scroll. In the background, a city with numerous buildings, spires, and towers is visible, nestled amongst rolling hills. The overall impression is one of a pastoral setting leading to an urban center, with a focus on the interaction between the two figures.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_002/DEPOT/762595409_A_10_002_0053/3366,803,1252,1717/full/0/default.jpg"
+}

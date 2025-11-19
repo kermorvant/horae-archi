@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a procession or journey outdoors, with several figures on horseback and on foot. A central figure, possibly a saint or noble, is mounted on a white horse, holding a sword. To their left, another figure on horseback is partially visible. In front of the central rider, two figures on foot are walking, one with an elaborate headdress. To the right of the central rider, another figure on foot, dressed in white, appears to be interacting with the rider. In the background, a stylized castle or fortified building is visible, with trees and foliage suggesting a natural setting. Rays of light emanate from the upper right, possibly indicating divine intervention or a celestial event.",
+    "scene_interpretation": "The scene is likely a depiction of a biblical or hagiographic event involving travel or a significant encounter. The presence of a sword and the rays of light could suggest a moment of divine guidance, protection, or a miraculous event. Without further iconographic clues, a specific interpretation is difficult, but it evokes themes of pilgrimage, divine favor, or a saintly journey.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f131/2444,752,910,1051/full/0/default.jpg"
+}

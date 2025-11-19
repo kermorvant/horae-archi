@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two haloed female figures stand facing each other. The figure on the left, dressed in blue and gold, holds an open book and a staff. The figure on the right, in purple and pink, holds a green pouch. They are positioned against a backdrop of red and patterned fabric, with green drapery on either side. The ground is covered in a green diamond pattern. The scene is framed by decorative borders. This scene likely depicts the Visitation, where Mary, pregnant with Christ, visits her cousin Elizabeth. The book and staff could symbolize Elizabeth's wisdom or role as a prophetess, while the green pouch might represent a gift or sustenance.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_5%2F1945_65_5_jp2.zip%2F1945_65_5_jp2%2F1945_65_5_0423.jp2/3564,3157,2022,2376/full/0/default.jpg"
+}

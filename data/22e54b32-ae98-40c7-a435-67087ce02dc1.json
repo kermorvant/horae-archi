@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, scourged and bleeding, standing behind a pink, sarcophagus-like structure. His hands are bound, and a wound is visible on his side. Before the structure, three figures are shown in prayer. The foremost figure, dressed in a green and gold chasuble, is a cleric with tonsured hair, his hands clasped in supplication. Behind him are two other figures, one wearing a red hat. In the background, a ladder leans against a wall, and a man with a beard is seen pouring liquid from a jug into a dish. A lantern hangs from the ceiling.",
+    "scene_interpretation": "The Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "ladder",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f258/749,678,997,938/full/0/default.jpg"
+}

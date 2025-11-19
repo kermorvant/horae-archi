@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, accompanied by the Virgin Mary and other figures, interacting with a man who is kneeling and appears to be ill or infirm. Christ is shown reaching out to the kneeling figure, who is clad in a simple white garment. Behind them, a group of men in varied attire, including one in a distinctive blue and red robe with a blue hat, observe the interaction. The background features a townscape with buildings, including a church with a blue tiled roof and a dome, and a fortified wall. The overall setting suggests an outdoor urban environment where a miraculous healing is taking place.",
+    "scene_interpretation": "Healing of the Paralytic",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "roof",
+        "dome",
+        "wall",
+        "fortification_wall",
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zs503zt2162%2FW240_000072_1200/4674,1091,2790,4757/full/0/default.jpg"
+}

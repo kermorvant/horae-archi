@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, in a blue gown, kneels with her hands clasped in prayer before the Christ Child, who lies on a patterned blue cloth on the ground. To the left, an elderly man with a white beard, dressed in a brown and orange robe, holds a lit candle and also appears to be in prayer. Behind them, a cow and a donkey are visible. Above, an angel with folded hands hovers, and in the background, a walled city with towers and spires is depicted. The architectural elements include a wooden stable structure with a visible roof and a dormer window, and in the distance, elements of civic architecture.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "roof",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7b0427d8-cb86-4281-9e65-644c2aca533e/434,534,1726,2447/full/0/default.jpg"
+}

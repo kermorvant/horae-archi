@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A man with a beard and a cap is depicted in profile, looking upwards and to the right. He is wearing a tunic with decorative buttons and a belt. His left arm is bent, and his index finger is raised, suggesting he is speaking or making a point. The background is filled with a dotted pattern, and the scene is framed by architectural elements that suggest an interior space. The figure's gesture and contemplative gaze might allude to a prophet or a wise figure engaged in contemplation or discourse.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0097/1617,4054,501,701/full/0/default.jpg"
+}

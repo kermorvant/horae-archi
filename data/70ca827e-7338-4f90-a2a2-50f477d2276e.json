@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a fantastical hunt within a lush, green landscape. A fearsome, lion-like creature with a mane of leaves and a wide, toothy grin is pierced by an arrow. Facing it, a figure in ornate patterned clothing draws a bow, aiming another arrow. Above and behind this hunter, a woman in a patterned robe holds a baby, while another woman stands beside her, pointing. The background features stylized foliage and a starry, celestial motif. The overall composition is framed by an architectural arch.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f127/2510,600,861,1228/full/0/default.jpg"
+}

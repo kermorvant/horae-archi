@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a male figure with a halo, suggesting sainthood, standing in a landscape. He is dressed in a tunic and cloak, with long, wavy hair. His left hand is raised, pointing outwards, while his right hand holds a chalice with a serpent coiled around it. The background features stylized trees and rocky terrain. Above the figure, an architectural element resembling an arch with decorative tracery frames the scene. This iconography, particularly the chalice with a serpent, is a common attribute of Saint John the Evangelist, who is often depicted with this symbol representing the poisoned chalice he miraculously survived.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0068/5229,336,525,666/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The image depicts a standing male figure, likely a cleric or scholar, wearing a hooded robe and holding a book in his right arm and a scroll or bundle in his left. He is positioned in front of an architectural setting that includes arched structures and what appear to be towers or buildings in the background. The overall style is that of a woodcut or engraving, with bold outlines and minimal detail. The figure's halo suggests a saintly or revered status. The scene is likely a devotional image, possibly representing a saint or a figure associated with learning and scripture.",
+    "scene_interpretation": "Saint holding book",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0009/5851,1650,577,1003/full/0/default.jpg"
+}

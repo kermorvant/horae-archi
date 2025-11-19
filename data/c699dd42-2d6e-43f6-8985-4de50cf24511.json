@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with the Virgin Mary seated on a donkey, holding the Christ Child swaddled in red. Saint Joseph, with a white beard and wearing a blue hood and red robe, walks beside the donkey, holding a staff. They are set against a background of stylized trees and a blue sky, within a decorative border. This imagery represents the Flight into Egypt, a significant event in the early life of Jesus.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS1480/DEPOT/M601415401_MS1480_0064/1656,2591,968,865/full/0/default.jpg"
+}

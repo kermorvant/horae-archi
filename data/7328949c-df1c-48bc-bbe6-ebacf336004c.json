@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two haloed figures in a verdant outdoor setting under a blue sky. One figure, kneeling with hands clasped in prayer, wears a golden robe with red trim. The other figure, standing and gesturing with a raised index finger, is dressed in a blue tunic and a golden mantle. Behind the standing figure, two other haloed men are visible, one with a beard and wearing a reddish-brown robe, and another with a darker robe. The landscape features rolling green hills in the background.",
+    "scene_interpretation": "The scene likely represents a moment of divine intervention or instruction, possibly depicting a saint receiving a vision or a divine message. The gesture of the standing figure, pointing, suggests communication or direction. The kneeling figure's posture indicates supplication or reverence.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint",
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_012/DEPOT/890245409_n_012_0173/3607,610,623,685/full/0/default.jpg"
+}

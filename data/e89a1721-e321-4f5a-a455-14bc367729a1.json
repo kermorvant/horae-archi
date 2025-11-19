@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a single male figure, likely a saint or prophet, standing within a decorative architectural frame. He has a beard and wears a cap and a robe. His hands are clasped in front of him, suggesting prayer or contemplation. The architectural elements framing the figure are stylized, with pointed arches and decorative patterns, reminiscent of Gothic microarchitecture.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0015/3119,1730,301,1564/full/0/default.jpg"
+}

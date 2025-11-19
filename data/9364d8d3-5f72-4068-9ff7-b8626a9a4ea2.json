@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with rolling hills and a distant city skyline. Three shepherds are shown in the foreground, two of whom are looking upwards with hands clasped in prayer or awe. The third shepherd, standing to the right, holds a staff and appears to be observing the scene. A flock of sheep is scattered around them. Above, a winged figure, likely an angel, descends from a radiant blue and yellow sky, holding a scroll with the inscription \"Duer natus est\". This imagery suggests the Annunciation to the Shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bayeux/Bibliotheque_municipale/B140476201_MS0511/DEPOT/B140476201_MS0511_0041/1708,947,1379,1776/full/0/default.jpg"
+}

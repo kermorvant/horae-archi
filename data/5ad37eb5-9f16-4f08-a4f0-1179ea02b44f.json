@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A group of figures, including a man in a bishop's mitre and green robe holding a child, and several women in hooded garments, are gathered around a table covered with a white cloth. The scene is set within an architectural space, suggested by a golden frame and a green canopy above, from which rays of light emanate. The figures appear to be observing the child, who is naked and shows signs of stigmata on his hands and feet. The presence of the stigmata and the gathering around a child suggests a religious context, possibly related to the Passion of Christ or a depiction of the Infant Christ with signs of his future suffering.",
+    "scene_interpretation": "The Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_086%2Flewis_e_086_jp2.zip%2Flewis_e_086_jp2%2Flewis_e_086_0163.jp2/1718,801,2569,3362/full/0/default.jpg"
+}

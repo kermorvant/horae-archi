@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a religious service within an interior space, likely a chapel or church. A priest, adorned in a golden chasuble, stands to the left, facing an altar and reading from a book. Behind the altar, a choir of individuals, some in black monastic habits and others in white, are positioned in stalls, possibly singing or reading. The background features pink walls with niches containing sculpted figures and arched windows. The altar itself is covered with a blue cloth and decorated with candlesticks. Several figures in black habits are seated on a bench in the foreground, facing the altar.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "niche",
+        "altar",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Priest"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/qm670kv1873%252FW168_000334_300/522,366,682,1020/full/0/default.jpg"
+}

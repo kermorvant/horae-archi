@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Betrayal of Christ, with Judas Iscariot embracing Jesus, identifying him to the soldiers. Jesus, in a blue robe with a red cloak, turns towards Judas. Peter, on the right, is shown drawing a sword, his hand raised in defense or perhaps in the act of striking. In the foreground, a figure in a red tunic lies on the ground, having dropped a lantern, possibly representing a fallen soldier or an onlooker. Behind the central figures, a crowd of soldiers in armor and helmets are visible, some holding spears. In the background, a wooden structure with a roof, possibly a temporary shelter or part of a larger encampment, is erected, with more spears visible behind it.",
+    "scene_interpretation": "Betrayal of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Christ",
+        "Judas Iscariot",
+        "Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f31/223,223,1236,1765/full/0/default.jpg"
+}

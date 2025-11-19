@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A female figure with long blonde hair and a halo is seated on the ground, dressed in a blue robe and a red mantle. She is reading a book open in her lap. To her right is a large wooden wheel, and to her left, a sword is laid on the ground. The setting is outdoors, with a low stone wall behind the figure, and a green grassy area in the foreground. In the background, there are rolling hills and a body of water under a pale blue sky. The presence of the wheel and sword strongly suggests this is a depiction of Saint Catherine of Alexandria, whose martyrdom involved torture on a breaking wheel and subsequent beheading.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/16032709/446,1531,700,854/full/0/default.jpg"
+}

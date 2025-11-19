@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The upper register depicts the Annunciation, with the Angel Gabriel, wings outstretched and holding a scroll, announcing to the Virgin Mary. The Virgin Mary, depicted in the upper right, recoils slightly with hands clasped in prayer. A decorative vase stands between them. The lower register shows the Virgin Mary seated and reading a book, while Saint Joseph leans on a staff, looking towards her. The scene is set against a gold background, suggesting a divine or spiritual setting, with architectural elements like an arched structure visible in the lower left.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_009%2Fwidener_009_jp2.zip%2Fwidener_009_jp2%2Fwidener_009_0005.jp2/4375,2385,5820,8505/full/0/default.jpg"
+}

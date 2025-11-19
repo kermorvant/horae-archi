@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Betrayal of Christ, with Jesus at the center being embraced by Judas, who is identifiable by his kiss. Jesus, with a halo, is surrounded by a crowd of soldiers and other figures, some of whom are armed with spears and swords. In the foreground, several figures are shown fallen or in distress, suggesting a struggle. Behind the main action, a stylized representation of a city or fortress with numerous towers and banners is visible, set against a dark, star-filled sky. The overall composition is dense and dynamic, conveying the dramatic moment of Christ's arrest.",
+    "scene_interpretation": "Betrayal of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f87/2509,591,873,1204/full/0/default.jpg"
+}

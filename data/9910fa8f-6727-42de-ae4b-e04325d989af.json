@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a figure on horseback, wielding a scythe or similar implement. The rider, dressed in medieval attire with a cap, appears to be in motion, possibly engaged in an action related to harvesting or combat. Below the horse, a skeletal figure is visible, suggesting the presence of Death. The background is dark and indistinct, offering no clear architectural or environmental context.",
+    "scene_interpretation": "The Triumph of Death",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0065/2803,2345,429,627/full/0/default.jpg"
+}

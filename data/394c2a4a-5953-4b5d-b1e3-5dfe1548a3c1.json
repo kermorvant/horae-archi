@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a man lying on a pyre, engulfed in flames, with a golden disc behind his head, suggesting martyrdom. He is being tormented by several figures. A seated figure, likely a king or judge, wearing a crown and royal blue robe, presides over the scene, holding a scepter. To the right, a jester-like figure in a red jester's hat holds a book and gestures towards the pyre. Two other figures actively torment the martyr: one pokes him with a stick, while another uses bellows to intensify the flames. The background is a richly patterned tapestry. The overall scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0114/3701,636,1174,1783/full/0/default.jpg"
+}

@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a woman, likely Bathsheba, bathing in a stone basin filled with water. She is nude with long blonde hair. Two women stand beside her, one holding a mirror. In the background, a man in ornate robes converses with a young boy, while other figures observe from windows and balconies of a castle-like structure. The overall setting is a courtyard with architectural elements suggesting a domestic or royal residence, with a prominent tower in the distance. The presence of the mirror and the bathing ritual suggests a narrative related to beauty and temptation, possibly alluding to the biblical story of David and Bathsheba.",
+    "scene_interpretation": "Bathsheba bathing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "window",
+        "door",
+        "stairs",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421607/922,243,1301,2350/full/0/default.jpg"
+}

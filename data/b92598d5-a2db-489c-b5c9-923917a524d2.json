@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple, a significant event from the life of Jesus. The Virgin Mary, dressed in a vibrant blue mantle, holds the Christ Child, who is swaddled in white. They are presented to an elderly man, likely Simeon, who reaches out to receive the child. Behind Mary stands a group of onlookers, including Joseph, identifiable by his red robe and the basket of doves he carries, a symbol of the offering. The setting is an interior space that appears to be part of a grand religious building, suggested by the tall, arched openings and the intricately decorated architectural elements in the background, which evoke the grandeur of a cathedral or church. The overall atmosphere is one of solemnity and religious devotion.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100212547/f124/620,217,1804,2619/full/0/default.jpg"
+}

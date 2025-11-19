@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist seated in a verdant, somewhat enclosed landscape, possibly a grotto or a natural hollow. He is dressed in a blue tunic and a rose-colored cloak, with a golden halo around his head, indicating his saintly status. He holds a scroll or parchment in his left hand and a quill pen in his right, poised as if to write. To his left, a golden eagle, his traditional symbol, is depicted with its wings spread, looking towards the saint. The background features rolling hills under a starry blue sky, suggesting an outdoor setting. The overall composition evokes a moment of divine inspiration or contemplation for the evangelist.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3340/DEPOT/B441096101_MS3340_0017/3763,448,1498,2241/full/0/default.jpg"
+}

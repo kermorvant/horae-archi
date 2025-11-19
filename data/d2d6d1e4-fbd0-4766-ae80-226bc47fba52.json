@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Jerome by his halo and scholarly activity, is depicted seated and writing. He wears a blue robe with gold stripes and a red cloak. His right hand is raised to his head, suggesting contemplation or distress, while his left hand rests on a book. Before him is a lectern holding a large illuminated manuscript, possibly the Bible, with a distinctive blue and white boot-like object resting on it, perhaps a symbolic representation or a misinterpretation of a scroll. To the left, a younger figure, possibly a monk or an acolyte, kneels with hands clasped in prayer, wearing a striped blue garment and a red headdress with two points. The scene is set within an architectural space, suggested by columns and a wall with vertical lines, implying an interior setting.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS1687/DEPOT/786466101_MS1687_0025/3999,2994,1052,803/full/0/default.jpg"
+}

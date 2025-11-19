@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The Virgin Mary, crowned and with a serene expression, holds the Christ Child in her arms. She stands on a crescent moon, surrounded by a radiant halo. Her blue mantle drapes over a white garment, and the Christ Child is depicted with a pale complexion. The background is a golden, radiating light, suggesting a divine or celestial setting.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ott.lat.548/Ott.lat.548_0231_fa_0114r.jp2/145,697,218,381/full/0/default.jpg"
+}

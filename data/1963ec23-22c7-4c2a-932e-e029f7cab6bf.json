@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross in the center. He is shown with a halo and a loincloth, bleeding from his wounds. To the left, the Virgin Mary, dressed in blue, is shown with her hands clasped in prayer, accompanied by another figure in red. To the right, a Roman soldier in armor and a helmet stands next to a figure in green, possibly John the Evangelist. The ground is depicted as a rocky, uneven terrain with skulls scattered around, symbolizing Golgotha. The background is a rich, red tapestry with intricate gold ornamentation. The entire scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/gd972zf6050%2FW246_000050_1200/4740,1195,3134,4874/full/0/default.jpg"
+}

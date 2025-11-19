@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely a king or noble, kneeling in prayer before an open book on a lectern. He wears a blue tunic, a pink cloak, and a fur-lined collar, suggesting high status. Above him, in a celestial realm depicted with a starry blue sky, Christ is shown with his hand raised in blessing, radiating golden light. The architectural setting includes an arcade with arches and columns, suggesting a grand interior space, possibly a palace or a church. Beyond this, through an archway, a landscape with buildings and a body of water is visible, hinting at an exterior view.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ",
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0360/DEPOT/B522696201_MS0360_0097/3017,517,935,1565/full/0/default.jpg"
+}

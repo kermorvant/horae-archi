@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a burial or entombment, with a figure dressed in white lying on a wooden structure, possibly a coffin or bier, within a freshly dug grave. Several figures are gathered around, some appearing to be mourners and others involved in the burial process, holding shovels. In the background, a walled city with towers and crenellations is visible, suggesting an urban setting. The overall atmosphere is somber, with the figures' postures and expressions conveying grief or solemnity. The presence of a skull near the grave further emphasizes the theme of death and mortality.",
+    "scene_interpretation": "Entombment",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "gable",
+        "battlement",
+        "crenellation",
+        "column",
+        "capital"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f630/1057,807,3252,4159/full/0/default.jpg"
+}

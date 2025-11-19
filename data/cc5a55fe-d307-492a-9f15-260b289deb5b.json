@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary, a significant event in Christian iconography. The Virgin Mary, adorned with a crown, is kneeling with her hands clasped in prayer. To her right, a male figure, likely Christ, is placing a crown upon her head. He is holding a book, suggesting his divine authority. On either side of the central figures, two other individuals, possibly angels or saints, are shown with their hands clasped in prayer, looking towards the Virgin. The figures are set against a golden background, indicative of a divine or heavenly realm. The architectural elements framing the scene suggest a stylized representation of a heavenly court or a sacred space, with pointed arches and decorative pinnacles.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pinnacle"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_009%2Fwidener_009_jp2.zip%2Fwidener_009_jp2%2Fwidener_009_0467.jp2/3769,2600,4629,4927/full/0/default.jpg"
+}

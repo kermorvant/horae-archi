@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two haloed women in a verdant landscape. The woman on the left, dressed in a blue robe, stands with her hands slightly extended. The woman on the right, wearing a reddish-brown robe over a blue undergarment and a white wimple, approaches her, also with hands extended as if in greeting or conversation. In the background, a complex of stone buildings with towers and spires is visible, nestled amongst trees. The sky above is a deep blue, with stylized clouds and rays of light emanating from the upper left corner. The overall impression is one of a pastoral setting with a hint of urban or monastic architecture in the distance.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_MSNA0167/DEPOT/B280856201_MSNA0167_0040/850,432,1515,1983/full/0/default.jpg"
+}

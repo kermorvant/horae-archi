@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two haloed male figures stand in a landscape under a blue sky. The figure on the left, dressed in a red robe with gold trim, holds an open book and a large key. The figure on the right, in a blue robe over a green tunic, points with his right hand and holds a sword. Behind them, a stylized, golden, haystack-like form is visible, and in the distance, faint blue architectural forms suggest a city or settlement. The scene is likely a depiction of Saint Peter, identifiable by the key, and another apostle, possibly Saint Paul given the sword, engaged in discussion or teaching.",
+    "scene_interpretation": "Saint Peter and Saint Paul",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_060_059/DEPOT/210546201_S_060_059_0104/1403,937,927,1285/full/0/default.jpg"
+}

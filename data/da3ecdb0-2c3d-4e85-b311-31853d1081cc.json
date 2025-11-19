@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Baptism of Christ in the Jordan River. Christ, a nude figure with a halo, stands in swirling water, receiving a baptismal stream from John the Baptist, who is robed in pink and has a long beard. Above them, a dove, representing the Holy Spirit, descends from a figure of God the Father, who is depicted in red and points with his finger. To the left of Christ, three figures with halos are visible: two appear to be angels with wings, one in blue and the other in grey, and a third figure in red, possibly another angel or a saint. The background is a dark blue, stylized foliage pattern, with a rocky, green landscape with trees on the right side. The overall composition suggests a divine and sacred event.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "John the Baptist",
+        "God the Father",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b520004510/f179/1085,1234,1128,1357/full/0/default.jpg"
+}

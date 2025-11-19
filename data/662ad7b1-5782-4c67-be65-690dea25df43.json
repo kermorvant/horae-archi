@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a group of wild boars being herded by two men. One man, wearing a blue tunic, red hose, and a pink hat, uses a stick to guide the boars. Another man, in an orange hooded cloak and red hose, stands to the left, also with a stick. In the background, a walled city with towers and a church spire is visible, nestled amongst rolling hills and trees. The upper portion of the image features a calendar page for October, with Latin text and decorative initials, and a stylized sun at the very top.",
+    "scene_interpretation": "This image is a calendar page for the month of October, likely from a Book of Hours. The depiction of boar hunting is a traditional representation of activities associated with this month, reflecting the agricultural and seasonal cycles of the medieval period. The presence of the city in the background suggests the context of human settlement and civilization.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Cappon.218/Cappon.218_0033_fr_0014r.jp2/185,185,860,1290/full/0/default.jpg"
+}

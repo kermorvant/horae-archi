@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a religious service taking place within a richly decorated church interior. Several figures are engaged in prayer and reading. On the left, a group of three individuals, two men and a woman, are gathered around a lectern, reading from an open book. One of the men wears a red cap, and the woman is dressed in a blue patterned robe. To the right, a priest, adorned in a blue cope with gold stars, stands before an altar, his hands clasped in prayer as he reads from a book. Two figures in black monastic habits kneel before the altar, one with head bowed. A woman in a white wimple and black habit also stands in prayer. The architecture features a vaulted ceiling painted with blue and gold stars, supported by columns. Windows with tracery are visible, and an organ is depicted in the background. The floor is tiled in a green and white checkered pattern. The overall atmosphere is one of solemn devotion.",
+    "scene_interpretation": "Religious Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "window",
+        "tracery_window",
+        "roof",
+        "altar",
+        "organ",
+        "wall"
+    ],
+    "persons": [
+        "Priest"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100254479/f257/427,232,1100,1701/full/0/default.jpg"
+}

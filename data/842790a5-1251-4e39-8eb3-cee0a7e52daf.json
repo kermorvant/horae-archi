@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely Christ, holding a globe and gesturing with his right hand. Before him kneels a woman, presumably the Virgin Mary, with her hands outstretched. Behind her, another kneeling figure, possibly an angel, offers a bowl. In the background, a group of figures with conical hats are visible within a framed architectural element. The overall setting appears to be within an arched architectural frame, suggesting a devotional or religious context.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034545r/f84/2588,404,1181,1327/full/0/default.jpg"
+}

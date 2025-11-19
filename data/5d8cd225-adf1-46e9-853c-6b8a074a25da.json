@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation or offering within an elaborately decorated architectural setting. On the left, a woman in a blue robe, likely the Virgin Mary, holds a child. She is accompanied by a woman in a red dress carrying a basket and two men. They are ascending a green staircase. To the right, a figure in a bishop's attire, complete with a mitre and a pink cope, stands before an altar draped with a white cloth. The altar is adorned with two candlesticks and a dark object, possibly a book or reliquary. The background features a starry blue sky and a green tapestry with gold ornamentation. The architecture is characterized by green painted structures with pointed arches and decorative tracery.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "stairs",
+        "wall",
+        "ornamental_tracery",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10463253t/f122/700,138,1097,1521/full/0/default.jpg"
+}

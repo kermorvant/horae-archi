@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the arrest of Jesus. Jesus, wearing a blue and pink robe, is being embraced by Judas, who is dressed in a golden-brown robe. Behind Judas, several soldiers in armor and helmets are present, one of whom is reaching out to grasp Jesus. To the left, a man in a pink and gold tunic, also wearing a helmet, is falling to his knees, dropping a sword. Another figure, possibly Peter, stands to the far left, holding a large sword and looking distressed. The background shows a wooden fence or palisade, and to the right, a decorative architectural element, possibly part of a frame or a building facade, is visible. The overall setting appears to be outdoors.",
+    "scene_interpretation": "The Arrest of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Jesus",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0132/3329,3074,1094,891/full/0/default.jpg"
+}

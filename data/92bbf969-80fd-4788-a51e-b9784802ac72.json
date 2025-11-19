@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, wearing a blue mantle and halo, holds the Christ Child on her lap. Three Magi, identified by their crowns, approach the Holy Family. The first Magus, an elder with a white beard, kneels and offers a chalice. The second Magus stands behind him, holding a chalice and gesturing with his finger. The third Magus, also crowned, stands to the left, holding a chalice. Behind them is a simple thatched-roof structure, suggesting a humble dwelling. The background features a blue sky with a star, and in the distance, a stylized representation of hills and a building. The scene is framed by ornate architectural elements on the left and right, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892113/1358,138,479,1278/full/0/default.jpg"
+}

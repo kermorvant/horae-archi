@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Angel Gabriel, with blue and white wings and wearing a red cloak over a white robe, kneels and presents a scroll to the Virgin Mary. The scroll unfurls and displays text. The Virgin Mary, on the right, is seated, dressed in a blue robe, and is reading from an open book. Behind her is a richly patterned red curtain. The background features a brick wall and a window with tracery. The scene is framed by an arched architectural element with decorative borders.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0899_1020/DEPOT/620416201_MS0899_1020_0023/3628,439,1979,2326/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a halo and wearing a blue robe, is seated on a throne draped with an ornate orange fabric. She holds the Christ Child on her lap, who is also haloed. The Virgin Mary gazes down at the child and holds a red flower. Above them, an angel with red wings, also haloed, places a crown on the Virgin Mary's head. The background features a patterned textile, and the foreground is a green, tessellated ground. This scene represents the Coronation of the Virgin Mary, a devotional image emphasizing her role as Queen of Heaven.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458140s/f217/354,544,975,1318/full/0/default.jpg"
+}

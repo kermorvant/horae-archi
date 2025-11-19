@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a royal figure, likely a king, wearing a crown and a richly decorated robe, holding a scepter. He is interacting with a woman who appears to be receiving something from him, possibly a ring or a crown. Two other figures, a young man in a red cap and a younger boy in a blue cap, are also present. The background suggests an interior architectural setting with a patterned wall and a canopy-like structure above. The overall composition suggests a scene of investiture or a significant royal exchange.",
+    "scene_interpretation": "Investiture",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "King",
+        "Woman",
+        "Young Man",
+        "Boy"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_103v.jp2/834,4672,1539,2748/full/0/default.jpg"
+}

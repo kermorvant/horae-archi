@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. An elderly man, likely a priest, stands with his hands clasped in prayer, wearing ornate religious vestments. Before him is a stone altar with books visible in a recessed compartment. To the right, the Virgin Mary, cloaked in blue, holds the Christ Child, who is adorned with a red beaded necklace. Behind them, several figures observe the event, including a woman in a golden headdress. The setting appears to be an interior space with architectural elements such as columns, arches, and a window with heraldic symbols, suggesting a sacred or noble environment.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "window",
+        "wall",
+        "door",
+        "roof",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502694t/f58/410,351,3013,4373/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony, likely the Presentation of Christ in the Temple, with a bishop in full regalia holding the Christ Child. The Virgin Mary, kneeling, extends her hands towards the child. Behind them, a group of figures, including a bearded man in a monk's habit and several women, observe the event. The background suggests an interior space with a stone wall and Gothic windows. A richly decorated canopy hovers over the bishop and child, and a green draped table is present. One woman holds a basket containing two doves, a common offering in temple presentations.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "canopy",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_097%2Flewis_e_097_jp2.zip%2Flewis_e_097_jp2%2Flewis_e_097_0101.jp2/2256,879,2852,3361/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two male figures, both with golden halos, stand against a decorative gold, blue, and red checkered background. The figure on the left wears a pink tunic and an orange cloak, holding a book in his left hand and gesturing with his right. The figure on the right wears an orange robe and a red cap, holding a book and a staff, with a small pouch slung over his shoulder. Both figures are depicted in an outdoor setting with stylized green ground and foliage at the bottom. Above them is a blue arch with radiating lines, suggesting divine light, and decorative floral motifs on a gold border.",
+    "scene_interpretation": "Apostles",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Apostle",
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f219/468,335,1368,1752/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a man in profile, facing right. He has a long beard and wavy hair, and wears a distinctive hat with two points. He is dressed in a robe with a rounded neckline and appears to be holding a bunch of grapes in his right hand, which is brought up towards his chest. The background is filled with a dotted pattern, and above the figure, an arched element with radiating lines is visible, suggesting a decorative or architectural frame. The overall style is that of a woodcut or early engraving.",
+    "scene_interpretation": "The figure's attire and the presence of grapes could allude to various interpretations. If this is a biblical scene, it might represent a prophet or a figure associated with abundance or a specific biblical event. Without further context or surrounding imagery, a definitive interpretation is difficult. However, the pointed hat is reminiscent of headwear worn by some figures in medieval depictions, and the grapes can symbolize the Eucharist or the bounty of the land.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0040/1914,3908,264,622/full/0/default.jpg"
+}

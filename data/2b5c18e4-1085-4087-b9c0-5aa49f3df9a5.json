@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, bleeding from his wounds. To the left, the Virgin Mary, draped in a blue mantle and veiled, stands with her hands clasped in prayer, surrounded by other mourners. To the right, a man with a beard and a red robe gestures, while a younger man in armor and a blue tunic, mounted on a white horse, looks towards the cross. In the background, a stylized landscape with rolling hills and distant castles under a blue sky dotted with gold stars completes the scene. The entire image is framed by an ornate, gilded arch with blue and gold decorative elements.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS1686/DEPOT/786466101_MS1686_0092/4002,883,1503,2320/full/0/default.jpg"
+}

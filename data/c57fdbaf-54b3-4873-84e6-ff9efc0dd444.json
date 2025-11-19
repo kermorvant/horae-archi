@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men in prayer, with one figure in the foreground kneeling and looking upwards with hands clasped. Behind him, other men are also looking up, some with their hands raised. To the right, a group of figures, some in elaborate hats, observe the scene. In the background, a fortified building with towers and crenellations is visible, suggesting a city or castle. The inscription above the building reads \"Regnum Dei Regis\". The overall setting appears to be outdoors, with a checkered ground pattern and hints of landscape.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "roof",
+        "battlement",
+        "tower"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0314.jp2/2169,1205,1519,1422/full/0/default.jpg"
+}

@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony taking place within a grand Gothic church interior. In the foreground, two figures in clerical attire are engaged in the liturgy. One, wearing a blue cope over a white alb, stands before an altar, holding up a host for consecration. Another figure, kneeling in a white alb with green trim, holds a processional cross and a book. Behind them, a richly decorated altarpiece features a central scene of the Virgin Mary enthroned with the Christ Child, attended by angels. The background reveals the soaring architecture of the church, with ribbed vaults, pointed arches, and ornate tracery. To the right, a young man in a red robe kneels in prayer before a book placed on a green-covered stand. The overall impression is one of solemn devotion and the grandeur of sacred ritual.",
+    "scene_interpretation": "Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "vault",
+        "ribbed_vault",
+        "tracery_window",
+        "altar",
+        "column",
+        "roof",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:42:2:wdl_14422:248_SMC_1_120v/1412,197,1312,2323/full/0/default.jpg"
+}

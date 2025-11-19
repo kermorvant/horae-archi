@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary. Christ, seated on a throne-like structure, places a crown upon the head of the kneeling Virgin Mary. Rays of divine light descend from a celestial realm above, where three figures, possibly representing the Holy Trinity or angels, are visible. An angel with red wings stands behind the Virgin, holding a crown, while another angel plays a harp to the right of Christ. Two other figures, one in red and one in blue, stand to the left of the Virgin. The setting appears to be a raised platform within an architectural space, suggested by the presence of a green curtain behind Christ and the checkered floor.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.C.IV.109/Chig.C.IV.109_0162_fa_0077r.jp2/246,183,492,734/full/0/default.jpg"
+}

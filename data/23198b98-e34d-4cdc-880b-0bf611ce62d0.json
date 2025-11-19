@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts three figures within an architectural setting. On the left, a figure with long, wavy hair and a book in hand gestures outwards. To their right, two bearded men stand close together. The central figure has their hand raised, seemingly in discussion or explanation, while the figure on the far right also appears engaged in conversation. Behind them, a stylized architectural structure with arches and crenellations is visible, suggesting a building or city wall. The overall impression is one of dialogue or discourse within a structured environment.",
+    "scene_interpretation": "The scene likely represents a biblical or devotional narrative involving discussion or teaching. The presence of a book and the gestures of the figures suggest a moment of discourse, possibly related to scripture or religious instruction. Without further iconographic clues, a specific event cannot be definitively identified, but it evokes themes of learning, debate, or spiritual guidance.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "battlement",
+        "crenellation"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0098/5078,738,451,677/full/0/default.jpg"
+}

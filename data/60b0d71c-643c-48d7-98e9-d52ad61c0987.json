@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an ornate, segmented frame. On the left, a woman with long hair and a halo sits, her hands clasped in prayer or supplication. She is seated on a mound of earth or fabric, beneath a stylized tree. To her right, an angel with large wings hovers, gesturing towards her. The background is filled with stippling, suggesting a starry or celestial expanse. On the right side of the frame, another angel stands, holding an open book and looking downwards. This scene is interpreted as the Annunciation, where the Angel Gabriel announces to the Virgin Mary that she will conceive Jesus.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0012/1535,3378,1557,666/full/0/default.jpg"
+}

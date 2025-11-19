@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A figure, likely a female saint or allegorical figure, is depicted holding a sword. She wears a jeweled headdress and ornate clothing. To her left, a column with a capital is visible, suggesting an architectural setting. A banner with Latin inscription \"fidelis. et. pura\" (faithful and pure) is draped behind her. The scene is framed by decorative elements, including a border with text at the top, indicating it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "The figure's attributes, particularly the sword and the inscription \"fidelis. et. pura,\" suggest she represents a virtue or a saint known for faith and purity, possibly Saint Barbara or an allegorical representation of Faith. The overall context of a Book of Hours implies a devotional purpose.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0066/3264,3483,592,553/full/0/default.jpg"
+}

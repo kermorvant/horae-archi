@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, wounded and bleeding from his hands and side, emerging from a tomb or sarcophagus. He is haloed and holds a cross. Two figures in dark, hooded robes and armor stand guard on either side of the tomb, one on the left with a spear and the other on the right, who is seated and holds a shield. In the background, a stylized landscape with trees and buildings under a blue sky with radiating golden light suggests a divine or heavenly setting. The overall scene represents the Resurrection of Christ.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Alençon/Bibliotheque_municipale/610016201_MS0197/DEPOT/610016201_MS0197_0082/3654,1175,1319,1785/full/0/default.jpg"
+}

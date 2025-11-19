@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within a decorative frame. On the left, a person with long, wavy hair and a halo is seated, holding their hands clasped in their lap. They are dressed in flowing robes. To the right, an angelic figure with wings and long hair is shown reaching towards the seated figure, holding an object that appears to be an apple. The background is filled with stippling, suggesting a starry or celestial setting. A stylized tree with leaves and fruit is visible behind the seated figure. The overall composition is framed by ornate, curvilinear elements.",
+    "scene_interpretation": "The scene likely represents the Temptation of Adam and Eve, with the seated figure being Adam and the winged figure being the Serpent (often depicted as an angel or demon in medieval art) offering the forbidden fruit. The halo on Adam might be an artistic convention or a symbolic representation of his original state before the Fall.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Serpent"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0062/634,520,670,620/full/0/default.jpg"
+}

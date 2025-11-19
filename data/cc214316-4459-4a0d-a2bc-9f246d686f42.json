@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a royal court setting where a king, seated and holding a sword, receives a woman presenting a child. The king is dressed in blue and wears a crown. The woman, in a green mantle, holds the Christ Child. To the left, a soldier in armor, with a blue helmet and red tunic, stands guard. Behind the king, two figures in green robes are visible, one appearing to be a servant or attendant. The background suggests an interior space with a patterned wall and a wooden floor. The overall composition suggests a scene of presentation or judgment, possibly related to the infancy of Christ or a royal lineage.",
+    "scene_interpretation": "Judgment of Solomon",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "King",
+        "Woman",
+        "Christ Child",
+        "Soldier"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/2295822/573,305,715,927/full/0/default.jpg"
+}

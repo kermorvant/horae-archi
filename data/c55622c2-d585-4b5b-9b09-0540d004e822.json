@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist, identifiable by his halo and beard, seated and engrossed in reading and writing. He is dressed in a white tunic and a red and blue mantle, with his legs crossed. An angel, also with a halo and wings, hovers to the left, holding an open book and looking towards Saint John. The setting appears to be an interior space, possibly a study or a room within a religious building, characterized by rich drapery, a large ornate desk with books and a vase, and a window with diamond-shaped panes in the background. The overall impression is one of divine inspiration and scholarly pursuit, with the angel acting as a messenger or source of divine knowledge.",
+    "scene_interpretation": "The Evangelist",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "roof",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint John the Evangelist",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550057309/f13/334,659,1287,1443/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "Two haloed figures stand in a landscape under a starry sky. On the left, a bishop, dressed in a blue cope over a red garment, wears a jeweled mitre and holds a pastoral staff and a red book. On the right, a tonsured monk in a black habit over a white tunic stands with his hand extended, holding a white object. In the background, a river flows past a fortified city with towers and spires, and a castle on a hill. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Saints",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Bishop",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100254479/f491/384,259,1125,1575/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, in a blue robe and with a golden halo, kneels beside a manger. The Christ Child lies in the manger, illuminated by a golden light. A bull and a donkey are present, with the donkey resting in the foreground. Behind them, an elderly man, likely Saint Joseph, stands with his hands clasped in prayer, wearing a blue tunic and red cloak. The background features a rustic wooden structure of the stable, with a thatched roof. Beyond the stable, a walled town with spires and buildings is visible under a starry blue sky.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "spire"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Caen/Musee_des_Beaux_Arts/141185204_coll_mancel_ms0273/DEPOT/141185204_coll_mancel_ms0273_0045/3840,473,1624,2284/full/0/default.jpg"
+}

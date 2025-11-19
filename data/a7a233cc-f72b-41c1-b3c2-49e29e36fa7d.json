@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a woman, partially undressed and standing, with a man on her left holding her arm and another man on her right holding a tool. The figures are within an architectural setting that appears to be a room with a vaulted ceiling and a colonnade. In the background, through an archway, other figures are visible in what seems to be an outdoor or different indoor space. The overall scene suggests a moment of coercion or judgment, possibly related to a trial or punishment, given the presence of the tool and the woman's vulnerable state. The inscription above the architectural element reads 'ASSIS'.",
+    "scene_interpretation": "Martyrdom of Saint Catherine",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0136/DEPOT/315556101_MS0136_0159/4387,403,2000,3007/full/0/default.jpg"
+}

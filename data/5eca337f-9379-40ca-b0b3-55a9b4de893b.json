@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A group of monks, some wearing black habits and hoods, are gathered around a richly decorated lectern. One monk, distinguished by a more ornate black and gold cope over his white alb, stands prominently, looking upwards and singing from a large illuminated book placed on the lectern. Behind him, several other monks also appear to be singing or chanting, their faces turned upwards. In the foreground, a wooden structure, possibly a choir stall or a decorated bench, is visible, covered with a red textile adorned with floral and avian motifs. The background features a patterned tapestry or wall with a geometric design of gold, blue, and red squares. The scene depicts a liturgical service, likely a choir chant or psalmody, within a religious setting.",
+    "scene_interpretation": "Liturgical Chant",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7d8e5f4f-aa2e-4917-a3a9-0ee345cfa0b0/1202,1372,1993,2424/full/0/default.jpg"
+}

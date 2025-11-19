@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ, with a crown of thorns and wounds, is being nailed to a wooden cross by two men. One man, in an orange tunic, hammers a nail into Christ's hand, while another man, in a blue tunic and red leggings, secures Christ's arm with a rope. To the left, the Virgin Mary, draped in a blue mantle, is seated and appears distressed, with another figure, possibly St. John, beside her. In the background, a crowd of onlookers, some on horseback, are gathered, and in the far distance, a city with spires and towers is visible. The ground is green and uneven, suggesting a hillside.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "spire",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0106/utp-0106_112r.jp2/1160,511,2566,3890/full/0/default.jpg"
+}

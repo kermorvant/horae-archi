@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, seated and wearing a crown and bishop's mitre, holds a blue orb in his left hand and gestures with his right. He is draped in a reddish-brown cloak over a white pleated garment. Before him kneels a woman in a blue robe, her hands extended. Behind her, an angel in an orange cloak and green tunic holds a golden crown, offering it towards the woman. The scene takes place indoors, with a stone wall and a diamond-paned window visible on the left, and a green, gold-patterned tapestry on the right. The overall impression is one of a royal or ecclesiastical investiture or a scene of divine revelation.",
+    "scene_interpretation": "Coronation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Bishop",
+        "Woman",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_004/DEPOT/762595409_A_10_004_0043/1640,490,1523,2419/full/0/default.jpg"
+}

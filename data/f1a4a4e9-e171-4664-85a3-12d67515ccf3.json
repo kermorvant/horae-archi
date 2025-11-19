@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a formal gathering of men in elaborate attire, likely a courtly or religious ceremony. A central figure, possibly a king or high-ranking cleric, stands with a scepter and gestures towards a kneeling man who is being presented with an open book. Several other men, dressed in robes and caps, surround them, some holding religious or ceremonial objects. The background features classical columns and decorative elements, suggesting an interior setting of significance. Above, a golden disc with rays emanates light, and a dove, symbolizing the Holy Spirit, is depicted, indicating a divine presence or blessing over the event. The floor is adorned with a rich blue carpet featuring golden fleur-de-lis motifs.",
+    "scene_interpretation": "Coronation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "King",
+        "Cleric",
+        "Nobleman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0408/DEPOT/M601415401_MS0408_0002/995,1240,3571,4745/full/0/default.jpg"
+}

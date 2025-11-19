@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A crowned man, kneeling and with his hands clasped in prayer, is being addressed by an angel. The man wears a royal crown, a blue tunic, and a red cloak. His gaze is directed towards the angel, and he has his finger touching his lips. The angel, depicted with blond hair and wearing an orange tunic and a blue mantle, holds a golden chalice in its left hand and points with its right index finger towards the man. The background is a rich blue tapestry with a diamond pattern of orange dots. The scene is framed by an elaborate initial 'D' decorated with floral motifs and gold leaf. Behind the angel, a suggestion of architectural elements is visible, including what appear to be columns and a patterned wall, possibly representing a divine or heavenly space.",
+    "scene_interpretation": "The Visitation of the Angel to King David",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King David",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Metz/Bibliotheque_municipale/574636101_MS1588/DEPOT/574636101_MS1588_0055B/2231,1811,1924,2243/full/0/default.jpg"
+}

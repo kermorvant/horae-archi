@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Archangel Michael, clad in golden armor and a royal mantle, standing triumphantly over a defeated dragon. He holds a sword raised in his right hand, poised to strike, and a shield emblazoned with a circular emblem in his left. His wings are spread wide, and a halo encircles his head. The background features a pastoral landscape with distant architectural structures, including towers and what appear to be fortified buildings, suggesting a terrestrial setting. The dragon, depicted as a monstrous, scaly creature with horns and claws, lies beneath Michael's feet, symbolizing the triumph of good over evil.",
+    "scene_interpretation": "The Triumph of Saint Michael",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Archangel Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0366.jp2/554,423,1655,2612/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his head bowed and crowned with thorns, blood dripping from his wounds. To the left, the Virgin Mary is supported by another woman, her face conveying sorrow. To the right, two men stand, one holding a scroll or paper, gesturing. In the background, a stylized landscape with trees and a distant town with towers and spires is visible. The scene is framed by an ornate border with decorative elements.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537191/46160062.tif/461,224,2027,2592/full/0/default.jpg"
+}

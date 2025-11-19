@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, bleeding from his wounds. To the left, the Virgin Mary, veiled and cloaked in purple and white, stands with her hands clasped, accompanied by another grieving woman. To the right, a soldier in ornate white armor, possibly Longinus, points upwards, while other soldiers stand behind him. The setting is an outdoor landscape with sparse vegetation and a pale, possibly celestial, sky. The overall composition emphasizes the suffering of Christ and the sorrow of his followers.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f93/249,267,1943,3189/full/0/default.jpg"
+}

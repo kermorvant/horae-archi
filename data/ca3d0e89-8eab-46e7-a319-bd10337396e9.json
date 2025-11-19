@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family in an outdoor setting. The Virgin Mary, dressed in a blue robe, sits on the ground, holding a sprig of greenery. Beside her stands the Christ Child, also in a blue robe, looking upwards and holding a similar sprig. In the background, a man in a red tunic and blue hose is reaching up to pick fruit from a tree. A donkey is visible to the right of the figures. The landscape is rendered with rolling green hills and a blue sky, suggesting a pastoral environment. The presence of the fruit-picking man and the donkey, along with the Virgin and Child, evokes the Flight into Egypt, where the family sought refuge and sustenance.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022331s/f159/206,135,1008,1351/full/0/default.jpg"
+}

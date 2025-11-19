@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, dressed in a blue robe, sits holding the Christ Child. Before them kneels one of the Magi, offering a golden vessel. Behind him stand two other Magi, one in a blue and red robe, the other in a red tunic and green hose. They are positioned in an outdoor setting with a thatched shelter on the left, and in the background, a town with spires and towers is visible. A star shines in the blue sky above.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0899_1020/DEPOT/620416201_MS0899_1020_0047/3713,524,1937,2199/full/0/default.jpg"
+}

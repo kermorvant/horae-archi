@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "In a verdant landscape dotted with trees, Christ, identified by his halo, gestures with his right hand towards a kneeling man in a richly patterned purple robe. Christ wears a blue tunic and a golden-brown mantle. The kneeling man, with his hands clasped, appears to be pleading or receiving a blessing. A crowd of onlookers, some wearing turbans and elaborate hats, observe the scene. In the background, a complex of buildings with spires and towers, suggestive of a city or a large religious complex, is depicted against a pale sky.",
+    "scene_interpretation": "Healing of the Leper",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "spire",
+        "tower"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zx896jf6359%2FW721_000074_1200/4414,1655,1928,3455/full/0/default.jpg"
+}

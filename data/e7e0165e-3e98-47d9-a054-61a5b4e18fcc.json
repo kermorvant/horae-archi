@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a man emerging from a well, supported by a pulley system. He is partially submerged in the well's brick structure. To the right, another man walks away, draped in a blue cloak over a red tunic and pink hose. The background features rolling green hills and stylized trees under a blue sky. The overall composition is framed by a decorative blue border.",
+    "scene_interpretation": "This scene likely illustrates the biblical story of Jonah being swallowed by a great fish and then vomited onto dry land, or possibly a scene from the life of a saint involving rescue from a well or pit.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Jonah"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f307/975,2216,381,385/full/0/default.jpg"
+}

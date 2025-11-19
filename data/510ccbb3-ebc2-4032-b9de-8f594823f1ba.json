@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and cope, stands to the left, raising his right hand in blessing and holding a small object in his left. He is facing a large wooden tub filled with water, in which three naked figures are immersed up to their chests. The figures appear to be suffering or in distress, with hands clasped or raised. Behind the tub, a multi-story building with arched windows and decorative elements is visible. The scene is framed by an architectural archway, suggesting an interior setting within a larger structure.",
+    "scene_interpretation": "Miracle of Saint Nicholas",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0161/2943,290,1316,1757/full/0/default.jpg"
+}

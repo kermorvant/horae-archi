@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded, elderly man with a halo stands in a landscape. He wears a blue tunic and an orange cloak draped over his left shoulder and arm. He holds a long staff in his right hand. His left hand rests on his hip. The background depicts a body of water with a sailing ship and a smaller boat. In the distance, on the right, a city with towers and walls is visible. The sky is a pale blue with some clouds. The scene is likely a depiction of a prophet or saint, possibly Saint Paul, given the common iconography of a staff and journeying attire, set in a coastal landscape with a distant city, suggesting travel or a vision.",
+    "scene_interpretation": "Prophet or Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.9495/Vat.lat.9495_0207_pr_0182.jp2/175,155,318,373/full/0/default.jpg"
+}

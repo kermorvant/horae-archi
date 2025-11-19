@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "Two male figures stand within an architectural setting, framed by pointed arches. The figure on the left, with a halo, wears a reddish-brown cloak over a blue tunic and holds an orange book. The figure on the right, also with a halo, wears a blue cloak adorned with gold dots over an orange tunic, a hat, and carries a scroll and a staff. Both figures have bare feet and stand on a green ground. The background is a rich gold, suggesting a divine or sacred context. The architectural elements suggest a Gothic style, with pointed arches and decorative columns.",
+    "scene_interpretation": "Saints",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zw200wd8767/W34_000018_300/611,445,1301,1963/full/0/default.jpg"
+}

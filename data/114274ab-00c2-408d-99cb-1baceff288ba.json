@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, his body pale and bleeding. To the left, the Virgin Mary, draped in a blue mantle, stands with her hands clasped in prayer, flanked by other grieving figures. To the right, a group of soldiers, one in ornate golden armor, stand at attention, holding spears. The background features rolling blue hills and a golden sky, with distant buildings suggesting a city or town. The overall scene is one of solemnity and sorrow, capturing a pivotal moment in Christian narrative.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A7F0C4994-C579-11E7-8646-155E6EE4309A%3ADS.148/2826,289,1232,2025/full/0/default.jpg"
+}

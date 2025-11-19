@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, kneeling and holding the Christ Child, is presented to a bearded man in priestly vestments, likely Simeon. To Mary's left stands a woman holding a basket containing doves, possibly representing the offering prescribed by the Law. Behind them, several figures observe the event. The background suggests an interior architectural setting with a grey, segmented wall and green decorative elements, possibly representing a temple or a church interior. The figures are rendered with halos, indicating their sanctity.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS1687/DEPOT/786466101_MS1687_0061/4012,573,1775,2198/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition from the Cross. Christ's body, bleeding from wounds and crowned with thorns, is being lowered from the cross by a man in a red robe and blue cap. To the left, the Virgin Mary, clad in a blue mantle, looks on with hands clasped in prayer, accompanied by another figure in a blue robe. The background is a simple blue sky with scattered gold stars, suggesting a celestial or symbolic setting rather than a literal landscape.",
+    "scene_interpretation": "Deposition from the Cross",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0005/DEPOT/210545209_005_0078/3879,2082,896,1113/full/0/default.jpg"
+}

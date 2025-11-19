@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a crowned figure, likely King David, kneeling in prayer outdoors. He wears a royal mantle over a blue tunic and has a beard and crown. His hands are clasped in supplication, and his gaze is directed upwards towards a divine light emanating from the sky. In the foreground, a golden harp rests on the ground, with a red cap beside it. The background features a winding path leading towards a walled city with towers and spires. Rolling green hills dotted with trees and stylized rock formations complete the landscape. The overall impression is one of devotion and contemplation within a stylized, somewhat idealized medieval setting.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_014/DEPOT/890245409_n_014_0085/3764,347,1606,2181/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony or vision. On the left, a figure, likely Christ, stands partially obscured by drapery, with his hand raised in blessing. Before him, a kneeling figure in elaborate clerical attire, including a mitre and cope, clasps his hands in prayer while holding an open book. This figure is surrounded by other individuals, some wearing helmets, suggesting a mix of clergy and possibly guards or witnesses. An altar with a chalice and paten is visible in the foreground, indicating a liturgical context. The background features architectural elements suggesting an interior space, possibly a church or chapel.",
+    "scene_interpretation": "Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "door",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0011/1062,1205,366,717/full/0/default.jpg"
+}

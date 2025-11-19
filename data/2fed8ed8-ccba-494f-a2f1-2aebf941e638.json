@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a woman, identified by her halo and serene expression, standing in a wooden barrel. Flames are visible beneath the barrel, suggesting she is being subjected to torture or martyrdom. Several figures surround her: a man with a beard and a crown, with his hands clasped in prayer, possibly a king or a judge; another man behind him, also with clasped hands; and two figures in the foreground, one wearing a helmet and holding a pole, and another figure behind him. In the background, architectural elements suggest a building with arched openings and towers. The overall scene appears to be an execution or martyrdom, likely of a saint.",
+    "scene_interpretation": "Martyrdom of Saint Barbara",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint Barbara"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0078/1422,2148,541,892/full/0/default.jpg"
+}

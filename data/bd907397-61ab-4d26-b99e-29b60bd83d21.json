@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint John the Evangelist by his halo and the context of a Book of Hours, is depicted reading a large open book. He is dressed in a pink undergarment and a flowing blue mantle, richly decorated with gold accents. The background features a patterned tapestry with geometric and floral motifs, and a green checkered floor. To the right, a stone wall with a pointed window is visible, and a wooden lectern holds another closed book adorned with gold clasps. The scene is framed by an arched architectural element with decorative borders, suggesting an interior setting within a religious or scholarly space.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F299_B.11.32_f158r.jp2/980,608,1777,2221/full/0/default.jpg"
+}

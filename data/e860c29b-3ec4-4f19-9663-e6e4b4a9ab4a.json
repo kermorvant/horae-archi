@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A man with a beard and long hair, dressed in a red robe and blue sleeves, kneels in a landscape. He gazes upwards with his hands outstretched in prayer. In the background, a walled city with towers and spires is visible on a hill. Above him, in the sky, a bust of Christ is depicted with a halo and rays of light emanating from him, holding a globe. To the right of the kneeling man, a globe rests on a decorative stand, and a harp is placed on the ground. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0033/bge-lat0033_096r.jp2/468,520,1410,2067/full/0/default.jpg"
+}

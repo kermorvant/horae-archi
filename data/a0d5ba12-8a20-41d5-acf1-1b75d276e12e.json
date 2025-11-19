@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered under a decorative architectural archway. In the center, a woman veiled in blue and wearing a red gown stands with her hands raised, bathed in golden light emanating from a dove descending from above, symbolizing the Holy Spirit. Surrounding her are several bearded men, some looking towards her, others with their gaze directed elsewhere. The architectural setting is ornate, with a red and gold patterned arch and columns. The floor is tiled with a geometric pattern. This scene represents the Pentecost, where the Holy Spirit descended upon the Virgin Mary and the Apostles, empowering them to spread the Christian message.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025549k/f187/222,90,1087,1723/full/0/default.jpg"
+}

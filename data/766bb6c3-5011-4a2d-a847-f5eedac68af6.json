@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded male figure, identified as a prophet or saint, stands in a landscape. He wears an orange tunic and a pink mantle draped over his left shoulder and arm. In his right hand, he holds a knife or sword, and in his left, he carries an open book with text. Behind him is a decorative screen with a gold, red, and white checkered pattern, framed by a blue arch. The foreground depicts rolling green hills. The figure's halo suggests his sacred status. The overall scene is framed by decorative borders, typical of a Book of Hours.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f215/385,431,1420,1669/full/0/default.jpg"
+}

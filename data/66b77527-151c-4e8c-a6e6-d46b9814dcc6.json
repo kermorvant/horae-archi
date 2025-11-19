@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, where Mary, dressed in blue and veiled in white, is embraced by Elizabeth, who wears a green gown and a purple mantle. They stand before a golden, arched architectural structure with visible windows. In the background, a pastoral landscape unfolds with sheep grazing and a shepherd standing in the distance. Above, an angel descends from a celestial realm, indicated by golden rays and a blue sky, towards a distant castle or fortified city.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46241744.tif/364,358,1732,2580/full/0/default.jpg"
+}

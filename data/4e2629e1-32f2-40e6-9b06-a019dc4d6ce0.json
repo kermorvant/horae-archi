@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered indoors, beneath a vaulted ceiling supported by columns. A dove, symbolizing the Holy Spirit, descends from above. The figures, dressed in medieval attire, appear to be listening or praying, with some gesturing. The architectural setting suggests a religious or significant communal space, possibly a church or a hall, with ornate columns and a sense of solemnity. The presence of the dove strongly indicates a Pentecostal event.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "vault"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037130m/f88/2038,180,1102,1416/full/0/default.jpg"
+}

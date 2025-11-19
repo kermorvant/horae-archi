@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary seated centrally, reading from an open book. She is surrounded by the Apostles, who are shown with halos and in various poses of prayer and contemplation. Above them, a dove, symbolizing the Holy Spirit, descends from a radiant sunburst, with tongues of fire emanating from it and falling upon the figures. The setting appears to be an interior space with windows visible in the background, suggesting a room or a hall. The overall composition conveys a sense of divine inspiration and the descent of the Holy Spirit upon the early Church.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0106/utp-0106_118r.jp2/1266,436,2662,3954/full/0/default.jpg"
+}

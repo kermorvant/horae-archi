@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The Virgin Mary, cloaked in a vibrant blue mantle, rides a donkey, cradling the Christ Child. The Child is swaddled and held close by his mother. To the right, an older man, presumably Saint Joseph, walks alongside the donkey, his face etched with concern. The background features a dark, patterned textile, suggesting an indoor setting or a stylized representation of a journey. Sparse trees and a suggestion of ground indicate an outdoor element, but the overall impression is contained and symbolic. The scene is framed by decorative borders.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://images.lib.cam.ac.uk/iiif/MS-II-00006-00002-000-00102.jp2/1521,2167,2317,3349/full/0/default.jpg"
+}

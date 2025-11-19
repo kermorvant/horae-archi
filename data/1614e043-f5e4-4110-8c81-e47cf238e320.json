@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The Virgin Mary, crowned and draped in a blue mantle over a grey gown, holds the Christ Child. The child, depicted with a halo, is unclothed and appears to be looking to the side. Behind them, a dark, vertical background suggests an architectural setting, possibly the interior of a building, with fluted pilasters visible on either side. The scene is framed by a decorative border with musical notes and foliage, typical of a Book of Hours.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0136/DEPOT/315556101_MS0136_0162/4199,742,978,1052/full/0/default.jpg"
+}

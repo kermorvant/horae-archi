@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth. Below the cross, the Virgin Mary stands to the left, hands clasped in prayer and draped in a blue mantle. To the right stands Saint John the Evangelist, looking upwards with a gesture of lamentation. At the foot of the cross lies a skull and a bone, symbolizing Golgotha. The background features a landscape with rolling hills, trees, a body of water with a boat, and in the distance, a walled city with towers and spires, and a rocky outcrop on the left. The entire scene is framed by an arched border adorned with floral motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_102%2Flewis_e_102_jp2.zip%2Flewis_e_102_jp2%2Flewis_e_102_0037.jp2/2607,1144,2823,3882/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered within an arched architectural space, possibly a room or a chapel, indicated by the presence of windows with tracery and a checkered floor. At the apex of the arch, a dove, symbolizing the Holy Spirit, descends. The figures, a mix of men and at least one woman wearing a veil, are shown with varied expressions of awe, contemplation, and perhaps distress, with some looking upwards towards the dove. Their hands are raised in gestures of prayer, supplication, or astonishment. The overall atmosphere suggests a moment of divine revelation or spiritual significance.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9068094h/f157/3612,716,1269,1985/full/0/default.jpg"
+}

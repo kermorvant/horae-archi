@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. In the foreground, the Virgin Mary, dressed in blue and holding the Christ Child, is attended by a figure in pink. Two Magi are present: one kneels, offering a chalice, while another, wearing a crown, stands and gestures. Behind them, a stable structure with a thatched roof shelters a cow and a donkey. In the background, a walled city with towers and spires is visible under a blue sky with radiating sunbeams. The overall setting is outdoors, with rolling green hills and foliage.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.66/Ross.66_0120_fa_0053v.jp2/451,216,500,979/full/0/default.jpg"
+}

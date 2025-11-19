@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in an outdoor setting beneath a large, leafy tree. In the foreground, a woman in a dark, flowing gown stands with her hand held by a man wearing a hooded cloak and tunic. To the left of the woman are two other women, also in dark attire. To the right of the man, a figure in a dark robe kneels before a cow and a donkey. In the background, rolling hills are visible, and a distant cityscape with numerous buildings and spires suggests a town or city.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00122/65,48,967,1553/full/0/default.jpg"
+}

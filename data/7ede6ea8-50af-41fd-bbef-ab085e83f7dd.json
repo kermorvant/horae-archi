@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crosier, stands in a richly decorated interior. He wears a red cope over a green tunic and holds an open book in his left hand, while his right hand rests on the crosier. The background is a golden tapestry with intricate patterns. To the left and right, architectural elements suggest an enclosed space, possibly a chapel or a niche, with arched openings revealing glimpses of windows with tracery and foliage outside. The overall scene depicts a devotional image of a saintly figure.",
+    "scene_interpretation": "Saint in contemplation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "canopy"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f20/595,490,619,789/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic battle in a verdant landscape. In the foreground, a centaur, pierced by arrows and a mace, is being attacked by two men. One man, blindfolded and wielding an axe, strikes the centaur's flank, while another man, also armed with an axe, attacks from the right. A female figure, possibly a nymph or a victim, is entwined with the centaur. Above them, a skeletal figure representing Death stands on a grassy knoll, holding a spear and a bundle of arrows, symbolizing the inevitability of mortality. In the background, a majestic castle with multiple towers and battlements overlooks a river and a forest where a lion is visible. The overall scene conveys a sense of struggle against death and the forces of nature, set against a backdrop of human civilization.",
+    "scene_interpretation": "The Triumph of Death",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "battlement"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502694t/f92/147,184,3392,4694/full/0/default.jpg"
+}

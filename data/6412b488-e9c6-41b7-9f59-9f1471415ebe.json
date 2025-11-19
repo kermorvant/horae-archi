@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a beard and long hair, dressed in dark robes, seated and engaged in writing or drawing on a piece of parchment. He is positioned in the foreground, with his head bowed in concentration. To his left, a lion-like creature is seated. Behind the man, an architectural structure is visible, featuring fluted columns supporting arches. Within one of these arched spaces, a relief sculpture depicts a group of figures kneeling before a central, elevated figure, possibly representing a divine or saintly visitation. Above this relief, a solitary standing figure is depicted within an arch, perhaps a saint or prophet.",
+    "scene_interpretation": "The scene likely represents Saint Jerome, a prominent Church Father known for his scholarly work, including the translation of the Bible into Latin (the Vulgate). The lion is a common attribute of Saint Jerome, often depicted as having had a thorn removed from its paw by the saint. The relief sculpture in the background could allude to a biblical event or a moment of divine inspiration related to his writings.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "niche"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00033/21,110,933,1470/full/0/default.jpg"
+}

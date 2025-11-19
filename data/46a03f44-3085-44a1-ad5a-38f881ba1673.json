@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Sebastian, who is tied to a tree and being shot with arrows by two archers. He is naked from the waist up, with his hands bound behind him to the tree, and wears pink loincloths. The archers are positioned to his right, drawing their bows. In the background, a building with a red roof and a tower is visible, suggesting a town or settlement. The sky is blue with a crescent moon and a haloed sun or celestial body. The ground is green and grassy, with a stylized tree above the saint.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "tree",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN321296737/files/images/00000371.tif/296,232,533,546/full/0/default.jpg"
+}

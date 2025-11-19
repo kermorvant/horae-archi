@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a trial or judgment within a partially enclosed architectural space. On the left, a robed figure, identified as Pilate, is seated on a throne-like chair, gesturing with his right hand. He wears a blue robe over a white garment and a distinctive green hat. Facing him, Jesus, identifiable by his halo, stands bound by a rope around his wrists, wearing a blue robe. He is flanked by two figures; one in a red tunic and patterned leggings, gesturing emphatically, and another in a red and blue robe with a sword, standing behind Jesus. Behind them, several figures in armor are visible. The background features a blue tapestry with golden star-like motifs and a wall with two small, latticed windows. The scene is framed by a wooden structure above, suggesting a roof or canopy, and decorative floral borders typical of illuminated manuscripts.",
+    "scene_interpretation": "Christ Before Pilate",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "window",
+        "canopy"
+    ],
+    "persons": [
+        "Pilate"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f236/674,2600,1044,1045/full/0/default.jpg"
+}

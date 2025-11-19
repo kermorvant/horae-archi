@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a beard, wearing a blue cap, a green tunic, and a red cloak adorned with gold embellishments, embracing a woman. The woman, dressed in a blue gown and a white head covering, appears to be leaning into the embrace. They stand before an arched entryway of a golden, fortified building with crenellated battlements and small, rectangular windows. In the background, a landscape with rolling hills, trees, and another fortified structure with a conical roof is visible under a blue sky. The overall impression is one of a tender or perhaps clandestine meeting within a grand architectural setting.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "fortress"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "battlement",
+        "window",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326072/f105/97,17,1685,1417/full/0/default.jpg"
+}

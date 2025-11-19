@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "In a verdant landscape, a knight in full armor is depicted raising a sword, poised to strike a lamb held by a woman in a blue gown. Below them, a dismembered infant lies on the ground, with another infant's head nearby. To the right, a king, seated on a stepped platform and wearing a crown, holds a sword. In the background, a windmill stands on a hill, and distant buildings with spires suggest a town. The scene is framed by an arched border with decorative elements. This imagery likely represents the Judgment of Solomon, where the king's wisdom is tested by a dispute over a child.",
+    "scene_interpretation": "Judgment of Solomon",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "King Solomon",
+        "Woman",
+        "Knight"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/ky597ww7858/W167_000095_300/136,89,731,1036/full/0/default.jpg"
+}

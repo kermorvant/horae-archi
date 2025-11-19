@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A crowned man, identified as King David, kneels in prayer in a verdant, hilly landscape. He wears a royal robe of red over a blue tunic, with a decorative belt. His hands are clasped in supplication, and his gaze is directed upwards. To his left stands a harp, and to his right, a lute rests on the ground next to an open book displaying text. In the background, a river flows towards a city with prominent towers and spires, and above, a divine presence is depicted within a cloud, radiating light. The scene likely represents King David in prayer, possibly composing psalms or seeking divine guidance, with musical instruments and scripture symbolizing his devotion and artistic talents.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_008%2Fwidener_008_jp2.zip%2Fwidener_008_jp2%2Fwidener_008_0174.jp2/1312,1035,2130,2700/full/0/default.jpg"
+}

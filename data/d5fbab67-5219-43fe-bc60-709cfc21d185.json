@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A procession of figures walks along a path through a hilly, green landscape. On the left, a large, rocky hill dominates the foreground. In the center, a group of three men, one in a golden robe and two in red and blue, walk together. To their right, a woman in a blue robe and white veil is accompanied by a crowned king in a golden robe and blue mantle, who gestures towards her. Behind the king, another man in a golden robe and red cap is visible. In the background, a castle or fortified settlement sits atop a hill. The scene is rendered with vibrant colors and gold leaf, typical of medieval manuscript illumination.",
+    "scene_interpretation": "This scene likely depicts a biblical or historical event involving royalty and a procession. Without further context or identifying attributes, a specific interpretation is difficult. However, the presence of a crowned king and a woman, along with other figures, suggests a narrative of importance, possibly a royal encounter, a pilgrimage, or a scene from the Old Testament.",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f91/931,4231,3082,1495/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with the Virgin Mary riding a donkey, holding the Christ Child. Saint Joseph walks beside the donkey, holding a staff. In the background, a city with towers and buildings is visible, suggesting their destination. Two figures, possibly travelers or guards, are seen in the middle ground. The overall composition suggests a journey, likely the Flight into Egypt or the Nativity narrative.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00082/319,280,648,1050/full/0/default.jpg"
+}

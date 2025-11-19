@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identified by her halo, meeting Elizabeth. An angel stands to the left of Mary, and another woman stands to the right of Elizabeth. In the background, a city with towers and buildings is visible, suggesting an urban setting. Above the main scene, a figure, possibly God the Father or a prophet, is seated on a throne-like structure within an architectural frame. The entire composition is framed by ornate Gothic architectural elements, including pointed arches and decorative tracery.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "tracery_window",
+        "wall",
+        "roof",
+        "tower",
+        "ornamental_tracery",
+        "column",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0022/1176,372,2026,2759/full/0/default.jpg"
+}

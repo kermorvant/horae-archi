@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a distinctive hat adorned with a circular element and a small knob. He is dressed in a tunic with a high collar and a row of circular buttons down the front. His right hand is raised, with fingers extended in a gesture of speech or blessing, while his left hand rests on his lap. The background is filled with a stippled pattern, suggesting a textured surface or perhaps a stylized representation of foliage. Above the figure, an architectural element resembling a decorative archway or canopy is visible, featuring intricate scrollwork and floral motifs. The overall style is that of a woodcut or wood engraving, common in medieval and early Renaissance printed books.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0024/5290,3978,501,690/full/0/default.jpg"
+}

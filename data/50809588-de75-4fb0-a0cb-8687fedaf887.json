@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a humble stable. The Virgin Mary, seated and draped in a blue robe, cradles the Christ Child on her lap. A golden halo surrounds her head, and a smaller halo encircles the child. Three Magi are present: one kneels before the Virgin and Child, offering a gift, while another stands and presents a chalice and a covered vessel. A third figure, richly dressed, stands behind the kneeling Magi. The stable is constructed of wood with a thatched roof, and a rustic fence is visible behind the figures. In the background, a green, hilly landscape is dotted with trees, and a castle or fortified building is perched on a distant hill. Rays of golden light emanate from a star-like symbol in the sky, illuminating the scene.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_072/DEPOT/M490075203_MS2003_1_072_0086/3955,946,1271,2024/full/0/default.jpg"
+}

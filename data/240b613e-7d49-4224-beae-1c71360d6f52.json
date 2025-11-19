@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an interior space, indicated by the presence of architectural elements and a patterned background. On the left, a haloed figure, likely Christ, is surrounded by several men in armor and distinctive headwear, some of whom appear to be soldiers. The central figure, dressed in blue, is gesturing with his right hand and holding a sword in his left. He is seated on a raised platform, suggesting a position of authority. The background features a vibrant, tessellated pattern of blue, orange, and green squares, with hints of green foliage suggesting an outdoor element or a stylized representation of nature. The overall composition suggests a narrative moment, possibly a trial or a confrontation.",
+    "scene_interpretation": "Trial of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/ky597ww7858/W167_000140_300/479,129,736,1021/full/0/default.jpg"
+}

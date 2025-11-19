@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, his body showing wounds and blood. To the left stands the Virgin Mary, draped in a blue mantle, with her hands clasped in sorrow. To the right, a figure, likely Saint John the Evangelist, holds an open book and looks upwards. The background is a rich, patterned textile in crimson and gold, suggesting a divine or symbolic setting. Above Christ's head is a blue cloud-like element with a face, possibly representing God the Father or the Holy Spirit. The ground below is depicted with scattered bones and a skull, symbolizing Golgotha, the place of the skull, and the triumph of death over sin through Christ's sacrifice. The entire scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_099%2Flewis_e_099_jp2.zip%2Flewis_e_099_jp2%2Flewis_e_099_0121.jp2/2558,1114,2491,3823/full/0/default.jpg"
+}

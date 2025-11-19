@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two women in a natural setting, framed by an arched border with decorative elements. The woman on the left, standing and veiled, is embraced by the woman on the right, who is kneeling and also veiled. Both figures are richly robed. The background features trees and hilly terrain, suggesting an outdoor environment. This scene is interpreted as the Visitation, where Mary, pregnant with Christ, visits her cousin Elizabeth, who is also pregnant.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038542s/f48/1174,77,530,821/full/0/default.jpg"
+}

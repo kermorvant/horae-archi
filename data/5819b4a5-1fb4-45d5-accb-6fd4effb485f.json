@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ in the Garden of Gethsemane, praying with his hands clasped upwards. He is dressed in a blue robe with gold trim. To his left, on a small mound, is a chalice with a host. Three disciples, identified as Peter, James, and John, are shown sleeping in the foreground, draped in red and orange robes. Behind Christ, a wooden structure, possibly a shelter or part of the garden enclosure, is visible. The background features a stylized landscape with trees and a fence, suggesting an outdoor setting. The overall composition conveys a sense of solemnity and devotion, highlighting Christ's solitary prayer before his Passion.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Peter",
+        "James",
+        "John"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bpun/bpun-A0028/bpun-A0028_089r.jp2/992,736,2182,2617/full/0/default.jpg"
+}

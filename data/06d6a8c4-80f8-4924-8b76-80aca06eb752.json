@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a gathering of holy figures, with the Virgin Mary seated on the left and a bishop, possibly Saint Nicholas, on the right. Both are adorned with golden halos and elaborate robes. The Virgin Mary is shown with her hands clasped in prayer or contemplation, while the bishop gestures with his right hand and holds a book in his left. Behind them, a green drapery with a circular pattern is hung, and above it, a row of fiery tongues or flames emanates, suggesting a divine presence or inspiration. Surrounding the central figures are various saints, some holding symbolic objects such as a book, a wheel (likely representing Saint Catherine), and a small tower. An angel is visible on the far left, and another on the far right, also with halos. The overall setting is rich and decorative, with intricate gold leaf work and floral motifs framing the scene.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jt855sc2143%2FW289_000279_1200/705,528,4656,5879/full/0/default.jpg"
+}

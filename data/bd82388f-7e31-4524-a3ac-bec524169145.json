@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts an angel with feathered wings extending from its back, reaching towards a seated figure. The angel appears to be offering or presenting something, possibly a fruit, to the seated individual. The seated figure, with a halo, is looking towards the angel and appears to be holding something in their lap. Behind the seated figure is a tree with foliage and fruit. The background is filled with stippling, suggesting a starry or celestial setting. The entire scene is framed by decorative, quatrefoil-like architectural elements.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "undefined_element"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0059/598,444,688,598/full/0/default.jpg"
+}

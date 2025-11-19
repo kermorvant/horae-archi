@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts three figures gathered around a baptismal font. On the left, a bearded man in a blue robe with gold trim looks upwards towards a dove radiating golden light, symbolizing the Holy Spirit. In the center, a golden, ornate font with water flowing from it is prominent. To the right, another bearded man, draped in a green mantle over a red garment, gestures with his hands, looking towards the font. A third figure, partially obscured and kneeling, is positioned at the base of the font, with their head bowed. The background features a blue sky with stylized trees and distant architectural structures, suggesting an outdoor setting. The overall composition, with the dove and the baptismal font, strongly indicates a depiction of the Baptism of Christ.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "font",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "John the Baptist",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1509/DEPOT/352386106_MS1509_0062/1277,583,1581,1971/full/0/default.jpg"
+}

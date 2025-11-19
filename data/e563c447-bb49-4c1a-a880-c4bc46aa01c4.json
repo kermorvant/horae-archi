@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a king seated on a raised dais, wearing a crown and royal blue robes, holding a scepter. Before him, a woman kneels, presenting a child. To the left, a soldier in blue armor, holding a sword raised as if to strike, is restrained by another figure in green robes. The setting appears to be an interior room with a tiled floor, a large window showing a landscape with birds, and a decorative ceiling with wooden beams and a blue canopy adorned with stars. The presence of a king, a woman with a child, and a soldier suggests a narrative of judgment or protection, possibly related to a biblical story.",
+    "scene_interpretation": "Judgment of Solomon",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "window",
+        "roof",
+        "wall",
+        "arch",
+        "dais"
+    ],
+    "persons": [
+        "King",
+        "Woman",
+        "Child",
+        "Soldier"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/555813/1247,387,1599,2252/full/0/default.jpg"
+}

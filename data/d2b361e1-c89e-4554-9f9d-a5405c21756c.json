@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and seated on an orange throne, embracing the Christ Child. Mary wears a blue tunic and a grey mantle, while the Christ Child is dressed in an orange garment. The background is a red tapestry with a geometric pattern. The figures are enclosed within an ornate, circular frame with decorative elements on the sides, including what appears to be a profile of a bearded head on the right. The overall composition suggests a devotional image of the Madonna and Child.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f286/1041,518,965,1035/full/0/default.jpg"
+}

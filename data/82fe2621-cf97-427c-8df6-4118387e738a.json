@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered indoors, with the Virgin Mary at the center, hands clasped in prayer. Above her, the Holy Spirit descends in the form of a dove, radiating golden light. The figures, all with halos, appear to be the Apostles and other disciples, some kneeling and others standing, looking upwards with expressions of awe and devotion. The architectural setting is suggested by arched openings and columns in the background, indicating an interior space, possibly a room or a part of a religious building. The floor is tiled with a green pattern. This scene is a representation of the Pentecost, where the Holy Spirit descended upon the Apostles and Mary, empowering them to spread the Christian message.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0007/cea-0007_019v.jp2/1471,617,2935,4280/full/0/default.jpg"
+}

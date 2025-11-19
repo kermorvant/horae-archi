@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, depicted in profile, wears a distinctive headdress with a circular ornament and a flowing garment adorned with buttons. He is framed by architectural elements suggesting an interior or a niche. The scene is rendered in a woodcut style with strong lines and stippling for shading. The figure's solemn expression and regal attire suggest he might represent a king or a prophet from the Old Testament, possibly depicted in a devotional context within a Book of Hours.",
+    "scene_interpretation": "Biblical Figure",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Biblical Figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0032/2682,3966,477,664/full/0/default.jpg"
+}

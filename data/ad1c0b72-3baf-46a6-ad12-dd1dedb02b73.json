@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a partially enclosed structure. The Virgin Mary, seated and wearing a blue mantle, holds the Christ Child on her lap. Before them kneels an elderly man, presumably one of the Magi, offering a bowl. To the right, two other figures, also likely Magi, stand with attendants. One of the Magi wears a distinctive red and blue tunic and a tall, pointed hat, while the other is similarly attired. In the background, a rocky landscape is visible, leading to a distant cityscape with towers and red-tiled roofs. The architectural elements suggest a humble stable or shelter, with exposed wooden beams forming the roof structure and a rough stone wall.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS25%2FBMC_MS25_jp2.zip%2FBMC_MS25_jp2%2FBMC_MS25_0105.jp2/2529,1192,2549,3618/full/0/default.jpg"
+}

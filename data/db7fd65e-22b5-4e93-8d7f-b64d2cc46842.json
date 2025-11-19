@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, wearing a blue mantle and headdress, is seated on a donkey, holding the Christ Child swaddled in a brown and gold cloth. Saint Joseph, dressed in a blue tunic and a red cloak, stands beside them, looking towards the viewer. He wears a brown cap. In the background, a stylized landscape features rolling green hills, a tree, and a distant city with blue buildings and towers. A small, golden statue of a figure in a dynamic pose stands atop a column on a hill in the upper right. The overall impression is one of travel and perhaps a moment of rest during their journey.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "column"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0005/DEPOT/210545209_005_0072/3696,566,2072,3181/full/0/default.jpg"
+}

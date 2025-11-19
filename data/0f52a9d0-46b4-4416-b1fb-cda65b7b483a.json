@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A Dominican friar, identified by his black habit over a white tunic and tonsured head, stands within an architectural setting. He holds open a book with a purple cover, his gaze directed downwards in contemplation. The background features a series of fluted columns supporting arches, suggesting a cloister or a church interior. The floor is tiled in a diamond pattern of red and green. The entire scene is framed by an ornate border with gilded foliate motifs and blue accents.",
+    "scene_interpretation": "Saint Dominic",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "cloister"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Dominic"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f368/719,439,1443,2410/full/0/default.jpg"
+}

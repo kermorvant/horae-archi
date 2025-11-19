@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a crown and elaborate robes. He holds a cross in his right hand and raises his left hand in a gesture of blessing or teaching. The background is filled with stylized stars. The figure's attire, including the crown and the cross, suggests a religious or royal figure of high status, possibly a saint or a king with religious significance. The presence of stars could allude to divine inspiration or a celestial setting.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00126/363,309,609,711/full/0/default.jpg"
+}

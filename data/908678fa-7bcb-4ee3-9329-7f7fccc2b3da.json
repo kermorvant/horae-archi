@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image displays a heraldic shield divided into two halves. The left half is blue and adorned with three golden fleur-de-lis symbols. The right half is also blue and features a silver depiction of a tower with an open gateway. The shield is framed by decorative elements, including gold leaf and what appears to be stylized foliage or scrollwork in blue and silver. Above the shield, a golden band with decorative motifs is visible, and the very top edge of the manuscript page with text is also present.",
+    "scene_interpretation": "This image is a heraldic representation, likely a coat of arms. The fleur-de-lis is a traditional symbol of French royalty, while the tower can represent a fortress, a city, or a noble lineage. Without further context, a specific religious or biblical interpretation is not possible, but heraldry in medieval manuscripts often served to identify patrons, owners, or significant figures associated with the book.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502484n/f123/1409,4143,755,768/full/0/default.jpg"
+}

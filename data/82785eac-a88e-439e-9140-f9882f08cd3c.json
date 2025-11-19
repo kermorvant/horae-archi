@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The body of Christ, with visible wounds, is cradled by the Virgin Mary, who is dressed in a blue mantle and has her hands clasped in prayer. To the left, a woman in a red cloak holds Christ's head, while another woman in a red cloak stands to the right, also in prayer. Above, a cross with the inscription \"INRI\" is visible, and two winged figures, possibly angels, are depicted on either side of the cross. In the background, a city with numerous spires and buildings is rendered, suggesting a landscape setting. The scene is framed by architectural elements on the left and right, resembling columns with decorative capitals.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/464e012a-5c41-4849-9dad-08b91b1fa00c/444,547,1908,2346/full/0/default.jpg"
+}

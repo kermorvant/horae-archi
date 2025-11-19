@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth. Blood streams from his wounds. To the left, the Virgin Mary, draped in blue, is supported by another woman in red, both appearing distressed. To the right, a figure in a red robe, possibly Saint John the Evangelist, holds a book and gestures towards the cross. In the background, a rocky landscape is visible, with a fortified building resembling a castle or walled city in the distance. The scene is framed by a decorative golden border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f205/349,1654,833,1241/full/0/default.jpg"
+}

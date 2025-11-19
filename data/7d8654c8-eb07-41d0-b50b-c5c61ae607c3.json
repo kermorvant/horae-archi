@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Adam and Eve in the Garden of Eden. Eve, standing on the left, is reaching out towards a serpent coiled around a tree. The serpent appears to be offering something to Eve. Adam is lying down in the background, partially obscured. The setting is a lush garden with trees bearing fruit, suggesting the abundance of Eden. This depiction represents the moment of temptation and the Fall of Man.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0019/1681,2020,733,1306/full/0/default.jpg"
+}

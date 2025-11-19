@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, likely a saint or prophet, kneels on a checkered floor, wearing a blue robe adorned with gold flecks over a red tunic. He holds an open book, writing with a quill. Behind him, a desk with books and writing implements is visible, along with architectural elements suggesting an interior space, including arched structures and a window. To his right, a winged lion, a common symbol of St. Mark, rests. The scene is likely an illustration of a Gospel writer or a prophet inspired to write.",
+    "scene_interpretation": "Evangelist Portrait (St. Mark)",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "St. Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55005731r/f63/262,836,455,548/full/0/default.jpg"
+}

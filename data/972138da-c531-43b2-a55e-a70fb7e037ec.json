@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary kneeling in prayer before an open book. She is dressed in a blue mantle and has a halo. To her right, the Angel Gabriel, also with a halo and wings, is seated and points towards Mary, holding a scepter topped with a crown. Above Gabriel, the Holy Spirit is represented as a dove descending with rays of light. The figures are situated within a richly decorated architectural setting that includes columns, arches, and a canopy, suggesting a sacred or noble space. In the background, classical-style architecture with columns and inscriptions is visible.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f110/851,898,1169,1884/full/0/default.jpg"
+}

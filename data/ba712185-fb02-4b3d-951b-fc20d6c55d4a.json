@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts two women in a hilly, outdoor setting with a castle in the background. The woman on the left, dressed in red and kneeling, reaches out to the woman on the right, who is standing and wearing a blue robe. Both figures have halos, indicating their saintly status. The kneeling figure appears to be greeting or showing deference to the standing figure. The presence of a castle suggests a narrative context that might involve travel or a specific location.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53000324z/f44/900,781,554,467/full/0/default.jpg"
+}

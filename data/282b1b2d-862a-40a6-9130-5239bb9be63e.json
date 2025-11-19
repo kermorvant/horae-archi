@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts the Archangel Michael, clad in armor and a blue cloak, battling a golden dragon in the sky above a sprawling medieval city. The city is built on a hillside, with a large, imposing castle or cathedral complex dominating the upper slopes. The lower part of the city features densely packed houses with red tiled roofs and timber-framed upper stories. In the foreground, a fortified gatehouse with a rounded arch entrance leads into the city. To the left, a sailing ship is visible near the shore. Four roundels, each containing a bust of an angel with a halo, are placed in the corners of the illumination, radiating golden light.",
+    "scene_interpretation": "The Triumph of Saint Michael",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "spire",
+        "tower",
+        "roof",
+        "wall",
+        "fortification_wall",
+        "door",
+        "window"
+    ],
+    "persons": [
+        "Archangel Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0199/3733,441,2324,2415/full/0/default.jpg"
+}

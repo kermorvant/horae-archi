@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two women in a landscape setting under an arched frame adorned with floral and insect motifs. The woman on the left, dressed in a vibrant blue robe with gold embellishments, stands with her hands clasped. The woman on the right, wearing a red cloak over a purple garment and a white veil, kneels and reaches out to the standing woman. Golden rays descend from above, suggesting a divine presence. The background features rolling hills, sparse trees, and a blue sky dotted with golden stars. This scene is interpreted as the Visitation, where Mary, pregnant with Christ, visits her cousin Elizabeth, who is also pregnant.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/acv/acv-P-Sarraz-H-0050/acv-P-Sarraz-H-0050_221r.jp2/1000,341,2256,4093/full/0/default.jpg"
+}

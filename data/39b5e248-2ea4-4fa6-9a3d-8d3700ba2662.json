@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with the Virgin Mary seated on a donkey, holding the Christ Child. Saint Joseph walks beside them, guiding the donkey. The background features a rolling landscape with trees and a river. In the distance, a fortified city with towers and battlements is visible, under a radiant sun. The upper part of the image shows a stylized representation of the sun with golden rays emanating downwards. The lower part of the scene includes a river with figures fishing and a windmill on a hill. The overall impression is one of a sacred journey through a somewhat idealized medieval landscape.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "battlement",
+        "roof",
+        "bridge"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/b7478ad6-5135-4010-a01a-5a1ef35b87ce/2408,1297,1944,3374/full/0/default.jpg"
+}

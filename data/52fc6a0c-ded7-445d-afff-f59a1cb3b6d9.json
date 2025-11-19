@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with several figures and animals. In the foreground, a woman sits with a lamb in her lap, while a man in a cap gestures upwards. Behind them, a shepherd with a staff tends to a flock of sheep and a dog. In the background, a town with buildings and towers is visible. Above, two winged figures hold a banner inscribed with \"GLORIA IN EXCELSIS DEO IN TERRA PAX\". The overall scene evokes a peaceful rural setting with a divine message.",
+    "scene_interpretation": "Gloria in Excelsis Deo",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0039/4462,1127,1763,2893/full/0/default.jpg"
+}

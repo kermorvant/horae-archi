@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, likely Saint Jerome, is depicted seated and reading from an open book. He wears a hat and a pink robe with a blue collar. To his right, a lion with a golden mane is shown. The background suggests an indoor setting with architectural elements, including a draped curtain and a carved panel with a circular motif. The scene is likely an illustration of Saint Jerome, known for his translation of the Bible and his association with a lion.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.67/Ross.67_0039_fa_0014r.jp2/281,743,210,262/full/0/default.jpg"
+}

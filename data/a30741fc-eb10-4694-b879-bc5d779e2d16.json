@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with the Virgin Mary riding a donkey and holding the Christ Child, while Saint Joseph walks beside them. The background features a lush green landscape with trees and distant blue mountains, and to the right, a cluster of buildings with red tiled roofs, suggesting a settlement. The figures are rendered with halos, indicating their divine status. The overall composition evokes a sense of peaceful travel and familial devotion.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lehigh_codex_017%2Flehigh_codex_017_jp2.zip%2Flehigh_codex_017_jp2%2Flehigh_codex_017_0128.jp2/2441,2053,5039,7060/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a partially enclosed architectural setting. On the left, the Angel Gabriel, with large wings and a halo, kneels and offers a lily to the Virgin Mary. He wears a pink and gold robe. The Virgin Mary, also with a halo, stands on the right, her hands clasped in prayer before an open book. She is dressed in a blue mantle over a gold tunic. Behind them, a dark, paneled wall is visible, with an arched window revealing a landscape of green hills and a blue sky. The scene is covered by a red, tiled dome supported by grey arches and columns. The floor is a checkered pattern of green and black tiles.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "roof",
+        "wall",
+        "dome"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Avranches/Bibliotheque_municipale/500256201_MS0302/DEPOT/500256201_MS0302_0021/4181,526,1700,2339/full/0/default.jpg"
+}

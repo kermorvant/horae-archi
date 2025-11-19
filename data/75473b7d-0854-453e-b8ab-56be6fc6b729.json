@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, seated on a donkey, cradles the Christ Child. Saint Joseph, holding a staff, walks beside the donkey, guiding it. To the right, an angel with folded arms observes the scene, with a lush, leafy background suggesting an outdoor setting. The figures are rendered with halos, indicating their sacred status. The overall composition suggests a moment of peaceful travel and divine protection.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS2788/DEPOT/B514546101_MS2788_0061/2133,416,1048,968/full/0/default.jpg"
+}

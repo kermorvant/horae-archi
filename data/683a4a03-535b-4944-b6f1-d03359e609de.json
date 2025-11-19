@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts Saint John the Baptist, identifiable by his traditional iconography of a lamb and a staff with a banner, seated in a lush, green outdoor setting with trees. He is dressed in a fur garment over a blue and pink robe, and his gaze is directed towards the lamb. The lamb, a symbol of Christ, rests on a book, and a halo surrounds its head. Saint John also has a halo. The scene is framed by an arched architectural element with a decorative, patterned background, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_006%2Fwidener_006_jp2.zip%2Fwidener_006_jp2%2Fwidener_006_0436.jp2/771,947,2022,2844/full/0/default.jpg"
+}

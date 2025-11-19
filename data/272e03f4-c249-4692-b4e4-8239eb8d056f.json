@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A crowned king, seated on a throne and holding a scepter, is surrounded by several figures. The king wears a red tunic and a blue mantle, both adorned with gold. The figures around him are depicted in various colored garments, including green and red. The scene is set within an architectural space, suggested by a golden, arched canopy above and a dark, recessed background. The floor is decorated with gold leaf and green patterns. The overall impression is one of royal authority and courtly presence.",
+    "scene_interpretation": "Royal Audience",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8571085n/f233/2479,1139,856,1853/full/0/default.jpg"
+}

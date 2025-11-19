@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a richly decorated golden robe with a white and gold patterned collar and a pale blue sash, kneels on a textured yellow ground. His hands are raised in supplication, and his gaze is directed upwards. To his right, a harp-like musical instrument lies on the ground, along with a blue, pointed cap adorned with gold dots and a staff. In the background, a brick wall separates the foreground from a body of water, beyond which lies a complex of buildings with varied rooflines and towers, rendered in shades of pink and grey. Above the buildings, a divine figure with a long white beard and flowing hair, wearing a red garment, appears within a golden halo or cloud formation against a blue sky.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xz419dn0625%2FW429_000240_1200/4104,2232,1774,3000/full/0/default.jpg"
+}

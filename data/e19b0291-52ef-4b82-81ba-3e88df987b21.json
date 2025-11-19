@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a religious service within a vaulted architectural space. Two figures in white robes and head coverings stand behind an altar covered with an orange cloth adorned with golden motifs. They are engaged in reading from a large book. In the foreground, a figure in a green hooded cloak stands with their back to the viewer, facing the altar. To the left, a tall, ornate candlestick with a lit yellow and red candle stands prominently. The floor is a checkered pattern of black and cream squares. The vaulted ceiling is rendered in pinkish-red with intricate ribbing, and a small window with tracery is visible in the background.",
+    "scene_interpretation": "Religious Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "tracery_window",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS26%2FBMC_MS26_jp2.zip%2FBMC_MS26_jp2%2FBMC_MS26_0131.jp2/2607,1554,2501,3941/full/0/default.jpg"
+}

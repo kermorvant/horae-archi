@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in prayer, kneeling on the ground. The central figure, distinguished by a papal tiara and ornate robes, is positioned slightly forward. To the left and behind, two other figures, wearing conical hats, also have their hands clasped in prayer. The background features architectural elements, including columns and arches, suggesting an interior setting. The overall impression is one of devotion and supplication within a structured, possibly ecclesiastical, environment.",
+    "scene_interpretation": "Devotional scene of prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Pope"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0078/1236,616,603,990/full/0/default.jpg"
+}

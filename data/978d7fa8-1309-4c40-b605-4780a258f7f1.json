@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a celestial gathering with multiple winged figures, likely angels, surrounding a central seated figure who appears to be a woman. The background features stylized architectural elements resembling churches or chapels, with pointed arches and towers, set against a starry sky. The angels are shown in various poses, some appearing to interact with each other or with the seated woman. The overall impression is one of a divine or heavenly realm. The seated figure's posture and gaze suggest contemplation or reception of a divine message. The presence of architectural structures within this celestial setting might symbolize the heavenly Jerusalem or the divine presence within sacred spaces.",
+    "scene_interpretation": "Heavenly Vision",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0013/733,1020,723,699/full/0/default.jpg"
+}

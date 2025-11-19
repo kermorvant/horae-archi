@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint John the Baptist by his halo and traditional attire, stands within an arched opening. He wears a red tunic and a blue mantle lined with gold, and holds a long staff topped with a spearhead. His gaze is directed outwards, towards a distant landscape featuring a city with towers and spires, rendered in a pale blue and white palette. The interior space is suggested by a patterned red wall behind him and a green checkered floor. The scene is framed by an ornate, illuminated border typical of Books of Hours.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0188/3123,522,808,1127/full/0/default.jpg"
+}

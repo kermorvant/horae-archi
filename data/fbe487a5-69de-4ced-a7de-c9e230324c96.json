@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a group of people enjoying a picnic on a grassy bank by a body of water. In the foreground, several couples are seated on the ground, with food and drink laid out on a cloth. A man in a red jacket and black hat is embracing a woman in a black dress. To the left, a boy in a purple tunic is arranging bottles and baskets. In the background, a river or lake is visible, with boats on the water. On the far left, a ruined castle or fortified building complex stands amidst trees. Above the scene, two putti (cherubs) are flying; one aims a bow and arrow, while the other scatters flowers. The overall atmosphere is one of leisure and romantic dalliance, possibly allegorical given the presence of the putti.",
+    "scene_interpretation": "Allegory of Love",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Putto"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105380373/f18/295,202,1775,1212/full/0/default.jpg"
+}

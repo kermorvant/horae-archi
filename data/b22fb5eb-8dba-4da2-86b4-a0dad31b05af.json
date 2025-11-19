@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with Christ's body being held by several figures after his crucifixion. Christ, depicted with wounds, is supported by two men. One man, dressed in blue, holds Christ's torso, while another, in a red robe, supports his legs. A woman, likely the Virgin Mary, kneels and cradles Christ's head, her face conveying sorrow. Another woman, also in a red robe, stands beside her. The figures are positioned within an architectural setting suggested by an arched structure above them, possibly representing a canopy or a stylized representation of the sky within a devotional context. The overall impression is one of grief and reverence.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421798/195,1278,328,495/full/0/default.jpg"
+}

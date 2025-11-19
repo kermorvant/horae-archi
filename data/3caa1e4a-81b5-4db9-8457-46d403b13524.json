@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a simple architectural setting. The Virgin Mary, seated and holding the Christ Child, is attended by a figure in a hooded robe. Three Magi are present: one kneels before Mary, offering a gift, while another stands holding a chalice, and a third stands behind him holding a scepter. A beam of light descends from the upper left, illuminating the scene. The architecture consists of rough stone walls and an arched opening, suggesting a humble dwelling or stable. The figures are rendered with gold highlights on their garments and crowns, indicating their importance.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/bd845tn4821%2FW194_000104_1200/4826,1060,2707,4563/full/0/default.jpg"
+}

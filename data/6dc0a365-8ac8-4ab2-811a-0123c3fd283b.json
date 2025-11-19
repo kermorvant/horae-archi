@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man wearing a turban adorned with a floral ornament. He is dressed in a long robe with decorative trim and a cape. His left hand points downwards, while his right hand holds a staff or pointer, gesturing towards a circular object that appears to be a celestial sphere or astrolabe. The background is filled with stars and circular motifs, suggesting an astronomical or astrological theme. The overall style is that of a woodcut illustration, likely from a medieval or early Renaissance manuscript.",
+    "scene_interpretation": "Magi",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Magi"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00160/295,1606,663,640/full/0/default.jpg"
+}

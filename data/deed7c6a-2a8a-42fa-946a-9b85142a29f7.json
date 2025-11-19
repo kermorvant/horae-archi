@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the biblical story of David and Goliath. A heavily armored figure, presumably Goliath, is shown fallen to his knees, with his head bowed and his face contorted in pain. He is clad in ornate golden armor with red detailing. A smaller figure, representing David, stands in the background to the right, holding a sling and a stone, poised to strike. In the far background, a fortified city with towers and banners is visible, suggesting a battlefield setting. The ground is scattered with white stones, some of which appear to be projectiles.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_BERNIER_I-D-041/DEPOT/M601415401_BERNIER_I-D-041_0087/4059,535,1691,2452/full/0/default.jpg"
+}

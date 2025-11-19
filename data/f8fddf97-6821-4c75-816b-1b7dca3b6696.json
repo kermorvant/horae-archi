@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A male figure, likely a saint or cleric, stands in a landscape. He is dressed in a patterned outer garment over a white tunic and holds an open book in his left hand. In his right hand, he holds a staff or crozier. To his right, a dark, vertical structure with multiple bars, possibly a grille or cage, is depicted. The background shows a hilly landscape with trees. The figure's attire and the presence of a book suggest a learned or religious individual, and the barred structure might allude to imprisonment or martyrdom.",
+    "scene_interpretation": "Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_MS0091/DEPOT/330636101_MS0091_0032/839,560,764,936/full/0/default.jpg"
+}

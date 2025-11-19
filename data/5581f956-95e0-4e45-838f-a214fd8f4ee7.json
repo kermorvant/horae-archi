@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A shepherd, wearing a red cap and a red tunic with gold trim, stands in a rocky, outdoor landscape, holding a staff and accompanied by two sheep. In the background, a crowned figure in a dark robe gestures towards the shepherd. The scene is rendered with vibrant colors and gold leaf accents, typical of medieval manuscript illumination.",
+    "scene_interpretation": "The scene likely depicts the Annunciation to the Shepherds, a key event in the Nativity narrative, where angels announce the birth of Christ to shepherds tending their flocks. The crowned figure in the background could represent an angel or a divine messenger.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd",
+        "Crowned figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0023/3824,2435,798,1219/full/0/default.jpg"
+}

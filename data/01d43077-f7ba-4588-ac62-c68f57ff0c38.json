@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, adorned in a blue mantle with gold trim, stands with her hands clasped over her chest, gazing downwards with a serene expression. Beside her, Saint Joseph, wearing a red robe, leans forward with his hands pressed together in prayer or contemplation. In the foreground, the Christ Child lies swaddled in a white cloth on a pillow. Behind them, the head of a donkey is visible, and the structure of the stable, made of rough wooden beams, is apparent. The background opens to a landscape with hills under a bright blue sky, suggesting an outdoor setting beyond the stable.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_MS0134/DEPOT/B490076101_MS0134_0050/1886,1096,1005,1446/full/0/default.jpg"
+}

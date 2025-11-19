@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a gathering of figures, predominantly angels, within an architectural setting that suggests a celestial or heavenly realm. Several winged figures, some carrying infants, are interspersed among stylized buildings with pointed roofs and arched openings. In the foreground, a seated woman, possibly the Virgin Mary, rests her head on her hand, appearing contemplative. The background is filled with a starry sky, reinforcing the otherworldly atmosphere. The overall impression is one of divine presence and perhaps a moment of quiet reflection or anticipation.",
+    "scene_interpretation": "Heavenly scene with angels and possibly the Virgin Mary.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0074/5281,941,564,677/full/0/default.jpg"
+}

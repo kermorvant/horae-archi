@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a regal figure, likely a king or a saint, standing within an arched architectural setting. The figure wears a crown, a red cape lined with ermine, and ornate golden armor. They hold a sword in their right hand and a blue, book-like object in their left. A golden lion is positioned at the figure's feet, with the figure's left foot resting on its back. The background features a blue tapestry with gold motifs and glimpses of a green landscape through an opening. The floor is tiled in a diamond pattern of green and blue. The overall impression is one of power, authority, and possibly divine favor, given the lion's symbolic association with royalty and strength.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/wx114pq5623%2FW204_000516_1200/3532,1563,1614,2498/full/0/default.jpg"
+}

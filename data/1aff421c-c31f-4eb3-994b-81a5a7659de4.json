@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns. To the left, a group of mourners, including the Virgin Mary in a black veil, stand with hands clasped in prayer. To the right, a bearded man in a dark robe and hat gestures towards the cross, holding a scroll. In the background, a cityscape with towers and walls is visible, suggesting Jerusalem. The sky above is dark with celestial bodies, including a sun and moon, and a decorative border frames the scene.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037191j/f56/2005,247,977,1559/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher wading through water, carrying the Christ Child on his shoulders. Saint Christopher, a large man with a beard, holds a staff for support. The Christ Child, dressed in gold, holds a golden orb. In the background, a bearded figure holding a lantern stands on the shore, observing the crossing. The setting is a body of water with a light blue sky.",
+    "scene_interpretation": "The Crossing of the Christ Child by Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A7F0C4994-C579-11E7-8646-155E6EE4309A%3ADS.46/1092,1623,710,645/full/0/default.jpg"
+}

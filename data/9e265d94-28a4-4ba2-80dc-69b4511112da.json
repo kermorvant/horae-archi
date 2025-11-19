@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a man in armor, possibly a soldier or knight, in the act of beheading a giant. The man is shown from the waist up, wielding a sword with his right hand, which is positioned to strike the neck of the giant. The giant, depicted with a large head, beard, and muscular build, is kneeling or falling, with his head bowed. The background features a stylized cityscape with various buildings, including towers and structures with arched windows, suggesting an urban setting. The overall composition is dynamic, emphasizing the struggle and the decisive blow.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0067/865,469,639,1165/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo and flowing blonde hair, is seated and cradles the Christ Child in her arms. She wears a pink garment beneath a blue mantle. The Christ Child, also with a golden halo, is naked and looks towards the viewer. They are positioned within a structure that appears to be a simple, open-sided building with a grey, stone-like wall behind them. The background is a rich tapestry of gold leaf and colorful floral or gem-like motifs, suggesting a divine or precious setting. The scene is framed by an ornate border featuring red and white patterns and blue decorative elements.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100241520/f387/506,1274,477,434/full/0/default.jpg"
+}

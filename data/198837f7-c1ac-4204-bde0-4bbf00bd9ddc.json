@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "An angel with large green wings, wearing a golden robe, gestures towards a kneeling woman dressed in a red robe with fur trim. The angel appears to be speaking or delivering a message. The woman looks up at the angel with a supplicating expression, her hands clasped in prayer. The background depicts a green, rolling landscape under a sky with dramatic clouds. This scene depicts the Annunciation, where the Angel Gabriel announces to the Virgin Mary that she will conceive Jesus.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.9495/Vat.lat.9495_0200_pr_0175.jp2/175,653,328,353/full/0/default.jpg"
+}

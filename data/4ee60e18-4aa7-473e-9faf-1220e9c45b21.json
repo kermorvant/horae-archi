@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A female saint, identifiable by her halo, is depicted in a devotional pose, looking down at an open book. She wears a blue garment and a red cloak draped over her shoulders. A staff is held upright in her right hand, leaning against her shoulder. The background is a stylized landscape with rolling hills and a muted sky. The scene is likely a representation of a saint engaged in study or contemplation.",
+    "scene_interpretation": "Saint Reading",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.107/Ross.107_0356_fa_0171v.jp2/330,597,203,294/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely King David, kneeling in prayer. He wears a jeweled crown and ornate robes, with his hands clasped in supplication. To his left is a large, gilded wooden chest. To his right, a golden harp stands upright, and a grey, pointed object, possibly a discarded weapon or shield, lies on the blue tiled floor. In the background, a richly decorated blue tapestry hangs, and above it, a series of Gothic windows with tracery are visible. To the far right, a figure, possibly a prophet or an angel, is shown in an arched opening, holding a golden orb and gesturing upwards, with rays of light descending. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_073/DEPOT/M490075203_MS2003_1_073_0108/3955,986,1316,1926/full/0/default.jpg"
+}

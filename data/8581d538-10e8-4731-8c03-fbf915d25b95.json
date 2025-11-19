@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of four figures outdoors, with rolling green hills and several towers in the background. On the left, an elderly man with a long white beard, wearing a red cloak over blue garments and a red cap, leans on a staff. In the center, two women, both with halos, are shown embracing. The woman on the left wears a blue robe, and the woman on the right wears a red cloak over a golden garment and a white veil. To the right, a woman in a blue dress and red cap holds a book. The architectural elements visible are towers with red roofs, suggesting a fortified or urban setting.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0025/3738,2050,1196,748/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely a saint, stands in a landscape. He has a long grey beard and hair, and wears a dark blue monastic habit with gold trim and a red cowl. He holds a staff in his left hand and a red book in his right. At his feet, a boar's head emerges from flames, suggesting a connection to the legend of Saint Anthony Abbot. To the right, a grey stone structure with a dark arched opening and a golden emblem is visible. The background depicts stylized blue mountains and a pale sky with some clouds. The overall scene is rendered with vibrant colors and gold leaf, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "Saint Anthony Abbot",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013837f/f256/783,1463,911,971/full/0/default.jpg"
+}

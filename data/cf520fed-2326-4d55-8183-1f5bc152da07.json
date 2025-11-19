@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a sick man lying in a bed, covered by white sheets and a red blanket. To the right of the bed, a green-winged angel in a white tunic points upwards, seemingly in prayer or supplication. Above the angel, a divine figure, possibly God or a saint, is depicted in a golden halo surrounded by blue clouds and cherubic faces, wearing a papal tiara and holding a book. To the right of the bed, a green demon with horns and clawed feet lunges towards the sick man, its hand outstretched. The setting appears to be an interior space, suggested by the bed canopy and the patterned blue wall on the right. The overall scene represents the struggle for the soul of the dying man, with divine intervention represented by the angel and the heavenly figure, and temptation or damnation represented by the demon.",
+    "scene_interpretation": "The Temptation of the Dying",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Angel",
+        "Demon",
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326072/f130/139,126,1653,1555/full/0/default.jpg"
+}

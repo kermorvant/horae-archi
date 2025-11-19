@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, possibly a prophet or a king, is depicted in profile, wearing a cap and a robe. He holds an open book in his hands. The figure is framed by an architectural border featuring stylized foliage and geometric patterns, suggesting a decorative element within a manuscript. The scene is rendered in a woodcut style, with strong outlines and hatching for shading.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0063/3308,509,313,1830/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts God the Father, with a halo and a long beard, holding the cross on which Christ is crucified. Christ's body is rendered in a foreshortened perspective. Around them, several cherubic figures with wings and halos are present, some appearing to emerge from clouds or a decorative background. In the foreground, two architectural elements resembling small, ornate shrines or tabernacles are visible. The overall composition is framed by decorative borders, with a band of repeating geometric shapes at the top and a vertical band of 'X' shapes on the right.",
+    "scene_interpretation": "The Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "undefined_element"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_Jacquemart_Andre/751085428_MS0001(254)/DEPOT/751085428_MS0001(254)_0129/1345,652,1134,1236/full/0/default.jpg"
+}

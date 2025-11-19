@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a seated male figure, likely Christ, with a halo and crown, holding an open book and gesturing with his right hand. He is dressed in a red robe over a blue garment adorned with gold dots. Before him, a kneeling female figure, identified as the Virgin Mary by her crown and blue mantle, clasps her hands in prayer. Two winged figures, presumably angels, hover above and to the left, their orange wings outstretched. The background features a rich, red textile with gold foliate patterns. The figures are positioned on a raised, tiered platform, suggesting a sacred or elevated setting. Below the platform, architectural elements resembling arches are visible, hinting at a structure.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_MS022/DEPOT/773796202_MS0022_0086/4265,1127,1522,1663/full/0/default.jpg"
+}

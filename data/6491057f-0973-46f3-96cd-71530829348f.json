@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Crowning with Thorns. A central figure, presumably Christ, is seated and wearing a purple robe. Two figures, one in blue and another in orange, are shown placing a crown of thorns upon his head. A fourth figure, in yellow and blue, kneels before the seated figure. The figures are positioned on a checkered floor within a golden, illuminated background, framed by a decorative blue initial.",
+    "scene_interpretation": "Crowning with Thorns",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fx973hx3846/W188_000066_300/385,320,437,450/full/0/default.jpg"
+}

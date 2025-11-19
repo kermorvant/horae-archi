@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a banquet or feast within an opulent interior. At a long table covered with a white cloth, a man and a woman are seated, engaged in eating. The woman, dressed in blue and gold, holds a knife and bread. The man, in a golden robe and blue hat, also has food before him. To the left, a woman with long blonde hair presents a platter with a severed head, likely that of John the Baptist, to the seated figures. A group of onlookers stands behind her. The architecture features large, ornate columns with sculpted figures and elaborate capitals, supporting a richly decorated canopy above the table. A window in the background reveals a landscape. The floor is tiled with fleur-de-lis motifs. The scene is framed by a decorative border.",
+    "scene_interpretation": "Salome Presenting the Head of John the Baptist",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "canopy",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Salome",
+        "John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f519/875,1337,3096,3890/full/0/default.jpg"
+}

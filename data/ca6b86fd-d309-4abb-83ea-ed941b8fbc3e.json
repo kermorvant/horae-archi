@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within a church interior. A priest, identifiable by his halo and ornate vestments, stands before an altar, his hands clasped in prayer. On the altar are an open book, a chalice, and a crucifix housed in an elaborate niche. To the left, a choir of four young boys, dressed in white surplices with blue and red trim, stand behind a wooden choir stall, their mouths open as if singing. The architecture features pointed arches and tall windows, suggesting a Gothic style. A green canopy with gold trim hangs above the altar area. The overall impression is one of solemn devotion and liturgical practice.",
+    "scene_interpretation": "Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "window",
+        "arch",
+        "altar",
+        "canopy",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Priest",
+        "Choir boys"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/26121232/580,384,1187,1808/full/0/default.jpg"
+}

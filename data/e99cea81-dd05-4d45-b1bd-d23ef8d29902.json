@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with Saint Joseph leading a donkey on which the Virgin Mary is seated, holding the Christ Child. Saint Joseph, dressed in red and blue, wears a red cap and carries a staff. The Virgin Mary, in a blue robe and mantle, cradles the infant Jesus. They are depicted in an outdoor setting with lush green grass, trees, and a rocky outcrop. The background features a decorative, tessellated pattern. This imagery represents the Flight into Egypt, a significant event in the early life of Jesus.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458140s/f121/286,544,956,1313/full/0/default.jpg"
+}

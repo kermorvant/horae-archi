@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Luke by the presence of the ox symbol, is depicted seated and writing in an open book. He wears a green robe and a turban, and has a halo, indicating his saintly status. He holds a quill in his right hand and an inkwell in his left, actively engaged in transcription. Before him lies an open book on his lap, and to his right, a lectern holds another book. The background suggests an interior space with draped fabric and a window revealing a distant landscape with a castle. To the right of the scene, the head and forelegs of an ox are visible, a traditional symbol of Saint Luke.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022330b/f22/557,91,947,1577/full/0/default.jpg"
+}

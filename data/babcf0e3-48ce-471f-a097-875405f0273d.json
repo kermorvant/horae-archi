@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, wearing a headdress, cradles the Christ Child in her arms. Joseph, also wearing a headdress, is seated to the right, looking towards the child. Behind them, a woman, likely an attendant or midwife, leans over, possibly attending to Mary or the child. The figures are positioned within a simple architectural setting, suggested by a curved arch and striped background elements that could represent a stable or a room. The overall composition is rendered in a linear, woodcut-like style.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0020/5815,2040,579,1064/full/0/default.jpg"
+}

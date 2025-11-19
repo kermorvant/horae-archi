@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of monks in a garden or courtyard setting. One monk is kneeling and appears to be digging or tending to the earth. Several other monks stand behind him, some holding staffs or religious objects. To the right, a monk holds a processional cross. The architecture visible includes a stone wall and an arched entryway, suggesting a monastic or ecclesiastical complex. The overall impression is one of monastic labor and devotion.",
+    "scene_interpretation": "Monastic Life",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "monastery"
+    ],
+    "architectural_elements": [
+        "wall",
+        "arch",
+        "cross"
+    ],
+    "persons": [
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/pb462wj5265%2FW190_000043_1200/1007,515,2917,4418/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, identified as Saint Mark by his halo and the presence of his symbol, the winged lion, seated and writing on a scroll. He is dressed in dark robes and appears to be in deep concentration. The winged lion, also with a halo, sits beside him, looking towards the scroll. The figures are positioned within an architectural setting that includes an arched recess behind them, decorated with a starry pattern. To the left, a patterned wall or tapestry is visible, and to the right, a column supports the arch. The overall composition is framed by decorative borders, typical of illuminated manuscripts.",
+    "scene_interpretation": "Saint Mark Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100386783/f37/2475,204,1181,1430/full/0/default.jpg"
+}

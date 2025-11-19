@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A group of men are depicted in what appears to be an interior setting, possibly a hall or chamber. In the foreground, a kneeling figure with wavy hair presents a scroll to a seated figure wearing a crown and ornate robes. The seated figure, with a long beard, points to the scroll. Behind them, two other men, also bearded and wearing hats, are visible, one pointing forward. The architectural elements suggest a formal space, with decorative framing and what might be columns or pilasters in the background. The scene likely depicts a moment of presentation or decree, possibly related to a royal or religious authority.",
+    "scene_interpretation": "Royal Audience",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0051/5904,494,614,1153/full/0/default.jpg"
+}

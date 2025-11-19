@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a female saint, identified by her halo and crown, standing within an arched architectural setting. She is dressed in a blue undergarment and a red mantle lined with ermine. In her left hand, she holds a palm frond, a symbol of martyrdom. Her right hand rests on a sword, which is positioned next to a Catherine wheel, her attribute. The background shows brick walls with barred windows, and the floor is tiled in a green and white checkered pattern. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550085652/f301/450,99,1284,1574/full/0/default.jpg"
+}

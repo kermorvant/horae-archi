@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an arched architectural setting, possibly a room or a chamber. In the foreground, a figure in a pink robe, identified as Christ, stands with raised hands, facing a woman in a blue hooded mantle. Behind Christ, three other figures with halos are visible, one in a red robe and two in darker garments. Above them, a white dove, representing the Holy Spirit, descends from a golden sky, with rays of light emanating downwards. The background features draped red and green textiles, suggesting a rich interior. The overall composition suggests a significant religious event, likely the Annunciation or a related theological moment.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Borgh.183/Borgh.183_0077_fa_0037r.jp2/279,279,744,979/full/0/default.jpg"
+}

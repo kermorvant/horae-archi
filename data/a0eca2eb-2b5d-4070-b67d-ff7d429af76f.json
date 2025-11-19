@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted in a blue mantle and headdress, sits with her hands clasped in prayer. She gazes down at the Christ Child, who is swaddled in a red cloth and held in her arms. The Christ Child has a halo, as does the Virgin Mary, who also wears a crown. The background is a textured gold leaf, suggesting a divine or heavenly setting, with a green ground beneath the figures. The scene is framed by a border of pink and white.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Caen/Musee_des_Beaux_Arts/141185204_coll_mancel_ms0241/DEPOT/141185204_coll_mancel_ms0241_0120/3594,1260,1075,1116/full/0/default.jpg"
+}

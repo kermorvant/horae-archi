@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A young person with dark, curly hair is depicted with their hands clasped in prayer, looking upwards with a pained or supplicating expression. They wear a white undergarment, a yellow tunic with red trim, and blue sleeves. The figure is framed by ornate, gilded architectural elements on the left and right, suggesting an interior space. Through an opening, a landscape with trees and a blue sky is visible, with a pale, grand building in the background. The overall impression is one of devotion or lament.",
+    "scene_interpretation": "Supplication",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_284/317,1725,715,489/full/0/default.jpg"
+}

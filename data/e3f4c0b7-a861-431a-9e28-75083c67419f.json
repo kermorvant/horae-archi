@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and wearing a blue robe, holds the Christ Child on her lap. To her left, a stable-like structure with a thatched roof and brick walls is visible. A star shines brightly above. Three Magi are present: one, dressed in blue and wearing a yellow crown, points towards the star and holds a golden vessel. Another, kneeling and clad in a pink robe, offers a gift. The third, a crowned figure in a blue robe adorned with floral motifs, holds a golden orb. The background features rolling green hills and a starry blue sky. The scene is set outdoors, with elements of a humble dwelling.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_003%2Fwidener_003_jp2.zip%2Fwidener_003_jp2%2Fwidener_003_0126.jp2/280,919,1467,1727/full/0/default.jpg"
+}

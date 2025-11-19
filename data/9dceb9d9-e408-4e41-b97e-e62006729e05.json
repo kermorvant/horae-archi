@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed woman, likely a saint, stands in a landscape, holding a cylindrical vessel adorned with wavy lines. She wears a long, flowing salmon-colored robe and a white sash. Her hair is braided and falls over her shoulder. The background depicts rolling hills, scattered trees, and a winding path leading towards distant buildings. To the right, rocky formations are visible, with what appear to be small, cave-like structures or rudimentary dwellings carved into them. The overall scene suggests a devotional or hagiographic context, possibly depicting a saint in a natural setting, perhaps associated with a specific miracle or aspect of her life.",
+    "scene_interpretation": "Saint holding a vessel",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.487/Barb.lat.487_0216_fa_0104v.jp2/591,780,337,435/full/0/default.jpg"
+}

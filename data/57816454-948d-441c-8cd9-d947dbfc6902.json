@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a devotional moment within what appears to be a chapel or sacred space. Two figures, one in a red monastic habit and the other in a blue cope and mitre, kneel in prayer. The figure in the cope is positioned closer to a raised altar-like structure. Above this structure stands a representation of Christ, naked and showing wounds, with his arms outstretched. On the altar, an open book rests next to a chalice. The background features a red wall with a decorative pattern and a golden cross on a stand. The floor is tiled in a green and white checkered pattern. The overall impression is one of reverence and contemplation of Christ's sacrifice.",
+    "scene_interpretation": "The scene likely represents a vision or devotional experience of the Mass, specifically focusing on the sacrifice of Christ. The presence of the altar, chalice, and open book points to the Eucharist. The kneeling figures, particularly the bishop (indicated by the mitre), are shown in adoration of the crucified Christ, possibly experiencing a vision of the Passion or the Real Presence.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "altar",
+        "book",
+        "chalice",
+        "wall",
+        "cross",
+        "roof"
+    ],
+    "persons": [
+        "Christ",
+        "Bishop",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/2295855/432,310,715,902/full/0/default.jpg"
+}

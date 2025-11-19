@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and seated, holding the Christ Child on her lap. The Christ Child is reaching for a small red object held by Mary. Two winged angels flank the central figures: one on the left plays a lute, and the other on the right plays a harp. They are positioned in a verdant, grassy setting with small flowers. Above them, in a celestial realm depicted with blue waves and golden rays, is a representation of God the Father, holding a globe and making a gesture of blessing. The entire scene is framed by an ornate border with decorative elements and Greek letters.",
+    "scene_interpretation": "Madonna and Child with Angels and God the Father",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel",
+        "Angel",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509634r/f302/1073,249,1852,2527/full/0/default.jpg"
+}

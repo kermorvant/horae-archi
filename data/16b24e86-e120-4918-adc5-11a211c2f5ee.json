@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, wearing a pink robe and a crown of thorns, carrying a large wooden cross. He is surrounded by three figures. To his left, a man in armor and blue tunic, with a gold gorget, appears to be assisting or pushing him. To his right, a figure in a blue robe and red cloak also helps carry the cross. Behind Christ, a man in a dark tunic and blue hat raises his fist, seemingly in aggression or mockery. The setting is an outdoor landscape with rolling green hills, a few trees, and a distant blue sky with mountains. The overall impression is one of suffering and persecution.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Reg.lat.165/Reg.lat.165_0161_fa_0079r.jp2/223,318,519,731/full/0/default.jpg"
+}

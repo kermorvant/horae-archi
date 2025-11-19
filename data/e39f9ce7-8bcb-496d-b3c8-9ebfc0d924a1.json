@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A young man with clasped hands and a solemn expression stands to the left, facing a bishop who is adorned in a mitre and cope, holding a crozier. The bishop raises his right hand, seemingly in blessing or instruction. The background on the left depicts a grey wall with vertical lines suggesting wooden panels or pilasters, and a red rectangular motif. The background on the right is a blue curtain with vertical gold lines. The scene appears to be an interior setting, possibly a room or a chapel.",
+    "scene_interpretation": "The scene likely depicts a bishop offering spiritual guidance or a blessing to a supplicant. This could represent a moment of confession, absolution, or a pastoral encounter, common themes in devotional literature and art.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Bishop",
+        "Young man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100223238/f97/822,2141,873,944/full/0/default.jpg"
+}

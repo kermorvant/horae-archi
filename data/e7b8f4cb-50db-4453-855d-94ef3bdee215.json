@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ seated on a throne, draped in a blue robe with intricate gold patterns. His right hand is raised, holding a small object, possibly a wafer, while his left hand rests on his knee. He is surrounded by a golden, scalloped canopy. To his left and right, partially visible figures with beards and halos are present, suggesting they are apostles or saints. The background features a bright blue sky with stylized white clouds, and below Christ, a golden ground with a blue, wavy representation of water or a sea. The entire scene is framed by architectural elements that suggest a divine or heavenly setting.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f214/1171,1760,809,2396/full/0/default.jpg"
+}

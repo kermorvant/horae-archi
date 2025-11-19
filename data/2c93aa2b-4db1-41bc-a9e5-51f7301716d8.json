@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in the foreground, with one figure lying on the ground, seemingly injured or deceased, wrapped in white cloth with red markings. Behind this figure, three individuals stand looking towards a crowned figure seated on a horse or similar animal. The crowned figure is looking away from the viewer, towards a distant, stylized city with towers and spires, set against a blue sky dotted with golden stars. The overall setting appears to be outdoors, with a landscape suggested by green mounds in the foreground.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Château-Gontier/Bibliotheque_municipale/B530626201_MS0014/DEPOT/B530626201_MS0014_0084/1691,1672,1033,1297/full/0/default.jpg"
+}

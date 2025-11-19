@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. In the foreground, a person rides a donkey, holding a candle. To their right, another figure, possibly a monk due to their habit, gestures with open hands. Behind them, several other individuals are visible, some looking towards the central action. Above, a figure in a halo holds a chalice and a cross, suggesting a religious context. The architecture appears to be a simple, arched structure, possibly a gateway or a niche, with decorative elements at the top. The overall impression is one of a religious procession or a scene from a biblical narrative.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0015/745,1686,620,857/full/0/default.jpg"
+}

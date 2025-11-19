@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, adorned in a blue robe with gold embellishments and a halo, seated in a garden. She gestures towards a group of three figures: a child in a purple tunic, held by two winged beings who appear to be angels. One angel has purple wings, while the other has large, red wings. In the foreground, two more winged figures, both with red wings, are tending to strawberry plants. One is kneeling and gathering strawberries, while the other points towards a strawberry plant. A banner with Latin text, \"Ave Maria gratia plena Dominus tecum,\" floats between the Virgin Mary and the foreground angels. The background features a green hedge with red and white roses, and a blue sky with scattered yellow dots.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326072/f109/170,204,1618,2239/full/0/default.jpg"
+}

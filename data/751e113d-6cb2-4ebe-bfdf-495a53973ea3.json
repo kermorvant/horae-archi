@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a single male figure, likely a king or noble, shown in profile. He has a beard and is wearing a crown or elaborate headdress. His attire includes a tunic with decorative elements around the neck and sleeves, and a belt with a circular buckle. He is holding an object, possibly a scepter or a quill, to his mouth, suggesting contemplation or prayer. The background is filled with a textured pattern, possibly representing foliage or decorative elements, and framed by architectural elements that suggest an interior setting. The figure's posture and gesture evoke a sense of piety or deep thought, common in devotional imagery.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0063/1617,3991,476,689/full/0/default.jpg"
+}

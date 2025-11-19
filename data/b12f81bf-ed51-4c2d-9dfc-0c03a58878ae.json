@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in blue, meeting Elizabeth, who is pregnant and dressed in gold and red. They are accompanied by Saint Joseph, holding a staff, and another woman, possibly Saint Anne, also pregnant. The figures are set in a lush green landscape with trees and a winding path. In the background, a castle with towers and spires is visible, and above, a divine light emanates from a celestial vision of God the Father, with rays of light descending. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025446v/f73/492,148,1107,1563/full/0/default.jpg"
+}

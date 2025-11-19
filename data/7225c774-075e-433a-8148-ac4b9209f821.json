@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bearded male figure, likely a saint, dressed in a dark monastic habit with a golden trim. He has a halo and is holding an open book, upon which he appears to be writing with a quill. A staff is held in his other hand, resting on the ground. To his right, a small, tan pig is depicted. The background features a blue sky with some clouds, and a landscape with trees and a body of water. The entire scene is framed by a decorative golden border.",
+    "scene_interpretation": "Saint Anthony Abbot",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lcp_ms024%2Flcp_ms024_jp2.zip%2Flcp_ms024_jp2%2Flcp_ms024_0304.jp2/1964,6868,2880,3002/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "An angel descends from a starry blue sky, radiating golden light, holding a scroll with the inscription \"Gloria in excelsis Deo et terra pax hominibus bonae voluntatis.\" Below, a woman in a pink gown kneels with her hands clasped to her chest, looking upwards. Beside her, a shepherd in a blue tunic and black hose stands holding a staff, with a dog at his feet. A flock of sheep is gathered behind the woman. The background depicts a rocky landscape with trees and distant buildings, including what appears to be a windmill and a fortified structure.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/24625846/25081997.tif/310,85,752,1127/full/0/default.jpg"
+}

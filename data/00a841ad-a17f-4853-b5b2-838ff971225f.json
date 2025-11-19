@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a solitary, emaciated figure, likely Christ, seated with hands clasped in prayer and a halo of golden rays. He is surrounded by three dark, demonic figures, two of whom are actively tormenting him with sticks. The setting is a barren landscape with dry, golden stalks and a blue sky. This imagery represents the Temptation of Christ in the wilderness, a period of spiritual trial and suffering before his public ministry.",
+    "scene_interpretation": "Temptation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/26121395/1790,784,773,668/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a woman, partially submerged in a large circular basin, possibly a bath. She is attended by another woman who holds a plate with round objects and a jug. Behind the bather, several figures with distinct headwear are visible, suggesting an audience or attendants. Above the scene, an arched architectural element frames the composition, with foliage and a decorative column visible. The overall impression is one of a domestic or private ritual, possibly related to bathing or preparation.",
+    "scene_interpretation": "Bath of Bathsheba",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0064/894,2056,444,740/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael, clad in golden armor and red wings, in the act of slaying a dragon. He holds a sword aloft in his right hand and a blue shield emblazoned with a lion's head in his left. The dragon, depicted as a brown, reptilian creature, lies beneath Saint Michael's feet, its mouth open in a snarl. The background features a stylized landscape with rolling hills and trees, rendered in blues and greens. The overall composition suggests a divine battle against evil.",
+    "scene_interpretation": "Saint Michael Slaying the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_020/DEPOT/890245409_n_020_0026/1395,610,865,1285/full/0/default.jpg"
+}

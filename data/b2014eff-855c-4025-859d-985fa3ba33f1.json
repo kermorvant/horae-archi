@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered together, with a central figure seated and others around her, all looking upwards. Above them, a dove descends from a radiant light, symbolizing the Holy Spirit. The figures are enclosed within an architectural structure that features arches and windows, suggesting an interior setting. The overall composition evokes a moment of divine inspiration and communal prayer, likely representing the Pentecost.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "column",
+        "capital",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f398/757,7,1157,1615/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A bearded man wearing a blue cloak over a pink robe and a blue hat, holding a large key and a pouch, stands next to a younger figure in a brown tunic. The man gestures towards an open wooden door, which leads to a building with crenellated walls and multiple pointed roofs, some topped with spires. The background is a red tapestry with gold patterns. The scene appears to depict a figure of authority granting access or entering a fortified structure.",
+    "scene_interpretation": "This scene likely represents a biblical or historical event where a figure of authority, possibly a king or a patriarch, is entering or granting entry to a significant location, symbolized by the fortified building and the key. Without further context, a specific interpretation is difficult, but it evokes themes of stewardship, power, or divine access.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "door",
+        "roof",
+        "spire",
+        "battlement",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f147/1884,915,985,1618/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A figure with a halo, dressed in a rose-colored robe, sits on a green mound. The figure holds a scroll and raises one hand, with rays of light emanating from above. To the right, a black, winged creature, possibly a dragon or griffin, hovers. In the background, a body of water with boats is visible, and to the left, a multi-tiered stone structure resembling a castle or fortress stands on a hill. The scene is set in a landscape with trees and a blue sky.",
+    "scene_interpretation": "Saint John the Evangelist with his symbol, the eagle (or dragon).",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/mv404mn8568%2FW434_000099_1200/264,3185,1407,1523/full/0/default.jpg"
+}

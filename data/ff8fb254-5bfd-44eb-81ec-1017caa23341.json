@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "Three tonsured monks in white habits and cloaks stand behind a draped sarcophagus, with one holding an open book. To the right, two figures in dark, hooded habits are seated, facing away from the viewer. The scene takes place indoors, within a room that features arched windows with tracery and a decorative wall hanging. The sarcophagus is covered with a light blue cloth adorned with gold ornamentation, suggesting a burial or memorial context. The presence of monks and the sarcophagus points to a religious ceremony or commemoration, possibly a funeral or a requiem mass.",
+    "scene_interpretation": "Funeral Rites",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Monk",
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/qx197gr5341%2FW180_000247_1200/3622,2838,1647,2722/full/0/default.jpg"
+}

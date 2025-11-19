@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a throne, holding the Christ Child. The Virgin Mary is adorned with a veil and a richly patterned robe. The Christ Child is also holding a small orb. Two figures, possibly angels or attendants, stand on either side of the throne. The left figure is dressed in white and holds an apple. The right figure is also robed and has hands clasped in prayer or reverence. The figures are framed by an architectural canopy with decorative elements and drapery. The overall setting suggests a sacred or royal space.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034543v/f27/915,296,890,1429/full/0/default.jpg"
+}

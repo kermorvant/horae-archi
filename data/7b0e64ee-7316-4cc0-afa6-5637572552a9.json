@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left, dressed in an orange robe, gesturing towards the Virgin Mary on the right. Mary, in a blue mantle and dark dress, is shown with her hands clasped in prayer, looking downwards. Above them, the Holy Spirit is represented as a white dove descending with rays of light. In the background, a group of figures, possibly prophets or apostles, are visible behind a balustrade. The setting appears to be an interior space, suggested by the architectural elements and drapery.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46241509.tif/486,414,1659,2447/full/0/default.jpg"
+}

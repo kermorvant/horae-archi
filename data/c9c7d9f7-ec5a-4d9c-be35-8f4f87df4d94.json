@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael the Archangel in combat with a dragon. He is shown with large, golden wings, wearing a purple tunic adorned with gold patterns and dark leggings. In his right hand, he wields a sword raised to strike, while his left hand holds a shield bearing a red cross within a circle. The dragon, depicted in shades of brown and grey, has its mouth open, with a red tongue visible, and appears to be recoiling from the attack. The background is a landscape with rolling green hills and scattered trees, under a blue sky dotted with gold stars. The overall composition suggests a divine battle against evil.",
+    "scene_interpretation": "Saint Michael and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0210/1456,568,936,1445/full/0/default.jpg"
+}

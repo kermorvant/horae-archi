@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A figure, likely a saint or a biblical character, is depicted with a golden halo, suggesting sanctity. The figure is shown in profile, with eyes downcast, engaged in writing or reading from an open book placed before them. They wear a richly patterned garment in red and gold, overlaid with a blue mantle. The background is divided, with a serene blue expanse suggesting water and distant hills on the left, and dark, imposing architectural forms on the right, possibly representing a building or rock formations. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Saint Writing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10644154/354,180,1614,2203/full/0/default.jpg"
+}

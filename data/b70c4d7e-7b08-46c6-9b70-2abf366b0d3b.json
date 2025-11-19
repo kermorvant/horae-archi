@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered indoors, with one man standing and addressing the others who are seated or kneeling. The standing man, dressed in a golden robe with blue sleeves and a distinctive turban-like headdress, gestures with his hands. The seated figures are also richly attired in various colored robes and headdresses. Behind them, an open doorway reveals a landscape with trees and buildings, suggesting a connection between the interior and exterior. The interior space is defined by walls adorned with circular motifs and vertical lines, and a large, ornate chair is visible on the left. The overall impression is one of a formal gathering or a teaching session.",
+    "scene_interpretation": "This scene likely depicts a biblical or historical narrative, possibly a sermon or a council. The presence of multiple figures in rich attire, with one central speaker, suggests a moment of instruction or deliberation. Without specific iconographic clues, it is difficult to pinpoint an exact event, but it evokes themes of leadership, wisdom, and community.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f655/733,4388,3156,1528/full/0/default.jpg"
+}

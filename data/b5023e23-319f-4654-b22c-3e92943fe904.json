@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A male figure, depicted as a warrior saint, stands in a landscape. He wears a blue tunic adorned with golden symbols, golden armor on his legs and arms, and a red cap. He holds a blue shield with similar golden symbols and a long staff. In the background, a stylized castle or fortress is visible on a hill, surrounded by trees and rolling green terrain. The overall scene suggests a devotional image of a saintly warrior.",
+    "scene_interpretation": "Saint George",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0019.jp2/1753,1934,1389,1512/full/0/default.jpg"
+}

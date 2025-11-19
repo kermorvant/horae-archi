@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A man with a red headband, wearing a pink tunic over blue leggings and dark shoes, stands in a landscape. He holds a small object in his right hand and looks towards the viewer. To his left, a large crayfish is depicted. The scene is framed by an ornate, gilded architectural archway with decorative elements and inscriptions. The background features a rocky outcrop and distant blue mountains under a pale sky with birds. The inscription above the arch reads 'IESVIS LESIGNE'. This imagery likely represents a zodiacal sign or a symbolic representation related to the month of June, often associated with the constellation Cancer (the crab/crayfish) and possibly a figure associated with that period.",
+    "scene_interpretation": "Zodiacal Sign: Cancer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_012/1172,212,418,849/full/0/default.jpg"
+}

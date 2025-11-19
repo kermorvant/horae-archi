@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with two figures. In the foreground, a seated man in a blue tunic and red cloak holds a spindle and wool, while a standing man in a dark blue tunic and conical hat, holding a staff, gestures upwards. Sheep graze in the background, and a basket filled with fish is visible. Above them, a bust of a figure, possibly Christ or God, is depicted within a golden halo, with a banner inscribed with Latin text: \"Ouer natus est nobis et filius\". In the distance, a fortified castle with towers and walls is situated on a hill. The overall scene suggests a devotional context related to the Nativity, with the inscription referencing the birth of Christ.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Blois/Bibliotheque_municipale/410186201_MS0005/DEPOT/410186201_MS0005_0097/1437,490,1405,2157/full/0/default.jpg"
+}

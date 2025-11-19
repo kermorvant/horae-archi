@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure in papal regalia, including a tiara and a red cope, is seated on a wooden chair, with hands clasped in prayer. A dove descends from above, symbolizing the Holy Spirit. Before the figure is an octagonal table with an open book on a lectern, two smaller books, and writing implements. To the right, a scribe in a blue robe and pink scarf sits on a wooden bench, diligently writing on a scroll. The scene is set within an interior space, suggested by a blue curtain behind the seated figure and a window with wooden shutters on the right wall. The overall atmosphere suggests a moment of divine inspiration or contemplation for the religious figure.",
+    "scene_interpretation": "Divine Inspiration",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Pope"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b520004510/f207/989,1200,1086,1278/full/0/default.jpg"
+}

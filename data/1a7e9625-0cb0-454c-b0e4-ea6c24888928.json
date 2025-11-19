@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A woman, dressed in a long gown and a headdress, is seated and writing on a lectern. The lectern is supported by a cylindrical base. The woman holds a quill in her right hand and appears to be transcribing text from a book. To the right, the head of a bull is visible, its horns curved. The background suggests an interior setting with a patterned wall or tapestry.",
+    "scene_interpretation": "This scene likely depicts a scribe at work, possibly illustrating the act of writing or copying religious texts, a common activity in medieval scriptoria. The presence of the bull, one of the symbols of the Evangelists, might allude to the Gospel of Luke, or more broadly, to the sacred nature of the text being written.",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Scribe"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032288x/f18/2177,436,685,726/full/0/default.jpg"
+}

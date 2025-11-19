@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic battle with numerous soldiers in armor engaged in combat. In the foreground, a wounded soldier in ornate golden armor looks upwards with a pained expression, blood on his face and chest. To his right, a younger figure in a red tunic and white leggings wields a sword. In the background, a city with tall spires and towers is visible, surrounded by tents and more soldiers. The ground is littered with fallen soldiers and weapons. The overall impression is one of intense conflict and violence.",
+    "scene_interpretation": "Battle",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024822d/f147/237,269,1691,2743/full/0/default.jpg"
+}

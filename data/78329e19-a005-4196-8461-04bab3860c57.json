@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, likely King David, kneeling with his hands raised in prayer. He is dressed in a red robe over a blue tunic, with a white ermine-lined cloak. He is positioned in a rocky, outdoor landscape with a tree and foliage. In the upper left, a haloed figure, possibly God or an angel, is shown with hands outstretched towards a group of orange, flame-like forms within a blue and gold circular motif. The background is a decorative grid of blue, red, and gold squares. A harp is visible leaning against a rock in the foreground.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0009/DEPOT/M441095203_MS0009_0084/3806,905,1455,1564/full/0/default.jpg"
+}

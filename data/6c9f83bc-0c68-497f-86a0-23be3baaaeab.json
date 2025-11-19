@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting. On the left, a woman, likely the Virgin Mary, is seated and reading from an open book, her hands clasped in prayer. She wears a veil and a draped garment. To her right stands a man, identifiable as Christ, with a beard and long hair, also with a halo. He gestures with his hands, seemingly in discourse with the woman. Behind them, a large window with diamond-shaped panes is visible. The architectural elements suggest an interior space, possibly a room within a house or a chapel, with an arched structure overhead. In the background, to the right, a stylized representation of buildings with towers can be seen, hinting at a city or settlement.",
+    "scene_interpretation": "Christ and His Mother",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0030/4675,3814,895,669/full/0/default.jpg"
+}

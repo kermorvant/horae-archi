@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the central cross, his body showing wounds and blood. To his left and right are two thieves, also crucified, with their eyes closed. Below the cross, on the left, sits the Virgin Mary, draped in a blue mantle, with her head bowed in sorrow. To the right, a figure in a red robe, likely Saint John the Evangelist, kneels with hands clasped in prayer. The setting is a rocky, mountainous landscape under a blue sky with a sun and moon, suggesting a cosmic event. The overall scene is one of profound grief and religious significance.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_005%2Fwidener_005_jp2.zip%2Fwidener_005_jp2%2Fwidener_005_0251.jp2/3017,1379,2296,2758/full/0/default.jpg"
+}

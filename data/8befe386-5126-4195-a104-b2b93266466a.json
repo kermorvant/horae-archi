@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures, including at least two women and several men, gathered under an arched architectural structure. The central figures are a woman in the foreground, facing left, and a child to her left, also facing left. Both are dressed in medieval attire. Behind them, other figures are visible, some wearing hats. The architectural element above them appears to be a decorative arch with intricate detailing, possibly suggesting a canopy or a stylized representation of a building's interior.",
+    "scene_interpretation": "The scene's interpretation is uncertain due to the limited detail and lack of clear iconography. However, the grouping of figures, particularly the woman and child, could suggest a devotional scene, perhaps related to the Virgin Mary and Christ Child, or a scene of prayer or supplication. The presence of multiple figures might also indicate a narrative scene from the Bible or a saint's life.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0021/982,3615,440,666/full/0/default.jpg"
+}

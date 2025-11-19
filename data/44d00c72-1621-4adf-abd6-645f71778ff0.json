@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, stands draped in a flowing pink robe. She holds a golden vessel, possibly an ointment jar, in her left hand. Her gaze is downcast, and her expression is serene. Behind her, a dark, patterned tapestry serves as a backdrop. To her right, a stylized, organic form, perhaps a rock or a tree trunk, rises vertically. To her left, a blue, rounded form rests on a patch of green ground with gold accents, suggesting foliage. The scene is framed by decorative borders.",
+    "scene_interpretation": "The presence of the ointment jar strongly suggests this is a depiction of one of the Myrrh-bearing Women at the tomb of Christ, or Mary Magdalene, who came to anoint Jesus' body after his crucifixion. The halo indicates her saintly status.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Myrrh-bearing Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550094367/f280/339,260,916,1344/full/0/default.jpg"
+}

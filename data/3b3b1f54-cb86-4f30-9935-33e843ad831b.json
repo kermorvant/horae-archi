@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Jesus Christ, identifiable by his halo and gesture, interacting with a group of people. In the foreground, a man, possibly blind or infirm, is being attended to. He is partially undressed, draped in a white cloth, and looking upwards. Behind him, a figure in a red robe and a green hat kneels, also looking at the central figure. Jesus, in a grey robe, points towards the infirm man, while a crowd of onlookers, including women with veiled heads and men with halos, observe the event. The background features a loggia with classical columns and arches, through which a cityscape with buildings and hills is visible. The overall setting suggests a public or semi-public space within an architectural context.",
+    "scene_interpretation": "Healing of the Blind Man",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Jesus Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A7F0C4994-C579-11E7-8646-155E6EE4309A%3ADS.119/2764,210,1347,2165/full/0/default.jpg"
+}

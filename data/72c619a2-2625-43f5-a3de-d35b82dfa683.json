@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A crowned figure, likely God the Father, is seated on clouds, holding a scepter. He is depicted with a long beard and ornate robes. Above and behind him, an angel with wings extends a hand towards him, possibly in a gesture of reverence or communication. To the left, another figure, possibly a prophet or saint, is shown with hands clasped in prayer or supplication. The scene is set against a background of horizontal lines suggesting a sky or celestial realm, with stylized clouds.",
+    "scene_interpretation": "The scene depicts a divine vision or a moment of divine communication, possibly representing God the Father in majesty, receiving a message or being venerated by celestial beings and a supplicant. The presence of the crowned figure and the angel suggests a heavenly or divine context.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0102/980,1581,423,993/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, identifiable by her halo and central placement, with her arms outstretched to embrace a group of children. The children, depicted in various poses of devotion and seeking refuge, are gathered around her. The background is a dark, patterned textile, suggesting an indoor setting or a symbolic representation of a sacred space. The overall composition emphasizes protection and maternal care.",
+    "scene_interpretation": "Virgin of Mercy",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f490/885,610,916,1052/full/0/default.jpg"
+}

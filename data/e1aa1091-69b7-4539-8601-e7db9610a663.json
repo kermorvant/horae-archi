@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed man, identified as Saint Luke by the presence of his symbolic ox, is depicted writing in a manuscript. He wears a pink robe and a distinctive red, white, and blue hat. He is seated at a desk, with an inkwell and quill in hand, diligently working on a scroll. Behind him, the ox's head is visible, looking towards the viewer. To the left, a shelf holds two books. To the right, a window with diamond-shaped panes looks out onto a green, patterned surface. A blue book with a yellow spine rests on the desk in the foreground.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0031/bge-lat0031_0016v.jp2/2096,3481,1635,1913/full/0/default.jpg"
+}

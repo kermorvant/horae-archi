@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a brutal act of violence in an outdoor setting. Two armored soldiers are shown. One soldier, on the left, is in the process of swinging a curved sword, while a woman in a blue gown and white veil attempts to intervene by grabbing his arm. This soldier is holding a naked infant by its arm, with blood visible on the child. To the right, another armored soldier stands holding a spear, from which a second naked infant is suspended by its leg, also showing signs of injury and blood. The background features rolling hills, a sparse tree, and a blue sky with some stylized clouds and stars. The overall impression is one of horror and desperation.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Infant",
+        "Infant",
+        "Soldier",
+        "Soldier",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F313_B.11.32_f165r.jp2/759,639,1857,2430/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A king, adorned with a crown and a long beard, sits on a throne, holding a scepter. He is surrounded by a crowd of people, some seated and others standing, all looking towards him. The architectural setting appears to be an interior space, possibly a hall or court, with a patterned background suggesting a wall or tapestry. The scene depicts a formal gathering, likely a royal audience or a significant event involving the king and his subjects.",
+    "scene_interpretation": "Royal Audience",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0061/3548,3278,1267,633/full/0/default.jpg"
+}

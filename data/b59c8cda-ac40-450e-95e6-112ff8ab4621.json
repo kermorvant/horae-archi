@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a royal audience within an interior space. On the left, a woman in a blue gown and a man in a golden tunic kneel before a seated king. The king, adorned in a golden robe and an elaborate crown, gestures towards the kneeling figures. Behind the king, a group of men stand, some with beards and wearing hats. The background features a dark wall with decorative arches and a frieze with inscribed text. The floor is tiled. The scene likely represents a moment of supplication or judgment, possibly from a biblical narrative or a historical event, where individuals are seeking favor or are being presented before a ruler.",
+    "scene_interpretation": "Royal Audience",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f668/954,4236,3181,1565/full/0/default.jpg"
+}

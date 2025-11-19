@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable. The Virgin Mary, with hands clasped in prayer and a golden halo, kneels before the Christ Child, who lies in a radiant manger. An angel with a conical hat hovers over the child, while another angel with red wings reclines nearby. To the right, an elderly man, likely Saint Joseph, holds a cap in his raised hand and leans on a staff, looking towards the scene. Behind them, a donkey and a red ox are visible. In the background, rolling hills lead to a walled city with towers and spires. Above, a divine figure, possibly God the Father, is depicted surrounded by seraphim.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10532604q/f29/415,147,933,1421/full/0/default.jpg"
+}

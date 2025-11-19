@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Adam and Eve in the Garden of Eden, surrounded by lush green foliage and trees. Adam, on the left, and Eve, on the right, are shown from the chest up, both nude. They are positioned amidst dense bushes, with their hands touching. In the background, tall, slender trees stand against a pale blue sky with distant, hazy mountains. The overall setting is a natural, verdant landscape.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f14/493,1853,1345,829/full/0/default.jpg"
+}

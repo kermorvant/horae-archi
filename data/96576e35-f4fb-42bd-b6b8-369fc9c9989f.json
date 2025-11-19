@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of women, all wearing crowns, gathered in what appears to be an interior space. On the left, three women are grouped together, with the central figure in a deep red gown holding a dark object. To the right, two women in blue and yellow gowns are interacting, with the woman in blue extending her hands. Behind them, a richly patterned tapestry or wall hanging serves as a backdrop. The overall impression is one of a courtly gathering or a scene of importance among royal or noble women.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_5%2F1945_65_5_jp2.zip%2F1945_65_5_jp2%2F1945_65_5_0561.jp2/3423,2316,981,992/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Catherine of Alexandria, identifiable by her crown and the palm frond, a symbol of martyrdom, held in her right hand. She is shown in profile, looking downwards, holding an open book. Her elaborate blue robe, adorned with gold patterns, drapes over a red undergarment. At her feet lies a severed head wearing a crown, representing her victory over paganism and her triumph over earthly power. In the background, a group of figures are gathered around a breaking wheel, the instrument of her torture, and in the distance, a fortified city or castle is visible on a hill. The overall composition suggests a narrative of martyrdom and divine victory.",
+    "scene_interpretation": "Martyrdom of Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "fortress"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f188/794,286,675,1157/full/0/default.jpg"
+}

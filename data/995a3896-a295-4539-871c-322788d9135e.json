@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a table, with one central figure holding a child. The figures are rendered in a stylized, linear fashion typical of woodcuts or early engravings. The central figure, likely the Virgin Mary, cradles the Christ Child. Other figures, possibly disciples or mourners, are shown with expressions of sorrow or contemplation, some with hands clasped in prayer. The setting appears to be indoors, suggested by the presence of a table and the implied enclosure of the space, though no specific architectural elements are clearly defined. The overall composition conveys a sense of solemnity and religious devotion.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0068/4903,3678,311,621/full/0/default.jpg"
+}

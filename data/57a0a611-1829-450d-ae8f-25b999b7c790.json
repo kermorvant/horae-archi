@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, framed by an ornate archway. In the foreground, the Virgin Mary cradles the body of Christ, who is depicted as pale and lifeless, with wounds visible. She is surrounded by three other grieving women, two of whom wear golden hoods and appear to be weeping. The background shows a landscape with rolling hills, trees, and a body of water, under a blue sky with scattered clouds. A dark wooden cross stands prominently behind the figures, symbolizing the crucifixion.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f92/1543,1413,900,2578/full/0/default.jpg"
+}

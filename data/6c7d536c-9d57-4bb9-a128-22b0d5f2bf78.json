@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity with the Virgin Mary. God the Father, crowned and bearded, sits on the left, holding a blue orb and a book. The Holy Spirit is represented as a white dove flying between God the Father and Christ. Christ, also bearded, sits to the right of God the Father, holding a book and gesturing with his right hand. An angel with blue wings stands behind them, holding a crown above the Virgin Mary, who kneels in prayer on the right, clad in a blue robe. The figures are set against a gold background, with red, winged figures and blue clouds at the top and bottom edges, suggesting a celestial or divine setting. A light blue, stepped platform is visible beneath God the Father and Christ.",
+    "scene_interpretation": "The Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_097%2Flewis_e_097_jp2.zip%2Flewis_e_097_jp2%2Flewis_e_097_0119.jp2/2399,931,2556,3067/full/0/default.jpg"
+}

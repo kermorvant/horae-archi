@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, bleeding from his wounds. To the left, the Virgin Mary, clad in a blue mantle, stands with hands clasped in prayer, accompanied by another female figure. To the right, a group of soldiers are present, one holding a banner with an eagle emblem, and another offering a sponge on a reed. In the background, a city with towers and buildings is visible, set against a hilly landscape under a sky with a sunburst and a crescent moon. The entire scene is framed by an arched architectural element with decorative motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025450k/f51/287,183,1151,1608/full/0/default.jpg"
+}

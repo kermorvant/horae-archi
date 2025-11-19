@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "An older woman, identified as Saint Anne by her halo and traditional depiction, wearing a white veil and a magenta cloak over a blue garment, is seated and holding an open book. She is looking down at the book, which is adorned with gold lettering. Beside her, a younger woman, identified as the Virgin Mary by her halo and blue attire, is also looking at the book, with her hands touching its pages. The background features a dark, patterned wall, suggesting an interior setting. The scene likely depicts the education of the Virgin Mary by her mother, Saint Anne, a common devotional theme.",
+    "scene_interpretation": "Education of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Anne",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515741t/f244/782,426,587,681/full/0/default.jpg"
+}

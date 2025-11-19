@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the body of Christ after his crucifixion. Mary, dressed in a blue mantle, gazes down with sorrow at Christ's pale, wounded body. In the background, a hilly landscape unfolds with scattered trees and a winding path. Further in the distance, three crosses are visible, with figures on ladders attending to them, suggesting the ongoing or recently completed crucifixion of Christ and the two thieves. The overall impression is one of profound grief and religious solemnity.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000442d/f29/182,103,677,1034/full/0/default.jpg"
+}

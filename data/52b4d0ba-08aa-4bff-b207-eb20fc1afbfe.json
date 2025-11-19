@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "Four figures are depicted, three wearing crowns and one a mitre, suggesting a gathering of royalty and clergy. The figure on the far left wears a richly decorated robe and a crown. Next to him, a figure in a mitre and ornate vestments holds out a hand. To their right, a bearded figure with a crown and a stern expression looks towards the viewer. The figure on the far right, also crowned, has his hands clasped in prayer. The scene is framed by architectural elements suggesting an interior space, with arches visible above the figures.",
+    "scene_interpretation": "The scene likely depicts a council or a meeting of important religious and secular figures. The presence of a figure in a mitre alongside crowned individuals suggests a significant ecclesiastical event involving church hierarchy and secular rulers, possibly related to a synod, a coronation, or a diplomatic meeting.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Pope",
+        "Bishop",
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0117/1888,3197,999,907/full/0/default.jpg"
+}

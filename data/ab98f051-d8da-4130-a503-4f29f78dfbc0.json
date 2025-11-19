@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two clerics in a church interior, standing before a lectern. The cleric on the left wears a blue cope with gold ornamentation over a white alb, and holds a book. The cleric on the right, also in a blue cope and white alb, gestures with his hands. Behind them, a large, ornate blue canopy covers an unseen object, possibly an altar or a tomb. In the background, dark walls are punctuated by tall, arched windows with blue panes. Several figures in black robes are visible in the upper background, suggesting a choir or congregation. The floor is tiled in a checkerboard pattern of red and green squares. The overall setting suggests a liturgical or devotional ceremony within a church.",
+    "scene_interpretation": "Liturgical Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_015/DEPOT/890245409_n_015_0081/1116,448,1632,2377/full/0/default.jpg"
+}

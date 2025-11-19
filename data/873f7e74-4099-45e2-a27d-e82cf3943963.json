@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a young man, likely a scholar or saint, seated outdoors on a grassy incline, engaged in writing. He is dressed in a blue tunic and a red cloak, with a halo indicating his sanctity. Before him rests an open book, and he holds a quill in his right hand, poised as if to write. To his left, emerging from a tree stump, is a small, dark, demonic figure, seemingly attempting to distract or tempt him. The background features a body of water with a boat, and in the distance, a city with towers and walls. Above, the sky is a deep blue, dotted with golden stars and a radiant sun-like orb from which rays descend, suggesting divine inspiration. The overall composition is framed by an arched border adorned with floral motifs.",
+    "scene_interpretation": "Saint Jerome in his Study",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/24625846/25081871.tif/260,96,815,1151/full/0/default.jpg"
+}

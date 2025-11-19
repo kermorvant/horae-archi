@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior architectural setting. On the left, the Angel Gabriel, with large blue wings and a halo, kneels and gestures towards the Virgin Mary. He is clad in a golden-brown robe over a white tunic. Above him, a dove, representing the Holy Spirit, descends with rays of light. On the right, the Virgin Mary, also with a halo, stands with her hands clasped in prayer before a lectern covered with a green cloth. She wears a blue mantle over a darker garment. The background features a grey wall with architectural details suggesting a vaulted ceiling or alcove. Below the figures, a scroll with Latin text is unfurled, accompanied by a coat of arms and decorative elements that appear to be stylized wings or armor.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022329z/f55/236,332,1651,2485/full/0/default.jpg"
+}

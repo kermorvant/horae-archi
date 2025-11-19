@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and cope, stands holding a crozier. He is depicted in profile, facing right, with a halo indicating his sanctity. The background consists of a simple, dark wall with vertical panels, suggesting an interior setting. The bishop wears a white alb and a richly decorated cope adorned with blue floral motifs on a gold background, bordered with red and gold stripes. He holds a golden crozier topped with a cross.",
+    "scene_interpretation": "Portrait of a Bishop",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1269668/813,943,1013,1289/full/0/default.jpg"
+}

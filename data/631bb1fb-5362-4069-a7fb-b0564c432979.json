@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a violent execution outdoors. A man in a blue tunic and yellow hose is shown with his head bowed, being struck by a sword wielded by another man in a blue tunic and red sleeves. A third figure, dressed in red and blue, is kneeling and appears to be holding the victim's head. To the right, a king-like figure in a blue robe and crown, holding a scepter, observes the execution, accompanied by another man in dark attire. On the left, a figure in a blue robe with gold trim and a yellow undergarment raises their hands in supplication or prayer, with a harp lying on the ground nearby. The background features rolling hills, trees, and a cloudy sky with birds.",
+    "scene_interpretation": "Martyrdom of Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King Herod",
+        "Executioner",
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0226.jp2/2248,1248,1426,1286/full/0/default.jpg"
+}

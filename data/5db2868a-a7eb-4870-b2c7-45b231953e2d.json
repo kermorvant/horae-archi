@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A crowned female figure, likely a saint, is depicted in a three-quarter profile, looking towards the viewer's left. She wears a golden crown, a brown undergarment, and a rich blue mantle lined with red. Her right hand holds a sword upright, its hilt adorned with a dark knob. Her left hand rests on her abdomen. Behind her, a stylized landscape unfolds with rolling green hills, scattered blue trees, and a distant, simplified castle structure. The sky is a bright blue with wispy, dark clouds. A golden halo surrounds her head, and a golden plume-like element extends upwards from behind her right shoulder. The scene is framed by a decorative border.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/492838/1048,2030,1001,1062/full/0/default.jpg"
+}

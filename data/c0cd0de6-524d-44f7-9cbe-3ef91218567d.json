@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Baptist, identifiable by his halo and camel-hair garment, preaching to a group of attentive listeners. He is pointing with his right hand and holding a book in his left. The listeners, dressed in various colored robes and hats, are seated or kneeling on the ground, some with their hands raised in gestures of listening or prayer. Behind Saint John, a stylized tree with green foliage is visible, suggesting an outdoor setting. The upper portion of the image features a decorative border with gold leaf and intricate patterns, as well as a band of text in Gothic script.",
+    "scene_interpretation": "Preaching of Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8571085n/f149/328,3037,3068,1736/full/0/default.jpg"
+}

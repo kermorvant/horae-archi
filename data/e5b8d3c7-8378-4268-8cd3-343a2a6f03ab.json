@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a landscape setting. On the left, a bearded man wearing a crown and a blue robe with gold embroidery, identified as 'David', is shown adjusting his crown. Beside him are two other men, also crowned and richly dressed. To the right, a winged female figure, partially draped in white cloth, stands before an open doorway of a building. The banner above reads 'Liberum arbitrium', meaning 'Free will'. The building appears to be a small, stylized structure with a blue facade and a visible interior with a framed object. The overall scene suggests a allegorical representation of choice or free will, possibly related to a biblical narrative or moral lesson.",
+    "scene_interpretation": "Allegory of Free Will",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0380.jp2/478,1822,1496,1537/full/0/default.jpg"
+}

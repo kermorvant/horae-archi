@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a striped robe and kneeling on a red cloth, clasps his hands in prayer. He is in an interior setting, with a bed visible to his right and a table covered with a striped cloth to his left, upon which rests a blue and gold cap. Above and behind him, a celestial vision appears within a red halo against a blue sky, depicting a figure with a beard, possibly a prophet or divine messenger, gesturing with one hand. The background features ornate, gold-patterned walls and architectural elements suggesting a richly decorated room, possibly a chamber or a study. The scene likely represents a moment of divine revelation or prayerful communion.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "bed",
+        "table",
+        "canopy"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS1687/DEPOT/786466101_MS1687_0081/4143,638,1729,1767/full/0/default.jpg"
+}

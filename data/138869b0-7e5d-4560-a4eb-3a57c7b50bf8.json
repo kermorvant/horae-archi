@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure in a red robe and an elaborate, pointed hat, gesturing with his right hand. He is facing a standing figure dressed in a blue robe, who has a golden halo. Behind the seated figure, a person in armor with a conical helmet holds a sword. The background features a green patterned textile and a brown architectural element. To the right of the standing figure in blue, other figures with halos are partially visible, suggesting a religious context. The overall setting appears to be an interior space, possibly a chamber or hall, with decorative elements.",
+    "scene_interpretation": "Christ before Caiaphas",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Caiaphas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501939c/f134/892,299,945,1313/full/0/default.jpg"
+}

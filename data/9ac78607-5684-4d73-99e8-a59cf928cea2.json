@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, wearing a blue mantle over a red tunic and a golden halo, kneels in prayer or contemplation. Before her, nestled in a straw manger, lies the Christ Child, also with a golden halo. Behind them stands Joseph, dressed in a red robe with gold trim, holding a lantern and a staff. They are positioned within a ruined architectural structure, suggested by crumbling brick walls, an arched opening, and a broken semi-circular pediment. Through the arch, a desolate landscape with mountains is visible. To the right, within the ruins, are the heads of a cow and an ox. The scene is framed by ornate golden architectural elements and red drapery.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "door",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022283c/f62/269,646,1581,1778/full/0/default.jpg"
+}

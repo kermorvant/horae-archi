@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two men in a pastoral landscape. The man on the left, dressed in a blue tunic, white undershirt, and red hose, holds a staff and looks upwards. The man on the right, wearing a brown tunic and grey hose, also holds a staff and gestures with his open hand towards the sky. Above them, a winged, humanoid creature with a golden hue descends from the sky, emanating rays of light. In the middle ground, a flock of white sheep is visible. The overall setting is outdoors, with rolling hills and a body of water in the distance. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "The scene likely represents the Annunciation to the Shepherds, a common theme in Books of Hours. The winged figure is an angel, announcing the birth of Christ to the shepherds, who are represented by the two men and the flock of sheep. The rays of light symbolize divine revelation.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/ms_1057_029%2Fms_1057_029_jp2.zip%2Fms_1057_029_jp2%2Fms_1057_029_0152.jp2/1054,918,1993,3020/full/0/default.jpg"
+}

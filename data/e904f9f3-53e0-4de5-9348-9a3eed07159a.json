@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit, also known as Pentecost. A group of figures, all with golden halos, are gathered together, looking upwards. In the center, a figure in a blue robe with a golden sash is seated, hands raised. Above them, a divine figure, possibly God the Father, is depicted with rays of light emanating from him. A white dove, representing the Holy Spirit, descends from the divine figure towards the gathered individuals. The figures are situated within an architectural setting that includes arches and patterned walls, suggesting an interior space. The overall composition conveys a sense of divine revelation and spiritual inspiration.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F255_B.11.32_f136r.jp2/796,624,1812,2422/full/0/default.jpg"
+}

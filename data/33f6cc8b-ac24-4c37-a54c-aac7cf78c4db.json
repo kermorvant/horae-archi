@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A woman in a long red robe and blue underdress, with a white veil, stands on the left, holding a small object and gesturing towards a man. The man, with a beard and appearing disheveled, is kneeling on a mound of straw or hay, his hands clasped in prayer. He is wearing a white loincloth. Behind them, a stone building with towers and windows is visible, suggesting a castle or fortified structure. The scene is set outdoors with a hilly landscape and trees in the background under a blue sky with scattered gold stars.",
+    "scene_interpretation": "The Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f149/202,290,771,911/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony taking place within a richly decorated church interior. Several figures, some in black monastic habits and others in blue robes with golden mantles, are gathered around a central altar. The altar is adorned with red drapery and surmounted by a golden canopy. Behind the altar, a large, ornate golden screen with intricate tracery separates the altar area from the background, which features tall, Gothic-style windows and architectural elements suggesting a grand ecclesiastical setting. The figures appear to be engaged in prayer or reading from a text, emphasizing the devotional nature of the scene.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tracery_window",
+        "canopy",
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/gv754dg7958/W182_000140_300/356,178,500,748/full/0/default.jpg"
+}

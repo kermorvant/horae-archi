@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Last Supper, with Christ seated at the head of a long table, surrounded by his disciples. One disciple, likely John, leans his head on Christ's shoulder. Another disciple, possibly Judas, is shown with his back to the viewer, kneeling. The figures are dressed in medieval attire, and all but one have halos, indicating their sanctity. The setting appears to be an interior space with a vaulted ceiling and a large, ornate window with tracery. The table is laden with bread and what appears to be a large roast. The overall atmosphere suggests a solemn and significant moment.",
+    "scene_interpretation": "Last Supper",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "John",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025446v/f281/1238,1914,828,828/full/0/default.jpg"
+}

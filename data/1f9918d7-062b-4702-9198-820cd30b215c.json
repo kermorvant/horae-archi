@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic battle with mounted knights engaged in combat. Figures in armor, some on horseback, clash with swords and lances. In the background, a fortified city or castle is visible, with a figure appearing in an arched window. Trees and rolling hills form the landscape. The overall impression is one of intense conflict and military action.",
+    "scene_interpretation": "Battle",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "fortress",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_113%2Flewis_e_113_jp2.zip%2Flewis_e_113_jp2%2Flewis_e_113_0071.jp2/1894,909,3126,4820/full/0/default.jpg"
+}

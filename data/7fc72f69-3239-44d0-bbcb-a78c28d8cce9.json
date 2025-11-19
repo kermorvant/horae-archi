@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary kneeling in a blue robe, her hands clasped in prayer. To her right, a crowned figure, likely God the Father, sits on a throne, wearing a red robe and holding a globe. He gestures towards Mary with his right hand. Behind Mary, an angel with golden wings stands on a raised platform, holding a crown. The background features a starry blue sky and a green patterned tapestry. The overall composition is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "God the Father",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.443/Barb.lat.443_0169_fa_0078r.jp2/304,312,475,676/full/0/default.jpg"
+}

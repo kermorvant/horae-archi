@@ -1,0 +1,31 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary seated and reading a book, while the Angel Gabriel kneels before her, holding a scroll. The figures are positioned within an architectural setting that suggests a domestic interior or a loggia. The Virgin Mary is dressed in a blue mantle and wears a halo, as does the Angel Gabriel, who is adorned with white robes and wings. Behind the Virgin Mary is a bed with green and gold patterned hangings. The background features a red tapestry with a floral motif and a scroll with Latin text. Above the figures, an arcade with pointed arches and decorative vaulting is visible, leading to a glimpse of the sky with celestial figures. To the left, a Gothic tower with spires is depicted, and to the right, a window with tracery is present.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "vault",
+        "window",
+        "tracery_window",
+        "tower",
+        "spire",
+        "wall",
+        "roof",
+        "arcade",
+        "column",
+        "capital",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515743q/f75/384,536,1028,1159/full/0/default.jpg"
+}

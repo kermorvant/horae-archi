@@ -1,0 +1,29 @@
+{
+    "scene_description_enriched": "The scene depicts a complex architectural setting with multiple levels and figures. In the upper register, within ornate Gothic niches, are several figures. On the left, a bishop-like figure stands, holding hands with a kneeling figure in a star-patterned robe. To the right of this interaction, within another niche, a woman holds a child, possibly the Virgin Mary and Christ Child, with another figure behind her. Further to the right, a seated figure, likely a saint or prophet, holds a book and gestures upwards. The lower register shows a group of figures on a paved ground level, with a man in a turban-like hat speaking to a woman and two other women behind her. A grand staircase with brick walls and stone steps leads up to the upper level. The overall impression is one of religious narrative unfolding within a highly stylized, architectural framework.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "window",
+        "tracery_window",
+        "microarchitecture",
+        "wall",
+        "stairs",
+        "roof",
+        "gable",
+        "pinnacle",
+        "arcade"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f27/2550,547,872,1217/full/0/default.jpg"
+}

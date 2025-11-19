@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts a funerary or devotional setting within a vaulted architectural space. A cleric, possibly a monk, stands before an open lectern, reading from a large illuminated book. In front of him is a catafalque or bier, adorned with numerous lit candles and crosses, suggesting a vigil or memorial service. Two figures in hooded robes, likely mourners or religious attendants, are positioned on either side of the catafalque, one facing the book and the other looking towards the bier. The background reveals a series of pointed arches and windows with tracery, characteristic of Gothic architecture, and decorative elements along the upper border.",
+    "scene_interpretation": "Vigil",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "vault",
+        "window",
+        "tracery_window",
+        "column",
+        "capital",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Cleric",
+        "Mourner"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f400/743,29,1134,1629/full/0/default.jpg"
+}

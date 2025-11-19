@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Betrayal of Christ, with Judas Iscariot kissing Jesus to identify him to the arresting soldiers. Jesus, with a golden halo, is embraced by Judas, who wears a red robe. A crowd of soldiers, many in armor and helmets, surround them, some wielding swords and clubs. One soldier in the foreground, dressed in green, is wounded and bleeding. In the background, a wooden structure with a thatched roof is visible, and a figure in blue armor stands within it, holding a torch. The landscape behind is hilly, with trees and distant spires suggesting a town or city.",
+    "scene_interpretation": "Betrayal of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Jesus Christ",
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f233/538,436,1038,1796/full/0/default.jpg"
+}

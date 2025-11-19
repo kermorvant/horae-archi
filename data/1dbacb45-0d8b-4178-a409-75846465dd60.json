@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a bathing ritual or a symbolic cleansing. On the left, a robed figure, possibly a queen or noblewoman, sits and offers a bowl of fruit to a nude woman emerging from a body of water. The nude woman has long hair and is adorned with a necklace. Behind them, architectural elements suggest a grand setting, with arches, columns, and ornate structures. To the right, a group of armed men are depicted in a battle or procession, suggesting a narrative context beyond the immediate interaction. The overall composition is framed by decorative architectural borders.",
+    "scene_interpretation": "Bathsheba bathing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0047/1240,638,1954,2603/full/0/default.jpg"
+}

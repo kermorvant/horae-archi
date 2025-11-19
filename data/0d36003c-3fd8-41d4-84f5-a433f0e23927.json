@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a throne, holding the Christ Child. She wears a crown and a halo, as does the child. Two winged figures, likely angels, flank the throne. The angel on the left plays a harp-like instrument, while the angel on the right plays a viol. The throne is elaborate, with steps leading up to it, and is partially enclosed by a canopy. The background is dark, with decorative elements of foliage and stars visible in the upper corners. The overall setting suggests a divine or regal context for the Madonna and Child.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "stairs",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032954j/f134/1112,238,986,1634/full/0/default.jpg"
+}

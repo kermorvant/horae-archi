@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A group of men, with beards and wearing blue and green robes, gaze upwards with awe. Above them, a figure with a golden halo, dressed in a reddish-brown robe, ascends into a starry sky. Rays of golden light emanate from this ascending figure, illuminating the scene. The background features a red sky with golden clouds and stars, transitioning to a rocky, earthy landscape with a stylized tree on the right. This scene depicts the Ascension of Christ, a pivotal event in Christian theology where Jesus ascended into heaven after his resurrection, witnessed by his disciples.",
+    "scene_interpretation": "Ascension of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f386/570,921,797,1510/full/0/default.jpg"
+}

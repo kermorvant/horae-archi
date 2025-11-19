@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "An elderly man with a long white beard, wearing a draped robe, gestures with his right hand while holding a circular object in his left. Facing him, a younger person kneels with hands clasped in prayer. The background is dark, with a horizontal band of lighter color suggesting a sky or a painted backdrop. The scene appears to be set within an architectural space, indicated by the dark, possibly stone, wall behind the figures and the draped fabric that might represent a curtain or interior wall.",
+    "scene_interpretation": "The scene likely depicts a moment of spiritual instruction or blessing, possibly related to a biblical narrative or a devotional practice. The elder figure could represent a prophet, a saint, or a spiritual mentor, while the kneeling figure represents a supplicant or disciple. The circular object might be a chalice, a host, or a symbolic representation of divine grace.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007441s/f51/308,310,1069,1045/full/0/default.jpg"
+}

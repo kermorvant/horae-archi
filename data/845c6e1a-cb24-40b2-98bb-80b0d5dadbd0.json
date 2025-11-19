@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts two haloed male figures within an architectural setting. The figure on the left, dressed in an orange robe and a green mantle, holds a large key. The figure on the right, wearing a red robe over a black garment, holds a staff topped with a cross or orb. The background features a light blue wall with a brick pattern and a decorative blue tapestry with gold foliage. The scene is framed by an illuminated initial 'D'. This imagery likely represents Saint Peter, identifiable by the keys of heaven, receiving authority or a symbolic object from another saint or biblical figure.",
+    "scene_interpretation": "Saint Peter receiving the keys of the Kingdom of Heaven",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1455810/1421,835,654,662/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a landscape setting. In the foreground, a man kneels, reaching out with his arm. To his left, a bearded man with a halo and a sword at his side stands looking towards the center. In the center, two figures embrace, one with a halo, and another figure with a beard. Behind them, a group of soldiers in armor and helmets are gathered. The background is a simple landscape with rolling hills and a golden border at the top.",
+    "scene_interpretation": "Kiss of Judas",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xb915nd9363%2FW439_000059_1200/1773,5976,1400,1332/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, depicted as a pilgrim, stands in a landscape. He wears a blue robe, a red and green mantle, and a wide-brimmed hat. He holds a staff in his right hand and an open book in his left. A black bag hangs from his left shoulder. In the background, a body of water separates the foreground from a city with towers and walls. The figure's halo suggests he is a saint. The scene likely depicts a saintly pilgrim, possibly Saint James the Greater, given the iconography of pilgrimage.",
+    "scene_interpretation": "Saint Pilgrim",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint Pilgrim"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/16032684/1923,979,704,860/full/0/default.jpg"
+}

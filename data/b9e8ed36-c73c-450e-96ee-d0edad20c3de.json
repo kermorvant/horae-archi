@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and showing wounds, standing in a sarcophagus-like structure. He is partially draped in a white loincloth. To his left, a figure in a red robe kneels with hands clasped in prayer. Above Christ's head, a golden halo signifies his divinity. To Christ's left, a green bundle of twigs, possibly representing a scourge, hangs. To his right, he holds a golden staff. The background is a vibrant blue, speckled with white, suggesting a celestial or symbolic space. The foreground features a reddish-orange structure, possibly a tomb or altar, with a black shield bearing crossed yellow elements resting on it. The overall composition is stylized and symbolic, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "The Man of Sorrows",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/snm/snm-LM001314/snm-LM001314_005v.jp2/1128,916,3864,5638/full/0/default.jpg"
+}

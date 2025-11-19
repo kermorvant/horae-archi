@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a domestic interior, likely a bedroom, where a woman lies in a bed, appearing to be recovering from childbirth. She is attended by several women. One woman, dressed in green, is bathing a baby in a basin. Another woman, in a gold dress, stands by the bed, while a third woman, in a mustard-colored tunic, looks on. A table with a candlestick and a blue vase is visible near the bed. The overall impression is one of care and domesticity following a birth.",
+    "scene_interpretation": "Birth of the Virgin Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/460d0b63-448b-4b6d-8c40-f0c2e65ba131/490,1467,1001,575/full/0/default.jpg"
+}

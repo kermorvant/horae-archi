@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Christ speaking with a Samaritan woman at a well. Christ, identifiable by his halo and blue robe, gestures with his hands as he converses with the woman, who is dressed in a pink and blue garment and a jeweled headdress. She holds a jug, seemingly having just drawn water from the well. The well itself is a prominent feature, with a wooden structure above it for drawing water. In the background, a lush green landscape unfolds, dotted with trees and a body of water. Further in the distance, a city with prominent towers and spires is visible, suggesting an urban setting beyond the immediate rural location. The overall composition is framed by an ornate, gilded border with architectural motifs.",
+    "scene_interpretation": "Christ and the Samaritan Woman",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Samaritan Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_284/1363,715,1399,1965/full/0/default.jpg"
+}

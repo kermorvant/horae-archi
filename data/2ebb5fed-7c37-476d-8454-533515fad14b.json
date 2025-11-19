@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of people gathered around a naked figure standing on a pedestal. An elderly man in a blue robe with a hood gestures upwards towards the figure. Several other individuals, some in blue robes and others in brown and red garments, are looking up at the central figure with expressions of awe or distress. The background is a rich red tapestry adorned with gold patterns. The central figure appears to be a man, possibly representing Adam or a saint, with his hands clasped in front of him.",
+    "scene_interpretation": "The scene likely represents the Fall of Man, with Adam depicted after his sin, possibly being judged or experiencing shame. Alternatively, it could be a depiction of a saint or martyr, perhaps undergoing a trial or ascension, with the onlookers reacting to a divine or miraculous event.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "pillar"
+    ],
+    "persons": [
+        "Adam"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f481/1981,1058,887,1826/full/0/default.jpg"
+}

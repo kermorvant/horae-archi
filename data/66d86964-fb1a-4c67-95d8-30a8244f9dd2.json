@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man wearing a crown and a hooded garment stands with his hands raised in a gesture of prayer or supplication. He is positioned within an architectural setting characterized by decorative arches and columns. The background is filled with a stippled pattern, suggesting a textured surface or perhaps a stylized representation of a divine presence. The figure's posture and attire suggest a person of importance, possibly a king or a saint, engaged in a devotional act.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0094/5387,4004,464,689/full/0/default.jpg"
+}

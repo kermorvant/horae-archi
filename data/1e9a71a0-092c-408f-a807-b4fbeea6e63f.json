@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts two women embracing, set against a backdrop of stylized floral ornamentation and architectural structures. On the left, a building with multiple windows and a tower is visible, suggesting a fortified or significant structure. The woman on the left, dressed in a white veil and dark cloak, kneels, while the woman on the right, in a dark dress, stands and embraces her. Behind them, a rocky landscape with more buildings and fortifications can be seen. The overall composition suggests a moment of emotional connection within a structured, possibly urban or defensive, environment.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS2788/DEPOT/B514546101_MS2788_0025/1963,165,1020,1214/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts Christ standing within an architectural frame. He is shown with a halo, a beard, and long hair, wearing a draped robe. His right hand is raised in a gesture of blessing, while his left hand holds a globe surmounted by a cross, symbolizing his dominion over the world. Flanking him, on either side, are figures that appear to be saints or angels, partially obscured by decorative columns. The scene is framed by an arch decorated with stylized motifs, suggesting an interior or a symbolic representation of a sacred space.",
+    "scene_interpretation": "Christ Pantocrator",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034543v/f193/830,345,896,1414/full/0/default.jpg"
+}

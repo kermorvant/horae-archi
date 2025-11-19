@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A male figure, identified as Saint Bartholomew, stands within an architectural setting. He is depicted with a halo, indicating sainthood, and holds a book under his left arm and a long staff with a blade-like object in his right hand, possibly representing his martyrdom instrument. He wears a red tunic beneath a flowing blue mantle. The background features architectural elements suggestive of a church interior, with pointed arches supported by columns, and windows with tracery. The floor is tiled in a yellow grid pattern. The scene is framed by an ornate border with decorative motifs.",
+    "scene_interpretation": "Saint Bartholomew",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Bartholomew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0080.jp2/590,3064,1150,1048/full/0/default.jpg"
+}

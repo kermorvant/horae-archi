@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A male figure, identified by the inscription \"S. Simo\" as Saint Simon, stands within an oval frame. He wears a blue tunic and a red mantle, both adorned with gold patterns. A golden halo encircles his head. He holds a green book in his left arm and a large sword in his right hand, its blade pointing upwards. The background features a red tapestry with floral motifs above a green and white checkered floor. The scene is framed by a blue border with decorative elements.",
+    "scene_interpretation": "Saint Simon",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Simon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f69/790,2188,535,475/full/0/default.jpg"
+}

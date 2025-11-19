@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts King David in prayer, kneeling on a green hillside with his hands clasped. He wears a crown, a blue mantle over a red tunic, and white hose. Behind him, a golden harp rests against a rocky outcrop. In the background, several figures tend to sheep on rolling hills, with trees dotting the landscape. Above, within a circular halo radiating golden light, a bearded figure, likely God the Father, is depicted blessing. The entire scene is framed by an elaborate foliate border with decorative elements.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King David",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_005%2Fwidener_005_jp2.zip%2Fwidener_005_jp2%2Fwidener_005_0216.jp2/986,508,2774,3590/full/0/default.jpg"
+}

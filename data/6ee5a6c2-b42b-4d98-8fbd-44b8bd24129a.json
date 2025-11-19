@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts four figures within an interior space. On the right, an elderly man with a long white beard, wearing a blue robe and a blue cap, sits on a raised platform. He holds a staff topped with a fleur-de-lis. To his left, a person in a red robe and hood points with their finger. In the center foreground, a figure in a dark grey robe stands with hands clasped. To the left of this figure, another person in a blue robe holds a staff. The background is a rich red tapestry with gold scrolling ornamentation. The floor is depicted with a geometric pattern of black and beige squares and diamonds.",
+    "scene_interpretation": "The scene likely represents a moment from the Passion of Christ, possibly the Mocking of Christ or Christ before Caiaphas. The figure in grey could be Christ, and the seated elder with the staff might be a judge or authority figure. The pointing figure could be an accuser. The two figures with staffs might be guards or attendants.",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/0bd98135-322b-41f0-bb10-4a5b2b23ce48/1960,812,2009,2972/full/0/default.jpg"
+}

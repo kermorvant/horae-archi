@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a male figure, likely a saint, standing within an arched frame. He wears a distinctive helmet, a red cloak lined with gold, and a blue belt over a striped tunic. In his left hand, he holds an open book, and in his right, he grasps a staff topped with a finial and a small bag. The background features a landscape with trees and distant buildings, suggesting an outdoor setting. The figure's halo indicates his sanctity. The overall composition is framed by decorative elements, including floral motifs.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025549k/f333/242,117,693,1048/full/0/default.jpg"
+}

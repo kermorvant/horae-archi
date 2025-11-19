@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross in the center. To the left, the Virgin Mary, clad in a blue mantle, kneels with her hands clasped. To the right, a figure, likely John the Evangelist, stands with his head bowed and hand to his face in grief, wearing a blue tunic and an orange cloak. Above and behind them, a group of figures with red and orange headwear are visible, possibly representing onlookers or soldiers. In the background, a stylized landscape with green hills and a blue, grid-like sky is rendered, with a distant building resembling a tower or church spire. The entire scene is framed by a decorative border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS26%2FBMC_MS26_jp2.zip%2FBMC_MS26_jp2%2FBMC_MS26_0091.jp2/2598,1417,2549,3931/full/0/default.jpg"
+}

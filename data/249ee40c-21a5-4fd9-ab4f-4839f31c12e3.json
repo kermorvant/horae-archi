@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and wounds, reaching down with a red banner attached to a staff towards a soul being pulled from a fiery abyss. The soul, depicted with multiple faces and bodies, is partially engulfed in flames and appears to be reaching up towards Christ. A dark, demonic figure with horns and a gaping mouth is seated behind the soul, seemingly attempting to pull it back into the abyss. The background is a rich gold, suggesting a divine or otherworldly setting. The figures are framed by architectural elements at the top, resembling stylized crenellations and spires, and vertical pilasters on the sides.",
+    "scene_interpretation": "The Harrowing of Hell",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "pinnacle",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dn556rp6795%2FW37_000300_1200/3573,2085,1761,2831/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble shelter. The Virgin Mary, clad in a blue mantle and with a golden halo, kneels with her hands clasped in prayer. Behind her stands Saint Joseph, wearing a red hat and a brown garment over a striped tunic. In the foreground, the Christ Child, also with a halo, lies on a red manger or bed. To the right, the heads of a donkey and an ox are visible. The background is a deep blue, possibly representing the night sky, with scattered gold stars. The shelter is suggested by a golden canopy supported by wooden beams and a green striped wall or curtain.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0027/DEPOT/352386106_MS0027_0040/3842,1109,1467,1403/full/0/default.jpg"
+}

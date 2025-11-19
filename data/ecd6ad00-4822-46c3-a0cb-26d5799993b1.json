@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a woman in a long, dark gown, kneeling with her hands clasped in prayer before a large spinning wheel. To her left, two men in medieval attire, one with a pointed hat and the other with a conical hat, observe her. The man in the conical hat has a beard and is gesturing with his hands. To the right of the spinning wheel, a man lies on the ground, seemingly in distress or pain, with another figure partially visible beneath him. The background features a stylized landscape with trees and distant buildings resembling castles or towers, and a hill with spires. Rain or a shower of droplets is depicted falling from above, centered over the spinning wheel.",
+    "scene_interpretation": "The scene likely represents the martyrdom of Saint Catherine of Alexandria, who was condemned to be broken on the wheel. The spinning wheel is a direct reference to her torture. The rain or divine intervention depicted may symbolize God's protection or intervention in her suffering, or the miraculous destruction of the wheel. The figures on the left could be observers or tormentors, and the figure on the right might be another victim or a representation of the forces opposing her.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032954j/f137/3030,747,948,980/full/0/default.jpg"
+}

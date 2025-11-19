@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the arrest of Christ, with Jesus in the center being seized by soldiers. He wears a purple robe adorned with gold patterns and has a golden halo. Around him, various figures are shown: some are grabbing him, others are looking on with concern or aggression. To the left, a man in a yellow tunic is kneeling and appears distressed, reaching out with one hand. In the background, a city with numerous towers and spires is visible, nestled on rolling green hills. To the right, a stone archway leads to a path where more figures are walking, and beyond that, a mountainous landscape under a blue sky. The overall impression is one of turmoil and the beginning of Christ's Passion.",
+    "scene_interpretation": "The Arrest of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Jesus Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/1069742/527,394,1637,2211/full/0/default.jpg"
+}

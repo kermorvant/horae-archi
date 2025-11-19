@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two haloed women are depicted in an outdoor setting amidst trees and foliage. The woman on the left, facing the viewer, has her arms crossed. The woman on the right, facing the left woman, is leaning in and touching the left woman's shoulder, her face partially obscured by her head covering. The scene is rendered in a sketchy, monochromatic style, with a decorative border framing the image.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f65/506,636,1029,1143/full/0/default.jpg"
+}

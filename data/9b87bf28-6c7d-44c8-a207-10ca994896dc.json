@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A man with long blond hair and a beard, wearing a blue tunic, white hose, and a red cloak lined with gold, sits on the ground, holding a long staff. He is looking towards a group of three wild boars foraging in a wooded area. The background depicts a landscape with rolling hills and trees under a blue sky. The scene is likely a depiction of Saint Anthony Abbot, known for his asceticism and his temptations in the desert, often represented with animals.",
+    "scene_interpretation": "Saint Anthony Abbot in the Desert",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0016/3681,3178,1250,756/full/0/default.jpg"
+}

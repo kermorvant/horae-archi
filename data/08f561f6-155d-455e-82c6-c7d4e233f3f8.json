@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A man wearing a blue tunic, dark leggings, and a white turban is depicted in profile, actively engaged in harvesting a large pile of golden grain with a scythe. The scene is framed within a decorative quatrefoil motif against a red background adorned with small, stylized floral patterns. The ground beneath the man is rendered in green, suggesting an agricultural setting. The overall composition is part of a larger illuminated manuscript, indicated by the decorative border elements.",
+    "scene_interpretation": "Agricultural Labor",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0018/5091,3011,660,736/full/0/default.jpg"
+}

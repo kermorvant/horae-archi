@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, with a golden halo, stands to the left, her hands clasped in prayer or contemplation, looking down. Beside her is an ox, its head visible. To the right, a figure, likely Saint Joseph, lies on a bed covered by a red cloth patterned with gold vines and flowers, his head resting on his hand. The stable is constructed of wooden beams and has a thatched roof. Behind the figures, a wall with arched niches is visible. The ground is covered with a green checkered pattern. The entire scene is framed by decorative borders with floral motifs and geometric patterns.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "niche"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0109/utp-0109_054r.jp2/1309,266,2651,3933/full/0/default.jpg"
+}

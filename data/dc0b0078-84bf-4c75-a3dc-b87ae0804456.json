@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a man in Roman-style armor, kneeling with his arms raised in supplication. He is in a verdant landscape with a river and rocky outcrops. In the background, a large encampment of tents is visible, with soldiers and horses. Above, in a celestial realm of clouds, a bearded figure, likely God, is depicted with a radiant halo, pointing downwards. The overall scene suggests a divine intervention or a prayer being answered, possibly related to a military campaign or a moment of crisis.",
+    "scene_interpretation": "The scene is likely an illustration of a biblical event where a leader is praying for divine assistance. Given the presence of God in the heavens and a military encampment, it could represent a moment of divine favor or intervention in a battle or a significant undertaking. The kneeling figure in armor suggests a military leader seeking guidance or strength. The presence of a lamb in the foreground might symbolize innocence or sacrifice, adding another layer of devotional meaning.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8447764p/f44/565,556,1607,2551/full/0/default.jpg"
+}

@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "A bishop, vested in a blue cope and mitre, stands to the right, holding a crozier and raising his right hand in blessing. He presides over a scene where three nude boys, with hands clasped in prayer, are submerged in a wooden tub. Behind the boys, architectural elements suggest an interior space with arched windows and columns. To the right of the bishop, a red canopy hangs over what appears to be a bed or throne. The scene is framed by an ornate, gilded architectural arch with decorative tracery and a small niche containing a statue of a saint.",
+    "scene_interpretation": "The scene likely depicts the martyrdom of the Holy Innocents, or possibly a saint associated with children or baptism. The bishop's gesture of blessing and the presence of the children in a tub could allude to baptismal rites or the protection of children. However, the context of martyrdom is also strongly suggested by the vulnerability of the nude children and the authoritative figure of the bishop, potentially representing their executioner or a figure of divine intervention.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "window",
+        "tracery_window",
+        "canopy",
+        "niche",
+        "microarchitecture",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8447775g/f417/438,359,1130,1702/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Massacre of the Innocents. In the foreground, a soldier in golden armor raises his sword to strike a child held by a woman in a red dress. The child, dressed in blue, is bleeding from a wound on its head. To the left, another woman in a blue dress holds a child, while a man in dark armor stands behind them, also raising a sword. In the background, a procession with a donkey carrying figures, possibly Mary and Joseph, moves past a fence. Behind them, a village with a church and houses is visible. The overall setting is outdoors, with architectural elements suggesting a town or village.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch",
+        "door",
+        "spire"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46242050.tif/479,408,1648,2562/full/0/default.jpg"
+}

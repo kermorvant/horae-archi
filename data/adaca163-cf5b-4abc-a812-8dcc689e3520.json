@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a figure, likely a prophet or saint, standing and holding a staff in their left hand. The figure is draped in flowing robes and wears a hood. In their right hand, they hold a scroll with text, and their gaze is directed upwards. The scene is framed by architectural elements, suggesting an interior or a niche. The overall style is that of a woodcut or engraving, common in medieval manuscripts.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0012/2908,4072,602,677/full/0/default.jpg"
+}

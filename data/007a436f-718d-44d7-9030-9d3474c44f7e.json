@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a loggia or open portico, with a lush landscape visible beyond. On the left, the Angel Gabriel, with blue wings and a halo, points towards the Virgin Mary on the right. He wears a richly patterned brown robe over a blue tunic. Rays of golden light emanate from a dove, representing the Holy Spirit, descending towards Mary. Mary, also with a halo, is shown with her hands clasped in prayer, wearing a blue mantle over a blue dress. The inscription \"AVE GRATIA PLENA\" (Hail, full of grace) is visible in the background. The architectural setting features classical columns and an ornate entablature, suggesting a refined, possibly Renaissance-inspired, architectural style.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f57/278,505,1205,1262/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition from the Cross. Christ's body, pale and marked with wounds, is being carefully lowered from the cross by two men. One man, wearing a blue tunic and a red hat, supports Christ's torso, while another man in a brown robe holds Christ's arm. To the right, a woman in a blue robe and white veil, likely the Virgin Mary, supports Christ's legs. Another figure, possibly a disciple or a mourner, stands behind Christ. To the left, a man in a regal hat and ermine collar observes the scene. The background is a simple green landscape with a blue sky, suggesting an outdoor setting.",
+    "scene_interpretation": "Deposition from the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/mss_0095_031%2Fmss_0095_031_jp2.zip%2Fmss_0095_031_jp2%2Fmss_0095_031_0067.jp2/5527,5901,2266,2384/full/0/default.jpg"
+}

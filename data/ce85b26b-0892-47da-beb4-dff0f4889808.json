@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "A military scene unfolds with a phalanx of soldiers armed with bows and arrows advancing towards a fortified city. The city features imposing towers and walls, with figures visible on the battlements. To the right, a regal figure, possibly a king or queen, stands within an architectural setting, holding a sword and looking towards the conflict. The scene depicts a siege or battle against a fortified settlement.",
+    "scene_interpretation": "Siege",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "fortress",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "fortification_wall",
+        "tower",
+        "window",
+        "arch",
+        "roof",
+        "battlement",
+        "crenellation"
+    ],
+    "persons": [
+        "King",
+        "Queen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0066/1323,3357,1620,661/full/0/default.jpg"
+}

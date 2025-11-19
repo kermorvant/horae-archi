@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Christ, showing wounds, lying across the lap of the Virgin Mary. She is dressed in a dark veil and gown, her face conveying sorrow. Surrounding them are four other women, also in mourning attire, their expressions reflecting grief and compassion. The figures are arranged in a close grouping, emphasizing their shared sorrow. The background is plain, focusing attention on the emotional weight of the scene.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032288x/f136/1951,519,721,724/full/0/default.jpg"
+}

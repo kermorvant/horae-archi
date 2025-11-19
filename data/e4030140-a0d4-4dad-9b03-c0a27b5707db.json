@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a throne, holding the Christ Child on her lap. Both are looking at an open book. The Virgin Mary wears a dark robe and a veil. The Christ Child is dressed in a lighter garment. They are positioned within an architectural structure that resembles a niche or a throne with a canopy. Above them, two angels are depicted, one on each side, seemingly attending to the scene. To the left, another angel plays a musical instrument. The background is decorated with a patterned textile or tapestry. The overall scene suggests a devotional image, likely representing the Virgin and Child in a sacred context, possibly related to learning or contemplation, as indicated by the book.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9078403b/f4/932,694,1357,2031/full/0/default.jpg"
+}

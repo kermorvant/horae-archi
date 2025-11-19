@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts two figures, likely the Virgin Mary and the Christ Child, in a devotional setting. The Virgin Mary, on the right, is seated and wearing a red mantle over a light-colored tunic, with a red headdress. She is looking down with a somber expression, holding an open book in her lap. The Christ Child, on the left, is dressed in a blue tunic and points to the text in the book, also with a halo indicating sanctity. Behind them, a column and a golden architectural element suggest an interior space, while a landscape with blue hills and a pale sky is visible in the background through an opening. The overall impression is one of quiet instruction and religious study.",
+    "scene_interpretation": "The Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100223238/f89/812,2169,873,873/full/0/default.jpg"
+}

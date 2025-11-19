@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act within an architectural setting. In the foreground, a figure in a blue cloak and white garment kneels with hands clasped in prayer before an altar or lectern, illuminated by a golden halo. Behind this kneeling figure, two men are engaged in a struggle. One man, wearing a blue cap and red tunic, strikes another man, who is dressed in a grey tunic and red cap, with a hammer. A third man, in a blue tunic and red cap, stands behind them, observing. The background reveals a brick wall with arched windows and vaulted ceilings supported by columns, suggesting an interior space. The floor is tiled in a blue and white checkerboard pattern. The overall scene appears to be a martyrdom or violent persecution of a devout individual.",
+    "scene_interpretation": "Martyrdom",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1455764/1267,646,1293,2147/full/0/default.jpg"
+}

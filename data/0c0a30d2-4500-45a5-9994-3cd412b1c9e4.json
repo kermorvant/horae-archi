@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Sebastian, a male figure with a pale complexion, bound to a tree trunk. He is partially draped in a white cloth around his waist. Several arrows pierce his body, indicating his martyrdom. The background shows a landscape with trees and hills under a blue sky. The entire scene is framed by an elaborate architectural border, featuring arches, decorative motifs, and inscriptions. The inscription at the bottom clearly identifies the figure as 'S. SCEBASTIE' (Saint Sebastian).",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_003/105,1028,421,1046/full/0/default.jpg"
+}

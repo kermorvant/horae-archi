@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, shown as the Man of Sorrows, seated and displaying his wounds, with an angel hovering behind him, placing a hand on his shoulder. Christ is depicted with a halo, long hair, and a beard, wearing only a loincloth. The angel also has a halo and large wings. They are positioned within a space that suggests a tomb or sarcophagus, indicated by the stone slab and the decorative architectural elements below. The background is filled with a starry or speckled pattern, suggesting a celestial or otherworldly setting. The overall composition evokes the sorrow and sacrifice of Christ's Passion and Resurrection.",
+    "scene_interpretation": "The Man of Sorrows",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0085/4274,2004,541,994/full/0/default.jpg"
+}

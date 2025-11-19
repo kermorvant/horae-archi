@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures engaged in labor outdoors, with a prominent cross standing in the background. In the foreground, a man in an orange tunic and white hose, wearing dark boots, wields a tool, possibly a pickaxe, against the ground. He is surrounded by large blue banners adorned with golden stars. To his right, other figures, some with beards and wearing hoods or hats, observe the activity. One figure in a light blue robe holds a staff. Another figure in a pink robe with a white band across it stands to the far right. The ground is uneven and appears to be soil with some sparse vegetation. Behind the figures, a large, white cross is erected, and to its right, a smaller, golden cross on a staff is visible. The background is a richly patterned tapestry-like fabric in shades of red, gold, and blue. The entire scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "The scene likely represents the Exaltation of the True Cross or a similar devotional theme related to the veneration of the cross. The act of digging or working the ground around the cross could symbolize the discovery or establishment of a sacred site, or the effort involved in upholding faith. The banners with stars might allude to heavenly glory or divine protection.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "man in orange tunic",
+        "figure in light blue robe",
+        "figure in pink robe"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_des_Arts_decoratifs/Musee_des_Arts_decoratifs_INV_40342/DEPOT/Musee_des_Arts_decoratifs_INV40342_0144/3272,403,914,1557/full/0/default.jpg"
+}

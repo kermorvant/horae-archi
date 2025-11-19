@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Two figures, dressed in richly colored medieval attire, are actively involved in lowering the body of Christ. The figure on the left, wearing a burgundy robe and a blue patterned sleeve, supports Christ's torso and head. The figure on the right, in a blue robe and patterned leggings, appears to be assisting with Christ's legs. Both figures are positioned on ladders leaning against the cross. Christ's body is pale and marked with wounds, and he wears a white loincloth. The background is a vibrant blue sky with hints of distant buildings and green landscape at the bottom. The overall impression is one of solemnity and religious devotion.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46241477.tif/1094,1236,972,1187/full/0/default.jpg"
+}

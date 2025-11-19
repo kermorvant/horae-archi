@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in the foreground, one seated and the other standing with an outstretched arm. The standing figure wears a dark, hooded robe and appears to be gesturing towards a distant city. The seated figure is also robed and looks towards the viewer. Behind them, a dark, mountainous landscape is visible, with a fortified city perched on a hill. Above the city, a figure is depicted within a framed architectural element, possibly a window or a niche, holding a scroll or book. The overall impression is one of a narrative scene, possibly a biblical or devotional one, set against a dramatic backdrop.",
+    "scene_interpretation": "The scene is likely a depiction of a prophet or a saint in contemplation or receiving a divine message, with the city representing a place of significance or a future event. The figure above could represent God or an angelic messenger. Without further context or clearer iconography, a precise interpretation is difficult, but it evokes themes of prophecy, divine revelation, or the founding of a city.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_MS0094/DEPOT/330636101_MS0094_0056/1061,572,1155,1898/full/0/default.jpg"
+}

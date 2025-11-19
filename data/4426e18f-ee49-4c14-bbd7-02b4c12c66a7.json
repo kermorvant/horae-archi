@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary seated and reading from an open book placed on a lectern. She is dressed in a blue mantle over a grey tunic. Facing her, the Angel Gabriel kneels, gesturing towards her with his right hand and holding a golden staff topped with a fleur-de-lis. The angel has blue wings and wears a golden tunic and a red cloak. Above and behind them, a dove, representing the Holy Spirit, descends with rays of light. The figures are framed by an architectural structure with decorative elements, suggesting an interior space, possibly a room or a loggia, with a background of grey vertical panels.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0016/3383,439,1734,1768/full/0/default.jpg"
+}

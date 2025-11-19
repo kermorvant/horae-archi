@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Two bearded men, dressed in medieval attire with distinctive hats, are engaged in conversation. The man on the left wears a hooded cloak and a turban-like hat, while the man on the right has a helmet-like hat and a tunic. Behind them, a stylized architectural backdrop is depicted, featuring buildings with pointed roofs and windows, suggesting an urban or civic setting. The scene is rendered in a woodcut style with strong outlines and hatching for shading.",
+    "scene_interpretation": "The scene is not clearly identifiable as a specific biblical, liturgical, or devotional event. It appears to be a genre scene or a depiction of historical figures, possibly representing a dialogue or a meeting.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0050/702,406,702,1203/full/0/default.jpg"
+}

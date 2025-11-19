@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely Christ, wearing a crown of thorns and a grey robe, with his hands outstretched, showing stigmata. He is seated on a golden throne-like structure. To his left, a kneeling woman, identified as the Virgin Mary, wears a golden dress and a white mantle, her hands clasped. Above and behind her, an angel with pink robes and wings descends, holding a golden crown. The background features architectural elements suggesting a divine or royal setting, with blue drapery adorned with gold patterns, and hints of arched structures and crenellations. The floor is tiled in a diamond pattern of white, green, and red.",
+    "scene_interpretation": "The Coronation of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/qx197gr5341%2FW180_000221_1200/3648,2540,1586,2562/full/0/default.jpg"
+}

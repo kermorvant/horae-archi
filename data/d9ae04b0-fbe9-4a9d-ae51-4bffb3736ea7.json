@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the lifeless body of Christ after his crucifixion. Christ's body, marked by wounds and blood, lies across Mary's lap. Mary, dressed in a blue mantle, looks down with sorrow, her head bowed. Behind them, a cross is visible, and in the background, a landscape with trees and a city skyline with spires and buildings is depicted. The overall impression is one of profound grief and religious devotion.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.487/Barb.lat.487_0028_fa_0010v.jp2/553,956,304,373/full/0/default.jpg"
+}

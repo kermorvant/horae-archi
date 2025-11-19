@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a cushioned throne, holding the Christ Child. The Christ Child is reaching for a golden plate offered by a kneeling figure, possibly an angel or a saint, dressed in white. Behind the Virgin Mary is a pink canopy adorned with stars, and to the left, a lush green background with flowering plants. To the right, a dark blue form, possibly a wing, suggests the presence of an angelic being. The overall setting appears to be a garden or an idealized outdoor space, framed by an arched border.",
+    "scene_interpretation": "Madonna and Child with an Angel",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0029/1218,580,779,1132/full/0/default.jpg"
+}

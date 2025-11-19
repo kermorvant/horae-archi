@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a man with a long beard and flowing hair, wearing a conical hat and a tunic with a high collar. His arms are crossed in front of him. He is framed by an architectural element that appears to be an arch with decorative tracery. The background is filled with a stippled pattern, suggesting a decorative or symbolic space. The overall style is that of a woodcut or engraving, typical of medieval manuscript illumination.",
+    "scene_interpretation": "This image likely represents a figure from the Old Testament or a saint, possibly a king or prophet, given the regal or authoritative attire and beard. Without further context or accompanying text, a specific scene interpretation is not possible. However, the composition suggests a devotional or narrative purpose within a larger work.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0046/4174,3768,271,664/full/0/default.jpg"
+}

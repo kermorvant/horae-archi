@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ is shown on the cross, with a halo and a loincloth. His head is bowed, and blood drips from his wounds. To his left stands the Virgin Mary, draped in a blue mantle, her arms crossed in sorrow. To his right, a figure, likely Saint John the Evangelist, looks upwards with a book in his hand, clad in an orange tunic and a green mantle. A blue bird is depicted in flight above Christ's left arm. At the foot of the cross lies a skull, symbolizing Golgotha. The background is a rich crimson with gold decorative motifs and lettering.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yw595xk3647%2FW211_000108_1200/3785,2286,2140,2883/full/0/default.jpg"
+}

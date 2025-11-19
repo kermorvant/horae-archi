@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Resurrection of Christ, with Christ emerging triumphantly from a sarcophagus. He is depicted with a halo and is holding a cross-topped staff. Two angels, one with blue wings and the other with green, hover above, looking towards Christ. Below, three soldiers in armor are shown in various states of distress and surprise. One soldier, wearing an orange tunic, lies on his back, while another, in pink, cowers with his head in his hands. A third soldier, with a dark helmet, is also shown in a defensive or overwhelmed posture. The sarcophagus itself is ornate, with carved details. The background is a rich, red, foliage-like pattern.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Angel",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f291/299,1610,668,849/full/0/default.jpg"
+}

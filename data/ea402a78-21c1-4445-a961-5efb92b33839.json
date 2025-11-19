@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a religious service within a church interior. A cleric in a black robe stands before a lectern, holding open a large illuminated book. He is surrounded by several figures, some in pink and white robes, and others in black monastic habits. Behind them, a blue and gold patterned tapestry or drape is visible, and further back, architectural elements suggesting the nave of a church with arched windows and columns can be seen. Two lit candles stand on ornate golden candelabra, one near the lectern and another near an altar draped in blue and white cloth. The overall impression is one of solemn devotion and liturgical practice.",
+    "scene_interpretation": "Religious Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "column",
+        "lectern",
+        "altar",
+        "candlestick",
+        "wall"
+    ],
+    "persons": [
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0022/DEPOT/B441096101_MS0022_0196/1700,600,1260,1937/full/0/default.jpg"
+}

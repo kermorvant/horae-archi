@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, in a blue mantle, kneels with hands clasped in prayer before the Christ Child, who lies in a manger. To the right, Saint Joseph, dressed in purple and red, leans on a staff, while another woman, possibly a midwife, attends to papers in a wooden box. A donkey and an ox are visible in the background, near the manger. Above the stable, a divine light emanates from a bust of God the Father, symbolizing divine intervention. The architectural setting is rudimentary, suggesting the poverty of the Nativity.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14935/Vat.lat.14935_0124_fa_0058v.jp2/575,227,468,764/full/0/default.jpg"
+}

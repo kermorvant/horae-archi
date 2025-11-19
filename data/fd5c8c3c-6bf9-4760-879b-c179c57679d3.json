@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a man and a woman, both with halos, presenting a lamb to a kneeling figure. The man, wearing a hat and a robe, holds the lamb with both hands. The woman, veiled, stands behind him, also holding the lamb. The kneeling figure, dressed in simple attire, extends a bowl to receive the offering. In the background, architectural elements suggest a building with arched windows and a roofline. The overall composition suggests a devotional act of offering.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Simeon",
+        "Virgin Mary",
+        "Jesus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0034/1298,1916,551,1091/full/0/default.jpg"
+}

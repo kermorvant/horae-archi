@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Jesus, bearing wounds from crucifixion and a crown of thorns, being held by two figures. One figure, likely an angel due to its wings, supports Christ's torso from the left, while another figure, possibly Mary Magdalene or the Virgin Mary, supports him from the right. Both figures are depicted with halos, indicating their sacred status. The background features a rich blue tapestry-like pattern with gold floral motifs, and architectural elements such as columns and what appears to be part of a cross are visible. The figures are positioned within a decorative border, suggesting this is an illumination from a manuscript.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84496839/f173/432,927,1924,1836/full/0/default.jpg"
+}

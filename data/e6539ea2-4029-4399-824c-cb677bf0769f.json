@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Two winged figures, identified as angels by their halos, are depicted kneeling and reverently touching a wooden cross. The angel on the left wears a purple robe with gold embellishments, while the angel on the right is clad in a red robe, also with gold accents. Both angels have auburn hair and are shown with their hands extended towards the cross. Above the cross, a small plaque displays the inscription \"INRI\". The background features a landscape with rolling green hills, scattered trees, and distant architectural structures that appear to be castles or fortified buildings. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Lamentation over the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53014820r/f105/159,143,730,1131/full/0/default.jpg"
+}

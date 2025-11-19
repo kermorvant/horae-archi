@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ, set within a rustic stable-like structure. The Virgin Mary, adorned in a blue mantle over a red tunic, gazes down at the Christ Child, who lies on a striped mat on the ground. A donkey stands to the left, and an ox is positioned behind Mary. To the right, an elderly man with a beard, dressed in a red robe, leans on a staff, observing the scene. Behind him, a younger figure in a grey tunic and red hood holds a staff. The background features a green landscape with rolling hills, trees, and large rock formations, under a blue sky with a stylized cloud or celestial element.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/47957840/375,528,1570,2151/full/0/default.jpg"
+}

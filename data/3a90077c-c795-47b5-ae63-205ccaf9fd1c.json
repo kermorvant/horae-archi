@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A ram stands in a naturalistic setting with foliage. The ram is depicted in profile, facing right, with curled horns and a fleecy coat indicated by hatching. It is surrounded by stylized leaves and plants. The scene is framed by an architectural element that suggests an arch or a decorative border, with patterned infill above the ram's head. The overall impression is of a pastoral or symbolic representation.",
+    "scene_interpretation": "Ram",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0063/2613,3390,331,442/full/0/default.jpg"
+}

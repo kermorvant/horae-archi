@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, is depicted in a richly ornamented ecclesiastical robe. He wears a white mitre adorned with gold and jewels, and a golden halo encircles his head, signifying sainthood. His right hand, gloved in white, is raised in a gesture of blessing or teaching, with fingers delicately extended. His left hand grasps a golden crozier, topped with a cross. The background suggests an interior architectural setting, with a dark, textured wall and a hint of a patterned screen or lattice behind him. The overall impression is one of solemnity and spiritual authority.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1168419/1072,1123,717,755/full/0/default.jpg"
+}

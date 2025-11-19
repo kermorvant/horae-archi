@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her blue mantle and halo, meeting Elizabeth, who is dressed in an orange robe and also has a halo. Elizabeth is shown gesturing towards Mary's abdomen, suggesting pregnancy. To the left, a bearded man, likely Saint Joseph, stands with a staff, his hand resting on Mary's shoulder. The figures are set against a landscape with rolling hills, trees, and a body of water. In the background, a fortified castle with towers and walls is visible on a hill. The entire scene is framed by an arched border decorated with floral motifs and a patterned gold background within the arch.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/SanMarino_Huntington_HM1099%2FSanMarino_Huntington_HM1099_jp2.zip%2FSanMarino_Huntington_HM1099_jp2%2FSanMarino_Huntington_HM1099_0071.jp2/1139,257,1318,1979/full/0/default.jpg"
+}

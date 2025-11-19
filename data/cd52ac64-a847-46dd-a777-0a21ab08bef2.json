@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue mantle, meeting Elizabeth, who is kneeling and embracing her. Elizabeth, older and veiled, wears a dark robe with a red heart motif visible on her skirt. Behind them, a stylized building with a red tiled roof, towers, and crenellations is visible, set against a blue sky with dark, wavy lines suggesting rain or divine presence. The figures are positioned on a green, grassy landscape.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84528173/f79/333,182,1178,1660/full/0/default.jpg"
+}

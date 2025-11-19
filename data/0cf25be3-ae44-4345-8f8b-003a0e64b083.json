@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Thomas Becket. A man in a red tunic, identified as one of the knights, raises a sword to strike the kneeling bishop, who is wearing a mitre and vestments. Another figure, possibly a woman or another knight, in a blue tunic and pink cloak, restrains the bishop's head. The figures are set against a blue, patterned background within a quatrefoil frame, with a green, grassy ground beneath them. The overall composition suggests a violent act of execution, interpreted as the martyrdom of Thomas Becket.",
+    "scene_interpretation": "Martyrdom of Saint Thomas Becket",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Thomas Becket"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f298/1009,537,1752,2059/full/0/default.jpg"
+}

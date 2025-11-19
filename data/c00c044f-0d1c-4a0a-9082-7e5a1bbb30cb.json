@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "In a rocky, outdoor landscape, a man identified as Christ kneels in prayer, his hands clasped and his gaze directed upwards. To his left, three disciples sleep: one rests his head on his hand, another slumps against a rock, and a third is partially obscured. In the background, a group of soldiers approaches, led by Judas, indicated by a wooden structure resembling a makeshift shelter or scaffold. Above Christ, an angel descends, pointing towards him, possibly offering solace or a divine message. The scene is framed by decorative architectural elements on the right, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Disciples",
+        "Angel",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550130827/f31/148,349,1298,1961/full/0/default.jpg"
+}

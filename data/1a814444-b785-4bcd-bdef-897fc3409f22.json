@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a long beard and a halo, dressed in a blue robe and a pink and green cloak, wading through water. He holds a staff and appears to be leading or guiding. Behind him, a younger figure, also with a halo, is seated and gesturing with one hand. To the left, a rocky cliff face reveals an opening with a figure looking out. In the background, a city with towers and domes is visible across the water, under a starry blue sky. The water is depicted with numerous small boats or rafts. This scene is likely an illustration of Moses parting the Red Sea, with Moses leading the Israelites out of Egypt.",
+    "scene_interpretation": "Moses Parting the Red Sea",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Moses"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_003%2Fwidener_003_jp2.zip%2Fwidener_003_jp2%2Fwidener_003_0047.jp2/2183,1023,1245,1968/full/0/default.jpg"
+}

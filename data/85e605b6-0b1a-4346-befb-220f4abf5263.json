@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A figure, likely female given the headdress and attire, stands holding a vertical object that resembles a hammer or a tool. The figure wears a fitted garment with a belt and a decorative pendant. Behind the figure, a scroll or banner with Gothic lettering is visible. The background is textured with stippling, suggesting a decorative or architectural element. The overall scene appears to be within an architectural setting, possibly a workshop or a domestic interior, given the presence of tools and the implied enclosed space.",
+    "scene_interpretation": "Saint Eligius",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint Eligius"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0031/2808,4135,589,652/full/0/default.jpg"
+}

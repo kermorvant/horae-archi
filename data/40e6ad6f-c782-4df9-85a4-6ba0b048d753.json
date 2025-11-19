@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A man with a beard and long hair, wearing a tunic and a cloak, is depicted in profile. He is shown with his hands raised in prayer or supplication. The background features a decorative, possibly architectural, element with a dotted pattern and arched forms. The overall style suggests a religious or devotional context.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "undefined_element"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0050/3120,3826,256,592/full/0/default.jpg"
+}

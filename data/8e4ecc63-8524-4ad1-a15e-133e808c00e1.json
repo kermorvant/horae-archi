@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist, identifiable by his halo and the eagle, his traditional symbol, which is shown carrying a small inkwell in its beak. The saint is kneeling on a rocky outcrop beside a body of water, holding a quill and a scroll, seemingly in the act of writing or dictating. He is dressed in a white tunic and a reddish-orange cloak. In the background, a winding path leads up to a fortified castle on a hill, with another smaller building visible in the distance. The sky is a bright blue, with rays of sunlight emanating from the upper right corner. The overall setting is a landscape with trees and rolling hills, suggesting an outdoor environment.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0018/3687,625,1294,2123/full/0/default.jpg"
+}

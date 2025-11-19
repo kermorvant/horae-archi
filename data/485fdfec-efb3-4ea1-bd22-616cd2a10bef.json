@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a stable-like structure. The Virgin Mary, in a blue robe, kneels with her hands clasped in prayer. To her right, a figure, likely Saint Joseph, also kneels, holding a candle and looking towards the infant Christ lying on the ground. Behind them, a bull and a donkey are visible in a manger, with a young boy looking out from behind the bull. The background shows a blue sky with golden rays descending, suggesting divine light, and green hills. The architectural elements are rudimentary, suggesting a humble setting for the birth of Christ.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0360/DEPOT/B522696201_MS0360_0061/1565,602,992,1544/full/0/default.jpg"
+}

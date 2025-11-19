@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a crown, suggesting royalty or significant status. He is dressed in a robe with two visible buttons. The background is textured with stippling, and decorative elements, possibly architectural or floral motifs, frame the upper portion of the image. The style is reminiscent of early woodcuts or manuscript illuminations.",
+    "scene_interpretation": "This image likely represents a king, possibly a biblical king like David, or a secular ruler. Without further context or accompanying text, a definitive religious interpretation is difficult, but the presence of a crown strongly suggests a figure of authority, often depicted in devotional contexts as a patron or a figure from salvation history.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0066/2382,4198,376,601/full/0/default.jpg"
+}

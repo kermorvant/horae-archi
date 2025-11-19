@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body showing wounds and blood. A crown of thorns adorns his head. To the left, the Virgin Mary, veiled in blue and gold, is shown with hands clasped in prayer, accompanied by other grieving women. To the right, a group of soldiers and onlookers observe the event. One soldier, in blue and gold armor, raises his hand as if in disbelief or awe. In the background, a stylized landscape features rolling blue hills, scattered trees, and distant buildings with towers, suggesting a city or town. The sky is a vibrant blue with a golden sun-like symbol and the inscription 'INRI' above Christ's head.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/AARB/AARB%2000002/AARB_00002_IMG_054r.jpg/518,540,1625,2312/full/0/default.jpg"
+}

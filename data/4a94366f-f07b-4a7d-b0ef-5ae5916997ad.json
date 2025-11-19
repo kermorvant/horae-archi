@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Saint John the Evangelist, is depicted seated on a wooden bench, draped in a blue mantle. He is shown writing in a book placed on a lectern. The background features a vibrant red tapestry with intricate gold ornamentation. To the right, a patch of green grass with small white flowers suggests an outdoor setting, contrasting with the richly decorated interior backdrop.",
+    "scene_interpretation": "Evangelist Writing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_MS022/DEPOT/773796202_MS0022_0025/1371,1939,1119,1173/full/0/default.jpg"
+}

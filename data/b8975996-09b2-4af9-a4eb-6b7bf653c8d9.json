@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, haloed and with a scroll above him reading \"con[f]f[o]m marum eff\". Angels, some in yellow and red robes, attend to him, with one in a brown robe kneeling below. To the left, a figure identified as \"David\" stands in a richly decorated blue and gold robe and a turban-like headdress, with his hand to his face in contemplation. A harp is placed at his feet. The setting is an outdoor landscape with stylized green trees and a pale blue sky. In the foreground, various animals are depicted, including a lion, a horse-like creature, a rooster, and birds. The overall scene combines the sacred event of the Crucifixion with the figure of King David, suggesting a devotional context that links the Old Testament king to the New Testament sacrifice.",
+    "scene_interpretation": "Crucifixion with King David",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0227.jp2/4307,2621,1308,1584/full/0/default.jpg"
+}

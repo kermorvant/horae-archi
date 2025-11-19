@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a forest setting with several figures. On the left, two men are engaged in felling trees with axes. The man in the foreground wears a blue tunic and red hose, while the man behind him wears a green tunic. Their actions suggest labor and industry. In the background, a body of water is visible, possibly a lake or river, with a distant shoreline. On the right, a group of men, distinguished by their elaborate headwear and rich attire, observe the woodcutters. The central figure among them, draped in a golden cloak over a red garment, gestures towards the workers. This scene likely represents a biblical narrative or a devotional theme related to labor and observation, possibly illustrating a parable or a historical event.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f402/1204,4231,3131,1553/full/0/default.jpg"
+}

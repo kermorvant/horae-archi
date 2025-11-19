@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Within an illuminated initial 'O', a female figure with blonde hair and a halo is depicted in prayer, her hands clasped. She is seated on a creature that appears to be a centaur, with the upper body of a woman and the lower body of a horse-like animal. The scene is set indoors, with a brick wall and two diamond-shaped windows visible behind her. To her right, an arched opening reveals a landscape with rolling green hills and trees. The floor is tiled in a blue and white checkered pattern. The figure's posture and the halo suggest a devotional or religious context, possibly representing a saint or a figure in contemplation.",
+    "scene_interpretation": "Devotional Scene",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/Belgique/Tournai/Bibliotheque_du_Seminaire/TOURNAI_Grand_Seminaire_MS015/DEPOT/TOURNAI_Grand_Seminaire_MS015_0047/3074,884,729,694/full/0/default.jpg"
+}

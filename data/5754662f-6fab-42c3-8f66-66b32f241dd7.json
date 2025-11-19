@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts a seated figure, likely a saint or a religious person, within an architectural frame. The figure is shown from the chest up, wearing a cap and a garment with a fur trim. Their hands are clasped in front of them, holding what appears to be a book or scroll. The background is filled with a textured pattern, possibly representing drapery or a stylized natural element. The architectural elements framing the scene suggest a niche or a decorative architectural surround, with curved forms and vertical lines.",
+    "scene_interpretation": "The figure's posture and the presence of a book suggest a devotional scene, possibly representing a saint in contemplation or study, or a figure reading scripture. Without further iconographic clues, a specific interpretation is difficult, but it aligns with common depictions of holy figures in medieval art.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0076/2507,4210,401,589/full/0/default.jpg"
+}

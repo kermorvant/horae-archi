@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity seated in glory amidst a celestial host of angels and cherubs. God the Father, an elderly bearded figure in red and white robes, sits to the right, holding a scepter. To his left, Christ, depicted as a youthful figure with wounds on his body, is seated, his arms outstretched. Between them, the Holy Spirit is represented as a dove. Below them, a group of figures, possibly saints or allegorical figures, are gathered. One figure, likely an archangel, holds scales and a sword, suggesting judgment or justice. Other figures hold trumpets and lilies, symbols of resurrection and purity. In the lower part of the image, a landscape with buildings and trees is visible, suggesting a terrestrial realm beneath the divine spectacle.",
+    "scene_interpretation": "The Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105380373/f262/284,241,1809,2625/full/0/default.jpg"
+}

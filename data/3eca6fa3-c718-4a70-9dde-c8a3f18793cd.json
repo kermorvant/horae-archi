@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "An angel, with red and blue wings, descends from the upper left, holding a scroll that reads \"Gloria in Excelsis Deo.\" Below, in a pastoral landscape with rolling hills and trees, a group of shepherds are gathered. One shepherd, wearing a black hat and playing bagpipes, interacts with another shepherd in a pink tunic and blue hood. A third shepherd in an orange tunic stands to the right, gesturing. A child in a blue tunic and orange hood is positioned between the shepherds. Several sheep are scattered throughout the scene, some appearing to be listening to the music. The overall scene depicts the Annunciation to the Shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ott.lat.2919/Ott.lat.2919_0212_fa_0102v.jp2/464,387,483,666/full/0/default.jpg"
+}

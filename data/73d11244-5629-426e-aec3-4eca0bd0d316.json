@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men in conversation or negotiation, set against a backdrop of architectural elements suggesting a building. The central figure, a bearded man wearing a turban-like headdress, gestures with his hands. To his left, a man in armor with a helmet holds a staff. To his right, another man, also in armor and a helmet, appears to be listening or observing. The architectural elements include what appear to be building facades with arched openings and decorative elements, possibly representing a city or a grand structure.",
+    "scene_interpretation": "This scene likely represents a biblical or historical event involving negotiation or judgment, possibly related to figures from the Old Testament or a scene of civic importance. Without further context or identifying attributes, a specific interpretation is difficult, but the presence of armored figures and a central, possibly authoritative figure, suggests a moment of decision or discourse.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0091/1015,3477,652,1241/full/0/default.jpg"
+}

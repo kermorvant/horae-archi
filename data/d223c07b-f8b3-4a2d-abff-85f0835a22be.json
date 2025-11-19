@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, wearing a red robe and a crown of thorns, is seated and appears to be suffering. Four figures surround him, two of whom are actively tormenting him. One man in a green tunic and purple leggings, wearing a yellow conical hat, kneels and appears to be striking Christ with a stick. Another man in a blue tunic and purple hat, with torn clothing, holds a stick and seems to be pushing Christ. A third figure in a green tunic is shown from the back, raising a club or mace above Christ's head. A fourth figure in a purple robe leans over, also holding a stick. The setting appears to be partially architectural, with large columns and an arch visible, suggesting an interior or a covered space. The background shows a blue sky with bare branches of trees and some stone structures.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/3124019/336,319,784,1190/full/0/default.jpg"
+}

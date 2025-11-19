@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, likely a prophet or saint, kneeling in prayer. He wears a dark robe and a white mantle with dark spots. Above him, within an arched niche, a divine figure, possibly God or an angel, is shown descending, radiating light and holding a globe. The background features architectural elements, including arched windows with tracery and a brick wall. To the right, draped figures suggest a monastic or devotional setting. The overall composition suggests a moment of divine revelation or intercession.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "niche",
+        "roof"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_MS1780/DEPOT/330636101_MS1780_0082/2923,723,1462,1697/full/0/default.jpg"
+}

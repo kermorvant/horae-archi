@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, is depicted seated and reading from an open book. He is dressed in liturgical vestments. Behind him, two arched windows with tracery are visible, suggesting an interior setting within a religious building. The scene is framed by an architectural archway, possibly representing a niche or a decorative portal.",
+    "scene_interpretation": "Saint in contemplation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "crozier"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036821z/f59/757,412,836,1421/full/0/default.jpg"
+}

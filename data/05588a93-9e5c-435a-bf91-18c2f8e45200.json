@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts two crowned figures seated on a bench within an architectural frame. The figure on the right, a bearded man, holds a globe in his left hand and raises his right hand in a gesture of blessing or speech. He wears a cloak over a tunic. The figure on the left, a woman, looks down and raises her hands in a gesture of supplication or humility. Both figures have halos, indicating their saintly or royal status. The architectural setting is elaborate, featuring pointed arches, pinnacles, and decorative tracery, suggesting a Gothic style. The overall composition is framed by vertical elements resembling miniature spires and ornamental scrolls.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "pinnacle",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066046t/f29/2681,634,1139,1967/full/0/default.jpg"
+}

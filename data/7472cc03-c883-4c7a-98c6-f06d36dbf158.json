@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two groups of figures within an arched architectural frame. On the left, a figure in a dark hooded robe stands in profile, gesturing with their right hand towards a large, flat object that appears to be a book or a tablet, colored in shades of blue and green. Behind this figure, another person's face is partially visible. On the right, two figures are seated together, one in an orange garment and the other in green, appearing to converse or interact. The background within the arch is a richly patterned mosaic of gold squares interspersed with red, blue, and green squares, suggesting a decorative interior or a celestial setting. The overall impression is one of a devotional or instructional scene, possibly related to scripture or religious teaching.",
+    "scene_interpretation": "Religious Instruction",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537211/46197944.tif/974,250,1230,1679/full/0/default.jpg"
+}

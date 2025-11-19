@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, wearing a blue mantle and red undergarment, rides a donkey, holding the Christ Child. Saint Joseph, dressed in an orange robe and blue tunic, walks alongside, leading the donkey by its reins and holding a staff. They are traveling through a landscape with rolling green hills and stylized trees. Above them, a golden background suggests a divine presence, with rays of light emanating from a stylized sun or celestial source. The border of the illumination features decorative floral motifs.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f80/994,382,1366,1643/full/0/default.jpg"
+}

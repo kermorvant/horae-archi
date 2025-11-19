@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple, set within an architectural structure that suggests a temple or church interior. A central altar-like structure, made of brick and adorned with red and white bands, holds the Christ Child. The Virgin Mary, cloaked in blue, stands to the left, looking towards the child with a somber expression. Behind her, another female figure, possibly Saint Anne, also gazes at the child. A figure in a red cape and a tall, pointed hat, likely a priest or high-ranking official, stands over the child, gesturing. To the right, a bearded man in a blue robe and red cap holds a scroll or rod, possibly representing Simeon or a temple attendant. A young woman in a red dress kneels in the foreground, holding a basket containing two doves, signifying the offering prescribed by Mosaic law. The background is a deep blue, punctuated by three arched windows with diamond-shaped tracery. The scene is framed by an ornate, vaulted canopy supported by green columns.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "roof",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.66/Ross.66_0126_fa_0056v.jp2/498,218,444,977/full/0/default.jpg"
+}

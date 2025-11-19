@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The image depicts a figure, likely a king or a noble, shown in profile, looking upwards and to the left. The figure has a beard and wears a crown and a draped garment. The background is filled with a dense pattern of small dots, suggesting a textured or perhaps celestial setting. To the right and left of the figure, architectural elements resembling columns or pilasters are visible, framing the scene. Above, there is a decorative arch or canopy structure. The overall impression is one of reverence or supplication.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "pillar",
+        "canopy"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0050/2758,3928,463,740/full/0/default.jpg"
+}

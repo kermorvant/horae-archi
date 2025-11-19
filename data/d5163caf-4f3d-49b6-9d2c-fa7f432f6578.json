@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts an angel, identified by a halo and wings, kneeling and gesturing towards a group of three women. The angel is dressed in a white robe and wears a golden necklace. The women, also with halos, are seated and appear to be receiving something from the angel, possibly a chalice or a vessel. The central woman wears a blue robe, and the other two wear orange and blue garments respectively. They are positioned within a dark green, tiered structure that resembles a sarcophagus or a raised platform. Below this structure, there is an architectural frieze with arched openings, revealing figures in blue and green attire, possibly representing mourners or attendants. The background is partially adorned with gold leaf, suggesting a sacred or important setting.",
+    "scene_interpretation": "The Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dg026mz7261%2FW86_000045_1200/465,2953,1634,2094/full/0/default.jpg"
+}

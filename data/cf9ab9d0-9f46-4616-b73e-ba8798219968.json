@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael, clad in golden armor and a red cape, poised to strike a fallen, demonic creature with his sword. The saint has a halo and is holding a shield. The creature, with feline features and a long tail, lies on the ground, its body colored blue and yellow. The background is a stylized landscape with green foliage and trees under a blue, star-speckled sky, suggesting an outdoor setting. The composition emphasizes the triumph of good over evil.",
+    "scene_interpretation": "The Triumph of Saint Michael over the Devil",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/4771086/1876,527,967,1085/full/0/default.jpg"
+}

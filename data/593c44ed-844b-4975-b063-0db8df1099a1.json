@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. A group of figures stands around a table covered with a white, patterned cloth. In the center, an elderly man in green robes holds the Christ Child, who is swaddled in white. To his left, a woman in a blue mantle, likely the Virgin Mary, prays with clasped hands. Behind her, another woman in white veils looks on. To the right of the man holding the child, a figure in blue and a hat reads from a book. To the far left, a man in a red robe stands. Behind the figures, a grand architectural setting is suggested with tall columns and arched windows. A red canopy with gold trim hangs above the central action. The floor is tiled in a checkered pattern, and the figures stand on a raised pink platform.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "window",
+        "roof",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xw613th3364%2FW441_000124_1200/4476,1478,2830,4380/full/0/default.jpg"
+}

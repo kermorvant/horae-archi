@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble dwelling, framed by an arched border. A nude Christ Child lies on the ground, bathed in a divine light emanating from above. To the left, the Virgin Mary, veiled and with hands clasped in prayer, gazes down at her son. Behind her, Saint Joseph, with a beard and staff, also looks towards the child. To the right, a kneeling figure, possibly a shepherd or a donor, with hands pressed together in devotion, observes the scene. The background suggests a stable or a simple room, with a manger and animals visible through an opening, and a starry sky above.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038211z/f51/3164,407,1267,1825/full/0/default.jpg"
+}

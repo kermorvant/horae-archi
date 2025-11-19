@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A knight in full blue armor, mounted on a brown horse, is depicted in the act of slaying a blue dragon. The knight wields a sword raised above his head, poised to strike the beast, which has a stick in its mouth. In the background, to the left, a figure in a pink robe, possibly a saint, stands with a lamb. To the right, a castle with towers and crenellations is visible across a body of water, suggesting a distant setting. The overall scene is set in a pastoral landscape under a pale blue sky.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "battlement",
+        "crenellation",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint George",
+        "lamb"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/16032693/458,1438,745,849/full/0/default.jpg"
+}

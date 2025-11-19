@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, barefoot and robed in dark blue with gold trim, gesturing with his right hand towards a kneeling woman in a blue mantle and gold patterned dress. He is surrounded by a group of figures, including a man in a red robe and a man in a yellow robe, all with golden halos. Behind them, a stylized green tree stands against a bright blue sky. To the right, a building with a grey facade and an open doorway is visible, with two women in white veils and halos standing near it. The ground is depicted as green grass and sandy earth.",
+    "scene_interpretation": "Noli me tangere",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/3123974/430,303,776,1252/full/0/default.jpg"
+}

@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. A swaddled infant, identified as Christ, lies on a draped table. To the left, an older man, likely Simeon, holds the child. To the right, the Virgin Mary, in a blue mantle, kneels with her hands crossed over her chest, gazing at the infant. Behind her stands another older man, possibly Joseph, holding a basket containing two doves, an offering for the purification ritual. The architectural setting is an interior space with a vaulted ceiling and arched windows, suggesting a temple or church.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "roof",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary",
+        "Simeon",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_096%2Flewis_e_096_jp2.zip%2Flewis_e_096_jp2%2Flewis_e_096_0138.jp2/761,1046,1963,3315/full/0/default.jpg"
+}

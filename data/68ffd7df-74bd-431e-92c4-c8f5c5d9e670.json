@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Archangel Michael, clad in ornate golden armor and with large feathered wings, in the act of vanquishing a monstrous, green-skinned demon. Michael holds a sword raised to strike and a shield to defend. The demon is depicted as defeated, lying on the ground with its head turned away. The setting is an outdoor landscape with rolling green hills, scattered trees, and a blue sky with clouds. The overall composition illustrates the triumph of good over evil.",
+    "scene_interpretation": "The Triumph of Saint Michael",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Archangel Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.487/Barb.lat.487_0206_fa_0099v.jp2/534,361,436,434/full/0/default.jpg"
+}

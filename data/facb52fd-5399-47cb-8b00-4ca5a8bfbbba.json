@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, possibly representing a prophet or saint, stands on a grassy incline, his hands clasped in prayer or supplication. He is illuminated by golden rays descending from a blue sky filled with stylized clouds. Before him, a group of women, dressed in medieval attire, look towards him with expressions of awe or concern. Several sheep graze on the green hillside, and a small stone trough, from which water flows into a stream, is depicted in the foreground. The scene evokes a pastoral setting imbued with divine presence.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f285/1913,1282,923,1538/full/0/default.jpg"
+}

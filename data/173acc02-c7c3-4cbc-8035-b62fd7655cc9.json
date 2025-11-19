@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a crowd of people looking up towards a raised platform where a man, identified as Christ, stands bound and partially undressed, wearing a loincloth. Beside him, a figure in a blue robe and a distinctive red and yellow hat gestures towards Christ. The architectural setting is a stone structure with a railing and steps, suggesting a public presentation or judgment. In the background, a stylized cityscape with towers and hills is visible under a blue sky. The crowd's expressions and gestures indicate engagement with the unfolding event, likely a moment of accusation or condemnation.",
+    "scene_interpretation": "Ecce Homo",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "stairs",
+        "roof"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f36/667,485,730,911/full/0/default.jpg"
+}

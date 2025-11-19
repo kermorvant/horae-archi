@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a bustling group of people under a decorative archway. In the foreground, a man wearing a hat is tending to a large sack filled with round objects, possibly fruit or vegetables, and appears to be offering them. Behind him, other figures are engaged in conversation or interaction, some with their arms around each other. The background is filled with a stippled pattern, suggesting a textured surface or perhaps a stylized representation of a crowd or an interior space. The overall impression is one of a market or a social gathering.",
+    "scene_interpretation": "Market Scene",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0102/5065,1570,435,688/full/0/default.jpg"
+}

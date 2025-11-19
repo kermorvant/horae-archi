@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross in the center. His body is emaciated and bleeding, with a loincloth around his waist. To the left, the Virgin Mary, clad in a blue mantle, stands with her hands clasped in sorrow. To the right, a figure, likely Saint John the Evangelist, also with hands clasped in prayer and wearing a golden robe over a blue garment, gazes towards Christ. The background is a stylized landscape with rolling hills, trees, and a blue sky with hints of clouds. At the base of the cross, a skull is visible, symbolizing Golgotha. The scene is framed by a decorative border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Caen/Musee_des_Beaux_Arts/141185204_coll_mancel_ms0273/DEPOT/141185204_coll_mancel_ms0273_0038/3611,456,1607,2267/full/0/default.jpg"
+}

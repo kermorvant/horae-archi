@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A haloed nun, dressed in a black habit and white wimple, stands in an interior space. She holds a golden crozier in her right hand. Behind her, a red tapestry with a repeating circular motif adorns the wall. To her right, a wooden lectern holds an open book. The room features arched windows with tracery, and a vaulted ceiling is visible above. To the left, an arched opening reveals an outdoor landscape with a tree and a hill under a blue sky. The floor is covered with a green patterned carpet.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "vault",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F451_B.11.32_f234r.jp2/684,526,1789,2453/full/0/default.jpg"
+}

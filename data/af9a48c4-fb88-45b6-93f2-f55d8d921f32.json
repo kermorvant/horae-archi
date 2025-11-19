@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape under a blue sky, framed by an arched border with decorative elements. In the foreground, two shepherds are present. One shepherd, wearing a purple robe and blue hood, looks upwards with his hand raised, holding a staff. Beside him, another shepherd, dressed in a blue tunic and hood, plays a bagpipe. A dog sits attentively at their feet, and several sheep are scattered in the background. Above them, a group of figures, likely angels, are depicted in a celestial realm, with golden rays emanating from them, suggesting divine intervention or revelation. The rocky, mountainous terrain behind the shepherds further emphasizes the outdoor setting.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd",
+        "Shepherd",
+        "Dog"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0105/utp-0105_094r.jp2/1032,351,2332,3602/full/0/default.jpg"
+}

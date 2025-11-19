@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely Christ, with a halo, being presented to a seated figure wearing a green hat and blue robes. Christ is dressed in a simple grey robe and appears to be looking downwards with a sorrowful expression. He is flanked by several armored soldiers holding spears and axes. The seated figure, possibly a judge or authority figure, gestures towards Christ. The setting is an interior space with a richly patterned red and gold tapestry in the background and a tiled floor. The architecture is suggested by a pink wall with recessed panels and a doorway-like structure on the right.",
+    "scene_interpretation": "Christ Before Pilate",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vj053mn4619%2FW169_000068_1200/3688,1296,3214,4599/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting that appears to be a celestial or heavenly realm, indicated by the starry sky above. In the foreground, a woman, likely the Virgin Mary, is seated and holding a child, presumably Christ. Surrounding them are several winged figures, identifiable as angels, some of whom are interacting with architectural elements that resemble miniature buildings or canopies. The overall impression is one of a divine gathering or a depiction of heaven.",
+    "scene_interpretation": "Madonna and Child in Heaven",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0012/767,1020,700,654/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the Virgin Mary cradling the body of Jesus in her lap. To the left, a woman in a red robe and green garment supports Christ's torso. To the right, another woman in a yellow robe gently touches Christ's feet, which are positioned over a golden chalice. In the background, a rocky mound with a ladder suggests the site of the crucifixion. Further in the distance, faint architectural ruins are visible, hinting at a landscape setting. The overall composition conveys a profound sense of sorrow and devotion.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14936/Vat.lat.14936_0272_fa_0132v.jp2/209,178,593,714/full/0/default.jpg"
+}

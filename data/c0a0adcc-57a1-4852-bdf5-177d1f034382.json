@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a nude woman with long blonde hair bathing in a decorative tub, from which water flows from a lion-headed spout. She is partially submerged in the water, with her hands resting on the edge of the tub. Behind her, a wooden fence encloses a garden with green grass and small plants. In the background, a group of richly dressed figures stand on a bridge with arches, observing the scene. One figure, an older man with a long white beard, wears a blue robe and a crown-like hat. The overall setting suggests a royal or noble garden with architectural elements like a bridge and a fountain.",
+    "scene_interpretation": "Bath of Bathsheba",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "bridge",
+        "wall",
+        "column",
+        "undefined_element"
+    ],
+    "persons": [
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_MS0127/DEPOT/B721816101_MS0127_0070/1298,659,1500,3238/full/0/default.jpg"
+}

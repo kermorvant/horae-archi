@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable. The Virgin Mary, in a blue robe, kneels with hands clasped in prayer before the Christ Child, who lies on the ground. Behind them, two horses are visible within the stable structure. To the right, Saint Joseph, in a red robe, also kneels in prayer. The stable is constructed of wood with a thatched roof and an open front. Rays of golden light emanate from a sunburst in the upper right corner, illuminating the scene. The background features a landscape with rolling hills and distant mountains. The entire composition is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010380f/f100/920,111,1087,1614/full/0/default.jpg"
+}

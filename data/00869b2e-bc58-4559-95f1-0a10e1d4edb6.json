@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two nude figures, a man and a woman, stand amidst lush green foliage. The man, on the left, has brown hair and is looking towards the woman. The woman, on the right, has blonde hair and is looking slightly away from the man. Their bodies are partially obscured by the dense greenery. The scene is set in a natural, outdoor environment, likely a garden or forest, with a blue sky visible above the trees. This depiction represents Adam and Eve in the Garden of Eden before the Fall.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Borgh.183/Borgh.183_0008_fa_0002v.jp2/538,1629,327,217/full/0/default.jpg"
+}

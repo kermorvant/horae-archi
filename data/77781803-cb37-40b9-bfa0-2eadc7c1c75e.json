@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A woman with long, wavy hair and a jeweled headdress stands in an architectural setting. She is wearing a long, flowing gown with a decorative belt. Her left hand holds a banner inscribed with text and circular motifs, while her right hand is raised, pointing. The background features architectural elements, including a column on the left and an ornate, arched canopy above the figure, suggesting an interior or a structured outdoor space.",
+    "scene_interpretation": "This image likely depicts a figure from the Old Testament or a saint, possibly holding a scroll or banner with a prophecy or significant text. The specific iconography of the banner and the figure's gesture would be key to a precise identification, but without further context or clearer inscription, a definitive interpretation is not possible. It could represent a prophetess or a figure associated with divine revelation.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0012/2935,2933,521,501/full/0/default.jpg"
+}

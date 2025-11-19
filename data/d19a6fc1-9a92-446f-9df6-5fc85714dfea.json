@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. A figure, presumably Christ, lies on a stone slab, his body pale and marked with stigmata on his hands and feet. He is wrapped in a white shroud. Two women, one with a veil and the other holding a book, stand on the left and right respectively, expressing grief with bowed heads and hands to their faces. A central figure, likely Joseph of Arimathea, dressed in blue and orange, gently touches Christ's body, perhaps preparing it for burial. The figures are framed by an ornate, gilded arch with foliate motifs, set against a red, diamond-patterned background.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Metz/Bibliotheque_municipale/574636101_MS1588/DEPOT/574636101_MS1588_0211B/2196,1345,1845,2225/full/0/default.jpg"
+}

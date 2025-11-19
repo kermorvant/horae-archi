@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a frontal view of Christ, identified by his halo and beard, standing within an architectural niche. He is draped in a red mantle over a blue and grey striped tunic. In his left hand, he holds a golden orb surmounted by a cross, symbolizing his dominion over the world. His right hand is raised in a gesture of blessing. The background is a vibrant blue with radiating lines, suggesting divine light. The niche itself is framed by an elaborate, golden, Gothic-style arch with decorative tracery.",
+    "scene_interpretation": "Christ Pantocrator",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421915/213,715,265,602/full/0/default.jpg"
+}

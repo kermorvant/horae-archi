@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man wearing a green robe and a red turban is kneeling before a large, open book resting on a wooden lectern. The book is open to a page with musical notation. The man's hands are clasped in prayer or contemplation. To the left of the lectern, a brown, animal-like figure is partially visible. The background features a blue, patterned wall and a checkered floor. The scene likely depicts a devotional act, possibly a monk or scholar engaged in prayer or study of sacred texts.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auch/Bibliotheque_municipale/320136201_MS0025/DEPOT/320136201_MS0025_0035/3865,1397,1000,911/full/0/default.jpg"
+}

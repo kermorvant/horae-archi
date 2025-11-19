@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and wearing a blue robe, holds the Christ Child on her lap. The Christ Child, with a golden halo, is looking upwards. Three Magi are present: one kneels before Mary and the Child, offering a golden vessel; another stands behind him, also holding a golden vessel and pointing upwards; and a third, older man with a blue hood, stands to the right, with his hand to his forehead. The figures are framed by an architectural element, possibly a loggia or a decorative archway, with golden ornamentation. In the background, there is a dark, rough structure and a hint of greenery and a blue sky with a golden starburst.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0005/DEPOT/210545209_005_0064/1023,558,2047,2960/full/0/default.jpg"
+}

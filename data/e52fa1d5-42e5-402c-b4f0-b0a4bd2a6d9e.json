@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A group of figures, all with halos, are gathered together, looking upwards. In the upper part of the scene, a winged figure with a halo, likely an angel, is depicted against a blue sky. The figures below are dressed in robes of various colors, including blue, green, and red. Some figures hold staffs or crosses. The ground beneath them appears to be paved with reddish-brown stones. Behind the figures, a simple architectural structure with a pitched roof and visible rafters is suggested, though it is largely obscured by the figures and the framing of the illumination.",
+    "scene_interpretation": "Ascension",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Apostles",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS25%2FBMC_MS25_jp2.zip%2FBMC_MS25_jp2%2FBMC_MS25_0319.jp2/2994,1567,2404,3419/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A female saint, identified by a golden halo and a jeweled crown, is depicted reading a book. She wears a golden gown and a pink mantle. Behind her, a grey stone building with arched windows and a tower-like structure is visible. The sky is rendered in shades of orange and pink.",
+    "scene_interpretation": "Saint Reading",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/gv754dg7958/W182_000137_300/113,405,336,367/full/0/default.jpg"
+}

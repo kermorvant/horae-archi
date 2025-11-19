@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands in a verdant landscape. He is adorned in ornate episcopal vestments, including a red chasuble with gold embroidery and a blue cope. In his left hand, he holds a book, possibly a liturgical text, and in his right, a golden crozier. The background features a mosaic-like pattern of blue, red, and gold squares, framed by an arched architectural element with decorative foliate motifs. The ground is depicted as green with scattered wildflowers and rocky outcrops, suggesting an outdoor setting. The figure's halo indicates his saintly status or religious importance.",
+    "scene_interpretation": "Saint in episcopal vestments",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F389_B.11.32_f203r.jp2/875,690,1753,2291/full/0/default.jpg"
+}

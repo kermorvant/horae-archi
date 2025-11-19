@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image displays a decorative border with intricate black ink illustrations on a parchment background. The border features stylized floral motifs, including a prominent flower with multiple petals and swirling leaves. Interspersed within the foliage are depictions of fantastical creatures and human figures. One section shows a creature resembling a rabbit or hare, with detailed fur texture, positioned above a serpentine or dragon-like creature. Further down, a human figure with a crowned head and a beard is visible, with hands clasped. The overall impression is one of a richly ornamented margin, likely from a medieval manuscript, possibly a Book of Hours, intended to frame a larger illustration or text.",
+    "scene_interpretation": "Decorative Border",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "crowned figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0059/3823,506,251,4149/full/0/default.jpg"
+}

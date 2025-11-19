@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a procession outdoors, with a central figure, presumably Christ, being led by a man in a green tunic. Christ is dressed in a purple robe and has his hands bound. He is being approached by a figure in an orange tunic who is kneeling and reaching out to him. Behind Christ, a man in a red tunic appears to be speaking to him. A group of soldiers in armor and helmets follow, carrying spears and other weapons. In the background, a town with buildings and a church spire is visible under a blue sky. The overall impression is one of arrest or condemnation.",
+    "scene_interpretation": "Kiss of Judas",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ott.lat.548/Ott.lat.548_0112_fa_0054v.jp2/314,192,449,703/full/0/default.jpg"
+}

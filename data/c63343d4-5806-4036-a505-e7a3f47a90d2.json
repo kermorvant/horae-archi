@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Luke the Evangelist, identifiable by his halo and the presence of his symbol, the ox, kneeling and writing in a large book. He is seated within an architectural setting that appears to be a study or scriptorium, characterized by columns, arches, and a window with tracery. Above him, a timber-framed structure with small windows is visible, suggesting an upper level or a more complex building. The ox, also with a halo, is positioned to the right of Saint Luke, looking towards him. The overall composition is framed by decorative foliage at the top.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "roof",
+        "stairs",
+        "wall"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f384/364,22,1164,1651/full/0/default.jpg"
+}

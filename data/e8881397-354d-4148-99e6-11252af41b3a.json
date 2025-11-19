@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, identified by a halo as a saintly figure, is seated and engrossed in reading from a lectern. He wears a white tunic and a red and gold robe. Beside him, a small, furry animal, possibly a dog or a lion cub, sits attentively. The background is a vibrant blue with gold decorative patterns. To the right, a section of text from a manuscript is visible, framed by an ornamental border.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55006457g/f36/314,667,432,405/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "Two figures, likely clergy, stand before an altar draped with an orange cloth. The figure on the left, wearing a white alb and a green stole, holds a processional cross or staff. The figure on the right, also in clerical attire, holds an open book and a blue vessel, possibly a ewer. Behind the altar, a white cross stands against a gold, diamond-patterned background. Three candlesticks with unlit candles are placed on the altar.",
+    "scene_interpretation": "Liturgical Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "altar",
+        "cross",
+        "candlestick",
+        "wall"
+    ],
+    "persons": [
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1415081/490,668,1422,1375/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. On the left, a man in a golden robe and a distinctive white and blue patterned hat holds a scroll or document. He is facing a central figure who appears to be Christ, identifiable by the golden halo around his head and his gesture of placing a hand on his chest. Christ wears a blue robe adorned with gold patterns and has his hands bound. Behind Christ, two figures in green helmets and red tunics stand guard. The background suggests an interior space with architectural elements like a doorway or archway.",
+    "scene_interpretation": "Christ Before Pilate",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_010v.jp2/1166,413,1235,2220/full/0/default.jpg"
+}

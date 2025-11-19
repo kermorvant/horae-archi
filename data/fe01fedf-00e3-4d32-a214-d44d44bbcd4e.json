@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a rural landscape with four men engaged in agricultural labor. In the foreground, a man with a white beard and wearing a yellow tunic is tending to a bare-branched shrub. Behind him, another man in a blue tunic and pink hose swings a scythe. Further back, two other men, one in a pink tunic and the other in a gold tunic, are also working the land with tools. In the middle ground, several buildings with red roofs are visible, nestled among trees. In the background, a fortified castle or town sits atop a hill, bathed in golden light. The sky is a pale blue with streaks of gold.",
+    "scene_interpretation": "This scene likely represents the month of March or April, depicting agricultural activities such as pruning and plowing, which are typical for early spring. It could also be an allegorical representation of the labors of the month, a common theme in Books of Hours, symbolizing the cyclical nature of life and work.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f73/931,4255,3016,1323/full/0/default.jpg"
+}

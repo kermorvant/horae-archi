@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with rolling hills, a river, and a lone tree. In the foreground, three figures are gathered: one plays bagpipes, another holds a bowl, and a third stands with a shepherd's crook. Several sheep are scattered around them, and a dog looks upwards. Above, an angel with wings unfurled descends from a starry blue sky, holding a scroll with Latin text. The overall scene evokes a peaceful, idyllic rural setting, likely representing a moment of divine announcement or blessing upon humble shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/2235811/2235014.tif/861,548,1382,1951/full/0/default.jpg"
+}

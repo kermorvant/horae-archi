@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and wearing a purple robe, stumbling under the weight of the cross. He is being assisted by two figures, one in a blue tunic and the other in a red cloak, who are struggling to lift the heavy wooden beam. Behind them, a crowd of onlookers and soldiers are visible, some carrying sticks and spears. In the background, a fortified city gate with a large arched entrance and towers suggests the setting is outside the city walls, possibly on the road to Golgotha. The overall atmosphere is one of suffering and persecution.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f201/391,1216,837,1299/full/0/default.jpg"
+}

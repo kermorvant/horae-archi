@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a skeletal figure, personifying Death, seated within an architectural setting. Death holds a long staff and appears to be interacting with a large, ornate column or pedestal. In the foreground, a tombstone with a cross emblem and scattered flowers suggest themes of mortality and remembrance. The background features architectural elements such as arches and columns, creating a sense of an interior space, possibly a church or a grand hall, emphasizing the solemnity and inevitability of death.",
+    "scene_interpretation": "Memento Mori",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0061/698,442,627,1172/full/0/default.jpg"
+}

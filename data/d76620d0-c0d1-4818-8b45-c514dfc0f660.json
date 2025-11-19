@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary, with her lying on a richly decorated bed, surrounded by mourners. Two figures, likely apostles, stand on either side of the bed, one on the left in a blue robe and the other on the right in a red robe. A crowd of onlookers is gathered behind them, some with hands clasped in prayer or grief. In the background, a classical architectural setting is suggested with columns and an entablature. Above the scene, a depiction of the Virgin Mary in blue, with hands clasped in prayer and a halo, is shown within an oval frame, possibly representing her ascension or assumption into heaven. The floor is tiled in a checkerboard pattern with decorative elements.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "roof",
+        "door",
+        "capital",
+        "arcade"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_INCRIA063/DEPOT/B721816101_INCRIA063_0042/1361,422,1827,3037/full/0/default.jpg"
+}

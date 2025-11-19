@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a crowned man, likely King David, kneeling in prayer outdoors. He wears a royal blue mantle over a grey tunic and has a beard and a crown. His hands are clasped in supplication, and he looks upwards towards a divine figure emerging from a blue cloud. To his right, a golden harp stands prominently. In the background, a walled city with numerous towers and buildings, including a prominent church with a dome and spires, is visible. The landscape is hilly and green, with trees and pathways.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "dome",
+        "spire",
+        "wall",
+        "tower",
+        "arch"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/hr678ct7683%2FW279_000228_1200/5124,1349,3103,5532/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Last Judgment, with Christ enthroned in the heavens, displaying the wounds of his crucifixion. He is flanked by the Virgin Mary on his left and John the Baptist on his right, both in prayer. Two angels blow trumpets, signaling the resurrection of the dead. Below, figures emerge from their graves, some in prayer, others seemingly in awe or despair, set against a rocky, barren landscape. The overall composition is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "John the Baptist",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100241520/f355/514,371,1007,1258/full/0/default.jpg"
+}

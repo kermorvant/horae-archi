@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Sebastian, who is shown tied to a tree and pierced by multiple arrows. Two archers, one in a red tunic and the other in a blue tunic, are actively shooting arrows at him. In the background, a fortified city with towers and walls is visible under a blue sky with a radiant sun. The landscape is green with a winding path.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0022/DEPOT/B441096101_MS0022_0143/3696,600,1269,1895/full/0/default.jpg"
+}

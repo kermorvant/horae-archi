@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary cradling the Christ Child, seated in a lush green landscape. To the left, a man in a blue tunic and hat leads a horse to a trough of water, accompanied by two winged cherubic figures. One cherub holds a golden bucket, while the other appears to be assisting with the horse. In the background, a winding river flows past a walled city with towers and a castle, nestled amidst rolling hills and rocky outcrops. Two winged figures are depicted in the sky above. The overall scene evokes a sense of peaceful journey and divine protection.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "walled_city",
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550130827/f104/305,343,1294,1952/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an outdoor setting, indicated by the ground beneath their feet and the blue background suggesting sky or a backdrop. In the center, two figures are embracing, one with a golden halo, suggesting a significant religious figure. To the left, a man with a halo, also in a pink robe, gestures with his hands. Another figure in a pink robe and blue hat stands behind him. To the far left, a figure in a pink tunic looks upwards. In the foreground, a kneeling figure in a green tunic and blue hat clasps his hands. To the right of the central embrace, several figures in blue and red attire, some with hoods, are present, with one figure in blue armor. The overall impression is one of a dramatic event involving multiple individuals.",
+    "scene_interpretation": "Kiss of Judas",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515833p/f274/453,1075,1158,930/full/0/default.jpg"
+}

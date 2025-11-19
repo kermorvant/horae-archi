@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ, a pivotal moment in the Passion narrative. Christ, with a halo, stands bound and partially draped in a loincloth, enduring the torment inflicted by four figures. Two figures on the left, one in green and white, the other in blue, pull at Christ's body and scourges. Another figure in orange and blue on the right raises a scourge, while a fourth figure in brown stands behind, seemingly observing or directing. The background is a patterned textile, suggesting an indoor setting, possibly a prison or a place of judgment. Above, a brick-lined vaulted structure is visible, supported by a blue column. The overall composition is framed by decorative foliage.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_006%2Fwidener_006_jp2.zip%2Fwidener_006_jp2%2Fwidener_006_0280.jp2/966,1006,1913,2821/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts two figures seated at a table with an open book between them. Both figures are robed in gold and white garments, with one figure wearing a hood. Above them, a white dove with outstretched wings, radiating golden light, is depicted. The figures appear to be engaged in study or discussion. The architectural elements suggest a divine or sacred setting, with ornate columns and drapery.",
+    "scene_interpretation": "The Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "God the Father",
+        "Jesus Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025549k/f326/629,333,693,916/full/0/default.jpg"
+}

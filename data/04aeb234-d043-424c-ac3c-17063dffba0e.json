@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Luke the Evangelist, identifiable by his halo and the ox symbol behind him, painting an icon of the Virgin Mary and Child. He is seated, wearing a red robe and a blue headdress, and is actively applying paint to a small panel on an easel with a brush. He holds a palette in his left hand. The background is dark, suggesting an indoor or studio setting, with a golden border framing the entire composition.",
+    "scene_interpretation": "Saint Luke painting the Virgin Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Luke",
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550106099/f36/398,991,470,536/full/0/default.jpg"
+}

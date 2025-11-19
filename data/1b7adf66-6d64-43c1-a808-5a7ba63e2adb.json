@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her blue robe and halo, gently touching her abdomen. She is accompanied by Saint Elizabeth, who is older, wears a yellow and pink robe, and is also pregnant, indicated by her hand on her belly. They are in an interior space with a large window showing a castle in the distance. To the right, a fireplace with a mantelpiece and decorative elements is visible, along with a wooden lectern holding an open book with musical notation. The floor is tiled in a geometric pattern. The overall impression is one of quiet intimacy and shared anticipation.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "window",
+        "roof",
+        "wall",
+        "arch",
+        "door",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0064/1508,1702,741,1433/full/0/default.jpg"
+}

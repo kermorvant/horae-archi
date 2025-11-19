@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. A bishop, wearing a mitre, holds the Christ Child, who is swaddled in white. He presents the child to the Virgin Mary, who is dressed in blue and white and reaches out to receive him. To the left, Saint Joseph, identifiable by his grey beard and halo, holds two doves, a traditional offering. Behind him stand two other figures, one wearing a green cap. To the right of the Virgin Mary stands a young woman, possibly an attendant. The figures are positioned within an architectural setting that suggests a temple or church interior, with columns, an altar-like structure, and windows with tracery visible in the background. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "column",
+        "window",
+        "tracery_window",
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f89/358,169,1521,2093/full/0/default.jpg"
+}

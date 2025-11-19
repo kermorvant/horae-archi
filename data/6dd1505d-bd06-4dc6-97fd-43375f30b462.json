@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body emaciated and bleeding. To the left, the Virgin Mary, draped in a blue mantle, stands with her hands clasped, her face etched with sorrow, accompanied by another woman. To the right, a soldier in a purple tunic and a distinctive helmet, holding a spear, gestures towards the cross. Behind him, other figures, including a young man in an orange tunic, are visible, along with a banner bearing a heraldic device. The setting is an outdoor landscape with a rocky hill and a pale blue sky, suggesting the event takes place on Golgotha. The inscription 'INRI' is visible on the cross.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.387/Barb.lat.387_0184_fa_0090v.jp2/361,144,389,609/full/0/default.jpg"
+}

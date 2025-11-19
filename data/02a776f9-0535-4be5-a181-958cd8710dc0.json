@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ at the center, standing and addressing a group of figures seated around a table. He is shown with a halo and wounds on his hands and side, holding a staff. The seated figures, also with halos, are engaged in conversation or listening. Some wear blue robes adorned with gold patterns, while others wear gold robes. The table is laden with bread. Above the figures, a golden sunburst emanates from a circular emblem with the inscription 'IHS'. The scene is framed by an arched architectural element decorated with foliage and gold patterns. The lower part of the image shows a decorative architectural frieze.",
+    "scene_interpretation": "Last Supper",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0110/utp-0110_019r.jp2/1215,612,2665,4121/full/0/default.jpg"
+}

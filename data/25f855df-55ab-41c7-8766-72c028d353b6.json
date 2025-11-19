@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, dressed in a blue robe adorned with gold patterns, rides a donkey, cradling the Christ Child who is wrapped in a striped cloth. Saint Joseph, wearing a red tunic and black cloak, walks beside the donkey, holding its reins. An angel with red wings and a pink robe hovers above and to the left, looking down with a serene expression. The background is a vibrant blue sky with golden rays emanating from above, suggesting divine presence, and a stylized green landscape with rolling hills and a small cluster of trees. The figures are rendered with halos, indicating their sanctity.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0029/DEPOT/352386106_MS0029_0067/3527,609,1438,1860/full/0/default.jpg"
+}

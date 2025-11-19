@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, identified as John the Baptist, kneels in a grassy landscape under a blue, cloud-filled sky. He wears a simple, draped garment and points towards a lamb. The lamb, also wearing a halo, stands on a hillock and looks towards John the Baptist. A red banner flies from a pole behind the lamb. The scene is rendered with a flat perspective and vibrant colors, typical of medieval manuscript illumination.",
+    "scene_interpretation": "The Adoration of the Lamb",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000466t/f163/278,1572,616,589/full/0/default.jpg"
+}

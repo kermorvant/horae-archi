@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable structure, suggested by the presence of a manger and straw. The Virgin Mary, clad in a blue robe, kneels beside the Christ Child, who lies on a blue cloth on the ground. To the right, an elderly man, likely Saint Joseph, kneels with his hands raised in prayer and awe. Behind them, a donkey and an ox are visible. The architectural setting features classical columns with ornate capitals and arches, suggesting a blend of humble stable and classical ruins. Above, a group of figures, possibly shepherds or angels, are seen in the background, illuminated by divine light descending from above.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100248249/f147/314,309,1074,1489/full/0/default.jpg"
+}

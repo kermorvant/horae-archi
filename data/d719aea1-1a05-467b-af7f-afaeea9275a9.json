@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "An angel descends from a golden halo, radiating light upon a pastoral scene. Below, three men are depicted. One, lying on the ground with his hand to his face, appears to be in distress or awe. Another man, seated and looking upwards, rests his hand on the first man's shoulder. A third man, standing and holding a staff, also gazes skyward. In the background, a flock of sheep grazes in a field, and a building with a pitched roof is visible. The scene is set in an outdoor landscape with trees and rolling hills.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f67/223,312,2018,3029/full/0/default.jpg"
+}

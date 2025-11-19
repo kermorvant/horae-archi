@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A kneeling figure, likely a monk or nun due to the white habit and tonsure, prays with clasped hands, holding a staff topped with a golden, ornate crook. Above and to the left, a vision appears in the sky: the Virgin Mary, crowned and holding the Christ Child, is depicted with rays of light emanating from them. The background is a landscape with rolling green hills and distant, stylized buildings that suggest a town or city. The scene is framed by decorative borders, with gold leaf accents throughout.",
+    "scene_interpretation": "Vision of the Virgin and Child",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "staff"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0021/DEPOT/B441096101_MS0021_0174/3431,1121,1001,1081/full/0/default.jpg"
+}

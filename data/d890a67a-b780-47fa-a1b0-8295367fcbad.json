@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts the Virgin Mary, crowned and with a halo, holding the Christ Child on her lap. She wears a golden dress and a blue mantle. The Christ Child, also with a halo, is dressed in a golden tunic and holds a small red orb, possibly representing the world or an apple. The background is a rich red tapestry adorned with gold floral motifs. The scene is framed by an arched border with gold and red decorative elements.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53000319s/f235/226,228,481,713/full/0/default.jpg"
+}

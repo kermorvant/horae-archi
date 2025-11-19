@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A man in full armor, with a long grey hair and a serene expression, kneels with his hands clasped in prayer before an open book resting on a green draped lectern. He is positioned within a richly decorated tent-like structure, suggested by the draped blue and pink fabric and the gold decorative elements. Behind him, a tapestry-like background features intricate gold patterns. To the right of the kneeling figure, a plumed helmet rests on the ground, indicating his martial status. The overall scene suggests a moment of private devotion, possibly before or after a battle, or as part of a daily prayer ritual.",
+    "scene_interpretation": "Devotional Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xb915nd9363%2FW439_000030_1200/4761,965,2747,5031/full/0/default.jpg"
+}

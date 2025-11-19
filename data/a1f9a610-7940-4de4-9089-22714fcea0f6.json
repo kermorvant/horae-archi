@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "A man identified as David, wearing a blue and gold patterned robe and a fur-trimmed mantle, rides a donkey. He looks upwards with his mouth open. To the right, a figure in a black habit and white wimple holds a banner with the inscription \"CONFI PLARIO\" and a green apple. This figure stands in front of a building with a large window revealing an interior with a bed and a green vase. The scene is framed by architectural elements, including columns and crenellated walls, with glimpses of other buildings and a green landscape in the background.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "window",
+        "battlement",
+        "roof",
+        "gable",
+        "turret"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0382.jp2/2197,1788,1444,1327/full/0/default.jpg"
+}

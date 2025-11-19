@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary at the center, surrounded by the Apostles. They are seated on a wooden bench within an architectural space that features vaulted ceilings and decorative gold elements. All figures are looking upwards with hands clasped in prayer or raised in supplication. Above them, a dove, representing the Holy Spirit, descends from a golden, starry sky, with rays of light emanating downwards. The architectural setting is ornate, suggesting a sacred or important interior space.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1041282/694,187,1636,2845/full/0/default.jpg"
+}

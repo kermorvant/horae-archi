@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A saint, identified by a golden halo, is depicted riding a green dragon. The saint is seated on the dragon's back, with hands clasped in prayer. The dragon has red eyes and is holding a blue cloth in its mouth. The scene takes place within an architectural setting featuring brick walls, arched openings with blue, star-patterned canopies, and windows with diamond-shaped tracery. The floor is tiled in a checkered pattern of blue and white with gold lines. The overall impression is one of a saint triumphing over a demonic creature within a stylized interior.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55005731r/f86/541,436,487,535/full/0/default.jpg"
+}

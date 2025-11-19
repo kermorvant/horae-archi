@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Adam and Eve standing beside a tree bearing fruit. Adam, on the left, has his hand on his chest and is partially covered by a leaf. Eve, on the right, is also partially covered by a leaf and appears to be reaching towards the tree. A third, less distinct figure is visible behind the tree, possibly representing God or another entity. The background is filled with foliage and stylized floral elements. Above the figures, architectural elements suggestive of Gothic tracery are visible, framing the scene.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "tracery_window",
+        "undefined_element"
+    ],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0084/5953,3492,689,1216/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross dominating the upper portion. Below, on the left, stand three women in mourning attire, one with her hands clasped. On the right, two women are present, one holding a chalice or vessel. In the background, a landscape unfolds with a walled city and numerous figures on horseback, suggesting a procession or a battle scene. The overall composition conveys the solemnity and tragedy of the event.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00147/116,61,896,1588/full/0/default.jpg"
+}

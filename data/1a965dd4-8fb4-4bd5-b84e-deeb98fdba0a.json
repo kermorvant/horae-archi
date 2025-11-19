@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a Gothic architectural framework. In the foreground, the Virgin Mary, clad in a blue robe, cradles the Christ Child in a manger. To the right, Saint Joseph kneels in prayer. Behind them, a donkey and an ox are visible, their heads bowed. The background features rolling hills and a stylized landscape, with the sky rendered in a vibrant blue. The architectural elements, including pointed arches and ornate tracery, frame the scene, suggesting a divine or sacred setting.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "tracery_window",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f30/477,366,767,1794/full/0/default.jpg"
+}

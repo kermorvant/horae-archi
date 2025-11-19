@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A youthful male saint, identified by a golden halo, stands in a landscape. He wears a white robe with gold trim and holds a palm frond in his left hand and a staff in his right. The background depicts a stylized forest with dark, dense foliage and slender trees, transitioning to rolling hills and distant architectural elements. In the foreground, a dark, barred fence separates the viewer from the saint, and scattered stones lie on the ground. The overall impression is one of serene contemplation within a pastoral setting, possibly representing a martyr or a holy figure in prayer or contemplation.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f159/280,244,1989,3189/full/0/default.jpg"
+}

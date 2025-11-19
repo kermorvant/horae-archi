@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts the expulsion of Adam and Eve from the Garden of Eden. In the foreground, a robed figure, likely God, gestures towards Adam and Eve, who are shown naked. Adam reclines on the ground, while Eve stands beside him, looking towards the viewer. Behind them, an angel with wings and a sword drives them out of a walled garden, which is populated by other naked figures. The background features a cityscape with towers and buildings, and a swan is depicted in the lower right corner. The overall composition suggests a narrative of sin and consequence, with the expulsion from paradise.",
+    "scene_interpretation": "Expulsion from the Garden of Eden",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "arch",
+        "battlement",
+        "door",
+        "gable",
+        "pinnacle"
+    ],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00032/931,441,1307,1830/full/0/default.jpg"
+}

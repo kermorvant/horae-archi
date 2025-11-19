@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a procession outdoors. A central figure, presumably Christ, is led by a man in a red hat and blue tunic, who holds a rope attached to Christ's hands. Christ is dressed in a long, muted purple robe and appears to be bound. Behind Christ, soldiers in armor and helmets are visible, carrying spears. The setting is a hilly landscape with sparse vegetation and a blue sky dotted with gold specks. The ground is rendered in shades of pink and green, with a path winding through it. The overall impression is one of arrest or procession to judgment.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Soldier"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892275/1558,1582,404,1358/full/0/default.jpg"
+}

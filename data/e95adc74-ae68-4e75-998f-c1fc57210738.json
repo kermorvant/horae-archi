@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene is divided into two distinct sections, framed by ornate golden columns and arches. On the left, a man in a red cap, a dark cloak lined with fur, and red hose stands with his hands raised in a gesture of supplication or prayer. He is positioned within an interior space that features a fireplace with flames and a metal grate. To the right, another figure, also wearing a red cap and red hose, is depicted carrying a heavy wooden beam across his shoulders. This figure appears to be outside, with a castle or fortified building visible in the background. The overall impression is one of contrast between an indoor, possibly domestic or devotional setting, and an outdoor, more arduous task.",
+    "scene_interpretation": "The scene likely depicts a moment from the Passion of Christ, specifically Christ carrying the cross. The figure on the left, with his hands raised and dressed in rich attire, could represent a supplicant or a viewer contemplating Christ's suffering. The figure on the right, burdened by the crossbeam, is a clear representation of Christ's arduous journey. The juxtaposition of the two figures and settings might symbolize the personal devotion of the viewer (left) in relation to Christ's public suffering (right).",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "door",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_004/226,1101,1351,1036/full/0/default.jpg"
+}

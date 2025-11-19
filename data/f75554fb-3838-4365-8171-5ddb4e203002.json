@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a central figure identified as Christ, who is gesturing with his right hand. To Christ's left, a woman with long hair is looking towards him, her hands clasped in front of her. To Christ's right, a man kneels with his hands clasped in prayer. Behind Christ and the woman are several other figures, some wearing helmets, suggesting a crowd or possibly soldiers. The scene is framed by an architectural element resembling an arch with decorative carving, suggesting an interior or a structured setting. The overall composition suggests a moment of teaching, healing, or divine interaction.",
+    "scene_interpretation": "Christ Healing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0041/5075,2881,575,1044/full/0/default.jpg"
+}

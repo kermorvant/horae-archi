@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and crozier, stands to the right of a wooden tub filled with water. Three nude children are immersed in the tub, their hands clasped in prayer. The bishop, dressed in a richly decorated blue cope and a red dalmatic, points towards the children. Above him, in a celestial realm depicted with a golden and blue patterned background, God the Father is shown with a halo and rays of light, his hand raised in blessing. The scene is framed by an architectural arch with decorative foliate motifs. The setting appears to be outdoors, with a rocky outcrop and vegetation on the right, and a green grassy area at the bottom.",
+    "scene_interpretation": "Miracle of Saint Nicholas",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F305_B.11.32_f161r.jp2/910,596,1940,2221/full/0/default.jpg"
+}

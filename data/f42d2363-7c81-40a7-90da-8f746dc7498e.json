@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Two bearded men, likely scholars or religious figures, stand within an arched architectural setting. The man on the left, wearing a dark robe and a cap, holds open a large, illuminated manuscript. The man on the right, also in a dark robe, holds a tablet or scroll and appears to be listening or in contemplation. The background reveals architectural elements such as columns, arches, and patterned walls, suggesting an interior space that could be a library, scriptorium, or a part of a religious building. The overall scene evokes an atmosphere of learning and spiritual discourse.",
+    "scene_interpretation": "Scholarly Discourse",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0156/2896,406,1346,1666/full/0/default.jpg"
+}

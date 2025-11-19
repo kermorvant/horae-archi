@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, depicted as naked and bound, stands centrally, his head bowed. Two figures, presumably tormentors, are shown inflicting pain. The figure on the left, wearing red leggings and a white tunic, raises a rod or whip to strike Christ. The figure on the right, dressed in a blue tunic and a green cap, wields a bundle of twigs or a whip, striking Christ's torso. The background is a plain, grey wall, suggesting a prison or a place of confinement. The scene is framed by architectural elements on the sides, possibly columns or pilasters, with ornamental details.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/8e1890c2-304f-4ed2-9d48-bca841b44bc2/1859,4774,1045,1244/full/0/default.jpg"
+}

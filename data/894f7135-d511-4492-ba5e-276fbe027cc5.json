@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation ceremony within a richly decorated architectural structure. A central altar-like structure, adorned with red and gold, holds the Christ Child, who is presented by the Virgin Mary. To the left, Joseph, dressed in pink, holds a basket. To the right, an elderly man in a green robe, likely Simeon, receives the child. Behind him stands a woman in blue, possibly Anna. The architectural setting features arches, columns, and a decorative roof, all set against a background of intricate gold scrollwork on a blue field. This scene likely represents the Presentation of Christ in the Temple, a significant event in the life of Jesus.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00050/388,206,1031,1322/full/0/default.jpg"
+}

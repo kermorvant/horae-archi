@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, kneels on a rocky, undulating landscape. The figure wears a grey robe with white and yellow trim and holds a rosary in their right hand, while their left hand rests on a circular object with decorative elements. To the left, a golden chalice is depicted. The background features stylized trees and rolling hills under a blue sky. The overall scene suggests a moment of contemplation or prayer in a natural, albeit somewhat abstract, setting.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550092764/f17/316,419,743,735/full/0/default.jpg"
+}

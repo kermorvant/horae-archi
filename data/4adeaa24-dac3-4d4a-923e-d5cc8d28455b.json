@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a dramatic moment within an interior space, likely a royal chamber. A king, seated on a raised platform and adorned with a crown and royal blue robes, presides over the scene. Before him, a woman in a blue, star-patterned gown kneels, presenting a baby. To her side, a soldier in armor, holding a sword aloft, appears to be in the act of threatening the infant. Another woman, standing to the left, holds a swaddled baby. The background features a richly patterned tapestry and a green, conical lamp or chandelier. The floor is a black and yellow checkered pattern. This scene is interpreted as the Judgment of Solomon, where the wise king is asked to determine the true mother of a child by proposing to divide it, thus revealing the birth mother through her maternal instinct.",
+    "scene_interpretation": "Judgment of Solomon",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "King Solomon",
+        "Woman",
+        "Soldier",
+        "Woman",
+        "Infant"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_003%2Fwidener_003_jp2.zip%2Fwidener_003_jp2%2Fwidener_003_0138.jp2/352,938,1466,1695/full/0/default.jpg"
+}

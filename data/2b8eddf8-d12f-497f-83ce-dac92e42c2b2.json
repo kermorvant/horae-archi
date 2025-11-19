@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ within a rustic stable. The Virgin Mary, adorned in a blue robe with gold stars, kneels beside the Christ Child, who lies on a blue cloth. Saint Joseph, an elderly figure with a beard, leans on a staff, looking towards the child. A cow and a donkey are visible within the stable. Above, in a celestial realm, God the Father is depicted with a halo, flanked by two angels. In the background, a walled city with prominent towers and spires is visible, set against a rolling green landscape.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph",
+        "God the Father",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0106.jp2/647,714,2984,3420/full/0/default.jpg"
+}

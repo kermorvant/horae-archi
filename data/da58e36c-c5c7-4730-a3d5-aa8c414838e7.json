@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts an interior space with a large, golden balance scale suspended from the ceiling. The scale has two shallow pans, one on each side, hanging by thin cords. The background shows a dimly lit architectural setting with what appear to be doorways or openings in the distance. The overall impression is one of a place where judgment or measurement is taking place. The presence of the balance scale strongly suggests a theme of justice or divine judgment.",
+    "scene_interpretation": "Judgment",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "door"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3770/Vat.lat.3770_0015_fa_0005r.jp2/956,2644,664,624/full/0/default.jpg"
+}

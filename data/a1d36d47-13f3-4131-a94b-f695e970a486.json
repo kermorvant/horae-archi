@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition from the Cross. Christ, with a halo, is being lowered from a wooden cross. A man in an orange robe, standing on a ladder, is carefully supporting Christ's body, while another figure in a blue robe, also on a ladder, holds Christ's legs. Below, the Virgin Mary, draped in a blue mantle and hood, looks upwards with sorrow. The background features a lush green landscape with trees and a distant view of a walled city with towers and spires. The sky is a deep blue, dotted with golden stars, and a plaque with the inscription 'INRI' is visible on the cross.",
+    "scene_interpretation": "Deposition from the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/71dad5d3-36dd-4ae4-8282-6cdee6ad14f6/2312,1218,2110,3436/full/0/default.jpg"
+}

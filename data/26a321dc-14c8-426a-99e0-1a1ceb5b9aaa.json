@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the Virgin Mary cradling the body of her dead son. Christ's body is shown in a contorted pose, with wounds visible. The Virgin Mary, with a sorrowful expression, supports him. To the left, a figure with a halo, possibly John the Evangelist, looks on with grief. Below them, a kneeling monk in a habit prays fervently. To the right, another figure with a halo, likely Mary Magdalene, also appears in prayer, with a kneeling woman in a crown beside her, possibly a donor figure or a saint. The background is abstract, with clouds and hints of rocky terrain, suggesting a spiritual or heavenly setting. The entire composition is framed by an ornate, decorative arch with intricate patterns.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10035924b/f211/1376,514,892,1655/full/0/default.jpg"
+}

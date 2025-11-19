@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man with a halo, dressed in a dark green tunic with gold trim, kneeling on a green grassy area. He holds an open book in his left hand and has a quiver of arrows on his back. To his left, a small lamb with a halo stands. The background consists of a pinkish-red textured wall and a blue sky. The scene is framed by a gold border.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/br791wh6450%2FW435_000330_1200/4474,3430,1158,2107/full/0/default.jpg"
+}

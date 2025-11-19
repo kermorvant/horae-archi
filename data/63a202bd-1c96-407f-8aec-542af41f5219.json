@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A young woman with long, flowing blonde hair, wearing a rich red gown, is seated in a garden setting. She is holding a circular object, possibly a wreath or a basket, adorned with small blue and red flowers. Behind her, a trellis covered in green foliage and small red and blue blossoms frames the scene on the left. In the background, a stone tower with a tiled roof and adjacent buildings are visible, suggesting a domestic or monastic complex. The overall impression is one of serene contemplation in a cultivated outdoor space.",
+    "scene_interpretation": "The scene likely depicts a devotional theme, possibly representing a virtuous woman engaged in a peaceful activity, or a symbolic representation of a garden of love or contemplation. The flowers could hold symbolic meaning, though without further context, it's difficult to pinpoint a specific interpretation. It could also be a representation of a specific saint or a figure from secular literature.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f14/842,241,470,877/full/0/default.jpg"
+}

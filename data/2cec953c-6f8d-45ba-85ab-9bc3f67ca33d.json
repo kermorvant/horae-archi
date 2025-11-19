@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed woman, likely the Virgin Mary, stands draped in a pink mantle over a blue garment. She holds a golden vessel, possibly a reliquary or a lamp, in her hands. Her gaze is downcast. To her left, a stylized tree with sparse foliage stands against a red, patterned background. To her right, a hazy, light-colored form suggests another figure or a cloud formation. The ground beneath her feet is depicted as a textured, blue-grey area. The overall scene is framed by decorative borders.",
+    "scene_interpretation": "The scene is likely a devotional image of the Virgin Mary, possibly representing her role as the vessel of Christ or as a figure of contemplation and prayer. The golden object she holds could symbolize divine light or a sacred relic. The stylized nature of the background and the presence of a tree suggest a symbolic rather than a literal setting.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://images.lib.cam.ac.uk/iiif/MS-FF-00006-00008-000-00044.jp2/1686,2237,1990,2743/full/0/default.jpg"
+}

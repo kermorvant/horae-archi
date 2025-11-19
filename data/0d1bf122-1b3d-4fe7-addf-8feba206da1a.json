@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a stylized architectural setting, possibly representing a divine or sacred space, with ornate spires and decorative elements. Within this structure, a figure resembling God, with a halo, stands to the right, gesturing with his right hand. To the left, a naked figure, likely Adam, reclines on a rock, appearing to be asleep or in a state of repose. A green, leafy tree is prominently displayed between them. The overall composition suggests a moment of creation or divine intervention.",
+    "scene_interpretation": "Creation of Adam",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "spire",
+        "wall",
+        "column",
+        "canopy",
+        "microarchitecture"
+    ],
+    "persons": [
+        "God",
+        "Adam"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dk442xf9851%2FW90_000039_1200/614,1820,2242,3523/full/0/default.jpg"
+}

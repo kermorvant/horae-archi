@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Martin on horseback, dressed in full armor and a red-trimmed hat, cutting a portion of his cloak to give to a beggar. The beggar, kneeling and partially unclothed, extends his hands to receive the fabric. Behind Saint Martin, a contingent of armored soldiers on horseback follows, carrying lances. In the background, a fortified building with towers and arched windows is visible, set against a landscape of trees and a blue sky. The overall scene is framed by an ornate border.",
+    "scene_interpretation": "The Giving of Alms by Saint Martin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Martin"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:41:5:wdl_14415:167_74G37_080r/521,220,1091,1687/full/0/default.jpg"
+}

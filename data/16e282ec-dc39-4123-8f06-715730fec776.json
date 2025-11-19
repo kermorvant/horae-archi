@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity. On the left, God the Father, identifiable by the cross with the inscription \"INRI\" and his beard, holds an open book. To his right, Christ, also bearded and with a halo, holds a golden orb, symbolizing the world. Above them, the Holy Spirit is represented as a white dove with outstretched wings. The figures are seated, with the Holy Father supporting the book and Christ leaning towards it. The background is a stylized representation of clouds and golden rays, suggesting a divine setting.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Caen/Musee_des_Beaux_Arts/141185204_coll_mancel_ms0238/DEPOT/141185204_coll_mancel_ms0238_0055/3484,930,1075,1514/full/0/default.jpg"
+}

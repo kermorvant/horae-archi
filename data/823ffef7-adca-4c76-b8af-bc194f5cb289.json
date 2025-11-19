@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ's body, pale and marked with wounds, is being carefully lowered by several figures. One man, dressed in a blue robe and red hat, stands on a ladder, supporting Christ's torso. Another figure, in a golden patterned robe and green head covering, cradles Christ's legs. To the left, the Virgin Mary, in a pink robe, and another woman in blue, possibly Mary Magdalene, reach out towards Christ. A woman in a green robe stands beside them. To the right, a man in a green tunic and blue hose holds a vessel, likely for anointing or collecting blood, and a sword is sheathed at his side. Two other figures are crucified on crosses in the background, one on the left and one on the right, their bodies limp. The setting is an outdoor, hilly landscape with sparse vegetation and a distant view of a church with a spire. A ladder is propped against the central cross, facilitating the removal of Christ's body. The inscription at the top reads 'IHS NAZARENVS REX IVDEORVM'.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "ladder",
+        "cross",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55007801k/f412/197,145,1517,2076/full/0/default.jpg"
+}

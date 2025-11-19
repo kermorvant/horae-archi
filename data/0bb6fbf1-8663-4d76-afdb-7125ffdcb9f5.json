@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a domestic interior, likely a bedroom, where a woman in white habit and veil, with hands clasped in prayer, is attended by another woman in a green garment. They are positioned near a bed draped with rich red and gold fabric. In the foreground, a cleric in white vestments holds a golden object, possibly a chalice or reliquary, towards the seated woman. Another man in white and a cap stands behind the cleric. The room features a tiled floor and a patterned tapestry or wall hanging.",
+    "scene_interpretation": "The scene likely represents the Last Rites or a devotional moment for a dying or seriously ill person, possibly a noblewoman given the rich furnishings. The presence of the cleric with a sacred object suggests a religious ceremony. The woman in white habit could be a nun or a devout laywoman. The overall atmosphere is one of solemnity and spiritual preparation.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024151j/f221/1476,1006,514,889/full/0/default.jpg"
+}

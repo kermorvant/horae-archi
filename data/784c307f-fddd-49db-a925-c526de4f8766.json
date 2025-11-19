@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A single figure, likely a saint, stands within an architectural niche. The figure wears a tonsured haircut and a monastic habit, suggesting a religious vocation. They hold a staff or crosier in their left hand and a cross in their right hand. The background is patterned with diagonal lines, and the niche is framed by architectural elements that suggest an archway.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00166/920,561,390,614/full/0/default.jpg"
+}

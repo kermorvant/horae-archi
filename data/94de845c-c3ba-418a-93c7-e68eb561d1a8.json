@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a crown and a tunic. He has long, wavy hair and his hands are clasped in front of him, suggesting a pose of prayer or contemplation. The figure is framed by an architectural element that appears to be an arch, possibly part of a larger structure. The background is filled with a stippled pattern, suggesting a celestial or divine setting.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0068/4354,3848,236,587/full/0/default.jpg"
+}

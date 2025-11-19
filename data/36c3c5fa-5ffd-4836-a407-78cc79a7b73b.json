@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A seated figure, likely a woman, wearing a blue robe over an orange garment and a green veil, gestures with her left hand towards a fireplace. She is seated on a stool. To her right, a standing figure, possibly a servant or messenger, carries a bundle of wood on their shoulder. The scene takes place indoors, with a tiled floor and a stone or brick wall in the background. An arched opening is visible on the right, revealing a glimpse of an outdoor landscape with hills and trees. The presence of a fireplace and the act of carrying wood suggest a domestic setting, possibly related to preparing for warmth or a task within the household.",
+    "scene_interpretation": "Domestic Scene",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/646198f9-f3b7-4af5-974d-fa05c0419d31/1138,856,885,890/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a richly decorated architectural setting. The Virgin Mary, draped in a blue mantle, tenderly holds the Christ Child. Three Magi approach, offering gifts. The first Magi, wearing a red cap and green robe, holds a golden chalice. The second Magi, with dark skin and a blue and orange headdress, carries a similar vessel. The third Magi, an elderly man with white hair, kneels and presents a golden orb. The background features a gold leaf sky with a distant landscape of hills and trees, suggesting an outdoor setting beyond the immediate architectural enclosure. The foreground is framed by ornate, dark brown architectural elements with golden tracery, resembling a balcony or loggia.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_126/892,445,1618,2306/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint or cleric, is depicted reading a green-bound book. The figure wears a white garment with subtle vertical folds and a dark collar. The background is a dark, brick-like pattern, with vertical golden lines suggesting architectural elements or drapery. The figure's eyes are closed, conveying a sense of contemplation or prayer. The scene is framed by a decorative border.",
+    "scene_interpretation": "Devotional Reading",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://diglib.uibk.ac.at/ulbtirolhds/i3f/v20/6013227/1804,1688,1912,1593/full/0/default.jpg"
+}

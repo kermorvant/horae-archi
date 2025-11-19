@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts King David kneeling in prayer outdoors, looking upwards towards a divine vision. He is richly robed in blue and red, with a fur-lined mantle. Before him lies a harp, partially covered by a cloth, and a crown. In the background, a walled city with towers and spires is visible, along with rolling hills and trees. Above, a divine apparition shows God the Father, crowned and holding a book, flanked by two angels. An angel with a sword stands atop a blue-domed building in the middle ground, seemingly overseeing the scene. The overall composition suggests a moment of divine revelation or intercession.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch",
+        "dome",
+        "spire",
+        "tower",
+        "window"
+    ],
+    "persons": [
+        "King David",
+        "God the Father",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10549444b/f196/373,489,1428,1826/full/0/default.jpg"
+}

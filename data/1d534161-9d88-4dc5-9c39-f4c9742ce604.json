@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ carrying the cross, accompanied by two women. Christ, wearing a blue robe and a red halo, is shown from the waist up, struggling under the weight of a large green cross. To his left, a woman in a red cloak and blue garment, also with a red halo, looks on with a sorrowful expression. Behind her, another woman, partially visible, also appears to be in mourning. To Christ's right, a man in a blue tunic, red cloak, and orange hat, with a halo, walks alongside, holding a hammer in his right hand. The background is a shimmering gold, suggesting a divine or spiritual setting. Above the figures, an architectural frieze with pointed arches and decorative elements frames the scene.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dn556rp6795%2FW37_000142_1200/3388,2108,1838,2800/full/0/default.jpg"
+}

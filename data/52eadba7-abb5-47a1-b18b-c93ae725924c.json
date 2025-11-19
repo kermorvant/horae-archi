@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body pale and marked by wounds. Below the cross, several figures are gathered in mourning. To the left, a woman in a red veil and blue garment leans her head on her hand, her expression sorrowful. Beside her, another woman in a blue mantle and gold undergarment kneels with her hands clasped in prayer. To the right of the cross, a figure in white, possibly John the Evangelist, wipes away a tear, while a woman in a blue robe and pink skirt kneels with her hands pressed together in prayer, looking towards the cross. The background features a landscape with hills, trees, and a distant city, under a blue sky with clouds. The scene is framed by decorative architectural elements on the right.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326038/f104/207,333,1035,1458/full/0/default.jpg"
+}

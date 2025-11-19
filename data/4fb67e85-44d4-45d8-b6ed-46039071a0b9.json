@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross in the center. To his left stands the Virgin Mary, her hands clasped in prayer and her head bowed in sorrow. To his right stands a youthful figure, possibly John the Evangelist, holding a book. The figures are set against a decorative background of blue and gold patterns, framed by architectural elements resembling stylized Gothic tracery. The overall impression is one of solemnity and religious devotion, focusing on the central event of Christ's sacrifice and the grief of his followers.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS0845/DEPOT/786466101_MS0845_0094/1315,1155,1804,2152/full/0/default.jpg"
+}

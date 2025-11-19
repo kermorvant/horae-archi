@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, with a halo, holding the Christ Child. She is seated on a bed covered with a blue cloth. To the right, an elderly man, likely Saint Joseph, with a red hood and purple robe, sits in a wooden chair, leaning forward and holding a staff. The background suggests an interior space with a window and a draped canopy above the bed. The overall scene evokes a sense of domestic intimacy and religious devotion, likely representing the Nativity or a related moment of the Holy Family.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/48464422/518,820,1546,1745/full/0/default.jpg"
+}

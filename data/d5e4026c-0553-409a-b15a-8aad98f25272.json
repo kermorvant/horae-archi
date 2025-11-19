@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in a landscape setting, with an angelic figure above. On the left, a person in a blue robe with gold trim and red sleeves kneels with hands clasped in prayer. Their gaze is directed upwards. On the right, another person, dressed in a purple robe with gold accents and a red cap, sits and holds a small object in their raised hand, seemingly offering it. Rays of golden light emanate from above, directed towards the kneeling figure. The background is a stylized landscape with rolling green hills and a dark blue sky. Framing the scene on the right is a decorative architectural element, possibly a column or part of a canopy, rendered in gold.",
+    "scene_interpretation": "The scene likely represents a moment of divine intervention or a prayer being answered. The kneeling figure in prayer, receiving divine light, suggests a petition or supplication. The figure on the right might be an intercessor or a symbolic representation of divine grace being bestowed. The angelic figure above reinforces the celestial nature of the event.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "canopy"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/1013397/1012956.tif/384,394,837,870/full/0/default.jpg"
+}

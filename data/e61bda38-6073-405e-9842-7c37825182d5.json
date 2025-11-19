@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A person, likely a monk or religious figure due to their habit and hood, is seated at a table, engaged in eating or preparing to eat. The table is covered with a cloth and set with a bowl, a spoon, and a knife. Behind the figure, a jug or pitcher is visible on a shelf or surface, and above, a decorative canopy or ceiling element, possibly representing grapes or foliage, is depicted. The architectural setting appears to be an interior space, suggested by the presence of a table and the implied enclosure.",
+    "scene_interpretation": "This scene likely depicts a monastic meal or a devotional representation of simple sustenance, common in religious contexts. The figure's attire suggests a religious order, and the act of eating is a fundamental human activity often imbued with spiritual significance in medieval art, representing temperance or the fulfillment of basic needs within a spiritual life.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0075/3476,3356,293,462/full/0/default.jpg"
+}

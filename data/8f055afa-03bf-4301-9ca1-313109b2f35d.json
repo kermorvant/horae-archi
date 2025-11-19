@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, with golden hair and wearing a blue mantle over an orange tunic, sits holding the Christ Child, who is naked. Three Magi approach, offering gifts. The first Magus, kneeling, wears a red cloak over a blue garment and presents a golden chalice. The second Magus, standing, wears a green robe and a blue hat, holding a similar chalice. The third Magus, also standing, is dressed in a blue robe and a red headdress, carrying a golden vessel. Behind them, a simple thatched structure with wooden supports is visible, suggesting a humble dwelling. The background shows a landscape with trees and a distant city, under a sky with rays of light emanating from the upper left. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "column",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_S_119_099_A/DEPOT/710146101_S_119_099_A_0063/3882,414,1590,2106/full/0/default.jpg"
+}

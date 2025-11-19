@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely the Virgin Mary, wearing a red robe with gold embellishments and a green head covering. She is holding a quill and a scroll, appearing to write or read. Beside her, a brown ox is lying down. The background is dark and textured, suggesting an interior space, possibly a stable or a humble dwelling. The overall composition evokes a sense of quiet contemplation and domesticity, often associated with the Nativity or the early life of Christ.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/69072474/69378564.tif/790,1715,1258,1265/full/0/default.jpg"
+}

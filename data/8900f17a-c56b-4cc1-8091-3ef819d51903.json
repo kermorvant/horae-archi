@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a long grey beard and hair, wearing a royal mantle lined with ermine, and a blue robe adorned with gold fleur-de-lis. He is shown in profile, looking upwards with his hands raised in prayer. In the background, a winding path leads towards a fortified castle complex situated on a hill. A group of figures are walking along this path. Above the castle, in the sky, a figure in red robes and a red hat, possibly a divine messenger or a saint, is depicted with outstretched arms, holding a trident-like object. The overall setting is a hilly landscape with trees and a distant body of water.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/16032524/1753,411,1226,1979/full/0/default.jpg"
+}

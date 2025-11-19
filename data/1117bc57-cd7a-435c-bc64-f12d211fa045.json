@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "An angel with red wings and a golden halo holds a white cloth stained with blood, revealing the head of a man who is also bleeding from his wounds. The angel wears a pink cloak over a blue garment, and the man has long dark hair and a beard. The background is a textured gold pattern on a reddish-orange surface. To the left, architectural elements suggest a Gothic structure with pointed arches and decorative pinnacles. The scene is framed by a green patterned border at the bottom.",
+    "scene_interpretation": "The Man of Sorrows",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pinnacle"
+    ],
+    "persons": [
+        "Angel",
+        "Man of Sorrows"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Solesmes/Bibliotheque_de_l_abbaye_Saint_Pierre/B723365401_MS0204/DEPOT/B723365401_MS0204_0034/1446,2055,1370,1235/full/0/default.jpg"
+}

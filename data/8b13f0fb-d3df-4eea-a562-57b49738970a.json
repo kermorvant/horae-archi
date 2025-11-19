@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a haloed figure, likely Christ, seated on a throne and writing on a scroll. The figure wears a blue robe and a pink mantle. To the left of the throne, a bull is depicted, symbolizing Saint Luke. The architectural setting appears to be an interior, with ornate golden decorations and what seems to be a wall or partition behind the figure. The overall impression is one of solemnity and divine activity.",
+    "scene_interpretation": "Evangelist Portrait (Saint Luke)",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024822d/f25/307,1629,731,818/full/0/default.jpg"
+}

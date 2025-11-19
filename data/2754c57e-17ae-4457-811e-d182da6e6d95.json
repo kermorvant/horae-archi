@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Archangel Gabriel, with large blue wings, kneels and presents a scroll with text to the Virgin Mary, who is on the right. She is also kneeling and looking at a book. Rays of light descend from the upper left, suggesting divine intervention. The background features a brick wall, an arched window with tracery, and a richly decorated red curtain. Architectural elements include columns supporting blue, star-decorated arches, and a bed canopy. The overall impression is one of a sacred event taking place in a domestic or chapel-like interior.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Archangel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550092764/f98/664,374,1129,1840/full/0/default.jpg"
+}

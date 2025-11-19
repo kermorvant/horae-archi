@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Resurrection of Christ. Christ, with a halo and wounds visible on his body, emerges triumphantly from an ornate sarcophagus, holding a banner with a red cross. An angel with fiery wings hovers nearby, looking towards Christ. Below, a bearded figure in regal attire, possibly a king or a Roman soldier, lies prostrate on the ground, his crown fallen beside him, suggesting the vanquishing of earthly power by divine resurrection. The background transitions from a rocky landscape to a celestial blue sky.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0044/2447,2223,779,1075/full/0/default.jpg"
+}

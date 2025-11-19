@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. On the left, a man identified as David, wearing a blue robe and a crown, holds a harp. He stands before a group of soldiers in armor, some holding spears. In the center, a haloed figure in a grey robe is being led forward. To the right, a seated figure in a blue, ornate robe, likely a king or judge, presides over the scene, with another figure in a red robe standing behind him. The background shows architectural elements including columns, arches, and windows, suggesting an interior space. The overall scene appears to represent a moment of judgment or presentation, possibly related to the biblical narrative of David.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall",
+        "roof",
+        "stairs",
+        "capital"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0222.jp2/2361,2443,1282,1618/full/0/default.jpg"
+}

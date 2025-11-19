@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Francis kneeling in prayer outdoors, with a halo around his head. He is wearing a brown Franciscan habit and his hands and feet show stigmata, indicated by red marks. He gazes upwards towards a celestial vision of a winged, angelic figure with a crown, emanating from a red, flower-like form. Red threads connect the figure to Saint Francis's hands and feet. To the left, a small, grey building with a pointed roof and a circular window is visible, with another robed figure seated in front of it. A path leads towards the building. In the background, a lush green forest borders a body of water and distant mountains under a blue sky. A blue book with gold embellishments lies open on the ground near Saint Francis.",
+    "scene_interpretation": "The Stigmata of Saint Francis",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "Saint Francis"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10023007f/f249/343,864,840,1171/full/0/default.jpg"
+}

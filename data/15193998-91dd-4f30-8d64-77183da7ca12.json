@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Jesus laid out on a stone sarcophagus. Christ's body, showing wounds and blood, is supported by several figures. The Virgin Mary, in a blue mantle, cradles his head with her hands clasped in sorrow. Other mourners, including women in hooded robes and men in distinct attire, surround the sarcophagus, expressing grief. The background features a decorative, patterned tapestry-like element, suggesting an indoor setting or a symbolic representation of a sacred space. The foreground shows a patch of green grass with stylized yellow plants.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.31%2F159_B.11.31_f074r.jp2/843,690,1832,2372/full/0/default.jpg"
+}

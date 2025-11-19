@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a battle in a verdant landscape, with a city visible in the distance. On the left, a figure labeled 'David' kneels in prayer, looking upwards towards a celestial vision of a face within a blue oval. Beside him is a harp. In the center and right, soldiers on horseback and on foot engage in combat, with some falling to the ground. One figure on horseback is labeled 'Absolon'. A red tent is visible on the far right. The sky is filled with small, dark shapes, possibly birds or arrows.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David",
+        "Absolon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0223.jp2/4234,1170,1465,1334/full/0/default.jpg"
+}

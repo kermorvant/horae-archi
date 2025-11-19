@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, his body showing wounds. Above him, an inscription reads 'INRI'. To the left, the Virgin Mary, draped in blue, is shown in grief, accompanied by other figures with halos, suggesting they are mourners or holy figures. To the right, a group of men stand, one in a green tunic and blue helmet, holding a shield with a face, and another in a purple tunic. A serpent is depicted in the sky. In the foreground, a skull and bones are visible on the grassy ground. The scene is framed by an ornate, gilded arch with decorative elements.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zx896jf6359%2FW721_000178_1200/4268,1618,2327,4019/full/0/default.jpg"
+}

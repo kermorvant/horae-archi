@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ Child in the Temple. The Virgin Mary, dressed in blue and red, holds the infant Jesus, who is naked and has a halo. Facing them is a bearded man in a red robe and a bishop's mitre, holding the child's feet, presumably to place him on an altar or in a font. Behind them stand several figures, some holding staffs. The scene is framed by an arched architectural element with decorative motifs and large letters 'P' and 'R' on either side. The background suggests an interior space with a patterned wall and a draped canopy above.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall",
+        "pillar"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0135/DEPOT/315556101_MS0135_0054/3551,432,2885,3213/full/0/default.jpg"
+}

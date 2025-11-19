@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a stylized anatomical representation of a human body, with internal organs such as the heart and intestines visible. The figure stands centrally, with arms outstretched. Surrounding the figure are banners with inscriptions in Latin and stars, suggesting a celestial or astrological context. Above the figure's head is a sun with a human face. At the feet of the central figure, a jester-like figure is seated, holding a smaller figure or puppet. The overall composition is highly symbolic, likely relating to medical or astrological beliefs of the medieval period.",
+    "scene_interpretation": "Astrological Man",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Sun (personified)"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0006/4006,907,1083,2189/full/0/default.jpg"
+}

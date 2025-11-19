@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "In a bustling urban setting depicted with numerous towers and buildings, a man in a red tunic and white apron wields a large mallet, poised to strike a boar. Beside him, a woman in a blue gown and white apron holds a ladle over a pot, seemingly preparing to cook or process the animal. The scene unfolds outdoors with a green wall separating the foreground activity from the cityscape in the background. This depiction likely represents a scene of daily life, possibly related to butchery or food preparation within a medieval town.",
+    "scene_interpretation": "daily_life",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f39/3077,1508,1160,2495/full/0/default.jpg"
+}

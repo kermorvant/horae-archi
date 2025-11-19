@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A procession is depicted, with several figures carrying a reliquary adorned with a crown. The central figure, a man with a halo, wears a pink robe and carries one end of a pole supporting the reliquary. To his right, a bishop in a golden cope and mitre holds a red object, possibly a feather or a palm frond, and a liturgical implement. To the left of the central figure, three other individuals, two women and a man, are visible, also supporting the reliquary. The background is a deep blue with a repeating geometric pattern. The scene is framed by a decorative border with red, white, and blue bands and gold ornamentation.",
+    "scene_interpretation": "Procession of Saints",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f211/415,1303,1768,1899/full/0/default.jpg"
+}

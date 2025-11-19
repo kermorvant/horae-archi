@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Assumption of the Virgin Mary, with her ascending into heaven surrounded by a host of angels and putti. She is shown in a blue mantle and pink tunic, with her hands outstretched. Angels crown her with a wreath, while others support her ascent. Below, a group of apostles and other figures gaze upwards in awe and wonder, some with hands raised in supplication. The lower part of the scene suggests a tomb or sarcophagus, from which the Virgin is being taken up. The background transitions from dark, rocky clouds to a bright, ethereal sky.",
+    "scene_interpretation": "Assumption of the Virgin Mary",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "stairs",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105380373/f136/292,214,1779,2657/full/0/default.jpg"
+}

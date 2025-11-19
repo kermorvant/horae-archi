@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a religious encounter within an architectural setting. A haloed figure, likely a saint or Christ Child, stands to the left, facing a bearded man wearing a crown and ornate robes, who is positioned centrally. To the right, a kneeling figure with a tonsure and simple attire looks up towards the central figures. The background features architectural elements suggesting an interior space, with a large arch overhead and a column. The overall composition implies a moment of reverence or presentation.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0035/1284,3461,537,1018/full/0/default.jpg"
+}

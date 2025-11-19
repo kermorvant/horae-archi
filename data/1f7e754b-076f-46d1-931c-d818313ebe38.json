@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a stable-like structure. The Virgin Mary, with a halo and a white veil, is shown in prayer, her hands clasped. To her left stands Saint Joseph, also with a halo, wearing a red robe and a distinctive helmet-like head covering. To the right, a newborn Christ Child sits on a bed of straw, his hands resting on his stomach. A cow is visible behind the Virgin Mary. In the background, above a stone wall, two figures, possibly shepherds, are looking down into the scene, one wearing a brown robe and the other a yellow hood. The architectural elements suggest a humble setting, with rough stone walls and wooden beams supporting a thatched roof.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lehigh_codex_017%2Flehigh_codex_017_jp2.zip%2Flehigh_codex_017_jp2%2Flehigh_codex_017_0172.jp2/2350,2166,4641,6981/full/0/default.jpg"
+}

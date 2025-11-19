@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, in a blue robe, kneels with her hands clasped in prayer, looking down at the Christ Child who sits before her. The Christ Child is depicted as a small infant, also with a halo. To the left, a woman in a red dress and white veil stands with her hands joined in prayer. To the right, an older man, possibly Saint Joseph, with a beard and wearing a green robe and red hood, sits with his head in his hand, leaning on a staff. Above them, the heads of a donkey and an ox are visible within the stable structure. Golden rays emanate from above, suggesting divine light. The architectural setting is a simple stable with a thatched roof.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0063/DEPOT/M601415401_MS0063_0051/1569,629,1663,2396/full/0/default.jpg"
+}

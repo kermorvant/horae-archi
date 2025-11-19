@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a ritualistic circumcision of a child, likely representing the Presentation of Christ in the Temple or a similar Old Testament event. Three figures are present: one holding the child, another preparing to perform the circumcision with a knife, and a third observing. The child lies on a draped table, with a golden halo indicating divinity. The setting appears to be an interior space with a red, star-patterned tapestry behind the figures and a checkered floor. Architectural elements include an arched opening to the left, suggesting an adjacent room or exterior, and a column supporting an overhead structure. The overall atmosphere is solemn and ceremonial.",
+    "scene_interpretation": "Circumcision of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f149/257,2688,806,899/full/0/default.jpg"
+}

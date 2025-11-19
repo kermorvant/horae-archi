@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man with a halo, suggesting he is a saint. He is dressed in a blue tunic and a pink mantle, and carries a staff in his left hand and a blue book in his right. A dark wing is visible behind his right shoulder. The background is a landscape with trees and hills under a blue sky. The scene is framed by a golden border.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550106099/f267/217,887,411,459/full/0/default.jpg"
+}

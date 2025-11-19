@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a man in profile, wearing a hooded robe, likely a monk. He is holding an open book with both hands, his gaze directed downwards towards its pages. The background is textured with stippling, and architectural elements, possibly decorative arches or canopies, frame the upper part of the scene. The man's posture and the book suggest an act of reading or contemplation, common in monastic life.",
+    "scene_interpretation": "Monk Reading",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0030/5377,4041,427,714/full/0/default.jpg"
+}

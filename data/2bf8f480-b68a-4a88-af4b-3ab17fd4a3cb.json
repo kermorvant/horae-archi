@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a richly decorated architectural setting. On the left, the Virgin Mary, adorned in a blue robe and with a golden halo, kneels and holds an open book. Facing her on the right, the Angel Gabriel, with blue and orange wings, also kneels and presents a scroll. Behind them, a decorative red wall with gold floral motifs is visible, and above, a Gothic architectural element frames a small depiction of God the Father, who is shown in a pink robe, floating and holding a globe. The floor is tiled in a green and black checkered pattern. The overall scene is framed by an illuminated border.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84528158/f19/437,105,1639,2086/full/0/default.jpg"
+}

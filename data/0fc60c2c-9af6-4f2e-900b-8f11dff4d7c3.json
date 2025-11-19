@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, stands holding a golden chalice. The figure is dressed in a deep purple robe over a blue garment, with a green sash. The background depicts an architectural setting with two large columns, one blue and one brown, supporting an unseen structure. Between the columns are windows with diamond-shaped tracery and a blue curtain with gold ornamentation. The floor is tiled in a checkerboard pattern of gold and beige. The upper part of the scene features a blue sky with gold stars.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "window",
+        "tracery_window",
+        "roof"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/555743/1234,870,998,1021/full/0/default.jpg"
+}

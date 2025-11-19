@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, possibly a saint or a deceased person, lying on the ground, adorned in rich, golden vestments. Above, in a celestial realm suggested by a blue sky and golden border, a figure with hands clasped in prayer is depicted, flanked by two large, blue, winged figures, likely angels. In the middle ground, a stylized landscape unfolds with rolling green hills and distant blue mountains. A white, pointed structure, resembling a small chapel or a tomb, stands prominently in the middle ground, partially obscuring the landscape. The overall impression is one of spiritual transition or divine intervention.",
+    "scene_interpretation": "The scene likely represents the \"Death of a Saint\" or a \"Vision of the Afterlife.\" The figure in golden vestments could be a saint in repose or at the moment of death, with the angels signifying their ascent to heaven. The praying figure in the sky might represent the soul's journey or a divine being receiving the soul. The architectural elements, particularly the pointed structure, could symbolize a tomb or a heavenly dwelling.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "gable",
+        "undefined_element"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0078/DEPOT/M601415401_MS0078_0140/4224,629,384,1655/full/0/default.jpg"
+}

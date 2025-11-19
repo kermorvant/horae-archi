@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identified by her halo, meeting Saint Elizabeth, who is kneeling. An angel stands to the left of the Virgin Mary, also with a halo. The figures are set against a backdrop of a walled city with towers and buildings, suggesting an urban or fortified setting. The overall composition is framed by an arched border, typical of manuscript illumination.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90680933/f53/1728,719,1662,2082/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An angel, with golden wings and a halo, descends from a starry sky, holding a scroll that reads 'uer. nae. eft. n'. Below, a pastoral scene unfolds with shepherds and their flock. One shepherd, seated and wearing a red tunic, plays a bagpipe. Another shepherd, standing and dressed in blue with a red collar, looks upwards with clasped hands, while a woman in a white gown and blue headdress stands beside him. Sheep graze in the foreground, and a dog lies near them. In the background, a fortified castle with towers sits beside a body of water, surrounded by rolling green hills and trees.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.118/Ross.118_0125_fa_0054r.jp2/321,287,460,702/full/0/default.jpg"
+}

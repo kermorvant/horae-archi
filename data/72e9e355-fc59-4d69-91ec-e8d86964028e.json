@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a confrontation between a demonic figure and a haloed man. The demon, with a grotesque face, pointed ears, and fur, stands on the left, its body contorted. The man, dressed in a long robe and wearing a halo, stands on the right, his hands clasped. Behind them, a stylized architectural element, possibly an arch, frames the figures. The background is filled with abstract patterns and suggestions of buildings or natural forms. This scene is likely an illustration of the Temptation of Christ, where Christ is tempted by the Devil.",
+    "scene_interpretation": "Temptation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Devil"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0042/745,2927,620,982/full/0/default.jpg"
+}

@@ -1,0 +1,69 @@
+{% if total_results > 48 %}
+
+<nav class="pagination is-centered" role="navigation">
+
+    <!-- Previous -->
+    {% if page > 1 %}
+    <a class="pagination-previous"
+       href="{{ url_for('search_page',
+           query=query,
+           f_scene_desc=f_scene_desc,
+           f_scene_interp=f_scene_interp,
+           f_spatial=f_spatial,
+           f_arch=f_arch,
+           f_buildings=f_buildings,
+           f_elements=f_elements,
+           f_persons=f_persons,
+           page=page-1) }}">
+        Previous
+    </a>
+    {% else %}
+    <span class="pagination-previous" disabled>Previous</span>
+    {% endif %}
+
+    <!-- Next -->
+    {% if page < total_pages %}
+    <a class="pagination-next"
+       href="{{ url_for('search_page',
+           query=query,
+           f_scene_desc=f_scene_desc,
+           f_scene_interp=f_scene_interp,
+           f_spatial=f_spatial,
+           f_arch=f_arch,
+           f_buildings=f_buildings,
+           f_elements=f_elements,
+           f_persons=f_persons,
+           page=page+1) }}">
+        Next
+    </a>
+    {% else %}
+    <span class="pagination-next" disabled>Next</span>
+    {% endif %}
+
+    <ul class="pagination-list">
+        {% for p in range(1, total_pages + 1) %}
+            <li>
+                {% if p == page %}
+                <span class="pagination-link is-current">{{ p }}</span>
+                {% else %}
+                <a class="pagination-link"
+                   href="{{ url_for('search_page',
+                       query=query,
+                       f_scene_desc=f_scene_desc,
+                       f_scene_interp=f_scene_interp,
+                       f_spatial=f_spatial,
+                       f_arch=f_arch,
+                       f_buildings=f_buildings,
+                       f_elements=f_elements,
+                       f_persons=f_persons,
+                       page=p) }}">
+                    {{ p }}
+                </a>
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+
+</nav>
+
+{% endif %}

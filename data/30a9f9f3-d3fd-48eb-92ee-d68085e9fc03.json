@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image displays a decorative border featuring stylized floral motifs, leaves, and zoomorphic elements, possibly a griffin or a bird-like creature. Interspersed within the foliage are depictions of human figures, one of whom appears to be a man with a beard, wearing a tunic and with his arms crossed. Another figure, also with a beard, is shown in profile, with his hands clasped. The overall impression is one of intricate ornamentation, likely serving as an initial or a decorative frame for text within a manuscript.",
+    "scene_interpretation": "ornamental_border",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0020/3535,431,276,4262/full/0/default.jpg"
+}

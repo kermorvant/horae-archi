@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, in a blue robe, cradles the Christ Child on an orange surface, suggesting a bed or manger. Three Magi are present: one kneels, offering a golden vessel; another stands, also holding a vessel; and a third, dressed in yellow, looks upwards. The background is a patterned tapestry in shades of blue, red, and gold, with a blue drapery above and a star visible. The figures are richly attired, indicating their royal status. The overall setting is intimate and devotional, focusing on the presentation of gifts to the infant Jesus.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_007%2Fwidener_007_jp2.zip%2Fwidener_007_jp2%2Fwidener_007_0144.jp2/839,1534,1934,2365/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A close-up detail of a painted figure's head and shoulders. The figure, likely male, wears a helmet adorned with small red and gold elements. Their face is rendered with blue and white tones, with dark eyes and a downward gaze. A red garment is visible around the neck and shoulders. The figure is set against a circular, light blue halo or background.",
+    "scene_interpretation": "Saint George",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00206/1305,73,229,245/full/0/default.jpg"
+}

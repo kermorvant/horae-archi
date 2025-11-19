@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit, with the Virgin Mary seated centrally, reading a book, surrounded by the Apostles. Above them, a window frames a dove, representing the Holy Spirit, emanating fiery rays. The figures are gathered within an architectural setting that suggests an upper room or a hall, with arched windows and decorative elements visible in the background. The composition emphasizes the divine inspiration received by the assembled group.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0124/3300,587,1148,1678/full/0/default.jpg"
+}

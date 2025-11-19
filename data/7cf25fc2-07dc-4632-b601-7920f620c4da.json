@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image is a portrait of a man, likely a clergyman, depicted from the chest up. He wears a red cap and a red garment over a white collar. His hair is dark and curly, falling to his shoulders, and he has a mustache and a goatee. A decorative brooch is visible at the neck of his garment. The background is a muted, textured oval, with partial text visible in a blue band around the edge. The overall impression is of a formal portrait, possibly within an illuminated manuscript or as a standalone artwork.",
+    "scene_interpretation": "Portrait of a Cardinal",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Cardinal"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021262r/f11/251,808,1095,1264/full/0/default.jpg"
+}

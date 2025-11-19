@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, with a halo, is reclining on a red bed, looking towards the viewer. She is dressed in a blue robe and is holding swaddling clothes. To her right, a bearded man, likely Joseph, is also present, wearing a blue robe and reaching towards the swaddling clothes. Behind them, a manger is visible, containing the Christ Child, who also has a halo. A bull and a donkey are positioned behind the manger, their heads bowed. Above the figures, rays of light emanate from a blue cloud, suggesting divine intervention. The background is a decorative green pattern with gold swirls.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jd913tp1831%252F540_047_R_TC_46/422,755,1712,2109/full/0/default.jpg"
+}

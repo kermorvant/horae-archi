@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a coronation ceremony, likely of the Virgin Mary, within an opulent interior. The Virgin Mary, clad in a blue mantle, kneels with her hands clasped in prayer. To her right, a bearded figure, possibly Christ, points towards her. Two winged figures, likely angels, hover above, holding a golden crown. Below them, two figures play trumpets, adding to the ceremonial atmosphere. The background is a rich red tapestry with gold ornamentation. Above the tapestry, architectural elements suggest a vaulted ceiling with decorative windows.",
+    "scene_interpretation": "Coronation of the Virgin Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0066/DEPOT/M601415401_MS0066_0082/3060,481,1020,1585/full/0/default.jpg"
+}

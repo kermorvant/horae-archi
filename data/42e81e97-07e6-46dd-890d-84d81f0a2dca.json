@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity. On the left, Christ is shown with his wounds from the crucifixion visible on his torso and hand, draped in a blue cloak lined with red. He has long, reddish-brown hair and a beard. To his right, God the Father, depicted with a long grey beard and hair, wears a blue robe and holds a globe topped with a cross. He is shown with his hand raised in a gesture of blessing or teaching. Above them, a white dove, symbolizing the Holy Spirit, hovers with outstretched wings, surrounded by golden rays emanating from a yellow background. The figures are rendered in a stylized, frontal manner, typical of medieval manuscript illumination.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "God the Father",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1269661/1680,912,1045,1182/full/0/default.jpg"
+}

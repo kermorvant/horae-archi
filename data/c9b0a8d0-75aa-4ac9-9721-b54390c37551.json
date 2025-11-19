@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bishop, adorned with a mitre and rich vestments, stands on the left, holding a crozier. He is facing a group of three nude children who are depicted with clasped hands, seemingly in prayer or supplication, within a circular wooden tub. Behind the bishop, a window opens to a landscape featuring a castle on a rocky outcrop under a blue sky. The interior space is suggested by a dark, patterned wall behind the bishop and the window frame.",
+    "scene_interpretation": "The scene likely depicts a bishop performing a miracle or offering protection to children, possibly related to a saint known for interceding for children or a specific devotional practice involving children's welfare. The presence of the bishop in ceremonial attire and the children in a vulnerable state suggests a theme of spiritual guidance and divine intervention.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_224r.jp2/628,1214,1852,2217/full/0/default.jpg"
+}

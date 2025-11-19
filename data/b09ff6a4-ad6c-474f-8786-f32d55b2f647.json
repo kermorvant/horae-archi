@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A procession of figures moves across a gold, textured background. On the left, a cloaked figure, possibly a nun or a mourner, leans in. Following are several men in blue tunics and red or green surcoats, some wearing blue hats. They appear to be escorting or apprehending the central figure, who is dressed in a pink undergarment and a blue mantle, with hands clasped. To the right, a bearded man in a red tunic grasps the arm of the central figure. The scene is bordered by a red frame with gold ornamentation. The gold background suggests a divine or significant setting, and the figures' attire and interaction point to a religious narrative.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515833p/f377/233,316,1044,1105/full/0/default.jpg"
+}

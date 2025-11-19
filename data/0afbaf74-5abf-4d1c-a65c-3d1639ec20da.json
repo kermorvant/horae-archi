@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a gathering of twelve figures seated around a long, oval table, with a thirteenth figure, presumably Christ, at the head. All figures are depicted with golden halos, indicating their sanctity. The figures are dressed in flowing robes of various colors, including red, blue, green, and pink. Some figures are gesturing, while others appear to be in conversation or contemplation. A young figure, possibly John the Evangelist, is shown resting his head on the table. The table is set with simple dishes, knives, and chalices. The background is a solid gold leaf, suggesting a divine or heavenly setting. The overall composition evokes the Last Supper, a pivotal event in Christian theology.",
+    "scene_interpretation": "Last Supper",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515833p/f250/493,561,1179,864/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and cloaked in blue, holds the Christ Child on her lap. Before them, one of the Magi, an elderly man with a white beard, kneels and offers a golden chalice. To the right, another Magus, depicted with dark skin and wearing a white headdress, stands and presents a golden vessel. A third Magus, in a blue and grey robe and a blue hat, stands between them, gesturing. Behind them, a simple wooden structure with a thatched roof is visible, opening to a landscape with a body of water and a walled city with towers in the distance. An older man with a blue headdress is partially visible on the far left, peeking from behind a red curtain.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/df86f49f-83da-4ff9-a1ad-113216a00c76/1969,481,1451,1476/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A man, likely a monk or cleric, is depicted in profile, facing left. He wears a hooded robe and holds an open book with circular motifs on its pages. The scene is framed by architectural elements, including columns and an arched canopy above, suggesting an interior setting. The background is filled with a stippled pattern, possibly representing a starry sky or a decorative motif.",
+    "scene_interpretation": "devotional_reading",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy"
+    ],
+    "persons": [
+        "monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0091/5440,4066,527,639/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered around a central figure identified as Christ, who is shown with a halo and clasped hands. To his left, two men are visible, one with a beard. To Christ's right, a man with a beard and a distinctive collar is speaking, while other figures are present in the background. A donkey's head is visible in the foreground, suggesting a journey or entry. Behind the figures, architectural elements are depicted, including what appears to be a building with windows and a decorative archway framing the scene. The overall impression is one of a religious discourse or event.",
+    "scene_interpretation": "Entry into Jerusalem",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0042/4342,3683,883,687/full/0/default.jpg"
+}

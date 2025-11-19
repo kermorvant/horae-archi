@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered together, with the Virgin Mary at the center, holding an open book. Above them, a dove descends, radiating golden light. The figures, all with halos, appear to be in prayer or contemplation, looking upwards towards the dove. The setting is enclosed by an arched architectural frame, suggesting an interior space. This scene is a representation of the Pentecost, where the Holy Spirit descended upon the Apostles and the Virgin Mary.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0138/DEPOT/315556101_MS0138_0034/4030,479,1532,2245/full/0/default.jpg"
+}

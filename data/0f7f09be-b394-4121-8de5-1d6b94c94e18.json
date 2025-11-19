@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary kneeling on the left, her hands clasped in prayer, before a seated figure on the right, who holds a globe and raises a hand in blessing. The seated figure is likely God the Father, indicated by the presence of a crown above and a dove descending from above, symbolizing the Holy Spirit. The background is a rich tapestry of gold foliage against a black ground. To the left, a red-backed chair with gold trim is visible, suggesting an interior setting. The figures are rendered with halos, signifying their divine or saintly status. The overall composition evokes a sense of divine revelation or judgment.",
+    "scene_interpretation": "The Annunciation to the Virgin Mary",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0028/DEPOT/352386106_MS0028_0090/3501,507,1489,2038/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "Two shepherds stand in a pastoral landscape, tending to a flock of sheep. The shepherd on the left wears a red tunic with gold embellishments and a turban-like head covering. The shepherd on the right wears a blue tunic with gold patterns and a hooded cloak. Both hold staffs. Above them, in a blue cloud, an angel is depicted with golden rays emanating downwards, suggesting a divine revelation. The scene is framed by an ornate border.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0137/DEPOT/315556101_MS0137_0038/1766,497,1560,2162/full/0/default.jpg"
+}

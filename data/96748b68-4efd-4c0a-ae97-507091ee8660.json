@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a female figure with a halo, holding a cross in her clasped hands, seated upon a dragon-like creature with a serpentine tail and a leonine head. The figure is draped in flowing robes. Behind her, a stylized architectural backdrop suggests a building with multiple levels and arched openings, possibly representing a library or a series of rooms. The overall composition is framed by architectural elements resembling arches and pinnacles.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pinnacle",
+        "wall"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0086/1761,1442,650,933/full/0/default.jpg"
+}

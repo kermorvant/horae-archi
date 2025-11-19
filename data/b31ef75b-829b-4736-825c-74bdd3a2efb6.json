@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts two women in an interior setting. On the left, a woman in a black habit and white veil kneels with her hands clasped in prayer. She wears a fur-lined mantle and a rosary with a pendant. On the right, a woman richly dressed in an orange gown with red sleeves and a black headdress sits on a raised dais. She holds a decorative blue and white lidded vessel. Behind her is a green tiled wall and a wooden canopy. To the left, an arched opening reveals an outdoor landscape with rolling green hills, a blue sky, and some rudimentary buildings. A peacock stands on the floor in the foreground.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421734/788,231,1383,2085/full/0/default.jpg"
+}

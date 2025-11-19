@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth, blood dripping from his wounds. Below the cross, to the left, stands the Virgin Mary, dressed in blue and beige, with her hands clasped in prayer. To the right stands a male figure, likely Saint John the Evangelist, also with hands clasped in prayer, wearing a red cloak over a dark garment. The setting is an outdoor landscape with rolling green hills, a body of water in the background, and a cluster of red buildings with spires in the distance. A rocky outcrop is visible on the left. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0007/cea-0007_013v.jp2/1463,566,2867,4314/full/0/default.jpg"
+}

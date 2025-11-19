@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a gathering of men and women within an interior space that opens onto a courtyard or garden. In the foreground, a group of men and women are gathered, some standing and some seated. One man in a blue robe and red hat is seated on a raised bench, gesturing with his right hand. Another man in a blue robe and green trim stands before him, leaning on a wooden railing. Behind them, a crowd of figures in various colored robes and hats are visible. Through an arched opening and windows, a walled garden with trees and a distant landscape can be seen. The overall impression is one of a formal assembly or audience.",
+    "scene_interpretation": "This scene likely depicts a moment from the life of Christ, possibly the Presentation of Christ in the Temple, or a scene from the Gospels involving Jesus interacting with a crowd or religious authorities. The seated figure in blue, gesturing, could represent Christ, while the surrounding figures might be disciples, Pharisees, or supplicants. The architectural setting, with its interior and exterior views, is typical of depictions of biblical events occurring in both domestic and public spaces.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall",
+        "roof",
+        "door",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_290/1251,498,1553,2288/full/0/default.jpg"
+}

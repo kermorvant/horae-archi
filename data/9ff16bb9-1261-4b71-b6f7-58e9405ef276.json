@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in conversation, set against a backdrop of a large illuminated manuscript page. Two figures on the left, dressed in medieval attire with hoods and hats, are gesturing with their index fingers raised, seemingly in discussion or debate. A third figure on the right, wearing a blue robe and an orange cap, also points with an index finger, appearing to address the other two or present a point. The background suggests an indoor setting, possibly a scriptorium or a study, with a window visible on the far left and wooden paneling. The illuminated text above the figures is a prominent element, suggesting a scholarly or religious context.",
+    "scene_interpretation": "This scene likely represents a moment of theological or philosophical discussion, possibly related to the interpretation of scripture or doctrine, as indicated by the presence of the illuminated manuscript. The raised index fingers are a common gesture for argumentation, teaching, or emphasis in medieval art. Without specific iconographic clues beyond the gesture and the text, a precise biblical or devotional event cannot be identified, but it points towards intellectual discourse within a learned environment.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892315/462,1770,1558,1196/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary seated on a throne-like chair to the left, surrounded by a group of figures, presumably the Apostles, looking upwards. A dove, representing the Holy Spirit, descends from a golden, radiant light emanating from above, with rays of light extending towards the figures. The figures are enclosed within an arched architectural space, with arched windows visible in the background. The floor is tiled with a yellow grid pattern. The figures are depicted with halos, indicating their sanctity. The Virgin Mary is dressed in blue, and the other figures wear various colored robes, including red, green, and orange. The overall impression is one of divine inspiration and spiritual illumination.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/acv/acv-P-Sarraz-H-0050/acv-P-Sarraz-H-0050_309r.jp2/894,532,2416,3678/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist, identifiable by his halo and his traditional attribute, the eagle, which stands to his left holding a scroll in its beak. John is shown seated on a rocky, grassy outcrop overlooking a body of water. He is dressed in a white tunic and a red mantle, and he holds a quill in his right hand, poised as if to write on a scroll unfurled on his lap. The background features a body of water with a ship, and beyond that, a hilly landscape with a fortified city and a distant castle. The overall setting suggests a contemplative or inspired moment for the Evangelist.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.387/Barb.lat.387_0029_fa_0013r.jp2/275,125,420,622/full/0/default.jpg"
+}

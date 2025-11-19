@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Entombment of Christ, with Christ's body laid out on a stone slab, covered by a white shroud. Several figures surround the body, some supporting it and others in prayer or contemplation. To the left, a man with a red cap and white beard, dressed in a blue patterned robe, supports Christ's head. To the right, another man in a blue and green robe, also with a beard, holds Christ's feet. Between them, three women with halos, dressed in blue and red robes, look down at Christ with sorrow. One woman in the foreground, dressed in red and blue, kneels in prayer. In the background, a rocky landscape opens to a distant view of rolling hills and a city with tall spires. The overall impression is one of solemn mourning and reverence.",
+    "scene_interpretation": "Entombment of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/np517xz5161%2FW196_000056_1200/4860,1554,3404,5303/full/0/default.jpg"
+}

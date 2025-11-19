@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a richly decorated architectural setting. The Virgin Mary, with a halo, kneels before a raised platform, presenting the Christ Child. The Christ Child, also with a halo, is seated on the platform, reaching out. Several figures, including three men wearing crowns and elaborate hats, likely representing the Magi, are gathered around. One Magus, in the foreground, is bearded and wears a jeweled hat and ornate armor. Another figure, possibly a king, stands to the left, holding a scepter. Behind them, a group of women and men observe the scene. The architecture features pointed arches, columns with capitals, and intricate tracery, suggesting a Gothic style. An angel is depicted in a niche above the central scene. The overall impression is one of reverence and royal tribute.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "column",
+        "capital",
+        "tracery_window",
+        "niche",
+        "microarchitecture",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Sens/Societe_Archeologique/SAS89100_boite2_0001/DEPOT/SAS89100_Boite2_0001_0014/3603,422,1979,2699/full/0/default.jpg"
+}

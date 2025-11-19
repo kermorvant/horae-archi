@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. He is depicted with a loincloth and a halo. To his left stands the Virgin Mary, dressed in blue and praying. To his right stands another female figure, possibly Mary Magdalene, also in prayer. The background is a green landscape with some stylized bushes and a blue sky. The figures are rendered in a stylized, medieval manner.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/mss_0095_031%2Fmss_0095_031_jp2.zip%2Fmss_0095_031_jp2%2Fmss_0095_031_0065.jp2/5566,7641,2168,2091/full/0/default.jpg"
+}

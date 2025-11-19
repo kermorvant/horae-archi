@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A group of five men are depicted, each playing a stringed instrument. They are dressed in medieval attire, with tunics and hose. The figures are arranged in a procession, with their heads tilted downwards as if in concentration or sorrow. The background is a textured pattern, suggesting a stylized ground or perhaps a woven tapestry. The scene is framed by a decorative border, with a red stripe on the left. The overall impression is one of a musical performance or a solemn procession.",
+    "scene_interpretation": "This scene likely depicts a musical procession or a group of musicians, possibly related to a religious or civic event. Without further context, a specific biblical or devotional interpretation is not possible. However, music played a significant role in medieval life, both in religious services and secular celebrations.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Musician",
+        "Musician",
+        "Musician",
+        "Musician",
+        "Musician"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0080/5086,2308,522,973/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A group of men, some with beards and wearing crowns or elaborate hats, stand to the left. One man, distinguished by a crown and a golden robe, is presenting a folded golden cloth to another man, who is younger and also dressed in a golden robe and a blue cap. The scene takes place indoors, within a hall with a tiled floor and a richly decorated wall featuring arched niches. To the right, a doorway or alcove is visible, also adorned with architectural details.",
+    "scene_interpretation": "Presentation of Gifts",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f687/724,4429,3157,1487/full/0/default.jpg"
+}

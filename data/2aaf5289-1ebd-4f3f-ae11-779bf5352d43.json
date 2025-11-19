@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A young child, unclothed and standing on a white draped surface, is held by a bearded man wearing a blue hat and a gold robe, and a woman in a blue dress and a pink and white headdress. The figures are positioned within an architectural setting suggested by dark, arched structures in the background. The scene likely depicts the Presentation of Christ in the Temple, with the child being presented by his parents, Mary and Joseph, to Simeon.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Joseph",
+        "Mary",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0035/4111,2079,740,1153/full/0/default.jpg"
+}

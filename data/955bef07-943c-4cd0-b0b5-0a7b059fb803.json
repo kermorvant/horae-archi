@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, likely the Virgin Mary, stands with arms outstretched in a gesture of prayer or supplication. She wears a blue head covering and a dark green mantle draped over a blue tunic. The background is a rich, textured gold leaf, suggesting a divine or heavenly setting. The figure is framed by an architectural element that appears to be an archway, rendered in green and pink hues, with decorative elements on the right side. The overall impression is one of solemn devotion within a sacred context.",
+    "scene_interpretation": "Orans",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vz074kt5152/W534_000125_300/194,167,612,926/full/0/default.jpg"
+}

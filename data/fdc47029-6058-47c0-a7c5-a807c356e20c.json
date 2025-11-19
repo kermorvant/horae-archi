@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "In a pastoral landscape, two shepherds are startled by a winged figure descending from the sky. The figure, clad in a golden robe and with large wings, appears to be an angel. One shepherd, kneeling with hands raised in awe or fear, wears a blue tunic with an orange hood and brown boots. The other shepherd, seated and looking upwards with a similar expression of surprise, is dressed in a green tunic and purple robe. A flock of sheep is gathered between them. In the background, a town or castle with towers and walls is visible, nestled amongst rolling hills and trees. The scene depicts a moment of divine revelation to humble shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.101/Ross.101_0188_fa_0086v.jp2/217,98,292,529/full/0/default.jpg"
+}

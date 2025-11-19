@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in what appears to be an interior setting with architectural elements. On the left, a bearded man wears a distinctive hat and has his hands clasped in prayer. To his right, a woman, also with clasped hands, looks towards the viewer. Behind her, another figure, possibly male, is partially visible, wearing a headdress. The background features stylized architectural details, including what could be arches and decorative elements suggesting a building. The overall impression is one of devotion or supplication.",
+    "scene_interpretation": "The scene likely represents a devotional moment, possibly a prayer or a plea, given the clasped hands of the figures. Without further iconographic clues, a specific biblical or liturgical event cannot be definitively identified. However, the presence of multiple figures engaged in prayer suggests a communal or personal act of faith.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0027/787,1084,559,974/full/0/default.jpg"
+}

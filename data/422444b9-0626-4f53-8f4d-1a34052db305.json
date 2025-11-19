@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A scene depicting a woman in a tower, seen through a barred window, receiving a communion wafer from a robed figure outside. The robed figure, possibly a priest or saint, is accompanied by an angel holding a golden pitcher and a paten with bread. The woman inside the tower is depicted with a halo and clasped hands in prayer, suggesting she is a saint or a devout individual in confinement. The exterior setting shows a landscape with distant buildings and hills. The overall scene evokes a spiritual nourishment or a divine visitation within a context of imprisonment or isolation.",
+    "scene_interpretation": "Communion of a Saint",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "window",
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f168/219,207,2032,3213/full/0/default.jpg"
+}

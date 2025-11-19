@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act within an interior space. A bearded man, adorned with a crown and a blue robe patterned with gold fleur-de-lis, sits on a bench, holding a sword. Before him, a woman in an orange dress kneels, cradling a baby. Two armored soldiers are present. One soldier, wearing a helmet and patterned armor, appears to be restraining another figure, possibly a woman, who is reaching out. A second armored soldier stands over the kneeling woman and child, holding a sword. The background features a shelf with pottery and a wall hanging. The floor is tiled in a diamond pattern. This scene is likely an illustration of the Massacre of the Innocents, a biblical event where King Herod ordered the killing of all male infants in Bethlehem.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "King Herod"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zx896jf6359%2FW721_000380_1200/4365,1119,2172,4114/full/0/default.jpg"
+}

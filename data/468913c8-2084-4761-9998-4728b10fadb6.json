@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Saint John the Evangelist, is depicted seated outdoors, engaged in writing in a book. He wears a golden tunic and a rich red cloak, with his bare feet visible. Beside him, a large bird, possibly an eagle, stands attentively. The background features a dense forest of trees, transitioning to a landscape with water, rocky outcrops, and distant castles. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A7F0C4994-C579-11E7-8646-155E6EE4309A%3ADS.256/2656,262,1378,1990/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a divine figure, likely God the Father, seated on blue clouds, holding a cross atop a globe. He is robed in red and gold, with a halo. Before him kneels a woman, dressed in an orange patterned gown and a purple mantle, her hands clasped in prayer. To the right, an angel with green wings, wearing white, hovers and presents a crown to the kneeling woman. The background is a golden expanse, suggesting a celestial or spiritual realm, with architectural elements framing the upper part of the scene, including an arch and decorative motifs.",
+    "scene_interpretation": "The Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0103/utp-0103_084v.jp2/2523,1055,2970,4081/full/0/default.jpg"
+}

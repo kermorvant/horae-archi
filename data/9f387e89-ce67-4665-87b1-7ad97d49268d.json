@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts the Virgin Mary, draped in a vibrant blue mantle with gold trim, tenderly holding the Christ Child. The Virgin's head is bowed, her gaze directed downwards, while the Christ Child, depicted with a mature physique, looks towards the viewer. Both figures are enveloped in a golden, radiating halo against a dark blue background, suggesting a divine or celestial setting. Below them, a scroll unfurls with Latin text, partially obscured, but containing the words \"mea sancta ma\" (my holy mother).",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326072/f102/275,104,1556,1631/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and robed in gold, holding the Christ Child. She stands on a golden crescent moon, which is set against a blue background radiating light. Above and to the sides, small figures of angels with clasped hands are visible within decorative architectural frames. The overall impression is one of divine majesty and celestial presence.",
+    "scene_interpretation": "The Virgin Mary on the crescent moon is a common iconographic representation of the Immaculate Conception or the Assumption of Mary, drawing from the imagery in the Book of Revelation (12:1) where a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars. The presence of angels further emphasizes the heavenly nature of the scene.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537587q/f483/439,142,1108,1739/full/0/default.jpg"
+}

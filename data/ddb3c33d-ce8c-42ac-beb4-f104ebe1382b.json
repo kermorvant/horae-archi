@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation ceremony within an arched architectural setting. On the left, the Virgin Mary, with a halo, holds the Christ Child, who is reaching out. Behind her stands another woman, also with a halo. In the center, a bearded man, identified by his bishop's mitre and ornate vestments, sits holding a red cloth. He is flanked by two other men, one with a beard and the other wearing a red cap. The figures are gathered around a green-covered table supported by ornate columns. The background features tall windows with tracery, suggesting an interior space. The overall scene likely represents a religious presentation or blessing, possibly the Presentation of Christ in the Temple, given the presence of the Virgin Mary and the Christ Child with a figure in ecclesiastical attire.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010383s/f136/959,159,1074,1651/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men in what appears to be an interior architectural setting. In the foreground, a man kneels with his hands raised, looking upwards. Behind him, two figures stand, one embracing the other. To the left, a bearded man wearing a distinctive hat sits, possibly observing the scene. The background features an arched opening revealing a patterned tapestry or wall hanging. The overall impression is one of a significant event or interaction among these individuals.",
+    "scene_interpretation": "The scene is likely a depiction of a biblical or historical event involving supplication or reconciliation. The kneeling figure with raised hands suggests prayer or a plea. The embrace between the two standing figures could signify forgiveness, greeting, or a pact. The presence of multiple figures and the formal attire suggest a moment of importance.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f55/3225,376,552,872/full/0/default.jpg"
+}

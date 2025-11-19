@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A female saint, identified by a halo, stands holding a book in her left hand and a pair of pincers in her right. She wears a flowing robe and a cloak fastened at the neck. Behind her, to the right, a tower-like structure with a rounded top is visible, suggesting an urban or ecclesiastical setting. To the left, a vine with grapes is depicted, possibly symbolizing the Eucharist or the Passion of Christ. The scene is framed by an arched canopy above.",
+    "scene_interpretation": "Saint Apollonia",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint Apollonia"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0063/5191,1268,485,666/full/0/default.jpg"
+}

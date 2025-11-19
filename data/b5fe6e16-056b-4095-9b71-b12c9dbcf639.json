@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A crowd of people gathers around a circular, multi-tiered structure with arched openings. Within one of these openings, a figure dressed in blue, with hands clasped in prayer, stands amidst flames. Another figure, dressed in a golden robe, appears to be tending the fire with a stick, while others in the crowd look on with varied expressions, some carrying logs. The scene is set outdoors under a blue sky, with a decorative border framing the top left and a stylized depiction of a figure in red on the top right. The architecture is a prominent, reddish-brown structure with a domed roof, featuring decorative circular motifs and vertical elements resembling crenellations or small windows.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "dome",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f674/1647,3829,2489,1875/full/0/default.jpg"
+}

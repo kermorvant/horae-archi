@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Last Supper, with Christ seated at the center of a long table, surrounded by his twelve apostles. Christ, with a halo and a radiant aura, is shown with his hand on his chest. One apostle, identified as Judas, is depicted with a money bag and is leaning forward, possibly in the act of betrayal. Another apostle, John, rests his head on the table. The apostles are engaged in conversation and eating, with some holding cups. The setting is an interior space with a red drapery hanging behind Christ and a window with tracery visible on the left. The floor is tiled, and there are architectural elements suggesting a room, possibly a dining hall.",
+    "scene_interpretation": "The Last Supper",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ",
+        "Judas",
+        "John"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bpun/bpun-A0028/bpun-A0028_088v.jp2/1700,786,2503,3570/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a procession of men, some on horseback, moving under a decorative arch. The figures are dressed in medieval attire, with various hats and tunics. One man in the foreground, possibly a soldier or attendant, is leading a horse and carrying a staff. Behind him, several other men are visible, some with beards and wearing hats. The background is filled with a patterned texture, suggesting an interior or a stylized representation of space. The overall impression is one of movement and perhaps a journey or a formal entry.",
+    "scene_interpretation": "The scene does not clearly depict a specific biblical, liturgical, or devotional event. It appears to be a general representation of a procession or a group of people, possibly related to a historical or narrative context rather than a religious one.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0065/5157,1035,418,718/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a brutal act of martyrdom. A naked man, bound to a wooden rack, is being tortured. His torso is exposed, and a wound, possibly from a branding iron or a sharp instrument, is visible on his abdomen, with bloodstains. To his left, a man in a pink tunic raises a tool, poised to strike. Behind the victim, a crowned figure in red, possibly a king or judge, gestures with his finger, overseeing the torture. Beside him, another figure in a blue tunic and red hood observes the scene. The background features stylized trees and a patterned tapestry-like wall, suggesting an outdoor setting within a somewhat enclosed or decorated area. This scene is likely an illustration of the martyrdom of Saint Lawrence, known for being roasted alive on a gridiron.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/10520355/899,331,1158,1169/full/0/default.jpg"
+}

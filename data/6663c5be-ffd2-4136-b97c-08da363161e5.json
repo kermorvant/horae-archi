@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An angel, with blonde hair and blue wings, dressed in a white robe, reaches out to a bearded man in a green tunic and a purple cloak. The man has his hands clasped in prayer. Behind them, a stone tower with arched openings is visible. To the right, two men in medieval attire, one wearing a blue and red hat and the other a green cap, observe the scene. The ground is depicted as green grass with some golden accents, suggesting an outdoor setting.",
+    "scene_interpretation": "The scene likely depicts a divine intervention or a moment of spiritual revelation, possibly related to a saint or a biblical figure receiving a message or protection from an angel. The presence of the tower and the observers suggests a narrative context, perhaps a moment of trial or deliverance.",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dt765nv8976%2FW206_000095_1200/362,2560,1707,2216/full/0/default.jpg"
+}

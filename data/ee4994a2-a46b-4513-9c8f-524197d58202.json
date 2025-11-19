@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable structure. The Virgin Mary, with a halo, kneels in prayer to the left, facing a manger where the Christ Child lies. To the right, Saint Joseph, bearded and cloaked, also kneels, looking towards the child. A cow and an ox are present, with the ox's head visible near the child. Above and behind them, a group of onlookers, some with hats and spears, observe the scene. In the background, a detailed cityscape with various buildings, including towers and houses, is depicted, suggesting the event takes place near a town. Angels are shown in the upper left, possibly announcing the birth. The overall setting is a blend of the humble stable and the distant, more elaborate urban environment.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "window",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0036/4535,1319,1679,2707/full/0/default.jpg"
+}

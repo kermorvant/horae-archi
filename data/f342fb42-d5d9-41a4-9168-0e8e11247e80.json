@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Andrew by his attribute of the saltire cross, stands in a room with a tiled floor. He is depicted wearing a blue tunic and a red mantle, and he holds an open green book in his hands. Behind him, a large saltire cross leans against a blue tapestry with a gold floral pattern. The room features architectural elements such as a stone wall with brickwork detail, a window with tracery, and a curved archway. The overall setting suggests an interior space, possibly a study or a chapel, where the saint is engaged in contemplation or writing.",
+    "scene_interpretation": "Saint Andrew",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "tracery_window",
+        "arch"
+    ],
+    "persons": [
+        "Saint Andrew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zs503zt2162%2FW240_000658_1200/4975,1440,2641,4244/full/0/default.jpg"
+}

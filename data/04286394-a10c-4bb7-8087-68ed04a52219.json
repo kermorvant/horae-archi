@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a halo and wearing a blue mantle, cradles the Christ Child in her arms. She gazes down at him with a gentle expression. Behind them, a brick wall with crenellations suggests a fortified structure, topped by two evergreen trees. The scene is set against a blue sky with radiating lines indicating divine light. The overall composition is framed by an arched border with decorative floral motifs.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "wall",
+        "battlement",
+        "crenellation"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00095049_00101/165,53,522,719/full/0/default.jpg"
+}

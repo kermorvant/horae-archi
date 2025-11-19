@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and crozier, stands on the left, dressed in a blue robe and a red, gold-trimmed cope. He gestures with his right hand towards a wooden tub on the right, which contains three nude children with their hands clasped in prayer. The background is a green, patterned tapestry. This scene depicts Saint Nicholas of Myra, a bishop known for his generosity and protection of children, specifically the legend of him saving three young girls from prostitution by providing dowries, often depicted as them being thrown into a tub or basin.",
+    "scene_interpretation": "Saint Nicholas saving the three maidens",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f184/669,249,864,1231/full/0/default.jpg"
+}

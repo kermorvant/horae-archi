@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, who is reaching out. To the left, a figure in an orange tunic and blue robe, possibly a donor or a saint, is shown with a book open before them, gesturing towards the Virgin and Child. The background features a decorative pattern of gold foliage on a red ground, framed by architectural elements suggesting an interior space. The overall composition is rich with gold leaf, typical of illuminated manuscripts.",
+    "scene_interpretation": "Madonna and Child with a Donor/Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kf436hc7882%2FW89_000010_1200/4463,2597,1540,2741/full/0/default.jpg"
+}

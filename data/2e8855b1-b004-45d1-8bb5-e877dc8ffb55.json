@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, stands within an architectural frame. She wears a draped garment and a cloak fastened at the neck. Her left hand holds a vessel, possibly a censer or a reliquary, while her right hand is positioned near her chest. The background is filled with a dense pattern of dots, suggesting foliage or a decorative motif, with a hint of landscape elements at the bottom. Above her, an arched structure, possibly part of a larger architectural setting, frames the scene. The overall impression is one of devotional representation, possibly depicting a saint associated with a specific relic or liturgical practice.",
+    "scene_interpretation": "Saint holding a reliquary",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0012/5217,645,429,649/full/0/default.jpg"
+}

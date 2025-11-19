@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three figures on horseback approaching a fourth figure standing in a field. The three riders are dressed in medieval attire, with two of them wearing hats. The horses are adorned with decorative trappings. The standing figure, clad in a simple white tunic, is gesturing upwards with an object in their raised hand, appearing to be in distress or supplication. The background shows a landscape with hills and a fence-like structure. The entire scene is framed by ornate architectural borders, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "The scene likely depicts a moment from the life of a saint or a biblical narrative where a person is seeking divine intervention or is being tested. The gesture of the standing figure and the presence of riders could suggest a plea for help, a miraculous event, or a moment of judgment.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_151/571,1677,721,487/full/0/default.jpg"
+}

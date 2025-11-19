@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a man in a blue robe pointing upwards towards a wooden structure where three men are suspended. Above them, a figure in a red robe with a halo, identified as God, reaches down. Another figure, dressed in blue and gold, is on a ladder, seemingly assisting in the process. The background is a rich red tapestry with a repeating pattern of gold circles and squares, and a blue starry cloth above. The lower portion of the scene shows a green grassy ground.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "God",
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f483/1917,1145,973,1762/full/0/default.jpg"
+}

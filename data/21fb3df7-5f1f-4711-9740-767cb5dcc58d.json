@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary, a common theme in medieval art. The Virgin Mary, depicted kneeling with hands clasped in prayer, is crowned by Christ. She is dressed in a flowing white robe, and a halo encircles her head. Christ, seated and wearing a crown and a regal robe, extends his right hand towards Mary's head, bestowing the crown. Behind them, three angels are visible, two looking towards the central figures and one holding a crown. The figures are set within an architectural framework suggesting a divine or heavenly space, with arched structures and decorative elements.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f81/978,458,880,1070/full/0/default.jpg"
+}

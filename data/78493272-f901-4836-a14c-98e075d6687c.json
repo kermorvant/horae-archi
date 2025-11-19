@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a green turban and a blue robe over a red tunic, is seated and writing in a book propped on an easel. He holds a quill in his right hand, poised over the text. Beside him, a small lamb rests on the ground. The background suggests an interior space with a dark wall and a patterned curtain or tapestry on the right. The scene likely depicts a scribe or a prophet engaged in writing.",
+    "scene_interpretation": "Prophet Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/1013397/1012645.tif/297,631,464,563/full/0/default.jpg"
+}

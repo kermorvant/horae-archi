@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable. The Virgin Mary, in a blue mantle over a red tunic, kneels in adoration beside the Christ Child lying in a manger. To the left, Saint Joseph, dressed in a red robe and blue scarf, looks on with hands clasped. A golden ox stands behind the manger, its head turned towards the viewer. The architectural setting is a simple stable with a thatched roof and rough stone walls, partially covered by greenery. The background shows a landscape with hills and a pale blue sky, framed by an arched border with decorative elements.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55006457g/f112/272,161,729,1048/full/0/default.jpg"
+}

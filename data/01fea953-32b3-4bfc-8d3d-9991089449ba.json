@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo, kneeling and writing on a scroll or tablet with his finger. He is surrounded by three figures. To his right stands a woman with her hands clasped, wearing a headdress. Behind Christ and to his left are two men, one with a turban-like head covering and a beard, and another behind him also wearing a similar head covering. The figures are framed by an architectural element that suggests an archway with decorative foliage. The overall style is that of a woodcut illustration, likely from a printed book.",
+    "scene_interpretation": "Jesus Teaching the Woman Taken in Adultery",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0045/846,275,531,993/full/0/default.jpg"
+}

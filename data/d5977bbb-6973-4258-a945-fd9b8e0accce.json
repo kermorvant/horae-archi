@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a humble, rustic structure, possibly a stable, suggested by the wooden beams and thatched roof. The Virgin Mary, seated on a red cushion, cradles the Christ Child, who is reaching out. Three Magi are present: one kneels before the child, offering a gift; another, crowned and in red, holds a vessel; and the third, in blue and red, looks upwards towards a radiant sun. In the background, a town with spires and towers is visible under a bright blue sky. The overall scene is rich with color and gold leaf, characteristic of manuscript illumination.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0106/utp-0106_092v.jp2/2395,447,2640,3943/full/0/default.jpg"
+}

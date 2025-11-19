@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an interior space. In the foreground, a man in a blue and gold chasuble, identified as a priest, kneels with his hands clasped in prayer. Before him, a young woman in a pink gown also kneels, her hands joined. To the left, a man in a red robe and hat holds a reliquary containing a luminous object. Behind the priest, on an altar, stands a depiction of the crucified Christ, crowned with thorns and bleeding. The altar is adorned with candles and chalices, and an open book rests upon it. To the left of the altar, a ladder leans against a blue backdrop, and various tools, possibly related to the Passion, are displayed. The floor is tiled in a diamond pattern of green, pink, and white squares. The overall scene appears to be a devotional representation of the Mass or a prayer service focused on the Passion of Christ.",
+    "scene_interpretation": "Mass of Saint Gregory",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "altar",
+        "window",
+        "roof",
+        "wall",
+        "stairs",
+        "column"
+    ],
+    "persons": [
+        "Priest",
+        "Woman",
+        "Man in red robe"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_003%2Fwidener_003_jp2.zip%2Fwidener_003_jp2%2Fwidener_003_0017.jp2/2125,1062,1440,2255/full/0/default.jpg"
+}

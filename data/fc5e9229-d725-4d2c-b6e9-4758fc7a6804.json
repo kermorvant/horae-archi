@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, wearing a blue mantle and headdress, rides a donkey, cradling the Christ Child. The Christ Child, with a golden halo, is held close by his mother. Beside them, an elderly man, likely Saint Joseph, walks and guides the donkey by its reins. He wears a pink tunic and an orange cap. The figures are set against a backdrop of a green, hilly landscape with stylized trees and a rocky outcrop. The ground beneath them is a pale, textured surface, suggesting a path or road. The scene is framed by a decorative border.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/wt195gt4247%2FW263_000139_1200/1095,892,3374,4015/full/0/default.jpg"
+}

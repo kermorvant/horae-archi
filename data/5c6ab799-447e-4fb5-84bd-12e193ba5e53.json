@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and crozier, kneels on a patterned floor. He wears a red chasuble over a yellow dalmatic and a blue tunic, with white gloves. In his left hand, he holds a blue book adorned with gold circles, and in his right, he grasps a black crozier. Behind him, a green tapestry-like background is visible, with two blue cushions or bags placed on either side. The scene is framed by architectural elements suggesting an interior space, with arched openings revealing stone walls and windows in the background.",
+    "scene_interpretation": "Saint in episcopal vestments holding a book and crozier",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10509406b/f128/800,438,1166,1753/full/0/default.jpg"
+}

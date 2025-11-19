@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two male saints, identified by their halos, stand side-by-side. The saint on the left wears a blue tunic and a red cloak, and holds a black object resembling a key. The saint on the right wears a blue tunic and a gold-trimmed cloak, and holds a sword. Both have white beards and are depicted in a landscape setting with rolling blue hills and a bright blue sky. The overall impression is one of solemnity and religious devotion.",
+    "scene_interpretation": "Saints Peter and Paul",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_018/DEPOT/890245409_n_018_0040/3644,2466,989,1080/full/0/default.jpg"
+}

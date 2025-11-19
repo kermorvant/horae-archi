@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Jesus, wounded and wrapped in a white shroud, being held by mourners. Christ's body is positioned on a dark, rectangular sarcophagus-like structure. Several figures surround the body, expressing grief. On the left, a man with a beard and a red and gold patterned hat leans over Christ. To his right, a woman with blonde hair and a red and gold garment looks down sorrowfully. Next to her, a woman in a blue mantle and head covering cradles Christ's head. Behind her, another woman in a red head covering and garment looks on with sadness, and a man with a blue and red garment and a blue cap is visible on the far right. The background is a stylized landscape with green hills and golden, decorative elements suggesting foliage or divine light. The overall composition conveys a profound sense of sorrow and reverence.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f40/653,750,767,835/full/0/default.jpg"
+}

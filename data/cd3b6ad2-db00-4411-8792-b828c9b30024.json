@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary, with her lying on a richly decorated bed under a canopy. A group of figures, likely apostles and other mourners, surround her. One figure, possibly a priest, is anointing her. In the foreground, two bearded men are seated, one reading a book and the other in contemplation. The architectural setting is suggested by columns and decorative elements, implying an indoor space, possibly a room within a religious building or a domestic setting adapted for the event.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037275w/f83/1355,29,1047,1530/full/0/default.jpg"
+}

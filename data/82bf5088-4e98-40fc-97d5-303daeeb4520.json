@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left and the Virgin Mary on the right. The angel, with large feathered wings and a halo, points upwards and holds a scroll. He is dressed in a blue tunic and a red cloak. The Virgin Mary, also with a halo, wears a blue robe over a red garment and has her hands clasped in front of her chest. Both figures stand against a gold background, suggesting a divine or heavenly setting. The architectural elements framing the scene consist of two pink columns and a decorative arch with blue and gold patterns, suggesting a stylized representation of a sacred space.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/cq459jb8197%252FW41_000020_300/227,187,655,1036/full/0/default.jpg"
+}

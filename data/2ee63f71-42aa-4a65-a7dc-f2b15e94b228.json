@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts three figures within an interior architectural setting. On the right, a man wearing a red cap and a fur-trimmed collar stands, holding a scroll or document. In the center and left, two younger figures are shown. The central figure, kneeling, wears a red robe over a green garment and holds a small book. Behind him, another figure in a blue tunic looks on. The background suggests an interior space with decorative architectural elements, including what appears to be a screen or partition with arched openings. The overall impression is one of a formal exchange or presentation, possibly related to learning or religious devotion.",
+    "scene_interpretation": "This scene likely represents a moment of instruction or the presentation of a text, possibly a Book of Hours or a religious tract, within a domestic or scholarly context. The figures engaged in reading and holding documents suggest an emphasis on literacy and devotional practice.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_112%2Flewis_e_112_jp2.zip%2Flewis_e_112_jp2%2Flewis_e_112_0198.jp2/703,2905,1504,1624/full/0/default.jpg"
+}

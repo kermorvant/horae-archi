@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts a solitary, bearded man, likely a hermit or saint, standing in a rocky, barren landscape. He wears a hooded robe and holds a long staff in his right hand, with a pouch hanging from it. His left hand is held near his chest, with fingers slightly curled. A halo encircles his head, and he wears a cap adorned with decorative symbols. In the background, a cave-like opening or architectural structure is visible, suggesting a dwelling or place of refuge. The overall impression is one of austerity and spiritual contemplation.",
+    "scene_interpretation": "Saint Anthony Abbot",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00113507_00435/341,304,473,569/full/0/default.jpg"
+}

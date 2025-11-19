@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an arched frame decorated with floral motifs. On the left, the Virgin Mary, dressed in a blue robe with gold embellishments, is shown reading a red book. Her left hand is raised in a gesture of surprise or acceptance. To her right, the Archangel Gabriel, adorned in a golden tunic with jeweled cuffs, holds a golden staff and points upwards. A scroll unfurls from his mouth with the inscription \"AVE. GRATIA. PLENA.\". Above them, the Holy Spirit descends as a dove, radiating golden rays. Behind the Virgin Mary, a window with diamond-shaped panes is visible, suggesting an indoor setting.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Archangel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10026758n/f31/357,127,1403,1801/full/0/default.jpg"
+}

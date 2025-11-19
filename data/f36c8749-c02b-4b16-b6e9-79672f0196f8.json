@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Matthew, identifiable by his halo and scholarly activity, seated outdoors and writing on a scroll. He is dressed in a blue tunic and a flowing yellow mantle. Beside him, a winged angel kneels, holding a quill and inkpot, seemingly in the act of dictating or assisting Saint Matthew. The background is a pastoral landscape with rolling hills, scattered trees, and a body of water. The entire scene is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "The Four Evangelists",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Matthew",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000442d/f42/473,92,704,1009/full/0/default.jpg"
+}

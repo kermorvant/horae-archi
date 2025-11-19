@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A group of figures are depicted within an architectural setting. The central figure, an elderly man with a long white beard, wears a blue robe adorned with gold patterns and a tall, cylindrical hat. He holds a golden staff and is kneeling on a raised platform. Behind him, two other figures, one wearing a brown cap and the other a monk's habit, appear to be supporting or attending to him. The architecture consists of columns and arches, suggesting an interior space, possibly a hall or a chamber within a larger building. The scene is framed by decorative elements, including a red crenellated border at the top.",
+    "scene_interpretation": "This scene likely depicts a figure of authority or religious significance, possibly a king, prophet, or elder, in a moment of prayer, contemplation, or receiving counsel. The presence of monks suggests a religious context. Without further iconographic clues, a specific biblical or devotional event cannot be definitively identified, but it evokes themes of wisdom, leadership, and spiritual guidance.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "roof",
+        "wall",
+        "gable"
+    ],
+    "persons": [
+        "elderly man",
+        "monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f449/690,245,1163,1720/full/0/default.jpg"
+}

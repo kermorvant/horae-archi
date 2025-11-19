@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A man with a beard and long hair, wearing a blue tunic, purple cloak, and red sash, stands behind a kneeling woman. He holds a large sword above her head, poised to strike. The woman, with blonde hair and a halo, wears a blue dress and a red cloak, her hands clasped in prayer. She kneels on a red drapery. To the right, a stone tower with arched openings and crenellations is visible. The background depicts a hilly landscape with trees and buildings, suggesting an outdoor setting. The scene likely represents the martyrdom of a saint, possibly Saint Barbara, given the tower element.",
+    "scene_interpretation": "Martyrdom of a Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "battlement",
+        "crenellation"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f195/327,236,1440,2026/full/0/default.jpg"
+}

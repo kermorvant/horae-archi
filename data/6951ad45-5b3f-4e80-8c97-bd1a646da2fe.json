@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A man, likely King David, kneels in prayer with his hands outstretched towards a divine light emanating from the upper right. He is dressed in a rich blue robe adorned with gold fleur-de-lis. Before him lie a golden crown and a harp, symbols of his kingship and musical talent. The background depicts a dramatic landscape with towering, jagged mountains on the left, a dark, rocky formation in the center, and a large green, amorphous shape on the right, possibly representing a monstrous entity or a symbolic landscape. Rays of sunlight descend from a golden sun disc in the upper left, illuminating the scene and suggesting divine intervention or presence. The overall composition suggests a moment of spiritual crisis or divine revelation.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550085652/f211/524,124,1118,1612/full/0/default.jpg"
+}

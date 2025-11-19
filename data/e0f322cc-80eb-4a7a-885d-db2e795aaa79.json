@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, pierced by numerous arrows, standing in a landscape. He is surrounded by four men, each holding a bow and aiming arrows at him. Christ is depicted with a halo, indicating his divinity, and is clad only in a white loincloth. The landscape features a tree laden with red fruit, stylized blue mountains in the background, and patches of green foliage. The scene is framed by decorative architectural elements, specifically columns with ornate capitals and bases, suggesting a manuscript illumination context. This imagery likely represents the martyrdom of Saint Sebastian, who was traditionally depicted as being shot with arrows, though the presence of Christ suggests a possible allegorical or devotional interpretation linking Christ's suffering to the saint's.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian (with Christological association)",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892301/332,170,1702,2878/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint, is depicted kneeling. She holds a palm frond in her left hand and a model of a tower in her right. The figure wears a long, draped garment and has long, wavy hair. She is framed by an arched architectural element above and a textured background that suggests foliage or a patterned cloth. The scene is rendered in a woodcut style with strong hatching for shading. The presence of the palm frond signifies martyrdom, and the tower is a common attribute for saints associated with fortifications or imprisonment, such as Saint Barbara.",
+    "scene_interpretation": "Martyrdom of a female saint, likely Saint Barbara, indicated by the palm frond and the tower.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Barbara"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0022/5097,703,425,614/full/0/default.jpg"
+}

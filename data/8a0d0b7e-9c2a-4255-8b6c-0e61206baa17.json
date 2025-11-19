@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and bleeding, standing in what appears to be water. He is partially draped in a white loincloth. In his left hand, he holds a bundle of twigs or reeds, and in his right, a green palm frond and a scourge. Behind him, a wooden cross is visible, along with a ladder leaning against it. A spear is positioned to the left of Christ, and the scourge to the right. The background is a textured gold, framed by an arched border with decorative elements, including a strawberry at the top right. The blue forms at the sides suggest water or a stylized representation of the sea.",
+    "scene_interpretation": "Man of Sorrows",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross",
+        "ladder"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3769/Vat.lat.3769_0114_fa_0056v.jp2/1051,425,1484,2375/full/0/default.jpg"
+}

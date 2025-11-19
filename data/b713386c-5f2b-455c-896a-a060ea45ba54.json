@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A close-up image shows a fragment of a medieval manuscript illumination. The central figure is a bearded man with a halo, likely representing Christ or a saint. The halo is rendered with gold leaf, suggesting divine or sacred status. The figure's face is rendered with muted colors, and the beard is depicted with fine brushstrokes. Parts of the figure's shoulders and upper chest are visible, draped in what appears to be a pinkish-red garment with blue trim. The background is partially obscured by damage and wear, but hints of blue and gold suggest a celestial or richly decorated setting.",
+    "scene_interpretation": "Divine Figure",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00162/190,107,214,209/full/0/default.jpg"
+}

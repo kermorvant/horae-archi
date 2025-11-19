@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A crowd of people are gathered, with a central figure, likely a woman, in a hooded garment, her hands clasped in prayer or supplication. She is surrounded by other individuals, some looking towards her, others looking upwards. Above them, architectural elements suggest an interior space, possibly a church or hall, with decorative arches and what appear to be roof structures. The scene conveys a sense of communal devotion or a significant religious event.",
+    "scene_interpretation": "The scene likely depicts a moment of communal prayer or a religious procession, possibly related to a saint's life or a devotional practice within a church setting. The central figure's posture suggests piety and earnest supplication.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0040/5929,1985,589,1028/full/0/default.jpg"
+}

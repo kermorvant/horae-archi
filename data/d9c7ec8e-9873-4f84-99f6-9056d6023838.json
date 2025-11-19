@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts two crowned figures seated on a bench within an architectural setting. On the left, a female figure, likely the Virgin Mary, wears a pale pink robe and an orange undergarment, her hands clasped in prayer. She is crowned and looks towards the male figure. On the right, a male figure, likely Christ, is depicted with a beard, wearing a blue robe and also crowned. He holds a globe in his left hand and gestures with his right. The background is gold, suggesting a divine or important context. The figures are framed by an illuminated initial 'D' with decorative elements.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84522015/f127/287,1656,739,596/full/0/default.jpg"
+}

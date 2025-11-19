@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "An angel with large red wings and a golden halo descends from a bright blue sky, radiating light. Below, in a pastoral landscape, two shepherds are tending their flock of sheep. One shepherd, kneeling and looking upwards with an outstretched arm, appears startled or awestruck. The other shepherd sits on a grassy incline, also looking upwards. A small dog lies near the kneeling shepherd. In the background, a simple wooden cart with wheels is parked near a small shed, and a body of water with trees lining its banks is visible. The scene depicts the Annunciation to the Shepherds, a pivotal moment in the Nativity story where angels announce the birth of Christ to humble shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:42:2:wdl_14422:418_SMC_1_205v/1306,428,1197,2029/full/0/default.jpg"
+}

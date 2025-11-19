@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts three shepherds in a green, rolling landscape, looking upwards towards a flying angel. The angel, with golden hair and wings, is depicted in a purplish-gold robe, holding a scroll with Latin text. The shepherds are dressed in medieval attire: one in blue and red with a hood, another in brown and blue, and the third in red and blue with a cape. They are gesturing towards the angel, their faces expressing awe or surprise. In the background, a river flows past a distant city with prominent towers. A flock of sheep is visible in the lower right corner of the scene. The entire scene is framed by an ornate, arched border with gold and blue decorative elements.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/my189pm5441%2FW202_000189_1200/814,1961,1620,2012/full/0/default.jpg"
+}

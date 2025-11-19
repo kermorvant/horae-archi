@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A figure, likely a saint or cleric, stands in a landscape, holding an open book in their left hand and a grid-like object, possibly a gridiron, in their right. The figure wears a long, reddish-purple robe adorned with gold patterns over a white undergarment. In the background, several stylized castles or towers are visible amidst rolling green hills and foliage under a blue sky. The scene is framed by an ornate, golden architectural element, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515740c/f292/650,519,748,764/full/0/default.jpg"
+}

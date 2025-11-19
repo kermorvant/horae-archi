@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A royal figure, adorned with a blue crown and a golden cape over a blue robe, is seated on a throne. He is gesturing with his hands towards a man in a pink robe who is standing and looking at him. Several other men, dressed in blue and purple robes, are seated or standing around them, some looking towards the central figures. The scene is set within an architectural space featuring arches, columns, and decorative elements, suggesting a formal or courtly setting. The overall impression is one of a significant interaction or judgment.",
+    "scene_interpretation": "David and the Elders",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0060/4900,1017,698,1108/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and with a golden halo, holding the Christ Child. She is dressed in a flowing blue mantle. The Christ Child, also with a halo, is held in her arms. Behind them, a rich red tapestry with gold ornamentation is visible, suggesting a regal or sacred setting. The background features a blue sky with radiating golden light, and green rolling hills. The ground beneath them is depicted as a green checkered pattern. The overall impression is one of divine motherhood and majesty.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501939c/f404/1000,182,936,1413/full/0/default.jpg"
+}

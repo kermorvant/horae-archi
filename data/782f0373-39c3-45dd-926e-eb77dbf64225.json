@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the arrest of Christ, with Jesus at the center, surrounded by a crowd of soldiers and figures. Judas, identifiable by his green robe and the money bag, is shown kissing Jesus, initiating the betrayal. Soldiers in armor and helmets are present, some holding spears and a torch. In the background, a simple wooden structure and mountainous landscape are visible. One soldier is shown falling or being struck down, while another attempts to draw a sword. The overall atmosphere is one of turmoil and capture.",
+    "scene_interpretation": "The Arrest of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Jesus",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f197/391,1289,819,1313/full/0/default.jpg"
+}

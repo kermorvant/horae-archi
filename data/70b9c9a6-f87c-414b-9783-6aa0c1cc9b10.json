@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A bearded man, identified as St. John the Baptist by his halo and devotional posture, kneels in prayer outdoors. He wears a simple, rough-spun golden robe over a white undergarment. His hands are clasped, and his gaze is directed upwards. To his right, a tree trunk bears a small shrine containing a depiction of the Crucifixion. In the background, a building with a pitched roof and arched windows is visible, along with rolling hills and a blue sky. A red cloth, possibly a cloak, is draped over the tree.",
+    "scene_interpretation": "St. John the Baptist in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "niche"
+    ],
+    "persons": [
+        "St. John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0068/DEPOT/M601415401_MS0068_0284/2251,1093,1427,2033/full/0/default.jpg"
+}

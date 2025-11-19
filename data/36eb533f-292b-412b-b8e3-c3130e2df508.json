@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, stands in a rocky, outdoor landscape. She is dressed in a dark robe and holds a cylindrical vessel in her left hand. Her gaze is directed downwards. The background features stylized, dark foliage within an arched frame, suggesting a decorative border or architectural element framing the scene. The overall impression is one of solemnity and devotion, possibly depicting a moment of contemplation or a specific saintly attribute.",
+    "scene_interpretation": "Saint holding a reliquary",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f285/982,394,846,1311/full/0/default.jpg"
+}

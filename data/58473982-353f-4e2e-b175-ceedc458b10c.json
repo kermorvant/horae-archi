@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and pink robe, standing on a grassy ground and pointing upwards with his right hand. Below him, several figures are shown in prayer, one kneeling in a blue robe and red hose, with two others standing behind him. In the upper part of the image, an angel with red wings is reaching down to lift three figures, who are dressed in red and pink garments, into a starry, blue sky. The background is a rich tapestry of blue with gold stars and a red, intricate pattern. This scene likely represents Christ raising the faithful to heaven, possibly during the Ascension or a similar salvific event.",
+    "scene_interpretation": "Ascension of Christ / Raising of the Faithful",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f120/467,912,933,1578/full/0/default.jpg"
+}

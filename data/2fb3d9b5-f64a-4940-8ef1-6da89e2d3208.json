@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary and the Apostles gathered together. A dove, representing the Holy Spirit, descends from a radiant sun above, with rays of light emanating downwards. The figures are seated and standing, some with hands clasped in prayer or raised in awe. The Virgin Mary is seated, looking upwards, with a book open before her. One Apostle in the foreground holds an open book. The scene is framed by an architectural element resembling a Gothic arch with decorative tracery, suggesting an interior space or a symbolic representation of a sacred enclosure. A rich red tapestry with gold embellishments hangs behind the figures.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tracery_window",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.C.IV.109/Chig.C.IV.109_0262_fa_0127r.jp2/288,195,433,710/full/0/default.jpg"
+}

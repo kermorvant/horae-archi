@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, likely a saint, seated on a throne-like chair, wearing a halo and a white robe. A deer is shown nuzzling his hand, which rests on an open book. To the left, a young man in a tunic and hat stands near a decorative screen adorned with fleur-de-lis. The background features Gothic architectural elements, including ribbed vaults and arched windows with tracery. The floor is tiled in a checkered pattern. This scene is interpreted as Saint Eustace, a Roman general who, according to legend, saw a vision of a stag with a crucifix between its antlers while hunting, leading to his conversion to Christianity.",
+    "scene_interpretation": "Saint Eustace",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "ribbed_vault",
+        "window",
+        "tracery_window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Saint Eustace"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f173/972,362,808,1201/full/0/default.jpg"
+}

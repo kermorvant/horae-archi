@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a prominent tower and a building with an open doorway. In the foreground, a flock of sheep is being herded by a man in a red tunic and blue hose. To the right, another man on horseback, dressed in colorful striped attire and a yellow hat, is accompanied by a dog. Above, a man stands on a hill, casting a stone or ball, while a bird flies in the sky. A solar eclipse is depicted in the upper portion of the sky. The calendar grid, typical of Books of Hours, occupies the central part of the image, with Latin inscriptions and numerical notations.",
+    "scene_interpretation": "This image likely represents a scene from the month of April, as indicated by the inscription 'Aprilis habet dies'. The pastoral activities, such as sheep herding and a man on horseback, are often associated with springtime and agricultural cycles. The solar eclipse might be a symbolic representation of celestial events or a specific astrological or religious omen relevant to the month.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower",
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "door",
+        "roof"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Cappon.218/Cappon.218_0021_fr_0008r.jp2/202,198,859,1302/full/0/default.jpg"
+}

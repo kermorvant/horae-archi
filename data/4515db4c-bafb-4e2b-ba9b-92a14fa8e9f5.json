@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A figure, likely female given the attire and hairstyle, stands holding a cross. The figure wears an elaborate headdress and ornate clothing adorned with circular motifs and beaded trim. The left hand is extended, pointing forward. The background is sparsely populated with small circles and star-like shapes, suggesting a celestial or abstract setting. The presence of the cross and the pointing gesture could allude to a saint or a symbolic representation of faith.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00140/991,2684,648,696/full/0/default.jpg"
+}

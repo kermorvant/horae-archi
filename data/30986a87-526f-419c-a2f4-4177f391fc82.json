@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a simple stable structure. A newborn Christ Child lies in a manger, radiating a golden halo. To the left, the Virgin Mary kneels in prayer, her hands clasped. To the right, Saint Joseph, leaning on a staff, also appears to be in prayer or contemplation. In the background, within the stable, are the figures of an ox and a donkey. The architecture is rudimentary, suggesting a humble setting for the birth of Christ. The overall impression is one of quiet reverence and divine humility.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kf205rk4807%2FW189_000080_1200/4029,1108,2662,4290/full/0/default.jpg"
+}

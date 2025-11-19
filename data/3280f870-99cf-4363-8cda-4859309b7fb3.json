@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of three men interacting with a haloed figure, presumably Christ, who stands on the right. One man kneels with clasped hands, looking up at Christ. Another man, standing behind the kneeling figure, places a hand on the kneeling man's shoulder and gestures towards Christ. A third man stands to the left, also looking towards Christ. Between the kneeling man and Christ, a jug and a round object, possibly bread, are placed on the ground. Behind the group of men is a stylized tree or cross. The figures are rendered in a simple, somewhat crude style, with minimal architectural detail. The scene is framed by a decorative border.",
+    "scene_interpretation": "Miracle of the Loaves and Fishes",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f94/749,610,1003,1208/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A haloed man, likely a saint, is seated in a richly decorated bedchamber, facing a lectern with an open book. He wears a simple grey robe and a wide-brimmed hat. To his right, a lion sits attentively. The room features ornate red and gold drapery behind the bed, and a large window with vertical bars. The floor is tiled with a geometric pattern. The scene likely depicts a saint in contemplation or study, possibly St. Jerome, given the presence of the lion, a common attribute.",
+    "scene_interpretation": "Saint in contemplation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "column",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_106%2Flewis_e_106_jp2.zip%2Flewis_e_106_jp2%2Flewis_e_106_0460.jp2/3428,1457,2129,3413/full/0/default.jpg"
+}

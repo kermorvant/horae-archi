@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting. On the left, a bearded man wearing a cap and robes is seated, with his hands clasped. He appears to be in conversation with a standing figure on the right, who is also bearded, wears a cloak, and has long hair. The standing figure extends a hand towards the seated man. Behind the figures, architectural elements are visible, including arches, walls, and what appear to be buildings with domed roofs in the background. The overall impression is one of a meeting or discourse between two individuals in a structured environment.",
+    "scene_interpretation": "The scene likely represents a biblical or devotional encounter. Given the common iconography of such manuscripts, the standing figure could be Christ, and the seated figure a disciple or a figure from the Old Testament. The gesture of the standing figure might indicate teaching, blessing, or a significant moment of recognition or revelation.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0050/711,320,575,1005/full/0/default.jpg"
+}

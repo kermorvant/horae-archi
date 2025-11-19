@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable structure, characterized by wooden beams and a thatched roof. Inside, a white horse and a brown ox are visible, along with the Christ Child lying in a manger. To the right, the Virgin Mary kneels with her hands clasped in prayer, her blue mantle adorned with gold trim. Beside her, a bearded man, likely Saint Joseph, also kneels in prayer. The background shows a rolling landscape with trees and a distant town with buildings and a castle, under a sky illuminated by divine rays emanating from a sun-like symbol. The entire scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/15918374/505,261,1132,1630/full/0/default.jpg"
+}

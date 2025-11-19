@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A figure, likely a prophet or saint, is depicted in profile, wearing a draped robe and a headdress. The figure has a beard and appears to be looking upwards or to the side. The scene is framed by architectural elements that suggest a decorative border or a niche. The overall style is that of a woodcut or engraving, common in medieval manuscripts. The scene's religious significance is suggested by the figure's contemplative pose and the context of a Book of Hours, which typically illustrates biblical or devotional scenes.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "microarchitecture"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0035/3798,2833,207,1782/full/0/default.jpg"
+}

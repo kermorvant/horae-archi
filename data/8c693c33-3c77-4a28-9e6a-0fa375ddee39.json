@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ enthroned, with wounds visible on his hands and chest, gesturing with his right hand. He is seated on a blue and white patterned cushion, above a depiction of the Last Judgment with souls being judged. To Christ's left kneels a figure in blue and red robes, looking upwards. To Christ's right kneels another figure in red robes, with hands clasped in prayer. Below Christ, several naked figures are depicted, some looking up, others in prayer, and one appears to be a lamb. To the right of the enthroned Christ, a dark, demonic figure with horns and a twisted body is visible. Above, two winged figures, possibly angels, blow trumpets, and rays of light emanate from above. The background is a rich gold and blue patterned textile, framed by decorative floral elements at the top.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f268/928,408,1398,1736/full/0/default.jpg"
+}

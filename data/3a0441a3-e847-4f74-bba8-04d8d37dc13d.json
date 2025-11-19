@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A golden background suggests a divine or spiritual setting. In the foreground, a reclining male figure, likely Adam, rests on a pinkish-brown surface, his head supported by his hand and his other hand placed on his chest. Behind him, a standing female figure, possibly Eve, gently holds his arm. To the left, a figure in a blue robe with a pink lining, identified by a halo, gestures with her right hand, her left hand touching the standing female figure's arm. This scene is framed by an architectural element with pointed arches and decorative patterns, suggesting a stylized representation of a sacred space.",
+    "scene_interpretation": "The Creation of Eve",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zw200wd8767/W34_000050_300/648,321,1151,917/full/0/default.jpg"
+}

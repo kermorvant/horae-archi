@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary, with the Virgin lying on a richly decorated bed, draped in a blue mantle. She is surrounded by a group of figures, including Christ, who is seated and reading from a book, and several apostles and saints. A bishop, identifiable by his vestments and mitre, stands near the Virgin's head, holding a staff. Other figures are shown in prayer or contemplation. The setting appears to be an interior space, suggested by the bed and the presence of figures gathered around it. The overall atmosphere is one of solemnity and religious devotion.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550058850/f270/494,269,661,1108/full/0/default.jpg"
+}

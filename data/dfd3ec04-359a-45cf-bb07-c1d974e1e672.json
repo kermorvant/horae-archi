@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Saint John the Evangelist, is depicted kneeling outdoors, engrossed in writing on a scroll. The figure wears a red cloak over a blue tunic. To the right, a winged, dragon-like creature with sharp claws hovers menacingly, while a bird of prey perches nearby. The background features rolling green hills, rocky outcrops, and distant blue buildings, suggesting a landscape setting. The scene is framed by an illuminated border with gold leaf and decorative motifs. This imagery is often interpreted as the Temptation of Saint John, where he is assailed by demonic forces while in solitude, possibly during his exile on Patmos.",
+    "scene_interpretation": "Temptation of Saint John",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0033/bge-lat0033_013r.jp2/377,604,1462,1970/full/0/default.jpg"
+}

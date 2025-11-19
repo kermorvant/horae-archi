@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on their journey, likely the Flight into Egypt. The Virgin Mary, wearing a blue robe and a grey hat over a white veil, rides a donkey. She cradles the Christ Child, who is swaddled and appears to be sleeping. Joseph, dressed in a blue tunic, red hose, and a red turban, walks beside the donkey, leading it by a rope and carrying a staff over his shoulder. The landscape is rolling and green, with trees and a winding path. In the background, a fortified city with towers and spires is visible on a hill, suggesting their destination or a place of refuge. The overall impression is one of a humble and arduous journey.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "spire",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:42:2:wdl_14422:454_SMC_1_223v/1244,450,1235,2040/full/0/default.jpg"
+}

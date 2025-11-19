@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A woman, likely a saint or devotional figure, stands before a curtained backdrop adorned with stars. She wears a dark cloak lined with fur or ermine, draped over a lighter garment. Her right hand is placed over her heart, while her left hand holds a chalice containing a heart, from which a flame or blood emanates. To her left, a lectern displays an open book with text. The foreground features a patterned floor. The overall scene suggests a moment of spiritual contemplation or martyrdom, possibly representing Saint Agnes or another virgin martyr, given the iconography of the heart and chalice.",
+    "scene_interpretation": "Devotional scene, possibly representing a saint or martyr.",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9061586h/f77/807,608,1384,1415/full/0/default.jpg"
+}

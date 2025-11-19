@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A woman with long, wavy hair and a distinctive headdress, possibly a hennin or a similar conical hat, is depicted in profile. Her hands are clasped together in front of her chest, suggesting prayer or devotion. She is positioned next to a column with decorative elements. Behind her, a patterned background, possibly representing a tapestry or a decorative wall, is visible, framed by an arched architectural element. The scene appears to be set within an architectural context, possibly a domestic or religious interior.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0017/2902,3822,363,608/full/0/default.jpg"
+}

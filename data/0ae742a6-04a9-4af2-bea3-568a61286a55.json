@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Mark seated on a throne-like chair, writing on a lectern. He has a halo, indicating his saintly status, and is dressed in a blue robe over a green tunic. Before him, a lectern holds a manuscript with text. To his left, a green table holds two books, one open and one closed. To his right, a winged lion, the symbol of Saint Mark, lies on a scroll inscribed with 'SCUS MARCUS'. The setting appears to be an interior space with large windows revealing a landscape with rolling hills and birds in the sky. The architecture includes columns and a decorative archway framing the scene.",
+    "scene_interpretation": "Saint Mark Writing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Saint Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/555710/446,385,1768,2212/full/0/default.jpg"
+}

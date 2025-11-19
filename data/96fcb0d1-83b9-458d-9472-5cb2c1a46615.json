@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Roch, identifiable by his pilgrim's attire, staff, and the plague sore on his leg, being attended by an angel. He wears a hooded cloak over a tunic and hose, with a satchel slung across his chest. A dog, often associated with Saint Roch, is shown near his left leg. Behind the figures is a brick wall, suggesting an enclosed or perhaps a humble dwelling. The angel, with visible wings, is shown tending to Saint Roch's leg, a gesture of divine comfort and healing.",
+    "scene_interpretation": "Saint Roch",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Roch",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537196/46167811.tif/1888,2186,967,1265/full/0/default.jpg"
+}

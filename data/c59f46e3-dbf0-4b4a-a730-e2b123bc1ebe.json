@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a table. In the foreground, a man with grey hair and a beard, wearing a red cloak over a blue robe, kneels and reaches towards a white object on the table, possibly a lamb. To his left, a woman in a blue veil and robe looks on. Behind the kneeling man, another figure in a yellow tunic stands, and to the right, two men in blue and red attire observe the scene. Above them, a green canopy with gold trim is visible, supported by architectural elements that suggest an interior setting. The overall impression is one of a religious or ceremonial gathering.",
+    "scene_interpretation": "Adoration of the Lamb",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Man with grey hair and beard",
+        "Woman in blue veil",
+        "Figure in yellow tunic",
+        "Man in blue attire",
+        "Man in red attire"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326038/f149/202,1065,319,1122/full/0/default.jpg"
+}

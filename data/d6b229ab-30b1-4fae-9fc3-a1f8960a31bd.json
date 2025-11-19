@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral setting with several figures. In the foreground, a woman in a long orange gown gently strokes a white sheep. To her left, a man kneels with his hands clasped in prayer, wearing a red tunic and a black cap. Behind them, a figure in a blue robe and red cloak sits playing a lyre-like instrument. Above them, in the upper part of the image, a winged cherub floats in the sky, holding a scroll. The background features stylized green trees and rocky terrain, with a stream flowing between the figures. The overall impression is one of peaceful devotion and pastoral life, possibly representing a biblical scene or a devotional allegory.",
+    "scene_interpretation": "Shepherd Scene",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Cherub"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000004/MAA_00004_053.jpg/1174,287,691,1114/full/0/default.jpg"
+}

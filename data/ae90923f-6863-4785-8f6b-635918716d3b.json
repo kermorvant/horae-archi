@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure with a radiant halo, playing a flute. This figure is seated on a throne-like structure. Surrounding the central figure are stylized architectural elements resembling towers or spires, some with arched openings. The background is filled with a starry pattern, suggesting a celestial or night setting. The overall composition is framed by decorative elements, possibly representing the border of a manuscript page.",
+    "scene_interpretation": "The figure with a radiant halo playing a flute, surrounded by architectural forms and a starry sky, is likely an allegorical representation. It could symbolize a celestial musician, a personification of music, or a divine entity associated with harmony and the heavens. Without further context, a specific biblical or devotional event is not definitively identifiable, but it evokes a sense of divine presence and celestial music.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0074/5292,1674,598,723/full/0/default.jpg"
+}

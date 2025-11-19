@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A group of men, some with beards and wearing elaborate tunics adorned with gold leaf, are walking towards an older man with a long white beard and a blue cap. The older man stands with his hands clasped in prayer, facing the approaching group. The scene appears to be set outdoors, with a path leading through a grassy area with trees in the background. To the right, a building with an arched doorway and decorative elements is visible. The overall impression is one of reverence and anticipation.",
+    "scene_interpretation": "The scene likely depicts a moment of supplication or greeting, possibly related to a biblical narrative or a devotional practice. The older man in prayer could represent a figure of authority or spiritual significance, receiving a group of supplicants or visitors. Without further context, a specific event cannot be definitively identified, but the gestures of prayer and the respectful approach of the group suggest a religious or spiritual encounter.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "door",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f202/1443,4421,3190,1462/full/0/default.jpg"
+}

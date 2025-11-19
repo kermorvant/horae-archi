@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, identified as Christ, is depicted seated and facing forward. He wears a red robe draped over his body, revealing his chest which shows signs of wounds. His right hand holds a scepter, and his left hand rests on a globe. He has a halo and is framed by an arched architectural element with a patterned background of diamonds in blue, gold, and red. The ground beneath him is yellow and decorated with stylized red and white flowers. Decorative foliage is visible in the upper corners of the frame.",
+    "scene_interpretation": "Christ Enthroned",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.unifr.ch/loris/cea%2Fcea-0005%2Fcea-0005_088r.jp2/752,346,2436,3257/full/0/default.jpg"
+}

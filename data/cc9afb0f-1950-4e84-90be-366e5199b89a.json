@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two figures embracing. The figure on the left, a man with a long beard and wearing a turban-like headdress, is embracing a woman who is wearing a veil. Behind them, architectural elements suggest an interior setting, with a large arched structure and what appears to be a building with windows. The embrace between the figures suggests intimacy or a significant emotional moment. Without further iconographic cues, the specific event remains ambiguous, but the composition implies a devotional or narrative scene.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_T1343/DEPOT/B530626201_T1343_0103/3974,1869,601,959/full/0/default.jpg"
+}

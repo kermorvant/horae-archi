@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a group of men, identifiable as clergy by their tonsured heads and halos, wearing ornate robes adorned with floral and geometric patterns. Some figures are shown in profile, while others face forward. Two individuals in the foreground have their hands clasped in prayer. The scene is framed by a decorative border, suggesting a devotional context. The overall impression is one of piety and religious devotion.",
+    "scene_interpretation": "Devotional Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Clergy"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00033/666,2724,724,753/full/0/default.jpg"
+}

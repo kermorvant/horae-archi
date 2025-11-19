@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a golden chair, holding the Christ Child. An angel, kneeling before them, offers a basket. The background is a richly patterned tapestry of gold, red, and blue diamonds, with a blue border above. The figures are rendered with halos, indicating their sacred status. The Virgin Mary is dressed in a blue robe, and the Christ Child is depicted as a young boy. The angel has large red and yellow wings and wears a white robe. The floor is tiled with a yellow diamond pattern. The overall impression is one of divine presence and gentle interaction.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0108/utp-0108_129r.jp2/1149,1587,2715,2921/full/0/default.jpg"
+}

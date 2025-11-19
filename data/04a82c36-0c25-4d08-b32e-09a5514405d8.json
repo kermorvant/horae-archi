@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ carrying the cross, accompanied by several figures. Christ, with a halo and crown of thorns, is burdened by a large wooden cross. He is being prodded by two men in armor and helmets, one of whom appears to be striking him. Another man in blue and a pink hat walks beside him, holding a rope. To the right, a woman in red and green, possibly Veronica, kneels and holds a cloth bearing the imprint of Christ's face. The setting is an outdoor landscape with rolling green hills and a distant view of a fortified building with a tower. The sky is blue with stylized clouds.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Veronica"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537191/46159999.tif/621,219,2042,2548/full/0/default.jpg"
+}

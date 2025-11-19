@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting. On the left, a woman with a halo is seated, wearing a patterned robe. To her right stands another figure, also with a halo, holding an open book. The background features a red drapery with gold ornamentation and architectural elements that suggest an interior space, possibly a room or a niche. The overall impression is one of a devotional or religious scene.",
+    "scene_interpretation": "Religious Devotion",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0074.jp2/2128,3535,726,895/full/0/default.jpg"
+}

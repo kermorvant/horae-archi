@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men, some wearing hats, gathered together. One man on the left holds a small, round object, possibly a purse or pouch. Another man in the center gestures with his hands. The figures are rendered in a stylized, woodcut manner. Above them, an arched architectural element frames the scene, with a dotted pattern filling the space within the arch.",
+    "scene_interpretation": "This scene does not depict a specific biblical, liturgical, or devotional event that can be identified from the visual information alone. It appears to be a generic representation of men in conversation or assembly.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0073/4929,2720,475,645/full/0/default.jpg"
+}

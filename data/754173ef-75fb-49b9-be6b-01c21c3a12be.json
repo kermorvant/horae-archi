@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts three figures within an architectural setting. On the left, a man with a beard is visible behind a brick wall, looking out from an opening. To the right, two crowned figures, also bearded, stand side-by-side. The central figure wears a crown and a robe adorned with dots, and both figures have their hands clasped in front of them. The architecture suggests a fortified or elevated structure, with visible walls and arched openings.",
+    "scene_interpretation": "While the specific scene is not definitively identifiable without further context, the presence of crowned figures and the architectural elements could suggest a scene involving royalty, possibly a depiction of kings or a biblical narrative involving royal figures. The posture of the figures, with clasped hands, might indicate prayer, supplication, or contemplation.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "arch",
+        "window"
+    ],
+    "persons": [
+        "crowned figure",
+        "crowned figure",
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_T1343/DEPOT/B530626201_T1343_0051/1479,1271,602,1065/full/0/default.jpg"
+}

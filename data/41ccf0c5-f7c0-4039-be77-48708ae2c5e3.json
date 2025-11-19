@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures, with two central figures appearing to embrace or greet each other. One figure is clad in a blue robe and a red undergarment, while the other wears a yellow-gold robe and a grey mantle. Behind them, a third figure with a darker complexion and a red garment is visible, looking downwards. To the left, another figure in a red garment and head covering is partially visible. The background is indistinct, but suggests an interior setting with some architectural elements, possibly a wall or drapery. The overall impression is one of a devotional scene, likely depicting a biblical event or a saintly encounter, given the context of a Book of Hours.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0018/5353,2856,641,1201/full/0/default.jpg"
+}

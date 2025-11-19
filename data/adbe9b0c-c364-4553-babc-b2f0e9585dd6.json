@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered outside a fortified building. A richly dressed man, possibly a noble or a figure of authority, stands on a staircase, gesturing with his right hand. He is flanked by other men, some of whom appear to be soldiers or guards, holding spears. Behind them, a complex architectural structure with towers and crenellations is visible, suggesting a city or castle. The overall impression is one of a formal gathering or a scene of importance within an urban or military setting. The inscription above the scene reads 'PATER NOSTER QUISESTU CELESTIS', which translates to 'Our Father, who art in heaven'. This inscription, along with the visual elements, suggests a narrative context that might relate to a biblical or historical event.",
+    "scene_interpretation": "The inscription 'PATER NOSTER QUISESTU CELESTIS' (Our Father, who art in heaven) is the beginning of the Lord's Prayer. While the image itself does not depict a specific biblical event directly, it can be interpreted in the context of prayer, devotion, or a narrative that precedes or follows a prayerful moment. The presence of figures in what appears to be a city or castle setting, with a prominent figure addressing others, could symbolize a moment of supplication, petition, or a scene from a historical or allegorical narrative where prayer is central.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "stairs",
+        "wall",
+        "battlement",
+        "pinnacle",
+        "tower",
+        "door"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_048/298,100,615,843/full/0/default.jpg"
+}

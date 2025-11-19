@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a tent interior where a wounded man lies on a bed, his chest bleeding. Two women are attending to him. One woman, dressed in red and yellow, holds a severed head, possibly of the man's assailant, while the other woman, in blue, appears to be tending to the wounded man. A sword lies on the ground next to the bed. Outside the tent, a landscape unfolds with numerous other tents, suggesting a camp or encampment. In the background, a walled city with towers and spires is visible.",
+    "scene_interpretation": "Judith and Holofernes",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "walled_city",
+        "tent"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Judith",
+        "Holofernes"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/pr444bb2006%2FW292_000122_1200/5029,802,3427,4972/full/0/default.jpg"
+}

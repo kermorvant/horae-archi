@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Jerome in his study, seated on a stool and writing. He is dressed in a blue tunic and a golden cloak, with a quill in his right hand and an inkwell in his left. Beside him sits a lion, a common attribute of Saint Jerome. In the background, through an arched opening, a group of figures in white robes are shown praying before a radiant apparition of the Virgin Mary. To the right, a loggia with three large columns frames a distant landscape with castles and trees under a blue sky. The floor is tiled in a grid pattern.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "door",
+        "roof"
+    ],
+    "persons": [
+        "Saint Jerome",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_784/DEPOT/M490075203_MS2003_1_784_0002/2536,1127,2161,3392/full/0/default.jpg"
+}

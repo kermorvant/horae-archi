@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A group of figures, all with halos, are depicted in a procession. The central figures are bearded men wearing robes. The figure on the far left is looking to the left, while the figure in the center foreground holds a key and a scroll. The figure to the right of him also holds a scroll. The background is a plain, light color, suggesting an outdoor or undefined setting. The figures appear to be saints or apostles, possibly in a scene related to their martyrdom or evangelization.",
+    "scene_interpretation": "Apostles",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00113507_00436/552,1047,443,538/full/0/default.jpg"
+}

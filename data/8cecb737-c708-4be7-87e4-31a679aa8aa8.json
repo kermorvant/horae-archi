@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men surrounding a person lying on a bench, who appears to be undergoing some form of torture or medical procedure. One man is holding a tool that is being applied to the body of the person on the bench. In the background, there is a depiction of a walled city with towers and buildings, suggesting an urban setting. The overall atmosphere is one of distress and suffering.",
+    "scene_interpretation": "Martyrdom",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0017/1509,700,449,877/full/0/default.jpg"
+}

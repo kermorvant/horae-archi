@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity, with God the Father on the right, depicted as an elderly man with a long white beard and wearing a papal tiara and a blue robe adorned with gold. He holds a golden orb with a cross on top. To the left is Christ, shown as a young man with a beard, wearing a red cloak draped over his bare torso, revealing wounds on his chest and hand. Above them, a dove, representing the Holy Spirit, flies downwards. The figures are seated on a golden platform, framed by an arched architectural element that opens to a sky filled with clouds and hints of a landscape below. The overall composition is set within a decorative border with floral motifs.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/492814/962,325,1687,2572/full/0/default.jpg"
+}

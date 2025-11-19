@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, stands centrally in the foreground, holding a processional cross and a book. The figure wears a vibrant red cloak over a blue tunic, with bare feet visible. Behind the figure, to the left, is a building with a steeply pitched roof and multiple windows, suggesting a domestic or civic structure. To the right, a stylized landscape unfolds with trees and distant architectural silhouettes, possibly a town or city. The overall scene is set outdoors, with a clear sky above.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bpun/bpun-A0028/bpun-A0028_201r.jp2/965,881,2065,2406/full/0/default.jpg"
+}

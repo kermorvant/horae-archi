@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A man in a dark robe, possibly a cleric, kneels and offers a book to a woman seated on a cushioned stool. The woman, dressed in dark attire and a veil, gestures with her right hand and appears to be writing or engaged in contemplation. The scene is framed by architectural elements, including a column and a canopy above the woman. A large, red, illuminated initial 'G' dominates the left side of the image, containing Latin text and a depiction of a tower. Rays of light emanate from the upper right corner, suggesting a divine presence or inspiration. The floor is tiled in a checkerboard pattern. The overall scene evokes a moment of spiritual devotion or instruction.",
+    "scene_interpretation": "Devotional Scene",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "canopy",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Cleric",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127516/f182/182,1230,1226,1159/full/0/default.jpg"
+}

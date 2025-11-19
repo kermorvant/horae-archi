@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity, with God the Father, depicted as an elderly bearded man wearing a papal tiara and ornate robes, holding the crucified Christ. The Holy Spirit is represented by a dove descending upon Christ's head. Christ is shown with wounds from the crucifixion, wearing a loincloth. Behind the figures, a golden, patterned background suggests a divine or heavenly setting, framed by red drapery with figures of angels or saints visible within. The ground beneath is rendered with a checkered pattern.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_214%2Flewis_e_214_jp2.zip%2Flewis_e_214_jp2%2Flewis_e_214_0276.jp2/1269,2014,5782,7806/full/0/default.jpg"
+}

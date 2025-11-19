@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Two male figures, both with halos and beards, stand within an architectural setting. The figure on the left holds a book in his left hand and a sword upright in his right hand. The figure on the right holds an open book. Both figures are clad in draped robes. The architectural element framing them appears to be an arch with decorative elements. The background is stippled, suggesting a stylized representation of space or perhaps a decorative motif.",
+    "scene_interpretation": "Saints Peter and Paul",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0017/5123,671,464,664/full/0/default.jpg"
+}

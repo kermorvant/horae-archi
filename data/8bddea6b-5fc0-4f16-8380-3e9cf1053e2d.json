@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Adam, unclothed and with a pensive expression, holding a red fruit in his right hand and covering himself with a large green leaf in his left. To his left, a tree with red fruits is entwined by a green and red serpent. The background is a rich blue, decorated with white foliate motifs. The text surrounding the image suggests a biblical narrative. This scene is interpreted as the Fall of Man, specifically the moment of Adam receiving the forbidden fruit from the serpent, leading to the loss of innocence.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xq443wf4818%252FW102_000060_300/1114,301,763,1818/full/0/default.jpg"
+}

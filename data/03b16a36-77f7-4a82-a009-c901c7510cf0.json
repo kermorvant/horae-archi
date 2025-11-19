@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a solemn encounter within an interior space. On the left, a bearded man with grey hair, wearing a red robe and a blue collar, sits on a raised platform or chair, gesturing with his hands. Facing him is a figure, presumably Christ, dressed in a dark blue robe adorned with gold, with his hands bound. He is surrounded by several soldiers in golden armor, some holding spears. The background is a muted grey, suggesting an indoor setting, possibly a hall or courtroom. The overall impression is one of judgment or accusation.",
+    "scene_interpretation": "Christ before Pilate",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013837f/f217/252,578,793,777/full/0/default.jpg"
+}

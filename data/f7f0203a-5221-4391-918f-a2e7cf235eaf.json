@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt or a similar pilgrimage. The Virgin Mary, wearing a blue mantle and halo, rides a brown horse, holding the Christ Child. The Child is also depicted with a halo. To the right, a man, possibly Joseph, rides another horse, dressed in a red cloak and a wide-brimmed hat. Behind them, a group of figures, some on horseback, are visible, suggesting a retinue or escort. In the background, a fortified city with red walls and towers is depicted under a blue sky with stylized clouds. The landscape is rendered with green and brown tones, indicating a journey through varied terrain.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_105%2Flewis_e_105_jp2.zip%2Flewis_e_105_jp2%2Flewis_e_105_0183.jp2/2646,1202,2315,3860/full/0/default.jpg"
+}

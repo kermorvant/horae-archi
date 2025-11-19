@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Catherine of Alexandria. A figure, likely the executioner, stands over a kneeling woman whose head has been severed and is shown separately with a halo. Blood and water gush from the wound. The executioner holds a sword and is positioned near a large wooden wheel, a symbol of her torture. In the background, several figures, including two crowned individuals and others in robes, observe the event. A distant city with towers is visible on a hill. The scene is set in a landscape with green hills and scattered foliage, under a bright blue sky with rays of golden light descending from above.",
+    "scene_interpretation": "Martyrdom of Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/zhl/zhl-P0006-4/zhl-P0006-4_233v.jp2/1883,288,3181,4549/full/0/default.jpg"
+}

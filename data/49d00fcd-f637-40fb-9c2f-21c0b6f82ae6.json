@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left and the Virgin Mary on the right. The angel, with large blue wings and a golden halo, is dressed in a richly patterned red and gold robe. He holds a golden staff and gestures towards Mary. Rays of golden light descend from above, illuminating the scene. The Virgin Mary, also with a golden halo, is seated, her hands clasped in prayer, and her head bowed. She wears a purple tunic and a blue mantle, and a book lies open on her lap. A white dove, representing the Holy Spirit, flies above Mary, also bathed in golden light. The background features architectural elements, including columns and arches, rendered in shades of grey and accented with pink and dark lines. The overall impression is one of divine revelation and humble acceptance.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-cl0124/bge-cl0124_018r.jp2/795,363,3155,5118/full/0/default.jpg"
+}

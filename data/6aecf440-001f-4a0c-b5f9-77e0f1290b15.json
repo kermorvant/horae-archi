@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael, clad in ornate golden armor and mail, with feathered wings, standing over a defeated dragon. He holds a sword aloft, poised to strike the creature. The dragon, depicted with blue and yellow scales, lies prostrate on the ground, its mouth open and tongue extended. In the background, a grey, weathered stone structure, possibly a column or a ruined building, is visible amidst green foliage. The scene is framed by an illuminated border featuring floral motifs.",
+    "scene_interpretation": "Saint Michael and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_270/266,129,519,833/full/0/default.jpg"
+}

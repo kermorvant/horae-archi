@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed woman, likely the Virgin Mary, is depicted in prayer, her hands clasped and holding a cross. She wears a blue mantle over a pink garment, both adorned with gold. She is flanked by two green, dragon-like creatures. Behind her, architectural elements suggest an interior space with columns and red drapery. The scene is framed by a golden border.",
+    "scene_interpretation": "The presence of the Virgin Mary, the cross, and the defeated dragons strongly suggests the iconography of the Immaculate Conception or a representation of the Virgin triumphing over evil, often symbolized by serpents or dragons.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550098895/f186/554,1925,546,560/full/0/default.jpg"
+}

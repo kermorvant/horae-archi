@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a martyrdom, with a haloed figure in a richly patterned blue and gold robe kneeling on the ground, looking upwards with an outstretched hand. This figure is being dragged by a rope held by several men in elaborate attire, one of whom wields a club. Behind them, a cityscape with tall, multi-story buildings and smoking chimneys is visible. To the right, an architectural structure with pointed arches, columns, and ornate blue and gold vaulted ceilings suggests a religious interior. A tonsured cleric in a dark robe stands within this structure, attending to an altar with an open book and a chalice. The juxtaposition of the violent act in the foreground and the serene religious ceremony in the background creates a dramatic contrast.",
+    "scene_interpretation": "Martyrdom of a Saint",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "vault",
+        "window",
+        "wall",
+        "roof",
+        "altar"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0024/1608,482,1608,2545/full/0/default.jpg"
+}

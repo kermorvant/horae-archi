@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the right, the Virgin Mary, dressed in blue and with a halo, kneels with her hands clasped in prayer before an ornate lectern with an open book. Behind her, a red drapery hangs. To the left, the Angel Gabriel, also with a halo and dressed in a pink robe, gestures with his right hand and holds a staff. Above the angel, the Holy Spirit is represented as a white dove descending in a golden light. The background is a blue sky with golden rays and scattered stars, suggesting a divine or celestial setting.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "lectern"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0008/cea-0008_016r.jp2/518,684,1960,3629/full/0/default.jpg"
+}

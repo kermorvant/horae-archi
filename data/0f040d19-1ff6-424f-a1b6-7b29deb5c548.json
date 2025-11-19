@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a solemn procession or presentation. On the left, a figure in a teal robe with a golden halo is being led forward. He is flanked by two guards or attendants; one on his left wears a pink tunic with green hose and a golden shield-like object on his back, and the other on his right wears a blue tunic and holds the central figure's arm. To the right, a crowned king, dressed in a royal robe trimmed with ermine, extends his hand towards the central figure, seemingly in a gesture of reception or judgment. The background is a muted green wall with faint white grid lines, suggesting an interior space, possibly a hall or chamber. The overall impression is one of formality and perhaps a significant encounter.",
+    "scene_interpretation": "Christ Before Pilate",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/nm106gm5236%2FW277_000056_1200/4825,2173,2492,2426/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within a circular frame. On the left, a bearded man with a tonsure and wearing a simple tunic, his hands clasped in prayer or supplication, is positioned beneath a stylized tree with radiating branches. On the right, a larger, bearded figure, also with a halo, stands with his hands outstretched, one open and the other crossed over his chest, as if in a gesture of blessing or communication. The background is filled with a stippled pattern, suggesting a divine or ethereal presence. This scene is interpreted as David in prayer, with God responding.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David",
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0081/632,2114,621,621/full/0/default.jpg"
+}

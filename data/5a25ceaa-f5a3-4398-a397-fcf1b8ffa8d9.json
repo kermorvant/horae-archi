@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity. God the Father, an elderly bearded man with a halo, is seated on a throne, his hands supporting the crucified Christ. A dove, representing the Holy Spirit, hovers above Christ's head. Christ is shown in a state of suffering on the cross, with his body emaciated and wounds visible. The background is a rich red tapestry with gold ornamentation. The throne is simple and appears to be made of wood.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.C.IV.109/Chig.C.IV.109_0401_fa_0196v.jp2/247,518,208,324/full/0/default.jpg"
+}

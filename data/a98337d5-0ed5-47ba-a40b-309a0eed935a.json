@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, is depicted seated in a garden setting, surrounded by strawberry plants and flowers. She is holding a small child, possibly the Christ Child, in her arms. The scene is framed by decorative borders and trees in the background. The overall impression is one of pastoral serenity and maternal tenderness.",
+    "scene_interpretation": "Madonna and Child in a Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f173/982,1881,630,692/full/0/default.jpg"
+}

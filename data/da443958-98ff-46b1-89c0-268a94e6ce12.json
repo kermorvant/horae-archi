@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed figure, identified as a Pope by his tiara and vestments, is seated on an ornate, gilded throne. He is depicted in profile, looking down at a book resting on a lectern before him. The book is richly decorated with floral patterns. Behind the Pope, a grey wall with arched windows is visible, suggesting an interior architectural setting. The scene is framed by a decorative border of foliage and blue and gold motifs, typical of illuminated manuscripts.",
+    "scene_interpretation": "Papal Audience",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Pope"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502694t/f24/2495,926,1040,1091/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts an angel with large wings extending from its back, reaching towards a seated figure. The angel's right arm is bent, and its hand is extended, possibly offering something or in a gesture of blessing. The seated figure, likely a woman, is dressed in a long robe and wears a headdress. She is looking towards the angel and appears to be holding something in her lap. Behind the figures, a stylized tree with leaves is visible, and the background is filled with a stippled pattern. The entire composition is framed by decorative, scrolling elements that suggest an ornamental border or initial.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0013/779,354,609,688/full/0/default.jpg"
+}

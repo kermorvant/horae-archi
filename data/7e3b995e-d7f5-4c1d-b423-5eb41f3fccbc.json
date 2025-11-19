@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ standing centrally, adorned with a halo and holding a globe surmounted by a cross in his left hand, while his right hand is raised in a gesture of blessing. He is surrounded by a group of figures, some of whom are looking up at him with reverence, with hands clasped in prayer. To the left and right of Christ, architectural elements resembling arched doorways or niches are visible, framing the figures. The overall impression is one of divine authority and adoration.",
+    "scene_interpretation": "Christ Pantocrator",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0071/3540,2324,557,911/full/0/default.jpg"
+}

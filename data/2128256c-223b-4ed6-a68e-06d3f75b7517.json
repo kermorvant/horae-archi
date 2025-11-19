@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, cloaked and veiled, kneels to the left, looking down with a gentle expression. Before her lies the Christ Child, swaddled and resting on the ground. To the right, Joseph, an elderly man with a long beard, kneels and looks towards the child. Behind Joseph, three figures, possibly shepherds or wise men, are gathered, one holding a staff. The background features a dark, tent-like structure on the left, suggesting a humble dwelling, and a landscape with stylized trees and hills on the right, under a radiant sky with emanating rays of light. The overall composition suggests a solemn and reverent moment of the birth of Christ.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036304k/f31/557,877,1404,1495/full/0/default.jpg"
+}

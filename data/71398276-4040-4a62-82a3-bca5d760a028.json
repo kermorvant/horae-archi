@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a crowded gathering of figures, some with wings, suggesting they are angels, amidst a complex architectural setting. Several small, stylized buildings with spires and arched doorways are visible. The overall impression is one of a celestial or heavenly realm, possibly a depiction of the Last Judgment or a heavenly host. In the foreground, a seated figure, possibly a prophet or a soul, looks upwards with a pensive expression. The background is filled with a starry sky, reinforcing the otherworldly nature of the scene.",
+    "scene_interpretation": "Heavenly Host",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "spire",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0073/610,1040,594,662/full/0/default.jpg"
+}

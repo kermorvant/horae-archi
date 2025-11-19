@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A woman with long, wavy hair and a distinctive headdress adorned with a floral motif and dangling tassels is depicted holding a harp. She wears a garment with a row of circular buttons down the front and decorative bands on the sleeves. The scene is framed by an architectural element resembling an arch with decorative tracery. Behind her, a simplified architectural structure with vertical elements and a horizontal beam is visible. The overall style suggests a medieval manuscript illumination.",
+    "scene_interpretation": "This image likely depicts a figure associated with music or the arts, possibly a representation of a muse or a saint known for musical talents, or simply a secular scene of entertainment. Without further context or accompanying text, a definitive religious interpretation is not possible, but the presence of a harp could allude to biblical figures like King David, known for his musical abilities.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0062/5147,471,428,553/full/0/default.jpg"
+}

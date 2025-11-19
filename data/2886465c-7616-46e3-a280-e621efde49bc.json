@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a regal figure, likely a bishop or king, seated on a golden throne, gesturing with his right hand and holding a small object in his left. Before him, a woman, identified by her kneeling posture and prayerful hands as the Virgin Mary, is shown with a halo. Above them, two winged figures, possibly angels, are presenting a golden crown. The background features a rich tapestry with floral motifs and a blue cloth adorned with fleur-de-lis. The overall setting suggests a divine or royal audience.",
+    "scene_interpretation": "Coronation of the Virgin Mary",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9900294/671,213,1475,2186/full/0/default.jpg"
+}

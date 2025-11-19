@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable structure, illuminated by divine rays from above. At the center, the Christ Child lies on a golden manger, adored by the Virgin Mary, who kneels with hands clasped in prayer. Saint Joseph stands behind her, also in prayer. To the left, an angel with wings kneels beside the child, and another angel is seated at a desk with an open book. In the background, shepherds are seen approaching, guided by an angel. Animals, including a bull and a donkey, are present in the stable. A woman is shown tending to a fire and preparing food in the foreground. The entire scene is framed by an ornate, gilded border with floral motifs.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502614h/f157/658,221,1386,2237/full/0/default.jpg"
+}

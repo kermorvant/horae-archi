@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ, with the Virgin Mary cradling the Christ Child, who is being adored by Saint Joseph. Behind them, two donkeys are present, and a group of onlookers, including angels and possibly shepherds or wise men, observe the event. Above, an angel holds a scroll, and architectural elements suggestive of a stable or a humble dwelling are visible, along with celestial bodies in the background. The overall composition is framed by decorative borders.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f57/2513,587,853,1237/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a funeral or memorial service within a richly decorated architectural setting, likely a church or chapel. In the center, a catafalque draped in pink and gold fabric is adorned with numerous candles and crosses, suggesting a solemn occasion. Monks in black habits stand on either side, holding candles and reading from books, while two figures in more elaborate attire, possibly clergy or nobility, also read from books on the right. Above the catafalque, a canopy hangs, and in the background, architectural elements like windows and columns are visible, hinting at a grand interior.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f267/624,403,890,1784/full/0/default.jpg"
+}

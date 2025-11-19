@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the dead body of Christ. Christ's body is limp, with visible wounds and blood, particularly on his hands and feet. The Virgin Mary, dressed in a blue mantle and brown tunic, looks down with sorrow. To the left, a woman in a pink robe and an elaborate headdress kneels in prayer, her hands clasped. The background features a red, patterned textile and a blue sky filled with stylized representations of boats or ships. The overall setting is enclosed by an arched frame decorated with floral motifs and gold leaf.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_MS2047/DEPOT/B490076101_MS2047_0018/4030,1014,1344,2105/full/0/default.jpg"
+}

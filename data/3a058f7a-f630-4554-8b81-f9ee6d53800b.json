@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary at the center, hands clasped in prayer, surrounded by a group of apostles. Above them, the Holy Spirit descends in the form of a dove, radiating golden light. The figures are gathered in an interior space with architectural elements suggesting a hall or a room with ornate wooden paneling and a vaulted ceiling. The apostles are shown with varied expressions of awe and devotion, their hands raised in prayer or contemplation. The overall atmosphere is one of spiritual fervor and divine presence.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3781/Vat.lat.3781_0084.jp2/1487,358,762,1132/full/0/default.jpg"
+}

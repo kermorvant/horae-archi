@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The upper portion of the image depicts a crowned figure, likely a king or saint, seated on a red throne against a blue, star-filled background. The figure wears a white robe adorned with gold patterns and holds a scepter in one hand and a globe in the other, signifying royal or divine authority. A halo surrounds the figure's head. The lower portion of the image presents an outdoor landscape with rolling hills, scattered trees, and a cluster of buildings, including a church with a spire and a fortified tower. The scene is framed by an elaborate floral border with gold accents.",
+    "scene_interpretation": "Royal Figure",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "tower"
+    ],
+    "architectural_elements": [
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f31/1733,1486,642,818/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a rudimentary stable structure. The Virgin Mary, in a blue robe, sits on a red cushion, holding the Christ Child. Three Magi are present: one kneels before them, wearing a crown and a red and green robe; another, dressed in a patterned robe and a distinctive hat with a cross, stands holding a golden vessel; and a third, in a blue robe and orange hat, also holds a golden vessel. The background is a stone wall, and the roof of the stable is visible with wooden beams. A red cloth with gold patterns hangs from the ceiling.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_011/DEPOT/890245409_n_011_0060/1015,947,1556,2520/full/0/default.jpg"
+}

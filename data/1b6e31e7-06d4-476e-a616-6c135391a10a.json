@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered indoors, looking upwards towards a radiant white dove descending from above. The dove is surrounded by golden rays, symbolizing divine light. The figures, predominantly men with beards and wearing cloaks, are shown with hands clasped in prayer or contemplation. One figure in the foreground, with a blue beard and red cloak, is kneeling with arms crossed. Behind them, a woman in a blue mantle and orange tunic also has her hands clasped in prayer. The architectural setting is suggested by wooden paneling and decorative elements on the walls, with an inscription visible above the figures. The overall atmosphere is one of spiritual awe and divine revelation.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_075/DEPOT/M490075203_MS2003_1_075_0058/1747,1071,1597,2602/full/0/default.jpg"
+}

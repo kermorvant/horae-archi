@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Sebastian, a young man with a halo, tied to a tree and pierced by multiple arrows. His body is marked with wounds from which blood flows. He is clad only in a white loincloth. The background shows a lush green landscape with trees and bushes, and in the distance, a city with towers and spires. To the right of the saint, a fragment of what appears to be a stone archway or ruin is visible. The entire scene is framed by a decorative border with gold accents.",
+    "scene_interpretation": "Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0103/utp-0103_157r.jp2/894,1055,2651,3271/full/0/default.jpg"
+}

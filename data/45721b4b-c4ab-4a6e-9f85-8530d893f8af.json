@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act within a courtyard setting, framed by an arched architectural element. In the foreground, a woman kneels, cradling an infant, while another man in a golden tunic raises a sword, seemingly to strike. A second man in an orange tunic stands nearby, holding a staff that appears to be impaling a fallen infant on the ground. In the background, a building with a gabled roof and timber framing is visible, along with a fence and other figures engaged in activity. The overall impression is one of brutality and distress, likely representing a biblical narrative of infanticide.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "gable"
+    ],
+    "persons": [
+        "Infant",
+        "Woman",
+        "Man",
+        "Man",
+        "Infant"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fq804fm0409%2FW433_000203_1200/845,1241,1544,1903/full/0/default.jpg"
+}

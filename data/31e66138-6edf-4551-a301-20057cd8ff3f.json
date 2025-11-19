@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, with a golden halo, holds the Christ Child, who is also haloed and appears to be blessing. She is seated on the ground, draped in a blue robe. Before her kneels one of the Magi, dressed in a yellow and purple robe, with his hands clasped in prayer. To the left, another Magus, wearing a blue tunic and a green cloak, removes his blue and red turban. The third Magus, wearing a red cloak and a golden turban, presents a golden vessel. Behind them, architectural elements suggest a stable or a ruined structure, with stone walls and arched openings. A man with a beard looks on from the right. Gifts, including a chalice and a covered box, are placed before the Virgin and Child.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0077/DEPOT/M601415401_MS0077_0075/1578,563,1851,3232/full/0/default.jpg"
+}

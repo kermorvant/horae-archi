@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts two shepherds in a pastoral landscape. One shepherd, seated on the ground with a blue hood and red tunic, holds a staff. The other shepherd stands, wearing a green cloak over a red tunic and blue hose, with his arms crossed. A flock of sheep rests nearby, and a dog lies attentively beside a small barrel. In the background, rolling hills are dotted with trees, and a body of water is visible. On distant hills, fortified castles with towers and battlements are depicted. Above, a blue angel with wings outstretched hovers within a radiant, orange halo, suggesting a divine presence or message.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "battlement"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0367/bge-lat0367_063r.jp2/574,532,3279,4886/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure, possibly a saint or a divine being, seated and holding a long staff or reed across their mouth. This figure is surrounded by stylized architectural elements resembling Gothic churches with pointed arches and spires. Several candelabra with multiple candle holders are also present, some lit. The background is filled with a starry or speckled pattern, suggesting a celestial or spiritual setting. The overall composition is framed by decorative borders, and text is visible to the right, indicating it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "The figure holding a reed to their mouth is a common iconographic representation of Saint John the Baptist, often depicted with a reed cross or a scroll. The surrounding architecture and celestial elements suggest a divine or prophetic context. The candelabra could symbolize divine light or the presence of God.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "spire",
+        "arch",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0033/858,1753,643,756/full/0/default.jpg"
+}

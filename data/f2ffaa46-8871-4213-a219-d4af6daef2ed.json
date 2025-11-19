@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on their journey, likely the Flight into Egypt. The Virgin Mary, wearing a blue mantle, rides a donkey, holding the Christ Child swaddled in white. Saint Joseph, with a beard and blue cloak, walks beside the donkey, carrying a bundle on a staff over his shoulder. They are in a landscape with rolling green hills and scattered trees. In the background, a city with numerous towers and spires is visible across a body of water, bathed in golden rays emanating from above, suggesting divine light or a heavenly presence.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0032/DEPOT/352386106_MS0032_0083/1480,507,1235,2098/full/0/default.jpg"
+}

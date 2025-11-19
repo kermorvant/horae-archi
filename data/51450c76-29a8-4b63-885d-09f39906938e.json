@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child. She is standing and looking downwards, with her hands clasped in prayer or devotion. The Christ Child is held in her left arm and appears to be reaching out. Behind them, a series of arches and walls suggest an architectural setting, possibly a loggia or a courtyard within a building. The floor is patterned with geometric shapes. The overall composition is framed by decorative elements, typical of a manuscript illumination.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f17/2576,2062,591,594/full/0/default.jpg"
+}

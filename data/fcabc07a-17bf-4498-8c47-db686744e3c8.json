@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a profile view of a bearded man wearing a turban and draped robes. He is looking to the left. Behind him, an architectural element, possibly a column or part of a structure, is visible. The background is filled with a stippled pattern. Above the man's head, an arched decorative element, possibly a canopy or part of a larger architectural feature, is depicted with radiating lines and foliage-like motifs. The style suggests a religious or historical figure, possibly from the Old Testament or a saint.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0046/2961,3744,276,614/full/0/default.jpg"
+}

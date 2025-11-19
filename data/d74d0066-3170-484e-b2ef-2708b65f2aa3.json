@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A man wearing a blue robe and a red cap is depicted leaning over a wooden lectern, engrossed in reading a book. His left hand rests on his forehead, suggesting contemplation or perhaps fatigue, while his right hand points to the text. The lectern itself is a simple, sturdy structure with an arched opening at its base. The scene is set against a decorative background featuring stylized foliage and small, insect-like motifs, typical of manuscript illumination. The overall impression is one of scholarly pursuit or deep thought.",
+    "scene_interpretation": "Scholarly Pursuit",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0187/4679,3181,873,804/full/0/default.jpg"
+}

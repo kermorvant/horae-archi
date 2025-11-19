@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men in what appears to be an architectural setting with arched openings. In the foreground, a central figure, likely Christ, is being stripped or prepared for scourging, with a man in a pink tunic pulling at his loincloth and another man in a green tunic holding his arm. To the left, a group of onlookers dressed in blue and red robes observe the proceedings. The background features red walls and blue drapery, suggesting an interior space. The overall composition, with its focus on the suffering of Christ, points to a devotional scene related to the Passion.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00198/386,309,936,1281/full/0/default.jpg"
+}

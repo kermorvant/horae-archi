@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a procession of three skeletal figures, representing Death, confronting a group of living individuals. On the left, two men are shown on horseback. One man, dressed in blue and white striped attire and a conical hat, gestures towards the skeletal figures. Behind him, another man, partially obscured, appears to be holding a third, possibly deceased or injured, individual. In the background, a fortified tower and a tall, spired building suggest a town or city setting. The overall scene is framed by an ornate, illuminated border. This imagery is a visual representation of the Dance of Death, a medieval allegorical motif emphasizing the universality of death and the transient nature of life.",
+    "scene_interpretation": "Dance of Death",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "spire"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/74319534/74326832.tif/1514,940,2477,3775/full/0/default.jpg"
+}

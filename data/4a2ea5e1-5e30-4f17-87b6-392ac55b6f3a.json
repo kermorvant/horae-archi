@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A tonsured man, likely a monk, is depicted wearing a red robe with blue trim and a white collar. He has a halo, indicating sainthood, and is looking upwards with an expression of devotion or prayer. He appears to be within an architectural setting, suggested by a barred window or grate to his left and a decorative golden frame surrounding the scene. The overall impression is of a saintly figure in contemplation or prayer, possibly within a monastic cell or a place of confinement.",
+    "scene_interpretation": "Saint in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000009/MAA_00009_118.jpg/856,268,619,603/full/0/default.jpg"
+}

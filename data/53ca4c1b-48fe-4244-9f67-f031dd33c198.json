@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a violent event unfolding in an urban setting. A woman in a pink dress, wearing a yellow headdress, kneels and cradles a baby. Another baby, wrapped in yellow cloth, is held by a man in a blue tunic and purple cap, who raises a sword as if to strike. To the right, another man in a red tunic, armor, and black hat also holds a sword, poised to attack. A woman in a blue robe stands behind him, her face obscured. Behind the figures, buildings with windows are visible, suggesting a street or courtyard. The overall impression is one of brutality and tragedy, likely representing the Massacre of the Innocents.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Infant",
+        "Infant",
+        "Woman",
+        "Man",
+        "Man",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN321296737/files/images/00000190.tif/462,194,593,917/full/0/default.jpg"
+}

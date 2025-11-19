@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A figure identified by a banner as 'ST JOHANEVESEVAN' stands in a landscape. The figure, likely Saint John the Evangelist, is depicted with a golden halo, wearing a blue tunic, a red cloak, and a green mantle. He holds a closed book in his left arm and a scroll in his right hand. The ground is green with scattered stones and some sparse vegetation. In the background, there are distant hills under a blue sky. The scene is framed by a decorative border.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.393/Barb.lat.393_0294_fa_0145v.jp2/443,295,352,571/full/0/default.jpg"
+}

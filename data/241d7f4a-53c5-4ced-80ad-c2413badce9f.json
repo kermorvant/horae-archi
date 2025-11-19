@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A bishop, adorned in a mitre and ornate cope, stands holding a crozier. He is performing a ritualistic gesture, placing his hand on the head of a kneeling man who wears a cap and a red garment. The scene is set indoors, with architectural elements suggesting a church interior, including a window with tracery in the background. The bishop's gesture likely represents a sacrament or blessing, possibly ordination or confirmation, given the context of a Book of Hours.",
+    "scene_interpretation": "Sacrament",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/15763583/1915,2385,486,508/full/0/default.jpg"
+}

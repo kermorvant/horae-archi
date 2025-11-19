@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ's body, pale and lifeless, is being carefully lowered by several figures. A man in a white robe supports Christ's torso, while another figure in yellow holds his arm. To the left, a woman in a blue mantle, likely the Virgin Mary, looks on with sorrow, her hand touching Christ's side. Another woman in pink, possibly Mary Magdalene, is also present. Below, a man in an orange tunic and apron uses pincers to remove nails from Christ's feet, with a hammer lying nearby. The background is a rich blue with stylized foliage, and a wooden cross stands prominently, bearing the INRI inscription. The overall atmosphere is one of grief and solemnity.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f291/307,632,702,907/full/0/default.jpg"
+}

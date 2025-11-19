@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "Two haloed women are depicted seated on wooden benches within an architectural setting. The woman on the left, dressed in blue, has her hands clasped in prayer. The woman on the right, draped in red, also appears to be in a contemplative pose. Behind them, a grey, textured wall suggests an interior space, possibly a room or a chapel, with vertical divisions that could represent panels or architectural features. The scene likely represents the Visitation, a biblical event where Mary, pregnant with Jesus, visits her cousin Elizabeth, who is pregnant with John the Baptist. Both women are depicted with halos, signifying their saintly status.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "bench"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f77/347,2071,1098,441/full/0/default.jpg"
+}

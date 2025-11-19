@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, with a golden halo, is seated on an orange cushion, holding the Christ Child. The Christ Child reaches out towards a golden box of gifts presented by one of the Magi, who is kneeling. Two other Magi stand behind, one holding a golden vessel and the other holding a crown. They are in a rustic setting, with a thatched roof structure behind them and a landscape with hills and trees in the background. A star with golden rays shines above the structure. A crown lies on the green ground in the foreground.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/vad%2Fvad-0327%2Fvad-0327_0040v.jp2/2033,521,3194,5312/full/0/default.jpg"
+}

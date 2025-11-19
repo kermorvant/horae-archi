@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and vestments, is depicted kneeling and reading from a book placed on a lectern. The scene takes place within an architectural setting, suggested by the presence of Gothic windows in the background. The bishop is seated on a green cushion, with a rich red and gold cope draped over his shoulders. The overall composition is framed by an ornate floral border, typical of illuminated manuscripts.",
+    "scene_interpretation": "Bishop Reading",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "pointed_arch"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502694t/f24/2431,3236,945,932/full/0/default.jpg"
+}

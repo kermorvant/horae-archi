@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The Virgin Mary, crowned and with a halo, is depicted nursing the Christ Child. She wears a red gown and a blue mantle. The child, wrapped in a white cloth, is seated on a green, gold-patterned cushion held by the Virgin. They are positioned in what appears to be an interior space with a dark, textured background, possibly a wall or drapery, and a window or opening revealing architectural elements with Gothic tracery windows. The scene evokes a tender moment of maternal care and divine nourishment.",
+    "scene_interpretation": "Madonna Lactans",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0031/bge-lat0031_0021v.jp2/1979,1299,1944,2190/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a humble stable setting, partially enclosed by a wooden structure with a thatched roof. In the foreground, the Virgin Mary kneels in prayer, her hands clasped, wearing a vibrant blue robe. Before her lies a small, pale figure, presumably the Christ Child. To the right, a man, possibly a shepherd or a monk, dressed in blue robes and a brown cowl, approaches holding a lantern. The background reveals a stone wall and a glimpse of a hilly landscape with trees under a blue sky with stylized clouds. The overall impression is one of quiet reverence and the humble beginnings of the Nativity.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0033/DEPOT/M441095203_MS0033_0051/1302,845,1438,2276/full/0/default.jpg"
+}

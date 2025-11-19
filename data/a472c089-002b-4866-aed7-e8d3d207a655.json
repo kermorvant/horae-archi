@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a prominent rocky outcrop in the foreground. Two figures, an older man with a white beard and a younger man, are shown in conversation. The older man wears a brown hooded robe over a blue tunic, and the younger man wears a blue cloak over a purple garment and a distinctive brown hat. In the background, a shepherd tends to his flock near a rocky formation, and further in the distance, a town with buildings and a castle on a hill is visible. Above, a winged angel descends, holding a banner that reads 'GLORIA IN EXCELSIS' (Glory to God in the Highest), with rays of light emanating downwards. The overall impression is one of a divine announcement to humble shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-cl0124/bge-cl0124_037r.jp2/610,487,2854,4918/full/0/default.jpg"
+}

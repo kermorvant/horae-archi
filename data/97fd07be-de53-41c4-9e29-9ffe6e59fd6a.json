@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts three figures against a gold background, framed by an architectural element suggestive of a canopy or niche. On the left, a man in a blue robe and green cap holds a basket containing a lamb. In the center, the Virgin Mary, in a red robe and blue veil, holds the Christ Child. The Christ Child, with a halo, reaches out his hand. On the right, an older man with a beard, wearing a white robe, holds the Christ Child's feet and appears to be presenting him. The figures are positioned in front of a patterned textile draped over a raised platform, suggesting an altar or a ceremonial setting. The overall composition is framed by decorative architectural elements at the top.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537190/46187389.tif/830,548,1661,2039/full/0/default.jpg"
+}

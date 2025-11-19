@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Baptist, identifiable by his halo and beard, standing in a landscape. He is dressed in a simple, draped garment and holds a lamb on a book. A dog is at his feet, with its head near the saint's feet and its tail extending to the left. In the background, there are stylized architectural elements, possibly representing buildings or structures, with pointed spires. The overall setting is outdoors, with a golden ground and a blue sky.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kb564yr3366/W165_000240_300/249,388,717,938/full/0/default.jpg"
+}

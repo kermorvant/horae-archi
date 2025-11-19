@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely David, in a landscape setting, possibly in prayer or contemplation. He is shown seated, with his head tilted upwards and hands clasped or raised in supplication. To his left, a lion is visible, and to his right, a bird or dove is perched. The background features stylized foliage and possibly some architectural elements suggested by patterned lines, though these are not clearly defined. The overall impression is one of a devotional moment in a natural or semi-natural environment.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0058/4920,3277,508,507/full/0/default.jpg"
+}

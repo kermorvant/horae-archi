@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a divine manifestation with three figures at the center. The uppermost figure, an elder with a long white beard and halo, appears to be God the Father, clad in blue. He holds a haloed figure of Christ, depicted as a young man with a beard, also in red and holding a book. This central figure is surrounded by a golden, radiating halo. Below them, a group of men, likely apostles or prophets, gaze upwards in awe and prayer. They are dressed in robes of blue, red, and gold. The background is a rich tapestry of small, tessellated squares in black, red, and gold, suggesting a celestial or divine realm. The lower portion of the image shows a green ground with stylized plants.",
+    "scene_interpretation": "The Ascension of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Apostles"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f445/1930,1133,991,1780/full/0/default.jpg"
+}

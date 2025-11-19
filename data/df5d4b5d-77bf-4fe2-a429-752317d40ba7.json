@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her halo and blue mantle, gently touching her pregnant belly. She is met by Saint Elizabeth, who is dressed in a yellow gown and a red veil, and also appears to be pregnant. They stand in an outdoor setting with rolling hills and trees in the background. To the right, a building with a red tiled roof and a prominent tower is visible, suggesting a town or settlement. A figure in armor stands near the building's entrance. The composition emphasizes the tender moment of recognition and shared experience between the two women.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0037/DEPOT/352386106_MS0037_0050/1378,592,1058,1201/full/0/default.jpg"
+}

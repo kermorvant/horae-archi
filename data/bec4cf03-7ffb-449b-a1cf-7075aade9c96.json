@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Three figures are depicted in prayer, with their hands clasped together and their gazes directed upwards. The central figure wears a blue tunic and a cap, while the figure to their right is clad in a white robe with a brown hood, and the figure to their left wears a brown garment. The figures appear to be in an indoor setting, possibly a church or chapel, suggested by the solemnity of their posture and the context of a Book of Hours.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_impr_2003_1_078/DEPOT/M490075203_impr_2003_1_078_0115/4753,2818,524,746/full/0/default.jpg"
+}

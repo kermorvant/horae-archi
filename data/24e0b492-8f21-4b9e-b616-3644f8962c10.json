@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "Two male figures, depicted in blue robes with gold trim, stand facing each other. The figure on the left holds an open book with white pages and red binding, while the figure on the right holds a closed red book. Both figures have beards and halos, suggesting they are saints or apostles. Above them, an architectural element resembling a canopy or niche is visible, decorated with gold and purple patterns. The background is a solid blue, and the ground beneath them appears to be a textured, earthy surface. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Apostles",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Apostle",
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1219/DEPOT/352386106_MS1219_0069/1061,416,586,1095/full/0/default.jpg"
+}

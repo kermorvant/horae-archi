@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, with a halo, is bound and appears to be enduring torment. Several figures surround him: one in a green tunic and blue breeches, another in a red tunic and helmet, and a third man in a yellow hat, holding a whip aloft. A dog is present in the foreground. In the background, there is a large, imposing brick structure with arched openings and a domed building with towers, suggesting a city setting. The ground is paved and scattered with branches and a discarded broom.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower",
+        "dome"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105380373/f334/320,207,1752,2459/full/0/default.jpg"
+}

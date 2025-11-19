@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a woman, identified by her halo as a saint, standing in front of a brick building with a red tiled roof. She is dressed in a blue robe adorned with golden stars and a red cloak. A group of people, some with halos, are clustered behind her, looking towards her. To the right, a man in a pink tunic and blue hose raises a sword, seemingly threatening the saint and her followers. The background is a dark blue sky filled with golden stars. The overall scene suggests a moment of persecution or martyrdom, with the saint offering protection or solace to her followers.",
+    "scene_interpretation": "Martyrdom of a Saint",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f116/431,1096,807,1411/full/0/default.jpg"
+}

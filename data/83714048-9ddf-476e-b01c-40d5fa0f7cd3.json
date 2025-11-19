@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary and the Apostles gathered in an interior space. The Holy Spirit descends from above in the form of a dove, with rays of light emanating from it. The figures are arranged in a semi-circle, with Mary at the center, her hands clasped in prayer. One Apostle, seated on the right, reads from a book. The architecture consists of arched openings and a vaulted ceiling, suggesting a sacred or communal space. The overall atmosphere is one of divine inspiration and communal devotion.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_005%2Fwidener_005_jp2.zip%2Fwidener_005_jp2%2Fwidener_005_0258.jp2/898,1486,2286,2671/full/0/default.jpg"
+}

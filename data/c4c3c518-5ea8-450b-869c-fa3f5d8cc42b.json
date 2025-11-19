@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bearded man with reddish-brown hair, wearing a purple cloak over a blue garment, stands in a landscape. He holds a long staff and has his hands clasped in prayer, looking upwards. Behind him, a lush green hillside is dotted with trees and a path. In the distance, a complex of buildings with spires and towers is visible, suggesting a town or castle. Rays of golden light emanate from the upper right corner, illuminating the scene.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "spire",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0147/bge-lat0147_0165v.jp2/1222,1058,3439,3968/full/0/default.jpg"
+}

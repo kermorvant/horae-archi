@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A haloed man, likely Saint Christopher, is depicted seated on a rocky, grassy outcrop by the water's edge. He wears a blue tunic and a red cloak, and a dark, wide-brimmed hat. His head is bowed, resting on his hand, and he holds a staff. A satchel lies beside him. In the background, a body of water with sailing vessels and smaller boats is visible. Beyond the water, a walled city with towers and spires, and cranes suggesting construction, is depicted on a hill. The scene is framed by a decorative border.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Saint Christopher"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/e5dccbdc-ebba-490f-9d81-0d1953f820a3/770,1185,2239,2650/full/0/default.jpg"
+}

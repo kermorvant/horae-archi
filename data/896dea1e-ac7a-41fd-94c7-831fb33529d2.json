@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, likely a monk or hermit, with a halo, is depicted reading a book. He wears a reddish-brown hooded robe with gold trim. To his left, a small, grey building with a rounded archway and decorative elements is visible. The background features green foliage and a blue sky with distant hills. To the right of the man, a grey, animal-like creature with large eyes peers out from behind him, possibly representing a temptation or a symbolic animal.",
+    "scene_interpretation": "Saint Jerome in his study",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.unifr.ch/loris/cea%2Fcea-0008%2Fcea-0008_093v.jp2/2452,3476,1252,1277/full/0/default.jpg"
+}

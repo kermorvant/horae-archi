@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts David, a young man with long brown hair, wearing a red tunic and blue hose, standing over the fallen body of Goliath. David holds a sling in his right hand, poised to strike, and a staff in his left. Goliath, clad in golden armor, lies on the ground with a bloody wound on his forehead, his head turned to the side. The background is a rolling green landscape with trees and a distant city skyline under a blue sky. The image is framed by an ornamental border typical of Books of Hours.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lehigh_codex_017%2Flehigh_codex_017_jp2.zip%2Flehigh_codex_017_jp2%2Flehigh_codex_017_0180.jp2/2226,1993,5059,6822/full/0/default.jpg"
+}

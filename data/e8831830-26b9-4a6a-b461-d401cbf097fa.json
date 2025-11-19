@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Within an architectural frame, a bearded man with a golden halo sits on a rock in a lush, green landscape. He wears a simple, ochre-colored robe and holds an open book on his lap. The background depicts rolling hills, trees, and a distant city skyline under a blue sky with clouds. The scene is framed by a decorative border featuring columns and arches, rendered in red and gold, suggesting an illuminated manuscript page.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f189/3046,1421,1046,2838/full/0/default.jpg"
+}

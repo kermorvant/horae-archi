@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts an interior space with a large window on the left revealing a distant landscape with castles. In the foreground, two main figures are engaged in conversation. One figure, dressed in blue and gold, stands and gestures towards the other. The second figure, seated on a throne-like chair and adorned in yellow and gold, wears a fur-trimmed hat and a blue collar with inscriptions. Behind the standing figure, a group of individuals in various colored robes are gathered, some with their arms crossed. The architecture is suggested by columns and patterned walls, creating a sense of an indoor courtly setting.",
+    "scene_interpretation": "This scene likely represents a biblical or historical narrative involving a king or ruler receiving a visitor or petitioner. The presence of multiple figures and the formal setting suggest a scene of importance, possibly related to a royal audience or a significant event in the life of a ruler. Without specific iconographic clues like halos or explicit symbols, a precise interpretation is difficult, but it evokes themes of power, counsel, or judgment.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f656/1022,4396,3272,1380/full/0/default.jpg"
+}

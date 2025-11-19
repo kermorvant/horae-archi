@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bust portrait of an elderly man with a white beard and a cap is depicted within an ornate, dark frame. The man's gaze is directed slightly to the right, and his expression is neutral. The framing elements appear to be stylized foliage or decorative motifs, creating a sense of enclosure around the portrait.",
+    "scene_interpretation": "Portrait of a Donor",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Donor"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100373758/f53/449,1660,228,270/full/0/default.jpg"
+}

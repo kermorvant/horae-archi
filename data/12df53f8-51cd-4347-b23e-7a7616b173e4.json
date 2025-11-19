@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a wedding ceremony taking place within an arched architectural setting. On the left, a woman in a dark blue robe and a halo stands next to a bishop in a yellow robe and a red mitre, also with a halo. They are holding hands, suggesting a union. To the right of the bishop, a bearded man in a blue robe and a red tunic, holding a candle, appears to be part of the ceremony. Behind them, within the architectural space, are glimpses of vaulted ceilings and decorative elements. To the right of the central archway, two men are visible. One, in a red tunic and blue hat, is walking up stairs, holding a staff. Another man in a blue robe stands behind him. The background shows a window with a diamond-patterned grille. The overall scene suggests a sacred or formal event, likely a marriage, officiated by a religious figure.",
+    "scene_interpretation": "Marriage Ceremony",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "stairs",
+        "wall"
+    ],
+    "persons": [
+        "Bishop",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021255p/f67/1230,1981,693,780/full/0/default.jpg"
+}

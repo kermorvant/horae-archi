@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Angel Gabriel, with a halo and a scroll inscribed with text, gestures towards the Virgin Mary on the right. The Virgin Mary, also with a halo, is shown kneeling with her hands raised in a gesture of acceptance or surprise. She is positioned near an open book and a vase with lilies, symbols of purity. The background features dark, patterned drapery and a celestial element from which light emanates, suggesting a divine intervention. The overall setting is intimate and devotional, likely representing the moment of the Incarnation.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS2788/DEPOT/B514546101_MS2788_0014/2008,211,912,1222/full/0/default.jpg"
+}

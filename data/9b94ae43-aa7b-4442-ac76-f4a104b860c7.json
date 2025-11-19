@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, depicted with a halo and wounds on his face, sits and reads from a book. He wears a blue tunic with gold trim and a brown mantle. To his left, a kneeling figure, possibly a disciple or a saint, also reads from a blue book adorned with gold stars. Behind the seated figure, an orange architectural element with gold trim and what appears to be script or musical notation is visible. The background is a plain brown, suggesting an indoor or contemplative setting.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0017/3474,1244,442,684/full/0/default.jpg"
+}

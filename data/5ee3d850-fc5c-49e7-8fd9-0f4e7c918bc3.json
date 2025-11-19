@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ riding on a donkey, approaching a group of people who are laying down garments on the ground. Christ, dressed in a white robe, is shown from the side, looking towards the viewer. The donkey is walking over a brown cloth. To the right, a figure kneels and appears to be arranging the cloth, while a crowd of individuals, also in white robes, stands behind them, observing the procession. In the background, a rocky hill and stylized trees are visible, with a hint of a building with columns and arches on the far right.",
+    "scene_interpretation": "Entry into Jerusalem",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_268/2909,989,661,646/full/0/default.jpg"
+}

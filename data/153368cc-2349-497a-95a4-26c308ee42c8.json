@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A male figure, likely a saint, is depicted frontally against a bright blue sky and a muted landscape of grey hills and green ground. He wears a tonsured haircut and a golden halo. His attire consists of a white garment underneath a richly decorated red robe with gold patterns. His hands are clasped together, holding a cluster of dark, round objects, possibly stones or coals, which are characteristic attributes of Saint Lawrence. The overall presentation is devotional, focusing on the individual saint.",
+    "scene_interpretation": "Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_MS2111/DEPOT/B490076101_MS2111_0104/4322,1343,770,1081/full/0/default.jpg"
+}

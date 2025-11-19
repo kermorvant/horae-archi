@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "Two men stand facing each other, engaged in conversation. The man on the left wears a tall, ornate hat with a floral emblem and a long robe adorned with concentric circles. His left hand is raised, gesturing, while his right hand holds a small object, possibly a cup. The man on the right wears a simpler, conical hat and a tunic with puffed sleeves. He holds a similar small object in his right hand. Behind them, architectural elements suggest a structured setting, with what appear to be towers or decorative facades flanking the figures. The overall scene is rendered in a woodcut style, with strong lines and hatching.",
+    "scene_interpretation": "This scene does not depict a specific biblical or devotional event. It appears to be a secular representation of two individuals, possibly nobles or merchants, in conversation.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0091/1040,456,640,1216/full/0/default.jpg"
+}

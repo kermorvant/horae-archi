@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a rustic stable-like structure. The Virgin Mary, in a blue robe, cradles the Christ Child, who is held by Saint Joseph. Three Magi, richly attired and bearing gifts in golden vessels, approach them. The first Magus, kneeling, offers his gift, while the other two stand, one pointing towards the heavens. In the background, a caravan of camels and attendants journeys through a hilly landscape, with a windmill atop a mountain and a distant city or settlement. A radiant star shines in the blue sky above, symbolizing divine guidance.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ott.lat.2919/Ott.lat.2919_0226_fa_0109v.jp2/461,237,491,826/full/0/default.jpg"
+}

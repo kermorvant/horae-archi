@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the Virgin Mary cradling the body of her dead son. Christ's body, marked by wounds and blood, is supported by Mary, who is dressed in blue and purple robes and a white veil. To the left, a woman in red and white mourns. To the right, a figure in green leans forward, also in grief, while a bearded man in a blue hat and a man in red holding a vessel observe. In the foreground, a crown of thorns, nails, and pliers lie on the ground. In the background, a lush green landscape unfolds with trees and a distant view of a city with prominent church spires and towers.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/70f6f6a1-5c8a-448a-aecc-842738750bd9/2133,769,2457,3480/full/0/default.jpg"
+}

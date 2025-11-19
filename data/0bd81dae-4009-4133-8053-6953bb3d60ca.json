@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a fortified gateway with soldiers preparing for or engaged in conflict. A lone soldier in blue armor and a helmet, carrying a halberd, runs towards the right. Within the arched entrance of a stone structure, a group of soldiers in various armor and helmets are gathered, some holding weapons. To the right, a section of a stone wall with arched openings and a tiled roof with dormer windows suggests a larger building complex. The overall impression is one of military action or defense.",
+    "scene_interpretation": "Siege",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "window",
+        "tower"
+    ],
+    "persons": [
+        "Soldier"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/119ed0cb-eed4-47e3-8b27-82a535a68bc5/441,3773,3290,2146/full/0/default.jpg"
+}

@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a large lectern displaying a musical score. An older man, identified by the inscription \"DAVID\" on his robe, stands to the left, gesturing upwards with his hands, wearing a royal crown and a richly decorated blue and gold robe. He is accompanied by several other individuals, some of whom appear to be singing or reading from the score. The setting is an interior space with Gothic architectural features, including ribbed vaults, columns, and arched windows with tracery. A harp rests on the floor to the left, and a richly decorated altar or reredos is visible in the background. The overall impression is one of a devotional or musical performance within a sacred or noble setting.",
+    "scene_interpretation": "David with his musicians",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "window",
+        "tracery_window",
+        "roof",
+        "stairs",
+        "microarchitecture"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0407.jp2/2552,2395,1396,1478/full/0/default.jpg"
+}

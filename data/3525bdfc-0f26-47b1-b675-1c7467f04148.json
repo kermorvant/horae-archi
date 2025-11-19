@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. Christ's body, pale and wounded, lies across the lap of the Virgin Mary, who is dressed in a blue mantle and appears sorrowful. Other figures, likely mourners, surround them. Behind them, a wooden cross is visible, suggesting the crucifixion. The scene is framed by an ornate, arched architectural element, possibly a canopy or part of a larger structure, with decorative details. The background shows a simplified architectural element, possibly a building with windows, and a blue sky.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421956/780,411,284,572/full/0/default.jpg"
+}

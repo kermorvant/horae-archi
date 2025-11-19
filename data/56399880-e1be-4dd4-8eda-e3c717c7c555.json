@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A group of figures are gathered, with a central figure wearing a crown and holding a book. To her left, a figure in a blue robe adorned with gold crosses and fleur-de-lis stands. To her right, a figure in a pink robe with gold embellishments and a bishop's mitre is visible. Behind them, other figures are partially obscured, one wearing a green headdress. The scene is framed by an arched architectural element and set against a blue sky with a suggestion of landscape or water at the bottom. The overall impression is one of a significant gathering, possibly a royal or religious audience.",
+    "scene_interpretation": "The presence of a crowned figure, a bishop, and a figure in blue with religious symbols suggests a scene of religious or royal significance. Without further context, it is difficult to pinpoint a specific biblical event, but it could represent a council, a royal presentation to a religious authority, or a scene from the lives of saints or royalty with religious connections.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0016/5039,1046,494,1071/full/0/default.jpg"
+}

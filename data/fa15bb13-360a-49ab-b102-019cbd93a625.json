@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A female saint, identified by her halo and the presence of a book and a pair of pincers, stands centrally. She holds the pincers in her right hand and a book open in her left. Her long hair flows down her shoulders. Behind her, to the right, a stylized architectural structure resembling a church tower with a cross on top is visible, along with other buildings. The background is filled with a stippled pattern, suggesting a decorative or symbolic space. The overall composition is framed by an arched border. The pincers are a clear attribute of Saint Apollonia, who is often depicted with them, referencing her martyrdom where her teeth were extracted.",
+    "scene_interpretation": "Saint Apollonia",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint Apollonia"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0083/1004,783,508,620/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A group of men, some with beards and wearing hats or turbans, are depicted in profile and facing left. The central figure, distinguished by a more elaborate hat and gesture, appears to be addressing the others. They are positioned within an architectural setting characterized by arched openings and decorative elements. To the far right, another man, also bearded and wearing a hat, is shown separately. The scene is rendered in a woodcut style with strong outlines and hatching.",
+    "scene_interpretation": "The scene is too generic to definitively interpret a specific religious or biblical event. It likely depicts a gathering of men, possibly scholars, religious figures, or members of a community, within a structured environment.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0029/3430,3367,1558,677/full/0/default.jpg"
+}

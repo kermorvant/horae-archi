@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ carrying the cross, a halo of golden rays emanating from his head. He is dressed in a red cloak over a blue tunic and holds a small green book in his left hand. He is walking outdoors on a path through a green landscape dotted with trees and rolling hills. In the background, a body of water is visible, with several towers and buildings suggesting a town or city. The overall impression is one of solemnity and spiritual burden.",
+    "scene_interpretation": "Christ Carrying the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/wx114pq5623%2FW204_000130_1200/3776,1814,1627,2419/full/0/default.jpg"
+}

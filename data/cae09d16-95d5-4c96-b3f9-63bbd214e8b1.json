@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with shepherds and their flock. In the foreground, two male shepherds, one playing a horn and the other holding a staff, stand near a dog. A woman in a red dress kneels, gently interacting with a lamb. Sheep and a cow graze in the grassy fields. In the background, a river flows under a bridge leading to a walled city with a prominent castle. Above the city, a celestial scene unfolds with God the Father enthroned amidst angels and a host of heavenly figures, suggesting a divine presence overseeing the earthly realm. The overall composition evokes a sense of peace and divine protection over the pastoral life.",
+    "scene_interpretation": "Adoration of the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "bridge",
+        "wall"
+    ],
+    "persons": [
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025446v/f134/785,78,1115,1546/full/0/default.jpg"
+}

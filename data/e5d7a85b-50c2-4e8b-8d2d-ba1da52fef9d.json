@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "A procession of clerics stands in a grassy area outside a brick building with a pink-tiled roof. One cleric, dressed in a richly decorated cope, reads from a book. Behind him, several figures in black habits and blue caps are visible. To the right, another cleric in a white habit holds a processional cross and a basket. In the foreground, a man in a red and gold tunic kneels beside a shrouded body, which is marked with a cross. The scene appears to depict a burial or a funeral rite.",
+    "scene_interpretation": "Funeral Rite",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Cleric",
+        "Cleric",
+        "Cleric",
+        "Cleric",
+        "Cleric",
+        "Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10614849/445,408,1336,1913/full/0/default.jpg"
+}

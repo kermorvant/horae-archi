@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a rocky, grassy landscape with a body of water and a distant town. In the foreground, a friar in a brown habit kneels with his arms outstretched, showing stigmata on his hands. To his right, another figure in a white robe with red trim also kneels in prayer. In the background, a radiant angelic figure descends from the sky, emitting golden light. To the left, a figure in a dark habit kneels in prayer. In the far distance, a town with a prominent church spire is visible, along with other buildings and a river.",
+    "scene_interpretation": "The Stigmata of Saint Francis",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire"
+    ],
+    "persons": [
+        "Saint Francis"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025446v/f243/362,263,1385,1434/full/0/default.jpg"
+}

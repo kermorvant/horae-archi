@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling on a tiled floor, facing a group of men within an architectural setting. The kneeling man, dressed in a blue and gold checkered tunic and dark hose, has his hands clasped in supplication. He is positioned in the foreground, looking towards the right. Behind him, through an arched opening framed by ornate gold decoration, a cityscape with prominent church spires is visible. Inside the main architectural space, several men are gathered. One man in a rich gold robe with intricate patterns stands prominently, his hands clasped over his chest. To his left, a man in a pink robe gestures outwards, seemingly addressing the kneeling figure. Other men, dressed in various colored robes and hats, form a crowd behind them. The interior architecture features tall windows with tracery and decorative friezes. The overall impression is one of a formal reception or plea within a grand building.",
+    "scene_interpretation": "The scene likely depicts a moment of supplication or petition, possibly related to a biblical narrative or a saint's life. The kneeling figure could be a petitioner seeking favor or justice from the robed figures, who appear to be in a position of authority. The presence of a cityscape in the background suggests an urban setting, and the formal attire and architecture imply a significant event.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "column",
+        "wall",
+        "roof",
+        "spire"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f528/1439,668,2350,3230/full/0/default.jpg"
+}

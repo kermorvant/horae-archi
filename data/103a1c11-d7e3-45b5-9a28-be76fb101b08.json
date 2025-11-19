@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint, stands in a landscape. She is depicted with a halo, indicating her sanctity. She wears a dark robe and a white scarf around her neck. In her right hand, she holds a vessel, possibly a reliquary or a container for holy water, decorated with wavy lines. The background features rolling hills and what appear to be small fortifications or buildings on the left. The scene is framed by an arched border with decorative elements at the top.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9065943c/f128/4118,809,723,1270/full/0/default.jpg"
+}

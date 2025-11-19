@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, is depicted seated on an ornate throne. She wears a blue gown and an orange headdress. Her gaze is downcast, and her hands are clasped in her lap, suggesting contemplation or prayer. The throne is elaborate, with carved figures in niches and a fan-like canopy above. Behind her, a wall is decorated with a series of framed scenes, each containing small figures in architectural settings, possibly depicting biblical narratives or lives of saints. The floor is tiled in a diamond pattern. The overall impression is one of solemnity and devotion within an architectural setting that evokes a sense of sacred space.",
+    "scene_interpretation": "Virgin Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "niche",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f64/1101,1111,3295,3412/full/0/default.jpg"
+}

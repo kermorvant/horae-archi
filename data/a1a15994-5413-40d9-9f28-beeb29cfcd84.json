@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ speaking with the Samaritan woman at the well. Christ, dressed in a dark blue robe with gold trim, sits on a stone block, gesturing with his right hand. The Samaritan woman, wearing a red outer garment, a blue undergarment, and a distinctive headdress, stands by a well, holding a bucket. A jug sits on the ground near Christ. The background shows a landscape with trees, hills, and a blue sky. The scene is framed by architectural elements, including columns and an arch.",
+    "scene_interpretation": "Christ and the Samaritan Woman at the Well",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Samaritan woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_Impr_8_GR0045/DEPOT/B280856201_Impr_8_GR0045_0007/3799,226,1745,3405/full/0/default.jpg"
+}

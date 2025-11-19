@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth. Below the cross, a skull rests on the ground. To the left of the cross, a group of women, including the Virgin Mary in a blue mantle, mourn. To the right, Saint John the Evangelist, in a red robe, gestures towards Christ, accompanied by other figures. In the background, a city with towers and buildings is visible, set against a hilly landscape and a sky with scattered clouds and birds. The overall composition is framed by an arched border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100212547/f196/711,279,1568,2630/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the lifeless body of Christ after his crucifixion. Mary, wearing a white veil and a dark blue cloak over a red garment, gazes down with sorrow at Christ, whose head rests on her lap. Christ's body is pale and shows signs of suffering, with wounds visible on his forehead and side. The background is a stylized landscape with rolling green hills under a blue sky. In the distance, three crosses, representing the crucifixion sites, are faintly visible. Both figures have golden halos, indicating their sacred status.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_091%2Flewis_e_091_jp2.zip%2Flewis_e_091_jp2%2Flewis_e_091_0045.jp2/3027,1691,2579,3570/full/0/default.jpg"
+}

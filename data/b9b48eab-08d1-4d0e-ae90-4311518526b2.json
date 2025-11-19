@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the creation of Eve from Adam's rib, with God, depicted as a bearded man in red and white robes, standing over a sleeping Adam and reaching towards Eve. Eve, naked and with long blonde hair, stands beside Adam. In the background, an angel expels Adam and Eve from the Garden of Eden, with other naked figures, possibly representing humanity after the Fall, in a landscape with trees bearing fruit. The scene is framed by ornate architectural elements, including columns and decorative borders, and a coat of arms supported by griffins at the bottom.",
+    "scene_interpretation": "The Creation of Adam and Eve",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "God",
+        "Adam",
+        "Eve",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f40/290,442,1821,2828/full/0/default.jpg"
+}

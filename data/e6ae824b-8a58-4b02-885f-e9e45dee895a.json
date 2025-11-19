@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth. Blood is visible on his body. To the left, the Virgin Mary, dressed in a blue mantle and white veil, looks up at Christ with her hands clasped. To the right, a figure, likely John the Evangelist, in a red robe, also gazes upwards with hands clasped. The background features a green, grassy ground and a pale blue sky with a distant cityscape. The entire scene is framed by a golden border and an arched top.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kz860yq2596%2FW428_000042_1200/4135,2091,1458,2324/full/0/default.jpg"
+}

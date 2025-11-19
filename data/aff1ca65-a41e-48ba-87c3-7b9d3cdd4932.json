@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be a domestic or courtly setting. On the left, a man with a beard, possibly representing Christ, is being held by two other men. One man in a blue tunic and orange hose grips his arm, while another in a purple garment places a hand on his shoulder. A young boy in a pink tunic and blue hose kneels before a seated figure. This seated figure, wearing a peach-colored robe and a blue and white striped hat, holds a bowl. To the right, a man in a blue tunic pours liquid from a vessel into the bowl held by the seated figure. The background is a decorative, patterned textile, suggesting an indoor or draped setting. The overall impression is one of a trial or judgment, possibly related to the Passion of Christ, given the depiction of Christ being apprehended and the act of washing hands, which can symbolize a denial of responsibility.",
+    "scene_interpretation": "The Washing of Hands (Pilate)",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Pontius Pilate"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84522015/f85/464,851,1180,887/full/0/default.jpg"
+}

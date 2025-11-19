@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a procession or ceremony taking place outdoors, with a prominent red tent or canopy covering a golden reliquary or altar. A bearded man in a white robe and green cloak kneels and blows a horn, facing the reliquary. Behind him, a group of men, some in armor and others in civilian dress, watch with hands clasped in prayer. The background shows a landscape with rolling hills, trees, and distant buildings, including a church spire. The reliquary itself is ornate, with arched windows and a gabled roof, and is protected by a metal grate. A lily, a symbol of purity, stands beside the reliquary. The overall impression is one of religious reverence and public display of a sacred object.",
+    "scene_interpretation": "The scene likely represents a religious procession or the veneration of a relic, possibly related to a saint or a significant biblical event. The blowing of the horn could signify a proclamation or a call to worship. The presence of the reliquary, the kneeling figure, and the praying crowd strongly suggest a devotional context. The lily is a common attribute of the Virgin Mary, but in this context, it might also symbolize the purity of the relic or the sanctity of the event.",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/069a6b4c-2ba9-4dce-9aee-88b1caa5c40b/770,981,2122,2736/full/0/default.jpg"
+}

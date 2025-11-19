@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and robes, holds the Christ Child over a baptismal font. The Christ Child is swaddled and has a halo. To the right, a woman, likely the Virgin Mary, also with a halo, receives the child, supported by another figure. The scene takes place indoors, with a patterned floor and a backdrop of striped curtains. The presence of a bishop performing a baptism suggests the Presentation of Christ in the Temple or a related baptismal rite.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Bishop",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Calais/Bibliotheque_municipale/621936201_MS001/DEPOT/621936201_MS001_0063/1641,1552,1759,2092/full/0/default.jpg"
+}

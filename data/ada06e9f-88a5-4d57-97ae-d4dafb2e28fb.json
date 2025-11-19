@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man with a halo, pointing with his right hand. He is draped in a cloak and tunic. To his right, the head of a bull with prominent horns is visible. In the background, a circular object with grid lines, possibly representing the celestial sphere or a globe, is present. Below the figures, Latin text reads \"palatium: sacraria Virginis itemerate\". The scene appears to be a symbolic representation rather than a literal depiction of a specific event.",
+    "scene_interpretation": "The bearded man with a halo and the bull are likely symbolic representations. The bull is a common symbol for Saint Luke the Evangelist, one of the four Evangelists, whose Gospel is often associated with the beginning of Christ's genealogy and the Nativity. The text \"palatium: sacraria Virginis itemerate\" translates to \"palace: sanctuary of the Virgin, uncorrupted/chaste\". This suggests a connection to the Virgin Mary and possibly the Annunciation or the Nativity, with Saint Luke as a witness or narrator.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0032/678,2892,732,1176/full/0/default.jpg"
+}

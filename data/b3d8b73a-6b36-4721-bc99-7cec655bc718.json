@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The Virgin Mary, crowned and robed in blue, sits on a golden throne holding the Christ Child. Around them, several figures are gathered. To the left, a woman in blue with a purple cloak and white headdress looks upwards, accompanied by children. To the right, another woman in purple with a blue headdress also looks upwards, with children around her. Some of the children are engaged with books, one holding an open book on their lap. The scene is framed by an architectural structure with columns and arches, revealing a landscape with water and buildings in the background. The overall scene suggests a devotional gathering, possibly representing a moment of teaching or contemplation involving the Virgin and Child.",
+    "scene_interpretation": "Madonna and Child with Saints and Scholars",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515740c/f317/464,245,1291,1677/full/0/default.jpg"
+}

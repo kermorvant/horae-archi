@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a trial or judgment. On the left, Jesus, wearing a purple robe and a crown of thorns, is presented by two guards. He has wounds on his forehead and is barefoot. To the right, a king, adorned in a blue robe with gold floral patterns and a distinctive green and white hat, sits on a throne. He is gesturing with his hand towards a man kneeling before him, offering a shallow dish. Behind the king, two figures in green and blue robes observe the proceedings. The setting appears to be an interior space with a richly decorated throne and a dark green background, suggesting a formal court.",
+    "scene_interpretation": "Christ Before Herod",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Jesus",
+        "Herod"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025549k/f180/273,153,1451,1539/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her halo and blue mantle, meeting Elizabeth. Mary is shown with her hands gently touching Elizabeth's, who is kneeling and looking towards Mary. Elizabeth, also with a halo, wears a distinctive headdress and a blue robe over a red and gold garment. The background features a lush green landscape with trees and rolling hills, and in the distance, a castle-like structure is visible. A building with a pitched roof and timber framing is also present on the right side of the image. The overall impression is one of a tender and significant encounter set within a pastoral environment.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle",
+        "house"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1168318/2658,265,1549,1884/full/0/default.jpg"
+}

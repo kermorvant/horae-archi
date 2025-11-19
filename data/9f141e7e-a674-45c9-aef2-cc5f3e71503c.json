@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Archangel Michael, clad in armor and a red cape, poised to strike a red-skinned demon with a sword raised above his head. Michael has large, grey wings and a halo. The demon, with horns and sharp teeth, appears to be recoiling. In the background, a hilly landscape is dotted with stylized trees and a distant city with several towers and buildings. The overall scene represents the triumph of good over evil.",
+    "scene_interpretation": "The Archangel Michael battling the demon",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Archangel Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46243380.tif/537,754,1016,1205/full/0/default.jpg"
+}

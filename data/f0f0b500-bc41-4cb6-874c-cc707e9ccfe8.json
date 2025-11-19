@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo, gesturing towards a man who is being restrained by another figure. The man being restrained appears distressed and is on his knees, with a dark, winged demon hovering above him. Christ is surrounded by a group of onlookers, some wearing turbans and elaborate robes, who seem to be observing the event. The setting is an ornate architectural structure with pointed arches, ribbed vaults decorated with stars, and decorative tracery. Statues of figures are visible on the exterior of the building. The floor is tiled in a blue and white checkered pattern. This scene is interpreted as Christ casting out a demon from a possessed individual, a common miracle recounted in the Gospels.",
+    "scene_interpretation": "Christ Casting Out a Demon",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "ribbed_vault",
+        "tracery_window",
+        "column",
+        "arch",
+        "wall",
+        "roof",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0170/3751,518,2010,2471/full/0/default.jpg"
+}

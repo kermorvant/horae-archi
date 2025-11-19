@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a rustic stable. The Virgin Mary, in a blue robe and white veil, cradles the Christ Child. Three Magi, one kneeling and offering a gift, approach them. The kneeling Magus is dressed in red, while the standing Magi are in green and orange robes, one of whom is Black. Behind them, a partially ruined brick structure with a thatched roof forms the backdrop, suggesting a humble dwelling. A horse's head is visible to the right. The overall setting is outdoors, with a hint of a landscape in the distance.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vn362wg6218%252FW437_000208_300/665,274,671,1143/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts a frontal view of a young person with a halo, suggesting sainthood, with hands clasped in prayer. The figure wears a red garment adorned with gold patterns and inscriptions, over a white tunic. The background is a blue sky with rolling hills and two distant, stylized castles. The scene is framed by an ornate border featuring blue and gold foliage.",
+    "scene_interpretation": "Saint in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://diglib.uibk.ac.at/ulbtirolhds/i3f/v20/6013189/1906,1189,1453,1355/full/0/default.jpg"
+}

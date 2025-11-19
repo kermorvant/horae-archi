@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ within a stylized architectural setting. The Virgin Mary, with a halo, cradles the swaddled Christ Child. To the right, an older man, likely Joseph, with a halo, reaches out towards them with open hands. In the lower left, a manger is visible, with a cow and a donkey present. The background is a rich blue fabric with a gold diamond pattern, and above, a canopy is suggested by draped fabric and a chain-like element. The overall composition is framed by a decorative border.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f296/993,463,1736,1967/full/0/default.jpg"
+}

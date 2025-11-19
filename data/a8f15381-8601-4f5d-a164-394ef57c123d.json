@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A king lies ill in a richly decorated bed, draped with blue and gold patterned fabric and curtains. A woman, possibly a queen or attendant, stands beside the bed, her hands raised in a gesture of concern or prayer. To the right, a man kneels or bows, his hands also raised, appearing to plead or offer comfort. The scene is set within an interior space, with a dark, recessed doorway or alcove visible behind the figures. To the far right, an exterior view shows a building with a tiled roof and a wall with arched windows, suggesting a courtyard or garden setting beyond the interior.",
+    "scene_interpretation": "The scene likely depicts a king's illness and the prayers or supplications offered for his recovery. This could be a general representation of royal suffering or a specific biblical or historical event.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "door",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "King",
+        "Woman",
+        "Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f454/940,4302,3348,1594/full/0/default.jpg"
+}

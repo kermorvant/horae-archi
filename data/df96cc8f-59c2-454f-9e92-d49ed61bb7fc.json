@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Betrayal of Christ, with Jesus at the center being embraced and apprehended by a group of soldiers and other figures. One figure, identified as Judas, is kissing Jesus, while others hold him and prepare to lead him away. A figure in the background raises a lantern, possibly to illuminate the scene. The setting is an outdoor landscape with rolling hills, trees, and a starry blue sky. In the foreground, a man is shown picking up a fallen sword or weapon, and discarded boots lie on the ground.",
+    "scene_interpretation": "Betrayal of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1334/DEPOT/352386106_MS1334_0064/3704,718,1354,1937/full/0/default.jpg"
+}

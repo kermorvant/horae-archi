@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within an architectural setting. The Virgin Mary, wearing a blue robe and halo, cradles the Christ Child, who is also haloed and appears nude. They are seated on a cushioned surface. To the left, three figures are present: an older woman in a red and blue robe with a head covering, holding a dark object; a younger man in a green robe, with hands clasped in prayer; and another figure in a red and purple robe, kneeling. The background is dark and textured, suggesting an interior space, with a golden, arched frame adorned with floral motifs surrounding the scene. A richly patterned red textile hangs on the right.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0022/DEPOT/B441096101_MS0022_0193/1573,600,1226,1844/full/0/default.jpg"
+}

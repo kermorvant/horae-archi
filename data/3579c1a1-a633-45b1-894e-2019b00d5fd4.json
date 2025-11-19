@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The image depicts a bust of Christ, framed by ornate architectural elements. Christ is shown with long, dark hair, a beard, and a serene expression. He is wearing a pink robe over a dark garment, fastened with a golden clasp. His right hand is raised in a gesture of blessing, with the index finger pointing upwards. His left hand rests on a blue orb, representing the world, surmounted by a golden cross. A radiant golden halo surrounds his head, adorned with decorative gold foliage. The scene is framed by golden columns with intricate capitals and a lower architectural frieze featuring arched openings with blue infill, suggesting windows or decorative niches. The overall impression is one of divine authority and cosmic dominion.",
+    "scene_interpretation": "Christ Pantocrator",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yk435gb3262%2FW178_000034_1200/3141,1850,2503,4226/full/0/default.jpg"
+}

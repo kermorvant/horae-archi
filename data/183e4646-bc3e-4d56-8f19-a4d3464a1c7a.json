@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Virgin Mary, with a golden halo, is seated and reading from an open book placed on a lectern. She wears a blue robe. To her right, an angel, identified by its wings and red robe, kneels and gestures towards Mary, holding a scroll or parchment. The figures are positioned within an architectural setting that includes a tall, fluted column with a golden capital and base, and a dark, possibly wooden, background with arched elements suggesting a doorway or screen. The floor is tiled with a geometric pattern. To the far left, a green and red structure with golden accents might represent a bed or a piece of furniture.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Blois/Bibliotheque_municipale/410186201_MS0005/DEPOT/410186201_MS0005_0050/3983,879,1455,1743/full/0/default.jpg"
+}

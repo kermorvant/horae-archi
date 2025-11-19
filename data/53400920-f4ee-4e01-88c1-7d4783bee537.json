@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Luke writing his Gospel, inspired by divine revelation. He is seated at a desk, diligently writing in a large open book, with another open book and an inkwell on a lectern before him. An angel, identified as Saint Luke's symbol, kneels before him, holding a scroll and looking upwards. Above them, in a celestial realm indicated by a golden halo and rays of light, the Virgin Mary is depicted holding the Christ Child, surrounded by cherubic angels. The architectural setting is elaborate, with columns, arches, and decorative elements suggesting an interior space that opens to a divine vision.",
+    "scene_interpretation": "Saint Luke writing his Gospel",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "window",
+        "door",
+        "wall",
+        "arcade"
+    ],
+    "persons": [
+        "Saint Luke",
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jt399mb8580%2FW281_000041_1200/995,584,3147,4827/full/0/default.jpg"
+}

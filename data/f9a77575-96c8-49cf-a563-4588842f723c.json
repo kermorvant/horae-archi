@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts Christ, crowned with thorns, his body marked with wounds and scourging. He is bound at the wrists with ropes. To the left, a column with a rope tied around it suggests a place of scourging or imprisonment. To the right, a pillar with decorative elements is visible. The scene is framed by architectural elements, suggesting an interior setting.",
+    "scene_interpretation": "Ecce Homo",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "pillar",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0071/5149,396,747,841/full/0/default.jpg"
+}

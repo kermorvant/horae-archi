@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a group of monks and nuns gathered around a catafalque, which is adorned with a rich, patterned textile and topped with numerous candles and crosses. The figures, all dressed in black habits, appear to be engaged in a solemn ceremony, possibly a funeral or a requiem mass. Some are reading from books, while others gaze towards the catafalque. The architectural setting is a Gothic interior, characterized by pointed arches, ribbed vaults, and traceried windows, suggesting a church or chapel. The overall atmosphere is one of mourning and religious devotion.",
+    "scene_interpretation": "Funeral Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "ribbed_vault",
+        "tracery_window",
+        "arch",
+        "roof",
+        "wall",
+        "pillar",
+        "canopy"
+    ],
+    "persons": [
+        "Monk",
+        "Nun"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b520004510/f217/1018,1286,1237,1244/full/0/default.jpg"
+}

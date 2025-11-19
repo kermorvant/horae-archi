@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ Child in the Temple. The Virgin Mary, in a blue robe and veil, holds the Christ Child, who is reaching out. To the left, a woman in a red dress carries a basket with doves. Facing them is an elderly man, likely a priest, wearing a white miter and a blue and gold robe, holding a green cloth over a white-covered surface, possibly an altar or a table. Behind him, a richly decorated canopy is visible. The background shows architectural elements including arched windows with tracery and a patterned wall. The floor is tiled in a green and white checkered pattern. The scene is framed by an arched border with floral and gold leaf decoration.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_053_052/DEPOT/210546201_S_053_052_0088/3747,634,1175,1844/full/0/default.jpg"
+}

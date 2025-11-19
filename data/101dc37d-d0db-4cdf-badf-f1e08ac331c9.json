@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered indoors, looking upwards with hands clasped in prayer. Above them, a dove descends from a red canopy, with tongues of fire falling towards the assembled individuals. The architecture is characterized by tall, arched windows with tracery, supported by columns, suggesting a religious interior. A book rests on a wooden lectern in the foreground. This scene is a representation of the Pentecost, where the Holy Spirit descended upon the Apostles and the Virgin Mary.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.unifr.ch/loris/bge%2Fbge-lat0033%2Fbge-lat0033_058v.jp2/1575,566,1424,2314/full/0/default.jpg"
+}

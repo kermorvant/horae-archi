@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an architectural setting. In the foreground, a man with a long beard and wearing a red robe and a grey tunic is gesturing with his hands, which are clasped together. He is surrounded by other men, some wearing blue hoods. To the right, a figure in a yellow garment and a blue hat points with their index finger. Behind the figures, architectural elements are visible, including columns and a white entablature with decorative elements. The overall impression is one of a narrative scene, possibly from a biblical or devotional text, with figures engaged in dialogue or contemplation.",
+    "scene_interpretation": "The scene likely depicts a moment of accusation or judgment, possibly related to a biblical narrative. The pointing gesture and the concerned expressions of the figures suggest a moment of discourse or a trial. Without further context, a specific interpretation is difficult, but it evokes themes of justice, sin, or divine judgment.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_100r.jp2/3880,4816,1257,2698/full/0/default.jpg"
+}

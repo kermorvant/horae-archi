@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a man in a red cap and a light brown tunic, carrying a pole over his shoulder, walking with his eyes closed and head tilted back, suggesting he is asleep or exhausted. He is in an outdoor setting with barrels and a wooden fence to his left, and a building entrance with a dog emerging to his right. Above the scene, within a decorative golden frame, is a circular medallion containing a depiction of the zodiac sign Libra, represented by a balance scale. The overall composition suggests a narrative or allegorical representation, possibly related to the zodiac or a moralizing tale.",
+    "scene_interpretation": "Libra",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "door",
+        "window",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008174h/f13/79,66,1979,1070/full/0/default.jpg"
+}

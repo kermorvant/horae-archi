@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Two male figures stand against a decorative gold and red patterned background. The figure on the left, dressed in an orange robe over a blue garment, holds a green book and a processional cross with a staff. He has a beard and a halo. The figure on the right, clad in a blue robe with pink trim, holds a cluster of stones in his hands and also has a beard and a halo. The floor is tiled in a green and black checkered pattern. The scene appears to be set within an architectural space, suggested by a grey wall or structure behind the figures.",
+    "scene_interpretation": "Saint Stephen",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Stephen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Boulogne-sur-Mer/Bibliotheque_municipale/B621606201_MS0089/DEPOT/621606201_MS0089_0080/972,883,1336,1154/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. On the right, a woman with a halo, presumably the Virgin Mary, is shown with her hands clasped. To her left stands a young boy, also with clasped hands, suggesting prayer or reverence. Behind them, a bearded man wearing a hat and a tunic, likely Joseph, is visible. The figures are positioned in front of a backdrop that includes architectural elements such as arches and what appears to be a stylized building with a gable and windows. Rays of light emanate from above, possibly indicating divine presence or blessing. The overall composition suggests a religious narrative, likely the Holy Family or a related devotional scene.",
+    "scene_interpretation": "Holy Family",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "gable",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0054/953,1923,564,1241/full/0/default.jpg"
+}

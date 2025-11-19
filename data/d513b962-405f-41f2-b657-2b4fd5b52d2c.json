@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A crowned man, identified as King David, kneels in prayer outdoors. He wears a blue tunic, golden armor, and a red cloak lined with gold. His hands are clasped in supplication, and his gaze is directed upwards. A harp rests beside him on the grassy ground. In the background, a city with towers and walls is visible, nestled among rolling hills and trees. To the right, rocky formations rise, and rays of light emanate from the upper right corner, suggesting divine presence. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000003/MAA_00003_096.jpg/2128,317,887,1049/full/0/default.jpg"
+}

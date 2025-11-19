@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded male figure, identified as Saint Andrew by his attribute, the saltire cross, is depicted holding the cross diagonally across his body. He wears a blue tunic with a patterned overlay and a red cloak. His hair is brown and wavy, and he has a halo indicating sainthood. The background features a bright blue sky with some clouds, a green, rolling landscape with trees, and in the distance, a cluster of buildings with red roofs and a spire, suggesting a town or village. The scene is rendered in a typical medieval manuscript illumination style.",
+    "scene_interpretation": "Saint Andrew",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire"
+    ],
+    "persons": [
+        "Saint Andrew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0031/bge-lat0031_0204v.jp2/2138,1342,1870,1839/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Baptist, identifiable by his halo and beard, carrying a large wooden cross. He is unclothed, with his body rendered in pale tones. To the left, a figure in a dark monastic habit, possibly a monk or hermit, gestures towards John the Baptist with an outstretched hand, while a white scroll unfurls from the cross. Below the monk, two figures in similar monastic attire are kneeling and bowing their heads in reverence or supplication. The background is a rich red, textured with gold leaf suggesting clouds or a divine presence, from which golden rays emanate downwards. The foreground is a grassy, green landscape with small blue flowers.",
+    "scene_interpretation": "The scene likely represents Saint John the Baptist, possibly in the wilderness, with his iconic cross. The presence of monks suggests a devotional context, perhaps illustrating a vision or a moment of spiritual encounter with the saint. The unfurling scroll could symbolize his preaching or a divine message.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f108/401,933,967,1570/full/0/default.jpg"
+}

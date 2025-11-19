@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary and the Apostles gathered in an interior space. A dove, representing the Holy Spirit, descends from above, surrounded by fiery rays. The figures are arranged in a semi-circle, with Mary in the center, looking towards the viewer. Two figures in the upper register, possibly prophets or Old Testament figures, are shown reading from a book. The architecture includes arched windows and ornate golden structures, suggesting a sacred or important building. The overall impression is one of divine inspiration and the transmission of spiritual power.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall",
+        "column",
+        "capital",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_212%2Flewis_e_212_jp2.zip%2Flewis_e_212_jp2%2Flewis_e_212_0246.jp2/781,1916,4141,6318/full/0/default.jpg"
+}

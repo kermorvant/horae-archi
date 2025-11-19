@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered under an arched architectural element. On the left, a bearded man wearing a patterned robe and a distinctive hat is seated. He is surrounded by other men, some of whom are wearing hats and tunics. One man in the center appears to be speaking or gesturing, while others are looking towards him or engaged in conversation. The overall impression is one of a council or a gathering of important figures. The scene is rendered in a detailed, linear style typical of medieval manuscript illumination.",
+    "scene_interpretation": "This scene likely represents a biblical or historical event involving a group of men, possibly a council or a meeting of disciples or advisors. Without further context or identifying attributes, a specific interpretation is difficult, but it evokes themes of deliberation, counsel, or perhaps a moment of decision-making.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "bearded man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0043/2140,3724,897,608/full/0/default.jpg"
+}

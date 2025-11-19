@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus centrally positioned on the cross. To his left and right are the two thieves, also crucified. A crowd of onlookers is gathered at the base of the crosses, some appearing distressed or engaged in conversation. The setting is an outdoor landscape with rolling hills and scattered trees. The composition is framed by a decorative border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Thief"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036304k/f17/2555,205,1374,2089/full/0/default.jpg"
+}

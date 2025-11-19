@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a solemn ceremony where an elderly man, possibly a bishop or a high-ranking cleric, places a crown upon the head of a kneeling young woman. The woman, dressed in a vibrant blue robe, is adorned with a golden crown. She is surrounded by several winged figures, likely angels, some of whom are looking towards the woman and the man, while others have their hands clasped in prayer. The background features a rich tapestry-like pattern in shades of teal and gold, suggesting an interior setting of importance. The man wears ornate robes, including a green outer garment with gold polka dots and a golden stole, and a jeweled headdress. The overall atmosphere is one of divine investiture or consecration.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0043/3264,583,2732,3612/full/0/default.jpg"
+}

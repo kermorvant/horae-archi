@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a burial service taking place within an arched architectural setting that suggests a church interior. Several figures are present: two individuals in pink and red tunics are carefully handling a body wrapped in white cloth, preparing to place it into an open wooden coffin. Behind them, a cleric in blue and gold vestments reads from an open book, possibly a liturgical text, while holding a cross. Other figures, some in white robes and others in black monastic habits, stand by, observing the ceremony. One figure in white holds a bucket and another a staff with a star-like ornament. The background includes architectural elements like columns, arches, and a stone wall, with a glimpse of a blue sky and distant landscape through an opening. The overall scene represents a funeral rite, likely a burial service within a religious context.",
+    "scene_interpretation": "Funeral Rite",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "door",
+        "roof",
+        "undefined_element"
+    ],
+    "persons": [
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525070859/f249/603,153,1576,2319/full/0/default.jpg"
+}

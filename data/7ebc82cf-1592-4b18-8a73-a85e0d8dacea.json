@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in a landscape under a blue sky with rays of light emanating from above. On the left, two figures, possibly children or infants, are shown emerging from brown platforms, with one figure's hands clasped in prayer. In the center and right, two adult figures stand. The central figure is elaborately dressed in a red robe with gold and red armor-like embellishments on the shoulders and chest, and wears a distinctive hat. This figure gestures towards the figures on the left. Behind this figure, another person in a blue robe and red scarf stands, also looking towards the left. The overall setting is a green, rolling landscape, suggesting an outdoor environment.",
+    "scene_interpretation": "The scene likely represents the Raising of Lazarus. The two figures on the left, emerging from their tombs, are Lazarus and possibly another resurrected individual. The central figure, dressed in regal attire and gesturing, could be Christ, while the figure behind him might be a disciple or an onlooker. The divine light from above signifies God's intervention.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Lazarus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f97/836,2188,464,487/full/0/default.jpg"
+}

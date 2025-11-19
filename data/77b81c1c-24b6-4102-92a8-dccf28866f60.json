@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. On the left, an angel, identified by wings and a golden robe, kneels and points towards the Virgin Mary. The angel's gesture suggests a message being delivered. The Virgin Mary, on the right, is seated and appears to be reading from an open book placed on a draped lectern. She is dressed in a blue robe and has her hands clasped in prayer or contemplation. Above the figures, a dove, symbolizing the Holy Spirit, descends. The background features architectural elements including a window with tracery and a bed canopy, suggesting a domestic setting. The overall composition conveys the divine announcement of Christ's conception.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_S_191/DEPOT/710146101_S_191_0032/3747,558,1547,2165/full/0/default.jpg"
+}

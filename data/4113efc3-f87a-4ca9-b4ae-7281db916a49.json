@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a kneeling figure, possibly a beggar or supplicant, with visible sores on their face, presenting something in their hands to a central figure identified as Christ. Christ, with a halo and long hair, gestures with his right hand and extends his left, appearing to offer comfort or a blessing. Behind Christ, two bearded men observe the interaction. In the background, stylized buildings with towers and arched windows suggest an urban or town setting. The overall composition is framed by a large, decorative arch.",
+    "scene_interpretation": "Healing of the Leper",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0025/1229,747,546,1027/full/0/default.jpg"
+}

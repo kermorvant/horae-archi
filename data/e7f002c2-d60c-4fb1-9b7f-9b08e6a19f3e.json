@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A crowned female figure, likely the Virgin Mary, kneels beside a wooden cross. She wears a red undergarment and a blue mantle. The cross bears the inscription \"INRI\". The background depicts a stylized landscape with rolling hills, green trees, and patches of grass. The scene is framed by a decorative blue initial \"G\" with foliate motifs and gold illumination.",
+    "scene_interpretation": "Lamentation of the Virgin Mary",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0100.jp2/539,2912,1220,1067/full/0/default.jpg"
+}

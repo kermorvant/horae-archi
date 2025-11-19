@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "Three haloed figures are depicted standing vertically. The uppermost figure wears a red robe over a blue garment and holds a book and a palm frond. The middle figure, also in a red robe over blue, holds a book. The lowest figure, in a red robe over blue, holds a staff with a diamond-shaped finial. The background is a mottled wash of green and yellow, suggesting an outdoor setting. The figures are likely saints, possibly martyrs given the palm fronds.",
+    "scene_interpretation": "Saints",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0003/DEPOT/210545209_003_0004/732,541,2228,3179/full/0/default.jpg"
+}

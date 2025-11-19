@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A lion stands in a landscape with rolling hills and sparse vegetation. In the background, a building with a tower and a bridge are visible. The lion is depicted with a full mane and appears to be walking. The scene is framed by a decorative border.",
+    "scene_interpretation": "Lion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "bridge",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f18/4899,4007,1834,923/full/0/default.jpg"
+}

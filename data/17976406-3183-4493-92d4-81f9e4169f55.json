@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A woman, depicted in profile, is shown with her hands clasped in prayer. She wears a pink garment and a blue headdress adorned with gold patterns. To her left, a table is covered with a white cloth, upon which rests a dark, lidded vessel and a small, circular object. The background features vertical lines, possibly representing wooden paneling or drapery, with gold accents. The scene is framed by decorative borders and text, suggesting it is part of a manuscript illumination.",
+    "scene_interpretation": "Devotional Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_MS0134/DEPOT/B490076101_MS0134_0005/3651,1443,783,590/full/0/default.jpg"
+}

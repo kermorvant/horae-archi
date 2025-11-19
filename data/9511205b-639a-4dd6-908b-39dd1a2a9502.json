@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, likely a priest or prophet, places a crown on the head of a seated king who holds a scepter. The king is richly attired in a blue robe with gold trim and a red and gold cloak. The scene takes place within an architectural setting that appears to be a stone chamber with a vaulted ceiling and a small, barred window. The overall impression is one of royal investiture or coronation.",
+    "scene_interpretation": "Coronation of a King",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "vault",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "King",
+        "Priest"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b54002414v/f54/919,509,795,821/full/0/default.jpg"
+}

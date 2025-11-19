@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary, a central event in Christian iconography. The Virgin Mary, dressed in white and seated on a golden throne, is being crowned by God the Father, who is depicted above her with a radiant halo. She has her arms crossed over her chest in a gesture of humility and acceptance. Around her, several angels with golden wings and robes are present, some attending to her and others looking on. The Virgin is seated on a blue, circular platform inscribed with Latin text that reads \"AVE VIRGO ASSUMPTA EST AD ETHERA\" (Hail, Virgin, thou art assumed into heaven). The background is a vibrant blue sky, suggesting a celestial setting.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84469449/f177/274,171,921,1312/full/0/default.jpg"
+}

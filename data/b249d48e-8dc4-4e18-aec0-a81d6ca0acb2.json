@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. To his left stands the Virgin Mary, clad in a blue mantle and praying with clasped hands. To his right is Saint John the Evangelist, wearing a red cloak over a blue tunic, looking upwards with an expression of sorrow. The figures are set against a blue sky with scattered clouds, and a green, grassy ground. In the background, to the left, are faint outlines of buildings, possibly a city or town. A skull is visible at the base of the cross, symbolizing Golgotha. The overall scene conveys the solemnity and grief associated with Christ's sacrifice.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0376_1030/DEPOT/620416201_MS0376_1030_0017/3611,1099,1624,1514/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identified by his halo and central placement, interacting with a kneeling figure, likely a woman, who reaches out to touch him. Christ is dressed in a blue tunic and a pink mantle, while the kneeling figure wears a blue robe. Behind Christ, a group of male figures, all with halos, are gathered, some looking towards Christ and the kneeling figure, others engaged in conversation. The architectural setting is suggested by a building with a colonnade and crenellated parapet in the background, and a doorway or opening on the right. The floor is tiled in a pinkish hue. The overall impression is one of a significant religious encounter.",
+    "scene_interpretation": "The scene likely represents a moment of healing or forgiveness, possibly the woman with an issue of blood touching Christ's garment, or Christ receiving a supplicant. The presence of multiple haloed figures suggests a gathering of apostles or disciples witnessing the event.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "door",
+        "battlement"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f732/652,787,1932,2518/full/0/default.jpg"
+}

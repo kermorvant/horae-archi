@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, dressed in a blue mantle, holds the Christ Child, who is reaching out. They are facing a priest, likely Simeon, who is wearing a bishop's mitre and vestments and is about to receive the child. To the left, a woman in a green dress carries a basket containing doves, and behind her stands a bearded man. The figures are positioned within an architectural setting that includes a checkered floor, a raised platform with steps, and an altar-like structure with a golden tabernacle. The background is a rich red tapestry with gold ornamentation. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "stairs",
+        "altar"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509634r/f101/587,562,1866,2281/full/0/default.jpg"
+}

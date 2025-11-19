@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo, reaching out towards a man emerging from a dark, rectangular opening, possibly a tomb. Christ is dressed in a white robe and is accompanied by several figures, including an older man with a beard and halo, and two women, one in blue and another in white. The setting is an outdoor landscape with rolling hills, trees, and a distant town with spires. The man emerging from the tomb is partially unclothed and appears to be rising. This scene is interpreted as the Resurrection of Christ, a pivotal event in Christian theology.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire"
+    ],
+    "persons": [
+        "Christ",
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_002/DEPOT/762595409_A_10_002_0134/1884,805,1242,2291/full/0/default.jpg"
+}

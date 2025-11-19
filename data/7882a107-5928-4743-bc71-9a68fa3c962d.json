@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a man with a long beard and hair, wearing a hooded robe. He is shown in profile, with his hands raised in a gesture of prayer or supplication. The background is filled with a stippled pattern, suggesting a divine or ethereal setting. The scene is framed by architectural elements that resemble decorative arches and columns, hinting at a sacred or ceremonial space. The overall impression is one of devotion and contemplation.",
+    "scene_interpretation": "Devotional Scene",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column"
+    ],
+    "persons": [
+        "Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0088/1717,4028,464,702/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "In a pastoral landscape dotted with trees and foliage, a knight in full armor kneels with his hands clasped in prayer. A sword is planted in the ground before him. To his right, a horse stands, adorned with a red and gold sash bearing the inscription \"GEORGIUS\". Behind the knight and horse, several figures observe the scene. In the upper left, a bearded figure, likely God, is depicted in a red robe against a golden background, with rays of light emanating downwards. In the distance, a cityscape with numerous towers and spires is visible. A slain beast, possibly a dragon or a wolf, lies on the ground in the foreground, near the knight's helmet.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84328965/f67/305,192,1401,2264/full/0/default.jpg"
+}

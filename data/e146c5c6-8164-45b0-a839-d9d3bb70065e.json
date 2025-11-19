@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and holding the Christ Child, is attended by two of the Magi who kneel and offer gifts. A third Magus stands behind them, also holding a gift. They are positioned in front of a simple, stone building with a thatched roof and a single arched window. To the right, a landscape unfolds with trees and a distant castle. The figures are richly dressed, and the gifts are depicted as golden vessels.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_MSNA0167/DEPOT/B280856201_MSNA0167_0059/3307,538,1375,1905/full/0/default.jpg"
+}

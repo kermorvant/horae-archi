@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her blue mantle and halo, meeting Saint Elizabeth, who is older and wears a wimple and a red veil. Saint Elizabeth is shown with her hand on the Virgin Mary's abdomen, a gesture signifying the pregnancy of both women. They are in an outdoor setting with rolling hills, a river, and a walled city with spires and towers in the background. To the left, there is a building with an arched entrance, suggesting a domestic or monastic structure.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "spire",
+        "tower",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:42:2:wdl_14422:380_SMC_1_186v/1381,438,1155,1922/full/0/default.jpg"
+}

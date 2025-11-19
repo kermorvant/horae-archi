@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary seated on the right, reading from a book, and the Apostles gathered around, looking upwards with hands clasped in prayer. A dove, representing the Holy Spirit, descends from a radiant sky, illuminating a distant landscape with buildings. The figures are positioned within an architectural setting characterized by ornate columns and arches, suggesting an interior space that opens to the sky and a view of the outside world.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f115/1887,725,2309,2637/full/0/default.jpg"
+}

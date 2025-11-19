@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts three figures, two appearing human and one angelic, all with hands clasped in prayer. The leftmost figure is a woman with long, wavy hair and a serene expression. To her right is another figure, possibly male, with similar hair and a more somber countenance. The figure on the far right is an angel, identifiable by its large, feathered wings, also with hands joined in prayer. The figures are depicted in flowing robes, suggesting a devotional or spiritual context. The background is plain, focusing attention on the figures and their posture of supplication.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0047/5267,1578,666,948/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Matthew, identified by the scroll bearing his name, seated and writing on a scroll. He is dressed in a blue tunic and a red cloak, with a halo indicating his sanctity. To his right, a winged bull, the symbol of Saint Matthew, stands and holds another scroll. The figures are situated within an architectural setting that includes ornate arches, windows with tracery, and decorative drapery. The background features a patterned textile. The overall impression is one of scholarly and divine inspiration.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "roof",
+        "wall",
+        "column",
+        "capital"
+    ],
+    "persons": [
+        "Saint Matthew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f40/687,92,1140,1625/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a nude woman with long, flowing red hair bathing in a body of water. She wears a pearl necklace and a bracelet. In the background, a king wearing a crown and a blue mantle, accompanied by another figure, leans out of an arched window of a multi-story building. Behind this structure, a larger, more complex building with arched windows and a red-tiled roof is visible, set against a landscape of rolling hills and trees under a blue sky with clouds. The overall scene is framed by ornate golden architectural elements.",
+    "scene_interpretation": "Bathsheba",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall",
+        "column"
+    ],
+    "persons": [
+        "king"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_113%2Flewis_e_113_jp2.zip%2Flewis_e_113_jp2%2Flewis_e_113_0072.jp2/712,840,2823,4176/full/0/default.jpg"
+}

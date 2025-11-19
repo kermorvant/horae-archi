@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A man, dressed in a blue tunic, red hood, and a fur-lined hat, is depicted in a rural landscape. He is holding a plow, which is attached to a cart with two wheels. In front of him, on the ground, are piles of round objects, possibly representing seeds or harvested produce. The background features rolling hills and scattered evergreen trees. The scene is framed within a decorative blue border.",
+    "scene_interpretation": "Agricultural Labor",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f293/873,2195,493,525/full/0/default.jpg"
+}

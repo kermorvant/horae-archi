@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and cope, stands to the left, holding a crozier and gesturing with his right hand. He is positioned in what appears to be an interior space with a tiled floor and a draped curtain behind him. To the right, three nude children are depicted in a large wooden tub, their hands clasped in prayer or supplication. Behind the children, through an opening framed by columns, a landscape with rolling hills and trees is visible under a cloudy sky. The scene likely represents a narrative from a saint's life or a devotional allegory, possibly involving a miracle or a plea for divine intervention.",
+    "scene_interpretation": "Miracle of the Children in the Bath",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "curtain",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f158/4776,910,2403,1652/full/0/default.jpg"
+}

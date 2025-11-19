@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a meal setting with three men seated at a table and a woman kneeling below. The central figure, identified as Christ by his halo, wears a purple robe adorned with gold. To his left, a man in a red tunic points forward, while to his right, a man in a blue cap and tunic also points. The table is covered with a white cloth patterned with diamonds, and on it are plates, bread, and a knife. Below the table, a woman with long auburn hair, dressed in blue and gold, is shown tending to her hair, possibly anointing it. The background suggests an interior space with architectural elements like a patterned wall and a draped ceiling.",
+    "scene_interpretation": "The Washing of the Feet",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_034v.jp2/1132,480,1192,2449/full/0/default.jpg"
+}

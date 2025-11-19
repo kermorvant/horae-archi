@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A female saint, identified by her halo and the palm frond she holds, stands draped in a blue robe. Her head is tilted downwards, and her gaze is directed towards the palm. To her left, a miniature architectural structure, resembling a tower or shrine, is depicted. This structure has a rounded roof with a finial and a small arched doorway. The background is a rich red tapestry with a repeating gold and blue diamond pattern. The ground beneath the figures is rendered in green with sparse tufts of grass. The scene is framed by decorative borders.",
+    "scene_interpretation": "Martyrdom",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550094367/f314/390,325,794,1312/full/0/default.jpg"
+}

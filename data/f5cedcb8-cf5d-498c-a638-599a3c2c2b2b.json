@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a gathering of men around a table, engaged in what appears to be a meal or a discussion. One man, standing and wearing a hat, holds a plate and gestures with his other hand. To his left, another man stands holding a hat. Several other men are seated around the table, some looking towards the standing figure. The setting is framed by an arched architectural element, with columns visible. The overall impression is of a communal meal or a council meeting within an interior space.",
+    "scene_interpretation": "The image likely represents a scene from the life of Joseph, possibly the interpretation of dreams or a feast. The text below the image, though partially obscured, appears to read 'Quomodo Ioseph', suggesting a narrative related to Joseph.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0017/700,2002,586,936/full/0/default.jpg"
+}

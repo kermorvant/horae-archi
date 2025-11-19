@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A lone male figure, depicted as a pilgrim, stands in a verdant landscape under a blue sky. He wears a wide-brimmed hat, a red outer garment over a blue tunic, and carries a staff in his right hand and a satchel over his left shoulder. The background features rolling hills, lush foliage, and a distant, stylized blue building with a spire. The figure's attire and accoutrements suggest a journey, possibly a pilgrimage, a common theme in devotional art.",
+    "scene_interpretation": "Pilgrim",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Pilgrim"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f174/700,315,743,870/full/0/default.jpg"
+}

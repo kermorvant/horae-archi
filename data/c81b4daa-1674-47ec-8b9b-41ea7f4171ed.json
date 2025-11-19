@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a table-like structure. On the left, a man in regal attire, possibly a king, holds a swaddled infant. Facing him, a kneeling figure with a halo, likely representing a saint or holy person, reaches out towards the child. Behind the king are several other figures, including women, one of whom carries a basket of fruit. The background features an arched architectural element with decorative tracery and a diamond-patterned window. The overall setting suggests a formal presentation or religious event within an interior space.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0041/1355,742,1815,2454/full/0/default.jpg"
+}

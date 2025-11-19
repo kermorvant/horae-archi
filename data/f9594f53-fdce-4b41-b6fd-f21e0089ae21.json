@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ standing centrally, adorned with a halo and a beard, holding a globe surmounted by a cross in his left hand and raising his right hand in a gesture of blessing. He is framed by an elaborate architectural canopy. To his sides, figures with wings, likely angels, are visible, and below them, smaller figures of people are depicted. The background suggests a structured, possibly architectural setting with buildings on either side of the central figure, rendered in a stylized, linear fashion.",
+    "scene_interpretation": "Christ Pantocrator",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0083/1356,2378,593,1027/full/0/default.jpg"
+}

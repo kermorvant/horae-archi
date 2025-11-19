@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, crowned with thorns and bleeding. Below, to the left, the Virgin Mary, draped in a blue mantle, is shown with her hands clasped in sorrow. Beside her, a woman in a golden robe kneels and reaches towards the cross. To the right, a man in elaborate attire, possibly a dignitary or soldier, gestures with his hands, while another figure in armor stands behind him. In the background, a stylized city with purple walls and towers, some topped with golden spires, is visible under a blue sky. The ground is rendered as a golden, undulating landscape.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xz419dn0625%2FW429_000034_1200/4319,2249,1632,2993/full/0/default.jpg"
+}

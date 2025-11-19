@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Baptism of Christ. Christ, depicted as a nude figure with a golden halo, stands in a blue body of water, with John the Baptist, also with a halo, pouring water over his head from the right. John the Baptist is dressed in a brown robe over a purple tunic. Above them, a dove, representing the Holy Spirit, descends from a blue celestial arc. Two angels with large blue and brown wings and halos attend Christ from the left, one dressed in purple and the other in red. The figures are set against a background of rocky terrain and a decorative pattern of red and gold squares with blue quatrefoils. A small, seated nude figure is visible in the lower right, possibly representing a soul or a witness.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "John the Baptist",
+        "Angel",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10547048x/f33/212,262,1987,2646/full/0/default.jpg"
+}

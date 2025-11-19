@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the body of Christ after his crucifixion. Christ's body, showing wounds from the crucifixion, lies across Mary's lap. To the left, another female figure, likely Mary Magdalene or another mourner, supports Christ's head. They are positioned in an outdoor setting with rolling green hills, scattered trees, and a distant cityscape featuring towers and crenellated walls. A wooden cross, the instrument of Christ's death, is prominently displayed behind the figures. The scene is framed by an illuminated border.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "cross",
+        "wall",
+        "battlement"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0751_0780/DEPOT/620416201_MS0751_0780_0026B/3444,1145,2037,2995/full/0/default.jpg"
+}

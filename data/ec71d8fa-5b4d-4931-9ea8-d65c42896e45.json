@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands in a richly decorated blue and gold robe, raising his right hand in a gesture of blessing or teaching. He holds a cross-topped staff. Before him kneels a young, naked boy, his hands clasped in prayer and a red and gold sash draped around his body. The scene appears to be set within an architectural space, suggested by a tiled floor and a window opening to a green landscape with trees. The bishop's attire and the boy's supplicating posture suggest a devotional scene, possibly depicting a saint interceding for a petitioner or a moment of spiritual guidance.",
+    "scene_interpretation": "Saint in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550057309/f206/498,1322,572,591/full/0/default.jpg"
+}

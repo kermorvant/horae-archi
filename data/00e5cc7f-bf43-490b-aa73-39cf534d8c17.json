@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts an elderly man with a long white beard, dressed in a blue robe with gold embellishments and a red cloak, kneeling with his hands clasped in prayer. He is positioned in front of a red curtained canopy. To his right, a smaller figure, possibly a prophet or an angel, is seated on clouds, gesturing with one hand. Between the kneeling man and the seated figure is a censer emitting smoke. The background suggests an interior space with architectural elements like columns and a patterned wall, framed by an arched opening.",
+    "scene_interpretation": "Prophet in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0138/DEPOT/315556101_MS0138_0019/1587,526,1570,2161/full/0/default.jpg"
+}

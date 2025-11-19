@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with the Virgin Mary riding a donkey, holding the Christ Child. Saint Joseph, dressed in yellow and blue, walks ahead, carrying a sack. Another woman, in a yellow dress and orange head covering, follows behind the donkey, her hand raised to her head. The background shows a rocky landscape and a winding path leading to a town with white buildings and red roofs. In the distance, a castle or fortress is perched on a hill. In the town, a chaotic scene unfolds with soldiers attacking civilians, some of whom appear to be children. This imagery likely represents the Flight into Egypt, with the violence in the town possibly alluding to the Massacre of the Innocents, a tragic event that occurred prior to the flight.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rodez/Bibliotheque_de_la_Societe_des_lettres_de_l_Aveyron/122025302_MS0001/DEPOT/122025302_MS0001_0068/688,398,1743,3143/full/0/default.jpg"
+}

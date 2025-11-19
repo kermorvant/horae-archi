@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated and holding the Christ Child, who is dressed in red. To the right, an angel with blue wings stands and plays a harp. In the foreground, a kneeling woman in a pink gown and black headdress gestures towards the Virgin and Child. The figures are situated within an architectural setting that includes a bed with red drapery and a green canopy on the left, and a wall with arched windows on the right. The floor is a green and white checkered pattern. The overall scene is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "The Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1924_19_1%2F1924_19_1_jp2.zip%2F1924_19_1_jp2%2F1924_19_1_0251.jp2/781,850,2451,2962/full/0/default.jpg"
+}

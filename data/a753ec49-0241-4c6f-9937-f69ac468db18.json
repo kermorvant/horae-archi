@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A group of male figures, all with golden halos, are depicted standing on a green checkered ground. The two central figures are more prominent. The figure on the left, dressed in blue and holding an open book, has a key in his left hand. The figure on the right, also in blue, holds a sword. Other figures, in green, pink, and gold robes, surround them. The scene is framed by an arched architectural element with a red, gold-decorated background, suggesting a divine or celestial setting. The overall impression is of a gathering of saints or apostles, possibly in a moment of theological discussion or representation of their martyrdom.",
+    "scene_interpretation": "Apostles",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Apostle",
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8571085n/f638/1331,240,1693,2828/full/0/default.jpg"
+}

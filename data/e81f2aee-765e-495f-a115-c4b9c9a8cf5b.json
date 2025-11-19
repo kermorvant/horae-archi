@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, in a blue robe and gold halo, holds the Christ Child on her lap. One of the Magi, dressed in black and gold, kneels before them, presenting a golden chalice. Another Magus, in green and wearing a crown, offers a golden vessel. A third Magus, in pink and white, holds a crown aloft. Behind them, other figures and horses are visible, suggesting a procession. The setting appears to be a stable or rudimentary shelter, indicated by wooden beams and a draped orange cloth with gold leaf patterns. In the background, a landscape with trees and a distant fortified structure can be seen.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jt399mb8580%2FW281_000185_1200/1330,605,2943,4909/full/0/default.jpg"
+}

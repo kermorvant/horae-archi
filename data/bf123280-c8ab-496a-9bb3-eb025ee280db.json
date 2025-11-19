@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a headless saint, adorned in a blue chasuble with gold fleur-de-lis patterns and a mitre, being presented with his own severed head by a woman in a purple gown. An angel, with golden wings and wearing a red tunic, stands to the left, supporting the saint's body. Another figure, possibly a cleric or attendant, stands behind the saint. The background features stylized buildings with red roofs and white walls, suggesting an urban or ecclesiastical setting. This iconography represents the martyrdom of a saint, specifically one who was beheaded, and the miraculous presentation of their head.",
+    "scene_interpretation": "Martyrdom of a Saint (cephalophore)",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Angel",
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/76be40a7-2334-47d7-82ad-c9626068aa1a/2001,1719,722,643/full/0/default.jpg"
+}

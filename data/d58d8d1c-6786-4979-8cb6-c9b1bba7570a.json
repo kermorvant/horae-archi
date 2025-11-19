@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A bearded, haloed elder figure, likely a saint, stands in a rocky, sparsely vegetated landscape. He wears a hooded cloak and holds a book and a staff with a rosary hanging from it. Rays of divine light emanate from a bust of God at the apex of an arched frame, illuminating the saint. To the left, a dog with a collar and a small object in its mouth looks up at the saint. To the right, a small, indistinct white object, possibly a bird or another animal, is visible. The scene is framed by an ornamental border with foliate motifs.",
+    "scene_interpretation": "Saint Anthony Abbot",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Anthony Abbot",
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f424/387,15,1251,1738/full/0/default.jpg"
+}

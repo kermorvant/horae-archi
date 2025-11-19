@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man with long white hair, wearing a red and gold robe, holds a large wooden cross in front of him. He has a halo, indicating he is a saint. The background depicts a hilly landscape under a blue sky. The figure's gaze is directed slightly downwards and to the left, with a somber expression. The cross is constructed from two rough wooden beams joined to form a 'V' shape, with one beam extending upwards and the other downwards.",
+    "scene_interpretation": "Saint Andrew",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Andrew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.107/Ross.107_0371_fa_0179r.jp2/212,255,229,305/full/0/default.jpg"
+}

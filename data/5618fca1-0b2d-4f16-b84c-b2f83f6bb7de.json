@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Within a decorative initial, the scene depicts the Holy Trinity in a symbolic representation. God the Father, depicted as an elderly man with a beard and halo, holds the crucified Christ. A dove, representing the Holy Spirit, hovers between them. Christ, shown as a young man, is on the cross, his body rendered with anatomical detail. God the Father is seated on a wooden structure, draped in robes. The background is a textured gold, suggesting a divine or otherworldly setting. The entire composition is framed by a large, ornate blue initial 'C'.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1415025/228,616,1027,1017/full/0/default.jpg"
+}

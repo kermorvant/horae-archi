@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and crozier, is depicted seated on a throne. He wears a blue cope over a white alb and a pink undergarment. The cope is adorned with a central orphrey of gold stripes. His right hand is raised in a gesture of blessing, with two fingers extended. The background features a red curtain with gold ornamentation on the right and a patterned tapestry of alternating gold and blue squares, each containing a white crown or snowflake-like motif, on the left. The bishop is seated on a red cushion or carpet with gold floral patterns. The scene is framed by decorative borders.",
+    "scene_interpretation": "Portrait of a Bishop",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f752/696,691,1852,2572/full/0/default.jpg"
+}

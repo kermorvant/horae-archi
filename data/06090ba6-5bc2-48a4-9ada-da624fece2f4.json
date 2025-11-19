@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a turban and seated, is shown playing a keyboard instrument. An angel with feathered wings stands behind him, whispering into his ear. The figures are positioned within an architectural setting that includes columns and arched elements, suggesting an interior space. The scene likely depicts David, the Psalmist, inspired by an angel to compose his Psalms.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "David",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0092/5066,2610,424,806/full/0/default.jpg"
+}

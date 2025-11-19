@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene is divided into two parts. On the left, a young man identified as David kneels in prayer outdoors, looking upwards with his hands clasped. He is clad in armor and a helmet lies at his feet. The background depicts a green landscape with trees and a flock of birds in the sky. On the right, within an architectural setting, a man identified as Jonathan presents a sword to a king identified as Saul. Jonathan is dressed in a blue tunic and red hat, while Saul wears a royal blue robe adorned with gold patterns and a jeweled crown. Several other figures stand behind Saul, also wearing hats. The architectural elements include a column, a window with tracery, and a patterned floor.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "David",
+        "Jonathan",
+        "Saul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0235.jp2/2529,2122,1387,1516/full/0/default.jpg"
+}

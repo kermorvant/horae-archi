@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, with a halo and a beard, holding a shallow bowl. He is partially draped in a blue cloth with gold trim. To his left, a figure in a gold robe with a red tunic, also with a beard, places a hand on Christ's hip. To Christ's right, several figures in red and blue robes, some with white head coverings and beards, are gathered. One figure in red stands with hands clasped, looking towards Christ. Another figure in blue is seated, gesturing with his hands. The background is a richly patterned tapestry of gold, red, and blue squares. The foreground is a grassy area with some yellow foliage.",
+    "scene_interpretation": "The Washing of the Feet",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f55/1871,912,843,1478/full/0/default.jpg"
+}

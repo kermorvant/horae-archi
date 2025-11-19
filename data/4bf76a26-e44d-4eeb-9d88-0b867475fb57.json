@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Luke, identified by his halo and the act of writing, seated indoors and diligently working on a scroll. He is dressed in a blue tunic and a red cloak, with a red cap on his head. Beside him, a winged ox, his traditional symbol, rests on the floor. The setting is an interior space with a wooden desk holding an open book and the scroll. Behind the desk, a wall with decorative panels and windows with latticed panes is visible. The scene is framed by an arched architectural element adorned with floral motifs.",
+    "scene_interpretation": "Saint Luke writing his Gospel",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "column"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025450k/f39/346,198,1210,1617/full/0/default.jpg"
+}

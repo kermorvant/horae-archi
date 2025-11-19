@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body marked by wounds. A banner with the inscription \"INRI\" is above his head. To the left of the cross stands the Virgin Mary, dressed in blue and red, with a halo. To the right, another figure, likely Saint John the Evangelist, also with a halo, gazes towards Christ. The figures are set against a background of a red grid pattern with darker circular motifs, suggesting a stylized representation of a wall or tapestry. The ground is rendered with green foliage and brown earth.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_MS0186/DEPOT/B721816101_MS0186_0045/938,938,1574,1870/full/0/default.jpg"
+}

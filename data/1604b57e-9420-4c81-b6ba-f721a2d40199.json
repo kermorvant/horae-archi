@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts an interior space with several figures. On the left, three men in richly colored robes (burgundy, blue, and green) stand around a table covered with a vibrant blue cloth adorned with gold rays. One man in burgundy holds a scroll or document. A bearded man in a tan tunic and dark hood kneels before the table, offering a small object, possibly a coin, to a figure seated on the right. This seated figure is cloaked in black, with a hood obscuring their face, and appears to be receiving something from the kneeling man. Behind the seated figure, three more individuals in black cloaks are visible. The background features architectural elements including columns supporting arched vaults decorated with stars and floral motifs, and windows with tracery. The overall impression is one of a formal or religious gathering, possibly involving an offering or a transaction within a structured environment.",
+    "scene_interpretation": "The scene likely represents a devotional act or a charitable offering, possibly related to a monastic community or a religious order. The kneeling figure offering something to the cloaked figures could symbolize a donation, alms-giving, or a petition. The presence of multiple figures in religious attire and the structured architectural setting suggest a scene with spiritual or ecclesiastical significance.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "vault",
+        "wall"
+    ],
+    "persons": [
+        "monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/555862/534,332,1592,2300/full/0/default.jpg"
+}

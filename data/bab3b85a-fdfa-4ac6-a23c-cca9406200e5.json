@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, veiled and wearing a dark robe, cradles the Christ Child who is seated on her lap. The Christ Child, with a halo, raises his right hand in a gesture of blessing and points upwards with his left hand. Before them kneels a bearded man in a dark hooded cloak, offering a chalice. Behind him stand two kings, identifiable by their crowns. One king, to the left, looks towards the Virgin and Child. The other king, to the right, points upwards, possibly towards a star, and is depicted with a more elaborate crown. The background is a mottled, dark texture, suggesting a night sky or a stylized landscape. The figures are framed by decorative borders.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90665847/f6/989,494,1699,2538/full/0/default.jpg"
+}

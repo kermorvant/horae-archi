@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within a decorative, star-shaped frame filled with gold leaf and blue and red ornamental tracery. On the left, a man in a pink tunic and gold trim is shown looking upwards, holding a scroll that unfurls around him. On the right, a woman in a blue, gold-spotted robe and a golden halo gestures towards the man with her right hand, her index finger raised. The background is a rich gold, suggesting a divine or celestial setting. The overall composition is highly stylized and ornamental, typical of medieval manuscript illumination.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS0845/DEPOT/786466101_MS0845_0027/4148,1282,1733,1849/full/0/default.jpg"
+}

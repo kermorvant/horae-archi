@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A procession of figures moves from left to right across a ground depicted with short, textured strokes of yellow and brown, suggesting dry earth or straw. The background is a rich tapestry of gold and blue, featuring a repeating pattern of interlocking 'S' shapes and small floral motifs. In the foreground, a group of men, some wearing elaborate robes and headwear, are carrying a golden, ornate chest or reliquary. One figure, distinguished by a crown and a long beard, wears a blue robe trimmed with gold and holds a golden harp-like instrument. Another figure in a purple robe gestures with his hands, while a man in a pink robe carries the chest on his shoulder. Several other figures, some in red tunics and others in white robes, participate in the procession, some holding staffs or musical instruments. The scene likely depicts a religious procession, possibly the transport of a sacred relic or an important liturgical object, given the presence of a crowned figure and the solemnity of the event.",
+    "scene_interpretation": "Religious Procession",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King",
+        "Cleric",
+        "Procession Participant"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f297/366,817,2151,2661/full/0/default.jpg"
+}

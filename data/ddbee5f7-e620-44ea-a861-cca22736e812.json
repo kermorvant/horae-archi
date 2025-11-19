@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A king, crowned and bearded, stands on a raised platform, holding a scroll or tablet. He is surrounded by a crowd of men, some in armor and helmets, others in simpler attire. To the upper right, an angel with wings outstretched hovers, hands clasped in prayer. Behind the king and his retinue, a city with towers and crenellated walls is depicted. The scene appears to be set outdoors, possibly in a courtyard or public square, with the city architecture forming the backdrop.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "King David",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_T1343/DEPOT/B530626201_T1343_0086/4152,1193,2086,2490/full/0/default.jpg"
+}

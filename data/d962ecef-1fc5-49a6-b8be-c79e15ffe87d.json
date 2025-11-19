@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with God the Father holding the body of Christ, who is shown bleeding and wrapped in a white loincloth. Christ's head rests on God the Father's shoulder, and his halo is golden. God the Father, depicted as an elderly man with a beard and wearing a crown and ornate robes of red and blue, supports Christ. A dove, representing the Holy Spirit, is visible above Christ's head. To the left, a figure in a white robe and a golden cap, possibly Joseph of Arimathea or a disciple, holds the cross, which bears the inscription 'INRI'. Another figure in a white robe and cap stands behind him. To the right, a figure in a white robe and cap looks on. The background is a rich gold, suggesting a divine or heavenly setting, with a decorative arch above framing the figures and a border of floral motifs. The overall impression is one of sorrowful reverence and divine contemplation of Christ's sacrifice.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f375/527,402,1012,1843/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, with a golden halo, is seated on a white donkey, cradling the Christ Child, who also has a halo. The Christ Child is swaddled and appears to be sleeping. To the right of the donkey, a man, presumably Saint Joseph, walks alongside, dressed in an orange tunic and yellow hose, also wearing a golden halo. He appears to be leading the donkey. The background is a decorative pattern of interlocking squares in red and gold, suggesting an interior or a stylized representation of a setting. The ground beneath the donkey and Saint Joseph is depicted as green, indicating an outdoor or transitional space. The overall impression is one of a peaceful journey, likely the Flight into Egypt or a similar pilgrimage.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_110%2Flewis_e_110_jp2.zip%2Flewis_e_110_jp2%2Flewis_e_110_0158.jp2/1005,1614,2149,2602/full/0/default.jpg"
+}

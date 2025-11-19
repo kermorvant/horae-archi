@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a grand, vaulted interior. On the left, the Angel Gabriel, with wings outstretched and holding a scroll inscribed with \"Ave Maria\", kneels before the Virgin Mary. The Virgin Mary, depicted as pregnant and with hands clasped in prayer, is seated or kneeling beneath a richly decorated canopy bed. Behind her, a young child, possibly John the Baptist, stands with hands clasped. The architecture features ribbed vaults, tall arched windows with tracery, and columns, suggesting a Gothic style interior, possibly a chapel or a noble's chamber.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "ribbed_vault",
+        "window",
+        "tracery_window",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105375885/f69/563,140,1029,2089/full/0/default.jpg"
+}

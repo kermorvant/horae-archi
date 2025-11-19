@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, stands within an architectural setting, holding a blue book adorned with gold stars. The figure wears a golden robe over a white garment and holds a grid-like object with a long handle. To the left, an open doorway reveals a landscape with blue structures and a body of water. The background inside the structure features tall, dark panels with vertical lines, suggesting a cupboard or a wall with decorative elements. The overall scene is framed by ornate golden architectural elements, possibly representing a canopy or decorative archway.",
+    "scene_interpretation": "Saint Lawrence",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "door",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550130827/f232/544,158,804,1109/full/0/default.jpg"
+}

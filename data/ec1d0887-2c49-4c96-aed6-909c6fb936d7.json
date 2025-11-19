@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel kneeling on the left, holding a golden staff and extending his left arm upwards. He is dressed in a white robe and has large golden wings. He is addressing the Virgin Mary, who is kneeling on the right, her arms crossed over her chest, wearing a golden dress and a blue mantle. A book lies open on a red cushion before her. Behind Mary, a red curtain hangs from a canopy. In the background, a landscape with hills, trees, and buildings is visible under a blue sky. Rays of golden light descend from a divine figure at the top left, illuminating the scene and a dove representing the Holy Spirit.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "canopy",
+        "door"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550130827/f45/197,344,1073,1983/full/0/default.jpg"
+}

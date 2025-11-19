@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated on a red cloth, holds the Christ Child on her lap. Both are illuminated by golden rays emanating from the Child. Three Magi, identified by their crowns and regal attire, approach them. The first Magus, kneeling, offers a golden chalice. The second, standing, holds a similar vessel. The third, also standing, carries a golden object. Behind them, a simple wooden stable structure is visible, with a thatched roof. In the background, a stylized cityscape with towers and walls is depicted under a bright blue sky, with a radiant star shining above. The overall setting is outdoors, with green ground and trees.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0384_0232/DEPOT/620416201_MS0384_0232_0063B/2560,770,2236,2819/full/0/default.jpg"
+}

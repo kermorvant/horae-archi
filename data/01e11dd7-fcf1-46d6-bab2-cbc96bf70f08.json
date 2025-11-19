@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, where the Virgin Mary, clad in a blue robe and adorned with a golden halo and headband, is visited by Elizabeth, who wears a green gown and a white veil, also with a golden halo. Elizabeth, with her hands gently placed on Mary's pregnant belly, appears to be expressing surprise or reverence. They are positioned within an architectural setting suggested by a patterned background and a tiled floor. The overall composition is framed by an arched border with floral motifs.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/2235811/2234957.tif/1649,554,1386,2111/full/0/default.jpg"
+}

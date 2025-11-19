@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A woman with long, wavy hair and a distinctive headdress stands in profile, looking to the right. She wears a long garment with a draped skirt. To her right, a tall, slender architectural element, possibly a column or a part of a larger structure, is depicted. Above the woman's head, an arched decorative element, possibly part of a canopy or architectural framing, is visible. The scene is rendered in a black and white, etched style, suggesting a manuscript illumination or woodcut.",
+    "scene_interpretation": "This image does not contain enough iconographic detail to definitively interpret a specific religious, biblical, liturgical, or devotional meaning. It appears to be a portrait or a figure within a larger narrative context that is not fully presented.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0032/4204,3802,298,613/full/0/default.jpg"
+}

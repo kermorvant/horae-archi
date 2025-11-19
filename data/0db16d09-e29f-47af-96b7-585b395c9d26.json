@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A crowned female figure, likely a saint or queen, stands within a decorative architectural frame. She is depicted frontally, wearing a long, draped garment and holding a palm frond in her left hand and a sword in her right. To her left, a wheel is visible, a common attribute of Saint Catherine of Alexandria. The background is stylized with diagonal lines, suggesting a decorative or symbolic setting rather than a realistic one. The overall impression is that of a devotional image, possibly representing a saintly figure.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00173/425,907,429,654/full/0/default.jpg"
+}

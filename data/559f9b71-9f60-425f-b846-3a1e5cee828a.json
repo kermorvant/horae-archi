@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene is divided into two arched compartments. The left compartment depicts two women in a garden setting. One woman, dressed in a red and white gown, stands and appears to be tending to the hair of another woman who is seated and dressed in a blue gown. The seated woman is holding a string of beads or pearls. Behind them is a trellis covered with roses. The right compartment shows a brown ox walking on a path in a landscape with rolling hills and a tree. The overall composition suggests a narrative or symbolic representation, possibly related to a biblical or devotional theme.",
+    "scene_interpretation": "The scene likely depicts the Visitation, a biblical event where Mary, pregnant with Jesus, visits her cousin Elizabeth, who is pregnant with John the Baptist. The ox might symbolize a pastoral or agricultural context, or perhaps a reference to the Old Testament. The garden setting with roses could allude to the Virgin Mary's purity and the blossoming of grace.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A7F0C4994-C579-11E7-8646-155E6EE4309A%3ADS.31/873,422,1314,1173/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. In the foreground, a kneeling figure with a youthful face and wavy hair looks upwards, holding a rolled document. Behind this figure, a bearded man wearing a crown and regal attire sits, holding a scepter. To the left and behind these two, two other bearded men are visible, one wearing a cap and the other a more elaborate headdress. The background features stylized architectural elements, including what appear to be towers or spires with decorative finials and arched openings. The overall impression is one of a formal or ceremonial gathering, possibly within a palace or a grand hall, with the kneeling figure presenting something to the seated ruler.",
+    "scene_interpretation": "This scene likely represents a royal audience or a presentation of tribute. The crowned figure is a king, and the kneeling figure could be a supplicant, a messenger, or a vassal. The document being presented might contain a petition, a decree, or a treaty. The presence of other figures suggests a courtly setting. Without further context or specific iconographic details, a precise biblical or devotional interpretation is not possible, but it evokes themes of power, authority, and submission.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "pinnacle",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0081/1078,431,639,1166/full/0/default.jpg"
+}

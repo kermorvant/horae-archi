@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts Jesus praying in the Garden of Gethsemane, with his disciples Peter, James, and John sleeping nearby. Jesus, in a blue robe, kneels with his hands clasped in prayer, looking upwards. The disciples are shown slumped in sleep, one with his head resting on his hand. In the background, a wooden fence encloses a courtyard with a gate, beyond which lies a city with towers and spires. Above, in a celestial sphere, God the Father is depicted, holding a globe and extending a hand, with a chalice on a rocky outcrop in the foreground. The overall scene is set in an outdoor environment with architectural elements in the distance.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "door",
+        "roof",
+        "tower",
+        "arch"
+    ],
+    "persons": [
+        "Jesus",
+        "Peter",
+        "James",
+        "John",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vs234vd4916%2FW195_000048_1200/4815,1137,3392,5485/full/0/default.jpg"
+}

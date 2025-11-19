@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three women, two of whom are lying down, possibly ill or deceased, covered by drapery. A third woman stands over them, her hands clasped in prayer or supplication. Behind them, a stylized architectural backdrop suggests a city or town with buildings and arched structures. The overall impression is one of mourning, intercession, or a plea for healing.",
+    "scene_interpretation": "Mourning of the Dead",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0066/840,3489,689,1154/full/0/default.jpg"
+}

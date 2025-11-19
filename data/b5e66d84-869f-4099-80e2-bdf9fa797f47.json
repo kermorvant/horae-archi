@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of people gathered indoors, looking towards a divine manifestation. In the foreground, two figures are prominent: one woman with long braided hair, dressed in a long robe, stands with her hands clasped. Beside her, another figure, possibly a man, kneels and gestures towards an open book placed on a small lectern. Behind them, a crowd of individuals, some with halos, are looking upwards. The focal point of the scene is a radiant dove descending from above, emitting rays of light, symbolizing the Holy Spirit. The architectural setting appears to be a vaulted interior, suggested by the arched structure above and the presence of windows with tracery. The overall atmosphere is one of reverence and spiritual awe.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "vault",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Apostles"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Dijon/Bibliotheque_municipale/B212316101_MS2969/DEPOT/B212316101_MS2969_0115/2936,476,1189,1690/full/0/default.jpg"
+}

@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary at the center, surrounded by the Apostles and other figures, all looking upwards. A dove, representing the Holy Spirit, descends from above, emanating golden rays. The figures are gathered within an elaborately decorated architectural space, characterized by ornate columns, arches, and detailed sculptural elements. The architecture features a sense of grandeur and divine presence, with intricate carvings and a vaulted ceiling. The figures are dressed in richly colored robes, with many in prayer or awe. The overall impression is one of spiritual fervor and divine revelation.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "vault",
+        "window",
+        "microarchitecture",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0083/4214,338,2267,3191/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a divine figure, possibly Christ, with a red face and a white robe, standing centrally. A dove, representing the Holy Spirit, hovers above its head. To the left and right, two bearded figures in brown and green robes respectively, appear to be floating on blue clouds, with hands clasped in prayer. Below, on the left, a figure in a golden robe holds a palm frond and a key, kneeling. In the center, a figure in a pink robe kneels, also holding a key. To the right, a figure in an orange robe with a blue cap kneels, looking upwards. The background is a dark, patterned textile, suggesting a divine or celestial setting.",
+    "scene_interpretation": "Transfiguration",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Holy Spirit",
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_004%2Fwidener_004_jp2.zip%2Fwidener_004_jp2%2Fwidener_004_0243.jp2/3379,1427,2022,2542/full/0/default.jpg"
+}

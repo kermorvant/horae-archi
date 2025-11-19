@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. On the left, the Angel Gabriel, with large white wings and a golden staff, approaches the Virgin Mary. He is dressed in a flowing grey robe. The Virgin Mary, on the right, is kneeling and looking towards the angel with her hands raised in a gesture of surprise or acceptance. She wears a yellow tunic and a blue mantle. Above her, the Holy Spirit is represented as a dove descending with rays of light. The background features architectural elements including a window with a grid pattern, a green curtain, and a bed with red drapery. A wooden structure with arched openings is visible behind the angel. The floor is tiled in a checkered pattern.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fq804fm0409%2FW433_000098_1200/3923,1395,2337,3681/full/0/default.jpg"
+}

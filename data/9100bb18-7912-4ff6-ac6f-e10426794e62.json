@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a regal figure, likely a king, seated and holding a globe, gesturing with his right hand. He wears a crown and a golden cloak over a red robe. To his left, a woman in a blue gown kneels with her hands clasped in prayer, her head bowed. Behind her, an angel with golden hair and wings is visible, holding a green veil. The figures are positioned within an architectural setting suggested by a draped canopy with floral motifs, and a green background that could represent foliage or a tapestry. The overall impression is one of a formal audience or a divine revelation.",
+    "scene_interpretation": "The scene is likely an allegorical representation or a depiction of a biblical event involving royalty and divine intervention. The presence of the globe suggests kingship and dominion. The kneeling woman and the angel could indicate a moment of prayer, supplication, or a divine message being delivered. Without further context, a specific biblical event is difficult to pinpoint, but it evokes themes of royal piety or divine favor.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00095049_00307/187,41,481,703/full/0/default.jpg"
+}

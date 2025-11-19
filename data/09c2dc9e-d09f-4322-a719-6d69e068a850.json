@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "In a verdant landscape, two men are engaged in agricultural labor. The foreground features a man with a beard, wearing a wide-brimmed hat, an orange tunic, blue trousers, and white stockings, actively mowing grass with a scythe. To his right, another man, dressed in a red vest over a white shirt and dark trousers, sits resting against a tree, drinking from a wooden cup. In the background, a body of water flows past lush trees, and a complex of stone buildings, including a tower with a conical roof, is visible. The scene likely depicts a pastoral setting, possibly illustrating a month of the year or a biblical parable related to labor and rest.",
+    "scene_interpretation": "Labor",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550106099/f19/199,237,808,711/full/0/default.jpg"
+}

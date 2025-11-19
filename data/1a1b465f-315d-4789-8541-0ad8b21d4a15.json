@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable, indicated by the thatched roof and wooden structure. The Virgin Mary, in a blue and gold robe, kneels beside the Christ Child, who lies on a blue cloth radiating golden light. To the right, Saint Joseph, dressed in a golden robe and blue mantle, kneels and holds a lit candle, his gaze directed downwards. Two angels, one in white and the other in red, stand behind them, with hands clasped in prayer. In the background, a dark, silhouetted donkey is visible within the stable. Beyond the stable, architectural elements of a city or castle are depicted, with stone walls and towers under a blue sky dotted with golden stars. The overall scene is framed by an ornate, gilded border with foliate motifs.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS1686/DEPOT/786466101_MS1686_0054/3842,873,1504,2284/full/0/default.jpg"
+}

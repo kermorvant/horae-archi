@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, in a blue robe and white veil, kneels with her hands clasped in prayer, gazing at the Christ Child lying on a red, star-patterned blanket. The Christ Child is depicted with a radiant halo. To the left, a woman in a blue tunic and skirt pours water from a jug into a wooden tub, presumably for bathing the infant. Behind them, a grey donkey and a brown ox are visible, with the ox looking towards the child. In the upper part of the scene, a representation of God the Father, with a white beard and halo, is shown in a blue and red celestial sphere, with golden rays descending. The background is a rocky, mountainous landscape. The entire scene is framed by an arched border decorated with colorful foliage.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_006%2Fwidener_006_jp2.zip%2Fwidener_006_jp2%2Fwidener_006_0144.jp2/869,947,1934,2834/full/0/default.jpg"
+}

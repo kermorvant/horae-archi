@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a figure wearing a hat and a cloak, holding a staff in their left hand and resting their right arm on a pouch. The figure stands in a dotted landscape, possibly representing a field or garden, with a small animal, likely a dog, at their feet. Above the figure, an arched architectural element frames the scene, decorated with scrolling motifs. The overall impression is of a pastoral or devotional scene, possibly representing a saint or a figure associated with nature or pilgrimage.",
+    "scene_interpretation": "Saint Hubert",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Hubert"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0006/5761,3515,439,902/full/0/default.jpg"
+}

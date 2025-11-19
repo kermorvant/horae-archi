@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Lawrence, who is shown immersed in a large cauldron over a fire. He has his hands clasped in prayer and a halo signifies his sainthood. Around him, a crowd of onlookers expresses various emotions, from distress to curiosity. To the left, a figure in a red tunic and blue hose recoils in horror, shielding his eyes. To the right, a woman in a purple robe and blue headdress looks up at the saint, holding a mirror. In the background, a fortified castle with towers and battlements is visible, set against a green landscape and a blue sky. The overall scene is one of suffering and divine witness, set within a semi-urban or semi-rural environment.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "battlement"
+    ],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f12/694,456,1446,2877/full/0/default.jpg"
+}

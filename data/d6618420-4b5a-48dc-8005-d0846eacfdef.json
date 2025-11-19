@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a decorative circular frame. On the left, an angel, identified by wings and a halo, is shown in profile, wearing a red robe. A scroll unfurls from his hand, bearing the inscription \"AVE MARIA G[RATIA PLENA]\". Facing the angel on the right is the Virgin Mary, also with a halo, dressed in a blue mantle over a red gown. She holds a book and a bouquet of flowers, her hands raised in a gesture of surprise or acceptance. Behind her, a stylized architectural element resembling a screen or a bed canopy is visible. The background is a patterned tapestry of diamonds in blue, red, and gold. The overall composition is enclosed within a large, ornamental letter 'C'.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550008104/f112/199,302,394,427/full/0/default.jpg"
+}

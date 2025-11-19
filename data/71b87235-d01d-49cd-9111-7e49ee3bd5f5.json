@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer, dressed in a blue robe and a pink cloak, with a white fur collar. He is positioned within an architectural setting that includes a richly decorated column and archway on the left. In the background, an angel with wings and a sword hovers in the sky, pointing towards a celestial figure, possibly God, who is depicted in a halo of light. Below the angel, a city with towers and walls is visible, situated near a body of water and a bridge. On the floor in front of the kneeling man, a crown rests on a cushion, and a harp lies nearby. The overall scene suggests a divine intervention or revelation.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "bridge",
+        "roof"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421871/202,198,894,1468/full/0/default.jpg"
+}

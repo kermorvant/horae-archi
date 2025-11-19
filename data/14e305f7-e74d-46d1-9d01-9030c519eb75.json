@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of monks in white habits, seated and reading from illuminated books. They are positioned within an architectural setting that suggests a monastic library or scriptorium, characterized by tall, arched windows with blue backgrounds and gold cloud motifs. Above them, a vaulted ceiling with red and gold ribbing is visible, supported by slender columns. The overall impression is one of scholarly devotion and religious study within a sacred space.",
+    "scene_interpretation": "Monastic Reading",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f363/580,259,1241,3594/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony, likely a presentation or baptism, taking place within an interior architectural space. A central octagonal font, covered with a patterned cloth, is attended by a bearded man in a blue and red robe, gesturing towards the infant held by a woman in a blue habit. Several other figures, including women in veils and a woman carrying a basket with two birds, stand to the left, observing the event. The background features architectural elements such as columns, arches, and windows, suggesting a sacred or formal setting. The overall atmosphere is solemn and devotional.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall",
+        "stairs",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/hr678ct7683%2FW279_000168_1200/5226,1643,3366,5257/full/0/default.jpg"
+}

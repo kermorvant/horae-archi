@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "An angel with feathered wings kneels before a group of women, one of whom appears to be the Virgin Mary, as suggested by her central position and the presence of other women, possibly the Three Marys or other attendants. The angel gestures with its hands, seemingly in communication. The women are depicted with veiled heads and are holding vessels, possibly for anointing or offering. In the background, simplified architectural structures are visible, including buildings with arched windows and pitched roofs, suggesting an urban or religious setting. The scene is rendered in a woodcut style with strong linework.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0038/827,2048,589,1065/full/0/default.jpg"
+}

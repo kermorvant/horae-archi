@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an interior setting. In the foreground, three figures stand together, two in armor and one in a long robe, with the central figure wearing a halo. To the right, another figure is seated, wearing a hat and holding a sword, gesturing towards the standing figures. The floor is tiled, and a small golden object, possibly a chalice, rests on a golden base. The background is partially obscured by drapery, suggesting an indoor space, possibly a tent or a room with curtains.",
+    "scene_interpretation": "Trial of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xb915nd9363%2FW439_000059_1200/3225,5993,1161,1417/full/0/default.jpg"
+}

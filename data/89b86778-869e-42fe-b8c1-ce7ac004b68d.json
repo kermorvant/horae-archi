@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a walled city with various buildings, including towers and structures with crenellations, set against a backdrop of stylized foliage and scattered circular shapes that might represent clouds or celestial bodies. A prominent arched gateway is visible, suggesting an entrance to the fortified area. The overall impression is of an urban landscape, possibly a representation of Jerusalem or another significant city, rendered in a simplified, woodcut-like style.",
+    "scene_interpretation": "Biblical Cityscape",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "battlement",
+        "crenellation",
+        "wall",
+        "roof",
+        "door",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0077/4702,4157,1416,564/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting, framed by arches. On the left, a crowned figure, possibly a king, is shown in profile, gesturing with his hands. In the center, a group of men, some holding staffs or lances, are engaged in conversation. One man, seated and bearded, appears to be speaking to another standing figure. To the right, a woman with elaborate hair is depicted in profile, her hands raised in a gesture of prayer or supplication. The architectural elements suggest an interior space with decorative arches and patterned backgrounds.",
+    "scene_interpretation": "This scene likely represents a courtly or royal audience, possibly depicting a moment from a biblical narrative or a historical event. The presence of a crowned figure, advisors, and a supplicant woman suggests themes of justice, petition, or counsel. Without further context, a specific biblical event is difficult to pinpoint, but it could relate to a king receiving a plea or making a judgment.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "King",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0023/3532,3333,1546,700/full/0/default.jpg"
+}

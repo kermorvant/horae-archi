@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of individuals, led by a figure identified as 'David' by an inscription on his robe, kneeling and looking upwards in prayer. David, wearing a richly decorated blue and red robe, is in the foreground. Behind him, a diverse crowd of men and women, some with elaborate headdresses, also have their hands clasped in prayer and their gazes directed skyward. The setting is an outdoor landscape with rolling green hills, scattered trees, and a cloudy sky with birds in flight. The overall impression is one of communal supplication and devotion.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0348.jp2/2241,1759,1295,1471/full/0/default.jpg"
+}

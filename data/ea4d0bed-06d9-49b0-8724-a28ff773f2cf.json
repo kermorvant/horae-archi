@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and bearing the weight of the cross, being led through a city by a procession of soldiers in armor. Christ is shown with a halo, indicating his divinity, and his face is marked by suffering. The soldiers, armed with spears, surround him, some pulling at his robe with ropes. In the background, a walled city with towers and battlements is visible, suggesting the procession is moving towards a place of execution. To the left, two women, possibly the Virgin Mary and another follower, are depicted with halos, observing the procession with sorrow. The overall setting is outdoors, with a rocky, uneven terrain.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "battlement",
+        "tower",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/np517xz5161%2FW196_000046_1200/4783,1465,3470,5498/full/0/default.jpg"
+}

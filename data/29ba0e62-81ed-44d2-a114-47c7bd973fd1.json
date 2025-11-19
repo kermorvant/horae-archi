@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ in Majesty, seated on a rainbow against a starry blue sky. He is shown with wounds from his crucifixion and raises his right hand in blessing. Below him, the Virgin Mary kneels in prayer, clad in a blue mantle over an orange tunic. To her right, a figure in a red robe, likely John the Baptist, also kneels and looks upwards. In the middle ground, several figures are emerging from tombs or graves, some with hands clasped in prayer, suggesting the Resurrection or the Last Judgment. The landscape is rendered with rolling hills and sparse trees, with decorative floral elements framing the arched composition.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10318624f/f135/482,166,914,1519/full/0/default.jpg"
+}

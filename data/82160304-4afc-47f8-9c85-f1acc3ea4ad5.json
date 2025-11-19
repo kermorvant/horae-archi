@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two male figures, identified as saints by their halos, stand before a red, gold-patterned background. The figure on the left, dressed in a red robe, holds a green book and a sword. The figure on the right, in a blue robe, holds an open book. Both figures have beards and appear to be elderly. The scene is rendered in a flat, stylized manner typical of medieval manuscript illumination, with no discernible architectural elements or specific setting beyond the decorative backdrop.",
+    "scene_interpretation": "Saints",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint",
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024827n/f586/1046,571,938,1315/full/0/default.jpg"
+}

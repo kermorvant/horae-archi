@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ in prayer, kneeling on a rocky outcrop amidst lush greenery and a vibrant blue sky. His hands are clasped, and his head is tilted upwards in supplication. Below him, three disciples are asleep, two of them slumped against each other, and the third lying down. One disciple wears a blue robe, another a grey robe over a red tunic, and the third a blue robe with a yellow cloak. In the upper left corner, a golden chalice rests on a hill. The overall setting is a natural landscape, suggesting the Garden of Gethsemane.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Disciple"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_004/DEPOT/762595409_A_10_004_0019/1311,532,1894,3231/full/0/default.jpg"
+}

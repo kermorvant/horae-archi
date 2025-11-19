@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed figure, identified as Saint Mark, is depicted seated and writing on a parchment. He wears a blue tunic and a reddish-brown cloak, with a green cap. To his right, a lion, a symbol of Saint Mark, sits attentively. The scene takes place indoors, within a room characterized by architectural elements suggesting a classical or Renaissance style, with fluted columns and decorative friezes. A lectern with an open book stands behind the saint, and a richly carved wooden structure is visible to his left. The floor is tiled with blue and brown patterns.",
+    "scene_interpretation": "Saint Mark Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100223238/f17/432,730,1823,2399/full/0/default.jpg"
+}

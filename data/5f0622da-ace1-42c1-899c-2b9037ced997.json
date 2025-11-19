@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, bearing the inscription \"INRI\" above his head. He is surrounded by a group of mourners, including the Virgin Mary, identifiable by her veiled head and clasped hands in sorrow, and other figures, some of whom appear to be soldiers or onlookers. In the background, a stylized cityscape with towers and buildings is visible. The composition is framed by architectural elements resembling columns and arches, suggesting a sacred or monumental setting.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0081/4237,723,1707,2341/full/0/default.jpg"
+}

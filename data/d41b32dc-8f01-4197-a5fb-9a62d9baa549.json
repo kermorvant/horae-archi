@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A crowned king, with a long beard and clasped hands in prayer, stands in a landscape. He holds a spherical object in his hands. To his left, a harp is visible. In the sky above, an angel with wings and a sword descends. In the background, a cityscape with towers and walls is depicted, along with trees and foliage. The scene is framed by an ornamental border with floral motifs.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS0359/DEPOT/B514546101_MS0359_0075/2102,289,780,1079/full/0/default.jpg"
+}

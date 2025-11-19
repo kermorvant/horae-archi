@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable structure. The Virgin Mary, clad in a blue mantle, cradles the Christ Child, who is swaddled in white. To the left, an elderly man, likely Saint Joseph, kneels in reverence, leaning on a staff. Behind them, a donkey and an ox are visible, their heads peering over a rustic fence. Above the stable, two angels are depicted, one holding a scroll with the inscription \"Ave Maria\". The background is a deep blue, suggesting night or a stylized sky, with golden streaks representing stars or divine light. The overall composition is intimate and devotional, focusing on the central figures of the Holy Family and the adoration of the newborn Christ.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828220/531,2785,1107,1097/full/0/default.jpg"
+}

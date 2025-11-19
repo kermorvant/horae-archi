@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, seated on a crescent moon and surrounded by a host of angels, reaching up to receive the Christ Child from a celestial sphere. The Christ Child is held aloft by several angels, some of whom are playing musical instruments. Below, a kneeling figure in a pink robe, likely a donor or a saint, gazes upwards in prayer. The background features a starry sky and decorative patterns, suggesting a divine or heavenly setting. The overall composition is framed by ornamental borders.",
+    "scene_interpretation": "The Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f305/548,350,1431,1855/full/0/default.jpg"
+}

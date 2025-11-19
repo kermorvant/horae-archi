@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary cradling the body of Christ after the crucifixion. Christ's body is pale and bears wounds, including a stigmata on his side and marks on his hands and feet. He is draped in a white loincloth. The Virgin Mary, wearing a blue mantle and white wimple, holds him tenderly, her face etched with sorrow. In the background, three crosses are visible on a barren hill, symbolizing Golgotha. The setting is an outdoor landscape with a body of water and distant structures on the left.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/16032659/354,1128,683,831/full/0/default.jpg"
+}

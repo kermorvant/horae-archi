@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men in a landscape setting. On the left, several men are gathered, with one kneeling in prayer before a tree. In the center, a richly dressed man with a turban gestures outwards. To the right, a large building with an arched entrance is visible, labeled 'babilonie', and a crowd of people are entering. Above, a haloed figure, likely Christ, is depicted in a circular frame, with birds flying in the sky. In the background on the left, a city with spires and walls is labeled 'jerusalem'. The overall scene appears to represent a narrative or allegorical event, possibly related to the biblical story of the Israelites in Babylon or a similar theme of exile and return.",
+    "scene_interpretation": "Jeremiah's Prophecy",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "spire"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0316.jp2/498,1535,1347,1702/full/0/default.jpg"
+}

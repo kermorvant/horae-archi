@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, dressed in blue, kneels and offers the Christ Child to a bearded man wearing a mitre and a red and gold chasuble, likely a high priest. The Christ Child, with a halo, is held by another figure in red and gold robes, possibly Joseph, who stands behind Mary. To the left, a woman in green holds a basket containing two doves, representing the sacrificial offering. The background features a richly decorated architectural setting with a green curtain and a golden canopy above the figures. The scene is framed by an ornate border.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/9ec24d81-6fb3-49a3-9138-60c262ad24fe/1834,193,828,1214/full/0/default.jpg"
+}

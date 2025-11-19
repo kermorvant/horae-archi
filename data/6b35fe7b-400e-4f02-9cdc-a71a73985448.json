@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross. To his left stands the Virgin Mary, draped in a blue mantle and with her hands clasped in prayer. To his right is a figure in a red robe, likely Saint John the Evangelist, looking upwards towards Christ. The background is a decorative textile pattern of dark brown with gold and white motifs. The figures are set against a pale ground, suggesting an outdoor location. The scene is framed by decorative borders.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://images.lib.cam.ac.uk/iiif/MS-II-00006-00002-000-00132.jp2/1572,2108,2417,3298/full/0/default.jpg"
+}

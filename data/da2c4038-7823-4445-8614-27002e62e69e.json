@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a martyrdom. A figure, identified as Saint Sebastian by the arrows piercing his body and a halo, stands with his hands bound behind his back. He is being shot with arrows by two archers in the foreground. The archer in the center is aiming his bow, while another figure stands behind him. The setting is an outdoor landscape with rolling hills and a distant castle. The sky is a vibrant blue. The scene is framed by a decorative border.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0005/DEPOT/210545209_005_0147/3809,2012,818,973/full/0/default.jpg"
+}

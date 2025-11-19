@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Archangel Michael, clad in ornate golden armor and wearing a halo with a cross, standing over a defeated dragon. He holds a sword raised high in his right hand, ready to strike, and a shield in his left. The dragon, depicted in shades of green and blue with sharp teeth and claws, lies beneath Michael's feet, its body coiled. Flames erupt around the scene, suggesting a battle against evil. In the background, a city with towers and walls is visible under a blue sky. The overall composition portrays the triumph of good over evil.",
+    "scene_interpretation": "Saint Michael the Archangel",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Archangel Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f362/916,900,944,1842/full/0/default.jpg"
+}

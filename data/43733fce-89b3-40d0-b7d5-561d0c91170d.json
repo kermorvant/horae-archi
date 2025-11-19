@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a table covered with a red cloth, upon which an open book rests. Above them, a dove descends, radiating light, symbolizing the Holy Spirit. The figures, all with halos, are looking upwards with expressions of awe and devotion. The Virgin Mary, in blue, is centrally positioned, her hands clasped. To her left and right are male figures, also with halos, some with beards, suggesting they are apostles. The scene is framed by an arched architectural element, with decorative floral motifs along the top border. The overall setting appears to be an interior space, possibly a room where the disciples gathered after Christ's ascension.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55006457g/f174/240,157,832,1109/full/0/default.jpg"
+}

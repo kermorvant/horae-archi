@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and with a halo, floating in a blue sky filled with golden rays emanating from her. She is dressed in a blue undergarment and a richly textured golden-orange mantle, with her hands clasped in prayer. Below her, a distant cityscape with spires and buildings is visible, set against a backdrop of rolling green hills and fields. The entire scene is framed by an ornate, gilded archway.",
+    "scene_interpretation": "Assumption of the Virgin Mary",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f138/1513,1716,854,2330/full/0/default.jpg"
+}

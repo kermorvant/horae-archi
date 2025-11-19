@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a fantastical landscape with a large, reptilian creature with multiple legs and a long, segmented tail in the foreground, set against a backdrop of rolling green hills dotted with trees. In the middle ground, a body of water is populated by several sailing ships. In the background, a majestic castle with multiple towers and spires stands on a cliff overlooking the water, with other distant structures visible on a hill. The sky is a pale blue with scattered clouds, some highlighted with gold leaf. The overall impression is one of a mythical or allegorical setting, possibly representing a journey or a confrontation with a beast.",
+    "scene_interpretation": "Bestiary",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f36/939,1396,1223,2554/full/0/default.jpg"
+}

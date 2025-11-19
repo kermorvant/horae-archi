@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, dressed in blue and resting on a pillow, gazes upwards. Beside her, Joseph, wearing a hat and an orange robe, leans forward, resting his head on his hand and holding a staff. In the background, within an arched structure with a gold leaf background, the Christ Child lies in a manger between a donkey and a goat. A blue chalice-like object hangs above the manger, possibly representing a lamp or a symbolic element. The figures are rendered in a stylized, medieval manner, with bold outlines and flat colors. The setting appears to be a stable, suggested by the presence of the animals and the manger.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "roof",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zw200wd8767/W34_000067_300/278,438,1180,1816/full/0/default.jpg"
+}

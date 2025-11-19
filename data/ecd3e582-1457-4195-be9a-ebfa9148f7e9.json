@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands on the left, clad in a blue cope over an orange tunic and white alb. He holds a medallion in his left hand. To the right, three young boys, unclothed, are depicted within a golden boat-like structure. The background is a simple grey wash, suggesting an outdoor or undefined setting. The scene likely depicts a saintly bishop performing a miracle, possibly saving children or intervening in their behalf, a common theme in hagiography.",
+    "scene_interpretation": "Saint Nicholas saving children",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "undefined_element"
+    ],
+    "persons": [
+        "Bishop",
+        "Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN321296575/files/images/00000359.tif/401,1002,715,803/full/0/default.jpg"
+}

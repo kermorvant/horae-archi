@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "An angel with green wings and a halo hovers above a pastoral scene. The angel holds a musical instrument, possibly a harp or lyre, and looks down towards the earth. Below, three shepherds are depicted in a green, grassy landscape dotted with red flowers. One shepherd, seated, plays a pipe. Another shepherd, standing, gestures upwards with his hand. A third shepherd, kneeling, holds a shepherd's crook. Several sheep are scattered around the figures, and a dog is visible in the foreground. The background is a rich, textured gold, suggesting a divine or heavenly presence, with a stylized sun radiating light in the upper right corner.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sr994pm0975%2FW105_000003_1200/565,904,6215,8881/full/0/default.jpg"
+}

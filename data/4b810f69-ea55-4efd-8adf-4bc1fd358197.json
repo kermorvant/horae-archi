@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Three figures are depicted in a boat sailing on choppy blue water. The figure on the left, wearing a green garment and a halo, holds a long oar. The central figure, also with a halo, is dressed in blue and holds a golden orb. The figure on the right, a woman with a white veil and a blue robe, has a halo and holds a lantern. The background features a stylized landscape with rolling hills, a conical mountain, and a distant city skyline. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "The scene likely depicts the Holy Family or a group of saints on a journey, possibly representing a moment of faith or divine guidance. The golden orb held by the central figure could symbolize Christ or divine power, while the lantern held by the woman might represent faith or enlightenment. The presence of halos indicates sanctity. The distant city could symbolize a destination or a spiritual realm.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/my189pm5441%2FW202_000076_1200/3704,1840,1925,2948/full/0/default.jpg"
+}

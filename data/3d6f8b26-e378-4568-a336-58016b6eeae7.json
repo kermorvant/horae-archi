@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a simple architectural structure, possibly a stable or a humble dwelling. The Virgin Mary, with a golden halo, is seated and cradles the Christ Child, who is also haloed. The Child reaches out towards a golden chalice offered by one of the Magi. The second Magus, also with a halo, gestures towards the scene. Behind them, a camel is visible, suggesting the journey of the Magi. The architecture is rudimentary, with wooden beams and a thatched or tiled roof suggested by the diagonal lines. The background is a mix of blue sky and a brown, textured landscape.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/11676393/912,495,2039,3008/full/0/default.jpg"
+}

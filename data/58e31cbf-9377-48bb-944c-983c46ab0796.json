@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A procession of haloed figures, likely apostles or saints, walks from left to right. They are dressed in flowing robes of blue, tan, and pink. Several figures hold red books. The background features a decorative red tapestry with a gold diamond pattern and small star-like motifs. The ground beneath their feet is green and grassy, with some sparse vegetation. The figures are depicted in profile or three-quarter view, with their gazes directed forward or upwards. The overall impression is one of solemnity and spiritual contemplation.",
+    "scene_interpretation": "Apostles",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f407/1886,875,875,1541/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A close-up detail of a haloed head of a young person, likely a saint or an angel, with fair skin, dark eyes, and short, dark hair. The figure wears a red garment with a golden collar. The background is a mottled blue, suggesting a sky or a divine setting.",
+    "scene_interpretation": "Portrait of a Saint",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00207/1220,162,188,198/full/0/default.jpg"
+}

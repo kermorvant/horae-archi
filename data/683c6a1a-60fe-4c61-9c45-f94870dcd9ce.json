@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, depicted in profile and wearing a draped garment, is shown kneeling with his hands clasped in prayer. He is seated within a sarcophagus-like structure, which is rendered in shades of red and brown. The scene is framed by a circular border featuring blue and gold ornamentation. The background within the circle is a shimmering gold, suggesting a divine or ethereal setting. The overall impression is one of intense devotion and spiritual contemplation.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00215/437,1575,563,666/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a halo, gesturing with his right hand towards a kneeling figure who also has a halo. Above the kneeling figure, a dove descends within a golden sunburst, symbolizing the Holy Spirit. The man stands within an architectural structure featuring arches and columns, suggesting a sacred or public space. Behind him, a crowd of figures with halos looks on, some engaged with a book. The architecture is open to the exterior, with glimpses of a landscape or sky in the background. This scene is likely the Annunciation, where the Angel Gabriel announces to the Virgin Mary that she will conceive Jesus.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "gable",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/my769dn6747%2FW431_000054_1200/3963,1610,2141,2774/full/0/default.jpg"
+}

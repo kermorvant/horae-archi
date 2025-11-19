@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and bleeding from his wounds. Below the cross, the Virgin Mary, dressed in a blue robe and red mantle, mourns with her hands clasped. To her right, another figure, likely Saint John the Evangelist, also looks up at Christ with sorrow, draped in a white and pink garment. The background is a textured, dark pattern with gold flecks, suggesting a divine or symbolic space, with a hint of green ground at the bottom.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f485/644,203,1176,4006/full/0/default.jpg"
+}

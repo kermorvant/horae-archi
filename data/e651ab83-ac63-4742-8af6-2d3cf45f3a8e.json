@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting. The figure on the right, larger and more prominent, wears a headdress and a richly decorated garment with circular motifs. This figure appears to be gesturing or holding something. To the left, a smaller figure is shown in profile, with hands clasped in prayer or supplication. The background is filled with a dense pattern of dots, suggesting foliage or a decorative textile. Above the figures, an arched structure, possibly a canopy or part of a building, is visible, adorned with leaf-like motifs. The overall impression is one of reverence or a devotional scene, possibly depicting a saint or a supplicant before a holy figure.",
+    "scene_interpretation": "Devotional Scene",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0021/4723,3403,303,584/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "An angel with vibrant orange wings descends from a blue sky, gesturing towards a scene unfolding in a pastoral landscape. Below, three figures are engaged in a struggle. One figure, wearing a blue tunic and an orange collar, wields a long staff and appears to be defending against another figure dressed in a purple tunic and green head covering, who is also holding a staff. A brown dog sits in the foreground, leashed to the purple-clad figure. In the background, a flock of sheep grazes on a green field, and distant buildings with red roofs are visible on a hill. A scroll with Latin text floats in the sky near the angel.",
+    "scene_interpretation": "The Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/vad%2Fvad-0327%2Fvad-0327_0037v.jp2/2203,841,3258,5078/full/0/default.jpg"
+}

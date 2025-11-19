@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a monastic figure, likely a friar, kneeling with hands clasped in prayer before Christ. Christ, shown with stigmata on his hands and chest, is depicted with a halo and wears a red and gold garment. He raises his hands in a gesture of blessing or acceptance. The background features architectural elements suggesting an interior space, with patterned drapery behind the friar and a simple wall with a red door behind Christ. The scene is framed by golden architectural elements, including columns and a decorative border.",
+    "scene_interpretation": "The vision of Christ to a saint or devotee",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "door",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Friar"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550098895/f191/196,799,649,691/full/0/default.jpg"
+}

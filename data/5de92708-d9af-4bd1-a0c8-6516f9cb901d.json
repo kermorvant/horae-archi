@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures against a blue, patterned background. On the left, a figure, likely Saint John the Evangelist, is dressed in a red robe and holds a golden chalice containing a small bird. On the right, an angel, identifiable by its wings and halo, is clad in a white robe with blue trim. The angel holds a sword aloft, poised to strike a green, dragon-like creature at its feet. The creature is depicted with scales and claws, and appears to be subdued. The ground beneath the figures is rendered with a checkered pattern of green and white, suggesting a tiled floor or a stylized landscape.",
+    "scene_interpretation": "The scene represents the Triumph of Saint John the Evangelist over heresy or evil, symbolized by the dragon. The chalice with the bird is a common attribute of Saint John, referring to the legend of his miraculous survival after drinking poisoned wine. The angel's action of striking the dragon further emphasizes the saint's victory and divine protection.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Reg.lat.165/Reg.lat.165_0114_fa_0055v.jp2/418,341,523,758/full/0/default.jpg"
+}

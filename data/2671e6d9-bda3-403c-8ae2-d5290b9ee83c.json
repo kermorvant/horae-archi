@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Saint George, clad in armor and with white wings, standing over a defeated dragon. He holds a spear, poised to strike the creature. To his right stands a bishop, identified by his vestments and halo, holding a book and a sword. The background features a red, patterned tapestry and a checkered floor, suggesting an indoor setting. The overall composition is framed by an arched architectural element and decorative borders, typical of a manuscript illumination.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint George",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_5%2F1945_65_5_jp2.zip%2F1945_65_5_jp2%2F1945_65_5_0368.jp2/586,850,1963,2522/full/0/default.jpg"
+}

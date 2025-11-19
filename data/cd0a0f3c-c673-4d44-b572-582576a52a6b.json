@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act in an outdoor setting. In the foreground, a knight in armor is shown lunging towards a woman who is holding a baby. The woman appears to be recoiling or falling, with her mouth open in distress, while the knight's arm is raised as if to strike. Behind the knight, a group of figures, including a man with a beard wearing a hooded cloak and other individuals in armor, observe the scene. In the background, a river flows through a hilly landscape with distant structures that suggest a settlement or fortifications. On the right side of the background, a woman carrying a child on her back is visible, possibly fleeing or observing from a distance. The overall impression is one of conflict and potential harm.",
+    "scene_interpretation": "The scene likely depicts the Massacre of the Innocents, a biblical event where King Herod ordered the killing of all male infants in Bethlehem in an attempt to kill the infant Jesus. The knight represents Herod's soldiers, and the woman with the baby is a mother trying to protect her child. The presence of other figures, including religious figures (implied by the hooded man), and the distant landscape contribute to the narrative context.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0061/943,374,1272,1633/full/0/default.jpg"
+}

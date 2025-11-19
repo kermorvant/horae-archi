@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher carrying the Christ Child on his shoulders. Saint Christopher, a bearded man with long hair, wears a simple tunic and a headband. He holds a tall staff in his left hand and his right arm is bent, supporting the child. The Christ Child, depicted as a young boy with a halo, is seated on Saint Christopher's shoulders, holding a globe surmounted by a cross in his left hand and raising his right hand in a gesture of blessing. They are framed by an arched architectural element, possibly representing a portal or a decorative canopy, with a dotted background suggesting a stylized sky or a decorative motif. The overall style is that of a woodcut or wood engraving, common in medieval manuscripts.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0048/982,681,406,598/full/0/default.jpg"
+}

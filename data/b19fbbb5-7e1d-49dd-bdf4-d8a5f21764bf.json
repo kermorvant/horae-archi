@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on their journey, likely the Flight into Egypt. The Virgin Mary, seated on a donkey, cradles the Christ Child. She is dressed in a vibrant blue mantle. Leading the donkey is an older man, presumably Saint Joseph, wearing a dark robe and a red cloak. They are traveling through a landscape with rocky formations on the left and a city with towers and blue-domed buildings in the background. The ground is green and uneven, with some scattered foliage.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/47957872/395,580,1536,2180/full/0/default.jpg"
+}

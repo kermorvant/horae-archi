@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an arched architectural setting, looking out towards a landscape with a city and hills. In the foreground, a kneeling figure in white, with hands clasped in prayer, looks upwards. To the right, a youthful figure with a golden halo, dressed in blue, points with their right hand. Several other figures, some with elaborate headdresses, are positioned behind the kneeling supplicant and to the right, observing the interaction. The architectural elements suggest a loggia or open pavilion, with arched openings framing the view of the exterior. The floor is tiled in a green and brown checkerboard pattern. The overall scene is framed by an illuminated border.",
+    "scene_interpretation": "The scene is likely an episode from the life of Christ, possibly depicting Christ as a child interacting with a supplicant, or a scene of healing or teaching. The gesture of pointing and the halo on the child suggest divine authority. The kneeling figure's posture indicates supplication or prayer.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/tc762gc0596%2FW719_000140_1200/4603,864,2538,4411/full/0/default.jpg"
+}

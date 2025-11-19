@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be a dramatic or violent event. In the foreground, a person kneels, possibly in supplication or distress, with hands outstretched. Behind this figure, a man in a helmet raises a sword, poised to strike. To the right, a bearded man, possibly a figure of authority, gestures with his finger, seemingly directing the action. The background suggests an architectural setting with decorative elements resembling crenellations and arches, hinting at a fortified or ceremonial space. The overall impression is one of conflict or judgment.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "battlement",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0071/5889,509,689,1153/full/0/default.jpg"
+}

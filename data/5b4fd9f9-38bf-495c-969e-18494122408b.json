@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer outdoors, with his hands clasped and raised. He is dressed in a rich red robe with gold embellishments and a blue undergarment. Beside him lies a golden harp and a basket containing a pomegranate. In the background, a walled city with numerous towers, spires, and buildings is visible, nestled within rolling green hills. Above the city, in a celestial cartouche, a bearded figure in pink robes holds a cross and appears to be reading or contemplating. The overall impression is one of devotion and contemplation set against a detailed urban and natural landscape.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "house"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall",
+        "arch",
+        "roof",
+        "window",
+        "gable"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jb119rn7623%2FW208_000259_1200/265,1495,2296,2971/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Angel Gabriel, with red wings and an orange robe, kneels on a green grassy ground, holding a scroll with text. He gestures towards the Virgin Mary on the right. The Virgin Mary, dressed in an orange undergarment and a blue and purple robe, stands with her hands clasped over her chest, looking slightly downwards. Behind them, a decorative gold and blue patterned background suggests a divine or celestial setting. Above and to the left, a bust of a bearded man, likely God the Father, is depicted within a blue cloud.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f165/489,1108,1347,1271/full/0/default.jpg"
+}

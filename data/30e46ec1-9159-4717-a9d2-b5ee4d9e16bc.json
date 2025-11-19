@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting, framed by an arch. On the left, a person wearing a hooded garment is shown from the chest up, with their hands clasped. To the right, another figure, appearing to be male with a beard and long hair, leans in towards the first person, whispering or speaking closely. The background shows stylized architectural elements, possibly representing buildings or decorative motifs. The overall impression is one of intimacy or a private conversation taking place within a structured environment.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0035/1204,623,651,1065/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, lying on a bed covered with a richly decorated cloth, holds the Christ Child. Joseph stands behind her, supporting the Child. Three figures, identified as the Magi, approach from the right, one of them presenting a gift. A group of onlookers, all with halos, are gathered around the central figures. The setting appears to be outdoors, with a green, uneven ground suggesting a natural landscape.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph",
+        "Magi"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84522015/f203/388,576,1196,1020/full/0/default.jpg"
+}

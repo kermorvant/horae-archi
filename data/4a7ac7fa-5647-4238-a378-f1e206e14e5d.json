@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the Virgin Mary cradling the body of Jesus in her lap. Several figures surround them, appearing to mourn. To the left, a man with a beard and head covering supports Christ's legs. To the right, a woman with a veil and a man with a beard and head covering are also present. The figures are enclosed within an architectural frame that suggests a niche or a stylized archway, with decorative elements at the top. The overall composition is somber and evokes a sense of grief and reverence.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "niche"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0047/1010,3216,652,1115/full/0/default.jpg"
+}

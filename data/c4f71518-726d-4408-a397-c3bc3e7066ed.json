@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, veiled and in a blue robe adorned with gold, presents the Christ Child, who lies naked on a white cloth atop a stone altar. Behind Mary stands a woman, possibly Saint Anne, and a bearded man, likely Saint Joseph. To the right, a figure in a jeweled mitre and ornate robes, representing a high priest, gazes at the child. The background suggests an interior space with architectural elements like columns and a draped canopy, hinting at a sacred setting within a temple or church.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS2842/DEPOT/315556101_MS2842_0074/3965,497,1813,2753/full/0/default.jpg"
+}

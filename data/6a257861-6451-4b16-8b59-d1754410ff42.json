@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A group of men, some with beards and wearing hats and tunics, are gathered outside a stone tower. One man in a yellow robe, with his hands clasped in prayer, appears distressed or pleading. He is being led or pushed by other men towards an arched doorway of the tower. Inside the tower, visible through a barred window, are several faces, suggesting prisoners. The background depicts a rocky landscape with a distant city or castle under a blue sky with golden clouds. The scene likely represents a moment of imprisonment or supplication, possibly related to a biblical narrative or a saint's life.",
+    "scene_interpretation": "Imprisonment",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f690/1212,1008,2562,3000/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, who reaches for a book held by Saint Anne. Saint Anne, dressed in a red mantle over a blue garment and a white veil, is seated and reading from the book. The Virgin Mary, in a blue robe, kneels and presents the child. The figures are positioned within a tent-like structure with orange and green drapery. In the background, a building with a tower and timber-framed elements is visible, suggesting a domestic or civic setting. The overall scene is rendered with vibrant colors and gold accents, typical of medieval manuscript illumination.",
+    "scene_interpretation": "The Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "door",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Anne"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bpun/bpun-A0028/bpun-A0028_115v.jp2/1860,778,2386,3527/full/0/default.jpg"
+}

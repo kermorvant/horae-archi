@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ on the cross, rendered in a stylized manner. His body is emaciated, with wounds visible on his hands, feet, and torso, from which blood drips. He is wearing a white loincloth. His head is bowed, and his long, dark hair falls over his shoulders. The cross is a simple wooden structure. The background is a vibrant red, adorned with scattered gold star-like motifs. The base of the cross rests on a dark, earthy mound, with a hint of green foliage below.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828294/1833,1040,648,1230/full/0/default.jpg"
+}

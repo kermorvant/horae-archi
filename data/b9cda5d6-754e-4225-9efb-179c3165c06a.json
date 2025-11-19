@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a simple wooden stable. The Virgin Mary, dressed in a blue mantle, cradles the Christ Child on her lap. The Child reaches out towards one of the Magi, who is kneeling and offering a golden chalice. Behind them, two other Magi, distinguished by their crowns and rich attire, stand holding their own gifts. An ox and a donkey are visible in the background, and the starry blue sky is seen through the open roof structure. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/68534357/68557856.tif/730,548,1379,2078/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and crosier, stands in a landscape. He is dressed in a vibrant orange chasuble with gold trim, a green cope, and white alb. He holds an open book in his left hand and his crosier in his right. The background depicts a blue sky with scattered stars, a green hill, a rocky outcrop with a tree, and in the distance, a white building with spires and a dome, suggesting a church or city. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Saint in contemplation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire",
+        "dome"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F309_B.11.32_f163r.jp2/909,579,1786,2288/full/0/default.jpg"
+}

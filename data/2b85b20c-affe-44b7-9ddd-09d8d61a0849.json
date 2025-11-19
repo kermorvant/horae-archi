@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The upper register depicts a scene framed by architectural arches. In the center, the Virgin Mary, holding the Christ Child, is presented to a bearded man, likely Joseph, who is accompanied by other figures. The Christ Child is reaching towards Joseph. To the left and right of this central group are figures within quatrefoil frames, one holding a scroll and another with a scroll and quill, possibly representing prophets or evangelists. The lower register shows a bearded man in a conical hat, holding a sword and gesturing with his finger, standing next to a young boy. To the right, a woman, possibly Mary, is reaching out to the boy. This scene is set against a backdrop of stylized architectural elements and decorative motifs.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525111708/f15/742,355,837,1699/full/0/default.jpg"
+}

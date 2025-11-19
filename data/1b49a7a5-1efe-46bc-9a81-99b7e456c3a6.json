@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo, reaching out to touch a man who is being held down by others. The man on the ground appears to be suffering from a condition, possibly an illness or demon possession, as his mouth is open and his body is contorted. Christ is surrounded by several figures, some of whom appear to be disciples, with halos indicating their sanctity. To the right, a soldier in armor stands guard, holding a shield. The background is dark and suggests an interior space, with architectural elements like a patterned wall and what might be a canopy or decorative frieze at the top. The overall impression is one of a miraculous healing or exorcism performed by Christ.",
+    "scene_interpretation": "Healing of the Demoniac",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_Jacquemart_Andre/751085428_MS0001(254)/DEPOT/751085428_MS0001(254)_0078/2900,719,1298,1107/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ seated, with a halo, and two figures attending to him. The figure on the left, standing, places a crown on Christ's head. The figure on the right, kneeling, appears to be holding something towards Christ. The background is filled with decorative foliate motifs. This scene is interpreted as the Crowning with Thorns, a moment from the Passion of Christ.",
+    "scene_interpretation": "Crowning with Thorns",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Besançon/Bibliotheque_municipale/B250566101_MS0154/DEPOT/B250566101_MS0154_0031/3633,920,1043,1108/full/0/default.jpg"
+}

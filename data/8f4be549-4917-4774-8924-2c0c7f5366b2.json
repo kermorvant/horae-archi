@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a funerary or memorial service within an arched architectural setting. Two figures in clerical attire, one in a red robe and the other in blue, stand before a lectern with an open book, seemingly engaged in reading or chanting. In the center, a sarcophagus is draped in blue cloth with a prominent red cross. To the right, two figures in black mourning veils stand with bowed heads, their faces conveying grief. Behind them, an altar is adorned with candles and a golden retable. The background features a richly patterned tapestry or wall covering. The overall atmosphere suggests a solemn religious ceremony, likely a requiem mass or a commemoration of the deceased.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "altar",
+        "canopy",
+        "column",
+        "lectern",
+        "wall"
+    ],
+    "persons": [
+        "Cleric",
+        "Mourner"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458140s/f238/893,567,966,1302/full/0/default.jpg"
+}

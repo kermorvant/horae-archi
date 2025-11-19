@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A group of figures, including a king, a bishop, and several other holy men, are depicted in a procession. The king wears a crown and a blue robe adorned with gold patterns, holding a cross-topped staff. The bishop is in full regalia, including a mitre and a richly decorated cope, also holding a staff. To the left, a figure in a vibrant orange robe and hat stands prominently. Behind them, other figures with halos suggest sainthood or religious significance. A small deer is visible on the right. The scene is framed by an arched border with decorative elements and illuminated by golden rays emanating from a divine source above, set against a blue sky.",
+    "scene_interpretation": "All Saints",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F357_B.11.32_f187r.jp2/852,573,1788,2244/full/0/default.jpg"
+}

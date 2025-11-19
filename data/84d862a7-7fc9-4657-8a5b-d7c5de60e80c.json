@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a deathbed vigil. In the upper register, a figure lies on a bed, draped in blue, with a halo and appearing to be deceased or near death. Around the bed, several figures with halos are gathered, some reading from books. One figure in the center holds a small object, possibly a relic or a symbol of faith. The lower register shows three figures seated on the ground, also with halos, engrossed in reading from open books. The setting is suggested by draped red fabric, creating a sense of enclosure, and a patterned textile above, possibly representing a canopy or ceiling.",
+    "scene_interpretation": "Death of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_MS0700/DEPOT/B721816101_MS0700_0072/4083,935,1203,1365/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a nude female figure, possibly representing a zodiacal sign or a mythological figure, pouring water from two vessels. She is positioned in a seated or kneeling posture, with her legs bent. Behind her, there are stylized representations of foliage and a building with crenellations, suggesting an outdoor setting. The figure's pose and the act of pouring water are characteristic of the zodiacal sign Aquarius.",
+    "scene_interpretation": "Aquarius",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "battlement",
+        "crenellation"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0095/2505,3446,305,417/full/0/default.jpg"
+}

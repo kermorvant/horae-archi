@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a formal indoor setting, likely a royal or noble chamber, where an elder figure, seated on an ornate chair, receives a small document from a younger man. The seated figure, distinguished by a long white beard and a rich, patterned robe, wears a distinctive headdress. He is attended by several other men, some standing behind him, and one kneeling figure in the foreground. The background reveals a rich blue tapestry with gold patterns, and a glimpse of an outdoor landscape with a castle or city in the distance. The interaction suggests a moment of presentation or petition.",
+    "scene_interpretation": "This scene likely represents a moment of petition or the presentation of a decree or message, possibly within a historical or biblical narrative. The formality of the figures and the setting suggest an event of importance, such as a king receiving a petition from a subject, or a scene from the Old Testament involving royalty and advisors.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "elderly man",
+        "young man",
+        "attendant"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_122r.jp2/783,381,2797,4766/full/0/default.jpg"
+}

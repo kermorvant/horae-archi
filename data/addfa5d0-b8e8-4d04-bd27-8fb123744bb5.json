@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Betrayal of Christ, with Judas Iscariot kissing Jesus, identifying him to the soldiers. Jesus, with a halo, is embraced by Judas, who holds a red pouch, possibly representing the thirty pieces of silver. A soldier in the foreground lies wounded, bleeding from the head, while another soldier behind Christ raises a sword. In the background, a fortified castle and other buildings are visible amidst a landscape with trees. The overall scene is dramatic and violent, illustrating a pivotal moment in the Passion of Christ.",
+    "scene_interpretation": "Betrayal of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Jesus",
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f25/377,310,1397,2076/full/0/default.jpg"
+}

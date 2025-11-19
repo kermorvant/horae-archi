@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures outside a building with a prominent window. Inside the window, a man with a beard, wearing a patterned robe, is shown with his hands clasped in prayer, looking towards a bowl of fruit. Outside, a procession of figures, some with halos, are gathered. One figure, possibly Christ, is being embraced or greeted by another. A young boy in a yellow tunic is kneeling on the ground, tethered to a lantern. The background shows a wooden fence and gate, with trees and hills beyond. The architectural elements suggest a domestic or possibly a religious building with a tower. The overall scene appears to be a religious narrative, possibly depicting a moment of recognition or a miracle.",
+    "scene_interpretation": "The scene likely represents the Recognition of Christ, a moment where Christ is acknowledged as divine. The man in the window, possibly a prophet or a devout individual, is shown in prayer, perhaps anticipating or witnessing this event. The kneeling boy with the lantern could symbolize humility or a spiritual illumination associated with the recognition of Christ. The presence of haloed figures reinforces the religious context.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "tower",
+        "roof",
+        "arch",
+        "stairs",
+        "fortification_wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0361.jp2/4323,1217,1414,1443/full/0/default.jpg"
+}

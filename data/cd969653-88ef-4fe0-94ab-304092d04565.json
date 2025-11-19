@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, possibly a prophet or saint, is depicted looking upwards with his right hand raised, fingers extended in a gesture of blessing or supplication. He wears a cap and a garment adorned with circular motifs. The scene is framed by architectural elements suggesting an interior space, with decorative arches and columns visible. The overall impression is one of piety and spiritual contemplation.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0080/4193,3931,476,689/full/0/default.jpg"
+}

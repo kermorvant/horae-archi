@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a rural setting with agricultural activities. In the foreground, a woman in a pink dress and white head covering kneels to milk a dark-colored cow, with a bucket placed beneath. A flock of sheep is gathered around, some looking towards the milking activity, while others are entering or exiting a wooden structure. In the background, another woman is visible inside a building, operating a butter churn. Further in the distance, a man is tending to a fence, and beyond that, a town with buildings and a prominent church spire is depicted on a hill. The overall impression is one of daily life and sustenance in a medieval agrarian community.",
+    "scene_interpretation": "Pastoral Life",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "market_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "door",
+        "window"
+    ],
+    "persons": [
+        "woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3770/Vat.lat.3770_0009_fa_0002r.jp2/481,291,1482,872/full/0/default.jpg"
+}

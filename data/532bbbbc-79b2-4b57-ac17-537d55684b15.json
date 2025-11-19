@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene is divided into two distinct areas. On the left, within an interior space, a person lies in a bed, covered by white sheets. Another figure stands behind the bed, and a third kneels in the foreground, reaching towards a red object on the floor. The interior features a bed with a red canopy and blue patterned bedding. On the right, a figure stands in an outdoor landscape, holding a red pouch. The background depicts rolling hills with scattered trees and distant architectural structures. The division between the interior and exterior is marked by a vertical architectural element, possibly a column or a frame.",
+    "scene_interpretation": "The scene likely depicts a moment related to illness or care, possibly the Visitation of the Sick or a scene from a saint's life involving healing or a charitable act. The kneeling figure might be offering comfort or aid, while the figure in bed appears unwell. The figure on the right, holding a pouch, could represent a messenger, a healer, or someone bringing provisions.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892309/417,199,1130,775/full/0/default.jpg"
+}

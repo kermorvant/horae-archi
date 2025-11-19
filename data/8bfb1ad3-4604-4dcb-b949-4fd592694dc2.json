@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, with a golden halo, lies on an orange bed, her head resting on her hand, looking towards the Christ Child. The Christ Child, also with a halo, is in a manger made of woven material, with a donkey and an ox looking on. To the left, a bearded man, likely Joseph, wearing a green turban and a blue robe, sits on a wooden stool, his hands clasped. The background is a patterned blue tapestry, and the foreground is a green grassy area. The scene is framed by decorative borders.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Boulogne-sur-Mer/Bibliotheque_municipale/B621606201_MS1154/DEPOT/621606201_MS1154_0069/1452,1111,1112,1458/full/0/default.jpg"
+}

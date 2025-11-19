@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a divine revelation. Christ, with a halo and radiating golden rays from his hand, stands on the left. He is gesturing upwards, seemingly bestowing a blessing or imparting knowledge. To the right, an older man with a white beard, also with a halo, looks towards Christ and raises his hands in supplication or reception. In the foreground, a bearded man kneels with clasped hands, facing a large open book inscribed with text. The background is a richly patterned mosaic of red, blue, and gold squares, suggesting a celestial or sacred space. The ground beneath the figures is green and appears to be grassy.",
+    "scene_interpretation": "The scene likely represents a divine revelation or the imparting of divine law. The presence of Christ, the supplicating figures, and the open book suggest a moment of spiritual enlightenment or the transmission of sacred knowledge. This could be interpreted as a representation of God revealing himself to a prophet or a saint, or perhaps the moment of inspiration for the scriptures.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f424/362,901,1009,1533/full/0/default.jpg"
+}

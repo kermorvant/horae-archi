@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts two figures attending to a third figure lying down. The figure on the left, wearing armor and a helmet, appears to be lifting or supporting the central figure. The figure on the right, also wearing a helmet, is leaning over the central figure, possibly attending to them. The central figure is lying on what appears to be a bed or a stretcher, with their head visible. The background is dark and textured, with vertical lines suggesting drapery or a tent-like structure. The overall impression is one of care or perhaps a somber event.",
+    "scene_interpretation": "Entombment of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0063/1096,2362,389,666/full/0/default.jpg"
+}

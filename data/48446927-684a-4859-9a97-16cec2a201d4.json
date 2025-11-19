@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in conversation, framed by stylized architectural elements. On the left, a winged figure, likely an angel, is shown with flowing hair and drapery, gesturing with both hands. Facing the angel is a bearded man wearing a hat and a robe, also gesturing. Behind them, simplified representations of buildings with arched windows and gabled roofs are visible. The overall composition suggests a narrative or devotional moment, possibly a divine visitation or message.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "gable",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0040/765,506,677,1203/full/0/default.jpg"
+}

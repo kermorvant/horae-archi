@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ carrying the cross, accompanied by several figures. Christ, wearing a dark robe and a halo, bears the weight of a large wooden cross. He is being pushed and pulled by other individuals. To his left, a man in a tan tunic and red hose gestures with his hand, appearing to urge Christ forward. Behind Christ, a figure in red seems to be supporting the cross. To Christ's right, a man in a blue tunic and red hat holds a trident-like weapon, and another figure in a green tunic and blue cap also appears to be involved in the procession. A man in a red tunic and dark hose, holding a spear, walks ahead of Christ. The setting is an outdoor landscape with rolling green hills and scattered trees under a blue sky. The scene is framed by decorative borders typical of illuminated manuscripts.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.20%2F050_B.11.20_f047v-f048r.jpg/737,374,1037,908/full/0/default.jpg"
+}

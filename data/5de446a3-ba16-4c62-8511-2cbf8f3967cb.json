@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, surrounded by a group of men, some wearing crowns and others religious habits. The figures are arranged in a semi-circle around Mary and Jesus. In the background, there are stylized architectural elements resembling buildings with towers and arched windows, suggesting an urban or ecclesiastical setting. The overall composition evokes a sense of reverence and communal gathering around the central figures of Mary and the Child.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0048/5929,487,652,1279/full/0/default.jpg"
+}

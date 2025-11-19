@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, an angel with wings kneels and presents a scroll to the Virgin Mary, who is seated on the right. The angel is dressed in red and blue, while Mary wears a blue robe with a red undergarment. Above the angel, a bearded figure, likely God the Father, is depicted in a blue sky, gesturing towards the scene. The background features a rich red tapestry with gold scrolling patterns. To the right of Mary, a golden architectural element, possibly a window or niche, is visible. The figures are rendered with halos, indicating their sacred status.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jd913tp1831%252F540_022_R_TC_46/346,667,1687,2070/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and with a halo, kneeling and breastfeeding the Christ Child. They are positioned in what appears to be a domestic interior, indicated by a large bed with drapery behind them. To the right, a wooden crib is visible. The figures are rendered with soft features, and the Virgin Mary is clad in a blue mantle over a lighter garment. The background is a rich gold, suggesting a devotional context. The scene is framed by an ornate border with foliate motifs.",
+    "scene_interpretation": "Madonna Lactans",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f296/691,552,774,912/full/0/default.jpg"
+}

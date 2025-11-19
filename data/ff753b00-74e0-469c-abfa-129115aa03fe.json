@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a nocturnal arrest, with figures in armor and helmets surrounding a central figure who is being embraced by another. The central figure, likely Christ, wears a blue robe and is being kissed by Judas. The surrounding figures are soldiers, armed with spears and carrying torches that illuminate the dark blue sky dotted with gold flecks, suggesting stars. The ground is rendered in earthy tones. This image illustrates the biblical event of the Kiss of Judas, which led to the arrest of Jesus.",
+    "scene_interpretation": "The Kiss of Judas",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Jesus",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0147/bge-lat0147_0018r.jp2/726,694,3389,4432/full/0/default.jpg"
+}

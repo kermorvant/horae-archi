@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a chair, engaged in spinning. She wears a blue robe and a white veil, with a golden halo around her head. Before her is a loom with white threads stretched taut, and she holds a spindle and a bundle of wool. To her left, a small, open chest contains various items. The background features a red tapestry with gold ornamentation and a grey stone wall with latticed windows above. The floor is a green and white checkered pattern. This scene likely represents the Virgin Mary's domestic life and her piety through the act of spinning, a common motif in devotional art.",
+    "scene_interpretation": "Virgin Mary spinning",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f105/1476,2781,888,768/full/0/default.jpg"
+}

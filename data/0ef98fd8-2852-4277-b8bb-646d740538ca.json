@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary, clad in a blue mantle and veil, cradling the lifeless body of Christ. Christ's body, marked by wounds and blood, is draped across her lap. He is partially covered by a white loincloth. Behind them, a green, hilly landscape is visible, with trees and distant mountains. To the right, a stylized depiction of a church with a tall spire rises against a blue sky. The composition is framed by a golden border.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515740c/f280/569,430,790,881/full/0/default.jpg"
+}

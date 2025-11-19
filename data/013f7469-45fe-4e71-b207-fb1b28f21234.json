@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Last Judgment. Christ, with wounds visible on his body, is enthroned in the upper register, surrounded by a radiant halo and seated on a globe. Below him, an angel descends, holding a trumpet. To the left and right of Christ are groups of figures, likely apostles or saints, seated on ornate benches. In the lower register, souls are being judged: on the left, angels guide souls upwards, while on the right, a monstrous demon presides over a pit of fire where souls are being tormented. The overall setting is celestial and infernal, framed by architectural elements suggestive of a Gothic archway.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_144/934,661,1535,2104/full/0/default.jpg"
+}

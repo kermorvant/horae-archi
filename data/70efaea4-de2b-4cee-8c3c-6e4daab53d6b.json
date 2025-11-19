@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands on a green checkered floor, holding an open book. He is dressed in elaborate blue and pink vestments. Behind him, a richly patterned red tapestry adorns the wall. To the right, three nude figures are partially submerged in a wooden tub. The scene is framed by an arched architectural element with a blue, star-studded vaulted ceiling and tall, multi-paned windows. This depiction likely represents a saintly bishop performing a miracle, possibly related to healing or baptism, given the presence of the nude figures in the tub.",
+    "scene_interpretation": "Miracle of a Bishop",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f300/693,103,1177,1729/full/0/default.jpg"
+}

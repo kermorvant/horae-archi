@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary on the left, dressed in blue and white, kneeling before an open book. Behind her is a red, ornate curtain. To the right, the Angel Gabriel, with wings and a golden halo, holds a lily and a scroll. A dove, representing the Holy Spirit, flies between them. Above the angel, through an arched opening, God the Father is depicted in a heavenly realm with clouds and a cross. The figures are framed by architectural elements suggesting an interior space, possibly a room or a chapel, with decorative columns and arches.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_du_Saulchoir/751135401_RES_MSC10/DEPOT/751135401_RES_MSC10_0026/3123,594,1325,1869/full/0/default.jpg"
+}

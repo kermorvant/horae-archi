@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ is shown on the cross, with blood dripping from his wounds. A figure on a ladder is attending to Christ, possibly anointing him or removing him from the cross. Below, the Virgin Mary, supported by another woman, grieves. A bearded man in blue and red robes stands to the right, observing the scene. In the background, rolling hills are visible, with a town or city featuring buildings with pitched roofs and towers in the distance. The overall scene is set outdoors.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1455841/1195,492,1344,2198/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a rustic stable setting. The Virgin Mary, with a halo, cradles the Christ Child, who is also haloed and holds a crown. Three Magi are present: one kneels, offering a crown; another holds a golden vessel; and the third, on the right, wears a crown and looks towards the child. A figure in a monk's habit kneels in prayer to the left, near a fire. In the background, a donkey and ox are visible within the stable structure. Beyond the stable, a landscape unfolds with rolling hills, a distant city under a starry blue sky with a prominent star, and figures on horseback. The entire scene is framed by an ornate, gilded arch decorated with floral motifs.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502614h/f185/696,310,1329,2104/full/0/default.jpg"
+}

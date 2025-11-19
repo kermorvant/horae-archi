@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint or religious figure, stands in a white habit, holding an open book on a red and gold stand. The figure's left hand is raised, palm outward, in a gesture of blessing or speech. Behind the figure is a decorative tapestry-like background composed of small, repeating squares in gold, blue, and brown. To the upper right, a shield with a heraldic device is visible. The lower portion of the scene depicts a grassy landscape with small yellow flowers, suggesting an outdoor setting. The overall impression is one of piety and scholarly devotion.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_004%2Fwidener_004_jp2.zip%2Fwidener_004_jp2%2Fwidener_004_0384.jp2/1484,1466,1475,2493/full/0/default.jpg"
+}

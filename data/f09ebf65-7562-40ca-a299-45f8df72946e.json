@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a grotesque, horned demon with a gaping mouth and wide eyes, looming over a seated figure who appears to be in distress. The seated figure, possibly a man, has a beard and is partially unclothed, with his legs crossed. To the right, a woman in a headdress and tunic looks on, her hand extended as if in concern or supplication. Behind the demon, architectural elements suggest a building, possibly a church or chapel, with a pointed arch and a small tower or spire visible. The overall impression is one of temptation or torment, with the demon representing evil and the other figures caught in its influence or observing its actions.",
+    "scene_interpretation": "Temptation of a Saint",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Demon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0062/5930,3507,588,1177/full/0/default.jpg"
+}

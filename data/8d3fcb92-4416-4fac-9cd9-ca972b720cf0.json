@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer outdoors, with his hands clasped and his gaze directed upwards. He is richly robed in a patterned garment with a white mantle. To his right, a harp and a small crown are placed on the ground. In the background, a rocky landscape transitions into rolling hills and a distant city. Above, a divine figure, possibly God the Father, is shown in a radiant halo, extending a hand. This imagery suggests a moment of divine revelation or supplication, likely representing David in prayer, as indicated by the presence of the harp and crown, symbols often associated with him.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.94/Ross.94_0278_fa_0136v.jp2/322,154,254,446/full/0/default.jpg"
+}

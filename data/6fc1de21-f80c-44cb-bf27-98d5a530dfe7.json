@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a hilly landscape with a winding path. In the foreground, a group of women, led by the Virgin Mary, approaches a man kneeling with his hands clasped in prayer. Behind them, several figures, likely disciples, are seen walking and conversing on the path. In the middle ground, a small red-roofed building is nestled among trees. In the background, a fortified castle stands on a rocky outcrop, and a city with numerous buildings and a body of water is visible in the distance. The overall scene is rendered with meticulous detail, characteristic of medieval manuscript illumination, and conveys a devotional atmosphere.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle",
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0127/1236,562,1901,2897/full/0/default.jpg"
+}

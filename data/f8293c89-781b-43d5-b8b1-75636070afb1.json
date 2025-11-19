@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, wearing a blue mantle and white veil, rides a donkey, holding the Christ Child. She has a golden halo. Behind her, two women with halos follow, one with reddish-brown hair and the other with blonde hair. To the left of the donkey, a man with a distinctive hat and a blue tunic, possibly Saint Joseph, walks alongside. The background is a stylized landscape with rolling green hills, trees, and a pale blue sky with golden streaks. The ground is rendered in pinkish-beige with black hatching and some green foliage. In the far distance, a rudimentary structure resembling a building with a pitched roof and windows is visible on a hill.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0040/685,693,2317,3409/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. Saint Joseph, an elderly man with a white beard and a turban-like hat, leads a donkey. The Virgin Mary, wearing a blue mantle over a brown tunic, is seated on the donkey, holding the Christ Child. The Christ Child, with a halo, is reaching out his hand. They are traveling through a landscape with rolling hills, trees, and scattered bushes. In the background, distant buildings with spires and windmills are visible. The scene is framed by an illuminated border with foliate motifs.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/15963762/258,276,1019,1519/full/0/default.jpg"
+}

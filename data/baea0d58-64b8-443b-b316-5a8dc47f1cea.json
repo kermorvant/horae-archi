@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, wearing a halo and an elaborate headdress, is seated on a donkey, holding the Christ Child. Saint Joseph, with a beard and wearing a tunic and cloak, walks beside the donkey, leading it by a rope. The background suggests an outdoor setting with stylized trees and a building with a domed roof in the distance. The sky is dark and dotted with stars, indicating nighttime or a celestial setting. The overall style is characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9061586h/f47/2774,774,1422,1319/full/0/default.jpg"
+}

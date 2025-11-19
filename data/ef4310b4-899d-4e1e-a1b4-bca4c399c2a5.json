@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the Virgin Mary cradling the body of Jesus in her lap. Several figures surround them, appearing to mourn. The figures are rendered in a stylized, woodcut-like manner. Above the figures, an architectural element resembling an arch frames the scene, with decorative elements suggesting a canopy or architectural surround. The setting is ambiguous, but the presence of the arch and the solemnity of the figures suggest a devotional or sacred context.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0020/614,2674,376,659/full/0/default.jpg"
+}

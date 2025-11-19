@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Last Judgment. Christ, with wounds visible on his body, is seated on a throne in the sky, surrounded by clouds. Two angels with trumpets are positioned on either side of him, blowing the instruments. Below, on a barren landscape, figures are emerging from graves, some in agony and despair, while others are being judged. To the left, a robed figure, possibly a saint or a supplicant, kneels with hands clasped in prayer. To the right, a bearded man, also kneeling and with hands clasped, appears to be interceding or praying. The overall atmosphere is one of divine judgment and the resurrection of the dead.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Angel",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110980/f193/243,189,1359,1624/full/0/default.jpg"
+}

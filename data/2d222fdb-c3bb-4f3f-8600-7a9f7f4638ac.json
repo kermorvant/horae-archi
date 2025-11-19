@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a blue mantle and pink undergarment, embracing Elizabeth, who wears a vibrant orange gown and a grey veil. Both figures have golden halos, indicating their saintly status. They stand in a garden setting with stylized green trees against a dark blue, star-like background. To the right, a stone building with arched openings and a small window is visible, suggesting a domestic or religious structure. The composition emphasizes the tender reunion and spiritual significance of the encounter.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.C.IV.111/Chig.C.IV.111_0093_fa_0041r.jp2/190,290,378,433/full/0/default.jpg"
+}

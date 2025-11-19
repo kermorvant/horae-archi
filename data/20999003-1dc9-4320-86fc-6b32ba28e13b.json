@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the body of Christ after his crucifixion. Christ's body, pale and marked with wounds, lies across his mother's lap. Mary, draped in a blue mantle and veil, gazes down at her son with sorrow. Behind them, a wooden cross stands against a backdrop of a mountainous landscape and a body of water, suggesting a desolate setting. The overall mood is one of profound grief and lamentation.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_008%2Fwidener_008_jp2.zip%2Fwidener_008_jp2%2Fwidener_008_0211.jp2/3118,922,2204,2773/full/0/default.jpg"
+}

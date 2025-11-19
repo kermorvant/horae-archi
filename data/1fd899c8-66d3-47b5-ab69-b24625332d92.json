@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a draped table. On the left, a bearded man wearing a cap holds a swaddled infant. To the right of the infant, a woman in a head covering looks towards the infant. Behind her, another woman stands, holding a staff. Further to the right, an elderly man with a beard and a dark robe stands, his hand resting on the shoulder of the woman in the foreground. The woman in the foreground is kneeling and looking towards the infant, with her hands clasped. The draped table is decorated with crosses. The figures are framed by architectural elements that suggest an interior setting, with decorative borders and what appear to be niches or small architectural features on the sides. The overall impression is one of a devotional scene, possibly the Presentation of Christ in the Temple or a related event, given the presence of the infant and the figures who could represent Simeon, Mary, and other attendants.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "niche",
+        "microarchitecture",
+        "ornamental_tracery",
+        "door"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9065943c/f52/3579,498,1941,3186/full/0/default.jpg"
+}

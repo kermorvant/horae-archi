@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a funeral procession or burial. In the foreground, two figures are engaged in placing a body, wrapped in white cloth, onto a wooden plank or bier. One figure, wearing a red tunic and blue hose, kneels and supports the body, while another figure in a grey tunic and red hat also assists. Behind them, a procession of figures in dark robes, some holding torches, moves forward. A central group includes a cleric in ornate vestments holding a book and a processional cross, accompanied by a child in a white robe holding a smaller cross and what appears to be a representation of the Christ Child. In the background, architectural elements suggest a church or religious building with arched openings and columns, under a sky with divine rays emanating from above. The overall scene is framed by decorative borders typical of illuminated manuscripts.",
+    "scene_interpretation": "Funeral Rites",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_208%2Flewis_e_208_jp2.zip%2Flewis_e_208_jp2%2Flewis_e_208_0221.jp2/6016,1701,4414,6569/full/0/default.jpg"
+}

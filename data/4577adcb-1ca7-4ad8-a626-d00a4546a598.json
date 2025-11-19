@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of clerics in a religious setting. On the left, several figures in white robes are gathered around a lectern with an open book. One figure holds a candle. In the center, a blue altar-like structure is adorned with gold trim and topped with two candelabra holding lit candles. To the right, a group of figures in black hooded robes stand solemnly. The floor is a checkered pattern of yellow and red tiles. The background is a rich gold with a repeating diamond pattern, suggesting a sacred or divine space.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "candlestick",
+        "lectern",
+        "wall"
+    ],
+    "persons": [
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_183_v2%2Flewis_e_183_v2_jp2.zip%2Flewis_e_183_v2_jp2%2Flewis_e_183_v2_0253.jp2/5058,2833,4805,6723/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a crowned figure kneeling with hands raised in prayer. The figure is dressed in a royal robe of pink lined with ermine, over a blue tunic. In the upper part of the image, a divine figure, possibly God the Father, is shown within a golden halo and blue wings, with rays of light descending towards the praying figure. The background features a landscape with rolling hills, trees, and a distant view of a fortified city with towers and spires, and a bridge with arches spanning a body of water. The overall composition suggests a moment of divine revelation or supplication.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "bridge"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0006/cea-0006_110r.jp2/610,394,1854,3262/full/0/default.jpg"
+}

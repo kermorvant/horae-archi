@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated centrally, her hands crossed over her chest, with a sorrowful expression. She is surrounded by a group of men, some with beards, who appear to be apostles or disciples. They are gesturing and looking towards Mary, some with hands clasped in prayer or contemplation. Above them, a golden halo emanates rays of light in red, green, and yellow, suggesting a divine presence or event. The figures are depicted indoors, on a floor with a patterned tile design. The overall composition evokes a moment of profound spiritual significance.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/d38f31b4-f015-41c7-9ce7-3dc62f418180/2127,1279,2009,2692/full/0/default.jpg"
+}

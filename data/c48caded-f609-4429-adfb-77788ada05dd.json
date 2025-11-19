@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely a beggar or a penitent, kneeling on the ground, his hands clasped in prayer. He is partially unclothed, with a white cloth draped around his waist. Behind him, a simple wooden structure with a triangular gable and what appears to be a door or opening is visible. To the right, three figures stand, two of whom are prominent. One figure, dressed in a vibrant blue robe and a straw hat, gestures with an open hand. Beside them, another figure in a rich red robe, trimmed with ermine and also wearing a straw hat, holds a scroll or document. The background shows a hint of architecture and foliage. This scene is interpreted as the Parable of the Rich Man and Lazarus, where Lazarus, a poor beggar, is shown in his suffering, while the rich man and others observe or perhaps ignore him.",
+    "scene_interpretation": "Parable of the Rich Man and Lazarus",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "gable",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Lazarus",
+        "Rich Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53014820r/f89/169,97,778,1231/full/0/default.jpg"
+}

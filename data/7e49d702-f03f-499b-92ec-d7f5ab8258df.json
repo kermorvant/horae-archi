@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, with a golden halo, is seated and cradles the Christ Child. Three Magi approach, one kneeling and offering a gift, while the other two stand. The figures are set against a backdrop of rolling green hills and a simple wooden structure with a thatched roof. The architectural elements are minimal, suggesting a humble setting for the Nativity.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sw741tz6027%2FW177_000142_1200/3206,2550,1459,2067/full/0/default.jpg"
+}

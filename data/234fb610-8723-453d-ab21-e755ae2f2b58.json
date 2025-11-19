@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and crozier, stands to the right, dressed in a red robe and a blue mantle adorned with gold trim. He holds his hands in a gesture of blessing or prayer. To the left, three unclothed figures, likely martyrs, are depicted within a wooden tub or vat, their hands clasped in prayer. Behind them, an arched opening reveals a glimpse of a landscape with blue hills and green foliage. The background behind the bishop is a red tapestry decorated with gold stars and asterisks. The scene appears to depict a saintly figure interacting with those undergoing martyrdom or purification.",
+    "scene_interpretation": "Martyrdom of Saints",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_060_059/DEPOT/210546201_S_060_059_0108/1480,1099,829,1150/full/0/default.jpg"
+}

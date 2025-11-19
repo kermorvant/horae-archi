@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus centrally positioned on the cross, his body emaciated and draped in a loincloth. To his left and right are two other figures also on crosses, appearing to be the two thieves. The figure on Christ's left is depicted with a more skeletal physique, while the figure on Christ's right shows a rounded belly. Behind them, three onlookers are visible: one in a red garment and two in green and dark garments, their faces turned towards the central event. The background is a shimmering gold leaf, suggesting a divine or celestial setting, with a dark ground beneath the figures. The crosses are rendered in blue, and the figures are painted with pale skin tones, emphasizing their suffering.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Thief"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515833p/f388/571,1260,1038,1029/full/0/default.jpg"
+}

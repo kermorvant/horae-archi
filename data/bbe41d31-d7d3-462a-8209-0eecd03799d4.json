@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The image depicts Saint John the Baptist, identifiable by his halo and traditional attire of animal skins, holding a lamb. He is shown in a landscape with a rocky outcrop to his left and a body of water in the background. Behind the landscape, a walled city with towers and a prominent spire is visible. The scene is framed by an ornate, gilded arch with decorative elements.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501939c/f313/333,398,922,1304/full/0/default.jpg"
+}

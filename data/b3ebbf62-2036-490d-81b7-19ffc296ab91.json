@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a rocky, outdoor setting with a castle in the background. In the foreground, a man in a blue robe with a halo lies on the ground, seemingly in distress or undergoing an ordeal. Another figure, dressed in a red robe, kneels over him, holding a rosary and appearing to pray or plead. Several other figures stand to the left, observing the scene. The overall impression is one of a dramatic or spiritual event unfolding in a natural landscape, framed by an architectural element on the left.",
+    "scene_interpretation": "Martyrdom",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f532/1086,1646,848,2310/full/0/default.jpg"
+}

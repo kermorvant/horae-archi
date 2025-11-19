@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, with hands clasped in prayer and a halo, kneels beside the Christ Child, who lies naked on the ground. A donkey stands over the child, its head bowed. Behind them, Saint Joseph, also with a halo and wearing a hooded robe, looks on. The figures are set against a backdrop of rudimentary architectural elements, including a wall and what appears to be a vaulted ceiling or archway, suggesting an enclosed, humble setting for the birth.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0037/5926,1989,577,1028/full/0/default.jpg"
+}

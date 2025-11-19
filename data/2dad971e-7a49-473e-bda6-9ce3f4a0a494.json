@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a pink robe and holding a small book, standing and looking down. Facing her, Elizabeth, clad in an orange mantle over a grey tunic and white head covering, kneels and embraces Mary's abdomen. Both figures wear golden halos. The background is a vibrant blue with swirling, decorative patterns, possibly representing a celestial or stylized natural setting. The foreground is a textured, undulating landscape with sparse vegetation. The entire scene is framed by an ornate border.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f421/383,656,1031,1362/full/0/default.jpg"
+}

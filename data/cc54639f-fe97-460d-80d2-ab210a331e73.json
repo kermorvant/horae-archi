@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel, wings outstretched and adorned in a golden robe, kneeling and addressing the Virgin Mary. He holds a staff and rays of divine light descend from him towards Mary. The Virgin Mary, dressed in a blue mantle over a golden tunic, kneels with clasped hands, looking upwards with a halo indicating her sanctity. She is seated near a book on a desk. Behind her is a richly decorated bed with a red coverlet and a white pillow. The setting appears to be an interior space with architectural elements such as a balustrade and windows with tracery in the background. The overall scene is rendered with vibrant colors and intricate detail, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "roof",
+        "wall",
+        "stairs",
+        "undefined_element"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550106099/f58/318,360,860,1371/full/0/default.jpg"
+}

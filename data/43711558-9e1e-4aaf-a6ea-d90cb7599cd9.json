@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A bearded man wearing a pink robe and a crown stands on the left, gesturing with his hands. Facing him on the right is a crowned woman, also with a halo, dressed in a blue robe and a golden mantle. She holds a staff topped with a red banner and a cross, and in her other hand, she holds a chalice containing a white host. Behind her stand two men, one with a beard and the other with a white cap. The background features a decorative blue tapestry with golden foliage. The scene is set on a green ground.",
+    "scene_interpretation": "The scene likely depicts Saint Helena presenting the True Cross or a relic to a king, possibly Constantine the Great, or a symbolic representation of royalty. The chalice with the host could also allude to the Eucharist or a specific saintly attribute.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Helena",
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0037/1553,2495,911,909/full/0/default.jpg"
+}

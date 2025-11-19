@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a brutal act of violence against infants, likely the Massacre of the Innocents. In the foreground, a soldier in full armor holds a baby aloft, preparing to strike it with his sword, while another infant lies on the ground, seemingly already slain, covered by a pink cloth. A woman in an orange dress kneels, reaching out towards the infant being held. Behind them, a man in a blue robe and a distinctive hat, possibly a king or a figure of authority, gestures towards the scene, accompanied by a person in a pink headdress holding a scepter. In the background, a walled city with towers and spires is visible, set against a green landscape with trees. The overall impression is one of chaos and cruelty, underscored by the presence of armed soldiers and the vulnerability of the infants.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "King",
+        "Soldier"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zs503zt2162%2FW240_000428_1200/4967,976,2571,4878/full/0/default.jpg"
+}

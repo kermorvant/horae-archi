@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, possibly a prophet or saint, is depicted holding a banner inscribed with the word \"Iona\". The figure wears a headdress and a garment adorned with a circular pendant. The scene is framed by architectural elements, including a column on the left and an ornate arch above the figure. The background appears to be a decorative border with text and colored elements, suggesting it is part of a larger illuminated manuscript page.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0039/3303,3374,623,569/full/0/default.jpg"
+}

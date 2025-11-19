@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a king, identified by his crown and regal attire, seated on a white parapet of a building, gesturing with his hands. He appears to be looking towards a figure seated in a cloud-like formation in the upper right. This figure, with a halo, is writing on a scroll, with a bird perched nearby. In the background, a fortified building with a tower and a smaller adjacent structure is visible, along with a distant cityscape. The overall setting is a landscape with rolling hills and greenery.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "arch",
+        "roof",
+        "window",
+        "battlement"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0006/cea-0006_013r.jp2/675,394,2275,2985/full/0/default.jpg"
+}

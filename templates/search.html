@@ -1,0 +1,178 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="columns" style="width: 100%; margin: 0;">
+
+    <!-- LEFT FILTER COLUMN -->
+    <div class="column is-2" style="min-width: 260px;">
+
+        <div style="position: sticky; top: 20px;">
+
+            <form method="POST" class="box" style="height: fit-content;">
+
+                <h1 class="title is-4">Search</h1>
+
+                <!-- GLOBAL SEARCH -->
+                <div class="field">
+                    <label class="label">Global keyword search</label>
+                    <div class="control">
+                        <input class="input" type="text" name="query" 
+                               placeholder="keywords..."
+                               value="{{ query }}">
+                    </div>
+                </div>
+
+                <hr>
+
+                <h2 class="title is-6">Scene & Interpretation</h2>
+
+                <div class="field">
+                    <label class="label">Scene description</label>
+                    <input class="input" type="text" name="f_scene_desc"
+                           value="{{ f_scene_desc }}">
+                </div>
+
+                <div class="field">
+                    <label class="label">Scene interpretation</label>
+                    <input class="input" type="text" name="f_scene_interp"
+                           value="{{ f_scene_interp }}">
+                </div>
+
+                <div class="field">
+                    <label class="label">Spatial context</label>
+                    <div class="select is-fullwidth">
+                        <select name="f_spatial">
+                            <option value=""></option>
+                            <option value="indoor" {% if f_spatial == "indoor" %}selected{% endif %}>indoor</option>
+                            <option value="outdoor" {% if f_spatial == "outdoor" %}selected{% endif %}>outdoor</option>
+                            <option value="mixed_indoor_outdoor" {% if f_spatial == "mixed_indoor_outdoor" %}selected{% endif %}>mixed</option>
+                            <option value="metaphysical" {% if f_spatial == "metaphysical" %}selected{% endif %}>metaphysical</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="field">
+                    <label class="label">Architectural context</label>
+                    <div class="select is-fullwidth">
+                        <select name="f_arch">
+                            <option value=""></option>
+                            <option value="no_architecture" {% if f_arch == "no_architecture" %}selected{% endif %}>no architecture</option>
+                            <option value="religious_architecture" {% if f_arch == "religious_architecture" %}selected{% endif %}>religious</option>
+                            <option value="civic_architecture" {% if f_arch == "civic_architecture" %}selected{% endif %}>civic</option>
+                            <option value="military_architecture" {% if f_arch == "military_architecture" %}selected{% endif %}>military</option>
+                            <option value="undefined_architecture" {% if f_arch == "undefined_architecture" %}selected{% endif %}>undefined</option>
+                        </select>
+                    </div>
+                </div>
+
+                <hr>
+
+                <h2 class="title is-6">Architecture & Persons</h2>
+
+                <div class="field">
+                    <label class="label">Building types</label>
+                    <input class="input" type="text" name="f_buildings"
+                           value="{{ f_buildings }}">
+                </div>
+
+                <div class="field">
+                    <label class="label">Architectural elements</label>
+                    <input class="input" type="text" name="f_elements"
+                           value="{{ f_elements }}">
+                </div>
+
+                <div class="field">
+                    <label class="label">Persons</label>
+                    <input class="input" type="text" name="f_persons"
+                           value="{{ f_persons }}">
+                </div>
+
+                <div class="field mt-4">
+                    <button class="button is-primary is-fullwidth">Search</button>
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+    <!-- RIGHT RESULTS COLUMN (FULL WIDTH) -->
+    <div class="column is-10" style="padding-left: 30px;">
+
+        <h2 class="title is-4">
+            Results: {{ total_results }}
+            {% if total_results > 0 %}
+                (page {{ page }} / {{ total_pages }})
+            {% endif %}
+        </h2>
+
+        {% include "pagination.html" %}
+
+            <div class="columns is-multiline" style="margin-top: 20px;">
+
+                {% for rec in results %}
+                <div class="column is-one-sixth">  <!-- EXACTLY 8 per row -->
+                    <div class="card result-card" style="height: 100%; font-size: 1rem;">
+
+                        <!-- IMAGE -->
+                        <div class="card-image" style="padding-top: 5px; text-align:center;">
+                            {% if rec.image_url %}
+                                <figure class="image">
+                                    <img src="{{ rec.image_url }}" 
+                                        alt="" 
+                                        style="width: 100%; height: auto; border:1px solid #ccc;">
+                                </figure>
+                            {% endif %}
+                        </div>
+
+                        <!-- CARD CONTENT -->
+                        <div class="card-content" style="padding: 6px;">
+                            <p><strong>Description:</strong><br>
+                                {{ rec.scene_description_enriched }}
+                            </p>
+                            <p><strong>Interpretation:</strong><br>{{ rec.scene_interpretation }}</p>
+                            <p><strong>Spatial:</strong> {{ rec.spatial_context }}</p>
+                            <p><strong>Architecture:</strong> {{ rec.architectural_context }}</p>
+
+                            <p><strong>Buildings:</strong><br>
+                                {{ rec.building_types | join(", ") }}
+                            </p>
+
+                            <p><strong>Elements:</strong><br>
+                                {{ rec.architectural_elements | join(", ") }}
+                            </p>
+
+                            <p><strong>Persons:</strong><br>
+                                {% for p in rec.persons %}
+                                    <span class="tag is-info is-light is-size-7">{{ p }}</span>
+                                {% endfor %}
+                            </p>
+
+                            {% set arkindex_id = rec._filename.replace('.json', '') %}
+                            <p style="margin-top: 5px;">
+                                <a class="button is-link is-light is-small is-fullwidth"
+                                href="https://demo.arkindex.org/element/{{ arkindex_id }}"
+                                target="_blank">
+                                Arkindex →
+                                </a>
+                            </p>
+
+                        </div>
+
+                    </div>
+                </div>
+                {% endfor %}
+
+            </div>
+
+
+
+        {% include "pagination.html" %}
+
+    </div>
+
+</div>
+
+{% endblock %}

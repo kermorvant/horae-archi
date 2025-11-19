@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, with a golden halo, kneels in prayer before the Christ Child, who lies in a manger surrounded by straw. To the left, two figures peer through an arched opening, one pointing towards the scene. To the right, a bearded man in a green hood and yellow robe also prays, his hands clasped. In the background, the heads of a donkey and an ox are visible, and a single candle burns on a golden stand. The architecture suggests a simple, rustic structure with wooden beams and walls, and small, recessed windows.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jt399mb8580%2FW281_000161_1200/1802,766,2648,4639/full/0/default.jpg"
+}

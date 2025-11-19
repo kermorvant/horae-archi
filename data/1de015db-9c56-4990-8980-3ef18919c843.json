@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two figures, likely monks or penitents, seated outdoors in a landscape setting. The figure on the left, with a beard and long hair, wears a golden-brown habit and white hose. The figure on the right, with a hood covering their head, wears a reddish-brown habit and white hose. Both figures have their hands clasped in prayer. Behind them, a lush green landscape with trees and bushes unfolds, leading to a distant blue landscape with stylized hills and fortified structures. Above, a radiant divine light emanates from a blue celestial sphere, suggesting divine presence or intervention. The scene is framed by an arched architectural element, possibly representing a portal or a decorative border.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025268t/f62/550,145,1062,1110/full/0/default.jpg"
+}

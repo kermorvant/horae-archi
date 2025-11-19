@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with God the Father positioned behind him, supporting the cross. Christ is shown with a halo and a crown of thorns, his body emaciated and draped in a white loincloth. God the Father, also with a halo, wears a blue robe and a crown, and holds a tablet inscribed with 'IMRI'. The figures are set against a backdrop of patterned curtains and architectural elements, including what appear to be stained-glass windows. The foreground features a checkered floor and decorative architectural elements, suggesting a divine or celestial setting.",
+    "scene_interpretation": "The Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/my189pm5441%2FW202_000054_1200/3859,1827,1670,2953/full/0/default.jpg"
+}

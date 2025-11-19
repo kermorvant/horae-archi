@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a central seated woman, who is likely the Virgin Mary, with her hands clasped in prayer. She is wearing a veil and a richly patterned robe. To her left, a bearded man also clasps his hands in prayer, and above him, a dove descends with rays of light, suggesting divine inspiration. To the right of the central figure, another bearded man looks upwards with his hands raised in supplication. The figures are positioned within an architectural setting suggested by arches and columns, with foliage or drapery above. This scene is interpreted as the Pentecost, where the Holy Spirit descends upon the Virgin Mary and the Apostles.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auch/Bibliotheque_municipale/320136201_IMPR1064/DEPOT/320136201_IMPR1064_0102/3908,2696,799,1673/full/0/default.jpg"
+}

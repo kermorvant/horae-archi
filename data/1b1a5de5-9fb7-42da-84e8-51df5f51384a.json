@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts a woman in profile, wearing a headdress and a draped garment. She is holding a vertical object, possibly a staff or a cross, in her left hand. To her right, a banner unfurls with text inscribed on it. The background suggests an architectural setting with decorative elements, including what appears to be an arch and patterned walls. The overall style is that of a woodcut or engraving, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "The figure is likely a saint or a biblical character, possibly identified by the text on the banner. Without further context or clearer inscription, a definitive interpretation is not possible. However, the presence of a banner and the devotional posture suggest a religious context.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0014/2858,4110,602,652/full/0/default.jpg"
+}

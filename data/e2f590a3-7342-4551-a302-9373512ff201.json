@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, bearing the cross, with visible wounds. He is flanked by two figures. To his left, a figure in an orange tunic looks up at Christ with hands clasped. To his right, a figure in a blue tunic holds a bundle of nails and a green leafy branch. The background is a rich gold leaf, suggesting a divine or sacred context, with an architectural element of an arched frame behind Christ. The overall composition is framed by decorative borders.",
+    "scene_interpretation": "Christ Carrying the Cross",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zw200wd8767/W34_000073_300/341,366,1167,1867/full/0/default.jpg"
+}

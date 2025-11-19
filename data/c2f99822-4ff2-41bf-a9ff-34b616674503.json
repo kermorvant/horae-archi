@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered together, illuminated by golden halos, suggesting they are saints or apostles. At the center, a woman in a blue mantle, likely the Virgin Mary, is seated with her hands clasped in prayer or contemplation. Beside her, another figure, possibly an apostle, looks towards her. Above them, a dove, symbolizing the Holy Spirit, descends from a radiant blue sky, with golden rays emanating downwards. The figures are seated on what appear to be stone benches, and the ground is covered with a patterned textile. The overall composition is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0028/DEPOT/352386106_MS0028_0063/3747,566,1480,2047/full/0/default.jpg"
+}

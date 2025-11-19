@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Matthew writing in a book, seated at a desk. An angel, likely the Angel Gabriel, stands behind him, appearing to inspire or guide his writing. The interior space is characterized by a brick wall and a checkered floor. Through an open doorway, a landscape is visible with a river, rolling hills, and a castle in the distance. Another figure, possibly a disciple or an observer, is seen looking out from the doorway into the landscape. The scene is framed by an ornate arch with decorative elements.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door",
+        "window"
+    ],
+    "persons": [
+        "Saint Matthew",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326055/f397/554,213,1518,2213/full/0/default.jpg"
+}

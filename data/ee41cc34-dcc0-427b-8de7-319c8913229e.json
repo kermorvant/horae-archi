@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A young, haloed figure, likely Saint John the Evangelist, is depicted kneeling outdoors, writing on a scroll. To his left, a large eagle, his traditional symbol, holds the end of the scroll in its beak, also appearing to write or dictate. The figure wears a golden tunic and a rose-colored mantle. The background features a rocky outcrop, lush green trees with white blossoms, rolling hills, and a distant, idealized city with towers and spires. Golden rays emanate from the top of the image, suggesting divine inspiration. The scene is framed by an ornate border with floral motifs.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0143/DEPOT/315556101_MS0143_0132/4181,526,1541,2226/full/0/default.jpg"
+}

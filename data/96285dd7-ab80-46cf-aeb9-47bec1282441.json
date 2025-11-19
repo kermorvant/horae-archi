@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two women in conversation, with one, dressed in a blue robe, holding the hand of the other, who is clad in a red cloak and a white veil. Behind them, a pink building with a pitched roof and a tall, narrow window is visible, suggesting a domestic or religious setting. The overall atmosphere is one of gentle interaction within a semi-rural environment, indicated by the presence of greenery and uneven ground.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.101/Ross.101_0148_fa_0067v.jp2/193,101,328,536/full/0/default.jpg"
+}

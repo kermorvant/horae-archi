@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within a partially visible architectural setting. On the left, a figure in a blue robe stands, facing right. In the center, two figures are interacting, one possibly kneeling or bowing, dressed in pink and green. To the right, another figure in yellow and green is visible. The background suggests an interior space with a doorway or opening. Decorative green foliage frames the upper portion of the scene. The overall impression is of a devotional or biblical narrative.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/ff688vm4417%2FW166_000013_600/181,239,2302,3736/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Jesus, barefoot and clad in a purple robe, speaking to a group of people. To his left, two men in green and yellow robes listen intently, one pointing. To his right, a woman kneels, her hands clasped over her chest, dressed in a yellow tunic and blue robe. Behind her, two men, one in a red robe and the other in a white garment, observe. The setting appears to be a rocky, cave-like environment with sparse vegetation. The inscription at the bottom suggests a religious context, likely related to a biblical narrative.",
+    "scene_interpretation": "Resurrection of Lazarus",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Jesus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.9495/Vat.lat.9495_0130_pr_0105.jp2/221,129,478,677/full/0/default.jpg"
+}

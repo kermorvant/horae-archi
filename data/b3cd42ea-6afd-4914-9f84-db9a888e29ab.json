@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts two couples interacting within an architectural framework. On the left, a man adjusts the red cap of a woman who is holding his hand. Both are richly dressed. To the right, framed by an archway, another couple sits together, the woman in blue and the man in yellow and green. Behind them, a castle with towers and crenellations is visible, set against a landscape with trees and water. The overall scene is framed by ornate golden columns and arches with inscriptions.",
+    "scene_interpretation": "Courtly Love",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "battlement",
+        "crenellation",
+        "roof",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_008/264,1019,1379,1061/full/0/default.jpg"
+}

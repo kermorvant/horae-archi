@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A woman with long, wavy hair and a headdress stands within an architectural setting. She is dressed in a long robe and holds a book in her hands. To her right, an architectural element with pointed arches and decorative tracery is visible. The background behind her is filled with a stippled pattern, suggesting a decorative or symbolic space. The scene likely depicts a devotional figure, possibly a saint or a donor, engaged in prayer or contemplation.",
+    "scene_interpretation": "Devotional Figure",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "ornamental_tracery",
+        "microarchitecture"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0043/1764,3724,358,602/full/0/default.jpg"
+}

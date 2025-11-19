@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A crowned figure, likely King David, is depicted seated within an architectural setting, possibly a tower or chamber. He wears a royal blue robe lined with ermine and a golden crown. In his hands, he holds two hammers, poised to strike. Before him rests a large, ornate object, possibly a musical instrument or a bell, with several bells hanging above it. The background features a starry blue sky and architectural elements suggesting a fortified structure. The scene is framed by an arched border adorned with floral motifs.",
+    "scene_interpretation": "David Playing the Harp",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof",
+        "battlement",
+        "canopy"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0032/bge-lat0032_115r.jp2/787,564,2879,4109/full/0/default.jpg"
+}

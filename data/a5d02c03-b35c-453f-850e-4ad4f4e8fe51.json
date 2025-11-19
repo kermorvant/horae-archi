@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A female saint, identifiable by her halo, is depicted in prayer with her hands clasped and a small cross held above them. She wears a blue gown adorned with gold patterns. To her left, a monstrous, demonic figure with a gaping mouth and sharp teeth is shown, its jaws holding a blue cloth. The background suggests an interior architectural setting with grey walls and what appear to be pilasters or columns. The saint is positioned on the back of a serpentine creature, possibly representing the devil or a demon, which is coiled around her. This scene likely depicts the triumph of faith over evil, a common theme in Christian iconography.",
+    "scene_interpretation": "Triumph of a Female Saint over a Demon",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f194/881,1270,653,687/full/0/default.jpg"
+}

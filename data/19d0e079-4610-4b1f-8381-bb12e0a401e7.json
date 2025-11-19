@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A male figure, depicted with a halo and long, light brown hair, is shown from the chest up. He wears a pink outer garment over a green tunic. His left hand holds a golden chalice, which appears to contain a small bird or dragon-like creature. His right hand is raised, with fingers extended, as if in the act of blessing or pouring. The background is a vibrant blue, adorned with gold decorative script and a gold halo around the figure's head. The scene is framed by a golden architectural element, suggesting an archway or niche.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "halo",
+        "arch"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yk435gb3262%2FW178_000431_1200/508,3512,1037,1392/full/0/default.jpg"
+}

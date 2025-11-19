@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Virgin Mary kneels before a lectern with an open book, her hands raised in a gesture of surprise or acceptance. A canopy bed is visible behind her. On the right, the Angel Gabriel kneels, holding a scroll inscribed with \"Ave Maria\". Rays of light descend from above, symbolizing divine intervention, and a dove, representing the Holy Spirit, is depicted in the upper center. The figures are set against a patterned tapestry and a tiled floor, framed by arches and architectural elements suggesting an interior space.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036467s/f19/2746,693,926,1195/full/0/default.jpg"
+}

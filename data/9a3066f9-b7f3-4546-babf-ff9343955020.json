@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary. Christ, with a radiant halo, places a crown upon the head of the kneeling Virgin Mary, who is dressed in a blue mantle and has her hands clasped in prayer. They are positioned on a golden staircase. Behind the Virgin Mary, a multitude of angels, some playing musical instruments like organs and flutes, are arranged in rows, their faces turned towards the central figures. Above them, a celestial choir of angels with blue wings and halos fills the upper portion of the scene. The architectural elements consist of ornate golden columns with sculpted figures and decorative elements on either side, framing the scene.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "stairs",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f302/1274,1276,3061,3890/full/0/default.jpg"
+}

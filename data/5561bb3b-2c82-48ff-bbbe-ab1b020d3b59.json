@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, wearing a blue mantle and a golden halo, rides a donkey, cradling the Christ Child. Joseph, an elderly man with a white beard and a red cap, walks behind, carrying a bundle on his shoulder. An angel with vibrant orange wings and a white tunic, also barefoot, walks alongside the donkey, gesturing forward. The background is a stylized landscape with rolling green hills and a tree, set against a deep blue sky with gold flecks, suggesting a celestial or divine presence.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828264/381,286,1450,2069/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a nude woman with clasped hands, seated and looking upwards. Beside her, a nude man reclines with his head resting on his hand. A robed male figure with a halo stands to the left, reaching towards the seated woman. Behind the figures, architectural elements suggest a structured setting, including what appears to be a large vessel or font and decorative architectural framing. The composition suggests a narrative of creation or temptation, likely depicting Adam and Eve with God.",
+    "scene_interpretation": "Creation of Eve",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Adam",
+        "Eve",
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0065/802,431,690,1203/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A figure, likely a king or high-ranking cleric, is depicted wearing a crown and ornate robes. The figure is shown in profile, looking to the left, with hands clasped in front. The background features architectural elements suggesting an interior setting, possibly a church or palace, with a large arched structure and decorative columns. The scene is rendered in a woodcut style, typical of early printed books.",
+    "scene_interpretation": "This image likely depicts a royal or ecclesiastical figure, possibly a king in prayer or a bishop. Without further context or accompanying text, a specific biblical or devotional scene cannot be definitively identified. However, the regal attire and the architectural setting suggest a scene of importance within a religious or courtly context.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0020/3245,2984,244,389/full/0/default.jpg"
+}

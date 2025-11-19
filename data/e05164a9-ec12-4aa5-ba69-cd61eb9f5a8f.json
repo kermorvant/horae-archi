@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three figures against a decorative gold and red patterned background. In the upper left, an angel with blue wings and a red halo is shown descending, holding a golden crown. Below, two figures stand side-by-side. The figure on the left, with a green robe and a red undergarment, holds a golden book and a palm frond. The figure on the right wears a blue robe and also holds a palm frond. Both figures have golden halos, suggesting they are saints. The angel appears to be bestowing the crown upon one or both of them. The overall composition suggests a scene of martyrdom or heavenly reward.",
+    "scene_interpretation": "Martyrdom",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024827n/f650/1059,597,923,1274/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "Within a circular frame adorned with blue and gold decorative elements, a scene unfolds featuring two figures and a horse. The figure on the left, partially obscured, appears to be a man with reddish hair. To his right, another figure, also male, with a beard and wearing a blue tunic and gold-patterned leggings, is shown interacting with a brown horse. The horse's head is turned towards the bearded figure, its muzzle close to the figure's face. The background is a neutral, textured beige. The scene is contained within a circular border, suggesting it might be a medallion or a decorative element within a larger manuscript.",
+    "scene_interpretation": "The scene is likely an illustration of Saint George and the Dragon, a popular subject in medieval art. The bearded figure could represent Saint George, and the horse is his mount. While the dragon is not depicted, the interaction between the saint and his horse is a common motif in depictions of this legend, often preceding or following the main event of slaying the dragon.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00058/637,1633,560,626/full/0/default.jpg"
+}

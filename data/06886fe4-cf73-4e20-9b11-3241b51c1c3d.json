@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a bishop, identifiable by his mitre and vestments, standing in a richly decorated interior. He is gesturing with his right hand and holding a staff in his left. To his left, a group of figures, possibly representing the faithful or a specific biblical event, are depicted in a huddled mass. To his right, a figure in black, likely a monk or nun, kneels in prayer. The background features an arched architectural structure with windows, suggesting an ecclesiastical setting. The floor is tiled in a green and white checkered pattern, and the wall behind the figures is adorned with a red tapestry featuring gold ornamentation. The overall scene is framed by decorative floral elements and gold leaf, typical of illuminated manuscripts.",
+    "scene_interpretation": "Saint Nicholas",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/62939064/63503807.tif/661,471,1614,2420/full/0/default.jpg"
+}

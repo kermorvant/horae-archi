@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi under a simple wooden shelter with a tiled roof. The Virgin Mary, with a golden halo, holds the Christ Child, who is also haloed and reaches for a golden chalice. Three Magi, distinguished by their crowns, are present. One kneels, offering a golden chalice, while another stands, holding a golden box. The third, also standing, holds a golden chalice. A radiant star with golden rays shines in the blue, star-filled sky above. The figures are rendered in a stylized, medieval manner, with rich colors and gold leaf accents.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS2005_1_1/DEPOT/M441095203_MS2005_1_1_0043/1353,812,1429,1691/full/0/default.jpg"
+}

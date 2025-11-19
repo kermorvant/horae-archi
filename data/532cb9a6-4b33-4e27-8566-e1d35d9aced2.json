@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael the Archangel, clad in armor, standing triumphantly over a defeated demon. Saint Michael holds a sword raised high, ready to strike, and a shield. The demon lies prostrate beneath his feet, appearing defeated and perhaps in pain. The background is a barren landscape with some rocky formations and sparse vegetation, suggesting an earthly or perhaps infernal setting. The entire scene is framed by an arched border, typical of manuscript illumination.",
+    "scene_interpretation": "The Triumph of Saint Michael",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9065943c/f127/4034,824,819,1210/full/0/default.jpg"
+}

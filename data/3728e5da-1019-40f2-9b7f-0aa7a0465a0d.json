@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Noah's Ark, with a large, wooden vessel dominating the composition. A white sail is unfurled, and a mast rises from the deck. Two figures, presumably Noah and his wife, are visible inside the ark, tending to animals. A ramp extends from the ark to the shore, where various animals, including horses, sheep, deer, rabbits, a porcupine, and a peacock, are either boarding or gathered. A dragon flies in the sky above the ark, and a sun with a radiant halo shines. The setting is a body of water with a green, grassy landscape on the left, populated by more animals. The entire scene is framed by an arched border adorned with floral motifs and gold leaf.",
+    "scene_interpretation": "The Gathering of Animals on Noah's Ark",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Noah",
+        "Noah's wife"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/pr444bb2006%2FW292_000104_1200/5055,522,3378,5159/full/0/default.jpg"
+}

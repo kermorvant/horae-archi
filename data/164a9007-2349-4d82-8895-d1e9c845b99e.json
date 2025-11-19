@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a central presentation. On the left, a woman in a white headdress holds a basket. In the center, a woman veiled in dark cloth holds a nude infant. To her right, a bearded man with a dark cap looks down at the infant. Another bearded man, dressed in white and wearing a conical hat, receives the infant, holding a dark cloth. Several other figures are visible in the background, some with head coverings. Above the figures, a decorative crown-like element is suspended. The setting appears to be indoors, with architectural elements suggesting a religious or ceremonial space, possibly indicated by the inscription at the bottom which reads 'ISTE EST QUI TORIV MEV IT'.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037275w/f78/499,174,856,1500/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Jerome, is depicted seated and writing. He wears a turban-like headdress and a cloak draped over his shoulders. He is shown in profile, looking down at a scroll or book on his lap, with a quill in his right hand. To his right, a lion's head forms part of the structure he is seated upon. The scene is framed by architectural elements, suggesting an interior setting. The background features decorative patterns. This scene likely represents Saint Jerome, the translator of the Bible into Latin, in the act of his scholarly work, often depicted with his attribute, the lion.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032288x/f22/2177,1189,736,748/full/0/default.jpg"
+}

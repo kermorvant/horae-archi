@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Angel Gabriel, with large, colorful wings, approaches the Virgin Mary. He holds a lily and a scroll inscribed with \"NE MAR[IA] GRATIA PLENA\". The Holy Spirit, in the form of a dove, descends from a cloudy sky towards Mary. The Virgin Mary, on the right, is shown kneeling with her hands clasped in prayer, her head bowed, and a halo around her head. She is seated on a red cushion. Behind her, a book lies open on a golden surface, and a richly draped curtain hangs. The setting appears to be an interior space with a tiled floor and a view of a distant landscape through an arched opening.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14936/Vat.lat.14936_0063_fa_0028r.jp2/266,109,577,812/full/0/default.jpg"
+}

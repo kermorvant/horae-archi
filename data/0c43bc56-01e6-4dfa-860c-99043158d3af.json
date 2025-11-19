@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The upper register depicts the Crucifixion of Christ, flanked by two thieves on crosses. Christ, wearing a loincloth, is nailed to the central cross. To his left, the Virgin Mary, draped in a white veil and blue robe, kneels with hands clasped in prayer. To his right, a figure in blue and red robes, likely John the Evangelist, leans forward with head bowed. In the background, a landscape with rolling hills and a distant castle is visible under a blue sky. The lower register shows a group of figures in a garden setting. Christ, in blue robes, is seated with his head in his hands, while other figures in blue and purple robes are also seated or kneeling. A figure in a brown robe holds a lantern and looks out from a doorway. A group of soldiers, some armed, approach from the right. The scene is divided into two distinct registers, suggesting a narrative progression.",
+    "scene_interpretation": "Crucifixion and Arrest of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door",
+        "roof"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_060/1045,681,1599,2097/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts two women standing outside a building with a barred window. The woman on the left wears a blue robe and holds a dark, lidded vessel. The woman on the right wears a red dress and carries a basket. Behind the bars of the window, a person with a beard and wearing a red garment is visible. The background is a simple green landscape under a purple sky, framed by decorative blue and gold foliage. This scene likely represents the Visitation, with Mary and Elizabeth meeting, and the figure behind bars possibly alluding to a confinement or a symbolic representation of a spiritual state.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f115/792,2142,461,509/full/0/default.jpg"
+}

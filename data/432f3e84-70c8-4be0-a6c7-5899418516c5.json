@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, bleeding and crowned with thorns. Two angels with colorful wings attend to him, one with arms crossed and the other reaching out. Below the cross, a man in rich attire, possibly a donor, kneels. A figure in dark clothing holds a red heart towards Christ's feet, where a nail pierces them. Two young children, one in blue and the other in pink, kneel in prayer. The background is a brick wall and a blue sky with clouds. Inscriptions are visible on the cross and on the wall.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502484n/f103/754,624,1931,2634/full/0/default.jpg"
+}

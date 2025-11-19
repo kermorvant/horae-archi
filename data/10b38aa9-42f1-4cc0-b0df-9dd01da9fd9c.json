@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity, with the Virgin Mary kneeling in prayer to the right, her hands clasped. To the left, a figure, likely Saint Joseph, kneels and looks towards the Christ Child. The infant Jesus lies on the ground, radiating a golden halo. A bull and a donkey are present, symbolizing their presence at the manger. Above them, a dove descends, representing the Holy Spirit. The figures are situated within a rustic stable structure with a thatched roof. In the background, rolling hills are dotted with trees, and a fortified castle or town is visible on a distant hill. The entire scene is framed by an illuminated border with floral motifs and gold ornamentation.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509634r/f76/1111,217,1846,2617/full/0/default.jpg"
+}

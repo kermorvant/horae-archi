@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A figure, likely female, kneels in a green landscape. She wears a blue tunic and an orange mantle. Her face is obscured by damage to the manuscript. In front of her, a large bird, possibly a falcon or eagle, is perched on her hand, which is extended towards it. In the background, a blue sky with a reddish-orange orb (perhaps the sun or moon) is visible above a distant cityscape with buildings and a tower. The overall scene suggests a moment of interaction between the kneeling figure and the bird, set against a stylized landscape and urban background.",
+    "scene_interpretation": "Saint Eustace with the Stag",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Eustace"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Blois/Blois_musee_diocesain/410185409_INV_084_1_298/DEPOT/410185409_INV_084_1_298_0002/964,422,2546,3646/full/0/default.jpg"
+}

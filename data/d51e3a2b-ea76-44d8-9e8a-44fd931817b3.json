@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures. The figure on the left wears a bishop's mitre and a richly decorated rose-colored robe with gold trim. This figure's hands are clasped, and they appear to be holding something small and white. The figure on the right wears a dark robe with gold vertical stripes and a red hat. This figure's right hand is extended towards the other figure. The background is a solid blue, suggesting a non-specific or divine setting. The overall impression is one of solemnity and perhaps a formal exchange or blessing.",
+    "scene_interpretation": "This scene likely represents a bishop bestowing a blessing or conferring an office upon another individual, possibly a cleric or a patron. The gesture of the bishop and the attire suggest a formal religious or ecclesiastical context. Without further iconographic clues, a specific biblical event is not identifiable, but it aligns with devotional imagery of ecclesiastical authority and spiritual guidance.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop",
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0015/5021,3033,428,889/full/0/default.jpg"
+}

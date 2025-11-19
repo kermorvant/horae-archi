@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered around a wooden table where a pale, unclothed figure lies. Two figures in blue robes are holding the body, while others in gold robes appear to be examining or attending to it. One figure in a gold and yellow striped garment is leaning over the body, seemingly performing a procedure. The setting is an interior space with ornate columns, some twisted and decorated with foliage, and a richly patterned red tapestry on the right. In the background, through an arched opening, a garden with trees and a fence is visible. The overall atmosphere suggests a solemn or ritualistic event, possibly a medical examination or a religious martyrdom.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "door",
+        "roof",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f602/1274,1137,2914,3829/full/0/default.jpg"
+}

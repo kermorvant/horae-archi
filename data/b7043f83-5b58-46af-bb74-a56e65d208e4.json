@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ in glory, ascending into a starry blue sky, with wounds visible on his body and a halo of gold. He is surrounded by two winged figures, possibly angels, blowing trumpets. Below Christ, two figures, likely the Virgin Mary and Saint John the Evangelist, kneel with hands clasped in prayer. In the foreground, several figures emerge from graves, their hands raised in supplication, representing the resurrection of the dead. Christ holds a golden orb in his left hand, symbolizing his dominion over the world.",
+    "scene_interpretation": "Resurrection of the Dead",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550092764/f216/642,398,1073,1789/full/0/default.jpg"
+}

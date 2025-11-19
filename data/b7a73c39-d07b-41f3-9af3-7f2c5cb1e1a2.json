@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts two figures seated. The figure on the left is a bearded man wearing a turban-like hat and a richly decorated robe. He holds a flower in his left hand and appears to be gesturing with his right hand, which is near a small vessel. The figure on the right is partially visible, with hands clasped in prayer. Behind them, architectural elements suggest an interior setting, with decorative motifs including a stylized plant and what appear to be candelabra or decorative pillars. The overall style is that of a woodcut illustration, likely from a devotional text.",
+    "scene_interpretation": "This scene is likely a representation of a king or wise man, possibly from the Old Testament, engaged in prayer or contemplation, perhaps related to a prophecy or a divine revelation. The presence of the flower and the vessel could symbolize purity, offering, or a medicinal/alchemical practice, depending on the specific context of the Book of Hours.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0019/5791,3414,602,1291/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts Saint Paul, identified by the inscription \"S. paL.\". He is shown standing, holding a book in his left arm and a sword upright in his right hand. He wears a red tunic and a blue mantle, and has a halo indicating sainthood. The background features a red curtain with gold patterns, suggesting an interior setting, and a green ground. The scene is framed within an ornate, gilded border with foliate motifs.",
+    "scene_interpretation": "Saint Paul",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f55/717,2124,514,529/full/0/default.jpg"
+}

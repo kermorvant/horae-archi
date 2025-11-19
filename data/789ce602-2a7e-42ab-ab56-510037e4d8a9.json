@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ's body, bloodied and pale, is being carefully lowered by several figures. One man in a blue tunic supports Christ's torso from above, while another, dressed in green and wearing a black hat, holds Christ's legs. A third figure in an orange garment stands on a ladder, reaching to support Christ. Below, a woman in a blue mantle, presumably the Virgin Mary, sits with her hands clasped, looking up at her son with sorrow. The background is a rich red tapestry with gold ornamentation, suggesting an indoor setting or a symbolic representation of a sacred space. The ground is depicted as green, possibly representing Golgotha.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "ladder"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0104/utp-0104_091v.jp2/2512,1108,2736,4455/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a landscape under a blue, cloud-filled sky. On the left, two monks in grey habits are engaged in conversation, one holding a book. To their right, two other figures, one in a yellow robe and another in a pink robe, are also interacting. In the foreground, a stylized representation of flames erupts from the ground. To the far right, a dark, demonic figure with clawed feet and a white loincloth is visible. The overall impression is one of a spiritual or moral struggle, possibly involving temptation or judgment.",
+    "scene_interpretation": "Temptation of a Monk",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Monk",
+        "Monk",
+        "Figure in yellow robe",
+        "Figure in pink robe",
+        "Demon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f314/485,1376,773,1594/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a celestial gathering. At the top, a crowned figure, likely God the Father, is seated amidst blue clouds, with two haloed figures behind him. Below, the Virgin Mary, also haloed, cradles the Christ Child, who is wrapped in a red garment. They are enveloped in a radiant golden light emanating from behind them, set against a red background. Below this central group, a congregation of haloed individuals, men and women, are gathered. Some are looking upwards, while others are engaged in prayer or conversation. The setting appears to be a heavenly realm, indicated by the celestial figures and the radiant light.",
+    "scene_interpretation": "The Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1335/DEPOT/352386106_MS1335_0018/3806,575,1446,2410/full/0/default.jpg"
+}

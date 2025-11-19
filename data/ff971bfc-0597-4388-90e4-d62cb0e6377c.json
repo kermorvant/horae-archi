@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a hat and a robe with a circular emblem on the chest, is depicted seated. He has long, wavy hair and a prominent beard. His hands are clasped in his lap. The scene is framed by decorative architectural elements, including what appears to be an arch and columns, with a background filled with a dense pattern of dots and foliage. The overall impression is of a figure of importance, possibly a prophet or a king, within a stylized architectural setting.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0088/4143,3963,489,740/full/0/default.jpg"
+}

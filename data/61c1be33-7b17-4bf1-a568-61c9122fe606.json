@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The image depicts a street scene in a medieval town, with tall, narrow buildings lining both sides of a cobblestone street. In the distance, a prominent church with a tall spire dominates the view, its Gothic architecture clearly visible. Several figures are shown walking along the street, their forms rendered with loose, sketchy lines, suggesting movement and daily life. The buildings on either side feature multiple stories with windows and what appear to be awnings or covered walkways. The overall impression is one of a bustling urban environment with a significant religious structure at its heart.",
+    "scene_interpretation": "Urban Street Scene with Church",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "house"
+    ],
+    "architectural_elements": [
+        "spire",
+        "window",
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0031/DEPOT/M441095203_MS0031_0003/727,1139,1796,2544/full/0/default.jpg"
+}

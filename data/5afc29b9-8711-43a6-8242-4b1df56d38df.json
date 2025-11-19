@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her halo and blue mantle, embracing Elizabeth, who is also haloed and wears a white veil and an orange robe. Elizabeth carries a basket. To the left, an older man with a white beard, likely Zechariah, stands near the entrance of a simple stone building, holding a green bowl. The background features lush green trees and a blue sky with golden clouds, suggesting an outdoor setting. The architectural elements are minimal, with a focus on the figures and their interaction.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "Zechariah"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/HMML/HMML%2000534/HMML_00534_018v.JPG/2079,1439,2271,3818/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left, dressed in a red robe and with large green wings, pointing towards the Virgin Mary on the right. The Virgin Mary, clad in a blue mantle over a dark dress, holds a book and has her arms crossed over her chest, looking downwards with a pensive expression. Above them, a white dove, representing the Holy Spirit, descends. The figures are positioned within an architectural setting that appears to be an interior space with a tiled floor and a dark, decorated wall or screen behind them. The overall composition is framed by a decorative border typical of Books of Hours.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lehigh_codex_017%2Flehigh_codex_017_jp2.zip%2Flehigh_codex_017_jp2%2Flehigh_codex_017_0044.jp2/1992,2053,4961,7219/full/0/default.jpg"
+}

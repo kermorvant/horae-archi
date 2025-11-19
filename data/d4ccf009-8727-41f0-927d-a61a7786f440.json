@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "Within an arched frame adorned with foliate motifs, a haloed male figure, identified as Saint Mark, is depicted seated on an ornate throne, diligently writing on a scroll. He wears a blue tunic and a pink mantle. To his left, a winged lion, the symbol of Saint Mark, stands on a patterned floor, also associated with the saint, and appears to be looking at the writing. Behind the figure, a richly decorated tapestry hangs, and to the left, an open doorway reveals an architectural setting with arched windows and a path leading outdoors into a landscape. The scene combines an interior setting with a view of the exterior.",
+    "scene_interpretation": "Saint Mark Writing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof",
+        "door",
+        "column",
+        "capital",
+        "arcade"
+    ],
+    "persons": [
+        "Saint Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550008032/f53/263,144,545,856/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist standing in an outdoor landscape. He is dressed in a red cloak over a blue tunic, with gold trim on both garments. His halo indicates his saintly status. He holds a golden chalice in his left hand, from which a small black dragon is emerging. His right hand is raised, gesturing towards the chalice. Behind him, a slender tree stands to his right, and in the distance, rolling hills are dotted with stylized castles and a body of water. The foreground shows a path with scattered stones. The overall impression is one of a devotional image set in a simplified, idealized natural environment.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0367/bge-lat0367_170v.jp2/2512,660,3204,4769/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Agony in the Garden. In the foreground, three disciples are asleep: one with a sword resting beside him, another with his head on a book, and a third with his head bowed. In the middle ground, Christ is shown kneeling in prayer, with his hands clasped and his gaze directed upwards. Behind him, a group of soldiers approaches through a wooden fence and a gatehouse. In the upper right, an angel descends from a golden sky, holding a cross, symbolizing Christ's impending sacrifice. The setting is a rocky, green landscape under a blue sky with stylized clouds.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "gatehouse"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10023007f/f43/335,299,1440,1946/full/0/default.jpg"
+}

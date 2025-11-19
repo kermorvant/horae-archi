@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a group of four men, three of whom are wearing elaborate crowns or miters, suggesting they are figures of high religious or secular authority. The leftmost figure wears a papal tiara, indicating the Pope. Next to him, a figure in a bishop's miter and ornate vestments appears to be speaking or gesturing. To the right, a bearded man with a crown and a third figure, also crowned and with hands clasped in prayer, complete the group. The scene is framed by architectural elements suggesting an interior setting, possibly a hall or a church interior, with decorative arches visible.",
+    "scene_interpretation": "Council of Church Fathers",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "mitre"
+    ],
+    "persons": [
+        "Pope",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0091/2034,3222,857,849/full/0/default.jpg"
+}

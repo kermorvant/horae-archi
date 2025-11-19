@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a king seated on a throne, receiving a golden vessel from a kneeling figure. The king wears a blue robe and a golden crown. The kneeling figure is dressed in an orange tunic and a white mantle, and holds the vessel with both hands. To the right of the king, three figures stand. One, with a halo, is dressed in blue and appears to be speaking or gesturing. Two other figures, clad in armor, stand behind him. The background features a patterned tapestry and a starry blue sky. The ground is green and sparsely decorated with stylized plants. This scene likely represents a biblical or royal event, possibly a presentation of tribute or a significant offering.",
+    "scene_interpretation": "Royal Presentation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "King",
+        "Kneeling figure",
+        "Figure with halo",
+        "Armored figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3340/DEPOT/B441096101_MS3340_0185/3603,566,1387,2276/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the central cross and two thieves on either side. Below the crosses, a crowd of onlookers is gathered, including a group of women in the foreground, one of whom is dressed in blue and appears to be the Virgin Mary, and another in orange, possibly Mary Magdalene. A figure in orange on horseback observes the scene. Behind the crowd, a multitude of soldiers with spears stand at attention. In the background, a stylized city with towers and buildings is visible against a bright blue sky. The overall impression is one of solemnity and sorrow, with the focus on the suffering of Christ and the reactions of those present.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rodez/Bibliotheque_de_la_Societe_des_lettres_de_l_Aveyron/122025302_MS0001/DEPOT/122025302_MS0001_0094/742,398,1650,3081/full/0/default.jpg"
+}

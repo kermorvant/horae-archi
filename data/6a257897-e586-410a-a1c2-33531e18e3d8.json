@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, cloaked and veiled, cradles the Christ Child in her arms. They are accompanied by Saint Joseph, who wears a hat and a cloak, and appears to be leading a donkey, though the animal is only partially visible. To the left, a figure in a tunic and helmet stands beside a column, possibly representing a guard or a symbolic figure. The background features a landscape with trees and distant buildings, suggesting an outdoor setting. The inscription \"AD VESPERIS OFFICIVM\" is visible at the top, indicating the time of Vespers, a canonical hour in Christian liturgy.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9065943c/f56/1657,346,1933,3337/full/0/default.jpg"
+}

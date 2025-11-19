@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting that suggests a domestic interior or a private chapel. The Virgin Mary, with a golden halo, is seated to the left, reading from an open book placed on a lectern. She is dressed in a blue mantle over a white patterned robe. To the right, the Angel Gabriel, kneeling and robed in white with a red cloak, announces the divine message, holding a scroll with Latin text. A dove, representing the Holy Spirit, descends from above through a window, with rays of light directed towards Mary. The background features arched windows revealing a landscape with trees and a balustrade. The architecture includes ornate arches, columns, and decorative elements, creating a sense of refined space.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "roof",
+        "wall",
+        "arcade",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7c2e11ba-98dc-46dd-8bfa-3de8afb54759/2187,768,2599,3863/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely Christ, holding a globe and a cross, gesturing with his right hand. Before him kneels the Virgin Mary, her hands clasped in prayer. Above and behind them, an angel with golden wings holds a crown. The figures are set against a red, textured background, with the lower portion of the image featuring blue, cloud-like forms. The composition suggests a divine judgment or a moment of intercession.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Borgh.183/Borgh.183_0063_fa_0030r.jp2/256,259,762,963/full/0/default.jpg"
+}

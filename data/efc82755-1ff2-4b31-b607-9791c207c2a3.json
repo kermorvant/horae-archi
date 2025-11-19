@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a woman in a blue robe and white veil, who is kneeling with her hands clasped in prayer. Above her, a dove descends, radiating light, symbolizing the Holy Spirit. Behind the kneeling woman, several other figures, some with halos, look on with expressions of awe and devotion. In the background, a wooden structure with inscribed text is visible, suggesting an interior setting. The overall composition evokes a moment of divine inspiration or revelation.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/334add29-42bd-48a3-9b28-15978c444056/1880,197,718,1148/full/0/default.jpg"
+}

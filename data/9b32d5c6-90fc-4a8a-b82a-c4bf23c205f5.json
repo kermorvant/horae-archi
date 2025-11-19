@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Christ lying across the lap of the Virgin Mary, who is supported by other grieving women. Christ's wounds are visible. Behind them, a cross stands against a backdrop of trees and distant hills with buildings. The scene is framed by an architectural element resembling an archway with decorative carvings and columns.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f30/4537,650,2506,2664/full/0/default.jpg"
+}

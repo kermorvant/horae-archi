@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary seated centrally, surrounded by the Apostles. A dove, representing the Holy Spirit, hovers above Mary, with rays of light emanating from it. The figures are enclosed within an oval frame adorned with decorative elements and Latin inscriptions. The Apostles are shown with varied expressions of awe and devotion, some with hands raised. The setting appears to be a simple, tiled floor, suggesting an indoor space, though no specific architectural structures are detailed.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_007/DEPOT/210545209_impr_layette_123_007_0079/1247,844,1480,2273/full/0/default.jpg"
+}

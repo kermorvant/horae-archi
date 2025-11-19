@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "An angel with large, golden-tipped wings and flowing blonde hair, wearing a red cloak lined with gold and a white robe, carries a young child. The angel looks upwards towards the starry blue sky, while the child, with hands clasped in prayer, looks towards the angel. The scene is set in an outdoor landscape with rolling hills, sparse vegetation, and a few trees. The starry sky suggests a nocturnal or celestial setting.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0179/4364,1449,534,617/full/0/default.jpg"
+}

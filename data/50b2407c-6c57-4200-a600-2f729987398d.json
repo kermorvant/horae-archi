@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ's body, pale and lifeless, is being carefully lowered by two men. One man, wearing a blue robe, supports Christ's torso, while another, in a green tunic and brown cloak, holds his legs. The Virgin Mary, draped in a vibrant blue mantle, stands to the left, her head bowed in sorrow. Other figures, likely mourners or disciples, stand behind, their faces turned towards the central event. A figure in an orange robe kneels at the base of the cross, holding a hammer and chisel, possibly preparing to remove the nails. The background features a decorative tapestry-like pattern and a rocky, uneven ground.",
+    "scene_interpretation": "Deposition from the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_004%2Fwidener_004_jp2.zip%2Fwidener_004_jp2%2Fwidener_004_0231.jp2/3310,1378,2061,2493/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A man and a woman are depicted riding a white horse in an outdoor setting. The woman, on the left, wears a red garment and a tall, pointed hat. The man, on the right, is dressed in a blue tunic and red hose, also wearing a hat. He holds a staff or a branch. The background consists of green foliage and a light blue sky. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0019/DEPOT/B441096101_MS0019_0009/5538,1533,639,864/full/0/default.jpg"
+}

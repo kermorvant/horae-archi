@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A figure, possibly Saint John the Baptist, is depicted seated outdoors, with a bird, likely an eagle, beside him. The figure is gesturing with one hand, pointing upwards, and appears to be looking in that direction. The background is filled with foliage, suggesting a natural, rural setting. The scene is rendered in a woodcut style, common in medieval manuscripts.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0101/976,1312,415,500/full/0/default.jpg"
+}

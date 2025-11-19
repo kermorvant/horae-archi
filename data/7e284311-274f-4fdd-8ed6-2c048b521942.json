@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and robed in blue and red, holding the Christ Child. She is seated on a throne-like structure, partially obscured by rich red drapery adorned with gold trim. Two winged figures, likely angels, stand on either side, drawing back green curtains to reveal the central figures. The background is a golden, textured surface, suggesting a divine or celestial setting. The Christ Child is depicted with a halo, as is the Virgin Mary. The overall impression is one of regal and divine presentation.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/Belgique/Tournai/Bibliotheque_du_Seminaire/TOURNAI_Grand_Seminaire_MS016/DEPOT/TOURNAI_Grand_Seminaire_MS016_0034/1388,764,1098,1876/full/0/default.jpg"
+}

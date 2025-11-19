@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated and holding the Christ Child. Both figures wear halos, and Mary is crowned. They are positioned within an architectural setting that includes a canopy-like structure above them, supported by columns. The background is filled with a starry or speckled pattern, suggesting a divine or celestial space. The Virgin Mary is shown with her left arm cradling the child, and her right hand is raised, possibly in a gesture of blessing or teaching. The Christ Child is depicted as an infant, with his left arm around his mother's neck and his right hand raised. The overall composition is framed by architectural elements that suggest a throne or a niche.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0107/4036,2950,665,1003/full/0/default.jpg"
+}

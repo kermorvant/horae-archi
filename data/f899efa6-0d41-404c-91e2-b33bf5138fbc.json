@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a woman in a white gown kneeling in prayer on a green grassy field, her hands clasped. Around her, several figures lie prostrate and appear to be dead or injured, some amidst broken wooden structures. In the background, a walled city with towers and a river with a boat are visible. Above, an angelic figure with red wings flies through a cloudy sky, and a distant castle sits atop a hill. The overall impression is one of disaster and divine intervention or judgment.",
+    "scene_interpretation": "The scene likely represents a miraculous event or divine judgment, possibly related to a plague or a catastrophic event where a saint or holy figure's intercession is sought or where divine wrath is being displayed. The presence of fallen figures and the prayerful woman suggests a plea for mercy or a testament to faith amidst destruction.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "arch",
+        "column"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f582/1144,703,2931,4211/full/0/default.jpg"
+}

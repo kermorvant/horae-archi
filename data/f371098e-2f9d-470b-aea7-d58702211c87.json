@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, likely a bishop or pope, is depicted holding a processional cross in their left hand and a red book in their right arm. The figure wears a richly decorated cope over a green vestment, and a jeweled mitre atop their head, surrounded by a golden halo. The background is a bright blue sky with a few white clouds. The scene is framed by an architectural element resembling a Gothic arch with tracery, suggesting an interior view looking outwards or a representation within an architectural context.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tracery_window"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f14/2598,947,202,625/full/0/default.jpg"
+}

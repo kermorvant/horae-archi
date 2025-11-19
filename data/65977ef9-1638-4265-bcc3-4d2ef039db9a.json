@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts three figures within an arched architectural frame adorned with foliate motifs. On the left, an angel with feathered wings and a halo stands, wearing a long robe. To the right of the angel is a figure in bishop's attire, including a mitre and a cope, holding a crozier and a book. This figure also has a halo. To the right of the bishop, a man in a conical hat and tunic is shown kneeling, holding a hammer and chisel, and appears to be working on a stone block. The background features a stylized tree and a rocky, uneven terrain. The overall composition suggests a narrative scene, possibly related to the life of a saint or a biblical event.",
+    "scene_interpretation": "The scene likely depicts the martyrdom of a saint, specifically Saint Eligius, who was a goldsmith and bishop. The figure in bishop's attire is Saint Eligius, and the kneeling figure with hammer and chisel is likely the executioner or someone involved in his torture, possibly related to the legend of his foot being nailed or cut off. The angel's presence suggests divine intervention or comfort.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Eligius",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f420/728,29,1200,1651/full/0/default.jpg"
+}

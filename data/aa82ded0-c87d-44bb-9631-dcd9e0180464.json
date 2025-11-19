@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross dominating the upper center. Below the cross, a large, ornate baptismal font is prominently featured. To the left of the font, the Virgin Mary, veiled and with hands clasped in prayer, mourns. To the right, a female saint, possibly Mary Magdalene, also appears to be in prayer or contemplation. Two winged figures, likely angels, kneel on either side of the font, their hands reaching towards it. The background is filled with stylized trees and foliage, suggesting an outdoor setting. The entire scene is framed by an elaborate, decorative border with floral motifs.",
+    "scene_interpretation": "Crucifixion with Baptismal Font",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "baptismal_font"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032288x/f24/1985,142,1168,1493/full/0/default.jpg"
+}

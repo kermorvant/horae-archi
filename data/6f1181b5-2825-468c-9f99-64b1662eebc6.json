@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a crown and a long robe over a blue tunic, kneels in prayer outdoors. His hands are clasped, and his gaze is directed upwards. Behind him, a stone wall encloses a courtyard. In the middle ground, a fortified building with a domed tower stands beside a body of water crossed by a bridge. Further in the distance, a procession of figures on horseback moves across a landscape. The sky above is filled with a turbulent, dark cloud formation from which a colossal, bearded figure emerges, suggesting a divine or supernatural presence.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "bridge",
+        "dome"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.10293/Vat.lat.10293_0294_fa_0145v.jp2/342,191,247,439/full/0/default.jpg"
+}

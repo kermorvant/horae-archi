@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left, dressed in a white robe with gold trim, holding a golden staff and gesturing towards the Virgin Mary on the right. The Virgin Mary, clad in a blue robe, holds an open book and raises her left hand in a gesture of surprise or acceptance. Above them, the Holy Spirit is represented by a white dove descending with outstretched wings, emanating rays of light. The background features a rich, patterned red tapestry, and the figures stand on a green, tiled floor. The scene is framed by an architectural arch and decorative foliage at the top.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_095%2Flewis_e_095_jp2.zip%2Flewis_e_095_jp2%2Flewis_e_095_0048.jp2/546,987,2520,3303/full/0/default.jpg"
+}

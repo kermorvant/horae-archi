@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a funeral or memorial service within an interior space. A blue-draped sarcophagus is prominently placed in the foreground. To the left, a figure in a black habit, likely a nun or mourner, stands with their head bowed in grief. To the right, a group of three figures, two men and one woman, are gathered around a raised platform. One man, wearing a cap, reads from a book placed on a green cloth. Another figure, possibly a cleric, leans over a book on the platform. The background features a richly patterned tapestry or wall hanging. The overall atmosphere suggests a solemn occasion of mourning and remembrance.",
+    "scene_interpretation": "Funeral_Service",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Nun",
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10318624f/f171/421,208,1008,1457/full/0/default.jpg"
+}

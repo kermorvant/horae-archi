@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a halo, rides a donkey carrying the Christ Child. She is dressed in a blue mantle. To her right stands a man in a blue hooded robe and a black hat, holding a rope attached to the donkey. Behind them, a large, multi-turreted building with pointed roofs and tall, narrow windows dominates the left side of the scene. In the background, rolling green hills are visible under a pale blue sky. The scene is framed by a decorative border.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "window",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_011/DEPOT/890245409_n_011_0075/896,541,1891,3052/full/0/default.jpg"
+}

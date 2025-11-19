@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A king, seated on a throne and wearing a crown and ermine-trimmed robe, gestures with a scepter towards a kneeling figure. The kneeling figure, clad in armor and a red tunic, holds a helmet. Behind the kneeling figure, several soldiers with helmets and spears stand at attention. The scene is set within an interior space, suggested by the presence of a throne and a draped canopy.",
+    "scene_interpretation": "This scene likely depicts a moment of judgment or audience with a monarch, possibly illustrating a biblical or historical narrative where a ruler receives a supplicant or a warrior.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892120/583,174,349,1290/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity, with the Virgin Mary kneeling in prayer, her hands clasped, before the Christ Child lying in a manger. Joseph, with a beard and wearing a blue cloak over a red tunic, stands behind Mary, his hand touching his face in contemplation. The setting appears to be a stable, indicated by the wooden structure with a thatched roof. A dog lies on the ground to the right. The background shows a stylized landscape with trees and hills, and a patterned window or screen is visible behind the figures, suggesting an interior or a sheltered view.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_085%2Flewis_e_085_jp2.zip%2Flewis_e_085_jp2%2Flewis_e_085_0147.jp2/3721,1182,2080,2853/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body showing wounds. To his left stand the Virgin Mary, clad in a blue mantle, and another woman in red, both with hands clasped in prayer. A woman in a patterned dress kneels at the foot of the cross, reaching towards it. To Christ's right, two figures are also crucified, one with a beard and the other with a halo. Below them, a man on a white horse, wearing armor and a helmet, holds a spear. Behind the figures, a city with towers and walls is visible, set against a blue, star-filled sky.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/58472133-96f1-4fc9-9f4f-73df369c1e14/2170,367,1116,1626/full/0/default.jpg"
+}

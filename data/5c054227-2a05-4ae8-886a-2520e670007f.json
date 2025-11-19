@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a female saint, identifiable by her halo, seated outdoors in a pastoral landscape. She wears a white veil and a red robe over a blue skirt, and holds a staff with a tuft of straw. Three pigs are visible in the foreground, grazing in a grassy area near trees. In the background, a fortified castle with towers and battlements is situated on a hill. Above, in a golden celestial sphere, a bearded figure, likely God the Father, blesses the scene with rays of light descending. The overall composition suggests a narrative of a saint's life or patronage, possibly related to agriculture or animal husbandry, set against a backdrop of a fortified settlement and divine presence.",
+    "scene_interpretation": "Saint Anthony Abbot",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f312/709,91,1195,1777/full/0/default.jpg"
+}

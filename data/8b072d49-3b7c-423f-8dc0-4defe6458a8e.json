@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men engaged in a craft, likely metalworking or stonemasonry. One man, with a beard and wearing a cap, is actively working on a piece of material placed on an anvil-like block, using a hammer and chisel. Two other men are observing and assisting, also holding tools. The background suggests an architectural setting with decorative elements resembling arches and windows, possibly indicating a workshop or a guild hall. The overall impression is one of skilled labor and communal work.",
+    "scene_interpretation": "Craftsmen at Work",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0094/1091,581,626,1179/full/0/default.jpg"
+}

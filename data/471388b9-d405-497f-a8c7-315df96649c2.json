@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, with a halo, rides a donkey, cradling the Christ Child who is also haloed and dressed in red. A woman in a pink dress, carrying a basket filled with white loaves, walks beside the donkey. To the right, a man in a red robe and blue hood, possibly a guide or a pilgrim, walks ahead, holding the donkey's reins. In the background, rolling green hills are dotted with trees, and a distant cityscape with towers and spires is visible under a blue sky. The overall impression is one of travel through a pastoral landscape towards a settlement.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0384_0232/DEPOT/620416201_MS0384_0232_0072B/2607,1060,2178,3152/full/0/default.jpg"
+}

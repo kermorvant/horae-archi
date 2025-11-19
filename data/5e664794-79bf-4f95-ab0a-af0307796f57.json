@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A group of men, some with beards and others with short hair, are gathered, with several figures in the foreground kneeling with hands clasped in prayer. They are looking towards a central figure, identified as Christ, who stands on the right, gesturing with his right hand as if speaking. Behind the figures, architectural elements suggest an interior space, with arched openings and what appear to be columns or pilasters. The scene likely depicts Christ teaching or preaching to his disciples or followers.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0030/915,2035,577,1091/full/0/default.jpg"
+}

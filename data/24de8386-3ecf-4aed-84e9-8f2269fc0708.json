@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a long white beard, wearing a golden robe and a pink mantle, looking upwards towards a vision of Christ. Christ, depicted in a red robe and with a halo, holds a book and is surrounded by a blue mandorla adorned with stars. In front of the bearded man is a table covered with a white cloth, upon which rests a golden chalice. Behind the bearded man, two other figures are visible, one in a blue robe and another in a tan robe, also looking towards the vision. The background is a richly patterned tapestry of red, blue, and gold squares. The scene appears to be set within an interior space, possibly a chapel or a room where a religious vision is occurring.",
+    "scene_interpretation": "The scene likely represents a divine vision, possibly of Christ, experienced by a holy figure, perhaps a prophet or a saint. The chalice on the table could symbolize the Eucharist or a sacrificial offering. The presence of onlookers suggests the significance of the vision and its impact on those witnessing it.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "column",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Prophet/Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f474/365,1139,976,1756/full/0/default.jpg"
+}

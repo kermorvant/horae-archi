@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer outdoors, with a castle and a body of water in the background. Above him, a dove descends, radiating light, and in the upper right corner, a bearded figure, presumably God the Father, is depicted within a blue celestial sphere, also radiating light and pointing. A scroll unfurls above the kneeling man, bearing an inscription. The landscape is rendered with rolling hills and scattered trees. The man is richly dressed in a long robe with blue and gold trim, and wears a distinctive golden headdress. The castle features multiple towers with conical roofs topped by crosses, and a large arched entrance. The overall composition suggests a divine revelation or inspiration.",
+    "scene_interpretation": "The Annunciation to the Virgin Mary",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Dove"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/np517xz5161%2FW196_000060_1200/4983,1573,3302,5234/full/0/default.jpg"
+}

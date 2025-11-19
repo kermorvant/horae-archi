@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure, likely Christ, standing and holding a staff. He is surrounded by other figures. To his left, a figure kneels with hands clasped, and another figure leans forward, holding a weapon. To his right, another figure stands, looking towards the central figure. The scene is framed by an architectural element resembling an arch, with decorative elements above. The overall impression is one of a religious or historical narrative, possibly depicting a moment of judgment or authority.",
+    "scene_interpretation": "Christ in Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0020/4320,1810,422,673/full/0/default.jpg"
+}

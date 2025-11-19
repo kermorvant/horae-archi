@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A skeletal figure, personifying Death, strikes a woman in the chest with a spear. The woman, dressed in a long red and gold gown and a blue veil, recoils in surprise and pain, her mouth agape. Behind them, a stylized landscape unfolds with green trees and distant blue buildings, suggesting an urban or semi-urban setting. The scene is framed by an arched architectural element with decorative columns.",
+    "scene_interpretation": "The Triumph of Death",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021262r/f205/244,161,923,1306/full/0/default.jpg"
+}

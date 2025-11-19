@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a beard, wearing a long robe, placing a crown on the head of a kneeling woman. The woman is also robed and has her hands clasped in prayer. They are positioned within an architectural setting that appears to be an interior space, possibly a room or a niche, with a textured wall behind them. The scene is framed by decorative elements on the sides, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037130m/f80/2256,170,1075,1415/full/0/default.jpg"
+}

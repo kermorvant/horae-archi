@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bust of Christ, wearing a crown of thorns and with wounds visible on his chest. He holds a reed in his left hand. His gaze is directed upwards and to the left, with a sorrowful expression. A halo surrounds his head. The background is dark and indistinct, suggesting a focus on the figure of Christ.",
+    "scene_interpretation": "Ecce Homo",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00349/404,530,304,347/full/0/default.jpg"
+}

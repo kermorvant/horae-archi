@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A figure, likely a saint or a royal personage, is depicted holding a staff or scepter in their left hand and raising their right hand in a gesture of blessing or teaching. The figure wears a crown or elaborate headdress and a richly decorated garment. To the left, a banner with illegible text is unfurled. The scene is framed by architectural elements suggesting an interior or a niche, with decorative patterns and what appear to be arches.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0014/3898,4072,640,690/full/0/default.jpg"
+}

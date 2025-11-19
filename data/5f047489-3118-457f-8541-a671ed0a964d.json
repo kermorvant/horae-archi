@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in prayer, rendered in a woodcut style. In the foreground, a kneeling monk with clasped hands looks upwards. He is robed and tonsured. Behind him, and slightly elevated, is another figure, also in prayer, with hands pressed together. This figure appears to be within a decorative cartouche featuring swirling foliage and a wheel. In the background, architectural elements suggest a town or city, with buildings featuring arched windows and towers. The overall impression is one of devotion and possibly a vision or intercession.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0040/5954,3489,664,1216/full/0/default.jpg"
+}

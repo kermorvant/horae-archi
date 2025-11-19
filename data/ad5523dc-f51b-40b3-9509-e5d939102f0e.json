@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Virgin Mary, clad in a blue mantle and pink undergarment, stands with her hands clasped in a gesture of humility and acceptance. Her halo is gold. To her right, the Angel Gabriel, with green wings and wearing a pink robe adorned with gold patterns, kneels and presents a scroll inscribed with Latin text. A vase containing white lilies, a symbol of purity, sits between them on the grassy ground. Above and to the right, a bust of God the Father, with a golden halo and beard, is depicted within a blue celestial sphere dotted with stars. The background is a decorative tapestry of interlocking blue and gold diamonds.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0004/cea-0004_027r.jp2/896,803,2005,2622/full/0/default.jpg"
+}

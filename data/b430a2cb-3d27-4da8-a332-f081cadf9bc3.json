@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and purple robe, interacting with a group of figures. To Christ's left, Saint Peter, also with a halo and clad in gold and blue, gestures towards a pale, emaciated figure reclining on a green and white striped surface, draped in white cloth. This figure appears to be the subject of Christ's attention. Behind Peter and Christ, a crowd of men with halos look on, some with hands raised in gestures of awe or supplication. In the background, a distant landscape with hills and a building is visible under a blue sky with golden rays descending from above. The overall impression is one of a miraculous healing or resurrection.",
+    "scene_interpretation": "Resurrection of Lazarus",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8496559r/f165/328,208,1038,1474/full/0/default.jpg"
+}

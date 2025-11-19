@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, veiled and wearing a dark robe, riding a donkey. She cradles the Christ Child, who is swaddled and radiates a halo of light. Behind them, a bearded man, likely Saint Joseph, walks with his hand on his chest, suggesting weariness or devotion. The figures are set against a backdrop of rolling hills and a fortified town with towers and walls. The entire scene is framed by an arched border decorated with foliate motifs.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032335w/f112/435,63,498,822/full/0/default.jpg"
+}

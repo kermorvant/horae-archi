@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a blue mantle over a red garment, tenderly holds the Christ Child. The Child, nude and with a serene expression, rests in her arms. Behind them, an architectural element suggests an interior space, possibly a niche or a vaulted ceiling with decorative ribs. The scene is framed by a border, and in the upper right corner, a gilded initial with a floral motif is visible. The overall impression is one of maternal devotion and sacred intimacy.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_060_059/DEPOT/210546201_S_060_059_0022/3425,921,846,1185/full/0/default.jpg"
+}

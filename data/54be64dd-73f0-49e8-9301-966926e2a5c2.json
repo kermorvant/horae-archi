@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with his body pale and bloodied, crowned with thorns, and nailed to a wooden cross. Two blue winged figures, possibly angels, are positioned on either side of the cross, one holding a chalice to collect Christ's blood. Below, the Virgin Mary, clad in a blue mantle, stands to the left, her head bowed in sorrow. To the right, a figure, likely Saint John the Evangelist, leans his head on his hand, holding a book, also in mourning. Above the cross, a blue figure representing God the Father is depicted with outstretched arms, radiating golden light. The setting is an outdoor landscape with green hills, sparse vegetation, and a tree on the right. The scene is framed by an ornate border with gold leaf.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10532608h/f254/777,224,864,1337/full/0/default.jpg"
+}

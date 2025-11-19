@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. A bearded man, likely Simeon, wearing a blue robe and a jeweled hat, holds the Christ Child, who is swaddled in white. The Christ Child has a halo. Facing them, a woman in a blue mantle kneels with her hands clasped in prayer. She has long blonde hair and a halo. To the left, another woman, possibly Anna, stands with a halo, wearing an orange mantle over a burgundy robe, and carrying a small basket. The figures are positioned within an architectural setting that includes arches, columns, and a vaulted ceiling painted in red and gold. In the background, a building with a grey tiled roof and windows is visible. The floor is decorated with a green carpet featuring a geometric pattern.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "roof",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Simeon",
+        "Anna"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/SanMarino_Huntington_HM1099%2FSanMarino_Huntington_HM1099_jp2.zip%2FSanMarino_Huntington_HM1099_jp2%2FSanMarino_Huntington_HM1099_0129.jp2/1146,274,1204,1947/full/0/default.jpg"
+}

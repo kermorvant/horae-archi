@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, standing on a crescent moon. She is dressed in a blue robe and has a golden halo. The Christ Child, naked, is held in her left arm. To the left, an angel with red wings kneels, holding a flame-like object. The background is divided into a blue sky with golden stars and a pink oval shape with golden wavy lines, suggesting a divine or celestial setting. The entire composition is framed by a decorative border.",
+    "scene_interpretation": "The Virgin Mary and Christ Child on the crescent moon is a common iconographic representation of the Immaculate Conception or the Woman of the Apocalypse (Revelation 12:1). The angel may represent a messenger or a worshipper.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS21%2FBMC_MS21_jp2.zip%2FBMC_MS21_jp2%2FBMC_MS21_0111.jp2/2705,1427,2403,3433/full/0/default.jpg"
+}

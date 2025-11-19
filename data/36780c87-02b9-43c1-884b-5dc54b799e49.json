@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure, identified as Christ, stands in a landscape. He wears a golden tunic and a red mantle. In his hands, he holds an open book upon which rests a lamb. The background depicts rolling green hills, a distant blue mountain range, and stylized trees. A small, indistinct castle-like structure is visible on the mountain.",
+    "scene_interpretation": "Christ as the Lamb of God",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550098895/f174/635,958,446,583/full/0/default.jpg"
+}

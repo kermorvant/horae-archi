@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, seated on a throne with a green, patterned canopy, blesses with his right hand and holds a staff in his left. He wears a jeweled mitre and ornate robes. Before him kneels a woman in a blue mantle, her hands clasped. To the left, an angel, with golden wings, presents a crown to the kneeling woman. The scene is set against an orange background, with hints of architectural elements like wooden panels and decorative borders. The overall impression is one of a significant religious or royal investiture.",
+    "scene_interpretation": "Coronation of a Queen or Investiture of a Bishop",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Bishop",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0031/bge-lat0031_0096v.jp2/2330,576,2635,3669/full/0/default.jpg"
+}

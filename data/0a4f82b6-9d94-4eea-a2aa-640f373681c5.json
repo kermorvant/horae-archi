@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an interior space that resembles a church or chapel. A priest, adorned in ornate vestments, is administering communion to a kneeling woman, who is veiled and dressed in a habit. To the left, another figure, also in a habit, kneels with hands clasped in prayer, holding a book. To the right, a young boy kneels, facing away from the viewer, also in prayer. The background features architectural elements such as columns, a patterned wall, and a reredos or altar screen decorated with golden figures of saints. The overall atmosphere is one of solemn devotion and ritual.",
+    "scene_interpretation": "Communion of the Sick",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "arch",
+        "canopy",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Priest",
+        "Nun",
+        "Monk",
+        "Boy"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/pb462wj5265%2FW190_000098_1200/4465,769,2863,4092/full/0/default.jpg"
+}

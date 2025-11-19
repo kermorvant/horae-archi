@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, where the Virgin Mary, clad in a blue robe and with a golden halo, is embraced by Elizabeth, who wears a red garment and a white veil, also with a halo. Mary's left hand rests on her abdomen, indicating her pregnancy. They are in an outdoor setting with rolling green hills, scattered trees with white blossoms, and a body of water in the background. In the far distance, a city with towers and spires is visible under a blue sky with a crescent moon. The scene is framed by an arched border with decorative foliage.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1510/DEPOT/352386106_MS1510_0033/1294,685,1395,1877/full/0/default.jpg"
+}

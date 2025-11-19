@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the biblical narrative of Abraham about to sacrifice his son Isaac. Abraham, a bearded man in a green tunic and yellow cloak, raises a sword to strike Isaac, who is kneeling with his eyes blindfolded and hands clasped in prayer. An angel, with golden wings and robes, descends from the sky, reaching out to stop Abraham's hand. In the foreground, a man in a red tunic is shown with a donkey, and another figure in blue kneels beside him. The setting is an outdoor landscape with rolling green hills, a body of water with swans, and a distant tree. A fire burns on a hill to the right, and a sheep stands nearby. The entire scene is framed by an arched border with decorative floral motifs.",
+    "scene_interpretation": "The Sacrifice of Isaac",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Abraham",
+        "Isaac",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/pr444bb2006%2FW292_000113_1200/1509,782,3494,4921/full/0/default.jpg"
+}

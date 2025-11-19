@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a blue robe, meeting Elizabeth, who is dressed in a pink garment and a white veil. They are shown in a landscape setting with architectural elements in the background. To the left, a blue structure with a rounded archway is visible, suggesting a building entrance. In the center, a grey domed structure rises, possibly part of a larger edifice. The background features rolling hills, trees, and a cityscape with spires. Rays of golden light descend from the top of the frame, symbolizing divine intervention. The figures are rendered with halos, indicating their sanctity.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "dome",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0360/DEPOT/B522696201_MS0360_0048/1508,665,992,1559/full/0/default.jpg"
+}

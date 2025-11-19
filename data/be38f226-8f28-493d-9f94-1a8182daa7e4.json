@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a woman in a red robe and a wide-brimmed hat, seated indoors. To her left, a lion-like creature is shown, with its paw resting on her hand. Behind the woman, a frieze of figures in draped clothing are visible, suggesting a narrative or devotional context. The architectural setting includes an arched ceiling and columns, with a patterned floor. The overall impression is one of solemnity and spiritual significance.",
+    "scene_interpretation": "Saint Jerome in the Wilderness",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f625/2987,1585,881,2593/full/0/default.jpg"
+}

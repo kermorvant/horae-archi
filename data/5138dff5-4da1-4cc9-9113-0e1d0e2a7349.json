@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded, elderly man, depicted with a pale complexion and long grey hair, sits reclined on a brown surface, his hands clasped over his chest. He is partially covered by a white cloth. Behind him, a dark, demonic figure with horns and a hunched posture raises a branch or club, poised to strike. The background is a stylized landscape with a blue sky, distant mountains, and hints of vegetation. The scene likely depicts the Temptation of Saint Anthony, a common theme in medieval art, where the saint is tormented by demons during his ascetic retreat.",
+    "scene_interpretation": "Temptation of Saint Anthony",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Anthony"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0068/1818,1214,827,1229/full/0/default.jpg"
+}

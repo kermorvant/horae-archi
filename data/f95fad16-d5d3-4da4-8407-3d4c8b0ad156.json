@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist on the island of Patmos, writing his Gospel. He is seated on a green mound surrounded by blue water. A golden eagle, a symbol of his evangelistic work, pecks at a scroll he is writing. To his left, a winged demon pours liquid from a jug into a quiver, representing temptation and worldly distractions. In the background, a lush landscape unfolds with trees, houses, and distant castles and churches, suggesting the world from which John is divinely inspired.",
+    "scene_interpretation": "Saint John the Evangelist on Patmos",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "spire",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10549444b/f31/474,391,1461,1899/full/0/default.jpg"
+}

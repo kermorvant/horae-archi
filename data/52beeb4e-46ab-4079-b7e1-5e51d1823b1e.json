@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A tonsured cleric, wearing a red cope with elaborate blue and gold embroidery, kneels in prayer before an altar. The altar is draped with a red cloth adorned with gold patterns and a white cloth on top. Behind the altar, a golden monstrance containing a consecrated host is displayed within an architectural niche. The scene is framed by green curtains and appears to be set within a richly decorated interior, possibly a chapel or church, suggested by the presence of arches and columns in the background.",
+    "scene_interpretation": "Adoration of the Blessed Sacrament",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/wx114pq5623%2FW204_000077_1200/661,1963,1446,2294/full/0/default.jpg"
+}

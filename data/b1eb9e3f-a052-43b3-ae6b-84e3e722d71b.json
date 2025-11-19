@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, in a blue robe, kneels in prayer before the Christ Child, who lies naked on the green ground. Behind Mary is a simple wooden stable structure with a thatched roof. To the right, a bearded figure in a pink robe and green turban, likely Joseph, is shown with his hands raised in a gesture of awe or blessing. The background features a grassy landscape with scattered flowers and trees, and a rocky hill on the right. A radiant sun with rays emanates from the top of the sky, symbolizing divine presence.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/cr603ff5962%2FW239_000102_1200/4331,1039,2994,4700/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary and the Apostles gathered together. The Virgin Mary, in a blue mantle, is seated to the left, with her hands raised in a gesture of prayer or supplication, looking down at an open book on a wooden lectern. To her right, several male figures, identified as Apostles by their halos and context, are also shown in prayer. One prominent figure in the foreground, with a grey beard, clasps his hands together. Above them, a dove, representing the Holy Spirit, descends with rays of light emanating from it. The background is a dark, textured wall, and the scene is framed by ornate golden architectural elements at the top, suggesting an interior setting.",
+    "scene_interpretation": "Descent of the Holy Spirit",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/3003664/1345,536,1285,2018/full/0/default.jpg"
+}

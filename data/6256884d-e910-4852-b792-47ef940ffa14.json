@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. A wooden structure with a thatched roof shelters the newborn Christ Child, who lies on a red, patterned cloth. The Virgin Mary, in a blue robe and with a halo, kneels in prayer before the child. To her right, an older man, likely Saint Joseph, also kneels with clasped hands. Above them, a white ox and a brown bull look on. In the background, a stylized fence encloses the stable area, beyond which a lush green tree stands. Further in the distance, a cityscape with prominent spires and towers is visible under a radiant blue sky from which golden rays emanate, symbolizing divine light. The scene is framed by an arched border with decorative floral motifs.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1335/DEPOT/352386106_MS1335_0061/3772,431,1345,2216/full/0/default.jpg"
+}

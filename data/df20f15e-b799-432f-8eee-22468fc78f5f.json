@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A figure, likely a saint or biblical character, is depicted holding a sword in their right hand, with the blade pointing upwards. They wear a jeweled headdress and ornate clothing. To the left, a banner with Latin text is visible, partially obscured by the figure. The background suggests an architectural setting with decorative elements, possibly part of a larger illuminated initial or border.",
+    "scene_interpretation": "The figure's attire and the sword suggest a warrior saint or a figure associated with judgment or authority. The Latin text on the banner might provide a clue to their identity or the specific devotional context, but it is not fully legible. Without further context or clearer text, a definitive interpretation is difficult, but it likely represents a figure of spiritual significance.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0079/3336,3427,560,596/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting. On the left, an older man with a long white beard and a halo stands, holding a staff. He is richly robed in gold and red. To his right, a younger figure, possibly a cleric or acolyte, kneels with hands clasped, wearing a white surplice over a red garment. Behind them, the interior of a building is suggested by vertical lines and niches containing statuary. Through an arched opening on the left, a landscape with hills and a castle-like structure is visible. The floor is tiled with geometric patterns.",
+    "scene_interpretation": "The scene likely represents a devotional or biblical moment, possibly involving a saint or a figure from the Old Testament, given the halo and staff of the older man. The kneeling figure suggests prayer or supplication. The architectural elements and the landscape hint at a sacred or historical context.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0079/DEPOT/M601415401_MS0079_0035/1663,531,1712,2646/full/0/default.jpg"
+}

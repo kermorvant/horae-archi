@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "An angel with blue wings and a halo descends from a blue sky, holding a banner that reads 'Gloria in excelsis Deo'. Rays of golden light emanate from the angel towards a walled city in the background. In the foreground, three shepherds and a woman are depicted in a grassy landscape with sheep. One shepherd, wearing a blue hood and tunic, holds a crook and appears to be playing a pipe. Another shepherd, in a brown and gold striped tunic, shields his eyes and looks upwards. A woman in a red dress sits and holds a rosary. A dog lies at the feet of the shepherds. The scene is framed by decorative borders.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS1687/DEPOT/786466101_MS1687_0051/3965,610,1747,1964/full/0/default.jpg"
+}

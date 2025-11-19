@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Archangel Gabriel, with blue and gold wings and a red and gold cloak, approaches the Virgin Mary. He holds a golden staff and gestures towards her. The Virgin Mary, dressed in a blue robe, kneels on the right, her hands raised in a gesture of surprise or acceptance. She is looking towards the angel. In front of her is an open book on a patterned stand. Behind the figures, architectural elements suggest an interior space, with large columns and a glimpse of a landscape through an opening. The background features a richly decorated red panel with gold ornamentation.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Archangel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/wx114pq5623%2FW204_000151_1200/560,1835,1441,2241/full/0/default.jpg"
+}

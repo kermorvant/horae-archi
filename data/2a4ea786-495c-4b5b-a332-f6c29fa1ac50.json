@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, in a blue robe and with a halo, kneels before a golden, ornate altar-like structure. She reaches out to receive the Christ Child, who is held by an elderly man with a white beard and a blue, star-patterned hat, dressed in a red cloak over golden armor. Behind the Virgin Mary stand two women, one in a red robe holding a basket, and another in a blue hood. Behind the man holding the child are two other men, one in a red cap and the other in a blue garment. The background shows a window with diamond-shaped panes, suggesting an indoor setting. The overall scene is framed by an arched architectural element with decorative motifs.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "altar"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0033/1783,606,1232,1834/full/0/default.jpg"
+}

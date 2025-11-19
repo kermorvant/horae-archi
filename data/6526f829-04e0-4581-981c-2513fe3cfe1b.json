@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A group of men, some carrying spears, are depicted in a procession. The foremost figure, wearing a gold tunic and a red cap, points towards a rocky outcrop covered in foliage. Behind him, other men in similar attire and blue tunics follow. In the distance, a fortified city or castle is visible on a hill. The scene is set in an outdoor landscape with rolling hills and trees.",
+    "scene_interpretation": "This scene likely depicts a biblical narrative, possibly the Israelites marching through the wilderness or a military expedition. The presence of spears and a distant fortified city suggests a journey or a confrontation.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f178/1336,4206,3231,1553/full/0/default.jpg"
+}

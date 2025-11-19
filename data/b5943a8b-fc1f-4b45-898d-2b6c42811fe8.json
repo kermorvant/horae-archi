@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a throne, holding the Christ Child. She is dressed in a blue robe with gold trim. The Christ Child, also with a halo, is reaching out. To the left, a woman in a pink gown with a red belt and orange head covering kneels before a green-covered table with an open book. The background features a dark, patterned wall and an orange canopy above the throne. The overall setting appears to be an interior space, possibly a chamber or a chapel, suggested by the architectural elements and the enclosed nature of the scene.",
+    "scene_interpretation": "Madonna and Child with a kneeling supplicant",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0028/DEPOT/352386106_MS0028_0025/3831,524,1506,2055/full/0/default.jpg"
+}

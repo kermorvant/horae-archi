@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "In an outdoor setting, a man is shown bound to a wooden structure, likely a rack, with ropes. Another figure, dressed in blue and red, stands over him, holding a long pole or spear that is piercing the bound man's side. The background depicts a green landscape with trees and a distant building with a tower. The scene is a depiction of martyrdom, specifically the martyrdom of Saint Sebastian, who was often depicted tied to a post and shot with arrows, or in this case, pierced by a spear.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550057309/f203/304,1814,394,388/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a tall, conical hat adorned with a circle and a dot, and a flowing robe, stands with his right hand raised to his face, appearing contemplative or in prayer. Behind him, a cityscape unfolds with various buildings, including towers with crenellations and domed roofs, and structures with arched windows. The scene is rendered in a woodcut style, with stark lines and hatching to depict form and shadow. The man's posture and attire suggest a figure of importance, possibly a prophet or a king, within a devotional context.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "tower",
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "battlement",
+        "window"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0087/1003,3552,639,1178/full/0/default.jpg"
+}

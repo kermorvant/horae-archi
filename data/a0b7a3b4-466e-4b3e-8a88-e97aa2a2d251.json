@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, with a halo, stands bound and partially unclothed, his torso showing marks of previous torment. Two figures, presumably tormentors, are actively engaged in scourging him. One on the left wields a whip, while the figure on the right appears to be striking him with a mace-like object. The background is sparse, suggesting an outdoor or rudimentary setting, with a suggestion of a wooden structure above.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0092/5168,360,734,1275/full/0/default.jpg"
+}

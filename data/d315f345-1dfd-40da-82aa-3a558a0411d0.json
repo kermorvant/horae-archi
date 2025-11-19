@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a lavish banquet taking place indoors, with numerous figures dressed in rich medieval attire gathered around long tables laden with food. In the background, a military procession is shown outside a fortified city, with soldiers carrying banners and marching towards a castle. Above this, a celestial scene is depicted within an arched structure, featuring constellations, a chariot pulled by winged horses, and figures representing astrological signs. The overall impression is one of earthly celebration and military might juxtaposed with celestial and astrological imagery.",
+    "scene_interpretation": "The scene likely represents a historical or allegorical event, possibly related to a royal feast or a military campaign, framed by astrological and celestial motifs. The presence of astrological imagery suggests a connection to the influence of the stars on human affairs, a common theme in medieval thought. The banquet and military procession could symbolize earthly power, prosperity, and conflict.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "banner"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0006/985,384,2479,3690/full/0/default.jpg"
+}

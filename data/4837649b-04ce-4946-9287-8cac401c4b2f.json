@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The body of Christ, pale and marked with wounds, is held by the Virgin Mary, who is draped in a blue mantle. To the left, a figure in a red cloak, likely Saint John the Evangelist, supports Christ's arm. To the right, another woman, possibly Mary Magdalene, gently touches Christ's feet. Behind them, a wooden cross is visible, suggesting the setting of the crucifixion. The figures are rendered with solemn expressions, conveying grief and sorrow. The background is a simple landscape with rolling green hills and a pale blue sky.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "Saint John the Evangelist",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55005731r/f71/206,455,444,541/full/0/default.jpg"
+}

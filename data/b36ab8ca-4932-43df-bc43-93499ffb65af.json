@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A single figure, identified as Saint Lawrence, stands in a frontal pose. He wears a blue tunic over a white garment and holds a red book in his left hand and a gridiron, his attribute, in his right. He has a halo, indicating sainthood. The background is a rich red tapestry with gold scrolling patterns. The floor is tiled with a green and white geometric pattern. The scene is framed by a gold border.",
+    "scene_interpretation": "Saint Lawrence",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.C.IV.109/Chig.C.IV.109_0421_fa_0206v.jp2/228,572,201,339/full/0/default.jpg"
+}

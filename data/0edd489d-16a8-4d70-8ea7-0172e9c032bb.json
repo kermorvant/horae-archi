@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Luke by the presence of his attribute, a bull, is depicted seated and reading a large open book. He wears a halo, indicating his sainthood, and a cap. He is seated at a table with a stack of books and a cup. The scene is framed by architectural elements suggesting an interior space, with columns and arches visible. The overall impression is one of scholarly contemplation and devotion.",
+    "scene_interpretation": "Saint Luke",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0014/1356,1655,598,902/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures standing beneath a decorative arch. On the left, a bearded man wearing a hat and a long robe holds a book or scroll. On the right, a woman, also robed and veiled, holds a book. Behind them is a window with a diamond-shaped lattice pattern. The overall setting suggests an interior space, possibly a room or a covered architectural area, with a focus on the interaction between the two individuals and the texts they hold.",
+    "scene_interpretation": "The scene likely represents a moment of religious or scholarly discourse, possibly depicting a biblical event or a devotional scene. The presence of books suggests reading, study, or the transmission of knowledge, common themes in Books of Hours.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0052/865,2063,413,811/full/0/default.jpg"
+}

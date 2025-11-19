@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his head bowed and a crown of thorns on his head. A halo surrounds his head, and rays of light emanate from it. A scroll with the inscription \"I.N.R.I.\" is placed above his head. To the left of the cross, the Virgin Mary, draped in a blue mantle, is supported by Saint John the Evangelist, who is dressed in red. Another woman, possibly Mary Magdalene, stands behind them. To the right of the cross, a figure in a green robe and a turban addresses a soldier in armor. A dark-winged angel is depicted in the sky, near Christ's head. The setting is an outdoor landscape with a blue sky and golden clouds.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009271w/f263/420,195,804,1236/full/0/default.jpg"
+}

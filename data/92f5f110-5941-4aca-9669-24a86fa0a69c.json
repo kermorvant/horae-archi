@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A man, dressed in a blue tunic and orange hose, stands in a field of green grass with yellow stalks. He is sowing seeds from a yellow pouch slung over his shoulder, with his right hand scattering the seeds and his left hand holding a small object. Behind him is a large, orange wall with a repeating geometric pattern. The scene is framed by a decorative border with floral motifs and gold leaf, and a blue arch overhead.",
+    "scene_interpretation": "Sowing",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "sower"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f27/524,530,1392,959/full/0/default.jpg"
+}

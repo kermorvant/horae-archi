@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a basket filled with loaves of bread. In the upper register, a central figure, likely Christ, with a beard and long hair, points with his right hand. He is flanked by two other bearded men. Below them, several individuals are seated, some holding bread. One figure in the foreground is reaching towards the basket. The background suggests an outdoor setting with a rocky or uneven terrain. The scene is framed by an arched architectural element above.",
+    "scene_interpretation": "Feeding of the Multitude",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0045/846,1550,576,1016/full/0/default.jpg"
+}

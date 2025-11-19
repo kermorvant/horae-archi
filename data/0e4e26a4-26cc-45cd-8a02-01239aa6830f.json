@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "In a verdant meadow dotted with sheep and a watchful dog, several shepherds look upwards in awe. One shepherd, kneeling, gestures with his hand towards the sky. Another, standing with a crook, also gazes skyward. Behind them, a river flows, and beyond that, a walled city with numerous spires and towers rises. In the bright blue sky above, a golden angel with outstretched wings descends, its gaze directed towards the shepherds. This scene depicts the Annunciation to the Shepherds, a pivotal moment in the Nativity narrative where angels announce the birth of Christ to humble shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "spire",
+        "tower",
+        "arch"
+    ],
+    "persons": [
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rodez/Bibliotheque_de_la_Societe_des_lettres_de_l_Aveyron/122025302_MS0001/DEPOT/122025302_MS0001_0058/687,350,1775,3033/full/0/default.jpg"
+}

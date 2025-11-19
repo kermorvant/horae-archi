@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a richly decorated architectural setting. On the left, the Angel Gabriel, with blue wings and a pink robe, gestures towards the Virgin Mary. He is positioned in front of a red, columned structure. On the right, the Virgin Mary, clad in a blue robe, looks down with her hand to her chest, holding a red heart. She stands before a green, intricately decorated wall with a shield bearing fleur-de-lis. The architecture features pointed arches, columns, and ornamental tracery, suggesting a Gothic style. The floor is tiled in a diamond pattern. Above the figures, a divine face is visible within a radiant halo, and decorative architectural elements frame the scene.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "capital",
+        "tracery_window",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f51/402,651,1080,1302/full/0/default.jpg"
+}

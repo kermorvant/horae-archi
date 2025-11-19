@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Sebastian, a martyr, standing naked except for a loincloth, with arrows piercing his body. He is surrounded by two archers, one on his left and one on his right, who are in the act of shooting arrows at him. The background is a rich red tapestry with gold scrolling foliage. Above Saint Sebastian, a blue architectural element, possibly a censer or a decorative finial, is depicted. The ground is green with stylized yellow plants. This imagery represents the martyrdom of Saint Sebastian, a Roman soldier who was condemned to be shot to death with arrows.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537193/46162322.tif/823,713,1350,1861/full/0/default.jpg"
+}

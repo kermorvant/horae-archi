@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a narrative divided into distinct vignettes. In the upper left, a group of armored soldiers on horseback are gathered near a body of water, with some figures submerged or struggling in the water. In the upper right, a procession of figures on horseback and on foot moves through a landscape dotted with trees and leading towards a walled city with prominent towers and spires. In the lower portion of the image, a group of people are gathered around a rocky formation from which water is flowing. One figure in a red robe is directing another figure kneeling to drink from the water source. Other figures are observing or interacting with the scene. The overall setting is a vibrant, detailed landscape with architectural elements in the background.",
+    "scene_interpretation": "Jacob at the Well",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Jacob"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_284/2852,554,1510,2376/full/0/default.jpg"
+}

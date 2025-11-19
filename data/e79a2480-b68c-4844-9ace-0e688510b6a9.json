@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. In the foreground, three men are prominent: one in a golden robe, another in blue, and a third in a red robe. The man in gold is being embraced by the man in blue, while the man in red stands to the right, facing them. Behind them, a crowd of onlookers is visible. To the far left, a skeletal, emaciated figure, possibly representing death or a demon, holds two long sticks. The background features a blue, star-studded sky and architectural elements suggesting an interior space with arched openings. The ground is depicted with a patterned green and white surface. The overall scene appears to be a formal gathering or procession, possibly with a spiritual or allegorical undertone given the presence of the skeletal figure.",
+    "scene_interpretation": "The scene likely represents a moment of transition or judgment, possibly related to the Dance of Death or a similar allegorical theme where death confronts the living, including royalty and clergy. The presence of crowned figures and a bishop suggests a representation of earthly power and religious authority facing mortality.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Metz/Bibliotheque_municipale/574636101_MS1598/DEPOT/574636101_MS1598_0070A/274,2479,1821,1975/full/0/default.jpg"
+}

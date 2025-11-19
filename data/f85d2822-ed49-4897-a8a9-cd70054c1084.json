@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A solitary figure, likely a shepherd or farmer, is depicted in a field, leaning on a staff. The figure wears a simple red tunic with gold embellishments and a flat cap. The background features rolling blue hills dotted with small, dark green bushes and a distant, indistinct building that appears to be a tower or castle. The foreground is a patch of green grass with golden strokes indicating texture. The scene is framed by a decorative border.",
+    "scene_interpretation": "Shepherd",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0137/DEPOT/315556101_MS0137_0056/1323,386,2061,1163/full/0/default.jpg"
+}

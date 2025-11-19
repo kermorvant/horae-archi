@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The Virgin Mary, with a golden halo, rides a grey donkey, holding the Christ Child swaddled in white. She wears a blue mantle over a golden-orange tunic. To her right, a bearded man, presumably Saint Joseph, walks alongside, dressed in a red robe with gold trim and a blue tunic, leaning on a staff. The scene unfolds in a landscape with rolling green hills, a body of water, and distant blue castles or towers on a hill. The foreground is a sandy path, and the background is a bright blue sky. The entire scene is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS1135_0219/DEPOT/620416201_MS1135_0219_0078A/440,1382,2362,3166/full/0/default.jpg"
+}

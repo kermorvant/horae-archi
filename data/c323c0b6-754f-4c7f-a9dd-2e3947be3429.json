@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a barren tree with a few branches, set against a richly decorated red background with gold ornamentation. On the left, two figures in blue robes look upwards towards the tree, with one gesturing with clasped hands. To the right, a crowned figure in a gold tunic and blue robe touches their face, seemingly in contemplation or distress, accompanied by two other figures. Above, a figure with a halo, dressed in green, descends from a starry blue sky, reaching out a hand towards the scene below. The ground is depicted as a green grassy area with sparse vegetation.",
+    "scene_interpretation": "This scene likely represents a prophetic vision or a divine intervention related to a king or important figure. The barren tree could symbolize a period of hardship or a prophecy of future events. The figure descending from the sky with a halo suggests a divine messenger or God himself, bestowing a vision or message. The crowned figure's gesture might indicate his reaction to this divine communication, possibly a prophecy of his lineage or kingdom. Without further context, a specific biblical event is difficult to pinpoint, but it evokes themes of divine revelation and royal destiny.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King",
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f337/1914,1168,893,1625/full/0/default.jpg"
+}

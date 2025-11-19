@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary tenderly holding the Christ Child. She is seated, wearing a blue robe, and cradles the infant in her arms. The background is a decorative tapestry-like pattern of squares in various colors, suggesting an interior setting or a symbolic representation of a sacred space. The figures are framed by a large, illuminated initial 'C' in blue and gold, with ornamental details.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0191/3725,1649,537,575/full/0/default.jpg"
+}

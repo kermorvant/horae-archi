@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two haloed women in a verdant, grassy landscape dotted with small flowers. The woman on the left, dressed in a purple robe and a white head covering, places her hand on the abdomen of the woman on the right. The woman on the right wears a vibrant blue gown and also has her hand resting on her belly, which is visibly distended, indicating pregnancy. Behind them, stylized rocky formations rise, and above, a blue arch frames a golden sunburst emanating divine light. The background features a rich, red tapestry-like pattern with gold scrolling foliage. This imagery represents the Visitation, a biblical event where Mary, pregnant with Christ, visits her cousin Elizabeth, who is also pregnant.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0066/DEPOT/M601415401_MS0066_0052/3017,481,1048,1599/full/0/default.jpg"
+}

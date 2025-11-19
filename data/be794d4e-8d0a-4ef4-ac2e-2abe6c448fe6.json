@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with rolling green hills dotted with trees. In the foreground, three figures are present: two individuals in blue tunics and red hose, one kneeling and gesturing upwards, the other standing with hands clasped in prayer or supplication, and a woman in a pink dress standing between them. Several sheep are scattered around the figures, and a brown dog is visible. In the background, a fortified settlement with towers and spires is depicted on a hill. Above, in the sky, a winged figure, possibly an angel, is shown in a swirling cloud formation. The overall impression is of a rural setting with a hint of the divine intervention or observation.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000002/MAA_00002_007.jpg/832,393,751,1053/full/0/default.jpg"
+}

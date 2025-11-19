@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her blue mantle and golden halo, meeting Elizabeth, who is dressed in a red robe and white veil, also with a golden halo. They are shown clasping hands in a gesture of greeting or embrace. Behind them, a path winds through a landscape dotted with trees and rolling hills. In the background, a walled city with towers and spires is visible, suggesting a journey or a destination. The overall setting is outdoors, with a sense of movement and encounter between the two figures.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f105/664,384,910,1739/full/0/default.jpg"
+}

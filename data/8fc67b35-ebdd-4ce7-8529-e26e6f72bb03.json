@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, wearing a blue robe and a crown of thorns, carrying a large wooden cross. He is being assisted and tormented by several figures. To his left, a man in an orange tunic and blue hat pushes against the cross. To his right, two men, one in a pink tunic and yellow hat, and another in a blue tunic and hat, also interact with the cross and Christ. The man in the pink tunic appears to be pulling on a rope tied around Christ's waist, while the man in the blue tunic, holding a sword, seems to be urging him forward. The background is a rocky, uneven terrain with sparse green bushes, suggesting a path or hillside. The upper portion of the image features a decorative border with a geometric pattern of gold, blue, red, and green squares and diamonds.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yz920mm4360%2FW172_000076_1200/4208,1460,4368,6399/full/0/default.jpg"
+}

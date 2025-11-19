@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "An angel, depicted with wings and a halo, descends from a celestial realm indicated by rays of light and a scroll bearing text, towards a pastoral scene. Below, three shepherds are shown in a green, hilly landscape dotted with sheep. One shepherd, seated on the ground, looks upwards in surprise or awe, while another stands and points towards the angel. A third shepherd, also standing, holds a staff. In the background, a town or city with buildings and towers is visible on a distant hill. The scene likely depicts the Annunciation to the Shepherds, a key event in the Nativity narrative.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55006457g/f122/277,184,761,1045/full/0/default.jpg"
+}

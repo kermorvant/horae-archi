@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the dead body of Christ. Mary, dressed in a blue robe and veil, is seated and looks down with sorrow at Christ, whose body is pale and marked with wounds and blood. Christ's head is crowned with thorns, and his body is limp in his mother's arms. Two angels with green wings and halos stand on either side of Mary, their hands clasped in prayer or reverence. Another figure, possibly a disciple or mourner, is shown at the lower right, gently touching Christ's feet, which are also bleeding. The background is a rich blue, adorned with gold lettering and decorative motifs, suggesting a sacred or celestial setting. The entire composition is framed by a decorative border with foliage and gold accents.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502614h/f53/620,285,1354,2173/full/0/default.jpg"
+}

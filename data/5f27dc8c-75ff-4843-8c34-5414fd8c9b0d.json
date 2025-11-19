@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a central encounter between two women, one appearing younger and possibly pregnant, and the other older and gesturing towards her. Both are dressed in medieval attire. Behind them, stylized architectural elements suggest a town or city setting with buildings and arches. To the left and right, framed figures are visible within architectural niches. The figure on the left is a woman with a headdress and a halo, while the figure on the right is a man wearing a cap and a cloak, also with a halo. The overall composition is divided into distinct panels by decorative borders.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0039/1343,3322,1478,609/full/0/default.jpg"
+}

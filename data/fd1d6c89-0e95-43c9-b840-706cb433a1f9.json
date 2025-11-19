@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Virgin Mary, clad in a blue mantle and gold undergarment, is seated and looking upwards with her hand raised. A dove, representing the Holy Spirit, descends towards her from above. On the right, the Angel Gabriel kneels, wearing a green robe and blue and red wings, holding a scroll. Golden rays emanate from a starry blue sky, illuminating the scene. The background features red drapery with gold patterns and architectural elements including arches and windows.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall",
+        "arcade"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10318624f/f33/528,221,909,1470/full/0/default.jpg"
+}

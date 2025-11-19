@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "Two bearded men, each holding a scroll with text, stand in an interior space with a tiled floor. The man on the left wears a yellow robe and a blue hat. The man on the right wears a red robe and a blue mantle, and has a golden halo. Behind them, architectural elements suggest a building with arches and niches containing figures. To the right of the man on the right, a bull is depicted. The scene likely represents a biblical or prophetic moment, possibly related to the Evangelists or Old Testament prophets.",
+    "scene_interpretation": "Prophets",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f51/948,3437,3297,2413/full/0/default.jpg"
+}

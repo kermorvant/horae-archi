@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a woman, likely Bathsheba, bathing in a large tub, holding an apple and a cross-shaped pendant. She is attended by several women. One woman holds a mirror reflecting Bathsheba, another appears to be combing her hair, and two others stand nearby, one holding a bowl of fruit or berries. Above and to the left, a man, possibly King David, is visible through an arched window, observing the scene. In the background, there is a stylized architectural setting with towers and mountainous terrain. The overall composition suggests a narrative scene from the Old Testament, specifically the story of David and Bathsheba.",
+    "scene_interpretation": "Bathsheba bathing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Bathsheba",
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0044/2757,645,1550,2071/full/0/default.jpg"
+}

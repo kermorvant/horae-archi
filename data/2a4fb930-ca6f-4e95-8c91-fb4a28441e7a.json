@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint or a prophetess, is depicted holding a staff in her left hand and a book in her right. She wears a blue garment with a brown cloak draped over her shoulders. Above and to the left, an angel with wings and a halo, depicted in dark blue and gold, flies towards the viewer, holding a staff. To the right of the angel, a black, winged creature resembling a demon or a bat hovers near the female figure's head. The background is a celestial blue sky with scattered golden star-like motifs. The lower portion of the image shows a stylized landscape with green and yellow hues, suggesting a terrestrial setting. The overall scene evokes a spiritual or prophetic moment, possibly depicting a saint receiving a divine message or confronting evil.",
+    "scene_interpretation": "Prophetess",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Château-Gontier/Bibliotheque_municipale/B530626201_MS0014/DEPOT/B530626201_MS0014_0085/1645,3574,1642,665/full/0/default.jpg"
+}

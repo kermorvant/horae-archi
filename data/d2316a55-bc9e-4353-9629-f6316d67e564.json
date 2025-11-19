@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in a landscape setting with distant castles. In the foreground, a kneeling figure in a hooded robe looks upwards with one hand raised. To their right, another figure kneels with hands clasped in prayer. Behind them, a third figure, bearded and wearing a hooded cloak, points upwards towards a divine light descending from an angel in the sky. The landscape is hilly and dotted with trees and sheep. The scene is framed by architectural elements on the sides, including columns and decorative motifs, and a carved inscription above.",
+    "scene_interpretation": "The scene likely represents a moment of divine revelation or answered prayer, possibly related to a saint or a biblical event where divine intervention is sought or received. The angel signifies a celestial messenger, and the light suggests divine grace or communication.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "roof",
+        "undefined_element"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9065943c/f45/3453,586,1984,3166/full/0/default.jpg"
+}

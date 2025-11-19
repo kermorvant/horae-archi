@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, clad in a blue robe, kneels with her hands clasped in prayer, gazing downwards. Behind her, Saint Joseph, with a beard and wearing a purple tunic, pours water from a blue vessel, possibly to wash the newborn. A donkey and a horse are visible behind them. In the foreground, the Christ Child lies in a wooden manger, swaddled in white cloth. Golden rays descend from above, illuminating the scene. The background shows a rough wooden structure with a small, gable-roofed building attached, and a window revealing a distant, idealized cityscape. The overall impression is one of quiet reverence and divine presence in a simple setting.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10026758n/f95/363,102,1476,1917/full/0/default.jpg"
+}

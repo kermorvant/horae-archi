@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her halo and blue mantle, meeting Elizabeth, who is dressed in a yellow tunic and red cloak and wears a headdress. Elizabeth's hand is placed on Mary's arm, and Mary's hands are clasped in front of her. Behind Mary, two figures are visible, one with blue wings, suggesting an angel. The background features rolling green hills and a cityscape with several buildings, including towers and walls, under a blue sky. The entire scene is framed by an ornamental arch.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0021/3634,1539,1286,1726/full/0/default.jpg"
+}

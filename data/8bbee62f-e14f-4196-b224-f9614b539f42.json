@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist on Patmos, seated outdoors by a river, writing on a scroll. A griffin or eagle stands beside him. In the background, a vision unfolds within a golden, arched frame. This vision includes a celestial realm with the Virgin Mary in an oval frame, an angel, and a red dragon. Below this, a procession of figures, some on horseback, travels along a river. Further in the distance, a city with towers and a bridge is visible, along with ships on the water. The left side of the vision shows a king seated on a throne with a lamb, attended by an angel and other figures, possibly representing Old Testament prophecies or heavenly visions.",
+    "scene_interpretation": "The Vision of Saint John on Patmos",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/3edf904b-f2f0-4e17-869b-6505428d10b2/711,1127,2196,2678/full/0/default.jpg"
+}

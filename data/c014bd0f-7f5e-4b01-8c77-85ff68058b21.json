@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a woman in a vibrant blue robe kneeling with her hands clasped in prayer. She is positioned in the foreground, facing towards an arched opening that looks out onto a landscape. Behind her, to the left, stand three figures, two of whom are looking towards the kneeling woman. The background interior features a red curtain and architectural elements suggesting a room or chamber. The overall composition suggests a moment of private devotion or contemplation, possibly within a domestic or sacred space, with the exterior landscape offering a contrast or a symbolic backdrop.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "door",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_269/DEPOT/710146101_269_0090/3341,549,1404,2039/full/0/default.jpg"
+}

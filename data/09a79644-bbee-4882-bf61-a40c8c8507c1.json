@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a halo and wearing a blue tunic, red cloak, and white veil, stands centrally, holding a large white cloth. The cloth displays the miraculous image of Christ's face, radiating golden rays. The scene is set within an architectural interior, suggested by the presence of columns and what appears to be a doorway or alcove with decorative elements. The floor is rendered with a cracked, green texture.",
+    "scene_interpretation": "Veil of Veronica",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f167/205,1420,752,875/full/0/default.jpg"
+}

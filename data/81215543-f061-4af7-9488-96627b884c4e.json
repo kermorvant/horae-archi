@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a large wooden ship sailing on a wavy sea under a blue sky with golden rays emanating from above. The ship has a prominent mast with sails, and a multi-tiered structure. Several figures are visible within the ship's structure. In the lower deck, a group of people, including women and men, are looking outwards. In the upper section, there are openings through which white, cloud-like forms are visible, possibly representing animals or divine presence. A bearded man with a red garment and a woman in a blue garment are positioned in the upper right part of the ship's interior. The overall impression is of a journey or a significant event taking place at sea.",
+    "scene_interpretation": "Noah's Ark",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Noah"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f48/442,965,984,1555/full/0/default.jpg"
+}

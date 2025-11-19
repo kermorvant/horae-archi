@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on their journey, likely the Flight into Egypt. The Virgin Mary, veiled in blue and adorned with a golden halo, rides a donkey, cradling the Christ Child in her arms. Saint Joseph, an elderly man with a white beard, walks beside them, holding a staff and wearing a hooded cloak. In the background, rolling green hills are dotted with trees, and on a distant hill, a fortified castle is visible. Below the figures, a decorative border frames a band of text with illuminated initials and a scroll, suggesting this is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022329z/f115/181,443,1606,2375/full/0/default.jpg"
+}

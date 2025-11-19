@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts three figures within an arched frame decorated with floral motifs. On the left, a woman in a hooded mantle and long robe, identified as the Virgin Mary by her halo, holds a child. The child, also with a halo, is reaching towards the woman on the right. This second woman, also with a halo, is dressed in a long robe and appears to be kneeling or in a posture of reverence. Behind the figures, a stylized landscape unfolds with trees and a prominent, angular architectural structure resembling a city or castle with multiple spires. The overall composition suggests a religious narrative, likely the Visitation, where Mary visits her cousin Elizabeth.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f174/908,399,816,1197/full/0/default.jpg"
+}

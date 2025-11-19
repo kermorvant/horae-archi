@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity, with God the Father, depicted as an elderly man with a white beard and a crown, holding the body of Christ. Christ is shown naked, save for a white loincloth, with wounds visible on his hands and feet, suggesting his crucifixion. God the Father is seated on a golden throne, draped in a red robe. Surrounding them is a radiant golden light emanating from behind, symbolizing divine presence. To the sides, within a blue, ethereal background, are figures of angels or saints, their hands clasped in prayer or adoration. The overall composition is ethereal and spiritual, emphasizing the divine nature of the figures and the solemnity of the event.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008559f/f87/258,396,1203,1034/full/0/default.jpg"
+}

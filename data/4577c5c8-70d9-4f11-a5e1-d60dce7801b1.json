@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, is depicted in a devotional pose, holding an open red book with gold clasps and illuminated pages. He wears a blue cope over a gold dalmatic and a white alb. The background features stylized green foliage and a blue sky, suggesting an outdoor setting. The figure is framed by architectural elements on the left and right, possibly indicating a niche or a decorative border.",
+    "scene_interpretation": "Saint in prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_020/DEPOT/890245409_n_020_0032/3646,1903,1051,1300/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Entombment of Christ. Christ's body, pale and marked, is being carefully laid onto a richly decorated bier covered by a blue cloth. Several figures surround the bier. On the left, a man in a green robe and a conical hat supports Christ's head. To his right, another man, also with a conical hat, anoints Christ's body with a vessel. In the center, a woman in an orange robe and white veil, likely the Virgin Mary, looks down with sorrow. On the right, a man wearing a crown and a blue cloak, possibly Joseph of Arimathea, supports Christ's feet. The background is a shimmering gold, suggesting a divine or sacred context. The bier itself is adorned with quatrefoil motifs.",
+    "scene_interpretation": "Entombment of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Joseph of Arimathea"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Pal.lat.537/Pal.lat.537_0072_fa_0035v.jp2/381,352,1053,830/full/0/default.jpg"
+}

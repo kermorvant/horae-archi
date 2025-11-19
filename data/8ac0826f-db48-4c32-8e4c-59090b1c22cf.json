@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A crowned female figure, likely a saint or queen, stands in a landscape. She wears a blue mantle adorned with gold motifs over a white garment with a patterned border. She holds an open book with musical notation. Behind her, a stylized tree with green foliage is visible on the left, and a castle with towers and battlements is depicted in the background on the right. The ground is rendered with rolling hills and scattered bushes. A water wheel is partially visible in the lower left corner. The scene is set against a blue sky dotted with small gold flecks, suggesting stars.",
+    "scene_interpretation": "Saint Cecilia",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "battlement",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint Cecilia"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025266x/f135/270,355,811,761/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Angel Gabriel, with wings outstretched and kneeling, is shown in profile, looking upwards. He holds a scroll with an inscription, and a beam of light emanates from a head in the upper part of the frame, directed towards him. On the right, the Virgin Mary stands, also looking upwards, with her hands raised in a gesture of acceptance or surprise. She is holding a small book. The figures are set against a grid-like background, suggesting an interior space, and framed by decorative architectural elements. A small vase-like object is visible between the figures.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038461s/f23/2292,477,873,1028/full/0/default.jpg"
+}

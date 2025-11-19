@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with long flowing hair and a golden halo, tenderly holds the Christ Child. She wears a red undergarment and a blue mantle. The Christ Child, also with a golden halo, is dressed in a blue tunic and holds a small object, possibly a prayer bead or a symbolic item. They are positioned against a dark blue background with vertical lines, suggesting an interior architectural setting. The scene is a devotional image of the Madonna and Child.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f239/246,481,582,697/full/0/default.jpg"
+}

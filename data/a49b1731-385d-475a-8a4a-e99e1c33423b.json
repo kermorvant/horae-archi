@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A crowned king kneels in prayer, his hands clasped, before a body of water with a walled city and numerous towers in the background. An angel, with large red wings and holding a sword, descends from the sky towards the king. A harp lies on the ground near the king. The scene is framed by an ornate, golden archway with decorative motifs. The overall impression is one of divine intervention or a significant spiritual moment for the king.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "king",
+        "angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1219/DEPOT/352386106_MS1219_0038/3687,406,1844,2596/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross bearing the inscription \"INRI\". Below the cross, several figures are gathered. To the left, two women, one kneeling and praying with hands clasped, and another standing behind her, both veiled and dressed in blue and gold robes. To the right, a young man with a halo stands, his hands clasped in prayer, wearing a white tunic and a red cloak. In the background, a landscape unfolds with rolling hills, trees, and distant buildings that appear to be part of a city or town, including towers and walls. The sky is a vibrant blue, and rocky formations are visible on the right side.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550130827/f70/416,333,1254,1948/full/0/default.jpg"
+}

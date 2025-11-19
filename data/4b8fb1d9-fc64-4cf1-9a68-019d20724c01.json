@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, holding a golden orb surmounted by a cross, bestowing a crown upon the Virgin Mary, who is kneeling with her hands clasped in prayer. An angel with green wings stands behind the Virgin, placing the crown on her head. The figures are positioned within an architectural setting that includes a checkered floor and a dark, patterned wall with decorative elements. A red canopy-like structure is visible above the Virgin and angel, and a red draped element is behind them. The inscription \"MARIA DIEM GEM\" is visible on a red banner above the scene.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lehigh_codex_017%2Flehigh_codex_017_jp2.zip%2Flehigh_codex_017_jp2%2Flehigh_codex_017_0143.jp2/3554,2054,4630,6671/full/0/default.jpg"
+}

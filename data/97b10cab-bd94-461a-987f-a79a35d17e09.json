@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, with a halo and wounds from which blood drips, stands bound to a column. Several figures surround him, some holding whips or ropes, in the act of scourging him. The setting appears to be an interior space with an arched architectural structure in the background, featuring windows with tracery. The floor is tiled in a checkered pattern. The figures are dressed in medieval attire, and their expressions convey a sense of cruelty and exertion.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ott.lat.2919/Ott.lat.2919_0046_fa_0019v.jp2/444,422,486,635/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely a man, seated in a landscape. He is looking upwards with his right hand raised, as if in prayer or supplication. He is dressed in a long robe and appears to be seated on the ground or a low surface. Behind him, a tree with foliage is visible, and in the distance, a fortified structure, possibly a castle or tower, is depicted against a hilly background. The entire scene is framed by an ornamental archway with decorative elements at the top. The style suggests a woodcut illustration, possibly from a devotional text.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0060/4944,2049,431,951/full/0/default.jpg"
+}

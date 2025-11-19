@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth. His body is emaciated and shows wounds. To the left of the cross stands the Virgin Mary, draped in a blue mantle over an orange robe, with her hands clasped to her chest in sorrow. To the right stands a female figure, likely Mary Magdalene, in a pinkish-purple mantle over an orange robe, also with hands clasped. The cross is set against a gold background with a pattern of small circles and diagonal lines, suggesting a divine or heavenly setting. At the foot of the cross, a skull is visible, symbolizing Golgotha, the place of the skull. The scene is framed by decorative borders with floral motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_183_v2%2Flewis_e_183_v2_jp2.zip%2Flewis_e_183_v2_jp2%2Flewis_e_183_v2_0215.jp2/4824,2638,5157,6996/full/0/default.jpg"
+}

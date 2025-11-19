@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and wearing a blue robe, holds the Christ Child on her lap. The Christ Child reaches out towards a golden chalice offered by one of the Magi, who kneels before them. Another Magus stands behind, holding a crown and a golden vessel. A third Magus, dressed in green, also holds a golden chalice. The figures are set in an outdoor landscape with rolling hills, a tree, and a distant city with spires. A simple, thatched structure provides shelter for Mary and the Child. A star shines in the upper left corner, a traditional symbol of the Nativity.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/gd972zf6050%2FW246_000150_1200/4804,1138,3076,4916/full/0/default.jpg"
+}

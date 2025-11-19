@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Jacob's dream, with Jacob lying on the ground in the foreground, asleep. Above him, a ladder extends into a starry, red sky, with golden clouds. An angel ascends the ladder, reaching towards a figure at the top who is likely God, depicted with a halo and holding a book. In the middle ground, two figures embrace, one with red wings, suggesting an angel, and the other in a blue robe. Another figure in a blue robe stands to the right, observing the scene. A white horse is also visible on the right side of the image. The overall setting is a dreamscape, with the earthly realm represented by the green ground and the celestial realm by the red, starry sky.",
+    "scene_interpretation": "Jacob's Dream",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Jacob",
+        "Angel",
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f121/1849,855,928,1722/full/0/default.jpg"
+}

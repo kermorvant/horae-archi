@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition from the Cross. Christ's body, pale and limp, is being lowered from the cross by two men. One man, dressed in blue, stands on a ladder, reaching to support the body. Another man, in a pink robe, holds Christ's legs and torso. To the left, two women mourn. The woman in blue, veiled, likely represents the Virgin Mary, while the woman in orange with a halo is likely Mary Magdalene or another follower. The background is a stylized landscape with green hills and a blue sky with clouds. Three crosses are visible in the distance.",
+    "scene_interpretation": "Deposition from the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0785_0520/DEPOT/620416201_MS0785_0520_0044/4618,1188,1886,1874/full/0/default.jpg"
+}

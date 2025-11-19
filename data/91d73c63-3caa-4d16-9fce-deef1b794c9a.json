@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, is depicted kneeling in prayer. She is wearing a blue mantle and a white veil, with her hands clasped together. She is positioned in an architectural setting that appears to be a room with a bed. The room has stone walls, a tiled floor, and windows with tracery. An ornate bed with a golden headboard is visible. The scene is framed by an architectural element resembling an arcade with a column and arches, and the entire composition is surrounded by a decorative border with floral motifs.",
+    "scene_interpretation": "The scene is likely an \"Annunciation\" or a \"Visitation\" or a \"Nativity\" scene, depicting the Virgin Mary in prayer, possibly awaiting or reflecting on a divine event. The presence of the bed could suggest a domestic setting or a scene related to childbirth or rest.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "roof",
+        "wall",
+        "arcade"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f159/1420,2781,949,773/full/0/default.jpg"
+}

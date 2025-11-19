@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A saintly figure, clad in an orange robe and with a halo, stands to the left, gesturing with open hands towards a small, fortified structure. Within this structure, a man with a beard and chains around his wrists and ankles is seated, looking upwards. Another figure, possibly a woman, is partially visible behind him. The background depicts a green, hilly landscape with some foliage. The scene is framed by an ornate border with blue and gold patterns.",
+    "scene_interpretation": "Saint John the Baptist Preaching to the Prisoners",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "door"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/10507301/865,953,926,983/full/0/default.jpg"
+}

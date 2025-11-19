@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher carrying the Christ Child across a body of water. Saint Christopher, a large man with a beard, wears a golden robe and carries a staff. The Christ Child, with a halo, sits on his shoulders, holding a golden orb and pointing upwards. In the background, a figure holding a lantern stands near a building, and a distant castle is visible on a hill overlooking the water. The overall setting is a river crossing with a hint of civilization in the distance.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower",
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Saint Christopher"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://diglib.uibk.ac.at/ulbtirolhds/i3f/v20/6013193/1950,2718,1418,1354/full/0/default.jpg"
+}

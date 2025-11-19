@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a richly decorated interior. On the left, several individuals in blue robes, possibly clergy or nobility, are engaged in reading or discussion. One figure, wearing a black habit and hood, kneels. In the center and right, a procession of figures in black hooded habits are gathered around a bier or altar, some holding books. The architecture features an arched arcade with windows behind, suggesting a cloister or a church interior. The ceiling is painted blue with gold stars, and the floor is a patterned wood. Decorative elements include gold candelabra and a golden basket with a bottle, possibly representing a funerary or devotional context.",
+    "scene_interpretation": "Funeral Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "arcade",
+        "window",
+        "roof",
+        "wall",
+        "pillar",
+        "capital",
+        "door"
+    ],
+    "persons": [
+        "Clergy",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jt399mb8580%2FW281_000337_1200/943,519,3177,4790/full/0/default.jpg"
+}

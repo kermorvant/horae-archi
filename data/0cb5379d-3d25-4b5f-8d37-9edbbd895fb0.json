@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, holding the Christ Child, riding on a donkey. She is accompanied by two figures. To her left, a young man plays a pipe, and to her right, another man, possibly Joseph, leads the donkey. In the background, a man is shown near a well or cistern, drawing water. The figures are set against a patterned red background, with a green, grassy foreground. The overall scene suggests a journey, likely the Flight into Egypt or a similar pilgrimage.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Pal.lat.537/Pal.lat.537_0206_fa_0102v.jp2/450,305,872,1056/full/0/default.jpg"
+}

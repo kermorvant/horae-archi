@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in an outdoor setting with architectural elements. In the foreground, a woman in a blue mantle and a man in a red hat and blue cloak stand together, seemingly in conversation. To the right, a woman in a blue gown and crown kneels on a set of stairs, her hands clasped in prayer, looking towards an opening. Within this opening, a figure in a yellow habit and orange hat stands, holding a book or tablet. Behind the foreground figures, a stone wall separates them from a complex of buildings with pitched roofs and a prominent tower with a golden roof. The overall scene suggests a devotional or narrative moment, possibly related to a biblical event or a saint's life, given the praying figure and the presence of a religious figure within an architectural structure.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower",
+        "stairs",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0034/4290,1514,551,600/full/0/default.jpg"
+}

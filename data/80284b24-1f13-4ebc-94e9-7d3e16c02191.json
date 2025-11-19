@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene is divided into two parts by a large column. On the left, a figure identified as 'David' kneels in armor in an outdoor landscape with trees and hills. He is beside a horse, and a harp lies at his feet. On the right, a king, seated on a throne and wearing a blue robe adorned with gold fleurs-de-lis, presides over a court. He is surrounded by several courtiers, one of whom holds a falcon. The floor is tiled in a blue and white checkerboard pattern, and the background suggests an interior space with architectural elements. The inscription above the king reads 'REX GOTH'. This scene likely depicts King David, possibly in a moment of prayer or receiving a message, and a royal court, perhaps representing a scene from his life or a symbolic representation of kingship.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0290.jp2/2181,2906,1547,1465/full/0/default.jpg"
+}

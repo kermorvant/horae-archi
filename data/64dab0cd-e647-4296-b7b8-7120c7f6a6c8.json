@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A crowded scene unfolds beneath a decorative arch, depicting several individuals engaged in what appears to be a transaction or exchange. In the foreground, a man in a cap gestures towards a large sack filled with round objects, possibly coins or produce. He is interacting with another man who stands opposite him, his hands raised as if in discussion or pleading. Behind them, other figures are visible, some with hands clasped in prayer or supplication, and one figure appears to be mounted on a horse. The background is filled with a stippled texture, suggesting a crowded or enclosed space. The scene's interpretation is unclear due to the lack of specific iconography, but it may represent a biblical narrative involving commerce, charity, or a plea for mercy.",
+    "scene_interpretation": "undefined_scene",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0017/4976,1595,553,892/full/0/default.jpg"
+}

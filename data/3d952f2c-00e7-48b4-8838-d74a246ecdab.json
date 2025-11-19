@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in a rocky, outdoor landscape with a river and distant castles. In the foreground, a man in ornate golden armor, bleeding from a wound on his forehead, leans against a rock. He holds a mace. Behind him, a second figure, dressed in blue, appears to be throwing stones or small objects at the armored man. The background features rolling hills, a winding river, and a stylized depiction of castles on a distant horizon. The overall impression is one of conflict or an attack in a natural setting.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/ms_1057_029%2Fms_1057_029_jp2.zip%2Fms_1057_029_jp2%2Fms_1057_029_0220.jp2/1015,908,2061,2971/full/0/default.jpg"
+}

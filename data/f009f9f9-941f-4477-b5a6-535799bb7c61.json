@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple, set within a richly decorated interior. The Virgin Mary, in a blue robe, kneels and presents the Christ Child to an elderly figure, possibly Simeon, who is wearing a bishop's mitre and green and orange robes. Other figures, including women in various head coverings and men in turbans, observe the event. The architecture features blue vaulted ceilings with gold ribbing, supported by columns. A bed covered with a white cloth, adorned with a green and red patterned spread, is central to the scene. A small dog lies on the tiled floor. The overall impression is one of solemnity and religious devotion.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/bs390xv5099%2FW270_000130_1200/4467,1448,3838,5201/full/0/default.jpg"
+}

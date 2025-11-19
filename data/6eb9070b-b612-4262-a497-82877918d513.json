@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A person, likely a woman, wearing a blue undergarment, a red cloak, and a red cap, is seated at a table covered with a white cloth. She holds a goblet in her right hand and appears to be preparing food or drink. On the table are a small golden pitcher, two round objects (possibly bread or cakes), and a knife. Behind the table, a stone wall is visible, and to the right, a structure with a conical roof and a wooden door, possibly a small building or shelter, is depicted. The background is a starry blue sky. The scene is framed within a decorative border.",
+    "scene_interpretation": "This scene likely depicts a domestic activity, possibly related to hospitality or sustenance, within a Book of Hours. Without further iconographic clues, a specific biblical or devotional event cannot be definitively identified. It could represent a general scene of daily life or a symbolic representation of charity or nourishment.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0007/4439,2651,582,561/full/0/default.jpg"
+}

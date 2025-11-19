@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "An angel with golden wings and a halo, dressed in a green robe, stands facing a seated figure. The seated figure, also with a golden halo and wearing a black cap, blue robe, and a red cloak trimmed with gold, is holding and looking at a scroll. The scene appears to be set indoors, with a plain wall and a hint of architectural structure in the background. A blue, gold-patterned drapery hangs behind the seated figure. The floor is rendered with a checkered pattern.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kz860yq2596%2FW428_000090_1200/4026,3307,1012,1265/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with rolling hills and scattered trees. Several shepherds, identifiable by their simple tunics and staffs, are shown looking upwards in awe. One shepherd points towards the sky, where a winged figure, likely an angel, is descending. The angel holds a scroll or ribbon in its hand, and appears to be addressing the shepherds. A flock of sheep grazes in the background, some near a small body of water. The scene is framed by an arched border adorned with gold leaf and intricate patterns, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011051v/f189/410,359,1199,1695/full/0/default.jpg"
+}

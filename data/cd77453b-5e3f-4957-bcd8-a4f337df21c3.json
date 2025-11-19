@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered indoors, centered around a woman in a blue robe who is the focal point. She has a golden halo and her hands are raised in a gesture of speaking or blessing. Surrounding her are several other figures, also with golden halos, some wearing red, green, and pink robes. The figures are seated or kneeling on a floor with a checkered pattern. Behind them, architectural elements suggest an interior space, with arches and what appear to be windows with a diamond lattice pattern. The overall impression is one of a significant religious gathering.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Apostles"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/HMML/HMML%2000008/HMML_00008_IMG_022r.JPG/862,1294,1309,1996/full/0/default.jpg"
+}

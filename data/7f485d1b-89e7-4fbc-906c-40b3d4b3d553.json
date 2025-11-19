@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An angel with radiant wings and a golden halo descends from the sky, gesturing towards a man kneeling in prayer. The man, clad in armor and a blue cloak, holds a helmet in his left hand and a staff with a red flag in his right. He looks up at the angel with an expression of supplication. To his left, a quadruped, possibly a dog or a lion, lies on the ground. The scene is set in a hilly, green landscape with trees and a distant church spire. The overall composition suggests a divine revelation or a moment of spiritual guidance.",
+    "scene_interpretation": "The Annunciation to Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_082/2671,656,951,1050/full/0/default.jpg"
+}

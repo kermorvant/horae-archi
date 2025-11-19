@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in the foreground, with a prominent figure in the center holding a smaller, unclothed figure. This central figure appears to be a woman, possibly the Virgin Mary, holding the Christ Child. She is surrounded by other individuals, some of whom seem to be looking on with concern or reverence. In the background, a complex architectural cityscape is rendered with multiple buildings, towers, and arched structures, suggesting an urban setting. The overall composition is dense and detailed, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "The scene likely represents the Presentation of Christ in the Temple, or a related event from the life of Christ and the Virgin Mary. The presence of the Christ Child being presented, along with other figures, and the backdrop of a city with religious buildings, aligns with such interpretations. The architectural setting could symbolize Jerusalem.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0017/1037,1710,501,980/full/0/default.jpg"
+}

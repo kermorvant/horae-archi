@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a landscape setting with a richly patterned, tessellated background. On the right, two figures with halos are present. One, appearing older with a long white beard, is dressed in blue and embraces another figure who is partially undressed, revealing wounds, and also has a halo. To the left, three figures are shown looking upwards with expressions of awe and supplication. One figure, in the foreground, kneels with hands clasped in prayer, wearing a brown robe. Two other figures, dressed in blue, stand behind him, also looking upwards. The ground is rendered with green foliage and stylized plants. The overall impression is one of a divine or miraculous event.",
+    "scene_interpretation": "The scene likely represents the Resurrection of Christ or an appearance of the resurrected Christ to his disciples or witnesses. The figure with wounds and a halo is clearly Christ. The older figure embracing him could be God the Father or a significant saint. The kneeling and looking figures on the left represent disciples or believers witnessing this divine event.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f308/378,1262,845,1548/full/0/default.jpg"
+}

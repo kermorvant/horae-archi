@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A young figure, identified as Christ by his halo, is seated on a raised wooden platform, holding an open book and pointing to it. He is dressed in a blue robe. Three older men, presumably scholars or religious figures, are seated around him, listening attentively. The figure on the left wears a red hat and a blue mantle over a light-colored robe. The figure on the right wears a black cap and a red garment beneath a blue collar. The third figure, in the foreground, wears a light blue-green robe. The background features a brick wall and a patterned tapestry. The scene depicts Christ teaching, likely in a setting that evokes a learned or religious environment.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0082/4342,1468,554,640/full/0/default.jpg"
+}

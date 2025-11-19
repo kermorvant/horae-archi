@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene is divided into two registers. The upper register depicts a celestial court with Christ seated on a throne, gesturing with his right hand and holding a globe surmounted by a cross. Before him kneels the Virgin Mary, hands clasped in prayer, crowned and adorned with a blue mantle. Above them, angels play musical instruments and a host of red-robed figures with wings are visible within an arched architectural structure. The lower register shows the Virgin Mary, also crowned and in prayer, standing on blue waves, flanked by two angels. The overall scene likely represents the Coronation of the Virgin, a significant event in Christian devotion, emphasizing Mary's exalted status in heaven.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0106/930,532,2089,2132/full/0/default.jpg"
+}

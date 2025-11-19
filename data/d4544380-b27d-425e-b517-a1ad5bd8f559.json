@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A king, seated on a golden throne adorned with intricate patterns, gestures with his right hand while holding a scepter. He wears a jeweled crown and a purple robe over a patterned orange garment. Before him, soldiers in golden armor stand, one of whom holds a bloody infant. Another infant lies on the floor, also bloody. In the background, a stone wall suggests an interior setting, with a group of onlookers observing the scene. The overall depiction is of a brutal act of violence, likely the Massacre of the Innocents, ordered by a tyrannical ruler.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "King",
+        "Soldier"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f172/940,932,993,1785/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and seated on a throne, holding the Christ Child. She is surrounded by several figures, some appearing to be angels or attendants, with halos indicating their sanctity. To the left, a kneeling figure, likely a donor or a saint, is presented with a swan. The background is richly decorated with gold leaf and patterned textiles, suggesting a regal or divine setting. The overall composition is framed by decorative borders typical of illuminated manuscripts.",
+    "scene_interpretation": "Madonna and Child with Saints and Donor",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Metz/Bibliotheque_municipale/574636101_MS1598/DEPOT/574636101_MS1598_0016A/180,1803,1858,2186/full/0/default.jpg"
+}

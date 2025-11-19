@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a funeral procession outside a church. Several figures in black monastic habits are gathered on the left, facing a group of clergy in white albs and blue copes. Two clergy members are holding an open book and a censer, suggesting a religious rite. In the foreground, a man in a red garment is supporting a body wrapped in white cloth, seemingly carrying it towards the church. The architecture visible is a church with a pitched roof, arched windows, and a prominent gable. The sky is a deep blue with scattered gold stars, and the ground is green grass. The overall impression is one of solemnity and religious observance.",
+    "scene_interpretation": "Funeral Rite",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "gable"
+    ],
+    "persons": [
+        "Clergy",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_073/DEPOT/M490075203_MS2003_1_073_0142/2283,1005,1306,1888/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed man with a beard, dressed in a robe, is seated and writing on a scroll unfurled from a book. To his left, a winged creature resembling a deer is also present, looking towards the man. The background consists of text, suggesting a manuscript illumination. The scene is framed by decorative borders.",
+    "scene_interpretation": "Saint Luke Writing",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f42/810,620,1039,1202/full/0/default.jpg"
+}

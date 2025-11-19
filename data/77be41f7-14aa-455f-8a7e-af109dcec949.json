@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, likely King David, kneels in prayer before an altar. He wears a crown and a richly decorated robe, with blue sleeves and a red outer garment trimmed with ermine. His hands are clasped in supplication, and his gaze is directed upwards towards a divine light emanating from a blue window. On the altar are the Tablets of the Law, represented as two golden tablets, and a blue, conical object, possibly a liturgical headdress or a symbolic representation. The scene takes place within an interior space with ornate architectural details, including decorative panels on the walls and a red canopy suspended from the ceiling. To the right, a golden harp, an attribute of King David, is visible.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/3021e338-c998-4696-b81c-477a0fdd6c60/1956,192,728,1224/full/0/default.jpg"
+}

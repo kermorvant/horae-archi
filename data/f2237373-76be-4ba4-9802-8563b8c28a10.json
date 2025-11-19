@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, in a blue mantle and yellow tunic, kneels with her hands clasped in prayer before the Christ Child, who lies in a blue manger adorned with golden rays. Behind them, an ox and a donkey are visible. To the left, a woman in a black habit and wimple, likely a nun, looks on with devotion, accompanied by three young boys in blue and red robes, also in prayer. The figures are positioned within a stable-like structure, suggested by the rough stone wall and wooden beams in the background. A decorative golden column frames the right side of the scene, and a scroll with Latin text is unfurled above the figures. The overall atmosphere is one of reverence and quiet contemplation.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "column",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127516/f20/438,281,1011,1472/full/0/default.jpg"
+}

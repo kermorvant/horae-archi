@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, with a halo, stands bound to a post, his body marked with wounds and blood. Two figures, one on either side, are shown striking him with scourges. A fourth figure kneels before Christ, seemingly in prayer or supplication. The background is a simple green ground and a grey wall with visible brickwork. The figures are rendered in a stylized medieval manner with gold accents on their clothing and halos.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/nm106gm5236%2FW277_000058_1200/4989,4937,2038,1959/full/0/default.jpg"
+}

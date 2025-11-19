@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross at the center. He is shown with a halo, wearing a loincloth, and bleeding from wounds. To his left, the Virgin Mary, veiled in blue, mourns with other figures. To his right, a man in a pink tunic and blue hose points, while a figure in ornate golden armor with a tall headdress stands beside him. In the background, a stylized cityscape with towers and buildings is visible against a blue sky and a gold ground, suggesting a symbolic or heavenly setting.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_214%2Flewis_e_214_jp2.zip%2Flewis_e_214_jp2%2Flewis_e_214_0166.jp2/1093,1780,5938,8118/full/0/default.jpg"
+}

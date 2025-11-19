@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, kneels with hands clasped in prayer, holding a cross. To her left, a lion-like creature with a human-like face gnaws on a scroll or cloth. The scene is framed by an architectural element resembling a pointed arch with decorative tracery, and the background is filled with stippling suggesting a starry or textured sky. The figure's long, flowing hair and simple robe indicate a devotional context. The presence of the lion is a common attribute for certain saints, particularly those who were persecuted or faced trials.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0038/1061,760,530,576/full/0/default.jpg"
+}

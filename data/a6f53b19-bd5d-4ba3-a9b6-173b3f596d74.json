@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A woman, adorned with a tall, elaborate headdress featuring a floral motif, is depicted seated. Her hands are raised, one in a gesture of speech or prayer. She is draped in voluminous clothing. In the background, a smaller figure stands, facing away from the viewer, dressed in a tunic and cap. Behind this figure, a stylized cityscape is visible, featuring a tall tower with crenellations and arched windows, alongside other buildings. The overall scene suggests an outdoor setting with architectural elements.",
+    "scene_interpretation": "The scene is likely a depiction of a biblical or devotional narrative, possibly related to a saint or a significant female figure from scripture. The gesture of the woman's hands and her prominent headdress could indicate a moment of prophecy, prayer, or discourse. The background cityscape suggests a worldly setting, contrasting with the spiritual or personal focus on the woman.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower",
+        "arch",
+        "battlement"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_T1343/DEPOT/B530626201_T1343_0105/3972,2239,649,1038/full/0/default.jpg"
+}

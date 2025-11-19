@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A procession of figures moves through a landscape. In the foreground, a woman in a white, gold-trimmed gown and a white turban walks to the left, her hand extended. Behind her, two men play musical instruments: one plays a harp, and the other plays a lute. A third man, further back, blows a horn. The background depicts a hilly landscape with scattered bushes and a distant building. The scene is rendered with a dark, stylized forest on the left and a lighter, more ethereal sky and landscape on the right. The overall impression is one of a celebratory or ceremonial procession.",
+    "scene_interpretation": "Procession",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Musician",
+        "Musician",
+        "Musician"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f119/237,347,2002,3109/full/0/default.jpg"
+}

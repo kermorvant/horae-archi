@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a youthful figure, possibly a shepherd or a saint, standing in a natural setting with trees. The figure is draped in flowing garments and holds a staff or spear. To the left, a creature, perhaps a lamb or a dog, is partially visible, suggesting a pastoral or allegorical context. The overall style is sketch-like and somewhat indistinct, typical of preparatory drawings or early manuscript illuminations.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90680221/f205/3338,2049,789,1053/full/0/default.jpg"
+}

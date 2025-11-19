@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a king, adorned with a crown and a golden robe, pointing with his right hand. Beside him stands another figure in a red tunic. In the foreground, a woman in a blue dress kneels with her hands clasped in prayer, her head bowed. Behind her, a man in a light-colored tunic raises a large tool, possibly a shovel or a hammer, as if to strike her. The background shows a hilly landscape with scattered buildings and trees under a blue sky with clouds. The overall scene suggests an act of judgment or execution, possibly related to a biblical or hagiographic narrative.",
+    "scene_interpretation": "Martyrdom",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King",
+        "Woman in prayer",
+        "Executioner"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_MS0688/DEPOT/B721816101_MS0688_0040/1201,583,1404,1785/full/0/default.jpg"
+}

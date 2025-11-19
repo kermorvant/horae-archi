@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Angel Gabriel, with feathered wings and a halo, kneels and presents a scroll inscribed with \"Ave Maria Gratia Plena\". Facing him on the right is the Virgin Mary, also with a halo, dressed in a dark robe and holding an open book. She has her hands clasped over her chest in a gesture of humility or acceptance. Above them, in an arched niche, a bearded figure, likely God the Father, is depicted with rays of light emanating from him, and a dove, representing the Holy Spirit, descends towards Mary. The background features a patterned textile and a window with tracery. The floor is tiled in a geometric pattern. The entire scene is framed by an ornate arch with floral motifs.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036619c/f29/2388,307,972,1568/full/0/default.jpg"
+}

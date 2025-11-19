@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two bearded men, dressed in long robes and distinctive hats, stand facing each other. The man on the left has his arm around the shoulder of the man on the right, who gestures with his right hand. Behind them, architectural elements suggest an interior space, with arched structures and what appear to be decorative niches or small towers. The scene is rendered in a woodcut style, with strong outlines and hatching to indicate form and shadow.",
+    "scene_interpretation": "The scene is too generic to definitively interpret a specific religious or biblical event without further context. However, the presence of two men in what appears to be a formal setting, possibly engaged in discussion or counsel, could allude to various biblical narratives involving male figures, such as disciples, prophets, or figures from the Old Testament. The architectural elements might suggest a sacred or important location.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0019/740,3452,639,1191/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, wearing a blue mantle and golden halo, rides a donkey, cradling the Christ Child, who is also haloed. Saint Joseph, with a red hat and cloak, walks beside the donkey, holding a staff and leading the animal. They are depicted in an outdoor setting with rolling green hills, trees, and distant, stylized buildings on hilltops under a blue sky with golden rays emanating from above. The scene is framed by an arched border decorated with floral motifs and gold leaf.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_BERNIER_I-C-028/DEPOT/M601415401_BERNIER_I-C-028_0070/2095,535,1400,2330/full/0/default.jpg"
+}

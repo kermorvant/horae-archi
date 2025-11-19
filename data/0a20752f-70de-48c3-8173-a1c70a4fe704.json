@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ, wearing a crown of thorns and with wounds visible, is being lowered. He is supported by an older man with a beard, likely Joseph of Arimathea, who cradles his body. To the left, the Virgin Mary, draped in a blue mantle, leans her head against Christ's arm, her face conveying sorrow, accompanied by another figure, possibly John the Evangelist. On the right, a man in a green tunic and red hood ascends a wooden ladder, assisting in the removal of Christ. The background is a rich tapestry of gold squares interspersed with blue and red, suggesting a divine or symbolic setting rather than a literal architectural space. The ground is depicted as green.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Joseph of Arimathea"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/ff688vm4417%2FW166_000246_1200/3954,1611,2873,4094/full/0/default.jpg"
+}

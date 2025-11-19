@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. A newborn Christ Child lies on the ground, radiating light, surrounded by small figures and what appear to be architectural elements in the background. To the right, the Virgin Mary, wearing a dark robe and a halo, gazes downwards. To her left, an older man with a beard, possibly Saint Joseph, dressed in a monastic habit, gestures with his hand. The background is dark and suggests an interior space with some rudimentary architectural structures.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037275w/f63/491,186,835,1510/full/0/default.jpg"
+}

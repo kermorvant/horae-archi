@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Sebastian, a Christian martyr, standing pierced by numerous arrows. He is shown in the center of the image, with a halo indicating his sainthood. Around him are several figures, some appearing to be soldiers with bows and arrows, and others in more elaborate attire, possibly onlookers or tormentors. The setting is an outdoor landscape with green grass, bushes, and a tree in the background under a blue sky. A scroll with Latin text is unfurled at the bottom of the image, likely providing context or a devotional message related to the martyrdom. The depiction emphasizes the suffering of the saint through the visible wounds and blood.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537210/46200705.tif/328,313,2490,4024/full/0/default.jpg"
+}

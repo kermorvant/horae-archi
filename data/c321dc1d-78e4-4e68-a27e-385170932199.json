@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a central, bearded figure, likely God the Father, seated on a throne-like structure. He holds two staffs or sceptres, one in each hand, and wears a laurel wreath. Below him, two figures kneel on either side of a rectangular altar. The figure on the left, dressed in robes, holds a long staff or trumpet. The figure on the right, also robed and with hands clasped in prayer, looks upwards. The altar is decorated with a circular motif. The background is filled with foliage and architectural elements that suggest a stylized, perhaps heavenly, setting.",
+    "scene_interpretation": "The scene likely represents the Last Judgment or a divine judgment. The central figure is God, presiding over the judgment. The figures below could be souls being judged, or perhaps angels. The trumpets held by one figure might allude to the trumpets of the Last Judgment, heralding the resurrection of the dead. The altar could symbolize the place of judgment or sacrifice.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "capital",
+        "pillar",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0101/959,1804,466,993/full/0/default.jpg"
+}

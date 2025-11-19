@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral setting with three figures and a flock of sheep. In the foreground, a seated woman looks upwards with her hands clasped, while another figure, also seated, plays a pipe. A third figure stands behind them, holding a staff and raising one hand in supplication or awe. Above them, a celestial vision appears in a circular frame, depicting a bust of a person with hands clasped in prayer, bathed in divine light. In the background, several towers and fortified structures are visible, suggesting a town or castle. The presence of sheep and the pastoral elements, combined with the celestial vision, likely allude to a biblical narrative or devotional theme.",
+    "scene_interpretation": "The scene is likely an illustration of the Annunciation to the Shepherds, a key event in the Nativity narrative. The celestial vision above represents the Angel Gabriel announcing the birth of Christ to the shepherds. The figures in the foreground, tending to their flock, are the shepherds. The presence of divine light and the reverent postures of the figures reinforce this interpretation.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037191j/f42/706,236,979,1608/full/0/default.jpg"
+}

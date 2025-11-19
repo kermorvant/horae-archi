@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. A young Christ Child, with a halo, is held by a bearded man wearing a bishop's mitre and a red robe, who is presenting him onto a richly decorated altar. To the left, the Virgin Mary kneels in prayer, dressed in a blue mantle. Behind her, a woman in a gold dress holds a basket containing two doves, and a bearded man in a red robe with hands clasped in prayer stands behind her. The background features a dark, ornate screen or wall on the left and a green, patterned tapestry on the right. The altar is covered with a red, patterned cloth and has a white cloth draped over its front.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy",
+        "altar"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.443/Barb.lat.443_0143_fa_0065r.jp2/313,313,490,683/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two bearded men stand in a verdant landscape under a blue sky. The man on the left wears a gold tunic and a dark blue cloak, holding a scroll inscribed with \"Jonas.\" The man on the right wears a blue robe and a red and gold cloak, with a distinctive pointed hat. He holds a scroll that appears to be a continuation of the first, inscribed with \"achias.\" Both figures are depicted in profile, engaged in conversation or presentation of their respective texts. The background features stylized trees and a distant, indistinct landscape.",
+    "scene_interpretation": "Prophets",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Jonas",
+        "Achias"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f32/2245,4181,1628,1512/full/0/default.jpg"
+}

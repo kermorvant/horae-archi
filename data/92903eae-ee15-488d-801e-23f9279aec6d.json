@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his head bowed and a crown of thorns on his head. Blood drips from his wounds. To the left, the Virgin Mary, dressed in blue, stands with her hands clasped in prayer and a sorrowful expression. To the right, Saint John the Evangelist, in a red cloak over a blue robe, holds a book and rests his head on his hand, also appearing distressed. The background is a blue sky with golden rays emanating from above and scattered stars. The figures are set against a naturalistic landscape with trees and hills. The entire scene is framed by an arched border decorated with floral motifs and gold leaf.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0100/utp-0100_136r.jp2/1117,650,2342,3495/full/0/default.jpg"
+}

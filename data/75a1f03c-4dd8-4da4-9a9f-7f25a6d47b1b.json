@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A crowned female figure, depicted with a halo, is seated and holding an open book. She wears a red mantle over a white garment adorned with black dots. The background is dark and appears to be a wall, with a hint of architectural detail on the left. The figure's posture and the book suggest a learned or devotional context, possibly representing a saint or a queen engaged in reading scripture or theological texts.",
+    "scene_interpretation": "Saint reading",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.107/Ross.107_0353_fa_0170r.jp2/619,620,162,543/full/0/default.jpg"
+}

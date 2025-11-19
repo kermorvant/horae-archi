@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in prayer within a domestic setting. On the left, a woman in a black headdress and dark robes, with a fur-lined cloak, clasps her hands in prayer. Before her, a large, ornate red scroll unfurls, inscribed with Latin text. To the right, a man kneels before a lectern, his hands pressed together in prayer, reading from an open book. He wears a yellow tunic with blue sleeves. Behind him, a richly decorated bed with red bedding and green drapery is visible. Above the figures, a radiant vision appears: a figure, likely a divine messenger or Christ, descends from a golden halo surrounded by rays of light, also accompanied by a blue scroll with Latin inscription. The overall impression is one of devout contemplation and spiritual visitation within a private chamber.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "bed"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127516/f170/468,292,835,981/full/0/default.jpg"
+}

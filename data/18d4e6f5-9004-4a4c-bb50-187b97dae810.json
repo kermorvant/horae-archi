@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, possibly a king or prophet, is depicted in profile, facing left. He wears a crown and a richly draped garment. His right hand is raised, with fingers extended in a gesture of speech or blessing. The background is filled with a stippled pattern, suggesting a decorative or symbolic space. To the right, a column is visible, part of an architectural frame. The overall style is that of a woodcut illustration, likely from a medieval manuscript or printed book.",
+    "scene_interpretation": "This image likely depicts a prophet or a king from the Old Testament, possibly in a scene of prophecy or pronouncement. The gesture of the raised hand is often associated with speaking or conveying divine message. Without further context, a specific biblical event cannot be definitively identified, but it aligns with devotional imagery of significant religious figures.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "bearded man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0018/4021,4006,414,727/full/0/default.jpg"
+}

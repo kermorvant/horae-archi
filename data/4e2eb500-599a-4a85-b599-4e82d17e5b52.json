@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary seated centrally, hands clasped in prayer, surrounded by the Apostles. Above them, the Holy Spirit descends in the form of a dove, radiating golden rays of light. The figures are gathered within a vaulted architectural space, suggested by the arches and windows visible in the background. The Apostles are shown with halos, some looking upwards in awe, while one holds a book. The overall impression is one of divine inspiration and communal prayer.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/SanMarino_Huntington_HM1099%2FSanMarino_Huntington_HM1099_jp2.zip%2FSanMarino_Huntington_HM1099_jp2%2FSanMarino_Huntington_HM1099_0236.jp2/761,367,1176,1754/full/0/default.jpg"
+}

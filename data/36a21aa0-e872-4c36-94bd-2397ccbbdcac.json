@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation ceremony within an architectural setting. An elderly man, likely a priest or Simeon, holds the Christ Child, who is being presented by a woman kneeling in prayer, possibly Mary. Another woman stands behind her, and a man stands to the right, observing. The figures are positioned around a raised altar-like structure. The background features architectural elements suggesting an interior space, with columns, arches, and decorative moldings.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "roof",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90680221/f104/3185,835,1520,1984/full/0/default.jpg"
+}

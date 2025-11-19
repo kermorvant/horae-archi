@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "A central figure, likely Christ, is seated on a raised throne with multiple steps, gesturing with his right hand. He is surrounded by a group of men, some seated on benches and others standing, all looking towards him. In the foreground, a woman, likely the Virgin Mary, kneels with her hands clasped in prayer, accompanied by another kneeling figure. The scene is set within an elaborate architectural structure featuring pointed arches, ribbed vaults, and decorative tracery, suggesting a sacred or courtly setting. The overall composition depicts a moment of teaching or judgment, with the central figure holding authority and the surrounding figures in postures of reverence or supplication.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "ribbed_vault",
+        "ornamental_tracery",
+        "arch",
+        "stairs",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f74/2496,567,900,1206/full/0/default.jpg"
+}

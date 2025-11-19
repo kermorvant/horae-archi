@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A female figure with long, flowing red hair and a halo stands against a blue sky. She wears a vibrant blue robe and a reddish-brown mantle adorned with gold trim. In her right hand, she holds a golden chalice containing what appears to be a serpent or dragon, and her left hand is raised, palm open. The background depicts a green landscape with trees and a hint of distant hills. The scene is framed by an arched architectural element with decorative gold detailing.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0010/5039,2090,494,836/full/0/default.jpg"
+}

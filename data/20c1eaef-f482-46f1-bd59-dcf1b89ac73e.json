@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a halo and veiled head, stands and holds a shroud or veil. On this veil is the face of Christ, also with a halo, appearing as a bust. The scene is framed by architectural elements suggesting a niche or canopy, with decorative arches and what appear to be miniature towers or pinnacles. The overall impression is a devotional image of the Veil of Veronica or a similar representation of Christ's suffering.",
+    "scene_interpretation": "Veil of Veronica",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "pinnacle"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0075/4002,1747,705,987/full/0/default.jpg"
+}

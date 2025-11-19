@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. On the left, the Angel Gabriel, clad in a golden cloak over a blue robe, kneels and gestures towards the Virgin Mary. He holds a staff topped with a cross. Above him, through an arched opening, a depiction of God the Father crowned and radiating light is visible, with golden rays extending downwards. In the center, a lectern with an open book rests on the floor. To the right, the Virgin Mary, dressed in a blue gown and a white veil, kneels with her hands clasped in prayer. Behind her is a large red bed with golden trim. A white dove, symbolizing the Holy Spirit, descends from above. The floor is tiled in a green and white checkered pattern. A Gothic-style window with tracery is visible on the back wall.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/mv404mn8568%2FW434_000130_1200/4260,1993,2553,3601/full/0/default.jpg"
+}

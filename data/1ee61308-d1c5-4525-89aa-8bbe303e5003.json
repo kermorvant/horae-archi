@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary. Two winged figures, likely angels, are shown lifting the Virgin Mary, who is lying on a white shroud. She has a halo and her head is tilted back, with her eyes closed. Her hair is long and golden. Above them, a divine light emanates from a dove, representing the Holy Spirit, surrounded by rays of light. In the foreground, a sarcophagus or tomb is depicted, with a lid placed separately. The setting is a landscape with green, undulating ground, and the scene is framed by an ornamental border.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1509/DEPOT/352386106_MS1509_0078/3603,566,1598,2022/full/0/default.jpg"
+}

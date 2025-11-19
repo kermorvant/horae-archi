@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and holding the Christ Child, is on the right. The Christ Child is looking forward with his hand raised. Three Magi are present, one kneeling and offering a chalice, and two standing, one holding a reliquary and the other a monstrance. They are all wearing crowns and elaborate robes. Scattered on the ground are several crowns and what appear to be coins or precious stones. The background suggests a stable or humble dwelling with wooden beams and a textured wall.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0079/DEPOT/M601415401_MS0079_0058/1512,667,1767,2151/full/0/default.jpg"
+}

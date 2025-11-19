@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered in what appears to be an interior space, possibly a hall or courtyard, with an arched entryway leading to a darker interior with a Gothic window. In the foreground, a central figure, possibly Christ, is depicted with wounds and a crown of thorns, draped in a red robe. He is surrounded by other men, some of whom are gesturing or holding scrolls with inscriptions. The architectural elements suggest a medieval setting, with a large pink column on the left and an arched opening. The overall atmosphere is somber, suggesting a religious narrative.",
+    "scene_interpretation": "Passion of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025446v/f308/799,147,1086,1562/full/0/default.jpg"
+}

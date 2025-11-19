@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a winged figure, likely an angel, reaching towards a seated human figure. The human figure, with long hair and dressed in simple garments, appears to be holding something in their lap. Behind the human figure is a tree with foliage. The background is filled with stippling, suggesting a starry or celestial setting. The entire composition is framed by decorative, curvilinear elements that resemble stylized foliage or architectural ornamentation.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0033/801,422,677,733/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The image depicts a female saint, identifiable by her halo, holding a book in her left hand and a pair of pincers in her right. She is dressed in a long, flowing robe and a mantle. Behind her, to the right, a small tower with crenellations is visible, suggesting an architectural setting. The scene is framed by an arched canopy with decorative elements. The saint's attributes, the book and the pincers, are indicative of Saint Apollonia, who is traditionally depicted with dental instruments used to extract her teeth.",
+    "scene_interpretation": "Saint Apollonia",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "Saint Apollonia"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0073/1049,715,441,632/full/0/default.jpg"
+}

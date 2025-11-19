@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ being scourged, surrounded by four figures. Christ, centrally positioned, is partially undressed, wearing only a loincloth, and appears to be bound. Two figures on either side of him are actively tormenting him. The figure on the left is striking Christ's head, while the figure on the right holds a whip or similar implement. Two other figures are positioned behind Christ, one appearing to mock or strike him. The scene is framed by an arched border with decorative elements. The ground is depicted as uneven, with some stylized foliage or debris. Below the main scene is a decorative cartouche, suggesting it is part of a larger illuminated manuscript or printed book.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0101/5839,450,626,1140/full/0/default.jpg"
+}

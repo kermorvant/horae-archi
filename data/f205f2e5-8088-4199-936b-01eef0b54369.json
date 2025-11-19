@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and wounds, standing centrally with his right hand raised in blessing and his left hand holding a staff topped with a cross. He is surrounded by soldiers, two of whom are prominently featured in the foreground, holding spears. Behind Christ, architectural elements suggestive of a city or buildings are visible, including towers and arched structures. The overall impression is one of Christ's triumph or authority amidst his captors or accusers.",
+    "scene_interpretation": "Christ Triumphant",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0097/978,2086,614,1128/full/0/default.jpg"
+}

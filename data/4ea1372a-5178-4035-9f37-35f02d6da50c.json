@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a religious narrative unfolding within a partially visible architectural setting. On the left, three figures stand together. One figure, likely a saint due to the halo, is positioned between two other individuals. The central figure is looking upwards with hands outstretched in supplication or awe. To the right, a figure stands within an arched doorway, gesturing outwards. The background shows a stylized landscape with trees and a small building. The overall composition suggests a moment of divine intervention or communication.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "door",
+        "stairs"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_MS1780/DEPOT/330636101_MS1780_0024/3137,472,1261,1948/full/0/default.jpg"
+}

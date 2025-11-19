@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, seated and holding the Christ Child, who is presented to an older woman. The Virgin Mary is dressed in a blue robe and has a golden halo. The Christ Child, depicted as a naked infant with a halo, is held between the two women. The older woman, likely Saint Anne, is kneeling and wearing a blue-grey habit and a white veil. Both women are seated or kneeling on a red carpeted surface, against a backdrop of a red curtain and grey walls. The overall setting suggests a devotional or domestic interior.",
+    "scene_interpretation": "Madonna and Child with Saint Anne",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Anne"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421736/1087,594,701,770/full/0/default.jpg"
+}

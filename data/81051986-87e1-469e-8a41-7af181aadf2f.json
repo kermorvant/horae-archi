@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A male figure, depicted with a halo, stands in a landscape setting. He wears a red robe with gold trim over a white undergarment and a cap. He holds a grid-like object, likely a musical instrument or a symbol of martyrdom. The background features stylized blue mountains and a green ground. The scene is framed by a decorative border.",
+    "scene_interpretation": "Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0028/DEPOT/M441095203_MS0028_0123/3814,1573,982,1117/full/0/default.jpg"
+}

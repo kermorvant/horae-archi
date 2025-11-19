@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. On the left, the Angel Gabriel, adorned with a golden cloak over a white, patterned robe and large, colorful wings, kneels and holds a golden staff. He gestures towards the Virgin Mary, who is seated on the right, dressed in a blue mantle over a golden tunic, with her hands clasped over her chest. Above them, the Holy Spirit is represented by a dove descending from a golden celestial realm. The setting includes architectural elements suggesting a room, with a window visible behind the angel and a richly decorated canopy or bed structure behind Mary. A small open book lies on the floor in front of Mary. The overall scene is framed by a golden arch.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "canopy",
+        "arch"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0068/DEPOT/M601415401_MS0068_0062/1611,980,1462,2353/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely a saint or evangelist, is depicted seated and writing on a scroll. He wears a purple robe over a green collar and a blue mantle. The background behind him is a red textile adorned with gold dots. To his right, a Gothic-style arched window reveals a distant landscape with a blue castle or fortress. The figure's posture and the act of writing suggest scholarly or devotional activity.",
+    "scene_interpretation": "Saint Writing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/26121217/1699,1498,837,699/full/0/default.jpg"
+}

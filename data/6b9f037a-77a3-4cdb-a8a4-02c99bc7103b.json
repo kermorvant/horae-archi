@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man in prayer, with his hands clasped and raised, looking upwards. Above him, two figures are shown, one kneeling and reaching out, the other reclining. They appear to be in a celestial or elevated space, possibly indicated by the arching structure above them. In the background, a cityscape with various buildings, including towers and walled structures, is visible. The overall composition suggests a devotional scene, possibly representing a prayer being answered or a divine visitation.",
+    "scene_interpretation": "Divine Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0050/4446,3777,928,583/full/0/default.jpg"
+}

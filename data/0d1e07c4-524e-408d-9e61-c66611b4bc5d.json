@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene is divided into two registers within large, gilded, illuminated letters. In the upper register, a crowned figure, likely a king, sits and plays a harp. The harp has a decorative dragon's head at its top. In the lower register, a knight in full mail armor stands with a spear and a shield bearing a dragon emblem. To the left of the knight, a smaller figure, possibly a page or squire, throws a stone or a small object. The figures are set against a gold background, suggesting a divine or elevated context. The overall composition is highly stylized and decorative, typical of medieval manuscript illumination.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/wq365zx5703%2FW47_000022_910/3552,1653,5329,6677/full/0/default.jpg"
+}

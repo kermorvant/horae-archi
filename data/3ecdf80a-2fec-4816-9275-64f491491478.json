@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Virgin Mary, dressed in a blue robe and with a golden halo, is shown kneeling before an open book, her hands clasped. To her right, the Angel Gabriel, with large white wings and wearing a white robe with a red cloak, kneels and presents a scroll with text. Behind them, an elaborate golden architectural structure with arches and columns frames the figures. In the background, through arched windows, a landscape is visible. Above the architecture, a bust of a man in red and blue attire is depicted within a circular frame.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_055_054/DEPOT/210546201_S_055_054_0024/1581,609,1438,1767/full/0/default.jpg"
+}

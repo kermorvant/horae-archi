@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts King David kneeling in prayer, his hands clasped and his gaze directed upwards. He is clad in ornate armor and is accompanied by a harp lying on the ground beside him. Behind David, a group of soldiers in armor and helmets stand with banners, suggesting a military context. In the background, a fortified building, possibly a castle or palace, is visible on a hill, surrounded by trees and a stylized landscape. The overall impression is one of devotion and perhaps a moment of reflection or supplication before or after a battle.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower",
+        "arch",
+        "window"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0360.jp2/2217,2337,1250,1477/full/0/default.jpg"
+}

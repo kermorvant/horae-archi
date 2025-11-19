@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed male figure with a long white beard and hair, dressed in a blue tunic and a reddish-brown cloak, stands indoors. He is holding a large wooden cross. The setting appears to be a room with light-colored walls, a green tiled floor, and two windows with tracery. The architectural elements suggest a domestic or monastic interior. The figure's pose and the presence of the cross strongly indicate a depiction of Saint Andrew, one of Christ's apostles, who is traditionally martyred on an X-shaped cross.",
+    "scene_interpretation": "Saint Andrew",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Andrew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0079.jp2/2910,1682,889,988/full/0/default.jpg"
+}

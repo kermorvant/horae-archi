@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Christ, stands barefoot and robed, holding a spherical object resembling a globe or orb. The figure's gaze is directed downwards towards this object. Behind the figure, two large, dark spheres are depicted. The upper sphere contains celestial bodies: a radiant sun and a crescent moon, along with numerous stars. The lower sphere is dark and appears to represent the earth or a void. The background is decorated with an ornate, swirling pattern. This scene is interpreted as the Creation of the World, with Christ depicted as the divine creator.",
+    "scene_interpretation": "Creation of the World",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f332/947,632,904,1459/full/0/default.jpg"
+}

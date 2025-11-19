@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary. God the Father, robed in red and holding an orb, places a crown upon the head of the kneeling Virgin Mary, who is dressed in blue and has her hands clasped in prayer. Above them, the Holy Spirit is represented as a dove radiating light. The figures are seated on ornate wooden structures, suggesting a throne or celestial setting. The background features a radiating halo of light and decorative architectural elements, framed by an arched border with clouds and a butterfly.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Cappon.218/Cappon.218_0229_fr_0101r.jp2/288,192,547,750/full/0/default.jpg"
+}

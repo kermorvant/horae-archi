@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be a courtyard or an open hall. On the left, a procession of individuals, some wearing helmets, are being led. One figure in the center, seated on a raised platform with steps, wears a blue tunic and an orange cloak lined with white fur, holding a small object. To the right, a man in green hose and a white shirt is tethered to a post. Further right, a nearly nude figure stands, and another man in orange trousers and a brown tunic raises a stick as if to strike him. The architectural elements suggest a partially enclosed space with columns and arches.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "stairs",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421452/531,2173,1529,608/full/0/default.jpg"
+}

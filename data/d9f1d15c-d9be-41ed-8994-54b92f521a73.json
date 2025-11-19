@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, a woman, identified as the Virgin Mary, stands with her hands clasped in prayer, her head bowed. Before her is an open book. On the right, an angel kneels, gesturing with one hand and pointing upwards with the other. The angel has wings and wears a cloak over a tunic. A dove, representing the Holy Spirit, descends from above, with a scroll emanating from its beak containing Latin text. The background features architectural elements suggesting an interior space, with a checkered floor and what appears to be a vaulted ceiling or decorative canopy above. The overall scene is rendered in a dark, stylized manner typical of medieval illumination.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9068094h/f46/3764,983,1310,1781/full/0/default.jpg"
+}

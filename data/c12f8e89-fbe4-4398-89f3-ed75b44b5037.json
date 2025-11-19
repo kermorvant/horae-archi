@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a crowned figure, likely a queen or a saintly woman, standing within an architectural frame. She wears a jeweled crown and a mantle over a richly decorated garment. Her left hand holds a tall, flaming torch, while her right hand points outwards. The architectural setting is suggested by an arched structure above, adorned with decorative elements, and a simple, flat base below. The overall impression is one of regal or spiritual authority, possibly representing a martyr or a figure associated with divine light or guidance.",
+    "scene_interpretation": "Martyrdom",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0062/542,526,448,501/full/0/default.jpg"
+}

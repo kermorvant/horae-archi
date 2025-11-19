@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A golden lion with a human-like face and a long, curled tail stands in a grassy landscape. Behind the lion, rolling green hills rise towards a blue sky. In the distance, a stylized tree with green and yellow foliage is visible, and further back, a series of blue, crenellated structures resembling castles or fortifications are depicted. The scene is framed by a decorative gold border.",
+    "scene_interpretation": "Lion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "battlement",
+        "crenellation"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f17/989,226,474,889/full/0/default.jpg"
+}

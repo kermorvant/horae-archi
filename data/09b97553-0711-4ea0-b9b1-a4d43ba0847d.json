@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A knight in full armor, wearing a red surcoat with gold embellishments, stands in a circular frame against a blue sky and a green landscape. He holds a large axe in his left hand and a spear in his right. The knight's face is obscured by his helmet, and his posture suggests readiness or action. The scene is framed by a decorative border with blue floral motifs.",
+    "scene_interpretation": "Saint George",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f41/719,2194,494,524/full/0/default.jpg"
+}

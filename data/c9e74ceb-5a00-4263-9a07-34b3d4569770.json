@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. An elderly man, likely Simeon, wearing a ceremonial headdress and robes, holds the Christ Child. The Christ Child is reaching towards a basket containing two doves, held by another elderly man. To the right, the Virgin Mary, dressed in white and with her hands clasped in prayer, looks towards the child. The background is a rich gold fabric with an ornate white scrolling pattern. A draped white cloth with blue stripes covers a table or altar in the foreground.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "door",
+        "canopy"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8453974s/f195/385,565,1597,1997/full/0/default.jpg"
+}

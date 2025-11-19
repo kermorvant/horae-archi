@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, likely a monk or cleric, is depicted in profile, wearing a hooded robe. His hands are clasped together in prayer or contemplation. The background is filled with a dotted pattern, suggesting a celestial or divine setting, framed by decorative architectural elements that resemble a stylized archway or canopy. The overall impression is one of piety and devotion.",
+    "scene_interpretation": "Devotional Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0100/4061,3966,452,664/full/0/default.jpg"
+}

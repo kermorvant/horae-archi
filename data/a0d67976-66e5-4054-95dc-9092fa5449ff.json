@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A woman, depicted kneeling with her hands clasped in prayer and her head tilted upwards, is shown against a background of intricate floral and vine motifs. She wears a golden crown, a purple robe trimmed with white fur, and a flowing red skirt. The scene is set on a green, undulating ground. The surrounding decorative elements are characteristic of medieval manuscript illumination, featuring stylized plants, leaves, and small blue flowers.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0123/4685,3096,911,779/full/0/default.jpg"
+}

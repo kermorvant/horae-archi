@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A woman, possibly a saint or a noblewoman, is depicted in profile, looking to the left. She wears an elaborate headdress adorned with a flower and a veil. Her neck is decorated with a necklace, and her garment features decorative buttons. Her left hand is raised, fingers splayed, in a gesture of speech or blessing. Her right hand is held lower, also with fingers extended. Behind her, a banner with Gothic lettering is visible, though the text is partially obscured. The background is filled with a stippled pattern, suggesting a decorative or symbolic setting. The scene is framed by an architectural element resembling a pointed arch with ornamental tracery.",
+    "scene_interpretation": "The gesture of the raised hand and the presence of the banner with lettering suggest a figure of importance, possibly a prophetess or a saint, engaged in speaking or proclaiming. The overall composition and the architectural framing point towards a devotional context, likely from a Book of Hours or similar illuminated manuscript.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0027/2888,4070,556,632/full/0/default.jpg"
+}

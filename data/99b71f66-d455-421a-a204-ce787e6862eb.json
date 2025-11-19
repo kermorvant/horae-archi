@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bearded, haloed elder, likely a hermit or saint, sits on a woven stool, holding an open book and a small bell. He is dressed in a purple robe. To his right, a small pig walks on a path. Behind him, a large tree stands beside a stone church with a rose window and a steeply pitched roof. The church is adjacent to a building with a timber-framed upper story. The setting is a rocky, hilly landscape with patches of green grass.",
+    "scene_interpretation": "Saint Anthony Abbot",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "rose_window",
+        "roof",
+        "wall",
+        "arch",
+        "door"
+    ],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008564m/f213/373,342,1206,1142/full/0/default.jpg"
+}

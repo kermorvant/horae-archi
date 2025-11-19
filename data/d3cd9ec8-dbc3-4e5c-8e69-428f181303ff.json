@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A figure, likely a woman, stands with her head covered by a wimple and veil. Her hands are clasped over her chest, suggesting prayer or devotion. She wears a long, draped garment. To the right, a decorative border with architectural elements, including what appears to be a column and an arch, is visible, along with some gilded and colored ornamentation.",
+    "scene_interpretation": "Devotional Figure",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0061/3811,3289,263,1441/full/0/default.jpg"
+}

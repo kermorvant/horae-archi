@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "A cardinal kneels in prayer before an altar, his hands clasped around a red book. He wears a red cape over a white robe, and a red cardinal's hat hangs above him. To the right, a man in military attire aims a musket, firing a shot that appears to be directed towards the cardinal. The scene is set within an interior space with architectural elements such as columns and arches, suggesting a church or chapel. The altar is adorned with a crucifix and candles. In the background, an arcade with balustrades and windows is visible, hinting at a larger architectural complex.",
+    "scene_interpretation": "Martyrdom of a Cardinal",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "altar",
+        "canopy",
+        "wall",
+        "arcade",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Cardinal"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10538036n/f18/154,164,1741,1211/full/0/default.jpg"
+}

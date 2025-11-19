@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony or service taking place within an architectural setting. In the foreground, several figures in black monastic habits are seated, reading from books. In the middle ground, a table is set with a green and pink cloth, adorned with gold patterns and what appear to be candles. Behind this, a raised bed or altar is visible, draped with blue curtains and topped with a golden structure resembling a reliquary or tabernacle, flanked by crosses. Several figures in clerical attire, including one holding a censer, are attending to this area. Above, angels are depicted, and a rainbow-like arch frames the upper part of the scene, suggesting a divine or heavenly presence. The overall impression is one of solemn ritual and devotion.",
+    "scene_interpretation": "Funeral Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "column",
+        "door",
+        "microarchitecture",
+        "roof",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Cleric",
+        "Monk",
+        "Nun"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/qr056bk8287%2FW267_000179_1200/1435,1373,2682,3464/full/0/default.jpg"
+}

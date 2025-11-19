@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, who is reaching out towards an angel. To the left, a woman in a nun's habit stands, possibly representing Saint Anne or another devout figure. The figures are situated within an interior space, suggested by the tiled floor and the brick wall with a diamond-paned window. A red curtain hangs on the left, and a patterned green textile is visible behind it. An arched opening on the right reveals a landscape with rolling hills and distant fortified buildings. The overall composition suggests a devotional scene, likely depicting a moment of divine visitation or a presentation of the Christ Child.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "arch",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1455767/1332,636,1205,2141/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed woman, dressed in a red gown and a black veil, is depicted reading a book. She holds a palm frond, a symbol of martyrdom, in her right hand. Behind her, a grey stone building with arched windows is visible. The scene is framed by a green, leafy border and set against a blue, star-speckled background, suggesting a divine or contemplative setting. The woman's gaze is downcast, indicating deep concentration or prayer.",
+    "scene_interpretation": "Martyrdom of a Female Saint",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0077/DEPOT/M601415401_MS0077_0154/4068,1080,1005,1081/full/0/default.jpg"
+}

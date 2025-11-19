@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An angel with large blue wings, dressed in a white robe, stands with hands clasped in prayer or supplication. To the right, a figure with a halo, likely a saint or prophet, is seated and reading from a large illuminated book placed on a lectern. The figure is dressed in a green tunic and a blue mantle. The scene takes place indoors, with a tiled floor and a window with tracery visible in the background. Architectural elements include columns and arches framing the scene.",
+    "scene_interpretation": "The scene likely depicts the Annunciation, with the angel Gabriel appearing to a prophet or saint who is receiving divine revelation through scripture. Alternatively, it could represent a moment of inspiration or divine guidance for a scribe or scholar.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "window",
+        "tracery_window"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0082.jp2/2209,2451,1188,1063/full/0/default.jpg"
+}

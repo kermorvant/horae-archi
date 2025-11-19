@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A man, appearing ill or wounded with a beard and long hair, sits draped in a white cloth. He points to his chest. Two other men stand behind him, one in a yellow and brown striped robe, the other in a blue robe and hat, holding a lute. The man in the blue robe gestures with his hand. In the background, a stylized grey building with arched windows is visible. The scene is set against a blue sky and appears to be outdoors.",
+    "scene_interpretation": "Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0068/4162,876,839,1166/full/0/default.jpg"
+}

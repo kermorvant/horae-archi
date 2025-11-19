@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A female figure with long, light brown hair and a halo stands in a landscape. She is dressed in a blue tunic adorned with gold dots and a red mantle lined with gold. She holds a golden, book-like object in her hands. To her left, a part of a spinning wheel is visible, and to her right, a larger, partially obscured spinning wheel is depicted. The background features rolling green hills and a blue sky with clouds.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021262r/f273/246,373,434,652/full/0/default.jpg"
+}

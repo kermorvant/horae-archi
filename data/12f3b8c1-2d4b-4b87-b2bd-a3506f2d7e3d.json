@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a crowned figure, likely King David, kneeling in prayer outdoors. He wears a royal mantle over a blue, gold-patterned tunic and gazes upwards. Before him, a harp rests on the ground, accompanied by a small, dark object that might be a plectrum. In the upper part of the image, a divine vision unfolds: a figure, possibly God the Father or Christ, is depicted within a radiant halo surrounded by cherubic faces, holding a small orb. The background features a stylized landscape with rocky outcrops, sparse trees, and distant architectural structures resembling castles or churches with spires. The overall composition is framed by an arched border with decorative elements.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0073/DEPOT/M601415401_MS0073_0038/3871,714,1400,2029/full/0/default.jpg"
+}

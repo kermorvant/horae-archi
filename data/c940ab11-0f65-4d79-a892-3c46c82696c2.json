@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A female saint, identifiable by her halo, stands holding an open book in her left hand and a broom in her right. She wears a dark habit with a gold hood and a blue mantle adorned with fleur-de-lis. The background depicts a landscape with rolling hills and a distant, undefined building. The saint's gaze is directed forward, and her expression is somber. The broom is a symbol often associated with Saint Martha, who is depicted as having tamed a dragon.",
+    "scene_interpretation": "Saint Martha",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Martha"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.107/Ross.107_0358_fa_0172v.jp2/320,252,207,302/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts a solitary figure, identified as Christ, standing and holding a large cross. Christ is shown with long hair, a beard, and a sorrowful expression. He is draped in a blue tunic and a pink mantle. The background is divided into two sections: the left side features a cloudy, blue sky, while the right side shows a patterned blue surface, possibly representing water or a celestial realm. In the lower left, there are indications of architectural elements, specifically steps or a tiled floor, suggesting a ground level.",
+    "scene_interpretation": "Christ Carrying the Cross",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0037.jp2/1166,3191,534,1076/full/0/default.jpg"
+}

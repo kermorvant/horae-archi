@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A robed cleric, identified by his halo and holding a book, stands on the right, gesturing with his raised hand. Before him, a woman in a red gown is seated, her hands bound, with two men standing behind her. The man on the left, dressed in blue, holds her arm, while the man behind her, in purple, looks on. The scene takes place within an interior space featuring arched architectural elements, windows with tracery, and a patterned floor. The presence of the cleric and the bound woman suggests a scene of judgment or intercession, possibly related to a saint's life or a biblical narrative.",
+    "scene_interpretation": "Saint intervening in a judgment",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8447775g/f423/590,411,978,1626/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Angel Gabriel, with large, feathered wings and wearing a blue robe over an orange cloak, gestures towards the Virgin Mary. He holds a golden staff. The Virgin Mary, on the right, is seated on the floor, dressed in a blue gown and a peach-colored mantle, with her hands crossed over her chest. An open book lies before her. Above her, a dove, representing the Holy Spirit, is depicted within a radiant halo of rainbow-colored light. The background shows an interior space with arched doorways and columns, suggesting a grand hall or a church interior. The floor is tiled. A coat of arms is visible on the wall.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100212547/f52/644,239,1636,2681/full/0/default.jpg"
+}

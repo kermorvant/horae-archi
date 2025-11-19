@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded bishop, wearing a red mitre and a dark cope, stands in a landscape. He holds a blue book in his left hand and a crozier in his right. A small, dog-like animal with pointed ears stands at his feet. In the background, stylized trees and rolling hills are depicted, with a city featuring red towers and blue domes in the distance. The scene is rendered in a flat, stylized manner typical of medieval manuscript illumination.",
+    "scene_interpretation": "Saint Remigius",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower"
+    ],
+    "persons": [
+        "Saint Remigius"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS21%2FBMC_MS21_jp2.zip%2FBMC_MS21_jp2%2FBMC_MS21_0123.jp2/2617,1418,2256,3315/full/0/default.jpg"
+}

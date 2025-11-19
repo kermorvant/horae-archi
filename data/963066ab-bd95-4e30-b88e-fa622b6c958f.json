@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two haloed male figures stand in a verdant landscape. The figure on the left, dressed in an orange robe over a mauve tunic, holds a blue book and a sword. The figure on the right, in a blue robe over an orange tunic, holds a large key. Both figures have white beards and are looking upwards. Behind them is a decorative tapestry-like background with a geometric pattern of blue, pink, and gold squares. Above the tapestry, a blue sky with golden rays emanates from an unseen source, framed by an arched border adorned with scrolling vines and flowers. The scene is bordered by gold.",
+    "scene_interpretation": "Saints Peter and Paul",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f190/963,423,1366,1642/full/0/default.jpg"
+}

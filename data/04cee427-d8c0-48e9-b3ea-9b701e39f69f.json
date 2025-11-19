@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ seated on a throne, holding a globe and a cross, with his right hand raised in a gesture of blessing. To his left, the Virgin Mary kneels, her hands crossed over her chest, with a halo. Above her, two angels descend, holding a crown, which they are about to place on her head. The background is a deep blue, adorned with golden stars, suggesting a celestial setting. A red, patterned canopy is visible above Christ. The figures are positioned within an architectural framework suggested by a golden, patterned floor and a row of arched openings in the background.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1335/DEPOT/352386106_MS1335_0083/3679,414,1404,2072/full/0/default.jpg"
+}

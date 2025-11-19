@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures engaged in archery. In the foreground, two men are shown drawing their bows, aiming towards the left. One figure is in profile, drawing a bow with an arrow nocked. Behind them, a larger, cylindrical structure, possibly a tower or a siege engine, is visible, with several figures standing on top, some raising their arms. The background is a light blue sky, suggesting an outdoor setting. The overall impression is one of military action or a training exercise.",
+    "scene_interpretation": "This scene does not appear to depict a specific biblical, liturgical, or devotional event commonly found in Books of Hours. It is more likely a secular illustration, possibly representing a historical event, a military training exercise, or a scene from a romance or epic poem.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010382b/f181/125,2363,307,515/full/0/default.jpg"
+}

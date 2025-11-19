@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A group of figures stands on a green ground, framed by decorative borders. In the center, a bishop, identified by his mitre and blue cope, holds an open book and a cross. To his left, a tonsured monk in a brown habit holds a chalice. To the bishop's right, a knight in full armor, adorned with a blue surcoat bearing a red cross, stands with a sword. Behind them, several other figures with halos are visible, some in red robes and others in monastic attire. The scene appears to be an outdoor gathering, possibly a religious ceremony or a depiction of saints and donors.",
+    "scene_interpretation": "Saints and Donors",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop",
+        "Monk",
+        "Knight"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0089.jp2/2685,3765,1114,1066/full/0/default.jpg"
+}

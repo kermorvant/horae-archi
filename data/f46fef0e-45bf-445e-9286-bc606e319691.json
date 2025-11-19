@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, cloaked in blue, rides a donkey, holding the Christ Child swaddled in white. To the right, a man in a red robe, possibly Saint Joseph, walks alongside, playing a pipe. The background is a rich gold, suggesting a divine or spiritual setting, with stylized trees and a hint of architectural structure on the left. The figures are rendered with a focus on their devotional significance rather than strict realism.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515833p/f82/543,906,1095,963/full/0/default.jpg"
+}

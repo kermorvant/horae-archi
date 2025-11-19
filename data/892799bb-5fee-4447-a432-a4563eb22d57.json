@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts two figures seated on a raised platform, against a gold leaf background. On the left, a woman in a blue robe and a crown with a halo is shown with her hands clasped over her chest. On the right, an older man, also crowned and with a halo, is placing a crown on the woman's head. He wears a red tunic and a pink robe, and holds a golden orb in his left hand. The platform is rendered with architectural lines, suggesting a throne or a raised seating area. The overall scene is framed by a decorative border, with a blue and gold outer frame and a red inner frame. The gold leaf background is cracked, a common feature of medieval manuscripts.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/62939059/63503612.tif/1189,881,1863,2764/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "In a pastoral landscape, three shepherds are depicted looking upwards in awe. One shepherd, standing with a staff, gestures towards the sky. Another shepherd, seated, has their hands clasped in prayer or supplication, while a third, also seated and hooded, looks up with an open mouth. A flock of sheep is visible behind a wooden fence, and in the distance, a small village with a tower and houses can be seen. Above them, a dark cloud descends, from which emerge several winged figures, identified as angels, holding a scroll inscribed with musical notation and the word 'GLORIA'. The scene is interpreted as the Annunciation to the Shepherds, a pivotal moment in the Nativity narrative where angels announce the birth of Christ to humble shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f73/4783,873,2056,2533/full/0/default.jpg"
+}

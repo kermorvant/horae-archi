@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and central placement, gesturing with his right hand towards a man kneeling before him, who is partially submerged in a dark sarcophagus-like structure. Christ is surrounded by a group of disciples, some with halos. To the left, a woman in a yellow gown and blue mantle kneels with hands clasped in prayer. Behind the main figures, a complex of stone buildings with blue-tiled roofs and towers, resembling a castle or fortified city, forms the backdrop. A pathway leads towards an arched gateway within these structures, where a figure in a red coat stands. The overall setting is outdoors, with green ground and a tree.",
+    "scene_interpretation": "Resurrection of Lazarus",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Christ",
+        "Lazarus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0086/DEPOT/M601415401_MS0086_0157/1927,676,1694,2837/full/0/default.jpg"
+}

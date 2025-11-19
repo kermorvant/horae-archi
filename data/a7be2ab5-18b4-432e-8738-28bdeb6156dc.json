@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a female saint, likely Saint Catherine of Alexandria, standing within an arched architectural frame. She wears a golden crown and a halo, indicating her sanctity. Her long, golden hair flows down her shoulders. She is dressed in a rich robe with ermine trim, a blue undergarment, and a golden cloak. In her right hand, she holds a sword, and her left hand rests on a wheel, a common attribute of Saint Catherine, symbolizing her martyrdom. The background is dark and indistinct, suggesting an interior space or a symbolic representation. The overall presentation is within a decorative border, typical of illuminated manuscripts.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lcp_ms024%2Flcp_ms024_jp2.zip%2Flcp_ms024_jp2%2Flcp_ms024_0311.jp2/4512,2541,3261,4261/full/0/default.jpg"
+}

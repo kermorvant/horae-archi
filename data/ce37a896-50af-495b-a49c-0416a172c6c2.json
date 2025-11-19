@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo, gesturing towards a woman kneeling before him. She is dressed in white and appears to be reaching out to him. To Christ's right, a group of figures stands, including a man in a golden robe and black hat, and others in blue and red garments. Behind them, a building with a rounded tower and red-tiled roofs is visible. The kneeling woman is being assisted by an older man in a red and blue robe, who is holding her hands. The overall setting suggests an outdoor scene in front of an architectural structure.",
+    "scene_interpretation": "Raising of Jairus' Daughter",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Jairus' Daughter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550057309/f159/287,459,1011,1421/full/0/default.jpg"
+}

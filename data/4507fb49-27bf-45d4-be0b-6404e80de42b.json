@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with the Virgin Mary riding a donkey, holding the Christ Child. Two angels with feathered wings stand behind them, looking on. To the right, an elderly man with a white beard and a red hat, likely Saint Joseph, walks alongside. In the background, a walled city with towers and buildings is visible under a blue sky. The foreground is a grassy landscape with scattered stones. The entire scene is framed by an ornate border with gold leaf and decorative elements.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_Impr_8_GR0045/DEPOT/B280856201_Impr_8_GR0045_0055/924,338,2147,2890/full/0/default.jpg"
+}

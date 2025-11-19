@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The upper register depicts a man on horseback, accompanied by another figure, passing by a building with an arched entrance. To the right, a group of figures are gathered on a balcony or elevated platform, with one elderly man with a long beard appearing to speak to a younger man. Below this, the scene transitions to a body of water with several small boats, each carrying a few figures. The lower register shows a building with an arched opening, where two figures are embracing. Adjacent to this, a group of people are engaged in activities: two individuals play chess, while others are involved with scales and what appear to be coins or tokens on a table. The entire composition is set against a backdrop of wavy water and starry skies, suggesting a narrative progression or multiple simultaneous events.",
+    "scene_interpretation": "The image appears to depict scenes from the story of Noah's Ark, specifically the flood. The boats on the water represent the ark and possibly other vessels. The embrace near the building could symbolize human relationships amidst the chaos, or perhaps a scene of farewell. The chess game and the weighing of items might represent the passage of time or the ordering of life even during the deluge. The figures on the balcony could be observing the events or engaged in discussion related to the unfolding disaster.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "balcony"
+    ],
+    "persons": [
+        "Noah"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f21/1845,936,980,1644/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Kiss of Judas, a pivotal moment in the Passion of Christ. Jesus, with a halo, stands in the center, his face turned slightly, as Judas, identifiable by his green cloak and golden hair, embraces and kisses him. Jesus's hands are bound. Around them, a crowd of soldiers and figures in armor, some holding lanterns and spears, surround Jesus, apprehending him. One soldier in ornate blue armor and red-striped hose is prominent on the left, while another figure in gold armor kneels on the ground to the right, holding a lantern. The background features a stylized landscape with a body of water in the foreground, rolling green hills, and a distant, indistinct town under a starry blue sky. The overall composition conveys the betrayal and arrest of Jesus.",
+    "scene_interpretation": "Kiss of Judas",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Jesus",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0013/3569,617,2419,3502/full/0/default.jpg"
+}

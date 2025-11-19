@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A group of figures are gathered around a table. In the center, a bearded figure, likely Christ, is depicted with his hands resting on a platter of fish. To his left, a figure in a robe holds a small child. To Christ's right, another bearded figure gestures with his hands. Several other figures are visible behind them, their faces partially obscured. The scene is framed by an arched architectural element with decorative tracery above. The figures are dressed in medieval attire, and the setting appears to be indoors, possibly a domestic or religious space.",
+    "scene_interpretation": "Feeding of the Multitude",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0033/745,2972,564,1004/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a bishop in prayer before an altar, with a young acolyte peeking from behind a green curtain. To the right, a depiction of souls in purgatory, some reaching up with clasped hands, are being pulled from the water by an angel. Above them, a figure, possibly God, blesses the scene. A demonic figure is visible in the upper right corner, near the souls in torment. The architectural setting includes vaulted ceilings and columns, suggesting a church interior, with a contrasting open, blue sky on the right side where the souls are being rescued.",
+    "scene_interpretation": "The Last Judgment / Purgatory",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Bishop",
+        "Acolyte",
+        "Angel",
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yz920mm4360%2FW172_000168_1200/4702,2049,3450,6311/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identified by his halo, standing in a landscape. He is dressed in a purple robe and appears to be interacting with a group of figures. To his left, a partially nude female figure, possibly Mary Magdalene, is kneeling and holding a bouquet of flowers. Behind Christ, several men are gathered, some with halos, suggesting they are important figures or saints. One man in a blue robe and a red belt gestures towards Christ, while another in a red garment stands behind him. The background features rolling green hills and a blue sky. The overall setting is outdoors, with a sense of natural environment.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/wx114pq5623%2FW204_000363_1200/628,1836,1556,2415/full/0/default.jpg"
+}

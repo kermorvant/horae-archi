@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely a saint or prophet, draped in a vibrant red robe, reclining or seated against a rocky, mountainous landscape rendered in shades of grey and brown. Above this, a green, undulating hill meets a pale blue sky. Below the figure, a richly decorated architectural structure is visible, composed of brightly colored, patterned blocks in red, pink, purple, and blue, adorned with intricate gold ornamentation. This suggests a divine or regal setting, possibly a throne or a celestial edifice.",
+    "scene_interpretation": "The reclining figure in red against a landscape, combined with the opulent architectural elements, could represent a scene from the Old Testament, such as David in prayer or a prophet receiving a vision. The rich ornamentation of the architecture might allude to heavenly Jerusalem or a divine throne room.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_100v.jp2/1056,4715,1258,2814/full/0/default.jpg"
+}

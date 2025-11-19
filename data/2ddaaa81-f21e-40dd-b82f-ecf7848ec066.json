@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a seated male figure, identified as Christ, wearing a blue robe and a red mantle, with a golden halo. He is holding a globe in his left hand and gesturing with his right, pointing towards a kneeling female figure. This female figure, adorned with a crown and a blue robe decorated with gold stars, is identified as the Virgin Mary. She has her hands clasped in prayer. Behind them, two winged figures, likely angels, are present. One angel is holding a book, while another is partially visible. The figures are set within an architectural framework that resembles a Gothic canopy with pointed arches and intricate golden tracery. In the background, a brick wall with arched windows suggests an interior setting. The floor is tiled in a blue and white checkered pattern.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "tracery_window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100224243/f174/581,268,1015,1630/full/0/default.jpg"
+}

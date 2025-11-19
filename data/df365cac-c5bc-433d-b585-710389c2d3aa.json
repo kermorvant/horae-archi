@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ, with a crown of thorns, lies on a wooden cross, his body emaciated and marked with wounds. Two figures are actively nailing his hands to the cross, one holding Christ's arm while the other hammers. A third figure, in a yellow tunic, kneels and appears to be preparing to hammer the other hand. A crowd of onlookers stands in the background, some appearing to be soldiers and others civilians. In the middle ground, a group of figures, possibly Roman soldiers and religious authorities, observe the scene. One figure in a brown robe and a distinctive yellow hat stands prominently. In the far distance, a city with spires and towers is visible, set against a backdrop of rolling hills and rocky outcrops under a cloudy sky. The overall setting is an open, grassy field.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_042/844,633,1614,2044/full/0/default.jpg"
+}

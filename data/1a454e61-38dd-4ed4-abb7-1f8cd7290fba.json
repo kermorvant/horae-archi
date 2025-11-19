@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in an outdoor landscape. On the left, a woman in a blue mantle and white veil stands with her hands clasped. In the center, a king wearing a crown and a blue and gold robe, with bloodstains on his face, gestures with his right hand. Facing him on the right is a figure, likely Christ, dressed in a blue robe adorned with gold patterns, holding a shepherd's crook and a small object. The background features rolling hills, trees, and a rocky outcrop on the right. The overall impression is one of a religious or historical encounter.",
+    "scene_interpretation": "The scene likely represents the encounter of Christ with a king, possibly King David, or a scene from the life of Christ involving a royal figure. The presence of the shepherd's crook suggests Christ as the Good Shepherd. The bloodstains on the king's face could indicate suffering or martyrdom, or perhaps a symbolic representation of his earthly struggles.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f92/1476,4098,3182,1504/full/0/default.jpg"
+}

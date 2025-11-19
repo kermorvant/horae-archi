@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely Moses, wading through turbulent waters, leaning heavily on a staff. Above him, a radiant angel, possibly Gabriel, descends from a golden, patterned sky, holding a chalice. To the left, a small building with a red roof and a figure looking upwards suggests a dwelling or sanctuary. The landscape is rendered with green, rocky hills and sparse trees. The overall composition suggests a divine intervention or revelation occurring in a natural setting.",
+    "scene_interpretation": "Miracle of Moses",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Moses",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.7%2F033_B.11.7_f026v-f027r.jpg/2655,528,1195,1976/full/0/default.jpg"
+}

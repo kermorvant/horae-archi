@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a humble stable setting under a thatched roof. On the right, the Virgin Mary, cloaked in blue, cradles the Christ Child. To her left, a woman in a red dress spins thread, while another woman in a pink gown holds a baby. In the foreground, an elderly man with a white beard toils in the earth, using an axe, with another axe lying nearby. The background features a wooden fence and a blue sky with scattered clouds.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f38/460,994,953,1650/full/0/default.jpg"
+}

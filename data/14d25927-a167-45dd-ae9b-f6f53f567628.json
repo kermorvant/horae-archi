@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a seated male figure, likely a king or emperor due to his crown and regal attire, gesturing with his right hand. He is dressed in a blue robe with gold trim and holds a golden orb in his left hand. Facing him is a kneeling female figure, identified as the Virgin Mary by her blue mantle and crown, with her hands clasped in prayer. Above them, three angelic figures are visible, one with wings, looking down with serene expressions. The architectural setting is suggested by a large arched opening behind the figures, revealing a dark interior space containing a miniature representation of a tiered structure, possibly a reliquary or a symbolic representation of a building. The background is a vibrant blue sky.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS2842/DEPOT/315556101_MS2842_0081/3927,469,1907,2744/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated in the center, reading from an open book. She is surrounded by a group of figures, all with hands clasped in prayer. Above them, a white dove, representing the Holy Spirit, descends with rays of light emanating from it. The figures are gathered in what appears to be an interior space, suggested by the presence of a draped red canopy and a suggestion of architectural elements in the background. The overall composition evokes a sense of divine inspiration and communal prayer.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021262r/f198/571,176,959,1312/full/0/default.jpg"
+}

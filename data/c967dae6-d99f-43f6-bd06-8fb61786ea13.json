@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. The Virgin Mary, dressed in a blue robe and with a golden halo, kneels on the left, holding a spindle and looking towards the right. A dove, representing the Holy Spirit, descends towards her. Facing her is the Angel Gabriel, clad in a pink robe with golden wings, extending a hand towards Mary and holding a staff. Behind Mary is a red tapestry with gold ornamentation. In the background, architectural elements suggest an interior space, including columns, arches, and a vaulted ceiling. A small lectern with a book rests near Mary. The overall scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_012/DEPOT/890245409_n_012_0036/3611,685,1362,1996/full/0/default.jpg"
+}

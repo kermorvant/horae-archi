@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A man, likely a monk or religious figure given his habit and hood, is seated at a table, holding a bowl and spoon, appearing to be eating. The table is covered with a cloth, and cutlery is visible. Behind him, a shelf holds a bottle and other items, set against a background of stippling that might represent a starry sky or a decorative pattern. The architectural setting includes what appears to be a window with tracery, suggesting an indoor, possibly monastic or domestic, environment.",
+    "scene_interpretation": "Mealtime in a religious context",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0071/3498,3344,305,497/full/0/default.jpg"
+}

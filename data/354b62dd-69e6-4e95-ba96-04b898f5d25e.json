@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely Christ, with a beard and long hair, raising his right hand in a gesture of blessing or teaching. He is dressed in a dark robe. In front of him, a group of people are gathered, some with their hands clasped in prayer or supplication. The background features a detailed cityscape with various buildings, including towers and what appears to be a church or cathedral with a dome. The overall setting suggests a public or devotional gathering.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0128/2655,424,1331,1595/full/0/default.jpg"
+}

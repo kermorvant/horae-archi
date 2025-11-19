@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting that suggests a domestic interior with elements of religious architecture. The Virgin Mary, clad in a blue robe and white veil, is seated and reading from a book placed on a stand. She is illuminated by a golden halo. Facing her is an angel, identifiable by his green attire and a scroll bearing the inscription \"Ave Maria, gratia plena\". The angel is gesturing towards Mary, signifying the divine message. Behind them, a red canopy covers a bed, and a patterned carpet with green and white squares covers the floor. The architectural elements include arched doorways, windows with tracery, and what appears to be a vaulted ceiling or dome in the background, all framed by a decorative border.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "vault",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/15918302/503,243,1102,1629/full/0/default.jpg"
+}

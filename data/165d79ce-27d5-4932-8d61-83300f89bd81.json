@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity, with God the Father and God the Son seated side-by-side, and the Holy Spirit descending from above. Both figures are depicted with halos and are holding globes, symbolizing their dominion over creation. God the Father, on the left, gestures with his right hand, while God the Son, on the right, rests his head on his hand. The Holy Spirit is represented as a dove with red rays emanating from its beak towards the figures. The figures are seated on a golden background, suggesting a divine and heavenly setting. Architectural elements, such as stylized columns and arches, are visible beneath the figures, hinting at a celestial throne or a sacred space.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch"
+    ],
+    "persons": [
+        "God the Father",
+        "God the Son",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Metz/Bibliotheque_municipale/574636101_MS1598/DEPOT/574636101_MS1598_0235A/354,2130,1351,1488/full/0/default.jpg"
+}

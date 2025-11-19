@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a king, identifiable by his crown and beard, reclining on a bed or couch, gesturing with his right hand. He is attended by several figures. To the left, a group of individuals stands, one of whom appears to be speaking or presenting something. Behind the king, a bed canopy is visible, suggesting an indoor setting. The floor is decorated with a geometric pattern. The overall impression is one of a royal audience or a scene of counsel.",
+    "scene_interpretation": "This scene likely represents a biblical or historical narrative involving a king. Without further context or specific iconographic details, a precise interpretation is difficult. However, the gesture of the king and the presence of attendants suggest a moment of decision, judgment, or communication.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0046/1276,3296,1342,671/full/0/default.jpg"
+}

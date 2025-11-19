@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Peter, identifiable by his halo and the keys he holds, standing within an architectural setting. He is dressed in a blue robe and holds an open book. Behind him, a patterned red tapestry hangs on the wall, and a wooden table holds stacks of books. The architecture includes arched windows with tracery, columns, and a vaulted ceiling structure above. To the right, an open archway reveals a glimpse of an outdoor landscape with rolling hills and trees. The floor is tiled in a green and white checkered pattern. The overall scene suggests a devotional or narrative context, likely within a church or a scholarly setting.",
+    "scene_interpretation": "Saint Peter",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "vault",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f286/538,127,1304,1673/full/0/default.jpg"
+}

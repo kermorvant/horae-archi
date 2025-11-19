@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A crowned king, clad in ornate golden armor and a blue mantle, kneels with his hands clasped in prayer, looking upwards. Behind him, to the left, stands a grand classical building with columns and a pediment. In the middle ground, a landscape unfolds with a group of tents and soldiers, and in the distance, a city with prominent towers and spires is visible under a blue sky. A beam of light descends from above, illuminating the praying figure. The scene likely depicts a moment of divine intervention or supplication, possibly related to a military campaign or a significant royal event.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "palace",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "column",
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3781/Vat.lat.3781_0088.jp2/1543,358,690,1065/full/0/default.jpg"
+}

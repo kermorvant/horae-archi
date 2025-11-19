@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bust of a bishop, identified by his mitre and crozier, is depicted within an illuminated frame. He wears a white alb, a green chasuble, and a richly decorated cope. His right hand is raised in a gesture of blessing, with two fingers extended. The background is a grey, brick-like texture. The surrounding frame is composed of a red and gold floral motif on a blue ground.",
+    "scene_interpretation": "Portrait of a Bishop",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://diglib.uibk.ac.at/ulbtirolhds/i3f/v20/6013197/1694,3832,1438,1358/full/0/default.jpg"
+}

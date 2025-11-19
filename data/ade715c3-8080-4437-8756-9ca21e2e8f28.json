@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a royal blue robe with gold embellishments and a red cloak, kneels in prayer. His hands are clasped, and his gaze is directed upwards towards a celestial vision. Before him lies a golden harp. In the background, a complex cityscape unfolds, featuring a tall, multi-tiered tower with arched windows and decorative sculptures, alongside other buildings with pitched roofs and crenellated battlements. To the right, a circular medallion depicts Christ holding a cross and orb, radiating light. The scene is framed by an ornate, gilded archway with carved reliefs.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "battlement",
+        "roof",
+        "wall",
+        "stairs",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53014820r/f73/163,83,730,1222/full/0/default.jpg"
+}

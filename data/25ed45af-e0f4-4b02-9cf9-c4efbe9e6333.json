@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, accompanied by an angel, greeting her cousin Elizabeth. Mary, on the left, is dressed in a dark robe and has her hands extended towards Elizabeth. Elizabeth, on the right, is seated and wears a wimple and a dark habit, her hands also extended in greeting. An angel stands to the left of Mary, with wings visible and dressed in a white robe. In the background, there are indications of architectural structures, possibly buildings or a city, rendered in a simplified manner. The overall composition is framed by an arched border.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90680933/f54/1710,826,1710,1985/full/0/default.jpg"
+}

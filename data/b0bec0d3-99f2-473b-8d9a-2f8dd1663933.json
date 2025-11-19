@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A group of bearded men, some with halos, stand on the left, with hands clasped in prayer. To the right, an angel with feathered wings and a halo touches the forehead of a kneeling man who also has his hands clasped. The angel holds a chalice in its left hand. The scene is set against a background of stylized clouds and what appears to be architectural elements on the far right, possibly a building or a wall.",
+    "scene_interpretation": "The scene likely depicts a divine visitation or a moment of spiritual revelation, possibly related to a saint or a prophet receiving a message or blessing from an angel. The chalice held by the angel could symbolize spiritual sustenance or a sacrament.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0101/1434,3357,1069,432/full/0/default.jpg"
+}

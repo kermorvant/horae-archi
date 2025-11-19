@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue robe, meeting Elizabeth, who is wearing a red outer garment and a white veil. Elizabeth embraces Mary, who appears to be pregnant. Both women have halos, indicating their sanctity. Above them, a representation of God the Father is visible within a blue celestial sphere, with rays of light descending. The setting is an outdoor landscape with rolling hills, sparse trees, and a green, woven fence-like structure in the foreground. The overall composition is framed by an ornamental border typical of illuminated manuscripts.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/2295786/579,279,698,879/full/0/default.jpg"
+}

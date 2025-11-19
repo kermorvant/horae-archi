@@ -1,0 +1,12 @@
+{
+    "scene_description_enriched": "The image depicts two birds rendered in a stylized, medieval manner. On the left, a white bird with long legs and a brown wing is shown in profile, its head turned towards the right. On the right, a bird with a white body, a red head and beak, and a blue back adorned with red spots is depicted facing left. The background is a textured, earthy tone, suggesting an outdoor setting. Below the birds, partial red lettering is visible, indicating this is likely an illuminated manuscript.",
+    "scene_interpretation": "Bestiary",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00071/83,46,1046,275/full/0/default.jpg"
+}

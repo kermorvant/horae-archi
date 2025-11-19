@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable, characterized by a thatched roof supported by wooden beams and a stone wall. In the foreground, the Christ Child lies swaddled in a manger of straw. To the left, a figure in a blue tunic and red hat plays a bagpipe, while another in a green tunic dances. A third figure, kneeling in a red robe, gestures towards the infant. To the right, the Virgin Mary, adorned in a blue robe and halo, reads from a book. A donkey stands nearby. Through an open archway, a picturesque landscape unfolds, featuring a winding road, trees, and a walled city with towers and a castle on a hill. The overall scene, with its juxtaposition of the sacred event and earthly revelry, suggests the joyous celebration of Christ's birth.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "castle",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "column",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_121/2876,625,911,1067/full/0/default.jpg"
+}

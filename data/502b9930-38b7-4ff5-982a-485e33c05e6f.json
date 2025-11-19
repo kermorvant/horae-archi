@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer, with his hands raised towards a group of figures standing in a body of water. The man is dressed in a golden robe and has a beard. Above him, a group of figures, all with halos, are visible. The foremost figures appear to be male saints, with one woman among them. They are depicted in rich, colored robes and are looking downwards. The background features a landscape with rolling hills and trees. The entire scene is framed by an ornate, gilded architectural border, suggesting it is an illustration within a manuscript.",
+    "scene_interpretation": "The scene likely represents a vision or a prayer answered. The kneeling figure could be a supplicant, perhaps a saint or a devout individual, receiving a divine vision or intercession from a group of saints or heavenly beings. The presence of halos signifies their sanctity. The water could symbolize a spiritual crossing or a divine realm.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f500/956,1322,1023,2921/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A winged figure, likely an angel, is depicted from the chest up, looking upwards and to the right. The figure has dark, wavy hair and wears dark clothing. Large, stylized wings are visible behind the figure. The figure is positioned behind a horizontal band, possibly a parapet or windowsill, with decorative elements along its top edge. The background is dark, suggesting an interior or a night scene, with some faint vertical lines that could indicate drapery or architectural features.",
+    "scene_interpretation": "Angel",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036304k/f79/827,526,541,638/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation ceremony, likely the Presentation of Christ in the Temple. A robed figure, possibly a priest or high-ranking official, stands behind a table covered with a white cloth, his hands resting on it. He wears a jeweled mitre and ornate robes. To his right, a woman in a blue mantle, identified as the Virgin Mary, holds the Christ Child. Behind her, several figures are present, including a woman with a white head covering and a man in a red tunic. To the right of the Virgin, a young woman in a red dress and green underskirt carries a basket containing two doves, a common offering in the Temple. The background suggests an interior space with a large green curtain and a window with diamond-shaped panes. The floor is tiled.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bpun/bpun-A0028/bpun-A0028_069v.jp2/1820,894,2051,3340/full/0/default.jpg"
+}

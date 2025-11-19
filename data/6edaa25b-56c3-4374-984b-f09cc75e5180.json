@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with several shepherds tending to a flock of sheep. In the foreground, two shepherds are seated, gesturing and interacting, while another stands behind them. Further back, more shepherds are visible, some holding staffs, and a flock of sheep grazes. In the middle ground, a village or town is depicted with various buildings, including towers and arched structures, situated near a body of water crossed by a bridge. In the background, a large, imposing castle or fortress sits atop a hill, with mountains beyond. In the sky, a winged, dragon-like creature with pink wings is depicted, trailing a white ribbon.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "bridge",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "bridge"
+    ],
+    "persons": [
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515741t/f109/213,502,1304,2246/full/0/default.jpg"
+}

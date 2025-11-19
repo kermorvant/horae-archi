@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a solemn gathering within an arched architectural space, likely a chapel or a private oratory. In the foreground, a black catafalque, adorned with gold trim, rests on a yellow tiled floor. Two candles in ornate golden candlesticks flank the catafalque. To the left, a richly decorated altar or funerary monument is visible. Behind the catafalque, a group of four figures in black monastic habits are gathered, their faces obscured by hoods, suggesting a moment of prayer or mourning. To the right, three figures in more elaborate attire, including one in a vibrant red and gold cope, are looking at an open book placed on a wooden lectern. The background features blue drapery with gold fleur-de-lis motifs and red arched canopies, hinting at a noble or royal context. The overall atmosphere is one of reverence and remembrance, likely depicting a funeral service or a memorial observance.",
+    "scene_interpretation": "Funeral Observance",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "roof",
+        "wall",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0004/cea-0004_143r.jp2/886,1105,1947,2235/full/0/default.jpg"
+}

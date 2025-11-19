@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A man with a beard and long hair, wearing a blue tunic and a red robe with gold trim, sits and writes in a book placed on a lectern. He has a halo and appears to be dictating or composing. Beside him stands a woman with blonde hair, also with a halo, holding an open book. She wears a white robe and looks towards the man. Behind them, a green, wing-like form suggests a divine presence, possibly an angel, and a grey, textured background hints at an interior space.",
+    "scene_interpretation": "Evangelist Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0008/cea-0008_009v.jp2/2579,3865,1193,1243/full/0/default.jpg"
+}

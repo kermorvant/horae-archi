@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered under a decorative arch, with a radiant divine light emanating from above. In the center, a figure wearing a jeweled crown and a bishop's mitre, with hands clasped in prayer, is flanked by other figures in religious attire, some also with halos. To the left, a bearded figure leans on a staff, while to the right, another figure in a bishop's mitre also prays. The figures are seated, suggesting a moment of contemplation or council. The overall composition, with the divine light and the presence of religious figures, strongly suggests a scene of spiritual significance, likely representing a moment of divine inspiration or a council of saints.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul",
+        "Saint John the Evangelist",
+        "Saint Andrew",
+        "Saint James the Greater",
+        "Saint Thomas",
+        "Saint Bartholomew",
+        "Saint Philip",
+        "Saint Matthew",
+        "Saint Simon",
+        "Saint Jude",
+        "Saint Matthias",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f431/827,140,1255,1578/full/0/default.jpg"
+}

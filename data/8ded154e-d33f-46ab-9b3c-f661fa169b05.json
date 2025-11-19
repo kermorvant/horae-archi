@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a banquet taking place indoors, with figures seated at a table laden with food and illuminated by candles. Outside, through a series of arches, a bustling city street is visible, with people in carriages and on foot, suggesting a lively urban environment. In the foreground, a group of figures, including musicians playing instruments and attendants holding torches, are positioned between the indoor banquet and the outdoor scene. A cherubic figure stands near the musicians. The overall impression is one of festivity and social gathering, possibly a celebration or a royal event.",
+    "scene_interpretation": "Feast",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "door",
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Cupid"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105380373/f12/345,222,1768,1250/full/0/default.jpg"
+}

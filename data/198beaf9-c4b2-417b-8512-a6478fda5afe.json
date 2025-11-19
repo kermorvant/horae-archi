@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts two figures, a man and a woman, in prayer. The man, dressed in a red robe with a fur collar, stands before an open book on a lectern, looking upwards. The woman, in a black habit with a fur-lined mantle, also has her hands clasped in prayer and gazes upwards. Behind them, an architectural structure with arches frames a landscape. Above, in a celestial realm, a depiction of Christ Child is surrounded by rays of light and cherubs. Red scrolls with Latin inscriptions emanate from the architectural structure, one reaching towards the man and the other towards the woman. The overall scene suggests a devotional moment, possibly a prayer for divine intervention or grace, with the celestial vision reinforcing the spiritual nature of the supplication.",
+    "scene_interpretation": "Devotional Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127516/f47/173,294,1081,1678/full/0/default.jpg"
+}

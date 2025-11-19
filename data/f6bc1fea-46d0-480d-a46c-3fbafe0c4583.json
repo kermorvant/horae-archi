@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A winged lion, a symbol of Saint Mark, stands to the left of a haloed man who is seated and writing on a scroll. The man, likely Saint Mark, wears a turban and a flowing robe adorned with gold. He is positioned in an interior space with a bookshelf filled with books behind him. The lion has a furry body, prominent wings, and sharp teeth. The scene is framed by an ornate, gilded architectural element, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0025/3679,718,1269,2030/full/0/default.jpg"
+}

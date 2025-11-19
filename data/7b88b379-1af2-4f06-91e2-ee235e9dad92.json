@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his blue robe and halo-like gesture of hands, interacting with a crowd. He is shown in the foreground, looking downwards with a compassionate expression. To his right, a man with a beard and wearing a blue tunic and a yellow turban is gesturing with his hands, holding a staff. Another man, kneeling and partially undressed, with his hands clasped in supplication, is being addressed by Christ. The background shows an arched architectural structure, suggesting an entrance or passage, and beyond that, a landscape with a tree and a distant church spire under a blue sky. The figures are richly dressed in various colored garments and headwear, indicative of a medieval setting. The presence of bloodstains on Christ's hand and the supplicating posture of the kneeling man suggest a moment of healing or forgiveness.",
+    "scene_interpretation": "Healing of the Leper",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "spire"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_189/1068,421,1701,2358/full/0/default.jpg"
+}

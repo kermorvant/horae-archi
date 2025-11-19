@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts several winged figures, identified as angels, in a celestial setting filled with stars. One angel on the left plays a pipe organ, another in the center plays a lute, and a third angel is shown with hands clasped in prayer. Above them, banners with the inscription 'Sanctus' are visible. The background is a starry sky, suggesting a divine or heavenly realm. The text on the right is in Latin, likely liturgical or devotional in nature, and features decorative initial letters in red and blue.",
+    "scene_interpretation": "Sanctus",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_T1343/DEPOT/B530626201_T1343_0088/1524,1214,2310,3097/full/0/default.jpg"
+}

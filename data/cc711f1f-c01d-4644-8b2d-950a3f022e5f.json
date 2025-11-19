@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts three figures within an interior space. On the left, a golden reliquary, intricately decorated with architectural motifs and figures, rests on a draped surface. Two women stand before it. One, dressed in a dark habit, gestures towards the reliquary and the kneeling woman. The kneeling woman, in a red gown and black veil, clasps her hands in prayer. Behind her, another woman in a purple robe holds a skull aloft, seemingly presenting it. The background suggests an interior with patterned walls and a decorative frieze.",
+    "scene_interpretation": "The presence of a reliquary and the act of prayer suggest a devotional scene, likely related to the veneration of a saint or martyr. The skull being presented could symbolize mortality and the veneration of relics, possibly associated with a saint known for their martyrdom or asceticism. The woman in the habit might be an abbess or a religious figure guiding the devotee.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Nun",
+        "Woman in red",
+        "Woman in purple"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/0f48e5e9-9752-4e9c-8dd9-86bde8f02d9f/420,1807,882,658/full/0/default.jpg"
+}

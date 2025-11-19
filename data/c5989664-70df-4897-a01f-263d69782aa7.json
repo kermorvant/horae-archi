@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross in the center, surrounded by a lush green landscape with trees. To the left, a bearded man with a halo kneels in prayer, wearing a white robe and appearing to be in distress. Behind him, a lion-like creature is depicted. In the background, a building with a blue roof and a tower is visible, suggesting a religious or monastic setting. Another figure, possibly a mourner, is partially visible kneeling in the lower right corner, draped in a red garment. The overall atmosphere is one of solemnity and devotion.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kx876df8760%2FW184_000246_1200/3479,1445,2058,3551/full/0/default.jpg"
+}

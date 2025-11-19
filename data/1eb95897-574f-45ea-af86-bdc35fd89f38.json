@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity, with God the Father, depicted as an elderly man with a white beard and a crown, holding the crucified Christ. The Holy Spirit is represented by a dove descending from above. God the Father is seated on a throne-like structure, draped in a red and gold robe, with a blue mantle. The background is filled with golden rays emanating from behind the figures, and swirling blue clouds. The crucified Christ is shown with wounds and a loincloth, his arms outstretched on the cross.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0087/DEPOT/M601415401_MS0087_0123/3911,2474,1003,1028/full/0/default.jpg"
+}

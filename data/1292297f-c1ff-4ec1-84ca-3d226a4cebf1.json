@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary kneeling outdoors, with her head bowed and her gaze directed towards a book she holds in her hands. She is dressed in a long, flowing robe and a veil. In the background, a city skyline with spires and towers is visible, and to the right, a large building is under construction, encased in scaffolding. The overall setting is a landscape with trees and bushes.",
+    "scene_interpretation": "The Virgin Mary reading is a common devotional image, often associated with her piety and her role as a learned figure in Christian tradition. The building under construction in the background could symbolize the building of the Church or a spiritual edifice.",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036821z/f62/776,349,802,1662/full/0/default.jpg"
+}

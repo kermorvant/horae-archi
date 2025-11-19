@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher carrying the Christ Child across a body of water. Saint Christopher, a large man with a beard, wears a blue tunic adorned with gold patterns and a red cloak draped over his shoulders. He holds a staff in his right hand and supports the Christ Child on his left shoulder. The Christ Child, depicted as a small infant, is raising his right hand in blessing and has a halo. The background shows a rocky landscape with trees and a body of water, suggesting an outdoor setting. The sky is blue with some stylized clouds and a prominent eye symbol, possibly representing divine oversight.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/492831/533,1097,904,987/full/0/default.jpg"
+}

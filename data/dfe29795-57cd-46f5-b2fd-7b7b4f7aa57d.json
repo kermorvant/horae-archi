@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary, with the Virgin lying on a richly decorated bed, her eyes closed and a halo around her head. She is attended by several figures, including Apostles and other holy individuals, some of whom are reading from books or looking towards her with expressions of grief or reverence. Above the scene, within an arched frame, a depiction of God the Father is visible, blessing the event. The setting appears to be an interior space, suggested by the bed and the draped green curtains, with a checkered floor. The overall composition is framed by an ornate border with floral motifs.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zs503zt2162%2FW240_000454_1200/4913,915,2689,4949/full/0/default.jpg"
+}

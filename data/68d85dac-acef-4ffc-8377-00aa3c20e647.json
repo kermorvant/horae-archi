@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. To the left, the Virgin Mary, draped in a blue mantle, kneels with her hands clasped in prayer. To the right, a figure in a red robe, likely Saint John the Evangelist, also kneels with hands raised in supplication. The setting is an outdoor landscape with rolling hills, trees, and distant buildings that appear to be churches or other religious structures. The sky is a pale blue with a few birds flying. The scene is framed by an ornamental border with blue and brown motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8452820k/f43/393,163,1304,1690/full/0/default.jpg"
+}

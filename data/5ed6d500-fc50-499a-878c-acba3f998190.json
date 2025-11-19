@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a procession moving through a city at night, under a starry sky. In the foreground, a central figure, likely a prisoner, is led by soldiers. The prisoner wears a striped robe and appears to be bound. The soldiers are clad in armor and helmets. Behind them, a large crowd follows, some carrying torches that cast an orange glow. In the background, a walled city with numerous pointed roofs and a prominent tower is visible. The entire scene is framed by an ornate, golden archway, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Passion of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f198/1493,1686,810,2446/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a man, identified as Christ, wearing a crown of thorns and a halo, suggesting a religious context. He is shown bare-chested, with marks of scourging on his torso. His hands are bound in front of him. To his left, a column with a rope tied around it is visible, and to his right, a whip hangs from a vertical element. The scene appears to be set within an architectural space, indicated by the presence of columns and a floor.",
+    "scene_interpretation": "The Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00110/380,274,612,637/full/0/default.jpg"
+}

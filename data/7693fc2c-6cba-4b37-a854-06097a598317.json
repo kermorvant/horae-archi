@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth. Blood is shown emanating from his wounds. To the left stands the Virgin Mary, draped in a blue mantle and white veil, her hands clasped in sorrow. To the right is a figure, likely Saint John the Evangelist, dressed in a pink robe, with his head bowed and hand to his face in grief. The setting is an outdoor landscape with rocky hills and distant buildings that appear to be castles. The sky is a pale blue.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/16032400/1887,418,1173,1958/full/0/default.jpg"
+}

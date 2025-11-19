@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered before an architectural structure. An elderly man with a long white beard, dressed in a blue robe and an orange cloak, stands to the left, holding a staff and looking towards a young child. The child, appearing to be the Christ Child, is naked except for a white cloth and has its hands clasped in prayer. Behind the elderly man, through an arched opening, a bed with a pink canopy is visible, with two figures in blue and orange engaged in an activity. To the right of the elderly man and child, a group of women and an older man are shown, some with hands clasped in prayer or astonishment, looking towards the central figures. The architecture features large, fluted columns and a dark, recessed archway. The background opens to a landscape with mountains and a city in the distance, under a cloudy sky.",
+    "scene_interpretation": "The scene likely represents the Presentation of Christ in the Temple, or a related event from the Infancy Gospels, possibly depicting Simeon's prophecy or a miracle involving the Christ Child. The presence of the elderly man with a beard and the child, along with the onlookers, suggests a significant religious event. The scene within the bed might allude to a narrative element or a symbolic representation of worldly affairs contrasted with the divine. The overall composition and devotional gestures point towards a religious narrative.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS1476/DEPOT/M601415401_MS1476_0052/1259,808,2038,3260/full/0/default.jpg"
+}

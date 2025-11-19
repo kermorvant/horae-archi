@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation ceremony, likely the Presentation of Christ in the Temple. A bearded man, possibly a priest or Simeon, wearing a red crown and white robe over a red garment, holds the Christ Child aloft. The Christ Child is depicted as a nude infant with outstretched arms. Before him, a woman in a blue mantle and veil, identified as the Virgin Mary, kneels with her hands clasped in prayer. To the right, another woman in a red dress, possibly a prophetess or attendant, stands holding a small object, perhaps a dove or fruit. The figures are positioned in front of a raised, white altar-like structure with red trim. Behind the figures is a decorative, tiled background within an arched frame, and the scene is bordered by foliate motifs. The ground is depicted as green.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/HMML/HMML%2000018/HMML_00018_IMG_082r.JPG/1034,519,1540,2262/full/0/default.jpg"
+}

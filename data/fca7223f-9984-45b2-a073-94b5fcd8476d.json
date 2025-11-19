@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A bearded man, likely a preacher or prophet, stands at a gilded lectern adorned with red fabric patterned with gold rosettes, addressing a large congregation. He wears a blue tunic and a golden cloak, and holds a book. The congregation, composed of men and women, is seated on benches and appears to be listening attentively. The scene is set within a grand architectural space characterized by towering columns and arches, suggesting a church or a similar religious building. The overall impression is one of a sermon or a religious teaching taking place.",
+    "scene_interpretation": "Sermon",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "lectern",
+        "wall"
+    ],
+    "persons": [
+        "Preacher"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f665/1179,1163,2619,4090/full/0/default.jpg"
+}

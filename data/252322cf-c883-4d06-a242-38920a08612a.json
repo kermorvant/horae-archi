@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic street or courtyard within a walled city. Several figures are engaged in conflict or distress. One figure, dressed in blue and red, appears to be carrying or assisting another fallen figure in brown and blue. To the left, a figure in blue and yellow looks on, while another figure in red lies on the ground. The background is dominated by multi-story buildings with windows and arched openings, suggesting an urban environment. The overall impression is one of violence and suffering within a city setting.",
+    "scene_interpretation": "The scene likely depicts a moment of violence or martyrdom within a city, possibly related to a biblical narrative or a saint's life. The fallen figures and the distressed onlookers suggest persecution or a violent event. Without more specific iconographic clues, a precise interpretation is difficult, but it evokes themes of suffering and conflict.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0269.jp2/1521,4357,1007,1028/full/0/default.jpg"
+}

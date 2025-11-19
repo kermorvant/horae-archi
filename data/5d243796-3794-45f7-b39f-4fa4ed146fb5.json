@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable. The Virgin Mary, in a blue robe, kneels with clasped hands in adoration of the Christ Child, who lies swaddled in a manger. To the left, Saint Joseph, in a pink robe, also kneels with hands pressed together in prayer. Behind them, several figures, possibly shepherds or attendants, are visible, one holding a golden object. Animals, including a cow and an ox, are present in the background, with haystacks to the right. The architecture is simple, suggesting a humble dwelling or stable, with wooden beams and a thatched roof.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0037/3791,1099,1422,2324/full/0/default.jpg"
+}

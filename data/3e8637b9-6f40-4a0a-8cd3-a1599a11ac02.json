@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A man with a beard and a distinctive hat, dressed in a blue robe with gold trim and red leggings, rides a white horse. He is depicted in profile, looking forward. The horse is adorned with a red bridle and harness. The scene is set in a lush green landscape with scattered trees and a path. In the background, a river flows past a walled city with several towers and spires, including a prominent tall tower with a conical roof. Further in the distance, more buildings and a mountainous landscape are visible under a blue sky with scattered clouds.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f668/962,1441,982,2802/full/0/default.jpg"
+}

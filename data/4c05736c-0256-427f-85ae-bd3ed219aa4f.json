@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An angel with large red and green wings descends from a blue sky, holding a scroll with golden lettering. Below, three shepherds are depicted in a hilly, green landscape dotted with rocks and trees. Two shepherds stand, one with hands clasped in prayer and the other looking upwards, while the third shepherd kneels. A flock of white sheep grazes around them. In the background, on either side of the scene, are fortified castles with towers and battlements, suggesting a distant settlement.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "battlement"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025266x/f63/300,958,2043,2206/full/0/default.jpg"
+}

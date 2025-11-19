@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a close-up of a woman, likely the Virgin Mary, with a golden halo around her head. She is wearing a blue mantle over a white garment and her hands are clasped in prayer. Her expression is somber, with downcast eyes and a slightly parted mouth. Behind her, a red drapery with gold ornamentation is visible, suggesting an interior setting, possibly a devotional space. The scene is rendered in a typical medieval manuscript style with bold outlines and vibrant colors.",
+    "scene_interpretation": "Lamentation of the Virgin Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_des_Arts_decoratifs/Musee_des_Arts_decoratifs_INV_40343/DEPOT/Musee_des_Arts_decoratifs_INV40343_0018/3208,537,652,708/full/0/default.jpg"
+}

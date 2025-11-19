@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated and holding the Christ Child, who is nestled in her arms. They are positioned within a walled garden, suggested by a low fence with floral motifs. To the left, an angel kneels, holding a box or reliquary. Above them, two angels are depicted, one holding a banner with golden lettering. In the background, a fortified building with a prominent arched doorway is visible, suggesting a castle or city gate. To the right, another angel kneels, and further back, two figures are seated, one playing a harp. The ground is scattered with flowers and foliage. The overall scene evokes a sense of divine protection and contemplation, possibly within a heavenly or idealized garden setting.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door",
+        "roof",
+        "battlement"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kf205rk4807%2FW189_000220_1200/3924,908,2981,4590/full/0/default.jpg"
+}

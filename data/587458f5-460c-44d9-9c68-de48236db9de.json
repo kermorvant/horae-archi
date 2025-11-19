@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A monk, dressed in a habit, is seated on an ornate chair, looking upwards and shielding his eyes with his hand as if gazing into the distance or at a divine vision. To his left, a lectern holds an open book, suggesting scholarly or devotional study. The scene is enclosed within a circular frame decorated with floral motifs.",
+    "scene_interpretation": "Saint Jerome in his Study",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0157/5693,1040,459,495/full/0/default.jpg"
+}

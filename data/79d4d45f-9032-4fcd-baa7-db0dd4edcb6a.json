@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered under a large, decorative arch. On the left, a bearded man with long hair, possibly Christ, stands with a staff. Next to him, a younger figure in a cap is seated. To the right, a bearded man in a hat is seated, holding a circular object, possibly a hat or a plate. Behind these central figures, several other individuals are visible, their faces partially obscured. The overall setting appears to be an interior space, suggested by the architectural arch framing the scene. The presence of multiple figures and the context of a Book of Hours suggest a biblical or devotional narrative.",
+    "scene_interpretation": "Passion of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0029/1331,562,546,1131/full/0/default.jpg"
+}

@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with the Virgin Mary seated on a donkey, holding the Christ Child. Joseph walks beside them, leading the donkey. In the background, a procession of soldiers with spears and helmets advances, suggesting a narrative of flight or pursuit. Above, architectural elements frame the scene, including ornate arches and towers, with figures of angels and a fallen man in a celestial or decorative upper register. The landscape includes hills and foliage, with a walled city visible in the distance.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall",
+        "roof",
+        "gable",
+        "column",
+        "capital",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0042/3555,343,1828,3171/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in an outdoor setting under a starry sky. On the left, a man in dark robes gestures with his hands towards a woman wearing a tall, elaborate headdress and a fur-trimmed robe. Behind him, three other figures, also in dark robes and head coverings, observe the scene. In the center, a man in armor, possibly a knight, is shown in profile, his body contorted as if in distress or pain, with a sword raised above his head. To the right, another woman, also adorned with a tall headdress and patterned dress, stands with her hands clasped in prayer. Behind her, a large, fluted column suggests an architectural element, possibly part of a building or a decorative structure. The overall impression is one of drama and possibly a narrative event involving religious or courtly figures.",
+    "scene_interpretation": "The scene likely depicts a martyrdom or a moment of persecution, possibly related to a saint or a biblical narrative. The raised sword and the distressed posture of the armored figure, combined with the praying woman and the observing figures, suggest a violent act or a divine intervention. Without further context or identifying attributes, a precise interpretation is difficult, but it evokes themes of faith, suffering, and divine justice.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f136/2490,2154,948,612/full/0/default.jpg"
+}

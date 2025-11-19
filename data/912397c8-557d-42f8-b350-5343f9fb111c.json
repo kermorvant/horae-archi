@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Adam and Eve in the Garden of Eden. Eve, on the left, holds an apple in her raised hand, while Adam stands beside her. They are both nude, with long hair, and are surrounded by lush greenery and a tree laden with fruit. The background features a blue sky with distant landscape elements. This image illustrates the biblical narrative of the Fall of Man, specifically the moment of temptation and the taking of the forbidden fruit.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_113%2Flewis_e_113_jp2.zip%2Flewis_e_113_jp2%2Flewis_e_113_0027.jp2/2437,3756,2270,1781/full/0/default.jpg"
+}

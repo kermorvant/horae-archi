@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist in a rocky, outdoor landscape, seated and writing on a scroll. He is dressed in a blue tunic and a rose-colored cloak lined with green, and has a golden halo. To his left, a golden eagle, his traditional symbol, perches on a rock and appears to be looking at the scroll. In the background, a walled city with towers and spires is visible on a hill under a starry blue sky. Rays of golden light descend from the sky. Further in the distance, another city with golden buildings is depicted, and a figure on horseback is shown in the middle ground.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jt399mb8580%2FW281_000033_1200/1232,509,3069,4822/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man wearing a blue robe and a red cap is seated, writing in a book. Beside him stands a young woman in a white dress, also looking at the book. Both figures have halos, suggesting they are saints or holy figures. The background is dark and indistinct, with hints of architectural elements like a dark blue wall or drapery. The scene likely depicts a moment of divine inspiration or the recording of sacred texts.",
+    "scene_interpretation": "Evangelist Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0017/1634,2442,893,1212/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man, partially submerged in a mound of straw or hay, looking upwards with his hands clasped in supplication. He is bare-chested and appears to be in distress. To his right, three figures stand, one in the foreground wearing a golden robe and a cap, with his right hand raised as if in blessing or admonishment. Behind him, two other figures, one a woman and the other a man, observe the scene. To the left, a building with a pitched roof and arched doorway is visible. The background features a walled enclosure with a balustrade, beyond which lies a hilly landscape under a blue sky with scattered clouds. The overall composition suggests a narrative of divine intervention or judgment.",
+    "scene_interpretation": "The scene likely represents the story of Lazarus being raised from the dead by Christ, or a similar miracle of resurrection or healing. The man in the straw could be Lazarus, emerging from his tomb, while the figures on the right might be Christ (the central figure in gold) and his disciples, or onlookers. The gesture of the raised hand can be interpreted as Christ's command to Lazarus to rise.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Lazarus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.198/Ross.198_0130_fa_0123v-124r.jp2/1766,196,626,925/full/0/default.jpg"
+}

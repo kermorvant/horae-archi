@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a fortified city in the background. In the foreground, three figures are present. One figure, seated and wearing a hat and an orange tunic, plays a bagpipe. Another figure, facing away and wearing a yellow tunic and blue scarf, has their eyes covered. A third figure, in a blue tunic and hat, stands behind the second figure, gesturing towards them. Several sheep are scattered around the figures in the grassy field. Above the scene, a winged figure, possibly an angel, is depicted within a radiant sun.",
+    "scene_interpretation": "The scene is likely an allegorical representation, possibly related to spiritual guidance or the dangers of ignorance. The figure with covered eyes could symbolize blindness to spiritual truth, while the gesturing figure might represent someone attempting to lead or enlighten them. The bagpiper could represent worldly distractions or entertainment. The presence of the winged figure in the sun suggests divine oversight or intervention.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_MSNA0167/DEPOT/B280856201_MSNA0167_0055/885,602,1431,1834/full/0/default.jpg"
+}

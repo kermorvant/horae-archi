@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a rudimentary wooden stable structure. The Virgin Mary, seated and wearing a blue robe, holds the Christ Child on her lap. The Child is radiant with a halo. One of the Magi, kneeling, offers a gift, while another stands, holding a golden chalice. Two other figures, likely attendants or other Magi, are visible behind them. The background shows a landscape with hills and a blue sky, with rays of light emanating from the Christ Child. In the foreground, a dog lies on the ground next to a crown.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_INCRIA063/DEPOT/B721816101_INCRIA063_0033/3476,279,1975,3092/full/0/default.jpg"
+}

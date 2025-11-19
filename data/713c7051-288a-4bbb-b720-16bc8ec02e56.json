@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a burial service taking place outdoors, with a group of clerics in blue and red robes gathered around an open grave. One cleric, holding a book, appears to be officiating the ceremony, while another, in a blue robe, points with a wand towards the deceased, who lies in a white shroud. Two figures in black monastic habits stand to the right, observing. In the background, a church with spires and arched windows is visible, along with a wall and trees. Tools for digging, a skull, and bones are scattered around the grave, suggesting the context of a cemetery or burial ground.",
+    "scene_interpretation": "Funeral Rites",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "spire",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Cleric",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0140/1556,558,1345,1962/full/0/default.jpg"
+}

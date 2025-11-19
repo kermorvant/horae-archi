@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within an architectural setting. At the center, the Virgin Mary, adorned in a richly patterned robe, holds the Christ Child on her lap. The Christ Child reaches towards a kneeling figure, likely one of the Magi, who is dressed in a fur-lined hat and robe. To the left, another figure, possibly a Magus, presents a gift. Behind them, a group of figures, including women and possibly attendants, are arranged. The background features architectural elements such as arches, columns, and what appear to be vaulted ceilings, suggesting an interior space. The overall composition is framed by a decorative border.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f196/2392,574,1017,1243/full/0/default.jpg"
+}

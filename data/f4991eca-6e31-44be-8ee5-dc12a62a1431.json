@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "An angel with large feathered wings kneels on one knee, blowing a long trumpet. The angel wears a robe adorned with a cross on the chest and a circular emblem on the left side. The background is filled with stars, suggesting a celestial or night setting. Above the angel, an arched architectural element, possibly representing a vault or canopy, frames the scene. The overall style is reminiscent of woodcut or early printmaking.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0018/4940,3079,584,918/full/0/default.jpg"
+}

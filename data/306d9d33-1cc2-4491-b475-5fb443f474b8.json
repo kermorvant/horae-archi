@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in what appears to be a wine cellar or storage area. In the foreground, a person dressed in a vibrant blue tunic, adorned with gold patterns, is standing inside a large wooden barrel, crushing grapes with their hands. Red liquid, presumably grape juice or wine, is visible dripping down the sides of the barrel. Behind this figure, another person, wearing a grey tunic and a tall, conical hat, carries a basket on their back, suggesting they are involved in the harvest or transport of grapes. In the background, several large wooden barrels are stacked, indicating a place of storage for wine. The overall setting is dimly lit, with a dark, undefined background suggesting an interior space.",
+    "scene_interpretation": "Harvest",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "barrel"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_015v.jp2/2603,960,1771,1390/full/0/default.jpg"
+}

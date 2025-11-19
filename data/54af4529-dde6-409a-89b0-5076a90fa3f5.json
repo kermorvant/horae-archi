@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a richly decorated architectural setting. On the right, the Virgin Mary, seated on an ornate throne, is shown with her hand on her chest and holding a book, looking downwards. To the left, the Angel Gabriel, with large red wings, kneels and gestures towards Mary, seemingly delivering the message of her conception. Above them, a row of smaller panels shows angels playing various musical instruments, including drums, a lute, and a harp. The architecture features pink walls, arched windows with blue panes, and decorative gold patterns. The overall impression is one of divine revelation and celestial celebration.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall",
+        "column",
+        "capital",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f85/499,222,1570,1854/full/0/default.jpg"
+}

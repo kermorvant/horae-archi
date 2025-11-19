@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "Four winged putti are depicted in a celestial setting against a starry blue background. The central figure, a child with a halo and radiating light, sits on a red, patterned cushion, holding a globe and a cross. To the left, another child plays a lute, while a third child above plays a similar instrument. A fourth child sits to the right, holding a stringed instrument. A red banner unfurls above them, inscribed with Latin text: \"OMNIS SPVS LAVDET DOMINVM\" (All spirits praise the Lord). The scene evokes a heavenly choir celebrating divine praise.",
+    "scene_interpretation": "Celestial Choir",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "putto",
+        "putto",
+        "putto",
+        "putto"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127516/f46/489,1306,873,935/full/0/default.jpg"
+}

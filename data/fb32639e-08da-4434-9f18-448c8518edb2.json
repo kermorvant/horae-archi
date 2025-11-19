@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a martyrdom, likely Saint Agnes, kneeling in prayer before a pyre. She is partially draped in a white cloth. Two men are actively tending the fire with long poles, one on the right wearing a blue tunic and a crown-like headdress, and another on the left in a white tunic and cap. Behind the pyre, a group of figures in elaborate robes observe the scene, one holding a staff topped with a cross. In the background, a fortified city with towers and walls is visible under a blue sky, surrounded by greenery and a body of water.",
+    "scene_interpretation": "Martyrdom of Saint Agnes",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Saint Agnes"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8447775g/f435/460,436,1203,1595/full/0/default.jpg"
+}

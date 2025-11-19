@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A figure, likely a hermit or penitent, sits on a stool warming their hands by a fire burning within a stone structure. The figure wears an orange robe and a blue hood, with bare feet. The background features a decorative pattern of gold swirls on a pink ground, framed by a blue arch and a border adorned with red and gold floral motifs. The scene is set outdoors on a grassy area with sparse yellow foliage. The fire appears to be contained within a hearth or brazier, suggesting a domestic or monastic setting for warmth.",
+    "scene_interpretation": "Penitence",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f9/468,484,1412,1026/full/0/default.jpg"
+}

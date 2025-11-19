@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. Saint Joseph, bearded and wearing a hat, leads a horse on which the Virgin Mary is seated, holding the Christ Child. The Virgin Mary wears a veil and a halo. Behind them, two figures are visible: one appears to be a traveler with a bag, and the other is a soldier in armor. In the background, a city skyline with various buildings and trees is depicted. The ground is uneven, suggesting a rural landscape, and a stylized flower is visible in the foreground.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00164/257,293,678,1083/full/0/default.jpg"
+}

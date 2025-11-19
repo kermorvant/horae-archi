@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The Virgin Mary, crowned and draped in a blue mantle over a purple gown, sits holding the Christ Child. She is flanked by two angels; the one on the left plays a lute, and the one on the right holds a harp. The background consists of red drapery and architectural elements suggesting a throne or a room. The scene is rendered with vibrant colors and gold accents, typical of medieval manuscript illumination.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_018/DEPOT/890245409_n_018_0120/3507,611,1884,2298/full/0/default.jpg"
+}

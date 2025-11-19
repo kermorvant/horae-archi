@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of individuals, including the Virgin Mary, gathered indoors and looking upwards. A dove, representing the Holy Spirit, descends from above, radiating golden light. The figures are dressed in richly colored robes, with some kneeling and others standing, all with expressions of devotion and awe. The architectural setting is suggested by a coffered ceiling and columns, indicating an interior space. This scene is a representation of the Pentecost, the descent of the Holy Spirit upon the Apostles and Mary, ten days after Christ's Ascension, empowering them to spread the Gospel.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53014820r/f69/172,108,759,1245/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Saint George, clad in armor and a red cape, mounted on a white horse. He is shown in the act of slaying a dragon, though the dragon itself is not explicitly visible. Instead, two fallen figures, presumably representing defeated enemies or the dragon's victims, lie beneath the horse's hooves. The background features a stylized representation of buildings, possibly a town or city, with towers and roofs. The overall composition suggests a triumphant victory, likely attributed to the saint's divine intervention.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10538047h/f46/188,267,2224,3229/full/0/default.jpg"
+}

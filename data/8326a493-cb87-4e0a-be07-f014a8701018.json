@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in an outdoor setting. On the left, a woman in a blue robe and white veil, with a halo, bows her head and touches her forehead, appearing distressed. On the right, another figure, possibly male, in a red cloak over a blue garment, also bows their head and touches their mouth, with an expression of sorrow or contemplation. The background features a path, a grassy area with a fence, trees, and a distant cityscape under a sky with birds. This scene likely represents the Visitation, where Mary, pregnant with Christ, visits her cousin Elizabeth, who is also pregnant.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Cappon.218/Cappon.218_0414_fr_0196v.jp2/427,623,306,324/full/0/default.jpg"
+}

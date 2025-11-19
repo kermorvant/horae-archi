@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable, suggested by the wooden beams and dark, rough walls. The Virgin Mary, with long auburn hair and a serene expression, is draped in a blue mantle. Beside her, Saint Joseph, with a white beard and clasped hands in prayer, gazes down. Between them, the Christ Child lies on a white cloth, radiating a golden light. A donkey's head is visible behind Mary. The scene is framed by an arched wooden structure, and through an opening, a pastoral landscape with rolling hills and trees is visible under a blue sky. Golden rays emanate from the Christ Child, symbolizing divine light, and also from above, suggesting heavenly intervention. The lower part of the image contains a decorated initial 'D' and Latin text, typical of a Book of Hours.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f97/226,369,1254,1611/full/0/default.jpg"
+}

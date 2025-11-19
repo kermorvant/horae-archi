@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure seated on a throne-like structure, wearing a conical hat and a short tunic. Two figures, one on each side, are attending to the central figure. The figure on the left, wearing a hooded garment, appears to be placing something on the head of the seated figure. The figure on the right, with short hair, is also reaching towards the seated figure. The background is decorated with a dark, scrolling foliate pattern. The floor beneath the throne is patterned with dark triangles. The overall impression is one of a ritualistic or ceremonial act.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f458/866,662,893,1064/full/0/default.jpg"
+}

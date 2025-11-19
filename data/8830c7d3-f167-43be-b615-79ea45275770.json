@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Last Judgment. Christ, enthroned in a golden oval mandorla, blesses with his right hand and gestures with his left. He is surrounded by four angels, two holding trumpets and two appearing to support the mandorla. Below, on the left, the Virgin Mary and another figure, possibly Saint John the Baptist, are shown in prayer. In the lower register, an angel with a trumpet stands over the resurrected dead emerging from the ground. To the right, souls are being cast into the mouth of a monstrous beast, representing hell, where they are consumed by flames. The setting is a hilly, green landscape under a blue sky dotted with stars.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_055_054/DEPOT/210546201_S_055_054_0081/1463,609,1421,1835/full/0/default.jpg"
+}

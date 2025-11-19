@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and cope, stands holding a cross-staff in his left hand and a blue-bound book in his right. He wears a white mitre adorned with gold embroidery, a crimson cope over a grey alb, and a pectoral cross. A halo encircles his head, indicating his sanctity. The background is a dark, textured void, suggesting a spiritual or devotional context rather than a specific physical location. The figure is depicted in a devotional pose, reading from the open book.",
+    "scene_interpretation": "Saint in devotional pose",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515741t/f239/315,1519,616,626/full/0/default.jpg"
+}

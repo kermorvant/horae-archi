@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "Three bearded men, two wearing crowns and one with a hat, are depicted in conversation. The man in the center, wearing a crown, gestures with his right hand, pointing towards the man on the right. The man on the left, also crowned, wears armor and a helmet. The man on the right, with a long beard and wearing a hat, holds a staff or scepter. The scene is framed by an architectural element resembling a pointed arch with decorative tracery, suggesting an interior or a structured setting. The figures' attire and regalia imply a scene of importance, possibly involving royalty or significant religious or political figures.",
+    "scene_interpretation": "The scene likely depicts a biblical or historical event involving kings or important figures. Without further context or identifying attributes, a specific interpretation is difficult. However, the presence of crowns and the formal interaction suggest a narrative of counsel, judgment, or a significant meeting.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "King",
+        "King",
+        "Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0060/5918,481,612,1155/full/0/default.jpg"
+}

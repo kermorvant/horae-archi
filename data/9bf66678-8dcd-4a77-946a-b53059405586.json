@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a castle complex with multiple towers and varied rooflines, set against a backdrop of rolling hills and lush greenery. In the foreground, a body of water contains two fish swimming. A solitary figure, possibly a man, walks along a path leading towards the castle, accompanied by a small dog. The overall impression is one of a serene, albeit somewhat stylized, landscape with architectural elements.",
+    "scene_interpretation": "This scene does not depict a specific biblical or devotional event. It appears to be a landscape vignette, possibly illustrating a psalm or a general theme of nature and human presence within a built environment. The presence of fish might allude to themes of creation or sustenance.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0081/DEPOT/M601415401_MS0081_0007/708,1445,491,689/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Moses, kneeling and holding the Tablets of the Law, which are inscribed with lines representing text. Above and behind him, a bearded figure, likely God or a divine messenger, is shown. To the right, a group of people are gathered, some looking towards Moses. The background features architectural elements resembling stylized buildings with arched openings and decorative finials. The overall composition suggests a divine revelation or the transmission of sacred law.",
+    "scene_interpretation": "Moses Receiving the Ten Commandments",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "pinnacle"
+    ],
+    "persons": [
+        "Moses"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0100/940,506,664,1203/full/0/default.jpg"
+}

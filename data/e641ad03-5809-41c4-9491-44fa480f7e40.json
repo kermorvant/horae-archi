@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, with a halo, stands bound to a column, his body marked with wounds. Two figures, dressed in medieval attire, are shown whipping him with scourges. The background is a vibrant green with a decorative gold pattern. The floor is tiled in a diamond pattern of orange and yellow. Above Christ, a decorative element resembling a torch or a stylized sun emanates light.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vj053mn4619%2FW169_000072_1200/3957,1460,2906,4165/full/0/default.jpg"
+}

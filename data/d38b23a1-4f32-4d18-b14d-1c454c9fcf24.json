@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A male figure, likely a saint or monk, is depicted within a decorative initial. He has a tonsured head, a beard, and wears a dark habit over a white tunic. His right hand is raised in a gesture of blessing or teaching, while his left hand holds a book or scroll. The background is dark, suggesting an indoor or enclosed setting, and the initial itself is framed by ornamental scrollwork.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525111708/f235/795,1596,351,377/full/0/default.jpg"
+}

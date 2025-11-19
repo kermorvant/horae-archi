@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Moses, identifiable by his staff and halo, wading through turbulent waters. He is accompanied by two other figures. One, also haloed, appears to be carrying a smaller figure or object. The second figure, to the right, is hooded and holds a musical instrument, possibly a harp or lyre. The background shows a stylized landscape with hills and sparse trees under a blue sky. The overall scene represents the Crossing of the Red Sea, a pivotal event in the Old Testament where Moses led the Israelites out of Egypt.",
+    "scene_interpretation": "Crossing of the Red Sea",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Moses"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550092764/f87/319,485,792,737/full/0/default.jpg"
+}

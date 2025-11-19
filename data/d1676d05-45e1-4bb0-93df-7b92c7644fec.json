@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, depicted in profile, wears a crown and a richly decorated robe. He holds a book in his left hand and gestures with his right. The figure is framed by architectural elements, suggesting an interior setting. The robe is adorned with a floral motif and a patterned border. The overall style is that of a woodcut illustration, likely from a devotional text.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00146/2235,1358,314,1222/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely a saint, is depicted seated and writing in a book. He wears a hooded robe and has a beard. To his left, a lion with a human-like face sits attentively. Behind the saint, an arched architectural element frames a lectern holding a large book, suggesting a scholarly or devotional setting. The scene is rendered in a woodcut style with strong linework.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0016/1446,2957,666,943/full/0/default.jpg"
+}

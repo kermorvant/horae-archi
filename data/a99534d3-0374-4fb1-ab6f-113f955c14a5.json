@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with the Virgin Mary seated on a donkey, holding the Christ Child. Saint Joseph, an elderly man with a long beard, walks beside the donkey, leading it by a rope. They are in an outdoor landscape with rolling hills, rocky outcrops, and sparse trees. The sky is a vibrant blue, and the ground is rendered in shades of brown and green with small yellow dots. The figures are framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/2235811/2235094.tif/1790,479,1365,2065/full/0/default.jpg"
+}

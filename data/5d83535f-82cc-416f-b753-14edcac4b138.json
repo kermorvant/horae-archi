@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "Two figures, a woman in a red cloak and a man in a blue robe, embrace. The woman's head is tilted back, and the man leans in, appearing to kiss her. They stand in front of a building with large columns and an arched opening. To the right, a path leads into a garden with trees and foliage. The scene is framed by an ornate, scrolling border with floral motifs.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.C.IV.109/Chig.C.IV.109_0062_fa_0027r.jp2/212,1128,315,337/full/0/default.jpg"
+}

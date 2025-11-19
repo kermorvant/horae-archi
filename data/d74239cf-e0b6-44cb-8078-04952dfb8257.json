@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men in blue robes with gold ornamentation, looking upwards with expressions of awe and supplication. One man, in the foreground, kneels with his arms outstretched towards a golden architectural structure. This structure, resembling a canopy or shrine, is adorned with pointed arches and intricate tracery, and beams of golden light emanate from it, suggesting a divine presence. Behind the kneeling man, other figures are visible, also looking towards the light. The background is a rich red tapestry, speckled with gold and grey clouds, creating a sense of a celestial or sacred space. The overall impression is one of religious devotion and divine revelation.",
+    "scene_interpretation": "The scene likely represents a moment of divine revelation or prayer, possibly related to a biblical event or a saint's vision. The golden light and the supplicating figures suggest a direct encounter with the divine. Given the context of Books of Hours, this could be a depiction of a prophet receiving a vision, or a moment of intense prayer answered by divine intervention.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "ornamental_tracery",
+        "canopy",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f98/465,1202,797,1699/full/0/default.jpg"
+}

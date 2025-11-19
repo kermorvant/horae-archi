@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity, with the Virgin Mary, dressed in blue and white, kneeling with her hands clasped to her chest, gazing down at the Christ Child. The Christ Child lies in a manger, swaddled in green, with a halo. Joseph, an elderly man with a white beard and halo, stands to the left, leaning on a staff. Two other figures, likely shepherds, are present. One, in red and green, kneels and appears to be presenting a blue cloth to the infant. Another, wearing an orange hat and red cloak, stands behind him, looking towards the scene. The setting is a rustic stable with exposed wooden beams and a stone wall. In the background, a landscape with trees and distant blue hills is visible.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0367/bge-lat0367_058r.jp2/511,521,3332,4897/full/0/default.jpg"
+}

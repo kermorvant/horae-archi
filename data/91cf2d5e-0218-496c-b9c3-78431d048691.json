@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a centaur, a mythical creature with the torso and head of a human and the body of a horse, aiming a bow and arrow. The centaur has curly brown hair and a beard, and its human torso is bare. The horse body is dark brown. The background is a landscape with rolling green hills and a blue sky. The scene is framed by a decorative border. The text above the image, \"Sagittarie\", identifies the centaur as the astrological sign Sagittarius.",
+    "scene_interpretation": "Astrology",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Centaur"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3770/Vat.lat.3770_0016_fa_0005v.jp2/1119,2649,631,602/full/0/default.jpg"
+}

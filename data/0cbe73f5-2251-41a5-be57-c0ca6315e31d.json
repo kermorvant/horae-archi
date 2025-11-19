@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a figure, likely a king or a noble, wearing a richly decorated tunic and a crown. The figure has a long, wavy beard and is adorned with jewelry, including a prominent necklace with a floral motif. The background suggests an architectural setting, with decorative elements that could be part of a building's facade or interior. The overall style is that of a woodcut or engraving, common in medieval manuscripts.",
+    "scene_interpretation": "Royal Figure",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00113/104,1244,288,1422/full/0/default.jpg"
+}

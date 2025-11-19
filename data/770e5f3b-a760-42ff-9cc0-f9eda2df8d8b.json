@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in blue and gold, meeting Elizabeth, who is also pregnant and wearing blue and a red mantle. They are shown outdoors in a hilly landscape with trees and a path leading towards a pink, multi-towered building. In the background, a city with several towers and red-roofed buildings is visible under a blue sky. The figures are rendered with halos, indicating their religious significance.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10614657/2592,423,1410,1827/full/0/default.jpg"
+}

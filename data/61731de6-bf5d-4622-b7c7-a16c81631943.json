@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a profile view of a bearded man wearing a conical hat with a band. He is dressed in layered garments, and his left hand appears to be holding something. The background is filled with a decorative pattern, possibly representing foliage or drapery, framed by an arched architectural element. The overall style is that of a woodcut or early engraving, suggesting a secular or devotional context rather than a specific biblical narrative.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "undefined_element"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0045/1676,3746,245,615/full/0/default.jpg"
+}

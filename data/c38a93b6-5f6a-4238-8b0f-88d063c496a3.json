@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Flight into Egypt, with the Virgin Mary riding a donkey, holding the Christ Child. An angel accompanies them on the left, and Saint Joseph walks beside the donkey on the right, leading it. In the background, a group of figures on horseback are seen on a hillside, suggesting pursuit. Above, a stylized sun radiates light, and in the far distance, a blue, mountainous landscape with hints of architecture is visible. A golden column with a figure reaching out from it is depicted on a hill to the left, possibly representing a pagan idol toppled by the Holy Family's passage.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0022/DEPOT/B441096101_MS0022_0069/3662,515,1269,1887/full/0/default.jpg"
+}

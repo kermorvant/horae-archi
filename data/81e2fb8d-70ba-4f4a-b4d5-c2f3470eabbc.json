@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A crowned figure, identified as David, kneels in prayer on a grassy hillside, his hands clasped and his gaze directed upwards. He wears a royal golden crown, a white collar, and a blue robe with a golden cloak draped over it. To the left, a harp rests on the ground, symbolizing his musical talent and his role as a psalmist. In the background, a stylized cityscape with tall towers and buildings is visible, set against rolling hills and a blue sky. The scene evokes a sense of devotion and contemplation, likely depicting King David in prayer or composing a psalm.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/my769dn6747%2FW431_000308_1200/477,1704,2112,2794/full/0/default.jpg"
+}

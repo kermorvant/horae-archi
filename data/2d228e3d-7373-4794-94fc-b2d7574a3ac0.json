@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely a saint, seated and partially draped in white cloth, with a halo and a blue crown. He is positioned next to a dark, rough-hewn stone structure, possibly a hermitage or a ruin, with a cross visible on top. In the background, a landscape with rolling hills and distant mountains is depicted. Three figures stand to the right of the seated man: a woman in a golden robe and black garment, a man in a blue robe playing a pipe, and another figure in a red robe and blue head covering. Above them, in the upper part of the image, a divine figure with a red robe and halo is depicted amidst clouds and golden rays, suggesting a heavenly presence. The overall scene appears to be a depiction of a saint's life, possibly involving divine intervention or visitation.",
+    "scene_interpretation": "Saint in Meditation with Divine Vision",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "cross"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0136/DEPOT/315556101_MS0136_0115/4115,535,1870,2856/full/0/default.jpg"
+}

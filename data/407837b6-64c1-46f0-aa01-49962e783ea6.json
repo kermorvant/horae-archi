@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, with a golden halo, kneels in prayer before the Christ Child, who lies swaddled in a wooden manger, also with a halo. Saint Joseph, also haloed, stands to the left, holding a candle and a flask, his hand raised in a gesture of reverence. A cow and a donkey are present, their heads peering over the manger. Above the stable, through openings, a starry night sky is visible, with distant castles and figures looking on. The architecture is simple, suggesting a stable or a rudimentary shelter, with wooden beams and a thatched roof visible.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/SanMarino_Huntington_HM1099%2FSanMarino_Huntington_HM1099_jp2.zip%2FSanMarino_Huntington_HM1099_jp2%2FSanMarino_Huntington_HM1099_0096.jp2/834,393,1203,1780/full/0/default.jpg"
+}

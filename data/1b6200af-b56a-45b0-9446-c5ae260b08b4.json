@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic jumble of figures, seemingly in distress or mourning, lying down and reaching out. Their faces are etched with sorrow and exhaustion. In the upper left corner, a fragment of a building with a pointed arch and a small niche is visible, suggesting an architectural context. The overall impression is one of suffering and perhaps a depiction of a plague or a scene of death and resurrection.",
+    "scene_interpretation": "Resurrection of the Dead",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "niche",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0079/846,1554,546,1301/full/0/default.jpg"
+}

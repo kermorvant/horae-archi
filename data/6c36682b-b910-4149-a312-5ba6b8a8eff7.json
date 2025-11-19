@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary kneeling in prayer before a book on a stand, draped in a blue mantle. To her right, the Angel Gabriel, with large wings and a halo, kneels and gestures upwards with his right hand, holding a golden staff. Above the angel, the Holy Spirit is represented as a dove descending in a ray of divine light. The setting appears to be an interior space, suggested by the presence of a richly decorated canopy behind the Virgin and a dark, ornate wall or screen behind the angel. The floor is tiled.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_MS2111/DEPOT/B490076101_MS2111_0018/4134,1343,1428,1917/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a banquet with thirteen figures seated around a circular table. At the head of the table, a crowned figure, presumably Christ, is shown with a halo, holding a chalice and resting his head on the shoulder of a younger figure, also with a halo. The other figures, all with halos, are seated on benches and appear to be engaged in conversation or contemplation. The table is laden with plates of food, cups, and knives. The background is a rich red with gold swirling patterns, and the floor is a green and black checkered pattern. Decorative borders frame the scene.",
+    "scene_interpretation": "The Last Supper",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/gd972zf6050%2FW246_000086_1200/4868,995,3123,5060/full/0/default.jpg"
+}

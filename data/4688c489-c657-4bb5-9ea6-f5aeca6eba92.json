@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and bearing wounds, standing before a wooden cross. He is partially obscured by the cross, with his right hand touching his chest and his left hand resting on his hip. He wears a white loincloth. Scattered around him are various instruments of the Passion, including a ladder, a hammer, tongs, a lance, a scourge, and dice. To the left, a stone structure resembling an altar or tomb is visible, topped with three vessels. Above this, a column and several portrait busts of individuals, including a figure in a bishop's mitre, are depicted against a red background. To the right, more instruments are displayed, including a scythe-like blade and a ladder leaning against the cross. The overall impression is one of solemnity and contemplation of Christ's suffering and the events surrounding the Crucifixion.",
+    "scene_interpretation": "The Passion of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "roof",
+        "stairs",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Cappon.218/Cappon.218_0440_fr_0209v.jp2/408,203,564,770/full/0/default.jpg"
+}

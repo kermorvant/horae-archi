@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts an interior architectural space framed by a golden arch. On the left, an elderly man with a long white beard, wearing a blue robe and a dark head covering, sits on a bench, leaning on a staff. He is looking towards the right. In the center, a younger man, dressed in a green tunic and a red robe, kneels on one knee, holding a bow and arrow, looking upwards with an expression of surprise or anticipation. Behind him, a large window with tracery shows a glimpse of an outdoor scene with figures on a balcony. The interior features a red curtain on the left and columns supporting arches. The floor is tiled with a geometric pattern. The overall impression is one of a narrative moment within a structured, possibly palatial or religious, setting.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof",
+        "stairs"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_136/2801,527,959,1059/full/0/default.jpg"
+}

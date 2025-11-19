@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable structure with a thatched roof supported by wooden beams. The Virgin Mary, in a blue mantle over a burgundy gown, kneels with hands clasped in prayer, her gaze downcast. Beside her, Saint Joseph, clad in a red robe and blue hood, also kneels with hands joined in prayer, looking upwards. In the foreground, the Christ Child lies on the ground, radiating a golden halo and light, with his arms outstretched. Behind the figures, a tapestry with a sunburst motif is visible. The background opens to a landscape with rolling hills, trees, and a distant town with red-roofed buildings and towers. The overall scene is one of humble adoration and the divine birth.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9900251/341,269,1432,2182/full/0/default.jpg"
+}

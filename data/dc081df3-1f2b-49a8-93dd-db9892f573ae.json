@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross in the center. He is wearing a loincloth and has a halo. To the left of the cross stands the Virgin Mary, cloaked in blue, with another figure in pink behind her. To the right, several figures are present, including one in a golden robe holding a spear, and others in blue and pink attire, some wearing helmets. The background is a decorative pattern of blue and gold squares. The ground is depicted as green and uneven.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_004%2Fwidener_004_jp2.zip%2Fwidener_004_jp2%2Fwidener_004_0228.jp2/898,1447,2159,2405/full/0/default.jpg"
+}

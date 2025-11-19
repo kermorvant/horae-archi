@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, crowned and with a halo, sits holding the Christ Child. The Christ Child, also with a halo, is dressed in orange and holds a green orb. One of the Magi, kneeling and bearded, offers a gift from an open book. Two other Magi stand behind him, one wearing a crown and the other a green cap. The figures are set against a gold background, framed by architectural elements that suggest a Gothic style, including pointed arches and decorative tracery. The scene is richly decorated with gold leaf.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537190/46187307.tif/682,606,1791,2180/full/0/default.jpg"
+}

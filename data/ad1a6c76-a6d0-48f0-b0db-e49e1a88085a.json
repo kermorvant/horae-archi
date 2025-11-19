@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a decorative border with stylized foliage, flowers, and two figures. On the left, a human-like figure with a somber expression is seated, hunched over, with hands clasped. To the right of this figure, a mythical bird, possibly a phoenix or griffin, is shown perched. The overall composition is framed by a horizontal border, suggesting it is part of a larger illuminated manuscript or printed book.",
+    "scene_interpretation": "The scene does not depict a specific biblical or devotional event. The figures and motifs are likely ornamental, possibly representing allegorical concepts or simply decorative elements common in medieval art.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "seated figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0035/3429,381,1493,243/full/0/default.jpg"
+}

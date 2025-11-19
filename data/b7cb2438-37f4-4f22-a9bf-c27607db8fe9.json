@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "An elderly man with a long white beard and a red cap is depicted writing on a slanted lectern. He wears a red robe over a grey garment. A halo surrounds his head, indicating his saintly status. To his right, a bull with horns is visible, its head turned towards the viewer. Behind the figures, a brown architectural element with arched motifs is suggested.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_des_Arts_decoratifs/Musee_des_Arts_decoratifs_INV_40343/DEPOT/Musee_des_Arts_decoratifs_INV40343_0014/3279,1219,749,704/full/0/default.jpg"
+}

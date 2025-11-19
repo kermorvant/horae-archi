@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely Christ, in a purple robe adorned with gold, being led by guards. He wears a crown of thorns and his hands are bound. To the left, a man in a blue robe and a blue cap is seated on a wooden bench, pouring water from a jug into a basin held by another figure in an orange tunic and orange hose. This action, along with the presence of guards and the bound figure, suggests a scene of judgment or humiliation. The background features architectural elements, including an arched doorway and a column, indicating an indoor setting.",
+    "scene_interpretation": "Washing of Hands",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0132/4446,2701,982,1230/full/0/default.jpg"
+}

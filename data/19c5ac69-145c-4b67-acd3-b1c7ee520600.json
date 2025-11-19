@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a bedside vigil or prayer. On the left, a figure lies in a bed, covered by a white sheet, with a person in a dark robe leaning over them, hands outstretched in supplication. To the right, a bishop, identifiable by his mitre and ornate vestments, stands within an architectural niche, holding a bag and a staff. Beside him, two figures are shown in prayer, one with hands clasped and the other with hands extended. The background features decorative architectural elements and a large illuminated initial letter. The overall scene suggests a moment of spiritual intercession or a deathbed scene, possibly invoking the intercession of Saint Nicholas, as suggested by the accompanying text.",
+    "scene_interpretation": "Deathbed Vigil",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "niche",
+        "microarchitecture",
+        "wall"
+    ],
+    "persons": [
+        "Bishop",
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f158/4798,2805,2392,2096/full/0/default.jpg"
+}

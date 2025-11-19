@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Jerome by his halo and scholarly activity, is seated and reading from an open book. He wears a reddish-brown tunic and a purple mantle. To his right, an angel, identifiable by its wings and halo, presents another open book to Saint Jerome, pointing to its pages. The scene takes place indoors, with a dark, textured wall behind the figures and a blue, star-studded background to the left, suggesting a celestial or scholarly setting. The floor is tiled. The overall composition evokes the moment of divine inspiration or instruction.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/15963626/341,1287,710,877/full/0/default.jpg"
+}

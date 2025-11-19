@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "Two winged figures, possibly putti or angels, kneel on a stone surface. They are holding a large scroll or banner that encircles a central shield or coat of arms. The figures have wings and appear to be cherubic. The scroll is inscribed with text, and the shield displays a heraldic design. The overall scene is decorative and appears to be a symbolic representation, possibly a dedication or a family crest.",
+    "scene_interpretation": "Heraldic Representation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00285/68,1210,855,424/full/0/default.jpg"
+}

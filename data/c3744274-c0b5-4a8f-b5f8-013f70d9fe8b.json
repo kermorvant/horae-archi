@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures against a richly patterned, dark background. On the right, a woman with a golden halo, dressed in a blue mantle over a pink and white garment, gestures with her right hand and holds her left hand to her chest. She appears to be speaking or explaining something. To her left, three men are gathered. The man closest to her wears a pink robe and points towards her. The man behind him wears a red cap and a blue tunic, looking intently. The third man, on the far left, wears a green robe and a pink cap, also looking towards the woman. The overall impression is one of a narrative moment, possibly a religious discourse or a questioning of a divine figure.",
+    "scene_interpretation": "The scene likely depicts the Presentation of Christ in the Temple, specifically the moment when the Virgin Mary is questioned by the elders or prophets about the divine nature of her son. The woman with the halo is likely the Virgin Mary, and the men could represent figures like Simeon or prophets, or simply onlookers questioning her. The gesture of the Virgin Mary suggests her explanation or affirmation of her divine mission.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_MS0688/DEPOT/B721816101_MS0688_0038/1175,625,1396,1971/full/0/default.jpg"
+}

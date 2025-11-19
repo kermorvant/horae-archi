@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, likely a prophet or apostle, stands within a decorative architectural frame. He is depicted in profile, facing left, with a scroll unfurled in his left hand and a stylus or quill in his right, suggesting he is in the act of writing or dictating. He wears a blue tunic and a red mantle draped over his shoulders and body. The background behind him is a rich, textured gold leaf, indicative of a divine or sacred context. The architectural elements framing the figure are stylized and appear to be part of a larger, ornate structure, possibly a niche or a tabernacle, with decorative motifs in red, green, and gold. The overall impression is one of solemnity and spiritual contemplation.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vz074kt5152/W534_000085_300/119,101,505,934/full/0/default.jpg"
+}

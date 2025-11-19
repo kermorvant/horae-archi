@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A winged figure, likely an angel, is depicted kneeling on a green grassy ground. The figure wears a flowing white garment adorned with gold patterns. Its wings are spread, showing a vibrant combination of blue and red. The background is a decorative tapestry or wall hanging, featuring a grid pattern with alternating gold squares and squares containing red circles or blue circles. The figure holds a circular object, possibly a censer or a musical instrument, in its right hand.",
+    "scene_interpretation": "Angel",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55005889s/f31/438,1938,792,577/full/0/default.jpg"
+}

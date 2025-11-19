@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a procession of figures in a city setting, with elaborate Gothic architecture forming the backdrop. On the left, a crowd of people, some appearing distressed, are gathered near an arched gateway. In the center, a group of individuals in red robes and white habits, possibly clergy or mourners, are shown with hands clasped in prayer. To the right, a procession carries a reliquary or shrine, accompanied by figures in religious attire. Above the city, an angel with a halo and wings stands on a tower, holding a sword and a trumpet. The overall impression is one of solemnity and religious devotion, possibly depicting a funeral procession, a saint's procession, or a scene related to the Last Judgment given the presence of the angel.",
+    "scene_interpretation": "Funeral Procession",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower",
+        "window",
+        "pinnacle",
+        "gable",
+        "arcade"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0076/867,594,2853,3755/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Matthew, is depicted writing in a book, with a quill pen in his right hand. He wears a blue tunic and a brown cloak adorned with gold patterns. An angel, with auburn hair and large grey wings, stands behind him, with hands clasped in prayer. Both figures have golden halos, indicating their sanctity. The background is a flat green, suggesting a spiritual or idealized setting, with scattered gold flecks.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Matthew",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46241275.tif/531,658,1040,1374/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A hunting scene unfolds in a verdant landscape under a starry sky. Several men, some on horseback, are engaged in a stag hunt. The central figure, a man in blue and gold attire with a crown, rides a white horse. To his left, another man in red and blue, holding a spear, blows a horn. In the background, a stag with impressive antlers flees, pursued by several hounds. The landscape is dotted with trees and a path winds through the grassy terrain. In the far left background, a castle with towers is visible.",
+    "scene_interpretation": "Hunting",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/905b3a0c-5e2e-4f05-92b6-44c00c688052/2007,1798,1188,1065/full/0/default.jpg"
+}

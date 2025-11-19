@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, identifiable by her halo, seated and engaged in weaving. She wears a blue robe over a pink and gold patterned skirt. Before her is a loom with colorful threads. To her left, a table holds a jug and a loaf of bread. A young Christ Child, also with a halo, stands before the loom, reaching upwards towards his mother with outstretched hands. The figures are situated within an architectural setting that suggests an interior space, possibly a domestic room or workshop, with arched openings revealing glimpses of the outside. The floor is tiled in a checkerboard pattern. The overall scene likely represents a moment of domestic life and the early education or interaction between the Virgin Mary and the Christ Child.",
+    "scene_interpretation": "Virgin and Child",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84528299/f150/830,103,1066,1611/full/0/default.jpg"
+}

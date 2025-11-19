@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Two figures, likely laborers, are depicted in an outdoor setting, carrying scythes. The figure on the left wears a purple tunic with gold trim and a blue hat, while the figure on the right wears a blue tunic with gold trim and a red cap. Behind them, a simple, rustic building with a reddish-brown roof and a small window is visible. The ground is depicted as a path or field, with a stack of hay or straw to the left. The scene likely represents agricultural labor, possibly related to the harvest, which would be a common theme in Books of Hours associated with the liturgical calendar.",
+    "scene_interpretation": "Agricultural Labor / Harvest",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_014r.jp2/750,894,2002,1539/full/0/default.jpg"
+}

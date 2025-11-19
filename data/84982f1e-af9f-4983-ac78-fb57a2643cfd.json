@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an architectural setting. On the left, an angel with wings is seated, holding a chalice. Facing the angel are three women, also with veiled heads, who are holding cups. The background suggests a cityscape with buildings and structures, possibly indicating an urban or religious environment. The overall composition suggests a devotional scene, likely related to a biblical narrative or a saint's life, where figures are engaged in a ritual or offering.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0097/5914,1945,639,1153/full/0/default.jpg"
+}

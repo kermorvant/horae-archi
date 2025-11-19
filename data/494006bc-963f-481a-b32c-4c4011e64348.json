@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, possibly a saint or prophet, is depicted holding a banner inscribed with the word 'lana' and decorated with circular motifs. The figure wears a distinctive headdress and a garment adorned with a floral or heraldic emblem. Behind the figure, architectural elements suggest a structured setting, including a column with a capital and an ornate, possibly vaulted, canopy. The scene is framed by text at the top, indicating it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "The banner with the inscription 'lana' (wool) and the circular motifs could symbolize a saint associated with wool production or trade, or perhaps a more allegorical representation of purity or humility. The overall context within a Book of Hours suggests a devotional or didactic purpose, likely illustrating a saint's life or a biblical passage.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "canopy",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0080/3225,3413,647,592/full/0/default.jpg"
+}

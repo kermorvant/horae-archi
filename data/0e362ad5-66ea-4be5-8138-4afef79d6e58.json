@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an architectural setting. On the left, a man with a beard, wearing a blue tunic and an orange cloak, holds a child who is partially draped in white cloth. The child is reaching out towards a man in a pink robe who is holding something small in his hand, possibly a berry or a coin. To the right of this interaction, another man in a blue tunic and red hose, wearing a dark cap, is holding the arm of a figure draped in a grey cloak. The background shows a stone wall with two rectangular openings, suggesting an interior or a sheltered exterior space. The overall scene is framed by a decorative border typical of illuminated manuscripts.",
+    "scene_interpretation": "The inscription 'Xedimuri' is likely a Latin word or abbreviation related to the scene. Without further context or a clearer inscription, a definitive interpretation is difficult. However, the interaction between the figures, particularly the offering or presentation of something to the child, and the presence of multiple adult figures, could suggest a narrative from the Bible or a saint's life, possibly involving a gift, a blessing, or a moment of instruction. The presence of the child and the adult figures suggests a scene of care, guidance, or perhaps a trial.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509627p/f239/2379,3765,1042,962/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands holding an open book. He wears a red and gold cope over a white alb and a blue dalmatic. His right hand, bearing stigmata, is visible. Behind him, a niche contains a sculpted figure, and a green curtain hangs to the left. The scene is framed by an ornate border with blue and gold foliate motifs. The bishop's attire and the presence of stigmata suggest a devotional image, possibly representing a saintly bishop or a figure associated with the Passion of Christ.",
+    "scene_interpretation": "Saintly Bishop",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://diglib.uibk.ac.at/ulbtirolhds/i3f/v20/6013222/1353,1038,2120,1857/full/0/default.jpg"
+}

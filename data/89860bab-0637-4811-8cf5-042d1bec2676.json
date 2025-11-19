@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an arched architectural frame. On the left, a woman wearing a white veil and a pink and grey robe is seated, holding an open book. She has a golden halo around her head. To her right, a younger figure, possibly a girl, kneels and looks towards the seated woman, with one hand reaching towards the book. The background features a blue, patterned drapery behind the seated figure and a pinkish wall behind the kneeling figure. The architectural elements suggest an interior setting, possibly a room or a niche within a larger structure.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0029.jp2/1762,3555,638,882/full/0/default.jpg"
+}

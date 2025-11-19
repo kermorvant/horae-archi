@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A male figure, identified as Saint Lawrence by his halo and the presence of gridirons, stands in a landscape. He wears a white alb and a red chasuble, both trimmed with gold. He holds a cloth filled with gridirons, suggesting his martyrdom. The background depicts a stylized landscape with scattered bushes and distant buildings that resemble castles or towers. The scene is framed by an ornate golden archway with foliate motifs.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0079/DEPOT/M601415401_MS0079_0135/4111,2036,1003,1072/full/0/default.jpg"
+}

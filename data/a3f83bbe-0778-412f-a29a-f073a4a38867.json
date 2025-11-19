@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, depicted in profile facing left, is shown within a decorative architectural frame. He wears a draped garment and a cap. The frame features pointed arches and ornamental tracery, suggesting a Gothic architectural style. The scene is a stylized representation, possibly a decorative initial or a marginal illustration.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0098/3347,2925,263,1705/full/0/default.jpg"
+}

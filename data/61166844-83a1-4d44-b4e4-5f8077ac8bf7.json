@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a stable. The Virgin Mary, with a golden halo, is kneeling in prayer to the left, beside a cow and a donkey. In the center, two angels with pink robes and white wings are looking towards the newborn Christ Child, who lies on a bed of straw radiating golden light. Saint Joseph, with a white beard and blue hood, is kneeling to the right, gently touching the Christ Child. Behind them, in the background, are figures in blue and red robes, possibly shepherds or onlookers, and a rudimentary structure with a wooden roof and walls. The overall setting is enclosed, suggesting a humble dwelling.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021255p/f137/357,145,965,1499/full/0/default.jpg"
+}

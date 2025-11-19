@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two men in a landscape setting. One man stands with a staff, wearing a hat and tunic, while the other kneels with his hands clasped in prayer. Above them, an angel is depicted within a crescent-shaped band inscribed with the Latin phrase \"Gloria in excelsis Deo\" (Glory to God in the highest). The background suggests a hilly terrain with some vegetation. The overall composition evokes a religious narrative, likely the Annunciation to the Shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS0358/DEPOT/B514546101_MS0358_0070/1938,320,643,920/full/0/default.jpg"
+}

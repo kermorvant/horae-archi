@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A male figure, depicted as a knight in full armor, stands in a verdant landscape. He wears a red surcoat adorned with a white cross, and golden armor. A sword is sheathed at his side, and he holds a shield bearing a similar white cross. Behind him, a winding path leads up a blue hill to a castle with multiple towers. In the background to the left, a cluster of stylized trees and small mounds dot the green terrain under a blue sky. The figure is identified as Saint George, a Christian martyr and soldier, often depicted in armor and associated with slaying a dragon, though no dragon is present in this scene. The castle on the hill may allude to his legend or a symbolic representation of a stronghold of faith.",
+    "scene_interpretation": "Saint George",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0023.jp2/1851,2221,1349,1166/full/0/default.jpg"
+}

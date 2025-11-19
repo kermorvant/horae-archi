@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, kneeling with hands clasped in prayer, is positioned to the left of a manger containing the Christ Child. To the right, Saint Joseph, holding a candle, looks down at the infant. A cow and a donkey are present in the background. The setting appears to be a stable or a ruined structure, with architectural elements like a column and a dark, textured wall visible. The sky above is dark with clouds, and a moon is visible. The overall atmosphere is one of humble reverence.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14936/Vat.lat.14936_0119_fa_0056r.jp2/220,97,605,806/full/0/default.jpg"
+}

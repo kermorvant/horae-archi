@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "This image is divided into four quadrants, each depicting a different evangelist or prophet. The top left quadrant shows a winged figure, likely an angel, seated in a landscape with a body of water and trees. The figure holds a scroll and appears to be writing. The top right quadrant depicts a bearded man with a halo, seated indoors, writing on a scroll at a lectern. A lion is visible to his right. The bottom left quadrant shows a bearded man with a halo, seated indoors, with a young boy reaching towards him. The man holds a scroll and is writing. The bottom right quadrant shows a man with a blue cap, seated indoors, writing on a scroll. A goat is present to his right. All figures are depicted with halos, suggesting their religious significance. The indoor scenes are characterized by patterned drapery and architectural elements like windows.",
+    "scene_interpretation": "Evangelists",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0034/DEPOT/M441095203_MS0034_0019/3620,566,1421,2140/full/0/default.jpg"
+}

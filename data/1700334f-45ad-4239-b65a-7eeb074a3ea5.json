@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ is shown on the cross, with a halo and the inscription 'INRI' above him. To the left, three figures stand, two of whom are women with halos, likely the Virgin Mary and Mary Magdalene, in mourning. To the right, a soldier is shown hammering a nail into Christ's foot. The setting is a rocky, barren landscape with a tree stump in the foreground. The overall composition is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.119/Ross.119_0060.jp2/1448,56,573,770/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two male figures in elaborate religious vestments standing in a verdant landscape. On the left, a bishop, identified by his mitre and crozier, presides over three nude individuals submerged in a wooden tub. The bishop's right hand is raised in a gesture of blessing or authority. To the right, another cleric, possibly a priest or deacon, holds an open book and appears to be reading or preaching. The background features a decorative, tessellated pattern of blue and gold squares, suggesting a divine or celestial setting. The overall composition evokes a scene of spiritual intervention and salvation.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_5%2F1945_65_5_jp2.zip%2F1945_65_5_jp2%2F1945_65_5_0380.jp2/539,3867,2026,2270/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a woman kneeling in prayer, wearing a crown and elaborate clothing, suggesting she is a queen or a figure of high status. She is positioned in front of a large wheel, a common attribute of Saint Catherine of Alexandria. Behind her, three men are shown. The man on the far left, with a beard and holding a flower-like object, appears to be presenting or gesturing towards the kneeling woman. The two men behind him are engaged in conversation or perhaps whispering, with one covering the other's ear. In the background, architectural elements of buildings with arched windows and spires are visible, indicating an urban or religious setting. The overall composition suggests a narrative scene, possibly related to the martyrdom or life of a saint.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0082/3620,2468,587,812/full/0/default.jpg"
+}

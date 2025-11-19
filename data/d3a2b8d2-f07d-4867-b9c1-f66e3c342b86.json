@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two male figures standing, with a third figure lying prostrate on the ground. The figure on the left is dressed as a bishop, wearing a mitre and ornate vestments, and holding a crozier. He gestures with his left hand. The figure on the right, who appears younger and wears a halo, holds a bundle of arrows. The fallen figure is dressed in green and orange. The background is a stylized landscape with mountains and a blue sky with clouds. The scene is framed by decorative borders.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/3124047/331,337,734,1215/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a king seated on a throne, holding a sword. Before him, a soldier in armor is presenting a baby, also holding a sword, to the king. A woman kneels between them, her hands clasped in supplication. The background features a patterned tapestry, and the floor is tiled in a red and orange checkerboard pattern. This is a representation of the Judgment of Solomon, where the king is asked to decide which of two women is the true mother of a child, by threatening to divide the child in half with his sword.",
+    "scene_interpretation": "Judgment of Solomon",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "King Solomon",
+        "Soldier",
+        "Baby",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/vad%2Fvad-0327%2Fvad-0327_0046v.jp2/2012,947,3066,5185/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "An angel with golden hair and pink wings, wearing a red tunic, descends from the sky, holding a scroll that reads \"Gloria in excelsis Deo\" (Glory to God in the highest). Below, three shepherds are depicted in a pastoral landscape. The shepherd on the left, in a red tunic and blue leggings, looks up at the angel with outstretched arms. The shepherd in the center, wearing a blue tunic and pink head covering, also looks upwards, while the third shepherd on the right, in a brown cloak, turns away. Several sheep are scattered around the shepherds. In the background, stylized buildings with blue roofs and towers are visible, suggesting a town or city.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0751_0780/DEPOT/620416201_MS0751_0780_0056B/3475,1313,2027,3079/full/0/default.jpg"
+}

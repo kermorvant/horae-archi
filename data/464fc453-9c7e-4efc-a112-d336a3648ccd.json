@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a skeletal figure, likely Death, holding a scythe, standing on the left. In the center, a person is falling from a tower-like structure, while another person is being pulled upwards from a body of water or a pit below. The architectural element suggests a fortified structure with battlements. The overall imagery conveys a sense of mortality and the inescapable nature of death, possibly representing the transience of life or the judgment of souls.",
+    "scene_interpretation": "Dance of Death",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0062/5161,641,670,1230/full/0/default.jpg"
+}

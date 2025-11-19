@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, with a golden halo, is seated on a donkey, holding the Christ Child. She wears a blue mantle and a red garment. The Christ Child, also with a halo, is held in her arms. Behind them, Joseph, identifiable by his beard and red hat, walks alongside the donkey, carrying a staff over his shoulder with a bundle attached. He wears a yellow tunic and blue garment. The background is a starry blue sky, suggesting night or a celestial setting, with sparse green foliage and trees scattered across the ground. The figures are rendered in a stylized, medieval manner, with emphasis on their devotional significance rather than naturalistic representation.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_012/DEPOT/762595409_A_10_012_0049/3772,515,1658,2149/full/0/default.jpg"
+}

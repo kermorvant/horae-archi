@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a young man, likely a saint, with a tonsured haircut and a halo, shown in profile with his eyes closed in prayer or contemplation. He wears a richly patterned brown garment over a pink tunic. He holds a tool, possibly a gridiron, a symbol of martyrdom, in his hands. The background is a stylized landscape with rolling green hills, trees, and a blue sky. The scene is framed by an architectural element resembling a golden archway with decorative scrollwork, suggesting a devotional setting. Below the figure, a band of text in Gothic script is visible, likely identifying the saint.",
+    "scene_interpretation": "Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0147/bge-lat0147_0185r.jp2/542,393,3478,5396/full/0/default.jpg"
+}

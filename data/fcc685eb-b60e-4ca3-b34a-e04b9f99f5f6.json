@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. To his left, the Virgin Mary, dressed in a blue mantle, kneels with her hands clasped in prayer. To his right, a figure, likely Saint John the Evangelist, stands with his hands outstretched in a gesture of lament or supplication. The figures are set against a blue sky with hints of clouds and a distant landscape. The entire scene is framed by an architectural element resembling an arch supported by columns, with decorative golden elements along the top and sides.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Blois/Blois_musee_diocesain/410185409_INV_2018_0_821/DEPOT/410185409_INV_2018_0_821_0002/1370,1446,1759,2098/full/0/default.jpg"
+}

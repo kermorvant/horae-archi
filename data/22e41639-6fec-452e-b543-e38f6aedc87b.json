@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an arched frame. On the left, the Virgin Mary, with a halo, is seated and looking down, her hands clasped in prayer. She is dressed in a blue robe over an orange tunic and is positioned behind a wooden lectern displaying text. On the right, the Angel Gabriel, also with a halo and wings, kneels with hands clasped in prayer, facing the Virgin. A wavy, white line emanates from Gabriel towards Mary, symbolizing the Holy Spirit. The background is a textured blue with green foliage, suggesting an outdoor setting, though the figures are framed by architectural elements.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Strasbourg/Bibliotheque_du_Grand_Seminaire/B674825406_MS0739/DEPOT/B674825406_MS0739_0011/3780,380,1751,2470/full/0/default.jpg"
+}

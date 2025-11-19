@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a dramatic event unfolding within an interior space, characterized by arched openings revealing a cityscape and a fiery sky. Several figures are shown reacting with alarm and supplication. In the foreground, a table is set with food, suggesting a meal interrupted by this catastrophe. One figure, an elder with a long white beard, clasps his hands in prayer, while others raise their arms in distress or awe. The architecture features classical columns and arches, framing a view of buildings with domes and towers. The fiery sky and the figures' reactions strongly suggest a divine judgment or a catastrophic event.",
+    "scene_interpretation": "The scene likely depicts the destruction of Sodom and Gomorrah, a biblical event from the Book of Genesis where God destroys the wicked cities with fire and brimstone. The figures' panicked reactions and the fiery sky are consistent with this interpretation. The presence of a table with food might allude to the meal shared by Lot with the angels before the destruction.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515741t/f178/564,537,1366,2239/full/0/default.jpg"
+}

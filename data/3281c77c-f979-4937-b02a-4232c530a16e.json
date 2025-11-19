@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, naked and with a halo, is bound to a thick, green column. His body is marked with numerous wounds, some of which are bleeding. Two figures, presumably tormentors, are shown inflicting pain. The figure on the left, wearing a blue tunic and a red cap, holds a whip and strikes Christ's face. The figure on the right, dressed in a green tunic and a white cap, raises a rod with two red spheres, poised to strike. The background is a rich green tapestry with gold ornamentation, suggesting a formal or symbolic setting. The floor is a checkered pattern of dark green and light gold squares, creating a sense of depth.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/gd972zf6050%2FW246_000042_1200/4930,1372,3026,4603/full/0/default.jpg"
+}

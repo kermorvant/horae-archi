@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting that suggests a divine or sacred space. On the left, a bearded man, possibly a prophet or saint, is dressed in an orange robe and holds a circular object containing a lamb. He has a halo, indicating his sanctity. On the right, an angelic figure with wings, also with a halo, is dressed in a blue robe and holds a chalice containing a bird. The background features a rich tapestry-like pattern of gold diamonds on a reddish-brown ground, interspersed with small white and orange motifs. Elaborate gold architectural elements, resembling Gothic tracery and canopies, frame the figures. Below the angel, a white bird is depicted. The overall impression is one of solemnity and spiritual significance, likely representing a biblical or devotional narrative.",
+    "scene_interpretation": "Agnus Dei",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sr994pm0975%2FW105_000015_1200/625,520,6101,9536/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a confrontation between Jesus, identifiable by his halo and blue robe, and Herod, who is seated on a throne-like chair, wearing a fur-trimmed robe and a turban. Jesus stands before Herod, with his hands bound, while Herod gestures with his finger, seemingly in conversation or interrogation. Behind Jesus, several figures in armor and tunics are visible, suggesting they are guards or attendants. The setting appears to be an interior space, with a patterned tapestry behind Herod and a stone wall structure. The inscription \"Herode\" is visible above the figures. This scene likely represents the trial of Jesus before Herod Antipas, as described in the Gospels.",
+    "scene_interpretation": "Trial of Jesus before Herod",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Jesus",
+        "Herod"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f236/1960,2771,847,885/full/0/default.jpg"
+}

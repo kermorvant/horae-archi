@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a hat with a rounded crown and a brim, stands with his arms crossed. He is dressed in a long robe with decorative bands at the cuffs and waist. The scene is framed by decorative elements at the top and a patterned architectural base at the bottom. The overall style suggests a woodcut illustration, possibly from a devotional text.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00171/167,883,246,1374/full/0/default.jpg"
+}

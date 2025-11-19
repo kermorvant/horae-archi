@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, possibly a king or noble, kneeling in prayer with his hands clasped. He wears a crown and a richly decorated cloak. Above him, a figure, likely Christ, holds a globe surmounted by a cross, symbolizing dominion over the world. The figures are set against a backdrop of architectural elements, including towers and what appear to be buildings with pointed roofs, suggesting an urban or ecclesiastical setting. The overall composition evokes a scene of supplication and divine authority.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0054/877,3427,690,1191/full/0/default.jpg"
+}

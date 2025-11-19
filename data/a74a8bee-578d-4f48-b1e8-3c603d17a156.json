@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a king kneeling in prayer before a structure that appears to be an altar or shrine, with his hands clasped and head tilted upwards. He is dressed in royal attire, including a crown and a fur-lined robe. To the left, a man and a woman stand together, the man with his arm around the woman, and they are looking towards the king. Behind them, another figure, possibly a soldier in armor, stands with hands clasped in prayer. The setting is outdoors, with rocky terrain and a blue sky. The architectural element is a small, ornate building with arched openings and decorative elements, suggesting a sacred space. Scattered on the ground are small, elongated objects, possibly arrows or javelins, hinting at a narrative context of conflict or martyrdom.",
+    "scene_interpretation": "The scene likely represents a moment of prayer or supplication by a king, possibly in response to a divine intervention or a plea for guidance. The presence of the other figures and the potential symbolism of the scattered arrows could relate to a biblical narrative or a hagiographic account, perhaps involving a king's conversion, a victory attributed to divine aid, or a scene of martyrdom where the king is a witness or participant.",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "microarchitecture"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0074/4968,1022,725,1218/full/0/default.jpg"
+}

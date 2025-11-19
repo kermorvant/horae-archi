@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a solitary, elderly man with a long white beard, kneeling with his hands clasped in prayer. He is partially submerged in a reddish-brown body of water, suggesting a baptismal or penitential act. In the background, three young men in blue and gold tunics and blue caps are playing musical instruments: one plays a pipe, another a lute, and the third appears to be holding a bagpipe. Behind them, a ruined architectural complex with crumbling walls, arches, and a tower suggests a once-grand structure, possibly a church or castle, now in disrepair. The overall atmosphere is one of spiritual reflection and perhaps a contrast between worldly pursuits (music) and spiritual devotion (prayer).",
+    "scene_interpretation": "Saint John the Baptist Preaching",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower",
+        "roof",
+        "pinnacle"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509697k/f196/1152,649,4455,7371/full/0/default.jpg"
+}

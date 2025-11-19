@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A haloed female saint, identified by her red hair and the palm frond she holds, stands within an arched architectural frame. She is dressed in a white tunic with a fur-trimmed collar and a blue mantle adorned with gold stripes, draped over a pink cloak. She holds an open green book in her hands, her gaze directed downwards. Behind her, a rocky landscape with green foliage is visible on the left, while a cylindrical tower with arched openings and a crenellated top stands on the right, suggesting a fortified or ecclesiastical setting. The scene is framed by decorative golden arches and borders, typical of a Book of Hours illumination.",
+    "scene_interpretation": "Saint holding a book and palm frond",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "battlement",
+        "window"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025268t/f187/289,112,1084,1510/full/0/default.jpg"
+}

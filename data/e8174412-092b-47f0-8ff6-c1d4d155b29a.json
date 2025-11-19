@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity seated on a throne. On the left, God the Father, with a beard and a halo, is shown with his hand raised in blessing. In the center, a dove, representing the Holy Spirit, hovers between them, its wings spread. On the right, God the Son, also bearded and with a halo, wears a blue cap, possibly representing a mitre, and holds an open book. Both figures are robed in red with gold detailing. The throne is elaborate, with pointed architectural elements and a rich, golden background. The overall composition suggests a divine and solemn representation of the Trinity.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "God the Father",
+        "Holy Spirit",
+        "God the Son"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_104%2Flewis_e_104_jp2.zip%2Flewis_e_104_jp2%2Flewis_e_104_0291.jp2/2588,1114,2686,2796/full/0/default.jpg"
+}

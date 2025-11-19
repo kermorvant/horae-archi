@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man, likely a scholar or prophet, seated and holding an open book. He is dressed in a robe with a high collar and buttons. The background features a decorative pattern of small circles, possibly representing foliage or a stylized texture. Above him, an architectural element with a pointed arch and decorative tracery frames the scene. The overall impression is one of contemplation and scholarly pursuit, possibly within a religious context.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0096/3033,3953,439,715/full/0/default.jpg"
+}

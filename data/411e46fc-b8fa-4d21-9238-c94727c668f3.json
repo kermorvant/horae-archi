@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of the Virgin Mary. The Virgin Mary, with a halo, is shown reclining on a bed covered with a red and black patterned blanket. She is attended by several women. One woman, in a purple robe, leans over Mary, holding a white cloth and a bowl. Another woman, in a blue robe, stands to the right, gesturing with her hand. Two other women are visible behind a table laden with bowls and a pitcher. In the foreground, a cradle contains the infant Virgin Mary, also with a halo. The background features stylized architecture with arched windows and decorative patterns, suggesting an interior setting within a building.",
+    "scene_interpretation": "Nativity of the Virgin Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10547048x/f32/193,252,1972,2698/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, draped in a white veil and wimple, gazes downwards with a somber expression. She holds up a white cloth, revealing the face of Christ, depicted with a halo of golden rays emanating from his head. Christ's face is rendered with detailed features, including long, dark, curly hair and a beard. The scene is framed by an architectural element, possibly an arch, on the left, and a stone wall with a crenellated top in the background. Beyond the wall, a landscape with rolling hills, trees, and a building with a tower is visible under a pale blue sky. The lower part of the image shows the lower garments of the woman and the feet of a figure kneeling on the ground, suggesting a devotional act.",
+    "scene_interpretation": "The Veil of Veronica",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower",
+        "battlement"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0077/DEPOT/M601415401_MS0077_0022/1625,873,1757,2706/full/0/default.jpg"
+}

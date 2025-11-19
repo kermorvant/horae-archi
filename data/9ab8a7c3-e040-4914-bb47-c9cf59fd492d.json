@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A knight in full armor, identified by his halo and the red cross on his surcoat, rides a white horse across a green landscape. He is depicted in the act of slaying a golden dragon, which lies defeated on the ground, its mouth open and a spear or lance piercing it. In the background, a golden building with a prominent tower and arched windows is visible amidst rolling hills and trees. The scene is framed by a decorative border.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "window"
+    ],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kf642qf4553/W164_000292_1200/4033,1080,2510,3253/full/0/default.jpg"
+}

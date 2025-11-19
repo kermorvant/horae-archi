@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The image depicts a medieval landscape with agricultural activities and a fortified city in the background. In the foreground, a man, guided by a bull, plows a field. Further back, other figures are engaged in vineyard work, tending to vines and harvesting. A walled city with towers and buildings sits atop a hill, suggesting a prosperous settlement. Above the city, a celestial calendar or astronomical chart is depicted with zodiac signs and planetary symbols, indicating the passage of time and the influence of the heavens on earthly activities. The overall scene represents the agricultural cycle and the ordered world under celestial influence.",
+    "scene_interpretation": "Months of the Year (March/April)",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0008/1046,428,2077,3044/full/0/default.jpg"
+}

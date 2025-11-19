@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a blue robe adorned with gold stars, meeting Elizabeth. Elizabeth, wearing a red dress and a white veil, reaches out to touch Mary's arm. They are positioned in a hilly, outdoor landscape with sparse vegetation and trees. In the background, a distant city with towers is visible under a bright blue sky. The figures are rendered with halos, indicating their sanctity.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0899_1020/DEPOT/620416201_MS0899_1020_0031/3772,456,1920,2419/full/0/default.jpg"
+}

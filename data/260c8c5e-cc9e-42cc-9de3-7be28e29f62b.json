@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body showing wounds. To the left, the Virgin Mary, dressed in blue and red, kneels with her hands clasped in sorrow. To the right, a young man, likely Saint John the Evangelist, stands and looks up at Christ, his hand raised. In the background, a walled city with towers is visible, set against a blue sky with clouds. The foreground is a green, hilly landscape with some vegetation.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.66/Ross.66_0040_fa_0013v.jp2/481,229,495,956/full/0/default.jpg"
+}

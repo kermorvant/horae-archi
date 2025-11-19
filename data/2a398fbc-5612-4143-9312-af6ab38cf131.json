@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Sebastian, a young man with a halo, bound to a post and pierced by arrows. He is emaciated and bears wounds on his torso, with a prominent red wound on his chest. A figure dressed in a red tunic and blue hose, wearing a blue cap, aims a bow and arrow at Saint Sebastian. The background is a stylized landscape with dark, rocky formations on the left and a blue sky with scattered dark clouds. The ground is depicted with patches of yellow and green, suggesting a natural setting.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_BERNIER_I-D-041/DEPOT/M601415401_BERNIER_I-D-041_0160/1429,920,1141,1090/full/0/default.jpg"
+}

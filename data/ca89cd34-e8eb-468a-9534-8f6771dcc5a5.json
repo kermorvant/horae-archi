@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A winged figure, likely an angel, is depicted playing a harp. The figure wears a light-colored robe and has blonde hair. The harp is golden and appears to be held with both hands. The figure is framed within an architectural niche, suggested by the arched structure above and the golden columns or pilasters on either side. The background is dark brown, and the overall impression is one of solemnity and devotion.",
+    "scene_interpretation": "Angel with Harp",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ab32c968-f167-4861-a17d-4d66839d725b/3038,3513,630,1112/full/0/default.jpg"
+}

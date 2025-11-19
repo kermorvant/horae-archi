@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, clad in a blue mantle, kneels with hands clasped in prayer before the Christ Child, who lies swaddled on a blue cloth. To her right, Saint Joseph, with a long white beard and wearing a blue robe and reddish-brown mantle, also kneels in prayer. Behind them, a donkey and an ox are visible. Above the stable, two angels with golden wings are shown, one holding a scroll with musical notation, while divine rays descend from above. In the background, rolling green hills are dotted with trees and a distant city with towers and buildings. The scene is framed by decorative borders with foliate motifs.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0127.jp2/1805,510,1701,2532/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act within an architectural setting. Three figures are prominently displayed. The central figure, a man in a hooded garment, is being held by two other men who appear to be soldiers or guards. One soldier, on the left, wears armor and a helmet, and holds the hooded man's arm. The other soldier, on the right, is raising a sword or dagger towards the hooded man's neck. A fourth figure, partially obscured, is visible behind the first soldier. The background suggests an interior space with a ribbed or arched ceiling and vertical elements that could represent a wall or drapery. A jug or vessel is visible on the ground in the lower right corner. The overall impression is one of capture and imminent execution or martyrdom.",
+    "scene_interpretation": "Martyrdom of Saint John the Baptist",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0041/802,345,585,1034/full/0/default.jpg"
+}

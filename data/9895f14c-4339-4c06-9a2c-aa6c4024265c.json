@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands in the foreground holding an open book. He is richly robed in gold and blue vestments. Behind him, a stylized landscape with green foliage is visible, and in the distance, a cluster of buildings with towers suggests a city or town. The figure's gaze is directed slightly to the viewer's left, and his expression is serene. The scene is likely a depiction of a saintly bishop, possibly Saint Nicholas or another prominent church figure, emphasizing his role as a spiritual leader and scholar.",
+    "scene_interpretation": "Saintly Bishop",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_003v.jp2/917,4303,1241,1672/full/0/default.jpg"
+}

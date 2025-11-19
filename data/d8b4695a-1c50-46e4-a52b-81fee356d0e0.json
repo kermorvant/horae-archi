@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a woman, likely the Virgin Mary, in prayer. She is shown from the chest up, her head bowed and her hands clasped together in devotion. She wears a draped veil and tunic in muted tones of white and brown. The background is a rich, golden tapestry adorned with a repeating floral pattern of stylized flowers and scrolling vines, rendered in white and silver. Below the figure, a decorative architectural element, possibly a parapet or balustrade, is visible, featuring a series of white, cloud-like forms against a brown base, further embellished with delicate white tracery.",
+    "scene_interpretation": "Devotional Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8453974s/f75/499,385,1673,2774/full/0/default.jpg"
+}

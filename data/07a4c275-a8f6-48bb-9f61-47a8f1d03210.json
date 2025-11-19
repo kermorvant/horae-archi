@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts two nude figures, a man and a woman, embracing in a body of water. The man's arm is around the woman's shoulder, and they are looking at each other. Behind them, a river flows towards a distant landscape featuring a fortified castle or city with towers and crenellations. The entire scene is framed by an elaborate architectural border with decorative elements and inscriptions. The figures' embrace and the setting suggest a scene of intimacy or perhaps a biblical narrative related to water and salvation.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "battlement",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_010/1113,171,448,895/full/0/default.jpg"
+}

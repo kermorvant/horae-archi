@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of four men engaged in the process of winemaking within an interior space. In the foreground, one man, wearing a red hat and a blue vest over a white shirt and white shorts, stands inside a large wooden vat filled with purple liquid, presumably grape must, and appears to be treading grapes. To his left, another man in a blue tunic and white shirt carries a basket on his back, also filled with grapes, and leans towards the vat. In the center, a man in an orange tunic and green leggings crouches, scooping liquid from a smaller vat into a jug. To the right, a fourth man in a green tunic and orange sleeves leans on a series of large wooden barrels, holding a funnel. The setting is a rustic interior with stone walls, a doorway leading to another room, and barred windows. The overall activity suggests the manual labor involved in wine production during the medieval period.",
+    "scene_interpretation": "This scene illustrates the labor of the harvest and winemaking, a common theme in Books of Hours, often associated with the liturgical calendar, particularly the month of September or October, and the Feast of Saint Michael. It represents the bounty of the earth and the transformation of grapes into wine, which has symbolic significance in Christian liturgy (the Eucharist).",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "door"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3770/Vat.lat.3770_0015_fa_0005r.jp2/444,280,1543,906/full/0/default.jpg"
+}

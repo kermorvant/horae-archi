@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A single male figure, depicted in profile, stands within an architectural setting. He wears a cap and a long, vertically striped garment over a tunic. His hands are clasped in front of him. The figure is framed by ornate architectural elements, including twisted columns and decorative moldings, suggesting a niche or a portal.",
+    "scene_interpretation": "This image likely depicts a saint or a donor figure, possibly within a devotional context. The specific iconography is not immediately clear without further context, but the formal presentation and architectural framing are typical of medieval religious art.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "arch",
+        "niche"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034543v/f131/1762,1840,141,683/full/0/default.jpg"
+}

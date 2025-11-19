@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men, one of whom is being held by another, possibly in a moment of distress or capture. The central figure, with a beard and long hair, appears to be the focus. He is surrounded by several other men, some wearing hats. The background suggests an architectural setting with an arched structure and decorative elements. The overall impression is one of a dramatic event involving multiple individuals within a confined space.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0014/4111,2505,640,828/full/0/default.jpg"
+}

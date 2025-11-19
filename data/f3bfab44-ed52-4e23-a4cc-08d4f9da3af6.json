@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a bustling urban or courtly setting with elaborate architecture. On the left, a tall, multi-story building with spires and flags dominates the view. It features numerous windows and a prominent balcony. Below, a crowd of figures is gathered, some appearing to be engaged in conversation or procession. To the right, another building, lower in height but still ornate, is visible, also adorned with flags and windows. A large group of figures, some carrying banners and musical instruments, are marching or parading in front of this building. The overall impression is one of a grand event or a significant architectural complex.",
+    "scene_interpretation": "This scene likely depicts a historical or allegorical event, possibly a royal procession, a civic ceremony, or a scene from a historical narrative. Without specific iconographic clues, a precise interpretation is difficult, but the grandeur of the architecture and the organized gathering of people suggest a moment of importance and public display.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "palace",
+        "tower"
+    ],
+    "architectural_elements": [
+        "window",
+        "roof",
+        "spire",
+        "balcony",
+        "wall",
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00306/46,104,1978,1679/full/0/default.jpg"
+}

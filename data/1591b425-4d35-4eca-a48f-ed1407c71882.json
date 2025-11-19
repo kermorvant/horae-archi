@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint John the Baptist by his halo and attire, stands in a natural setting with stylized trees and foliage. He is barefoot and wears a simple tunic. He holds a lamb in his arms, which appears to be a sacrificial lamb, and a book. The lamb is a symbol of Christ, the \"Lamb of God.\" The scene is framed by decorative borders.",
+    "scene_interpretation": "Saint John the Baptist with the Lamb of God",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f423/433,701,959,1063/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts two figures seated at a table, with a large vessel between them. On the left, a bearded man with a halo, likely Christ, is seated and gesturing with his left hand. On the right, a woman in a headdress is seated and holding a bucket or pot, appearing to speak. In the background, a pulley system is visible, and beyond that, a cityscape with buildings and towers. A jug sits on the table in the foreground. The scene is framed by an arched structure with decorative elements.",
+    "scene_interpretation": "Christ and the Woman of Samaria",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower",
+        "window",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ",
+        "Woman of Samaria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0027/801,1607,610,936/full/0/default.jpg"
+}

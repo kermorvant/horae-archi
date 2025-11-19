@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "An elderly man with a long white beard and a red, gold-patterned hat sits on a red chair, writing in an open book. He wears a purple robe with gold trim and a blue, gold-patterned collar. The background is dark brown, suggesting an interior space, with a green canopy-like structure above. The scene likely depicts a prophet or a saint engaged in scholarly or divine work, possibly writing scripture or a theological text.",
+    "scene_interpretation": "Prophet Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/3093276/259,834,725,1800/full/0/default.jpg"
+}

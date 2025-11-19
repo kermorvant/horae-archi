@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A figure, likely a saint, dressed in a red hat and red robes with gold trim, is depicted reading a book. The figure has a halo, indicating sanctity. To the right of the figure, a small, furry creature, possibly a monkey or a demon, is reaching up towards the book. The scene is framed by an ornate border of foliage and birds, suggesting it is part of a larger illuminated manuscript. The background appears to be an architectural interior, with a golden, ornate structure behind the figure and a blue, curtain-like element to the left.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502694t/f24/235,855,1105,983/full/0/default.jpg"
+}

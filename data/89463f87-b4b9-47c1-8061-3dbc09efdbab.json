@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A woman with a golden halo stands in the foreground, holding a tall, cylindrical object that resembles a reliquary or a candle holder. She wears a blue mantle over a golden dress. Behind her, a wall with arched windows is depicted, suggesting an architectural setting. To the right, a figure with a halo, possibly an angel, leans forward, holding a scroll with text that appears to be \"E. DAUDA\". The floor is tiled in a black and red diamond pattern. The scene is framed by decorative borders.",
+    "scene_interpretation": "The figure with the reliquary is likely a saint, possibly Saint Barbara, who is often depicted with a tower, which this object might represent in a stylized form. The presence of the scroll with text and the angel suggests a narrative or devotional context, possibly related to a vision or a divine message.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Barbara"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS27%2FBMC_MS27_jp2.zip%2FBMC_MS27_jp2%2FBMC_MS27_0023.jp2/2090,1104,2822,3881/full/0/default.jpg"
+}

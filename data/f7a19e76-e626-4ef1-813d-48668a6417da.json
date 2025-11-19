@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, with a halo, holds the Christ Child, who is reaching out. One of the Magi, kneeling and bearded, offers a golden vessel. Another Magus, with dark skin and ornate armor, stands behind him, holding a dark object. A third figure, richly dressed in red and gold, stands between them, gesturing with his finger and holding a golden chalice. In the background, architectural elements suggest a palace or grand building, with a distant landscape featuring a castle under a starry sky. The scene is framed by decorative architectural elements, including columns and an arched structure.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550057309/f103/293,329,1256,1552/full/0/default.jpg"
+}

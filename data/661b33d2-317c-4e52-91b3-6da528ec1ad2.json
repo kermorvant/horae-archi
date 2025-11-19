@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a complex narrative. On the left, within an interior space with a red, patterned wall and a table laden with food, several figures are gathered. A man in a blue tunic and red hose presents a dish, while a woman in a white headdress and a man in a patterned hat observe. Another figure in a blue tunic stands to the right. The interior is framed by a golden, decorative arch and a dark, columnar structure. To the right, the scene transitions to an outdoor setting with a green landscape. Here, a man in a blue tunic, holding a fan, stands with two white dogs. Above him, in a blue oval frame, a bearded man holds a child, and below, an angel with wings holds another child. In the foreground of the outdoor space, a naked, chained man lies on a red surface, seemingly tormented by a multi-headed, monstrous creature and a lion-like beast. This scene likely represents the struggle against sin or demonic forces, possibly linked to a saint's life or a moralizing allegory, with the upper figures perhaps representing divine intervention or a heavenly vision.",
+    "scene_interpretation": "St. Anthony Abbot Tempted",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1219/DEPOT/352386106_MS1219_0051/1040,422,1869,2648/full/0/default.jpg"
+}

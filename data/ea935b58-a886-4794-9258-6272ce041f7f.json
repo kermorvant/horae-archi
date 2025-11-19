@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A crowned female figure, likely a saint or queen, stands holding a wheel and a palm frond. She is depicted with a halo and wears a flowing robe. To her left, a kneeling figure in armor, possibly a knight or a supplicant, looks up at her. Behind the kneeling figure is a banner with heraldic symbols. The scene is set against a grid-like background, with decorative borders framing the image. A blue curtain hangs in the background to the right. The overall impression is one of reverence and divine authority.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS0845/DEPOT/786466101_MS0845_0021/4087,1155,1710,2058/full/0/default.jpg"
+}

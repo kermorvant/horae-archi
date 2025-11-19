@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A man with a long beard and flowing hair, wearing a distinctive hat and a patterned tunic, is depicted in profile. He is seated, with his hands resting on his lap. To his left, architectural elements suggest an interior space, possibly a room or a niche, with decorative columns and an arched opening filled with a stippled pattern, perhaps representing foliage or a textured background. The overall style is illustrative and somewhat stylized, typical of medieval manuscript illumination.",
+    "scene_interpretation": "This image does not depict a specific biblical, liturgical, or devotional scene that can be definitively identified. It appears to be a portrait of a figure, possibly a saint, a king, or a donor, within an architectural setting.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0032/3125,3825,287,627/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with his body rendered in pale tones and bloodstains visible on the cross and ground. To the left, the Virgin Mary, draped in a deep blue mantle, bows her head in sorrow. To the right, Saint John the Evangelist, in an orange cloak over a blue tunic, also looks down with grief. The figures are set against a richly patterned gold background composed of alternating blue and red squares, each containing a floral motif. The entire composition is framed by an arched border adorned with floral and foliate designs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55005889s/f203/386,151,792,1395/full/0/default.jpg"
+}

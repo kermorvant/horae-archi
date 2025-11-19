@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Luke by the presence of his symbol, the ox, is depicted writing in a large open book. He is seated, dressed in a blue undergarment and a red robe with gold trim, and wears a halo, indicating his saintly status. The scene takes place indoors, with a window featuring diamond-shaped panes visible in the background. The ox, a common attribute of Saint Luke, is shown to the right of the saint, looking towards the viewer with a gentle expression.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0008/cea-0008_009r.jp2/693,2275,1049,1142/full/0/default.jpg"
+}

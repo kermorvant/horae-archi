@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts two women in conversation, framed by an arched architectural element. The woman on the left, dressed in a dark gown and a white headdress, appears younger and is looking downwards. The woman on the right is older, cloaked in dark fabric, and her face is partially obscured by her veil. Behind them, a richly patterned tapestry hangs, and through an opening or window, a landscape with buildings and a church spire is visible. The overall impression is one of a private, perhaps intimate, discussion.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525115590/f41/1144,127,648,986/full/0/default.jpg"
+}

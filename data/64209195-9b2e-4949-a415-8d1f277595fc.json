@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts a funeral procession or burial rite taking place outdoors. Two figures in blue tunics are tending to a white-shrouded body lying on the ground, one adjusting its head. A group of clerics, some in black habits and others in white albs, are gathered around. One cleric, adorned in a blue and gold chasuble, holds an open book, while another carries a processional cross. Behind them, architectural elements suggest a town or religious complex, with buildings featuring arched windows and tiled roofs. The sky is a vibrant blue with golden stars, and decorative borders frame the scene.",
+    "scene_interpretation": "Funeral Rite",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Cleric",
+        "Cleric",
+        "Cleric",
+        "Cleric",
+        "Cleric",
+        "Cleric",
+        "Cleric",
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_055_054/DEPOT/210546201_S_055_054_0096/3670,668,1396,1962/full/0/default.jpg"
+}

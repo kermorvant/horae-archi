@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. A woman in a blue robe and white veil kneels with her hands clasped in prayer. To her left stands a man with a grey beard, wearing a blue cloak and holding a basket containing doves. Behind them, a woman in a green turban and white veil looks on. To the right of the kneeling woman, a young monk in a green and white striped robe holds a bundle. On a draped table, a bishop in a golden miter and blue robe holds the Christ Child, who is swaddled in white cloth. The background features architectural elements suggesting an interior space, with draped curtains and decorative friezes.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "canopy",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0087/DEPOT/M601415401_MS0087_0066/1766,902,1644,2151/full/0/default.jpg"
+}

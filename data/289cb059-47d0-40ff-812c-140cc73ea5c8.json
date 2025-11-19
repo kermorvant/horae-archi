@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a religious gathering within an architectural setting that resembles a church interior. In the foreground, the Virgin Mary, holding the Christ Child, is presented. To her left stands a woman in a wimple, carrying a basket, possibly representing a saint or a follower. To the right, an older man with a beard, likely Saint Joseph, looks towards the child. Behind them, an altar is visible with a crucifix and figures, suggesting a sacred space. The background features arched windows with tracery, indicative of Gothic architecture. The overall scene is framed by decorative elements at the top, characteristic of manuscript illumination.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "altar",
+        "crucifix",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036467s/f50/2762,464,1035,1453/full/0/default.jpg"
+}

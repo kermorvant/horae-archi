@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A group of men surround a young boy who is seated within a circular stone structure, possibly a well. The men are depicted with varied headwear, including hats and caps, and some are gesturing or holding staffs. Behind them, architectural elements resembling stylized buildings with arched openings are visible, suggesting an urban or fortified setting. The scene appears to depict a moment of distress or judgment, with the boy at the center of attention.",
+    "scene_interpretation": "Joseph in the Well",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0036/5894,397,652,1304/full/0/default.jpg"
+}

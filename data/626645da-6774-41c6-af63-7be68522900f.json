@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures against a gold leaf background. On the left, a man in blue leggings and green armor, wearing a blue hat, holds the arm of a central figure dressed in a pink robe and a blue mantle. This central figure, with a halo, appears to be Jesus. To the right of Jesus, a figure in a pink tunic, with a band around their head and red stockings, reaches out towards Jesus, holding a rope or cord. Further to the right, two figures in dark, hooded robes stand, one with their hand to their face in distress. The overall impression is one of arrest or accusation.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Jesus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515833p/f382/596,644,1042,920/full/0/default.jpg"
+}

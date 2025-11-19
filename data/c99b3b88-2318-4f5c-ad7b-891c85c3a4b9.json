@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A female saint, identified by her halo and the palm frond she holds, stands in a verdant outdoor setting. She is dressed in a blue mantle over a pink gown and holds an open book, suggesting scholarly or devotional engagement. To her right stands a grey, multi-tiered tower with a conical roof topped by a flag. The background features a red textile with a repeating pattern of stylized leaves and a blue celestial expanse dotted with gold stars. The inscription at the bottom, 'S. Barbara', confirms her identity. The scene likely depicts Saint Barbara, a Christian martyr often associated with towers due to her legend of being imprisoned in one.",
+    "scene_interpretation": "Saint Barbara",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Barbara"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14935/Vat.lat.14935_0279_fa_0136r.jp2/231,239,511,821/full/0/default.jpg"
+}

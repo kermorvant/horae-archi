@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A winged lion-like creature with orange wings stands to the left of a man seated on the right. The man, dressed in a red tunic and blue trousers, wears a hat and is writing on a scroll. He is seated on a green carpeted floor. Behind the figures, a blue curtain hangs, and to the left, a brown structure with an opening suggests an interior space. The winged creature has a serpent coiled around its body and extending towards the man's hand. This scene likely depicts Saint Mark the Evangelist, traditionally associated with a winged lion, writing his Gospel, possibly with the assistance or inspiration of his symbolic animal.",
+    "scene_interpretation": "Evangelist Portrait (Saint Mark)",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.387/Barb.lat.387_0041_fa_0019r.jp2/253,536,304,348/full/0/default.jpg"
+}

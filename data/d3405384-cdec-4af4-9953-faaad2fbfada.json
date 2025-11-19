@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A crowned figure, likely a king, kneels with hands clasped in prayer amidst jagged, green terrain. Above, a divine figure, possibly God the Father, is depicted seated on a red, petal-like cloud against a starry blue sky. The divine figure gestures with one hand and holds a book in the other, suggesting a moment of divine revelation or intercession. The scene is set outdoors, with no discernible architecture, under a celestial expanse.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1277/DEPOT/352386106_MS1277_0062/1209,1015,1802,1759/full/0/default.jpg"
+}

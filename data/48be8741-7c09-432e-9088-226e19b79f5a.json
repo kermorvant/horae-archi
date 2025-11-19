@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a celestial gathering, likely the Coronation of the Virgin Mary. Christ, seated on a throne of clouds and supported by golden wings, places a crown upon the head of the Virgin Mary, who kneels before him. Both are surrounded by a multitude of angels, some playing musical instruments like harps and lutes, others holding crowns. Below, a congregation of saints and holy figures, including monks and a bishop, gaze upwards in adoration. The background is a vibrant blue sky, suggesting a heavenly realm. The entire composition is framed by an ornate, foliate border typical of illuminated manuscripts.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0065/1027,533,2462,2396/full/0/default.jpg"
+}

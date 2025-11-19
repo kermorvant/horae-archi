@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, with a golden halo, rides a donkey, holding the Christ Child, who is also haloed. Joseph, with a blue hood and red tunic, walks beside the donkey, carrying a basket and a staff. In the background, a rural landscape unfolds with a winding path, a body of water, trees, and a rocky outcrop. Further in the distance, a village with houses and a prominent church with spires is visible. Other figures are present in the background, including a woman with a child, a man with a sword, and a farmer harvesting a field, suggesting the continuation of daily life amidst their sacred journey. A tall column with a statue stands on a hill.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "house"
+    ],
+    "architectural_elements": [
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0086/DEPOT/M601415401_MS0086_0121/1738,798,1644,2687/full/0/default.jpg"
+}

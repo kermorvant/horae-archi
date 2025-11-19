@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A figure, likely a woman, is depicted in profile, looking upwards with hands clasped in prayer. She wears a draped garment and a headdress. To her left, a scroll or banner with illegible text curves into the frame. To her right, architectural elements suggest an interior space, with a column and part of an arch visible. The background is filled with a stippled pattern, possibly representing a starry sky or decorative motif.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0006/714,4040,576,621/full/0/default.jpg"
+}

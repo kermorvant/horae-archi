@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony, likely a Mass or a liturgical service, taking place within an architectural setting. In the upper register, several figures in dark monastic habits with hoods are gathered, some looking down. To their right, three figures in more elaborate religious attire, including a bishop or abbot with a mitre and cope, are reading from a large illuminated book. Below them, in the lower register, three figures in white robes, possibly acolytes or choir members, are engaged in the service. One holds a censer, another a bucket, and the third appears to be holding a candle or a processional cross. The scene is framed by decorative borders and set against a patterned background, suggesting an interior space within a religious building.",
+    "scene_interpretation": "Liturgical Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Bishop",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/47899654/631,567,1481,1818/full/0/default.jpg"
+}

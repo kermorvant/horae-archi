@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. To the left, the Virgin Mary, supported by another woman, mourns. To the right, a group of figures, including a man in a green and blue robe and a soldier in armor, observe the event. In the background, a walled city with towers and spires is visible, set against a hilly landscape. The overall impression is one of solemnity and religious devotion.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "spire"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sw741tz6027%2FW177_000461_1200/402,3453,1344,2289/full/0/default.jpg"
+}

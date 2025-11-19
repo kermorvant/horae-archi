@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A single figure, likely a woman, stands in profile, holding a flower in her left hand. She wears a simple garment and a headdress. The background is rendered with stippling, and an arched element frames the top of the scene. Below the figure, stylized plants are depicted, suggesting an outdoor setting. The overall composition is enclosed within a border.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0086/3597,3246,272,671/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "An angel with white wings and a golden halo descends from a patterned sky, holding a scroll that reads \"Gloria in excelsis Deo\". Below, on a green, grassy hillside dotted with small red and white flowers, a shepherd in a red cloak and pink tunic reclines, his head resting on his arm. Another figure, possibly a shepherd or an angel, stands to the right, dressed in blue and wearing a pinkish-red scarf, touching his head. Several sheep graze peacefully on the hillside, and a small dog is visible near the reclining figure. The scene is framed by decorative borders.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/qr056bk8287%2FW267_000126_1200/5043,1165,2906,3881/full/0/default.jpg"
+}

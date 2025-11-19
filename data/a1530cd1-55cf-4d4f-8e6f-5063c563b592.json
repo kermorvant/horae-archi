@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, with Saint Joseph standing behind them. Mary is seated and cradles the infant, who is looking upwards. Joseph, an older man with a beard, is positioned to Mary's left, his hand resting near her arm. Behind the figures, a simple architectural structure, possibly a stable or shelter, is suggested by diagonal lines forming a roof-like element. In the background, a stylized representation of a town or city with buildings and a hill is visible. The overall composition suggests a religious narrative, likely the Nativity or a related devotional scene.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00172/340,210,595,932/full/0/default.jpg"
+}

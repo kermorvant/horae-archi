@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "In an interior setting with a tiled floor and grey walls, Christ, seated and wearing a blue robe, is being crowned with thorns by three tormentors. One figure in a green tunic and striped leggings, wearing a white helmet, presses down on Christ's head with a stick. Another figure in a green tunic and yellow apron, wearing a blue cap, also applies pressure to Christ's head with a stick. A third figure in a blue tunic and pink leggings, holding a stick, appears to be taunting or striking Christ. The scene depicts the moment of the Crowning with Thorns, a significant event in the Passion of Christ.",
+    "scene_interpretation": "Crowning with Thorns",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/16032391/366,1267,684,693/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts King David kneeling outdoors, looking upwards with his hand to his face, as if in prayer or contemplation. He is richly dressed in a red cloak lined with ermine and a blue tunic, and wears a crown. He holds a harp, and a small bottle lies on the ground beside him. In the upper part of the image, a divine figure, likely God the Father, appears in a cloud, blessing David with a raised hand and holding a globe. Behind David, a landscape unfolds with rocky outcrops, lush green trees, and in the distance, a walled city with towers and spires. The overall scene suggests a moment of divine inspiration or communication with the Almighty.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "King David",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_053_052/DEPOT/210546201_S_053_052_0132/3679,625,1243,1844/full/0/default.jpg"
+}

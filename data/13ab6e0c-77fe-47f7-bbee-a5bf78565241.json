@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A figure clad in a blue robe and hood rides a donkey, holding a large axe raised as if to strike. The figure's face is visible, with red cheeks and lips. The donkey is depicted in profile, with its head turned slightly towards the viewer. Behind the figure, a stylized architectural structure with a pointed arch and a cross atop it is visible. The background is a textured gold leaf, suggesting a divine or important setting. The scene appears to depict a moment of action or judgment.",
+    "scene_interpretation": "This scene likely represents a moment from the life of a saint or a biblical event involving judgment or punishment. The raised axe and the donkey could symbolize a specific narrative, possibly related to martyrdom or divine retribution. Without further context or identifying attributes, a precise interpretation is difficult, but the overall tone suggests a dramatic and possibly punitive event.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "cross",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/ww852nx4077%2FW39_000031_1200/1015,1857,891,1628/full/0/default.jpg"
+}

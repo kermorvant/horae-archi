@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of women, some with hands clasped in prayer and others engaged in reading from a book. They are dressed in medieval attire, including veils covering their heads. The architectural setting features pointed arches and decorative elements, suggesting an interior space within a religious or grand building. The overall impression is one of devotion and communal prayer or study.",
+    "scene_interpretation": "Devotional gathering",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "microarchitecture"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0011/1418,4017,1752,619/full/0/default.jpg"
+}

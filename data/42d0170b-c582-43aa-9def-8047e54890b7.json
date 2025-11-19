@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, showing wounds on his hands and side, seated or reclining. A woman, likely Mary Magdalene, stands behind him, her arm resting on his shoulder and her hand touching his arm. The background features a green landscape with distant buildings, possibly a castle or city walls. Below them is a decorative architectural frieze with a series of arches.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1219/DEPOT/352386106_MS1219_0064/1095,743,598,835/full/0/default.jpg"
+}

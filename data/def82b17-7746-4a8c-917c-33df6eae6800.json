@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher wading through water, carrying the Christ Child on his shoulders. Saint Christopher, a bearded man with a staff, is depicted with his legs submerged in blue water, suggesting a river or sea crossing. He wears a golden tunic and a red cloak. The Christ Child, seated on Saint Christopher's head, is crowned and holds a globe, radiating light. In the background, a monastic building with a red roof is visible on a hill, with a robed monk carrying a lantern. Further in the distance, a fortified castle with spires stands on another hill, overlooking a body of water. The scene is framed by ornate golden columns decorated with figures and foliage.",
+    "scene_interpretation": "The Legend of Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "monastery",
+        "castle"
+    ],
+    "architectural_elements": [
+        "column",
+        "roof",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f551/936,1232,3096,3699/full/0/default.jpg"
+}

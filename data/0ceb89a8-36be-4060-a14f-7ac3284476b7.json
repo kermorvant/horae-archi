@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a confrontation between three richly dressed men and a solitary, emaciated figure seated on a rock. The three men, adorned in elaborate robes and distinctive hats, stand on the left, with the central figure gesturing towards the seated man. The seated figure, with long grey hair and beard, is partially unclothed, wearing only a white loincloth, and appears distressed or pleading. Behind the figures, a fortified building with towers and arched entrances is visible, set against a backdrop of trees and a blue sky with golden rays of light descending. The ground is rocky and sparsely vegetated. This scene is likely an illustration of Saint Paul the Hermit being visited by Saint Anthony Abbot, a common theme in medieval devotional art, representing the encounter between two ascetics.",
+    "scene_interpretation": "Saint Anthony Abbot visiting Saint Paul the Hermit",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint Anthony Abbot",
+        "Saint Paul the Hermit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f137/404,199,1140,1678/full/0/default.jpg"
+}

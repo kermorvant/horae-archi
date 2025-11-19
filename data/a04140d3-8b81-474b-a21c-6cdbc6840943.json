@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher wading through water, carrying the Christ Child on his shoulders. Saint Christopher, a large bearded man, leans forward, gripping a staff for support as he navigates the turbulent water. He wears a patterned tunic and a simple robe. The Christ Child, depicted with a halo, sits atop Saint Christopher's shoulders, also with a halo, and raises a hand in blessing. In the background, a small building with a monk holding a lantern is visible to the left. Further in the distance, a windmill stands, and beyond that, a town with a church spire and trees line a road. The overall setting is outdoors, with a sense of journey and divine protection.",
+    "scene_interpretation": "The Legend of Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "spire",
+        "roof",
+        "wall",
+        "door",
+        "window"
+    ],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f166/904,381,795,1170/full/0/default.jpg"
+}

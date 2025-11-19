@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, is depicted seated and reading from a large, open book. She wears a blue veil and a pink robe with blue sleeves, and has a halo indicating her sanctity. To her left, a bull's head is visible, a symbol often associated with Saint Luke. The background features a green tapestry with gold ornamentation and a window showing a blue sky. Architectural elements, including columns and what appears to be an interior wall, frame the scene.",
+    "scene_interpretation": "The scene likely depicts the Virgin Mary reading, possibly a reference to her role in the Nativity or her contemplation of scripture. The presence of the bull's head strongly suggests an association with Saint Luke, who is traditionally depicted with this symbol and is the author of the Gospel of Luke, which includes the Infancy narratives of Jesus. Therefore, this image could be a representation of Saint Luke's Gospel or a devotional scene related to the Virgin Mary and the evangelist.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "window",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_020/DEPOT/890245409_n_020_0041/1446,752,1116,1565/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A figure, likely a man, is seated at a table, holding a bowl to his lips and drinking. He is dressed in a vibrant blue robe with gold trim and a golden headdress. The table is covered with a white cloth, and two shallow bowls are visible on it. Behind the figure, a richly decorated red and gold canopy is draped, suggesting a place of importance or comfort. To the left, a blue window with a diamond pattern is visible, set into a grey wall. The background features architectural elements, including columns and arches, rendered in a stylized manner. The scene depicts a moment of dining or refreshment within an interior setting.",
+    "scene_interpretation": "Feast",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "column",
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0007/3758,3186,1207,666/full/0/default.jpg"
+}

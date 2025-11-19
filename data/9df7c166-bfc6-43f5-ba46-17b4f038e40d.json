@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Marriage of the Virgin Mary, with Mary on the right and Joseph on the left, their hands clasped as a bishop officiates. They are surrounded by several onlookers, some holding lilies, a symbol of Mary's purity. The architectural setting is a loggia or arcade with arched openings, revealing a tiled roof structure above. A book rests on a draped table to the right, suggesting a sacred or legal context for the ceremony. The overall scene is framed by an arched border with gilded ornamentation and floral motifs.",
+    "scene_interpretation": "Marriage of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "column",
+        "arcade",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Joseph",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100254479/f154/997,265,1114,1708/full/0/default.jpg"
+}

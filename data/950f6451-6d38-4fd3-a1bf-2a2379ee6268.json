@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic battle with mounted warriors in ornate armor clashing amidst a multitude of foot soldiers. One warrior on a white horse is falling, his sword drawn, while another on a golden horse lunges forward. In the background, a city with distinct buildings, including gabled structures and towers, is visible under a stormy blue sky with streaks of rain. The ground is littered with fallen soldiers and weapons, suggesting a fierce and bloody conflict. The overall impression is one of intense warfare and the grim realities of battle.",
+    "scene_interpretation": "Battle of Armageddon",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "roof",
+        "gable",
+        "tower",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_INCRIA063/DEPOT/B721816101_INCRIA063_0049/1286,444,1919,2934/full/0/default.jpg"
+}

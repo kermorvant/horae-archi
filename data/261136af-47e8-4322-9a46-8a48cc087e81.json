@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded monk, wearing a hooded brown robe over a blue tunic, is seated in a forest setting, with his hands clasped in prayer over an open book. Behind him, a small, dark building with a reddish roof is visible, partially obscured by trees. The forest is dense with green foliage and tall trees. To the right of the monk, a wild boar is depicted, its head emerging from behind a tree. The monk has a halo, indicating his sanctity.",
+    "scene_interpretation": "Saint Anthony Abbot in the Wilderness",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_020/DEPOT/890245409_n_020_0034/3696,854,939,1226/full/0/default.jpg"
+}

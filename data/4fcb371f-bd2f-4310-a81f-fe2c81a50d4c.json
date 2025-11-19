@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in an outdoor setting. On the left, a large, dark, hooded figure stands, possibly a monk or a religious figure, with gold detailing on its robes. In the foreground, a person wearing a blue mantle and a cap is kneeling and tending to something in the ground, perhaps planting or digging. The background shows a green landscape with stylized trees and what appear to be agricultural markers or small structures. The overall impression is one of humble labor or devotion in a rural environment.",
+    "scene_interpretation": "Saint Benedict Tending the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Benedict"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0016/5039,2126,467,890/full/0/default.jpg"
+}

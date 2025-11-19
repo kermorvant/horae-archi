@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, kneels in a landscape. He is depicted in profile, facing right, wearing a richly decorated blue cope over red vestments. The background features stylized rocky terrain and green foliage, with a decorative red and gold pattern framing the upper part of the scene. The bishop's posture suggests prayer or devotion.",
+    "scene_interpretation": "Bishop in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F373_B.11.32_f195r.jp2/823,646,1872,2331/full/0/default.jpg"
+}

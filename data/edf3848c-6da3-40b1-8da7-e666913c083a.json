@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "Two men are depicted in what appears to be an indoor workshop setting. The man on the left, wearing a dark cap and a blue tunic with a gold-trimmed collar, holds a tool, possibly a knife or awl, and is actively engaged with a large, cylindrical object. This object, which resembles a vat or a large pot, contains a smaller red vessel within it. The man on the right, dressed in a red tunic and a pink cap, looks towards the object and appears to be observing or assisting. The background suggests an interior space with wooden beams and a hint of a wall. The scene likely represents a craft or trade, possibly related to metalworking or pottery, given the tools and vessels.",
+    "scene_interpretation": "Craftsmen at Work",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0031/1604,3044,702,1166/full/0/default.jpg"
+}

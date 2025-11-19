@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Entombment of Christ. Christ's body, marked with wounds, lies on a stone sarcophagus. The Virgin Mary, veiled in blue, mourns beside him, supported by Saint John the Evangelist. Joseph of Arimathea, wearing a blue hat and yellow cloak, supports Christ's head. Another figure in red holds a golden vessel, possibly for anointing. A figure in a striped robe kneels, attending to the body, while another in red, also with a hat, prepares to wrap the body. The background features a rocky landscape and a distant city with spires, suggesting the event takes place outside the city walls.",
+    "scene_interpretation": "Entombment of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist",
+        "Joseph of Arimathea"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10509406b/f42/644,347,1208,1897/full/0/default.jpg"
+}

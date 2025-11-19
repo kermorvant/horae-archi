@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, is depicted with a halo, wearing a blue garment and a red cloak lined with gold. She cradles a small, white, orb-like object in her arms, possibly representing the Christ Child or a symbol of divine conception. Her head is covered with a white veil, and her expression is one of sorrow or contemplation. The background is a stylized landscape with rolling blue hills and green trees under a bright blue sky.",
+    "scene_interpretation": "The Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0011/880,3074,440,835/full/0/default.jpg"
+}

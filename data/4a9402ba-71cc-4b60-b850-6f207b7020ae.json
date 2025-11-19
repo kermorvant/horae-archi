@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts two figures, likely apostles or prophets, standing behind elevated pulpits or lecterns, each with a halo. The figure on the left, dressed in pink, looks down at a book or scroll. The figure on the right, in blue, holds a stylus and a tablet, appearing to write or record. In front of them, a group of individuals are seated, some with their heads bowed or resting on their hands, suggesting contemplation or distress. Among these seated figures are individuals with darker skin tones, wearing turbans and traditional garments, and others with lighter skin tones in robes. The background features a rich blue tapestry with a repeating gold geometric pattern. The overall setting appears to be an interior space, possibly a church or a hall, with the figures engaged in a religious or scholarly discourse.",
+    "scene_interpretation": "Sermon",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "pulpit",
+        "wall"
+    ],
+    "persons": [
+        "Apostle",
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0032/4941,2083,722,1084/full/0/default.jpg"
+}

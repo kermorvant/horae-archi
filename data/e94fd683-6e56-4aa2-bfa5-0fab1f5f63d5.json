@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on their journey, likely the Flight into Egypt. The Virgin Mary, with a halo, rides a donkey, holding the Christ Child swaddled in red. Joseph, with a red turban and beard, walks beside the donkey, holding its reins and a staff from which a white cloth hangs. They are in an outdoor landscape with rolling hills, trees, and rocky outcrops. In the background, a classical column stands on a hill, with a figure of a demon or pagan deity leaping from it, symbolizing the fall of paganism. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025450k/f146/709,239,1176,1649/full/0/default.jpg"
+}

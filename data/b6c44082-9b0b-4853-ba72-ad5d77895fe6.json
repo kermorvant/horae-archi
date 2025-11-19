@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men, one of whom is seated and appears to be the central figure, possibly Christ, given his halo and the somber expressions of the surrounding figures. He is dressed in a simple tunic. The other men are standing, some with beards and wearing hats, and their postures suggest they are either observers or participants in a significant event. The background is abstract, with architectural elements suggested by decorative borders and what might be a hint of a vaulted ceiling or canopy above. The overall impression is one of a religious or historical narrative.",
+    "scene_interpretation": "Christ Before Pilate",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0092/5980,2073,564,1191/full/0/default.jpg"
+}

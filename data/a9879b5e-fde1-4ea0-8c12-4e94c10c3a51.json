@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A group of figures are depicted within an arched architectural frame. In the foreground, a young person with hands clasped in prayer faces a central figure who stands with arms crossed, wearing a distinctive hat and a long robe. Behind them, several other individuals are visible, some with elaborate headwear. The scene is rendered in a woodcut style with strong outlines and hatching for shading. The arched structure above suggests an interior or a framed view of a gathering. The overall composition evokes a devotional or narrative scene, possibly depicting a moment of prayer or supplication before a figure of authority or importance.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0080/4954,1731,496,643/full/0/default.jpg"
+}

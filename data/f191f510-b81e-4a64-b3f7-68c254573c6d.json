@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of individuals surrounding a woman immersed in a barrel, with flames visible below. The woman, with her hands clasped in prayer, appears to be undergoing a trial or martyrdom. Behind her, several figures, including a bearded man with his hands also in prayer and others with concerned expressions, observe the event. In the foreground, a figure holds a trident-like implement, possibly indicating an executioner or tormentor. The background features stylized architectural elements, suggesting an urban or religious setting.",
+    "scene_interpretation": "Martyrdom of Saint Barbara",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0012/1022,2043,490,701/full/0/default.jpg"
+}

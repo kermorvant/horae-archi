@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Raising of Lazarus, with Christ, identified by his halo and blue robe, gesturing towards a sarcophagus. Lazarus, pale and wrapped in white linen, is shown partially raised from the sarcophagus, his eyes open. Mourners, some in distress, surround the scene. To the left, a partially ruined architectural structure, possibly a tomb or a symbolic representation of death, stands against a vibrant blue, patterned background. The architecture features arches, columns, and windows with tracery, suggesting a Gothic style. The overall setting is a green landscape with stylized trees.",
+    "scene_interpretation": "Raising of Lazarus",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Lazarus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0175/3724,432,2107,2621/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "An elderly man with a white beard, wearing a red hooded robe and seated on a green bench, receives water poured from a vessel held by another figure. He is surrounded by four other individuals. One figure, dressed in blue, stands to the left and looks down. Behind him, another figure in a green hood and yellow garment also looks down. To the right of the seated man, a figure in a blue tunic and red cap pours water. Another figure, also in blue, stands behind the water pourer. The scene takes place indoors, indicated by the presence of an arched architectural element and a patterned floor.",
+    "scene_interpretation": "The scene likely depicts a ritual cleansing or a charitable act, possibly related to a saint's life or a biblical narrative involving hospitality or purification. The pouring of water could symbolize baptism, washing of hands, or an act of mercy.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kf642qf4553/W164_000074_1200/4086,1328,2464,3904/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "An angel with red wings and blonde hair descends from a blue, gold-flecked sky, carrying a scroll that unfurls with illegible text. Below, two figures walk across a green, grassy landscape dotted with dark, woolly shapes that appear to be sheep. The figure on the left wears a dark cloak and a red cap, leaning on a staff. The figure on the right is dressed in a vibrant pink tunic over a white undergarment, yellow hose, and carries a bagpipe slung over his shoulder. The scene is likely a depiction of the Annunciation to the Shepherds, with the angel delivering the divine message to the shepherds in the field.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828234/1808,1097,754,1259/full/0/default.jpg"
+}

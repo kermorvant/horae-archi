@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost. In the center, the Virgin Mary, dressed in blue and wearing a veil, is seated and reading from an open book. Around her, eleven figures, presumably the Apostles, are gathered, looking upwards with hands clasped in prayer. Above them, a dove, representing the Holy Spirit, descends from a radiant light, with wings outstretched. The figures are positioned within an architectural setting that includes arched windows and decorative circular motifs above. The floor is tiled, and the background is dark, suggesting an interior space.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.443/Barb.lat.443_0239_fa_0113r.jp2/333,325,480,699/full/0/default.jpg"
+}

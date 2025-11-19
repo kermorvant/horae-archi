@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A woman with long, wavy hair and a serene expression stands with her hands clasped in prayer. She is positioned next to a monstrous, dragon-like creature with sharp teeth and claws, which appears to be subdued or controlled by her presence. The scene takes place indoors, within a room with a tiled floor. To the left, a tall, arched window with a grid pattern is visible, suggesting a prison or a monastic cell. To the right, a doorway leads to another dimly lit space. The overall composition suggests a narrative of spiritual triumph over evil or temptation.",
+    "scene_interpretation": "Triumph of Virtue over Vice",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "door"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9068094h/f125/3611,872,1254,1886/full/0/default.jpg"
+}

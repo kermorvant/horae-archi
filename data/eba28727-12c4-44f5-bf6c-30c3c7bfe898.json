@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A female saint, identified by her halo and the palm frond she holds, stands in a verdant landscape. She wears a golden tunic beneath a flowing crimson mantle. To her left, a tall, cylindrical tower with horizontal banding and vertical window-like openings rises against a bright blue sky. The background features stylized trees and rocky formations. The saint's gaze is directed forward, and her left hand is extended slightly. The presence of the palm frond signifies martyrdom, and the tower might allude to a specific legend or the saint's persecution.",
+    "scene_interpretation": "Martyrdom of a Female Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Female Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_269/DEPOT/710146101_269_0160/1327,592,1455,2156/full/0/default.jpg"
+}

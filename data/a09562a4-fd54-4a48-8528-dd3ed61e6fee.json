@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure, likely Christ, with a halo, raising a whip or scourge in his right hand, gesturing towards a table laden with coins and goods. He is dressed in a long robe. To his right, a man in a cap looks towards him with a concerned expression, his hands clasped. Other figures are partially visible in the background. The architectural setting appears to be an interior space with columns and decorative arches, suggesting a temple or market setting. This scene is interpreted as Christ driving the money changers out of the Temple, a pivotal event in his ministry.",
+    "scene_interpretation": "Cleansing of the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0028/5956,2443,528,1046/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. On the left, the Virgin Mary, with a golden halo, is dressed in a blue mantle over a grey garment. She holds a red object to her mouth. To her right, a bull and a donkey are visible. In the center, the Christ Child lies on a white cloth, appearing to be reaching for his mouth. On the right, Saint Joseph, with a golden halo and a white beard, wears a brown hooded robe and clasps his hands in prayer. The background is a rough, brown, cave-like structure with faint vertical lines suggesting light or rays from above.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_des_Arts_decoratifs/Musee_des_Arts_decoratifs_INV_40343/DEPOT/Musee_des_Arts_decoratifs_INV40343_0049/1175,1082,801,914/full/0/default.jpg"
+}

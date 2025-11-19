@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his head bowed and wearing a crown of thorns. Blood drips from his wounds. To the left, the Virgin Mary, draped in a blue mantle, stands with her hands clasped in prayer, accompanied by another female figure, likely Mary Magdalene, in a red robe. To the right, a group of soldiers in armor and helmets stand, one of whom holds a spear and appears to be offering vinegar or gall to Christ. In the background, a walled city with towers and buildings is visible, set against a hilly landscape under a blue sky with a crescent moon. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100223791/f159/267,137,1123,1545/full/0/default.jpg"
+}

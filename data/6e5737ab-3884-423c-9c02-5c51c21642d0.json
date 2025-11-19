@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt or the Nativity. The Virgin Mary, holding the Christ Child, is seated on a donkey. Saint Joseph walks beside the donkey, guiding it. To the left, another woman, possibly an attendant or a figure from the Nativity narrative, gestures towards the Virgin. The figures are set against a background with stylized trees and a golden, textured ground, suggesting an outdoor setting. The entire composition is framed by a large, ornate initial 'C' in red and gold, decorated with scrolling acanthus leaves and small floral motifs.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550008104/f173/177,659,445,461/full/0/default.jpg"
+}

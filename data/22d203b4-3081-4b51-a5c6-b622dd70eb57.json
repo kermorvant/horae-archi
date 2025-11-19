@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A male figure, identified as Saint Christopher by his halo and the presence of a lion, sits on a grassy hill. He wears a blue tunic, yellow cloak, and dark leggings. He holds a staff with a ribbon and a sword. To his right, a lion sits attentively. To his left, a broken hammer lies on the ground. The background depicts a rolling landscape with trees and a distant blue sky.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Christopher"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_328/2969,1299,574,519/full/0/default.jpg"
+}

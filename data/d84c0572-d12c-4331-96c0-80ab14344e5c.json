@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A figure, likely a prophet or saint, is depicted in a contemplative pose. The figure wears a draped garment of pale blue and red, with a striped head covering. Their right hand is raised, with the index finger extended, as if in speech or prophecy. The background is a textured gold, suggesting a divine or celestial setting, with dark, cloud-like forms scattered around. A blue band encircles the scene, further emphasizing its otherworldly nature.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00008/698,1604,600,564/full/0/default.jpg"
+}

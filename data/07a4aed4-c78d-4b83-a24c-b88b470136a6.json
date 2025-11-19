@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a hooded robe, is depicted holding an open book. He is framed by architectural elements that suggest an interior setting. The background is filled with a stippled pattern. The figure's posture and the presence of the book indicate scholarly or devotional activity.",
+    "scene_interpretation": "Biblical Scholar",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Biblical Scholar"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0097/2896,4028,501,677/full/0/default.jpg"
+}

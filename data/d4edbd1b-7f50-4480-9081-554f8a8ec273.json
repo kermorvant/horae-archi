@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A person wearing a blue and gold checkered hat, a red robe with gold embellishments, and a white apron stands in an outdoor setting. They are holding a bundle of sticks over a roasting pig, with flames depicted in red. Behind the figure, a grey stone wall with crenellations is visible, topped by green foliage. Further in the background, several buildings with steeply pitched roofs and visible timber framing are depicted. The scene appears to be a depiction of a feast or a preparation for one.",
+    "scene_interpretation": "Feast",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "battlement",
+        "crenellation"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_018v.jp2/2554,910,1804,1457/full/0/default.jpg"
+}

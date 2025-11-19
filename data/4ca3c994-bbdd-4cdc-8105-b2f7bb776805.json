@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a figure, likely a saint or prophet, with a long beard and a headdress, holding a staff or scepter. The figure is positioned within an architectural setting suggested by an arched structure above and to the left. The overall style is illustrative and somewhat abstract, with a focus on outline and form rather than detailed rendering. The scene's interpretation is uncertain due to the abstract nature of the illustration, but it could represent a biblical or hagiographic figure.",
+    "scene_interpretation": "Biblical figure",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0071/5731,4110,389,571/full/0/default.jpg"
+}

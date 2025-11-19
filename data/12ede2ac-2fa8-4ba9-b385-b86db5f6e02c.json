@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Resurrection of Christ. Christ, with wounds visible on his chest and feet, floats above an open tomb, holding a banner with a cross. He is raising his right hand in a gesture of blessing or victory. Below him, several Roman soldiers lie asleep or stunned, some in armor, near the tomb. In the background, a landscape unfolds with rolling hills, trees, and distant buildings, including a church spire. Two figures in blue robes stand in the middle ground to the left, possibly representing Mary Magdalene and another woman approaching the tomb. A faint, ethereal figure is depicted in the sky above Christ, perhaps an angel.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3769/Vat.lat.3769_0372_fa_0178v.jp2/1035,440,1379,2355/full/0/default.jpg"
+}

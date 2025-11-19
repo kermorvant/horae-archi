@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "In this scene, Christ, depicted with a halo and wearing a reddish-brown robe, is shown reaching out to touch a pale, emaciated figure lying in a wooden sarcophagus or bed. This figure, draped in white, appears to be ill or deceased. Christ's gesture suggests an act of healing or resurrection. Behind Christ, a group of figures with halos, likely apostles or disciples, observe with hands clasped in prayer or awe. To the right, a group of women, also with halos, are present, some with hands joined in prayer, witnessing the event. In the background, a richly decorated architectural structure, possibly a tomb or a symbolic representation of a building, is visible. The setting appears to be outdoors, with a green landscape and a blue sky.",
+    "scene_interpretation": "Raising of Lazarus",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Lazarus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0057/600,685,2343,3493/full/0/default.jpg"
+}

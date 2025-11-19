@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Two haloed figures, likely saints or religious figures, stand in a verdant, wooded landscape. The figure on the left wears a red mantle over a blue robe and holds a scroll. The figure on the right, dressed in a blue robe adorned with gold patterns, holds an open book. In the background, a fortified castle sits atop a hill under a radiant sun and starry sky. The scene is framed by an arched border with decorative floral motifs.",
+    "scene_interpretation": "Saints in contemplation or discussion",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100254479/f497/384,202,1184,1583/full/0/default.jpg"
+}

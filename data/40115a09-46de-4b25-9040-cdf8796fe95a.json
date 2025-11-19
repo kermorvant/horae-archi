@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on their journey, likely the Flight into Egypt. The Virgin Mary, dressed in a blue mantle with gold trim, is seated on a donkey, holding the Christ Child. Joseph, in a red tunic and blue cap, walks beside the donkey, guiding it. They are traveling through a rocky, mountainous landscape with a distant city visible on a hill. The scene is framed by an ornate, gilded arch, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0078/DEPOT/M601415401_MS0078_0103/2816,486,1089,1733/full/0/default.jpg"
+}

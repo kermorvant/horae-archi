@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A crowned male figure, likely a king, stands within an arched frame. He wears a blue mantle adorned with golden fleur-de-lis over a golden tunic. He holds a scepter in his right hand and his left hand is clenched. Behind him, a simplified depiction of a stone building with a tower and windows is visible. The background is a rich red fabric with decorative patterns. The overall scene is framed by a decorative border.",
+    "scene_interpretation": "Royal Portrait",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0031.jp2/1084,1541,706,1330/full/0/default.jpg"
+}

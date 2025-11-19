@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Mark by the presence of his symbol, the winged lion, sits on a throne-like chair, writing on a scroll. He is dressed in a blue mantle over a red tunic and wears a halo, indicating his saintly status. The lion, also with a halo, stands to his left, looking towards the scroll. The background is a decorative mosaic of red, blue, and gold squares. The scene appears to be set within an architectural space, suggested by the throne and the patterned wall.",
+    "scene_interpretation": "Saint Mark Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Saint Mark",
+        "Lion of Saint Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024827n/f48/1070,563,931,1285/full/0/default.jpg"
+}

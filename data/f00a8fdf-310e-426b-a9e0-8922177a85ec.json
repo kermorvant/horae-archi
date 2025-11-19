@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands in a blue cope over a red and gold chasuble. He raises his right hand in a gesture of blessing or teaching. To his left, a group of three figures, possibly children or supplicants, are depicted within a carved architectural niche, one with hands clasped in prayer. The scene is framed by an architectural canopy with pointed arches and decorative tracery, suggesting an interior setting within a religious or noble context. The background shows a window with a pale blue sky visible through it.",
+    "scene_interpretation": "Saint in prayer or blessing",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "niche",
+        "ornamental_tracery",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421938/824,283,344,490/full/0/default.jpg"
+}

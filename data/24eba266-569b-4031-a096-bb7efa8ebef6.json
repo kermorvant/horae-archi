@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a robed figure, likely a saint, wearing a red hat and a black habit, seated in a chair. The figure is tending to a lion, which is shown with its paw raised towards the figure's hand. To the left, a lectern holds an open book, and several other books are stacked nearby. The background features a brick wall and a patterned textile. The overall setting suggests an interior space, possibly a study or cell, within a religious context. This iconography is characteristic of Saint Jerome, often depicted with a lion, symbolizing his taming of wild beasts and his scholarly pursuits.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509627p/f219/828,509,1641,2358/full/0/default.jpg"
+}

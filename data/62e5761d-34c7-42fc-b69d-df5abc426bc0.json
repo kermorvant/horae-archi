@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ being mocked and crowned with thorns. Christ, seated and wearing a green tunic and an orange robe, is surrounded by three figures. One figure on the left, dressed in yellow and blue, strikes Christ's head with his fist. Another figure in blue, on the right, places a reed crown on Christ's head and appears to be mocking him. A third figure, in pink, also seems to be involved in the torment. The figures are positioned within an architectural setting characterized by red-toned arches and columns, suggesting a palace or a judgment hall. The background features a golden halo behind Christ's head, indicating his divinity, and a vaulted ceiling.",
+    "scene_interpretation": "The Crowning with Thorns",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "halo"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1ccb7c84-5646-4254-8084-91716e9da72f/3053,918,1995,2588/full/0/default.jpg"
+}

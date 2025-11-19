@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the Virgin Mary cradling the body of Jesus after his crucifixion. Several other figures, likely mourners, surround them. The background features architectural elements that suggest a religious setting, possibly a church or chapel, with arches and decorative structures. The overall composition conveys a somber and devotional atmosphere.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0077/4171,1719,658,996/full/0/default.jpg"
+}

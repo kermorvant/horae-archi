@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ emerging from a sarcophagus, which is open and partially filled with water. He is shown from the waist up, with wounds visible on his body, and a halo around his head. His right hand is raised in a gesture of blessing or acknowledgment, while his left hand rests on his abdomen. A blue garment, possibly his tunic, is draped over the edge of the sarcophagus. Behind Christ, the background is a deep red, adorned with various instruments of the Passion, including nails, a hammer, pincers, and a sword. To the left, a ladder leans against a golden structure, and a column with a capital is visible. To the right, a dark, angled element suggests the lid of the sarcophagus. The overall scene represents the Resurrection of Christ.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Tournus/Hotel_Dieu_Musee_Greuze/715435210_inv_82_1206/DEPOT/715435210_inv_82_1206_0242/3420,1325,935,837/full/0/default.jpg"
+}

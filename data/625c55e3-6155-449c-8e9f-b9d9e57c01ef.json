@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts three men in a pastoral landscape. The man on the left, dressed in a red robe and hood, looks upwards with his hand raised in supplication. The central figure, wearing a brown tunic and a patterned cap, holds two staffs and gazes upwards. The man on the right, in a blue tunic and red cap, also looks upwards with a pensive expression. A small dog rests on the ground in the foreground. In the background, rolling hills are dotted with trees, and a river or body of water is visible. Further in the distance, a fortified castle with towers and battlements sits atop a hill, and another, more abstract architectural structure is seen on the horizon. Above, an angel with wings outstretched holds a scroll, radiating light, suggesting a divine message or intervention.",
+    "scene_interpretation": "The scene likely represents a moment of divine revelation or prayer, possibly related to a biblical narrative or a saint's life. The upward gaze of the figures, the presence of the angel with a scroll, and the distant castle could symbolize a divine calling, a prophecy, or a plea for divine assistance. The pastoral setting and the presence of a dog might allude to shepherds or a humble setting for a spiritual event.",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "battlement"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_078r.jp2/948,430,2814,4750/full/0/default.jpg"
+}

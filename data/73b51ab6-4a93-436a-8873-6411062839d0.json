@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. He is depicted with a crown of thorns and a loincloth, and blood is visible from his wounds. To the left stands the Virgin Mary, draped in a blue mantle, with her hands clasped in sorrow. To the right, a figure in red and blue robes, likely Saint John the Evangelist, holds an open book. In the background, a fortified castle with towers and walls is visible, set against a landscape of rolling hills and scattered trees. The sky above is a pale blue with some stylized clouds and stars.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_090%2Flewis_e_090_jp2.zip%2Flewis_e_090_jp2%2Flewis_e_090_0125.jp2/2832,1163,2490,3157/full/0/default.jpg"
+}

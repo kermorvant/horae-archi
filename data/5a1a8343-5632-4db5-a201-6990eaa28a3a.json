@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Entombment of Christ. Christ's body, pale and marked with wounds, lies on a stone slab, wrapped in a white shroud. He is being carefully placed into the tomb by several figures. To the left, a man with a long beard and a blue hat, possibly Joseph of Arimathea, supports Christ's head. Beside him, a woman in a red dress, likely Mary Magdalene, looks down with sorrow. To the right, another man in a blue hood, perhaps Nicodemus, helps position the body. Behind them, three women, draped in blue veils, are depicted in prayer and grief, representing the Virgin Mary and other mourners. In the background, a wooden cross with the INRI inscription stands prominently, and beyond it, a landscape unfolds with rolling hills, stylized trees, and distant castles. The sky above is a deep blue, adorned with a radiant sun and stars, suggesting a celestial or symbolic setting.",
+    "scene_interpretation": "Entombment of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Mary Magdalene",
+        "Joseph of Arimathea",
+        "Nicodemus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/6135501/1886,287,1350,2139/full/0/default.jpg"
+}

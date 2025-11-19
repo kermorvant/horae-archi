@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, dressed in a blue robe, is seated and holding the Christ Child, who is naked and appears to be reaching out. Behind them is a brick wall and a wooden structure, possibly a stable or shelter, with a golden sunburst above. Three Magi, identified by their crowns, approach the Virgin and Child. One kneels, offering a golden vessel, while the other two stand, one holding a similar vessel and the other a box. The figures are rendered with simple, stylized features, and the background is a mix of architectural elements and a sky with a sunburst.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Metz/Bibliotheque_municipale/574636101_MS1581/DEPOT/574636101_MS1581_0110A/589,1075,1698,2174/full/0/default.jpg"
+}

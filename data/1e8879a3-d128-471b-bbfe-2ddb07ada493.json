@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A group of figures, including a bearded man with a cross on his forehead and several other men, stand on the left. On the right, an angel with large wings is depicted administering something from a chalice to a kneeling man. The background consists of stylized clouds and a textured ground.",
+    "scene_interpretation": "The scene likely depicts a sacrament or a divine intervention, possibly the Last Supper or a similar event involving the Eucharist, given the presence of the chalice and the kneeling figure. The bearded figure with the cross might represent Christ or a saint. The angel's action suggests a spiritual blessing or administration of grace.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Bearded man with a cross"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0073/3860,3399,1103,424/full/0/default.jpg"
+}

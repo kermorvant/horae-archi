@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "A bishop, adorned in a golden chasuble and a mitre, stands before an altar, gesturing towards a chalice and an open book. He is surrounded by several figures, including monks in golden habits and laymen in red and blue tunics. The scene takes place within a richly decorated interior, likely a church or chapel, indicated by the presence of columns, an altar, and what appears to be a reredos behind the altar. The architectural elements suggest a Gothic style, with pointed arches visible in the background. The overall atmosphere is one of solemnity and religious observance, likely depicting a liturgical ceremony.",
+    "scene_interpretation": "Consecration",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "altar",
+        "canopy",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Bishop",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f557/910,1250,3061,3768/full/0/default.jpg"
+}

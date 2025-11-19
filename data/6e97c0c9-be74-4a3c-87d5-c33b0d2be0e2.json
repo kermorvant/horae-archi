@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed woman, likely a saint, stands with her head tilted slightly and eyes downcast. She wears a white veil, a blue tunic with gold detailing, and a red mantle. Her right hand holds a white cloth, while her left hand grasps a decorative vessel. In the background, a stylized landscape with green rounded trees and small buildings with orange roofs is visible, beyond which lies a city with blue walls and towers under a bright blue sky. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Saint Barbara",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Barbara"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46243454.tif/493,354,1068,1628/full/0/default.jpg"
+}

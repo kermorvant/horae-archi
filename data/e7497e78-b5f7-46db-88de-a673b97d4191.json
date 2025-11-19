@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a domestic interior framed by a Gothic arch, where several figures are gathered around a bed. On the bed, a woman in white is holding a baby. To her right, another woman wears a green veil and red dress, and a third woman in a blue garment looks on. In the foreground, a woman in a blue dress is tending to a baby in a wicker basket filled with water. Behind the interior scene, a cityscape is visible with towers and spires, suggesting an urban setting. The overall scene likely represents the Nativity or a related event, possibly the Presentation of Christ in the Temple or the Circumcision, given the presence of the infant and attendants.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8571085n/f149/2314,106,1134,2896/full/0/default.jpg"
+}

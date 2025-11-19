@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, with a halo, is seated on a donkey, holding the Christ Child. She is dressed in a red tunic and a blue mantle adorned with gold. Beside her, a bearded man, presumably Saint Joseph, walks alongside the donkey. He wears a red robe with gold embellishments and blue hose, carrying a staff over his shoulder with a bag attached, and holding a lantern in his right hand. The background features a hilly landscape with trees and a distant walled city. The overall scene suggests a pilgrimage or flight, likely the Flight into Egypt.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rodez/Bibliotheque_municipale/122026201_MS0138/DEPOT/122026201_MS0138_0067/4199,516,1438,2283/full/0/default.jpg"
+}

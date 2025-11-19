@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint or cleric, stands in a blue robe over a white garment, holding a dark, possibly stone object in their hands. The background features a blue brick wall above a tiled floor. The scene is framed by an ornate, decorative border with swirling patterns and architectural elements on the sides, suggesting it is an initial letter from a manuscript.",
+    "scene_interpretation": "Saint holding a relic",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_003%2Fwidener_003_jp2.zip%2Fwidener_003_jp2%2Fwidener_003_0105.jp2/2221,1261,943,835/full/0/default.jpg"
+}

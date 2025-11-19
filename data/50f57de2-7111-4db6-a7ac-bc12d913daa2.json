@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bishop, adorned in ornate vestments including a mitre and cope, stands centrally, holding a crozier and raising his right hand in blessing. He is surrounded by a group of cherubic, naked figures who are looking up at him with clasped hands in prayer. The scene is set within an architectural interior, suggested by columns and walls, with a hint of a patterned floor.",
+    "scene_interpretation": "The scene depicts a bishop in the act of blessing, likely representing a saint or a figure of spiritual authority. The presence of the naked, praying figures suggests a scene of intercession or a representation of souls seeking divine favor or salvation through the bishop's intercession.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A7F0C4994-C579-11E7-8646-155E6EE4309A%3ADS.178/2738,534,673,682/full/0/default.jpg"
+}

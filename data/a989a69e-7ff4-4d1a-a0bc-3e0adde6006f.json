@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated, holding the Christ Child who reaches out towards a figure kneeling in prayer. To the left of the Virgin, an angel with red and blue wings gazes down, holding a green parrot. To the right of the Christ Child, another angel in red offers a small object, possibly fruit. In the background, a walled city with towers and buildings is visible under a blue sky with clouds. In the foreground, a man in a red robe kneels with his hands clasped in prayer amidst a garden with flowers. To the far left, a stone tower and buildings with pitched roofs are depicted.",
+    "scene_interpretation": "Madonna and Child with Angels and Donor",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_112%2Flewis_e_112_jp2.zip%2Flewis_e_112_jp2%2Flewis_e_112_0023.jp2/1922,1271,2746,2902/full/0/default.jpg"
+}

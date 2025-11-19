@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and vestments, stands holding a book in his left hand and a processional cross in his right. He is depicted within an architectural frame, possibly representing a niche or a decorative archway. The background is filled with a stippled pattern. To the right of the bishop, a small animal, possibly a dog, is visible at his feet. The overall scene suggests a saintly figure, likely a bishop, in a devotional or authoritative pose.",
+    "scene_interpretation": "Saintly Bishop",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0096/933,675,484,637/full/0/default.jpg"
+}

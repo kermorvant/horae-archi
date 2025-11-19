@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts two haloed women in conversation in a grassy landscape. The woman on the left, dressed in blue and pink, holds a book. The woman on the right, in an orange robe and white veil, gestures with her hands. Behind them, to the right, are two buildings with thatched roofs and stone walls. One building has a prominent arched window and a smaller window from which a face peers out. In the foreground, several sheep graze, and a shepherd, wearing a blue hood and grey tunic, kneels with his hands clasped in prayer, holding a staff. The background features stylized trees and a decorative blue and gold patterned tapestry-like element.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/1049801/1049250.tif/2115,1199,2024,2375/full/0/default.jpg"
+}

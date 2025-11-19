@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an architectural setting. On the left, Christ, with a halo, stands behind a railing, his wounds visible. Before him, a kneeling figure, likely a bishop or high-ranking cleric due to his mitre and ornate robes, reads from an open book, hands clasped in prayer. He is attended by several other figures, some wearing helmets, suggesting a context of protection or authority. An altar with a chalice and paten is present, along with other vessels and a candlestick. The background features architectural elements suggesting an interior space, possibly a chapel or church.",
+    "scene_interpretation": "The scene likely represents the Mass or a similar liturgical event, possibly with a vision of Christ appearing to a devout worshipper. The presence of the chalice and paten, along with Christ's wounds, points to the Eucharist. The kneeling figure's posture and attire indicate deep reverence and prayer during a sacred ritual.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "door",
+        "wall",
+        "altar"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0090/1843,2067,639,965/full/0/default.jpg"
+}

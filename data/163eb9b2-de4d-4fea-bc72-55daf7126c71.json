@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated with the Christ Child on her lap in a lush, green garden. The Christ Child reaches out towards a man who is kneeling in prayer. In the background, a walled garden enclosure is visible, with a small, reddish-brown building topped with a purple roof. A peacock stands prominently in the foreground. The overall impression is one of a devotional scene set in a peaceful, enclosed garden, possibly symbolizing paradise or a sacred space.",
+    "scene_interpretation": "Madonna and Child with a Donor",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/hba/hba-membr0035/hba-membr0035_131v.jp2/1518,224,2814,5444/full/0/default.jpg"
+}

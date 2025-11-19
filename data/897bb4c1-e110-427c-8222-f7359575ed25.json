@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A crowned figure, presumably King David, kneels in prayer outdoors amidst rolling green hills under a dark blue, star-filled sky. The figure wears a royal crown and a long, reddish-brown robe lined with white. Their hands are clasped together in supplication, and their gaze is directed upwards. The landscape is sparsely populated with stylized trees and tufts of vegetation. The celestial sphere above is depicted with numerous stars and what appear to be streaks of light, possibly representing divine intervention or a celestial event.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0027/DEPOT/352386106_MS0027_0064/3814,981,1497,1497/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, likely a prophet or saint, is depicted holding a scroll inscribed with text and geometric shapes. The figure wears a reddish-brown cloak over a blue garment and points with their right hand. The scene is framed by architectural elements, suggesting an interior setting or a niche. The scroll's inscription and the figure's gesture imply a prophetic or instructional role, possibly related to a biblical narrative or devotional text.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "niche",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0046/3319,3328,631,584/full/0/default.jpg"
+}

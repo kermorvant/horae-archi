@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ is shown on the cross, with blood dripping from his wounds. A halo surrounds his head, and the inscription 'INRI' is visible above him. To the left of the cross, two women, likely the Virgin Mary and another mourner, stand with expressions of sorrow. The Virgin Mary is dressed in a blue mantle over a purple garment, and the other woman wears a white veil and a green garment. To the right of the cross, a soldier in ornate armor, holding a spear, stands guard. Behind him, other figures, possibly soldiers or onlookers, are partially visible. In the background, rocky terrain is depicted, with a city skyline featuring spires and towers in the distance. The sky is dark and cloudy, suggesting a dramatic atmosphere.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fq804fm0409%2FW433_000036_1200/3680,1472,2376,3759/full/0/default.jpg"
+}

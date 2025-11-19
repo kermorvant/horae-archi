@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The upper register depicts a dramatic scene under a starry night sky with a crescent moon. A figure in a brown robe, possibly a prophet or saint, kneels in prayer on a rocky outcrop, looking towards the heavens. Below, a group of soldiers, some holding lanterns and torches, are apprehending a man. One soldier, in red armor, is on his knees, seemingly wounded or captured, with blood dripping from his neck. Another soldier, in blue armor, is holding a lantern aloft, illuminating the chaotic scene. In the lower register, a procession of soldiers marches forward, some carrying spears. A decorative band with text and an illuminated initial separates the two registers. To the left of the text band, a small, dark building with a pitched roof and a window is visible. To the right, a figure in a golden robe stands near a wooden structure.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8447775g/f137/116,237,1948,2790/full/0/default.jpg"
+}

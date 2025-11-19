@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A procession of figures, led by a man in papal regalia, moves towards a grand Gothic cathedral. The central figure, presumably the Pope, wears a jeweled tiara and a richly embroidered golden cope over a white alb. He is followed by several other figures, also in red robes and wearing distinctive red hats, who appear to be clergy or dignitaries. They are depicted in profile or three-quarter view, with hands clasped in prayer. Behind them, the cathedral rises majestically, characterized by its tall spires, pointed arches, and ornate golden detailing. The sky above is a vibrant blue, dotted with small clouds, and a distant landscape with hills and water is visible. The scene is framed by an arched architectural element, likely part of the manuscript's border.",
+    "scene_interpretation": "Procession",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "spire",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Pope"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f159/3154,1496,743,2479/full/0/default.jpg"
+}

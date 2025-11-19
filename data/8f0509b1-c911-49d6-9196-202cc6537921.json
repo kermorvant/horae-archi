@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The Virgin Mary, draped in a vibrant blue mantle, sits on a gilded throne, cradling the Christ Child. To her left, two figures, one with red wings and a conical hat, hold an open book. To her right, an angel with blue wings plays a harp, accompanied by another figure in a purple robe. The background features a richly patterned golden tapestry and architectural elements suggesting a grand interior, with tall, narrow windows visible on either side. The scene evokes a sense of divine presence and worship.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_002/DEPOT/762595409_A_10_002_0181/1818,837,1311,1785/full/0/default.jpg"
+}

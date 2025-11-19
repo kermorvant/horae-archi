@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts a religious service within an architectural setting that suggests a church or chapel. In the foreground, a priest in a blue and gold chasuble stands before an altar, his hands clasped in prayer. To his left, a young acolyte in a white alb with red trim observes. Behind the altar, a group of clerics, likely monks or canons, are gathered around a lectern, reading from books. To the right, a woman in a red gown and headdress holds a book, and behind her, another woman in blue stands. A small white dog rests on the green floor. The background features an arched arcade with red, star-patterned vaults, and tall, mullioned windows with tracery. On the far left, a statue or image of the Virgin Mary holding the Christ Child is visible on a pedestal, next to a lit candle and liturgical vessels.",
+    "scene_interpretation": "Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "roof",
+        "altar",
+        "column",
+        "capital",
+        "arcade",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515743q/f395/413,611,1033,1170/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated and holding the Christ Child, who is reaching towards a lyre played by an angel. Another angel, with large red wings, stands to the left, and a young boy in an orange tunic is seated in front of them. To the right, a kneeling figure in a striped robe looks upwards. The figures are set against a decorative gold and blue patterned background, framed by a blue arch with floral motifs. The lower portion of the scene shows a green, grassy landscape.",
+    "scene_interpretation": "Madonna and Child with Angels and a Donor",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/f263/452,366,1408,1648/full/0/default.jpg"
+}

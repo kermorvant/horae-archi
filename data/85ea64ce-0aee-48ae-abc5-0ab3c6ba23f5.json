@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Sebastian. A man, identified as Saint Sebastian, stands pierced by multiple arrows, his torso bare and his lower body clad in red leggings and a white loincloth. He has a halo, indicating his sainthood. To his left, an archer, dressed in a red tunic, blue hat, and orange leggings, aims his bow and arrow towards Saint Sebastian. A discarded blue garment lies on the ground near the archer, along with a bundle of arrows. In the background, a walled enclosure surrounds a building with a tower, and trees are visible. The scene is set outdoors.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "arch"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bpun/bpun-A0028/bpun-A0028_210v.jp2/1742,812,2368,2816/full/0/default.jpg"
+}

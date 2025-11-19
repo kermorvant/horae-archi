@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, is depicted seated on an ornate, gilded chair within a dark, circular frame. The figure wears a pale yellow robe with gold trim and holds an open book in their lap. In their right hand, they hold a palm frond, a symbol of martyrdom. The background is a dark, textured expanse, suggesting a spiritual or celestial setting. The overall composition is framed by a decorative border, hinting at its placement within a manuscript.",
+    "scene_interpretation": "Martyrdom",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008559f/f7/1481,439,686,769/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael the Archangel, clad in golden armor and with feathered wings, standing over a purple dragon. He holds a sword raised in his right hand, ready to strike, and a blue shield emblazoned with a golden sunburst in his left. The dragon, with its mouth agape, is being subdued beneath Saint Michael's feet. The background is a simple landscape with green hills and a blue sky, suggesting an outdoor setting. In the distance, a blue structure, possibly a building or a hill formation, is visible. This imagery represents the triumph of good over evil, a common theme associated with Saint Michael.",
+    "scene_interpretation": "Saint Michael and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0005/DEPOT/210545209_005_0146/1613,2331,818,1028/full/0/default.jpg"
+}

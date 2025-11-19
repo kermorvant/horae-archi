@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "Two male figures, identified as apostles by their halos, are depicted seated on a green grassy landscape. The figure on the left, wearing a golden robe over a blue tunic, is looking down at a scroll unfurled before him, upon which he appears to be writing. The figure on the right, dressed in a blue robe, is also writing on a scroll, with a quill in his hand. Behind them, a body of water with small boats is visible, leading to a city with tall buildings and spires. In the background, a large, golden, rocky mountain dominates the left side of the scene, and a blue, conical mountain, possibly a volcano, is seen behind the city. The sky above is a vibrant blue with scattered white and gold clouds.",
+    "scene_interpretation": "Evangelists Writing",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Apostle",
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f662/965,1421,1001,2805/full/0/default.jpg"
+}

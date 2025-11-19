@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene is divided into two distinct parts. On the left, a figure identified as 'David' is depicted indoors, wearing a royal blue robe adorned with gold fleur-de-lis and a golden crown. He is shown in a contemplative pose, resting his head on his hand and pointing outwards. A harp lies on the floor beside him, and the room features tiled flooring and windows with tracery. On the right, a divine scene unfolds with Christ, crowned and radiating a golden aura, standing with arms outstretched. He is surrounded by angels and figures, possibly the Virgin Mary and other saints, in a celestial setting. A scroll below the figures contains Latin text. The juxtaposition suggests a connection between earthly royalty and divine authority, possibly representing David's kingship and Christ's ultimate dominion.",
+    "scene_interpretation": "David in Prayer / Christ Enthroned",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "David",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0241.jp2/2473,1506,1527,1446/full/0/default.jpg"
+}

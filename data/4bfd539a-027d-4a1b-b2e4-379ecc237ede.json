@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ Child in the Temple. The Virgin Mary, clad in a blue mantle, kneels with hands clasped in prayer before a draped altar. On the altar lies the Christ Child, held by an elderly man with a grey beard, likely Simeon, who gazes down at the infant. Behind Simeon stands a woman, possibly Anna, and another figure in a blue tunic, possibly a priest or attendant, holds a green canopy over the altar. The background suggests an interior architectural setting with vertical wooden beams and an arched opening revealing a blue sky. Decorative floral motifs frame the scene on the left.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Simeon",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10840773/450,368,1144,1735/full/0/default.jpg"
+}

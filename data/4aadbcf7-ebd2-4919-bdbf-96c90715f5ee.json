@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ, with a halo and crown of thorns, is being lowered from the cross by two figures on ladders. One figure, dressed in a red tunic and blue hose, supports Christ's body, while another, in a blue tunic, appears to be assisting with the descent. A figure in a blue hooded robe, with hands raised in prayer or lamentation, stands to the left, accompanied by another figure in a red tunic. A fourth figure, wearing a red tunic and a distinctive blue hat, looks upwards towards the cross. The setting is an outdoor landscape with rolling blue hills in the background and green ground with sparse vegetation in the foreground. The entire scene is framed by an illuminated archway.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52506271h/f28/1003,309,1811,2092/full/0/default.jpg"
+}

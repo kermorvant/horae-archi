@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Luke by the presence of his symbolic ox, is depicted seated indoors, diligently writing in a large open book placed on a lectern. He wears a blue tunic and a red cloak, and a halo signifies his sainthood. The setting includes a wooden desk with books and an inkwell, a window with diamond-shaped panes, and draped curtains. The floor is tiled with a geometric pattern. The scene likely represents Saint Luke as an evangelist, writing his Gospel.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10023007f/f37/377,359,924,1230/full/0/default.jpg"
+}

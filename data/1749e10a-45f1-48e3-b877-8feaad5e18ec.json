@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and gesture of blessing or teaching, interacting with several individuals. To Christ's left, two figures with beards and halos appear to be disciples or prophets. In the foreground, a person lies on a bed or mat, with hands clasped in prayer, looking up towards Christ. Another figure, possibly a disciple or observer, kneels beside the bed, also with hands in prayer. To Christ's right, a figure with a hooded head and clasped hands looks towards Christ. The scene is framed by an architectural element resembling an arch, with decorative foliage at the top. The background suggests an interior space, possibly a room or a simple architectural setting.",
+    "scene_interpretation": "Healing of the Paralytic",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0028/722,2949,610,1039/full/0/default.jpg"
+}

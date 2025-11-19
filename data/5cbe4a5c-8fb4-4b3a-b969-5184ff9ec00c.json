@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a king seated on a throne, holding a sword and gesturing with his other hand. He wears a blue robe adorned with gold patterns and a green, leafy crown. Around him are several figures, including a knight in golden armor to his left, and other individuals in blue robes and caps. In the foreground, a naked infant lies on the floor. The setting appears to be an interior space, suggested by the presence of a doorway or archway and the implied enclosure.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "King",
+        "Knight"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0036/4550,1244,1121,1762/full/0/default.jpg"
+}

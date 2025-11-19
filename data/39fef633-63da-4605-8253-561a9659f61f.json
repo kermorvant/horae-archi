@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity with Christ crucified. God the Father, depicted as an elderly man with a long white beard and wearing a papal tiara, is seated on a throne. A dove, representing the Holy Spirit, hovers above Christ. Christ is shown on the cross, bleeding from his wounds, with a white loincloth. He is positioned in front of God the Father. Surrounding them are groups of figures, some in red and some in blue, representing heavenly hosts or souls. The background is a rich blue with gold speckles, suggesting a divine or celestial setting. The throne and surrounding architectural elements are rendered in gold and brown, with decorative patterns.",
+    "scene_interpretation": "The Crucifixion of Christ as part of the Holy Trinity, emphasizing the divine sacrifice and the unity of God.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/zhl/zhl-P0006-4/zhl-P0006-4_176v.jp2/1799,393,3481,4702/full/0/default.jpg"
+}

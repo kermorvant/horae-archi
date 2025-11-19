@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Mark, identified by his halo and the winged lion beside him, who is shown with a beard and long hair, wearing a blue robe over a pink tunic. He is holding an open book with text and appears to be writing or reading. To his right, another book rests on a wooden surface. The background features a patterned tapestry with red and gold motifs, and architectural elements suggesting an interior space with arched openings and wooden paneling. The winged lion, a symbol of Saint Mark, is depicted lying down, looking towards the viewer.",
+    "scene_interpretation": "Saint Mark",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Mark"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F279_B.11.32_f148r.jp2/924,684,1760,2264/full/0/default.jpg"
+}

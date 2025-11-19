@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Within a circular frame, a man with a beard and a wide-brimmed hat stands to the left, holding a staff and gesturing with his right hand. He is draped in a long robe. To the right, a woman with long, flowing hair kneels, reaching towards a tree. The background is filled with a stippled texture, suggesting foliage or a dense, textured environment. The scene appears to depict a biblical narrative, possibly Adam and Eve in the Garden of Eden, with the man representing Adam and the woman Eve, and the tree being the Tree of Knowledge.",
+    "scene_interpretation": "Adam and Eve",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0081/688,1403,553,644/full/0/default.jpg"
+}

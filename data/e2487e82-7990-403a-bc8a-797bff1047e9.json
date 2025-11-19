@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Jerome, identifiable by his halo and scholarly attire, seated and writing. He is dressed in a golden tunic and a blue mantle, with a white beard and hair. He is shown at a lectern with an open book, holding a scroll. To his left, a winged, lion-like creature with pink wings and a halo sits on the floor, looking towards the viewer. The setting appears to be an interior space with tiled flooring, columns, and decorative architectural elements. A window on the left reveals a distant landscape. The overall impression is one of scholarly contemplation and divine inspiration, possibly representing the moment of Saint Jerome's translation of the Bible.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "window",
+        "arch",
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013837f/f33/341,513,1849,1456/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "In a pastoral landscape, three shepherds are depicted looking upwards in awe. The central shepherd, dressed in blue and green, is kneeling and gesturing with his right hand. To his left, another shepherd in red looks up, and to his right, a third shepherd in green also gazes skyward. In the background, a flock of sheep grazes on a grassy hill. Above them, within a blue sky, a winged angel appears, rendered in gold and blue, seemingly delivering a message. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10840943/320,329,1087,1798/full/0/default.jpg"
+}

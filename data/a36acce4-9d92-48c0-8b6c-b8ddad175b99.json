@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ Child in the Temple. The Virgin Mary, veiled and holding the Christ Child, is presented by two attendant women. Facing them is a bearded man in priestly attire, possibly Simeon, holding out his hands to receive the child. Another figure, also in religious garb, stands behind Simeon. The setting appears to be an interior space with a brick wall, arched openings with blue drapery, and golden columns. A window with diamond-shaped tracery is visible in the background. The floor is adorned with a patterned carpet and a golden platform.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_16%2F1945_65_16_jp2.zip%2F1945_65_16_jp2%2F1945_65_16_0185.jp2/5390,2208,5157,7683/full/0/default.jpg"
+}

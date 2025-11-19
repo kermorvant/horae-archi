@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, mounted on a donkey, entering a city. He is accompanied by several disciples. In the foreground, a young boy in a pink tunic is climbing a tree, reaching for leaves. To the right, a grand, fortified city with towers and crenellations is visible, with several figures looking out from windows and battlements. One figure, dressed in white and gold, stands at the entrance to the city, holding a pink cloth. The background features a stylized cityscape with numerous towers and spires under a deep blue sky.",
+    "scene_interpretation": "Entry into Jerusalem",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "battlement",
+        "crenellation",
+        "tower",
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "Jesus Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0178/1636,620,1702,2471/full/0/default.jpg"
+}

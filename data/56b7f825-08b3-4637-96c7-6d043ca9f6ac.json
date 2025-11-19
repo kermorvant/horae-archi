@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts two haloed women in conversation, set within a verdant landscape. The woman on the left wears a blue robe with gold trim, while the woman on the right is clad in a pinkish-brown robe and a white veil. They are positioned on a path, with lush green foliage and trees surrounding them. In the background, a city with numerous buildings, towers, and spires is visible, nestled amongst rolling hills. The overall impression is one of a serene, pastoral setting with a distant urban backdrop. The interaction between the two women, likely Mary and Elizabeth, suggests a moment of shared joy or spiritual communion.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jb119rn7623%2FW208_000130_1200/3637,2130,2204,2959/full/0/default.jpg"
+}

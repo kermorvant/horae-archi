@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts an Annunciation to the Shepherds. In the foreground, a shepherd, identified by his staff and sheep, looks upwards in awe. He is kneeling before an angel who descends from the sky, wings spread, with hands clasped in prayer. Another shepherd stands behind him, also looking up with a gesture of surprise. In the middle ground, a flock of sheep grazes in a verdant field. The background features a rolling landscape with distant hills, a body of water, and a fortified castle on a hill. The sky is a pale blue, with a winged figure, presumably an angel, appearing in the upper center, seemingly announcing the event.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509697k/f88/1212,1140,4060,6354/full/0/default.jpg"
+}

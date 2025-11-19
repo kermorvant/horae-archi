@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, crowned and with a halo, sits on the left, holding the Christ Child, who is also crowned and has a halo. The Christ Child is reaching out towards one of the Magi. One Magus, kneeling and crowned, offers a gift. He is dressed in blue and red robes. To the right, two other Magi stand, also crowned. The first stands in a green robe, holding a golden vessel, and gestures with his raised hand. The second stands behind him in a pink robe. They are positioned in front of a rustic, thatched shelter. The background features rocky terrain with trees and a golden, patterned sky, suggesting a sacred and somewhat otherworldly setting.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f590/547,793,2018,2691/full/0/default.jpg"
+}

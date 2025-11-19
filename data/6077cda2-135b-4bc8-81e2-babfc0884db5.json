@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded figure, identified as Christ, stands in a forest setting. He wears a golden tunic and a deep red mantle, both adorned with intricate gold patterns. His right hand points outwards, while his left hand holds a blue book upon which a lamb rests. The lamb, a symbol of Christ, also has a halo. The background is filled with dark green foliage and slender trees, suggesting a natural, outdoor environment. The figure's gaze is directed slightly to the left, with a pensive expression.",
+    "scene_interpretation": "The Agnus Dei (Lamb of God)",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46243383.tif/1062,985,1129,1334/full/0/default.jpg"
+}

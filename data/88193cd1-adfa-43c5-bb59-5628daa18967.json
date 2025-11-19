@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher carrying the Christ Child across a body of water. Saint Christopher, a large, bearded man, is wading through the blue water, leaning on a tall staff. He wears a blue tunic and a red cloak lined with green. The Christ Child, depicted as a small, radiant figure with a halo, sits on Saint Christopher's shoulders, blessing with his right hand. The background is a deep blue sky dotted with golden stars, suggesting a celestial or mystical setting. Lush green trees and rocky terrain frame the scene, with the water flowing around Saint Christopher's legs. The entire image is enclosed within an arched frame decorated with floral motifs.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ Child",
+        "Saint Christopher"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0028/DEPOT/352386106_MS0028_0162/3645,490,1480,1979/full/0/default.jpg"
+}

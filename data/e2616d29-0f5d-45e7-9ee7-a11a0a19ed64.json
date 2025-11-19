@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint George, clad in ornate golden armor, mounted on a white horse. He is shown in the act of slaying a dragon, which lies beneath the horse's hooves. Saint George holds a sword, though it is not actively engaged in striking the dragon. The background features a landscape with rolling hills and distant architectural structures, possibly castles or fortified towns, rendered in blue and white. The sky is a vibrant blue with scattered clouds. The entire scene is framed by a decorative border with gold illumination.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0079/DEPOT/M601415401_MS0079_0150/1813,1766,1099,1212/full/0/default.jpg"
+}

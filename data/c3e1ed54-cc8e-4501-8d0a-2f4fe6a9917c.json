@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth, his body bleeding. To the left, the Virgin Mary, dressed in a blue mantle and veil, stands with her hands clasped in prayer and a halo behind her head. To the right, a figure, likely Saint John the Evangelist, dressed in a red robe over a blue tunic, looks towards the cross with an outstretched hand. The background features rocky terrain and a blue sky. The scene is framed by decorative architectural elements on the sides, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_MS2111/DEPOT/B490076101_MS2111_0033/4190,1240,1409,1898/full/0/default.jpg"
+}

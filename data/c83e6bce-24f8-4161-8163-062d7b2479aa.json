@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands in a richly decorated interior. He wears a blue cope with gold trim over a grey tunic and white alb. His right hand is raised in a gesture of blessing, with two fingers extended. The background features a red tapestry with gold ornamentation and a decorative frieze at the bottom, suggesting an ecclesiastical or noble setting. The floor is depicted with a green patterned carpet.",
+    "scene_interpretation": "Bishop Blessing",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f180/716,520,695,831/full/0/default.jpg"
+}

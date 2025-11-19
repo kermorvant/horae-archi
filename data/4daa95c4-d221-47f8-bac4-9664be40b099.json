@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A royal figure, likely King David, is seated on a throne adorned with a crown and a richly patterned blue robe. He is surrounded by several attendants. To his left stands a bearded man in a red robe and a red cap, accompanied by another man in a blue tunic. To his right, two men stand, one wearing a blue and grey garment and a red cap, and the other in a pinkish tunic and hat. The scene takes place indoors, within a hall or chamber, indicated by the presence of columns, a window with diamond-shaped panes, and a patterned carpet. A harp is visible on the carpet in the foreground, alluding to David's musical talents.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0347.jp2/4457,4139,1231,1472/full/0/default.jpg"
+}

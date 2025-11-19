@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, with a golden halo, rides a donkey, cradling the Christ Child, who is also haloed. She wears a blue mantle over a gold-trimmed garment. Beside them walks a bearded man, presumably Saint Joseph, also haloed, wearing a blue hood and a red cloak over a blue tunic. He carries a staff over his shoulder with a white bundle tied to it. The figures are set against a landscape with rolling hills, trees, and a winding path. In the background, a stylized city with towers and domes is visible, suggesting their destination or a place they are passing by. The entire scene is framed by decorative borders.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8538808p/f190/983,281,1302,2220/full/0/default.jpg"
+}

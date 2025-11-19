@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. To his left stands a bearded man wearing a hat and holding a staff, possibly a Roman soldier or a bystander. To Christ's right are two women, one with her hands clasped in prayer, likely the Virgin Mary, and another figure, possibly Mary Magdalene. The figures are framed by architectural elements that suggest a stylized representation of a building or a niche, with decorative pinnacles and arches.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pinnacle",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0035/614,1948,715,1128/full/0/default.jpg"
+}

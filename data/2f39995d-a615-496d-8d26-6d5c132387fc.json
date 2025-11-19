@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, identifiable by her halo, seated and engaged in spinning wool. Beside her, two other women are also present, one in a green gown and the other in a red gown, seemingly interacting with each other or the spinning process. A young figure, possibly an angel due to the presence of wings, kneels and offers a small orb and a vessel. A small dog is also visible in the foreground. The figures are situated within an architectural setting characterized by a domed structure with arched openings and windows, suggesting an interior space that is partially open or has a view to the exterior. The background is adorned with a rich red tapestry. This scene is likely a representation of the Virgin Mary's domestic life and her piety, possibly alluding to the weaving of Christ's garments or the thread of life.",
+    "scene_interpretation": "The Virgin Mary spinning",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "dome",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100254479/f146/1017,236,1120,1719/full/0/default.jpg"
+}

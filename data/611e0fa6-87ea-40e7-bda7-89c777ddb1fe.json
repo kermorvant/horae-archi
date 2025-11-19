@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, where the Virgin Mary, clad in a blue mantle, is greeted by her cousin Elizabeth, who wears a white veil and a pink gown. Mary's hand rests on her pregnant belly, and Elizabeth's hand is placed on Mary's abdomen in a gesture of recognition and blessing. To the left, a young woman in a red dress holds a blue cloth. The background features a rolling landscape with trees and distant buildings, including a castle-like structure with spires and a windmill on a hill. The overall scene is bathed in the golden light of a radiant sun or divine presence in the upper sky.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515743q/f124/992,561,1016,1170/full/0/default.jpg"
+}

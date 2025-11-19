@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man wearing a red hat and a blue robe trimmed with red and gold sits at a table covered with a white cloth. He is holding a piece of bread in his right hand and appears to be breaking it. On the table are a jug, a cup, pieces of bread, and a knife. The background is a decorative tapestry with a repeating pattern of blue and orange squares. The man's legs are visible beneath the table, clad in blue trousers and dark shoes, and a fire burns at his feet.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000466t/f15/1549,1499,380,637/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a rocky, mountainous landscape under a blue, cloud-filled sky. At the top left, a bearded figure with a halo, likely Christ, gestures with his right hand towards a figure below. This figure, also bearded and wearing a red and green robe, holds an open book in his left hand and a large key in his right. He looks up towards the gesturing figure. Below them, a group of people are gathered, some appearing distressed, and a goat is being led or is struggling amongst them. The overall impression is one of divine communication and earthly turmoil.",
+    "scene_interpretation": "The scene likely represents Christ bestowing authority upon Saint Peter, symbolized by the keys to the Kingdom of Heaven. The presence of the goat and the distressed figures might allude to the challenges and temptations faced by the faithful, or perhaps a specific biblical event involving Peter and a sacrificial animal, such as the vision in Acts 10 where Peter sees all animals declared clean.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f68/489,1485,915,1524/full/0/default.jpg"
+}

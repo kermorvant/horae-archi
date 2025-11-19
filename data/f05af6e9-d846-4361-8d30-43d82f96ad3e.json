@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint, stands in a verdant, grassy field. She has long, blonde hair and wears a green tunic beneath a flowing red mantle. In her left hand, she holds a cylindrical golden vessel, possibly a reliquary or a censer. Her right hand is raised, palm outward, in a gesture of blessing or offering. The background is a rich, patterned tapestry of red and gold, featuring geometric designs and inscribed Latin text, suggesting a devotional context. A radiant halo surrounds her head, indicating her sanctity. The overall impression is one of serene piety and spiritual significance.",
+    "scene_interpretation": "Saint holding a reliquary",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/eaa99768-dd80-40a3-be8f-9ec8927f7576/2365,699,1645,3106/full/0/default.jpg"
+}

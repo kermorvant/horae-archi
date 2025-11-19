@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, in a blue mantle adorned with gold, kneels with hands clasped in prayer before the Christ Child, who lies in a manger radiating golden light. To the right, Saint Joseph, in a red robe and blue cloak, holds a candle. Behind them, two figures, possibly shepherds, are visible in the background, looking towards the child. To the left, a horse and an ox are partially visible, suggesting the stable setting. The architectural elements are minimal, with a suggestion of a wooden structure or stable wall.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_007v.jp2/2373,5892,2814,1539/full/0/default.jpg"
+}

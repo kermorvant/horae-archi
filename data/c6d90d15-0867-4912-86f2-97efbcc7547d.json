@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A jester, dressed in a pink, pointed hat and a pink tunic adorned with bells and fur trim, walks across a green, hilly landscape. He wears orange and blue stockings and dark shoes. He carries a staff topped with a carved skull and holds an apple in his left hand, bringing it to his mouth. A banner unfurls above him, inscribed with the Latin phrase 'non est deus' (there is no god). In the background, a fortified city with towers and crenellated walls is visible on a hill, under a pale blue sky with wispy clouds.",
+    "scene_interpretation": "Blasphemy",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "jester"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0032/bge-lat0032_083r.jp2/670,532,2896,4152/full/0/default.jpg"
+}

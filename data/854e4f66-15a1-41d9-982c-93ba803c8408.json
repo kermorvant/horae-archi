@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, with a halo, is seated on a donkey, holding the Christ Child, who also has a halo. Saint Joseph, also with a halo, walks beside the donkey, holding a staff and a hammer, and looking upwards. The background is a grid pattern, suggesting a stylized or abstract setting, possibly representing a textile or a symbolic representation of space. Decorative borders frame the scene.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_Jacquemart_Andre/751085428_MS0001(254)/DEPOT/751085428_MS0001(254)_0060/923,692,1176,1114/full/0/default.jpg"
+}

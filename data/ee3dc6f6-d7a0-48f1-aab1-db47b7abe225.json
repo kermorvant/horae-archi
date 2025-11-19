@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and bearing the wounds of scourging, carrying a large wooden cross. He is surrounded by several figures. To his left, the Virgin Mary, clad in a blue mantle and pink veil, reaches out to touch the cross, her face etched with sorrow. Other women, also with halos, stand behind her. To Christ's right, several men, some appearing to be soldiers with helmets and armor, push and pull him, one holding a rope tied around his waist. The ground is depicted as a green, grassy landscape with sparse vegetation. In the background, to the left, a fortified building with turrets and arched entrances is visible. To the right, a tree with green foliage stands against a vibrant blue, patterned background.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84496839/f221/451,642,1752,2231/full/0/default.jpg"
+}

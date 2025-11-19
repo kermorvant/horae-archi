@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "In a lush garden setting, Adam lies asleep on the ground, while Eve stands nearby with her hands clasped in prayer. To the right, Christ, identified by his halo, gestures towards them. In the background, a dense forest of trees laden with red apples surrounds a decorative fountain with a Gothic spire. The scene is framed by a decorative border with gold ornamentation.",
+    "scene_interpretation": "The Creation of Eve",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "fountain",
+        "spire"
+    ],
+    "persons": [
+        "Adam",
+        "Eve",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A7F0C4994-C579-11E7-8646-155E6EE4309A%3ADS.256/478,262,1787,2943/full/0/default.jpg"
+}

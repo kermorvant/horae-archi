@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. On the left, a woman with long, wavy hair wears a veil and a flowing cloak. Beside her, a man with a beard and a cap is visible. To the right, another figure, possibly a woman, is shown with hands clasped in prayer, wearing a crown or elaborate headdress and a richly decorated garment. Behind them, architectural elements suggest an interior space, with arches and what appear to be decorative pinnacles or spires of a building. The overall impression is of a formal gathering, possibly within a religious or noble context.",
+    "scene_interpretation": "The scene is not clearly identifiable as a specific biblical or devotional event based solely on the visual information. However, the presence of figures in formal attire, one with hands clasped in prayer, and the architectural backdrop, could suggest a scene of prayer, a procession, or a depiction of saints or noble figures.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pinnacle",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0018/639,3515,727,1278/full/0/default.jpg"
+}

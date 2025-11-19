@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Entombment of Christ, with several figures gathered around a stone sarcophagus. Christ's body, bearing wounds, lies on a white shroud. The Virgin Mary, in a blue mantle, gently touches Christ's face. Other figures, including men in red and blue robes and women in blue and white veils, are shown supporting or lamenting over the body. The setting is outdoors, with a backdrop of trees and a green, grassy ground. The figures are all haloed, indicating their sanctity.",
+    "scene_interpretation": "Entombment of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f248/595,2655,979,929/full/0/default.jpg"
+}

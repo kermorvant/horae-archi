@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ seated on a golden throne, holding an orb in his left hand and gesturing with his right. He is robed in a dark blue garment. Above him, a row of winged figures, likely angels, with red hoods and golden halos, are visible against a blue sky. Below Christ, a body of water separates him from a group of figures in the foreground, who are depicted with golden halos and are facing away from the viewer, suggesting they are in adoration or prayer. The overall setting is opulent and divine, with extensive use of gold leaf.",
+    "scene_interpretation": "Christ Enthroned",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f680/1163,1786,851,2280/full/0/default.jpg"
+}

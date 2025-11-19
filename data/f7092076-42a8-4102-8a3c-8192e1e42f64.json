@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely a beggar or a sick individual, lying on the ground, partially covered by a white cloth. He is looking upwards with his arms crossed. Standing behind him are three figures: a man in a blue and red robe with a green hat, gesturing with his hand; a woman in a green dress; and another figure in a red robe and blue tunic. In the background, a fortified building with towers and orange roofs is visible, along with a wooden scaffolding structure. The overall setting appears to be outdoors, with a hint of a landscape and a bright, sun-like emanation in the sky.",
+    "scene_interpretation": "Job and His Friends",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower",
+        "arch"
+    ],
+    "persons": [
+        "Job"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/68534352/68570324.tif/666,255,1824,2373/full/0/default.jpg"
+}

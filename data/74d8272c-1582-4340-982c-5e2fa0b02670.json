@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The central figure, identified as Christ, is depicted with a halo, long hair, and a beard, wearing a draped robe. He holds a lamb in his left arm and points with his right index finger. To his left, a figure with a halo and a beard, possibly John the Baptist, is shown. To Christ's right, a winged figure, likely an angel, is partially visible. The scene is framed by architectural elements that suggest an arched opening or a niche. The overall composition evokes a devotional or theological theme.",
+    "scene_interpretation": "The Lamb of God, Christ holding the lamb, is a common iconographic representation of Jesus Christ as the sacrificial lamb of God, referencing his role in atonement for sins. The presence of John the Baptist is also typical in scenes related to Christ's ministry and baptism. The winged figure is likely an angel, a common attendant in religious imagery.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "John the Baptist",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0010/5738,1468,614,940/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene is divided into two parts by a dark vertical element, likely a column or frame. On the left, a group of figures are gathered around a table. A woman in a blue robe and white veil holds a swaddled infant, identified by a halo as Christ Child. She is flanked by other figures, including a woman in a red robe and green headdress, and a man in a blue robe and red hat. The text above them reads \"Cest le iour bebe\" (This is the baby day). On the right, a man identified as \"ZAKARIAS\" stands with his hands clasped in prayer before a golden lectern. He wears a blue robe and a red, conical hat. The background on the left depicts an interior space with arched windows and wooden beams. The background on the right shows a similar interior with a large circular motif, possibly a window or decorative element, and a scroll with text. The overall scene depicts the Presentation of Christ in the Temple, with Zacharias on the right likely representing his role in the temple.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "column",
+        "roof",
+        "lectern"
+    ],
+    "persons": [
+        "Christ Child",
+        "Zacharias"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0423.jp2/4277,2494,1309,1428/full/0/default.jpg"
+}

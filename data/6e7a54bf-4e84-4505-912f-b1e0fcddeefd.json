@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity. On the left, God the Father, with a beard and halo, points upwards with his right hand and holds an open book with his left. To his right, Christ, also with a beard and halo, holds a golden orb in his left hand. Above them, the Holy Spirit is represented as a white dove with outstretched wings and a halo, descending from a radiant source. Both figures are seated on blue clouds, and the background is a deep blue with scattered gold motifs. The figures are draped in rich, flowing robes, with God the Father in a red mantle over a grey tunic, and Christ in a grey tunic and a red mantle. The open book suggests divine knowledge or scripture.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_095%2Flewis_e_095_jp2.zip%2Flewis_e_095_jp2%2Flewis_e_095_0270.jp2/488,1847,1690,1680/full/0/default.jpg"
+}

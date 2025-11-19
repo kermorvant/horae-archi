@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony taking place within an architectural setting. In the foreground, five figures in dark, hooded monastic robes are seated, facing away from the viewer. In the middle ground, a red-draped structure, possibly an altar or a tomb, is adorned with a blue band featuring white crosses. Behind this, three figures in white clerical garments stand. One holds a book, another a processional cross, and the third gestures. The background features a patterned red tapestry and a blue-grey wall with a window. The scene is framed by an arched structure and decorative borders.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "window",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://adore.ugent.be/IIIF/images/archive.ugent.be:ACDEC1CE-F244-11E7-B6BF-C49F0AD9BE4D:DS.223/1894,735,1516,2516/full/0/default.jpg"
+}

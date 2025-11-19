@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a distinctive hat with ear flaps, is depicted in profile, seated and facing left. His hands are clasped in his lap. The figure is framed by an architectural border featuring decorative elements and an arch above the figure's head. The scene is rendered in a woodcut style, suggesting a printed book illustration. The overall impression is of a figure of importance, possibly a saint or a biblical character, presented within a decorative architectural context.",
+    "scene_interpretation": "The image likely depicts a figure from religious or historical tradition, possibly a prophet or a saint, presented in a devotional context. The specific iconography, particularly the hat and beard, might allude to a particular individual, but without further context or accompanying text, a precise identification is difficult. The decorative framing suggests it is an initial letter or a vignette within a larger manuscript.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "bearded man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0015/3763,3511,264,1150/full/0/default.jpg"
+}

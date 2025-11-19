@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity, with the Virgin Mary standing to the left, dressed in a blue mantle over a gold gown, gazing downwards. Before her, the Christ Child lies naked on the ground. To the right, an elderly man, likely Saint Joseph, kneels with his hands clasped over his abdomen, wearing a blue robe and a green and red mantle. Behind them, two children stand, one in yellow and the other in white. In the background, a rustic stable structure with a thatched roof is visible, and within its opening, a cow and possibly an ox are present. To the far left, a figure is seen peeking through a window. The setting is outdoors, with a landscape featuring hills and trees under a blue sky.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000005/MAA_00005_085.jpg/1030,793,528,583/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, veiled in blue and adorned with a golden halo, rides a dark horse, holding the Christ Child. The Child, dressed in a red tunic, is also haloed. To the left, Saint Joseph, wearing a grey tunic and a red cap, walks alongside the horse, his hand resting on its back. He has a beard and a serious expression. The background features a green, hilly landscape with a body of water and a distant city with prominent towers and buildings. The ground is depicted as rocky and uneven.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022330b/f152/564,112,977,1508/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A young woman with long, wavy blonde hair, wearing a red gown with gold trim and a jeweled headband, is seated on a throne-like structure. She holds a golden bowl in her right hand and points with her left index finger. The throne is elaborately decorated with gold and features niches containing sculpted figures. To the left of the throne, within a lower niche, a scene depicts several figures in prayer or supplication. Behind the woman, a wooden balustrade separates her from an outdoor landscape. The landscape features a body of water with boats, rolling green hills, and distant buildings, including a prominent tower on a rocky outcrop. The overall scene is framed by a decorative border.",
+    "scene_interpretation": "The scene likely depicts a saint or a devout woman, possibly in contemplation or receiving a divine vision. The bowl could symbolize an offering, a chalice, or a vessel related to her story. The sculpted figures in the niches and the scene below suggest a narrative context, possibly from hagiography or a biblical event. The outdoor landscape with its distant city and tower might represent her earthly life or a symbolic location.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "wall",
+        "roof",
+        "balustrade"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f48/962,1293,3261,3039/full/0/default.jpg"
+}

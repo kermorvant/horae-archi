@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A figure, likely a saint or holy person, is depicted seated outdoors, leaning their head on their hand in contemplation or prayer, with an open book resting on their lap. The figure wears a halo, suggesting sanctity. Behind them, a stylized landscape unfolds with rolling hills and architectural elements resembling towers or buildings, hinting at a settlement or city in the distance. The scene is framed by an ornate, Gothic-style architectural canopy above.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0061/4976,1471,452,971/full/0/default.jpg"
+}

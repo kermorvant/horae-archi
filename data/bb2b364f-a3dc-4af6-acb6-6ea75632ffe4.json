@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely a king or ruler, wearing a crown and elaborate robes, positioned within an architectural niche. To the right, a group of figures, some appearing distressed or in conflict, are shown. One figure, possibly a soldier or guard, is in the foreground, holding or interacting with other individuals. The background features a decorative tapestry or wall hanging with a repeating geometric pattern. The overall composition suggests a narrative event involving authority and possibly violence or subjugation.",
+    "scene_interpretation": "The scene is likely a depiction of a historical or biblical event involving a ruler and his subjects, possibly illustrating a moment of judgment, conflict, or the consequences of a ruler's actions. Without further context or clearer iconography, a specific interpretation is difficult, but it could relate to themes of justice, power, or suffering.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Besançon/Bibliotheque_municipale/B250566101_MS0154/DEPOT/B250566101_MS0154_0091/3529,1008,1074,1218/full/0/default.jpg"
+}

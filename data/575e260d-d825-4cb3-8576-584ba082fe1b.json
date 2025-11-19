@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely a saint, stands in a landscape, holding an open book in his left hand and a grid-like object in his right. He wears a golden robe with red decorative patterns over a white tunic and blue collar. Behind him, to the left, are two towers of a fortified building complex, one with a conical roof and the other with a pitched roof and a weather vane. The landscape features rolling green hills, scattered trees with gold-flecked foliage, and a winding path. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Saint Anthony Abbot",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0367/bge-lat0367_176v.jp2/2501,755,3151,4748/full/0/default.jpg"
+}

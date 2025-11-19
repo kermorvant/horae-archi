@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a raised, cloth-covered surface. A woman in a blue mantle, presumably the Virgin Mary, stands to the left, looking down. To her right, a man with a beard, possibly Joseph, leans forward. Another man, also bearded, stands behind them. In the center, the Christ Child, with a halo, is held by a man in a green robe and red sleeves, who appears to be a bishop or a priest, indicated by his white headdress. The figures are positioned on a red tiled floor. The background is a textured gold leaf, suggesting a divine or ethereal setting. The scene likely represents the Presentation of Christ in the Temple, a significant event in Christian liturgy and devotion.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/62939059/63503431.tif/914,1069,1875,2738/full/0/default.jpg"
+}

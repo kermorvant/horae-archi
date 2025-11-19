@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a rustic setting. The Virgin Mary, with a golden halo, holds the Christ Child on her lap. The Christ Child is reaching for a chalice held by an elderly man kneeling before them. Two Magi are present: one, richly robed in blue and red with a fur collar and a golden crown, stands holding a golden vessel; the other, also crowned and dressed in blue with gold embellishments, stands holding a golden casket. Behind them, a simple, thatched-roof structure is visible. The background features a green landscape with trees and distant blue mountains under a sky with a blue celestial orb. The overall scene is framed by an arched border with gold illumination.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/my189pm5441%2FW202_000199_1200/881,1981,1400,2003/full/0/default.jpg"
+}

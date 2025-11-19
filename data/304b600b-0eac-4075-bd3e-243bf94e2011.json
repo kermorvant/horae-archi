@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ seated on a golden throne, holding a globe in his left hand and raising his right hand in a gesture of blessing. He is robed in white with pink accents. Below him, a multitude of figures, possibly angels or the blessed, are gathered. Some are playing musical instruments, including a lute and a portative organ. The background is a deep blue sky with a crescent moon and scattered clouds. The entire scene is framed by an ornate, gilded architectural border with columns and arches, suggesting a divine or heavenly setting.",
+    "scene_interpretation": "The Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f178/1394,1479,917,2619/full/0/default.jpg"
+}

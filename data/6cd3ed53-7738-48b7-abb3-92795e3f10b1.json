@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Raising of Lazarus. Christ, with a halo, stands in the center, gesturing towards a emaciated figure emerging from a tomb. This figure, also with a halo, is wrapped in a white shroud and has his hands clasped in prayer. He is kneeling in a grave pit. Behind Christ, a group of disciples and onlookers observe the miracle. To the left, two figures in medieval attire stand near a shovel, one with his hand to his mouth, perhaps in awe or disbelief. In the background, a hilly landscape is dotted with trees and features a prominent castle with towers and a walled enclosure, suggesting a setting outside a town or city. A smaller church-like building is visible in the distance.",
+    "scene_interpretation": "Raising of Lazarus",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle",
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Lazarus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00113507_00312/194,192,1346,1908/full/0/default.jpg"
+}

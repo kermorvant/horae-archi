@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in what appears to be an architectural setting. On the left, a bearded man wearing a hat holds a book. He is dressed in a robe and cloak. On the right, a woman, also in a hooded garment, holds a long staff or cross-like object, her hands clasped around it. Behind them, architectural elements suggest buildings with arched openings and decorative details. The overall style is that of a woodcut or engraving, typical of early printed Books of Hours.",
+    "scene_interpretation": "This scene likely represents a biblical or hagiographic narrative. The man with the book could be a prophet or a scholar, while the woman with the staff might be a saint or a figure associated with a pilgrimage or a significant religious event. Without further context or clearer iconography, a precise interpretation is difficult, but the presence of a book and a staff suggests a narrative involving knowledge, faith, or a journey.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0064/865,3539,714,1090/full/0/default.jpg"
+}

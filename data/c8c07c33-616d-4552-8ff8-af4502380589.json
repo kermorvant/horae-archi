@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a procession entering a walled city. A central figure, likely a woman, rides a donkey adorned with a richly patterned blue cloth. She is surrounded by other figures, some looking out from within the city walls and others observing from the ramparts. The city is characterized by brick buildings with tiled roofs and a prominent tower with a cross, suggesting a religious or fortified settlement. The overall impression is one of arrival or entry into a significant location.",
+    "scene_interpretation": "Entry into Jerusalem",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "fortification_wall",
+        "roof",
+        "tower",
+        "door",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS0845/DEPOT/786466101_MS0845_0077/4143,995,1785,2255/full/0/default.jpg"
+}

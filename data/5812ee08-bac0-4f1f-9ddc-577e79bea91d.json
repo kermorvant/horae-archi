@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a crowned figure, likely a saint or a royal personage, seated next to a wheel, holding a book. To the right, an angelic figure with wings offers a book to the seated figure. Behind them, a stylized city with towers and buildings is visible, set against a background of foliage and a radiating sun or divine light within an arched frame. The overall composition suggests a scene of divine inspiration or contemplation, possibly related to a saint's life or a biblical narrative.",
+    "scene_interpretation": "Saint Catherine",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Saint Catherine",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f223/1181,565,1018,1315/full/0/default.jpg"
+}

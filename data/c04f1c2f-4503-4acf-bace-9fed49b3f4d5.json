@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. The Angel Gabriel, adorned in a red and gold robe, kneels and points towards the Virgin Mary, who is also kneeling with her hands clasped in prayer. A book lies open on a green cloth between them. Above, a dove, representing the Holy Spirit, descends with rays of light towards Mary. The background features architectural elements, including what appears to be a niche with a sculpted figure, and a canopy draped in red fabric over Mary. The floor is tiled in a checkerboard pattern.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53014820r/f25/203,123,710,1182/full/0/default.jpg"
+}

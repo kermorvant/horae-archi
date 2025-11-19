@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts an angelic figure with wings and a halo, inscribed with the text \"GLORIA IN EXCELSIS DEO ET\", gesturing towards a pastoral landscape. Below the angel, three shepherds are shown tending to a flock of sheep. One shepherd, seated, looks upwards, while another stands and points, and a third, also standing, appears to be conversing. In the background, a town with a prominent tower and other buildings is visible. The entire scene is framed by an ornate, arched architectural border, suggesting a manuscript illumination.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0037/1371,683,1808,2478/full/0/default.jpg"
+}

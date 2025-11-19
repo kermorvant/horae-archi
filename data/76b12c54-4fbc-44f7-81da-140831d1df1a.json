@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, clad in a blue robe, kneels with hands clasped in prayer before the Christ Child, who lies in a manger radiating a golden halo. To the right, an elderly man, likely Saint Joseph, kneels in adoration, his head bowed. Behind him, a woman in a pink garment also prays. The stable itself is constructed of rough wood with a thatched roof, and an ox and donkey are visible within its enclosure. The background features stylized green hills and trees under a blue sky.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ott.lat.2919/Ott.lat.2919_0196_fa_0094v.jp2/479,413,488,643/full/0/default.jpg"
+}

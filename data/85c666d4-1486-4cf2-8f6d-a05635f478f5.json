@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "A haloed man with a long beard, dressed in a white robe with gold trim, sits at a wooden lectern, writing with a quill. Beside him stands a winged bull, its head turned towards the man. The scene is set within an architectural space with a tiled floor and columns visible in the background, through which a distant landscape with buildings can be seen. This imagery represents Saint Luke, one of the Four Evangelists, accompanied by his traditional symbol, the bull, as he writes his Gospel.",
+    "scene_interpretation": "Saint Luke Writing the Gospel",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "roof",
+        "door",
+        "arcade"
+    ],
+    "persons": [
+        "Saint Luke",
+        "Bull"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f19/319,348,2010,2929/full/0/default.jpg"
+}

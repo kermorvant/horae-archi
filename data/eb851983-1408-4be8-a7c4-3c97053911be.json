@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely a saint, stands with a beard and a cap, holding a small scroll or tablet in his left hand and a bird perched on his right hand. He wears a hooded cloak over a tunic and hose. The figure stands on a patterned floor composed of black and white triangles. The background consists of text, suggesting this is an illustration from a manuscript. The presence of a bird and the saintly depiction strongly suggest an iconographic representation of Saint Francis of Assisi, known for his affinity with animals.",
+    "scene_interpretation": "Saint Francis of Assisi",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Francis of Assisi"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f520/902,611,911,1057/full/0/default.jpg"
+}

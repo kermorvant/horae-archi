@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, an angel, identified by wings and a halo, kneels and presents a scroll to the Virgin Mary, who is seated on the right. The angel is dressed in a pink robe and has hands clasped in prayer. The Virgin Mary, also with a halo, wears a blue robe and holds an open book in her lap, with her hands also in a gesture of prayer or contemplation. The background features red drapery and architectural elements, including arches and columns, suggesting an interior space. Above the main figures, a smaller scene shows a bearded figure holding a sphere.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_012/DEPOT/762595409_A_10_012_0021/3780,471,1592,2158/full/0/default.jpg"
+}

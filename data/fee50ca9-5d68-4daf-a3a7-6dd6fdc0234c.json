@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a royal courtly gathering within an arched architectural setting. A king, seated on a throne adorned with red and gold fabric, wears a crown and holds a scepter. To his left, a man in a red robe and a blue cap, and another in a blue robe and a red cap, are engaged in conversation or presentation. To the king's right stands a woman in a blue gown and a red overgarment, with a halo, suggesting a saintly or royal figure of importance. The floor is tiled in a green and white checkered pattern. Through an archway on the right, a landscape with a tree and rolling hills is visible, indicating an outdoor space beyond the interior.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "King",
+        "Man",
+        "Man",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1509/DEPOT/352386106_MS1509_0031/1260,617,1514,1979/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A man and a woman stand facing each other, holding hands. The woman wears a dark veil over her hair, a red dress with puffed sleeves, and a necklace. The man is dressed in a blue tunic, a purple cloak with fur trim, and a red hat. They are depicted outdoors against a backdrop of lush green foliage and a blue sky. Their gestures and proximity suggest an intimate or affectionate interaction. The scene is rendered in a stylized, miniature format typical of illuminated manuscripts.",
+    "scene_interpretation": "courtship",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "man",
+        "woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_008r.jp2/799,927,1854,1506/full/0/default.jpg"
+}

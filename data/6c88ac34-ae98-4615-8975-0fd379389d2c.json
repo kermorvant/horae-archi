@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, in a blue robe and golden mantle, kneels with her hands clasped in prayer before the Christ Child, who lies in a manger. Saint Joseph, with a halo and praying hands, stands to the right. A donkey and an ox are present in the foreground. Behind them, a rustic wooden structure with a thatched roof is visible, and beyond that, a walled city with towers and spires is depicted in the distance. Above, angels sing \"Gloria in excelsis Deo\" from a scroll.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f129/571,395,927,1761/full/0/default.jpg"
+}

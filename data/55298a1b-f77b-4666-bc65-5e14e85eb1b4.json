@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Arrest of Christ. Jesus, with a halo, is being apprehended by a group of men. One man, also with a halo, is shown raising a sword as if to strike. Another figure in red and yellow robes is holding Jesus. Several other figures, some wearing turbans and armor, surround them. One man in armor is stepping forward, while another lies on the ground. In the background, there is a wooden fence with a gate, trees, and a hilly landscape under a blue sky with birds. The overall setting appears to be an outdoor area, possibly a garden or courtyard, with some rudimentary architectural elements.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Christ",
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537214/46195312.tif/951,647,1860,2921/full/0/default.jpg"
+}

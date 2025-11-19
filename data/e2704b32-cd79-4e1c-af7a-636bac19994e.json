@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a stable-like structure. The Virgin Mary, with a halo, holds the Christ Child on her lap. The Christ Child, also with a halo, points towards a chest filled with gold offered by one of the three Magi who kneels before them. The other two Magi stand behind, one bearded and wearing a crown and blue robe, the other younger, also crowned, and dressed in green. A horse is visible in the background within the structure. The setting is an outdoor landscape with hills and distant buildings, under a blue sky with a star. The architectural elements are minimal, suggesting a humble dwelling.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xj035pj4779%2FW282_000128_1200/4969,740,3777,4981/full/0/default.jpg"
+}

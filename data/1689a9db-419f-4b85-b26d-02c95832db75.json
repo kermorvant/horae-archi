@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A woman with long, flowing blonde hair, dressed in a rose-colored robe, is depicted kneeling with her hands clasped in prayer. She is seated on the back of a dark, quadrupedal creature with long ears and a tail, rendered with gold highlights. The scene unfolds in a verdant landscape with rolling hills, scattered trees, and a rocky outcrop on the left. In the background, a body of water is visible, beyond which lies a fortified city with towers and walls. The overall impression is one of a devotional scene set in a pastoral environment with a distant urban settlement.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN321296575/files/images/00000362.tif/1160,1706,803,859/full/0/default.jpg"
+}

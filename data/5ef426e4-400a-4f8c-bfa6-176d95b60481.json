@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "In a verdant landscape, an elderly, bearded man in a grey robe, barefoot, holds a hammer and appears to be striking a rock or stone. Before him, a younger figure, also barefoot and clad in brown, kneels and gently strokes a white sheep. Behind the kneeling figure, two youths with staffs stand observing. Further back, three bearded men in distinct headwear and robes are positioned, looking towards the central action. In the distance, a fortified city with crenellated walls and towers is visible against a blue sky, with rocky formations in the background.",
+    "scene_interpretation": "Saint Anthony Abbot and the Temptation of the Pig",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "battlement"
+    ],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892174/734,185,1358,2658/full/0/default.jpg"
+}

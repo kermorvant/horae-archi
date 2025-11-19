@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "An angel with red wings and a red tunic descends from the sky, holding a white ribbon. Below, two bearded men in medieval attire are depicted in a pastoral landscape. The man on the left, wearing a blue robe and a red mantle, gestures with his right hand. The man on the right, in a blue tunic and a brown mantle, holds a staff and gestures with his left hand. Several white sheep graze in the middle ground. In the background, a large, pink castle with multiple towers and spires dominates the horizon, set against rolling green hills and a blue sky.",
+    "scene_interpretation": "The scene likely depicts the Calling of Saint Matthew, where Jesus calls Matthew to be one of his disciples. The angel might represent divine intervention or guidance, and the castle could symbolize the worldly realm from which Matthew is being called, or perhaps the Church itself.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Angel",
+        "Saint Matthew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sw741tz6027%2FW177_000128_1200/3203,2509,1443,2253/full/0/default.jpg"
+}

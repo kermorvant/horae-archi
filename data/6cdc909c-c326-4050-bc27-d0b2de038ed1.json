@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a stable-like structure, framed by an ornate, arched canopy. In the foreground, the Christ Child lies swaddled in a manger, attended by the Virgin Mary, who is dressed in a blue mantle and red tunic, and Saint Joseph, who wears a hooded cloak over a red garment. A cow and a donkey are positioned behind the manger, their heads bowed. The background reveals a pastoral landscape with rolling hills and scattered trees under a blue sky with clouds from which rays of light descend. The entire scene is bordered by decorative elements characteristic of illuminated manuscripts, including floral motifs and gold leaf.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025549k/f118/612,116,1047,1527/full/0/default.jpg"
+}

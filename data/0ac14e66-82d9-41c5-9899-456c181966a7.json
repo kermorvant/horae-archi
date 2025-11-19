@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in front of a building with red tiled roofs and arched windows, set against a backdrop of blue and gold patterned fabric. In the foreground, a man in a pink robe, identified as Christ, holds a chalice and appears to be speaking or gesturing. To his left, a man in a red robe holds a book. To Christ's right, a man in a yellow robe with a blue hood points outwards, addressing a group of onlookers. Below them, a man in a blue tunic and red hose lies prostrate, supported by another figure in a green tunic. The architectural elements suggest a town or city setting, with the patterned fabric possibly representing an interior or a decorative screen.",
+    "scene_interpretation": "Christ Healing the Blind",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f582/689,667,1887,2577/full/0/default.jpg"
+}

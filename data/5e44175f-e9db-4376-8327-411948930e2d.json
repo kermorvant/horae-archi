@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity in a \"Throne of Grace\" composition. God the Father, depicted as an elderly man with a beard and halo, sits on a stone throne, holding the crucified Christ. The Holy Spirit is represented by a dove flying towards God the Father's head. Christ is shown on the cross, with his body appearing lifeless. The background is a dark, decorative pattern of swirling foliage. The figures are rendered in a stylized, medieval manner, with emphasis on symbolic representation rather than naturalism. The overall impression is one of solemnity and divine authority.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f237/489,640,894,1135/full/0/default.jpg"
+}

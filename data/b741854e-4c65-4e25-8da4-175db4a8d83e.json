@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the Virgin Mary cradling the body of Jesus, who lies on a draped surface. Several figures surround them, some appearing to mourn or support the deceased. The central group is framed by an architectural element resembling a niche or a stylized archway, with decorative elements suggesting a sacred or monumental setting. On the left and right, figures in distinct attire stand within similar architectural frames, observing the central event. The overall composition is rendered in a woodcut style, with strong outlines and hatching to create shading.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0047/1686,3688,1654,683/full/0/default.jpg"
+}

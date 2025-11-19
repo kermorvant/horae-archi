@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ centrally positioned on the cross, wearing a loincloth and a golden halo. Two thieves are crucified on either side of him. Below, a group of figures are gathered. On the left, the Virgin Mary, draped in a blue mantle, is shown in mourning, accompanied by other women. On the right, a group of men, some in armor and one wearing a distinctive red and white conical hat, are present. In the background, a walled city with towers and trees is visible. A skull and bones are depicted in the foreground, a common symbol of Golgotha.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021255p/f251/330,132,999,1537/full/0/default.jpg"
+}

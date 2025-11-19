@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A haloed woman, likely the Virgin Mary, dressed in a golden tunic and white veil, holds a white cloth adorned with decorative lines. She is presenting the cloth, which drapes down to reveal the head of Christ, wearing a crown of thorns. The background is a deep blue with scattered gold circular motifs.",
+    "scene_interpretation": "Veil of Veronica",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154676/f241/234,525,756,834/full/0/default.jpg"
+}

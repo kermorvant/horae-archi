@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely God the Father, wearing a bishop's miter and holding a crown, gesturing with his right hand. Before him kneels the Virgin Mary, hands clasped in prayer, with an angel standing behind her. Another angel is shown above, reaching down to place a crown on the Virgin's head. The figures are set against a green, patterned backdrop, with a golden sunburst radiating from the upper left. The seated figure is positioned on a raised platform with steps, suggesting a throne-like setting.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "stairs",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_073/DEPOT/M490075203_MS2003_1_073_0102/2230,1437,806,877/full/0/default.jpg"
+}

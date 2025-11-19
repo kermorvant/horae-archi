@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A bearded man, likely a hermit or saint, kneels in prayer with his hands clasped and eyes raised towards the sky. He is dressed in a dark, ornate robe. Behind him, a decorative fence separates him from a courtyard where a bird stands. In the background, several buildings are depicted, including a prominent house with a stepped gable and multiple windows. The scene is set outdoors, with a suggestion of a cloudy sky.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "roof",
+        "gable"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_MS0091/DEPOT/330636101_MS0091_0065/941,637,1570,2277/full/0/default.jpg"
+}

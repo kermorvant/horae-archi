@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Luke by the presence of his attribute, the ox, is depicted writing in a book. He wears a red robe with gold trim and a blue cloak, and a purple cap. A halo surrounds his head, indicating his sainthood. He is seated on a throne-like structure draped with a green cloth. To his right, an ox with a halo lies on the floor, which is tiled in a checkered pattern. The background is dark and striated, suggesting an interior space, possibly a study or scriptorium. The scene is framed by a decorative border.",
+    "scene_interpretation": "Saint Luke Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/br791wh6450%2FW435_000045_1200/127,3868,1453,1979/full/0/default.jpg"
+}

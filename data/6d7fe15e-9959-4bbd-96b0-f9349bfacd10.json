@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts Saint Andrew, identifiable by the inscription on his garment and the saltire cross he carries. He is shown in an outdoor setting, with a rocky outcrop behind him and a distant blue mountain range under a pale sky. He wears a white tunic, a richly decorated golden stole with red trim, and a vibrant blue mantle. In his left hand, he holds an open book. The scene is framed by a decorative border on the left, typical of illuminated manuscripts.",
+    "scene_interpretation": "Saint Andrew",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Andrew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_276/267,1075,533,849/full/0/default.jpg"
+}

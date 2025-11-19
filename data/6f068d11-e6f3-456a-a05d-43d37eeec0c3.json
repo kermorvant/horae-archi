@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his arms outstretched and bleeding. Two figures, possibly thieves, are also crucified on either side of him. Below the cross, a group of mourners are gathered, some weeping and others looking on with distress. The background is a rich blue patterned textile, suggesting a devotional or symbolic setting rather than a literal landscape. The entire scene is framed by an elaborate border with geometric and foliate motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Thief"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f233/492,481,1785,1909/full/0/default.jpg"
+}

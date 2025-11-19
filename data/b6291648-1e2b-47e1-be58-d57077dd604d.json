@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the body of Christ after his crucifixion. Christ's body, showing wounds from the crucifixion, is laid across Mary's lap. To the left, a figure, likely John the Evangelist, supports Christ's head. Behind Mary, a large cross is visible, with the inscription 'I.N.R.I.' at the top. The background is a stylized landscape with thorny branches, and the figures are set against a golden, patterned backdrop. The overall composition evokes a sense of sorrow and divine sacrifice.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.19%2F173_B.11.19_f157v-f158r.jpg/2780,629,771,1060/full/0/default.jpg"
+}

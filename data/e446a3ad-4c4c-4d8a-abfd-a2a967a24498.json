@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a woman, possibly Bathsheba, bathing in a decorative pool, with water cascading from a fountain. She is adorned with a necklace and a cross pendant. To her left, another woman, likely a servant, holds a platter of bread and a mirror. In the background, a king, identifiable by his crown and scepter, observes the scene from an arched opening. Beyond them, a fortified castle with multiple towers and spires dominates the landscape, with a distant city visible on the horizon. The overall setting suggests a royal or noble context, possibly a private garden or courtyard adjacent to a castle.",
+    "scene_interpretation": "Bathsheba bathing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "fountain",
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "King David",
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/0993f396-4072-49b6-a1af-19f1b09b904d/836,483,1578,2434/full/0/default.jpg"
+}

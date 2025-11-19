@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The image depicts a single figure, a bearded man wearing a cap and a robe, holding a book. He is framed by decorative architectural elements, including what appears to be a pointed arch above him and ornamental tracery. The lower portion of the image shows a frieze-like band with repeating arched motifs. The overall style suggests a woodcut illustration, likely from a printed book.",
+    "scene_interpretation": "This is a depiction of a prophet or a biblical figure, possibly a saint or an apostle, as indicated by the book, which often symbolizes scripture or divine wisdom. The architectural framing suggests a context of religious importance or contemplation.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0098/3397,431,263,2156/full/0/default.jpg"
+}

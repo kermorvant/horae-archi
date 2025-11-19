@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Christ being carefully laid into a sarcophagus. Several figures, identifiable as mourners and disciples, surround the body, expressing grief through gestures and postures. Christ's body, pale and lifeless, is supported by figures, one of whom kisses his wounds. The Virgin Mary, in blue, cradles his head. The background is a rich blue with decorative foliage and birds, suggesting a stylized, perhaps heavenly, setting. The sarcophagus itself is rendered in a light blue-green hue, with a textured base. The overall composition is one of profound sorrow and reverence.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f196/764,619,1053,1349/full/0/default.jpg"
+}

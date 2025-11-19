@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within a church interior. A group of monks, clad in black habits with hoods, are gathered on the left, their faces showing solemn expressions. On the right, a priest or bishop, distinguished by his ornate blue and gold vestments and a mitre-like head covering, stands holding an open book and appears to be leading the service. Behind him, other clerics in similar attire are visible. The background features architectural elements suggestive of a church, including arched windows with tracery and a red tapestry or altar cloth. In the foreground, a blue and gold decorated structure, possibly a sarcophagus or reliquary, is prominent.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Monk",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_du_Saulchoir/751135401_RES_MSC10/DEPOT/751135401_RES_MSC10_0070/3045,729,1311,1918/full/0/default.jpg"
+}

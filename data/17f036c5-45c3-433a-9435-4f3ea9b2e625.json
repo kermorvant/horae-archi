@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, dressed in blue, is seated on a raised platform, holding the Christ Child. Three Magi, identifiable by their crowns and gifts, approach them. One Magus, kneeling in the foreground, offers a vessel. Two other Magi stand behind him, one holding a flask and the other a golden vessel. Behind the figures, a simple wooden stable structure is visible, along with rocky terrain and stylized trees. The background features a patterned textile, suggesting an indoor or decorated setting. The overall composition conveys the reverence and homage paid to the newborn King.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00058/449,295,931,1308/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo, carrying the cross. He is surrounded by several figures, some of whom appear to be soldiers or tormentors, one of whom gestures upwards. The ground is uneven and rocky, with some scattered debris. The figures are rendered in a monochromatic style with touches of color on the cross and some details of clothing and armor. The background is a gradient of blue, suggesting a sky.",
+    "scene_interpretation": "Christ Carrying the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kb564yr3366/W165_000044_300/299,334,736,993/full/0/default.jpg"
+}

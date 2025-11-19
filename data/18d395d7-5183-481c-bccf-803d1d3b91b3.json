@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ Child in the Temple. The Virgin Mary, dressed in blue, kneels and presents the infant Jesus to an elderly man, likely Simeon, who is holding the child. Behind Mary, a group of women, possibly including other holy women or attendants, look on with reverence. To the right, another elderly man, possibly a priest or prophet, stands with a lantern and a staff, wearing a red cloak and a black hat. The background suggests an interior architectural setting with pink walls, arched openings, and windows with tracery. A green canopy with a red, crown-like finial hangs above the central figures, suggesting a sacred space within the temple.",
+    "scene_interpretation": "Presentation of Christ Child in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10532608h/f188/784,290,871,1240/full/0/default.jpg"
+}

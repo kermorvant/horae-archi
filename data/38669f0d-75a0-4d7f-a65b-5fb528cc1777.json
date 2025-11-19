@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A regal figure, likely a king or emperor, is depicted seated on an ornate, green-cushioned throne. He wears a richly decorated crown and a blue mantle over a white tunic adorned with a black cross pattern. In his right hand, he holds a scepter, and in his left, a book or scroll. The background is a vibrant red with intricate gold ornamentation, suggesting a lavish setting. The throne itself is elaborate, with architectural elements suggesting a canopy or a structured enclosure. The floor is tiled in a black and white diamond pattern. The overall impression is one of power, authority, and religious significance, possibly representing a royal saint or a king in a devotional context.",
+    "scene_interpretation": "Royal Enthronement",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525095563/f324/1775,1360,2318,2890/full/0/default.jpg"
+}

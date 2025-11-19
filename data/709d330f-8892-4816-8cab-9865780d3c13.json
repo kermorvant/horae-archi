@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a red tunic and a blue outer garment, kneels with his hands clasped in prayer. He wears a red, striped cap. Behind him, to the left, is a grey building with red trim and vertical lines, possibly representing windows or decorative elements. To the right of this building, a taller, crenellated tower with red accents rises. Further to the right, a smaller building with a blue roof is visible. The background depicts a blue sky with a stylized sun emitting golden rays, and a green landscape with rounded bushes. In the foreground, a dark, curved element, possibly part of a wheel or a cart, is depicted.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "battlement"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0130/DEPOT/315556101_MS0130_0107/2132,1277,1297,2255/full/0/default.jpg"
+}

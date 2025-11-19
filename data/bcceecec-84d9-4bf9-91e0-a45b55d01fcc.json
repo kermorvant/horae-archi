@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape under an arched frame adorned with floral motifs and gold leaf. In the foreground, a flock of sheep grazes, accompanied by a dog. Two shepherds, one kneeling and looking upwards with clasped hands, and another reaching out towards a seated woman, are present. The woman, dressed in a blue gown, holds a lamb. Above them, an angel with wings outstretched hovers, unfurling a scroll that reads \"Gloria in excelsis Deo\". The background features rolling hills and a rocky outcrop.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/62939064/63503719.tif/661,408,1696,2564/full/0/default.jpg"
+}

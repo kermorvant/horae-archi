@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and the wounds of crucifixion on his hands, feet, and side, reaching out to rescue a soul from hell. He is robed in pink and holds a cross staff. The soul, an elderly man with a beard, emerges from a fiery pit, his hands clasped in supplication. Behind him, other souls are visible, some engulfed in flames. To the right, a monstrous, multi-eyed demon looms, representing the forces of hell. The background is a stylized green landscape, suggesting the earthly realm from which Christ is descending to the underworld.",
+    "scene_interpretation": "Harrowing of Hell",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Soul from Hell",
+        "Demon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sy560zv0718/W918_000302_300/362,370,637,1050/full/0/default.jpg"
+}

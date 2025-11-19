@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue robe, being greeted by Elizabeth, who wears a pink mantle over a blue dress and a white veil. An angel, clad in a golden robe, stands to the left of Mary, with hands clasped in prayer. The figures are set in an outdoor landscape with rolling hills, trees, and a rocky outcrop. In the background, a body of water reflects a city with prominent towers and spires, suggesting a distant urban setting. Golden rays emanate from above, illuminating the scene.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0032/DEPOT/352386106_MS0032_0050/1471,575,1227,2055/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael, clad in armor and with feathered wings, standing over a dragon-like creature. He holds a spear in his right hand, poised to strike, and a shield in his left. The background features an arched architectural element, suggesting a divine or sacred space. The overall composition portrays the triumph of good over evil, a common theme associated with Saint Michael.",
+    "scene_interpretation": "Saint Michael Slaying the Dragon",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0091/4124,707,702,1028/full/0/default.jpg"
+}

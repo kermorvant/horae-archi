@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Two angels, depicted with wings and halos, blow trumpets from above. Below them, figures emerge from open sarcophagi, some with their arms raised in supplication or awe. The scene appears to be set in a graveyard or a place of burial, with the sarcophagi forming the foreground. The overall imagery suggests a resurrection or a divine judgment.",
+    "scene_interpretation": "The Last Judgment",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Pal.lat.537/Pal.lat.537_0269_fa_0134r.jp2/421,1886,966,441/full/0/default.jpg"
+}

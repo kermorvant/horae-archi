@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer on a grassy, hilly landscape, with a body of water and distant hills in the background. Above him, an angel descends from the sky, radiating golden light and holding a branch. In the foreground, another man, wearing a red cap and a tunic with the inscription \"ORGVL\", rides a lion. Scattered on the ground are symbols of royalty: a crown, a scepter, and a pair of tongs. The overall composition suggests a narrative of divine intervention or a saintly figure's triumph over adversity, possibly related to themes of faith, power, or judgment.",
+    "scene_interpretation": "Saint Jerome in the Wilderness",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Jerome",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85397092/f25/255,330,1314,1705/full/0/default.jpg"
+}

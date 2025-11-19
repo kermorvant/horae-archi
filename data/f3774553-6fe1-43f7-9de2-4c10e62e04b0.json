@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a man, emaciated and lying on the ground, covered only by a white cloth around his waist. He has a long white beard and hair, and his body shows signs of suffering. He is attended by a group of figures. One figure, dressed in a purple robe and cowl, kneels with hands clasped in prayer. Another figure, in a brown tunic and cap, points towards the emaciated man, possibly indicating him to the others. Behind them, two other figures in blue and green attire observe. In the background, a city with towers and walls is visible on a hill, under a sky from which divine rays descend. To the left, a building with a pointed roof and arched windows, possibly a church or a castle, is depicted.",
+    "scene_interpretation": "The scene likely represents the parable of Lazarus and the rich man, where the beggar Lazarus lies at the gate of the rich man's house, suffering and hoping for scraps. The divine rays suggest divine intervention or observation. The presence of the praying figure in religious attire could represent a saint or a devout individual interceding or witnessing the suffering.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "tower",
+        "window"
+    ],
+    "persons": [
+        "Lazarus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_126%2Flewis_e_126_jp2.zip%2Flewis_e_126_jp2%2Flewis_e_126_0106.jp2/898,1069,3043,4732/full/0/default.jpg"
+}

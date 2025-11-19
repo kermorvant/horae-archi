@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "A king kneels in prayer before a priest who stands at an altar. The king, wearing a crown and a grey robe with ermine trim, holds an open book. The priest, dressed in a richly decorated blue chasuble, gestures with his hands as if in blessing or prayer. Behind the priest is an altar with two open books and a chalice. To the left, a group of clerics, one reading from a lectern, observe the scene. The background is a red textile with a repeating geometric pattern, and the scene is framed by an ornate, quatrefoil-shaped border.",
+    "scene_interpretation": "The scene likely depicts a royal figure receiving a blessing or participating in a religious ceremony, possibly a Mass or a private devotion. The presence of the priest, altar, books, and chalice strongly suggests a liturgical context. The king's kneeling posture and open book indicate piety and engagement with the religious ritual.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "altar",
+        "lectern",
+        "book",
+        "chalice",
+        "wall"
+    ],
+    "persons": [
+        "king",
+        "priest",
+        "clerics"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f348/710,582,719,861/full/0/default.jpg"
+}

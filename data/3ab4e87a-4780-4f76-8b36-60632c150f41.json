@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A woman with a halo, dressed in a blue tunic and a brown mantle, kneels on the ground, writing on a scroll. She has long, blonde hair and is looking down at her work. To her right, a golden eagle with outstretched wings holds a small object in its beak. The background depicts a rocky landscape with trees and a body of water, suggesting an outdoor setting. The presence of the halo and the eagle, a traditional attribute of Saint John the Evangelist, indicates a religious scene.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Caen/Musee_des_Beaux_Arts/141185204_coll_mancel_ms0238/DEPOT/141185204_coll_mancel_ms0238_0014/1091,888,1505,2453/full/0/default.jpg"
+}

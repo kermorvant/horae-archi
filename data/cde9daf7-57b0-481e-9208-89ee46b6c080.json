@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "A man, likely a king or noble given his attire and crown, kneels in prayer with his hands clasped. He is positioned within an architectural setting that includes a large arched opening. To his left, through this opening, a fortified city with multiple towers and crenellations is depicted under a dark, cloudy sky from which divine rays emanate, suggesting a divine presence or blessing. To his right, a series of tall, narrow windows with tracery are visible, indicating an interior space. An open book lies on a surface near the kneeling figure, and a candle holder with a candle is also present. The scene likely represents a moment of devout contemplation or supplication.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "battlement",
+        "crenellation",
+        "undefined_element"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_MS0094/DEPOT/330636101_MS0094_0074/1117,687,1247,1819/full/0/default.jpg"
+}

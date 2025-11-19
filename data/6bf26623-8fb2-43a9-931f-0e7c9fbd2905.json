@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and bleeding from his wounds. To his left stands the Virgin Mary, draped in a blue mantle and with her hands clasped in sorrow. To his right is a younger figure, likely Saint John the Evangelist, also in blue and red garments, with his hand extended. The background is a landscape with rolling hills and a blue sky. The figures are rendered with delicate brushstrokes and highlighted with gold leaf.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_213v.jp2/2640,3772,1948,2185/full/0/default.jpg"
+}

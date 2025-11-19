@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, where the Virgin Mary, clad in a blue mantle and golden trim, is greeted by Saint Elizabeth, who is kneeling and wearing a pink robe and white veil. Mary is accompanied by a group of figures, including a man in a pink tunic and blue hat, and two women. Elizabeth is attended by two women in red and blue attire. The figures are positioned in an outdoor setting with rolling green hills and stylized trees. In the background, a city with towers and spires is visible, suggesting a town or urban environment. To the right, a classical architectural structure with arches and columns frames the scene, hinting at a more formal or sacred space.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550098895/f58/399,341,1455,1840/full/0/default.jpg"
+}

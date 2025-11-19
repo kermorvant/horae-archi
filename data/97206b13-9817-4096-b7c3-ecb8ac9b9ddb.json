@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A man, depicted with a bald head and a determined expression, stands in a wooded area, raising a wooden club to strike. He is dressed in a pink tunic over a white undergarment and dark leggings. Around him, three wild boars are visible, one in the foreground and two behind. The setting is a verdant landscape with trees and a blue sky in the background, suggesting an outdoor hunting scene. The scene is framed by a decorative border, typical of illuminated manuscripts.",
+    "scene_interpretation": "Hunting Scene",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Hunter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8571085n/f35/1544,3515,1145,1091/full/0/default.jpg"
+}

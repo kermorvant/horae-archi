@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, depicted in profile, is shown with his hands clasped in prayer. He wears a green garment over a red robe. He is enclosed within a circular, illuminated initial, which is bordered by decorative elements. The background within the initial is a deep blue with scattered white dots, suggesting a celestial or starry sky. A golden halo surrounds his head, indicating his sanctity. The overall scene is highly stylized and appears to be part of a larger illuminated manuscript.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00360/549,556,615,676/full/0/default.jpg"
+}

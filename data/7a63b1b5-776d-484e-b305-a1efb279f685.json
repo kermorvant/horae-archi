@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Christ Child lies on a table covered with green fabric, illuminated by a golden, textured background. To the left, a brown ox and a grey donkey are visible. In the foreground, the Virgin Mary, clad in a blue robe, kneels with her hands clasped in prayer. Beside her, Saint Joseph, wearing a red cap and a reddish-brown robe, also kneels with his hands pressed together in devotion. An open book lies on the grassy ground in front of Mary. The architectural setting is a simple stable structure with a wooden roof and walls, suggesting a rustic and modest environment for the birth of Christ.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0009/DEPOT/M441095203_MS0009_0058/1234,913,1379,1548/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary, with her lying on a richly patterned bed, surrounded by a group of haloed figures, likely the Apostles. Two angels attend to the Virgin, one with outstretched wings. Above them, in a celestial blue expanse, a figure representing God the Father, or possibly Christ, holds the infant Virgin, surrounded by seraphim with fiery wings. The background behind the figures is a dark, ornate tapestry with gold scrolling patterns. The foreground features a tiled floor. The overall composition suggests a sacred and solemn event, transitioning from the earthly realm of the Virgin's repose to the divine realm above.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0066/DEPOT/M601415401_MS0066_0077/1494,474,1013,1606/full/0/default.jpg"
+}

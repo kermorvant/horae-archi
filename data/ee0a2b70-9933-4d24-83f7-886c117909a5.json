@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A group of men are depicted in profile and three-quarter view, gathered under an arched architectural element. The central figure, a bearded man wearing a hat, gestures with his right hand. To his left, another man in a hat looks intently. To the right, a figure with a beard and long hair, possibly representing Christ due to his attire and depiction, is partially obscured by another individual. The scene appears to be an interior setting, suggested by the presence of the arch, which frames the figures.",
+    "scene_interpretation": "The scene likely depicts a moment from the Passion of Christ, possibly the Mocking of Christ or a similar episode where Christ is surrounded by accusers or tormentors. The central bearded figure could be a Roman official or a Jewish leader, while the figure on the right, with his emaciated appearance and beard, strongly suggests Christ. The surrounding figures represent the crowd or the soldiers involved in the event.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0028/2282,3846,846,646/full/0/default.jpg"
+}

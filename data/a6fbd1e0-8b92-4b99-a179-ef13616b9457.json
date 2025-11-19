@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a wedding ceremony presided over by a bishop. A bearded man, presumably the groom, is placing a ring on the finger of a woman, the bride, who is kneeling. Both are dressed in rich garments. The bishop, wearing a mitre and a red and gold cope, stands between them, his hands raised in blessing or prayer. A group of onlookers, dressed in various colored tunics and hats, are gathered around the central figures. The setting appears to be indoors, with a plain grey wall behind the figures and a patterned floor. The scene is framed by an ornate border with floral motifs.",
+    "scene_interpretation": "Marriage Ceremony",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Bishop",
+        "Groom",
+        "Bride"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/5981286/1977,450,890,847/full/0/default.jpg"
+}

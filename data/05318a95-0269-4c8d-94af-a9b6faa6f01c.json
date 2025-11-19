@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A young man with reddish-blond hair, dressed in a blue tunic and an orange robe, sits on a grassy slope, holding a scroll and a quill. He appears to be writing or contemplating. To his right, a stylized, reddish-brown bird with a crest and elaborate tail feathers stands on the ground. The background depicts a rolling landscape with green hills, a winding blue river or body of water, and sparse vegetation. The scene is rendered in a typical medieval manuscript style with vibrant colors and a flat perspective.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525011578/f77/109,147,288,308/full/0/default.jpg"
+}

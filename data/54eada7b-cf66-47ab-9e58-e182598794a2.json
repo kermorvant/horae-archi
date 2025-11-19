@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Lawrence, who is shown lying on a gridiron over flames. He is being tortured by several figures. One man, possibly a torturer, stands over him with a sword, while another figure appears to be fanning the flames with bellows. Two other figures are present, one of whom seems to be whispering to the man with the sword. The background features a stylized, rocky landscape and a decorative, patterned archway. The overall impression is one of intense suffering and religious persecution.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F315_B.11.32_f166r.jp2/991,643,1695,2162/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Virgin Mary stands with her hands clasped in prayer, wearing a halo and a richly patterned robe. A dove, symbolizing the Holy Spirit, flies above her. To her right, the Angel Gabriel, also with a halo, gestures towards Mary, holding a staff. Both figures are positioned on a checkered floor. Behind them, architectural elements suggest an interior space, with arches and columns visible. A book rests on a stand near the Virgin Mary. The overall composition is framed by an ornamental border.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Dijon/Bibliotheque_municipale/B212316101_MS2969/DEPOT/B212316101_MS2969_0022/3421,541,1335,1795/full/0/default.jpg"
+}

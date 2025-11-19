@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, identified by the scroll as 'Ieremias', is depicted with a golden halo, looking upwards and touching his head. He is dressed in a blue tunic and a red mantle. To his right, an angel with red and white wings, also with a halo, stands and gestures towards the prophet. The background features a blue tapestry with gold ornamentation and a grey architectural element with arches above. The scene is set on a green checkered ground.",
+    "scene_interpretation": "Jeremiah's Vision",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Jeremiah",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_008r.jp2/470,2632,1457,1903/full/0/default.jpg"
+}

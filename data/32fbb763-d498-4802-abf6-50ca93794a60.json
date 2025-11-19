@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A group of people are gathered around baskets, engaged in an activity that appears to be sorting or distributing goods. The figures are depicted in medieval attire, with various head coverings. The scene is framed by an arched architectural element, suggesting an interior or a covered outdoor space. The overall impression is one of communal activity, possibly related to charity or daily life.",
+    "scene_interpretation": "The scene is likely a depiction of a charitable act, such as the distribution of alms or food to the poor, a common theme in devotional literature and art of the medieval period. The baskets suggest provisions being given out.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0098/5067,2171,417,632/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "Within a circular frame, a bearded man with a halo stands in profile, his hands clasped in prayer. He is dressed in a light-colored robe. To his right, a red architectural structure is depicted, featuring a tall, narrow arched opening and a darker recessed area. The overall scene suggests a devotional or contemplative moment, possibly depicting a saint or prophet in prayer before a building.",
+    "scene_interpretation": "Saint in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00162/557,1590,642,612/full/0/default.jpg"
+}

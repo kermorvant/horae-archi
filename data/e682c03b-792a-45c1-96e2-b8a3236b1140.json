@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, clad in a red robe and barefoot, reaching towards a tomb. Inside the tomb lies a figure wrapped in white cloth, appearing to be resurrected. To the left of the tomb, a group of women, including the Virgin Mary (identified by her blue mantle and halo), and other mourners, gaze at the resurrected figure with expressions of awe and sorrow. Behind them, an older man with a beard also observes the scene. The tomb is carved into a rocky hillside, with rough-hewn stone forming its structure. To the right, a bare tree trunk and lush green foliage suggest an outdoor setting, with a bright blue sky visible above. The entire scene is framed by an ornate, illuminated border.",
+    "scene_interpretation": "The Resurrection of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008559f/f84/783,253,1262,1170/full/0/default.jpg"
+}

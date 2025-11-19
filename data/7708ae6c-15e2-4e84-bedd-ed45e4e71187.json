@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary kneeling in the center, hands clasped in prayer, surrounded by the Apostles. A dove, representing the Holy Spirit, descends from above, with rays of golden light emanating from it and illuminating the figures. The setting appears to be an interior space with stone walls and arched windows with latticed panes. The floor is tiled in a checkered pattern. The figures are dressed in medieval attire, and many have halos, indicating their sanctity. Some figures are looking upwards towards the dove, while others are in prayer or contemplation.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0077/DEPOT/M601415401_MS0077_0030/1325,790,1869,2820/full/0/default.jpg"
+}

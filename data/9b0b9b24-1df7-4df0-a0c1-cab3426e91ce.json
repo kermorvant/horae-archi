@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts a standing male figure, possibly a saint or a donor, wearing a long robe and a cap. He holds a chalice in his left hand and raises his right hand in a gesture of blessing or speech. Beside him, to the left, lies a lamb. The background is filled with a stippled pattern and scattered circular motifs, suggesting a celestial or symbolic setting. Above the figure, an architectural element resembling a canopy or a stylized arch is visible, with decorative elements at its apex. The overall style is characteristic of medieval woodcut or manuscript illumination.",
+    "scene_interpretation": "The presence of a lamb, often a symbol of Christ (Agnus Dei) or a sacrificial offering, alongside a figure holding a chalice, strongly suggests a religious context. The figure could represent John the Baptist, who is often depicted with a lamb and a chalice, or another saint associated with martyrdom or the Eucharist. The gesture of the raised hand could be a blessing or a sermon.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Lamb"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0006/3969,3527,463,915/full/0/default.jpg"
+}

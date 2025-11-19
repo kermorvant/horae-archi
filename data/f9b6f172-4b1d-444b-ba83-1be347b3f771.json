@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a burial or resurrection ritual taking place outdoors. Four figures are present: three in dark monastic habits, one of whom is praying with hands clasped, and another in a richly decorated blue and gold cope over a white alb, holding an open book and a small object. A fourth figure, dressed in a white monastic habit, stands holding a bucket. In the foreground, a body wrapped in a white shroud lies on the ground. Behind the figures, a brick wall is visible, with trees and foliage. A golden cross stands on a mound, and a red marker, possibly a grave marker, is also present. Rays of light emanate from a celestial source above, suggesting divine intervention or blessing. The overall scene evokes a moment of religious solemnity and spiritual significance, possibly related to the resurrection of the dead or a prayer for the departed.",
+    "scene_interpretation": "Resurrection of the Dead",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Monk",
+        "Cleric",
+        "Monk",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Musee_Saint_Raymond/315555247_PM31000783/DEPOT/315555247_PM31000783_0106/4143,704,1588,2312/full/0/default.jpg"
+}

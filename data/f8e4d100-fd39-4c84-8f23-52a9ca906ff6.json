@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be a monastic or scholarly setting. On the left, several individuals in hooded robes are gathered, some appearing to be engaged in prayer or contemplation, with one figure holding a rosary or similar object. In the center, a figure in a similar robe is shown with hands clasped in prayer, looking upwards. To the right, a scholar or monk, distinguished by a cap and robes, is seated and pointing to an open book placed on a lectern. The lectern itself is a complex structure with a triangular canopy, suggesting it is part of a larger architectural element or a detailed piece of furniture. The background features architectural elements that suggest an interior space, possibly a scriptorium or a chapel, with decorative columns and arches visible.",
+    "scene_interpretation": "The scene likely represents a moment of religious devotion and study within a monastic or scholarly community. The figures praying suggest piety and spiritual engagement, while the scholar with the open book points to the importance of scripture and learning in their lives. This could be interpreted as a representation of the monastic ideal of balancing prayer and work (ora et labora), or a scene illustrating the study of religious texts.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0017/1181,2892,1042,468/full/0/default.jpg"
+}

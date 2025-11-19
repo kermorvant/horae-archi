@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a swaddled infant lying on a red, elevated surface, likely a manger or bed. A woman in a blue robe, presumably the Virgin Mary, tenderly leans over the child. Several other figures, including men with beards and wearing distinctive headwear, are present, some looking at the infant, one holding a green book. To the left, a man in an orange robe and grey cloak stands by an opening, holding a basket containing small objects. The architectural setting features arched openings and walls, suggesting an interior space, possibly a stable or a room within a building. The overall composition suggests a religious narrative, likely the Nativity or Presentation of Christ.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0794_0244/DEPOT/620416201_MS0794_0244_0072/1515,924,1468,2199/full/0/default.jpg"
+}

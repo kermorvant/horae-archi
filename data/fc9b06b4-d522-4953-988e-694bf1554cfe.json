@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A figure, likely a cleric or scholar, is seated on a throne-like chair, wearing a blue robe with ermine trim and a pink cap. To the left, a lectern holds an open book, suggesting a scene of study or contemplation. The background is a checkered pattern, possibly representing a floor or a stylized interior space. The entire scene is framed by a decorative border with blue and red motifs.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f161/782,2174,499,525/full/0/default.jpg"
+}

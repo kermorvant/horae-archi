@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. A bishop, wearing a mitre and ornate vestments, holds the Christ Child, who is presented on a table draped with white cloth. The Virgin Mary, with a halo, stands to the left of the table, looking towards the child. Joseph, also with a halo, stands behind Mary. Several other figures, including women with hoods and a man in the background, are present. The setting appears to be an interior space with architectural elements such as columns, arches, and windows revealing a landscape with buildings in the distance. The floor is tiled in green and grey.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "window",
+        "roof",
+        "wall",
+        "stairs",
+        "pillar"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/np517xz5161%2FW196_000162_1200/5118,1444,3248,5458/full/0/default.jpg"
+}

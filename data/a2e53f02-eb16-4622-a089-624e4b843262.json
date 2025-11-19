@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. Christ's body, pale and lifeless, is cradled by the Virgin Mary, who is dressed in a dark mantle and white veil. Her face is etched with sorrow, and she gently touches Christ's cheek. To the left, another figure, likely Mary Magdalene, mourns, her head bowed. Behind them, a third figure, possibly John the Evangelist, looks on with grief. A wooden cross stands in the background, and a crown of thorns lies on the ground at Christ's feet. The overall atmosphere is one of profound sadness and devotion.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00113507_00238/190,76,1279,2009/full/0/default.jpg"
+}

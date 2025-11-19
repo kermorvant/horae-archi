@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo and wearing a blue mantle, is seated on a wooden throne, holding the Christ Child. The Christ Child, also with a halo, is dressed in a light-colored garment and appears to be reaching out. Two angels, one on the left in a blue tunic and the other on the right in a green tunic, stand behind the throne with their hands clasped in prayer. Behind the figures, architectural elements suggest an interior space, with windows featuring diamond-shaped tracery visible on the left and right. The scene is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/16373392/532,335,966,1428/full/0/default.jpg"
+}

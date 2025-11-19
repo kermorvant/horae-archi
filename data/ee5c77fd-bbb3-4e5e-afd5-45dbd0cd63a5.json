@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men attending to a figure lying on a table, who appears to be wounded or ill, with blood visible on his chest and arm. One man in a blue robe, with a halo, is seated and writing in a large book, possibly documenting the event or a related text. An angel with wings is kneeling beside him, holding an inkwell. In the background, architectural elements suggest an interior space with arched openings and windows. The overall impression is one of a medical or devotional scene, possibly illustrating a saint's martyrdom or healing.",
+    "scene_interpretation": "Martyrdom of a Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_5%2F1945_65_5_jp2.zip%2F1945_65_5_jp2%2F1945_65_5_0400.jp2/507,2776,1749,1838/full/0/default.jpg"
+}

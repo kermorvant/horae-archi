@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a heraldic shield with red and white stripes, framed by an ornate, gilded architectural structure. This structure features decorative elements such as scrolls, garlands of fruit or leaves, and a pediment-like top. The shield is supported by what appears to be a decorative stand or pedestal, also rendered in a gilded, sculptural style. The overall impression is one of a ceremonial or commemorative display, likely representing a coat of arms.",
+    "scene_interpretation": "Heraldry",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "ornamental_tracery",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.9490/Vat.lat.9490_0008_fa_0001v.jp2/115,154,689,933/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A young boy with wavy hair points towards a bearded man wearing a cap and a long robe. The man has his hands clasped together in prayer or supplication. Behind them, architectural elements suggest an interior space, possibly a hall or a room within a building, with columns and a decorative frieze visible.",
+    "scene_interpretation": "This scene likely depicts a moment of dialogue or supplication, possibly from a biblical narrative or a saint's life, where a younger figure addresses an elder. Without further context, a specific interpretation is difficult, but the gesture of the elder suggests reverence or earnest plea.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_T1343/DEPOT/B530626201_T1343_0075/2244,2537,589,1040/full/0/default.jpg"
+}

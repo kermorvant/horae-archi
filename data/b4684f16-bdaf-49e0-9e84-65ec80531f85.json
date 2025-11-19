@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, surrounded by a radiant halo. Below them, a group of figures, many crowned and holding staffs, are arranged in a tree-like structure. In the foreground, a man reclines, resting his head on his hand. The background is dark with scattered stars, suggesting a celestial or dreamlike setting. The overall composition evokes a sense of divine presence and earthly contemplation.",
+    "scene_interpretation": "Tree of Jesse",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0021/1096,499,1470,2097/full/0/default.jpg"
+}

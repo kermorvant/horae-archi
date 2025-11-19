@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left and the Virgin Mary on the right. The angel, with large blue wings and a red robe over a blue tunic, stands on clouds and gestures towards Mary. He holds a scroll. Mary, wearing a blue mantle over a red dress, stands with her hands clasped in prayer and holds a book. Between them is a green staff topped with a cross, and a vase-like object rests on the ground. The background is a golden, textured surface, framed by architectural elements that suggest a stylized cityscape with towers and arched structures. The overall composition is framed by decorative borders.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537228/46251291.tif/841,258,2187,3329/full/0/default.jpg"
+}

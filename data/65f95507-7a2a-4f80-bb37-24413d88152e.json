@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Flight into Egypt, with the Virgin Mary, identifiable by her halo and blue mantle, carrying the Christ Child on a donkey. She is guided by a man, likely Joseph, who holds the donkey's reins. The figures are set against a landscape with rolling hills, rocky outcrops, and a body of water. In the background, a city with towers and buildings is visible, suggesting their destination or origin. To the right, a solitary figure stands on a pedestal, possibly representing a pagan idol being overthrown by the Holy Family's arrival, a common iconographic motif in this narrative. The overall scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "arch",
+        "column",
+        "roof",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.66/Ross.66_0150_fa_0068v.jp2/451,211,496,989/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary on the left, dressed in a blue mantle and gold-embroidered dress, her hands clasped in prayer. Before her is a lectern with an open book. To her right stands the Archangel Gabriel, with large red wings, wearing a gold tunic and green undergarment, holding a golden lily and gesturing towards Mary. Rays of light emanate from Gabriel towards Mary, symbolizing the divine conception. Above and to the right, a depiction of God the Father, robed and bearded, blesses the scene, with a dove, representing the Holy Spirit, descending towards Mary. The setting appears to be a room with architectural elements suggesting an interior, including a column and a draped curtain, with a glimpse of a landscape through a window.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "window",
+        "arch",
+        "roof",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Archangel Gabriel",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/15963648/189,323,1019,1536/full/0/default.jpg"
+}

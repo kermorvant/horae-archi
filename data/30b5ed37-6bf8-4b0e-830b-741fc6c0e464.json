@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A female saint, identified by a halo, stands in a landscape. She wears a yellow tunic and a flowing pink mantle. In her right hand, she holds a golden chalice from which a small bird emerges, symbolizing the legend of Saint John the Evangelist being given a poisoned chalice from which a bird flew out, rendering the poison harmless. The background depicts rolling green hills, distant mountains, and a stylized building with a tower and arched windows. The sky is a pale blue with some clouds.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "window"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.9495/Vat.lat.9495_0208_pr_0183.jp2/179,165,337,371/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered under an arched structure. On the right, a bearded man wearing a hat and long robes holds a book or scroll and gestures with his other hand, seemingly addressing the figures on the left. A man in the center of the left group, also bearded, kneels and holds a bowl or dish, looking up towards the seated figure. Other men stand behind them, observing the interaction. The architectural setting features a large, decorative arch supported by columns, with a textured background suggesting a wall or drapery. The overall impression is one of a formal gathering or a presentation.",
+    "scene_interpretation": "This scene likely represents a biblical or historical event involving a figure of authority and supplicants. Without specific iconographic clues, it is difficult to pinpoint the exact event, but it could depict a king receiving tribute, a prophet addressing followers, or a scene from the Old Testament. The kneeling figure with the offering suggests a moment of petition or presentation.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0017/4999,2758,587,914/full/0/default.jpg"
+}

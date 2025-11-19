@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Christ carrying the cross, accompanied by a crowd of figures. Christ, wearing a blue robe and a crown of thorns, struggles under the weight of a large wooden cross. To his left, the Virgin Mary, draped in a blue mantle, looks on with sorrow, her hands clasped. Behind them, a group of men in various colored tunics and helmets push forward. To Christ's right, a man in a brown tunic and red cap strikes him with a stick, while another figure in a pink tunic and green pouch runs ahead. A woman in a blue robe holds a white cloth. In the background, a city with pink walls and blue-roofed buildings, including towers and spires, is visible.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10549444b/f82/1047,497,1395,1629/full/0/default.jpg"
+}

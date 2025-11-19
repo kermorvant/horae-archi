@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a meal taking place around a table. At the center, a figure with long hair and a beard, likely Christ, is seated and holding bread. To his left and right are two other figures, also with beards and wearing robes, who appear to be disciples. The table is laden with food, including bread and a cup. The figures are enclosed within a circular frame, suggesting a devotional or symbolic representation. The overall impression is one of intimacy and communion.",
+    "scene_interpretation": "Supper",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0072/5262,2669,662,645/full/0/default.jpg"
+}

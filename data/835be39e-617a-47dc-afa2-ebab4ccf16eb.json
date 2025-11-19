@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Moses, kneeling and holding the Ten Commandments tablets, receiving divine instruction from a bearded figure, likely God, who appears in a cloud. To the right, a group of people are gathered, observing the event. The background features architectural elements that suggest a stylized, perhaps heavenly, setting with ornate structures and decorative borders. The overall composition conveys a moment of divine revelation and law-giving.",
+    "scene_interpretation": "The Giving of the Law",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Moses"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0075/752,1136,559,1027/full/0/default.jpg"
+}

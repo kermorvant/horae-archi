@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Two figures, one in a blue robe and hood, the other in a pink robe and blue hood, stand in a green, grassy landscape dotted with foliage. They are looking upwards towards a celestial scene. Above them, a figure with a halo, dressed in an orange tunic, reclines on a patterned, golden and blue fabric, seemingly asleep or in a trance. In the foreground, three sheep are depicted in the grass. The scene likely represents the Annunciation to the Shepherds, with the shepherds looking up at the angel announcing the birth of Christ.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd",
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_MS021/DEPOT/773796202_MS0021_0054/2057,1334,1269,1663/full/0/default.jpg"
+}

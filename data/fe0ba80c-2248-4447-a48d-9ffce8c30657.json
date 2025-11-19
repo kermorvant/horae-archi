@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The Virgin Mary, clad in a blue mantle, cradles the lifeless body of Christ, whose wounds are visible. To the left, a figure, likely John the Evangelist, gazes at Christ with sorrow, his hands clasped. Behind them, a stylized city with towers and spires is depicted, set against a backdrop of rolling hills and a blue sky. A large golden cross dominates the upper portion of the image, with a small inscription at its apex. The foreground is a green landscape with sparse vegetation.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1557/DEPOT/352386106_MS1557_0066/1116,499,1692,2825/full/0/default.jpg"
+}

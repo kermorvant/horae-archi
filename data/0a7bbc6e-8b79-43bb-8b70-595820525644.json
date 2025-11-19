@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a domestic interior with a large hearth where food is being cooked. Two figures are present. On the left, a person with curly brown hair, wearing a blue tunic and a gold-trimmed shawl, holds a pot and appears to be tending to the fire or cooking process. On the right, a person with a white head covering, also in a blue tunic, leans forward, observing the cooking. The hearth is active with flames, and a pot hangs over the fire, while meat is roasting on a spit. The architectural setting suggests a kitchen or a similar functional space within a house.",
+    "scene_interpretation": "domestic_scene",
+    "spatial_context": "indoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0110/utp-0110_019r.jp2/1728,5710,1539,1738/full/0/default.jpg"
+}

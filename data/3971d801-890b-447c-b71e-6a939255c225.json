@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ carrying the cross, accompanied by several figures. Christ, wearing a purple robe and a green wreath, bears a large wooden cross on his shoulder. He is surrounded by a group of people, including soldiers in armor, women in veils and robes, and other individuals. In the background, a mountainous landscape is visible, with a fortified city or castle in the distance. The overall impression is one of solemn procession and suffering, likely representing the Via Dolorosa.",
+    "scene_interpretation": "Via Dolorosa",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00095049_00188/508,44,452,664/full/0/default.jpg"
+}

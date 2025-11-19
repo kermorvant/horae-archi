@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a kneeling woman, likely Mary Magdalene, with a halo, facing a standing figure of Christ, who is shown with wounds and a draped cloth. Christ extends his hand towards the woman. In the background, a tree stands to the left, and a walled city with towers is visible on the horizon. The figures are positioned in an outdoor setting, with a tomb or altar-like structure in the foreground. The inscription at the bottom suggests a devotional context, possibly related to the \"Noli me tangere\" moment.",
+    "scene_interpretation": "Noli me tangere",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511766t/f188/588,295,696,863/full/0/default.jpg"
+}

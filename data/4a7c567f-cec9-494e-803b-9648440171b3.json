@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and with hands clasped in prayer, surrounded by a multitude of angels with vibrantly colored wings. Above her, God the Father, depicted as an elderly man with a beard, blesses the scene. The background is a celestial expanse of blue clouds and golden light, with additional angelic figures visible in the upper left. On the far right, a figure in a niche, possibly a saint or prophet, stands within an architectural frame. The overall composition evokes a heavenly vision, with the Virgin Mary as the central figure of devotion.",
+    "scene_interpretation": "Virgin of Mercy",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "niche"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84328965/f83/244,105,1583,2386/full/0/default.jpg"
+}

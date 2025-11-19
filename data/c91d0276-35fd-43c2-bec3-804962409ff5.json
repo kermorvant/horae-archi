@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men surrounding a seated figure, identified as Christ, who is blindfolded and appears to be suffering. The men are shown in various poses of aggression and mockery. One man on the left raises his hand, possibly to strike. Another man in the center background looks on with a stern expression. A man on the right, wearing armor and a sword, stands over Christ, his face contorted in a menacing expression. The figures are rendered in a woodcut style, with bold outlines and hatching to create shading. The setting is indistinct, suggesting an outdoor or unspecified location, with no architectural elements visible.",
+    "scene_interpretation": "Mocking of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0025/759,393,729,1171/full/0/default.jpg"
+}

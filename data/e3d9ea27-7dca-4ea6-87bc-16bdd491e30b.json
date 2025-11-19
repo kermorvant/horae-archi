@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A regal figure, identified as a king by his crown and scepter, is seated on a throne. He wears a richly decorated blue robe adorned with fleur-de-lis and a ermine-trimmed mantle. The throne is draped with golden fabric. Behind the king, a grey architectural structure with arched openings is visible, suggesting an interior setting. The scene likely depicts a royal portrait or a scene of royal authority, possibly within a palace or hall.",
+    "scene_interpretation": "Royal Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_15%2F1945_65_15_jp2.zip%2F1945_65_15_jp2%2F1945_65_15_0138.jp2/1811,2915,3302,3055/full/0/default.jpg"
+}

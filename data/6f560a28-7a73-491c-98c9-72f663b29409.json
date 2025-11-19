@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A king, identifiable by his crown and regal attire, stands in the center of the scene, holding a cross. He is surrounded by a crowd of men, some in armor and helmets, others in simpler tunics. To the left, a group of armored figures appear to be presenting something to the king. In the background, a walled city with towers and buildings is depicted. Above the king, an angel with outstretched wings hovers, seemingly observing the scene. The overall impression is one of a significant event, possibly a religious procession or a moment of royal devotion.",
+    "scene_interpretation": "The scene likely depicts a king's devotion or a royal act of faith, possibly related to the veneration of a relic or a significant religious event. The presence of the cross and the angel suggests a divine or spiritual context for the king's actions. Without further iconographic clues, a specific biblical or liturgical event cannot be definitively identified, but it points towards a theme of royal piety.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00033/436,518,1232,1629/full/0/default.jpg"
+}

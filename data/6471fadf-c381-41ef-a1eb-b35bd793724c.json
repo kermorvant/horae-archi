@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue mantle over a pink tunic, meeting Elizabeth, who wears a golden gown and a white veil. Both figures have halos, indicating their sanctity. They are shown in a landscape setting with rolling green hills, scattered trees, and a distant view of a fortified town with towers and spires. The figures are positioned within an ornate, gilded architectural frame, suggesting a devotional context. The interaction between Mary and Elizabeth, with their hands touching, signifies their embrace and the recognition of Elizabeth's pregnancy and Mary's divine conception.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/68534352/68569980.tif/664,351,1818,2402/full/0/default.jpg"
+}

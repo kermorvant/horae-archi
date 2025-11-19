@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A young woman with long, flowing auburn hair, wearing a green gown, is seated on an ornate throne. She holds a white rose in her right hand, gazing downwards with a pensive expression. The throne is richly decorated with carved figures in niches and circular medallions depicting scenes of struggle or torment. Behind her, a wall is constructed of large, roughly hewn stones, and above this, a series of arched niches contain standing figures, possibly saints or prophets. The overall setting suggests an interior space, possibly a royal or divine chamber, with architectural elements that evoke a sense of grandeur and religious significance.",
+    "scene_interpretation": "Virgin Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "niche",
+        "wall",
+        "arcade"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f46/1179,1363,3130,3785/full/0/default.jpg"
+}

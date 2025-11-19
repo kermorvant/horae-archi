@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A emaciated, naked male figure lies prone on a green, grassy hillside under a blue sky with golden clouds. Two wooden crosses stand upright, one to the left and one to the right of the figure. The figure's head is turned to the left, and his arms are crossed over his chest. The scene appears to depict a moment of suffering or martyrdom, possibly related to the Crucifixion or a saint's martyrdom.",
+    "scene_interpretation": "Martyrdom of a Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828366/583,2775,916,1099/full/0/default.jpg"
+}

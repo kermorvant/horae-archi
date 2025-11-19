@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity, with the Virgin Mary reclining on a bed, her head supported by her hand. Joseph stands behind her, leaning on a staff and looking towards her. Above them, in a manger-like structure, are the heads of a donkey and an ox. The background is a rich gold, suggesting a divine or sacred setting. The figures are rendered in a stylized, medieval manner with bold outlines and vibrant colors.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537228/46251294.tif/700,642,2120,3215/full/0/default.jpg"
+}

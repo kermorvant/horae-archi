@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures embracing, identified as the Visitation. The Virgin Mary, on the left, is shown with a halo and is embracing Elizabeth, who is on the right and also has a halo. Both figures are dressed in flowing robes. The background is a rich blue with gold foliate patterns. On either side of the central figures, there are stylized representations of rocky outcrops or trees, rendered in muted earth tones and dark grey. The overall composition is framed by an ornamental border.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_017/DEPOT/890245409_n_017_0049/3899,1268,1192,1379/full/0/default.jpg"
+}

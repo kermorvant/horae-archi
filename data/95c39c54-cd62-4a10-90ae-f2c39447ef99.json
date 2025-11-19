@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. Christ's body, showing stigmata, lies in a sarcophagus. The Virgin Mary, cloaked in blue and with hands clasped in sorrow, leans over him. To her left, a man in a yellow tunic and green hat looks on with concern. To the right, another man in a green robe and pink hat, possibly Joseph of Arimathea, is shown preparing to wrap the body, with a bell hanging from his belt. The background is a rich, patterned gold, suggesting a divine or sacred setting, with green foliage visible at the bottom.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vj053mn4619%2FW169_000086_1200/3961,1515,2803,4258/full/0/default.jpg"
+}

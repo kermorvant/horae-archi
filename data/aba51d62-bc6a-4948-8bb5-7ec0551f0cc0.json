@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior architectural setting. On the left, the Angel Gabriel, with feathered wings and a halo, is shown gesturing towards the Virgin Mary. He wears a white robe with dark trim. Rays of divine light emanate from above, directed towards Mary. In the center, a vase holds lilies, a symbol of purity. The Virgin Mary, on the right, is depicted with a halo, her hands clasped in prayer over her chest. She wears a pink dress and a blue mantle. She is positioned near a lectern with an open book. The background features large windows with diamond-shaped panes, suggesting a Gothic architectural style. The floor is tiled in a green and white checkered pattern. A red drapery hangs on the right side of the scene.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_003/DEPOT/762595409_A_10_003_0046/1344,837,1574,2419/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ within a richly decorated architectural frame. In the foreground, the Virgin Mary, wearing a veil and a pink halo, cradles the Christ Child, who is swaddled in green. They are lying on a bed covered by a red blanket. To the right, a bearded man, possibly Saint Joseph, with a halo and dressed in an orange cloak over a brown tunic, sits and holds a green object. Above them, the heads of a cow and a donkey are visible, suggesting the stable setting. The background is a textured gold, indicating a divine or sacred space, and the entire scene is framed by elaborate golden architectural elements with black outlining, featuring Gothic tracery and decorative motifs.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "microarchitecture",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/hf206wb9742%2FW104_000068_1200/4357,919,1668,2612/full/0/default.jpg"
+}

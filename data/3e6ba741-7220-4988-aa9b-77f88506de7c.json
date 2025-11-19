@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer outdoors, with his hands clasped and eyes raised towards a divine figure emanating from a radiant halo above. Before him lies an open book and a harp, suggesting a moment of contemplation or devotion. The background features a hilly landscape dotted with trees and distant castles, creating a sense of a vast, natural setting. The divine figure, possibly God or a prophet, is shown with a beard and a halo, looking down upon the praying man. Rays of light descend from the divine figure, illuminating the scene and emphasizing the spiritual connection.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036467s/f77/2800,560,1000,1350/full/0/default.jpg"
+}

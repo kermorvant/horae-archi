@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts three figures under a large, segmented arch. On the left, a kneeling figure with a hooded head holds a shallow bowl. To the right, a standing figure wearing a crown and a long robe holds two small animals, possibly lambs or fawns, one in each arm. Behind this figure, another person, also hooded, stands with their head slightly bowed. In the background, a building with a pointed roof and two windows is visible. The overall impression is one of charity or offering, possibly related to a biblical or devotional narrative.",
+    "scene_interpretation": "The scene likely represents an act of charity or sacrifice. The kneeling figure receiving or offering the bowl, and the standing figure presenting animals, could symbolize generosity, almsgiving, or a sacrificial offering. Without further context, a specific biblical event is difficult to pinpoint, but it aligns with themes of compassion and devotion common in Books of Hours.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0037/745,1652,564,993/full/0/default.jpg"
+}

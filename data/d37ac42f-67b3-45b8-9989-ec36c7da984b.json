@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his head bowed and body showing signs of suffering. To the left, the Virgin Mary, clad in a blue mantle, kneels with her hands clasped in sorrow. To the right, a figure, likely Saint John the Evangelist, stands holding an open book, draped in an orange cloak over a grey garment. The background is a rich, dark red with intricate gold scrolling patterns and radiating lines of gold emanating from Christ and the two flanking figures, suggesting a divine or celestial light. At the foot of the cross, a skull and bones are visible on the green ground, symbolizing Golgotha, the place of the skull, and the triumph of Christ over death. The entire scene is framed by an ornamental border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/td467pn7624%2FW173_000034_981/3730,1239,3688,6363/full/0/default.jpg"
+}

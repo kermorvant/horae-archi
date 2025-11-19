@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A Franciscan friar, identified by his habit and tonsure, kneels in prayer outdoors. He bears stigmata on his hands and side, indicating a mystical experience. Above him, a red, winged angelic figure descends from the sky. In the background, a town with a prominent church spire is visible, along with rolling hills and trees. To the right of the friar, two other figures, possibly monks or devotees, are depicted in prayer or contemplation. The scene likely represents the Stigmata of Saint Francis, a pivotal moment in his devotional life.",
+    "scene_interpretation": "Stigmata of Saint Francis",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Saint Francis"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f374/904,882,1048,1895/full/0/default.jpg"
+}

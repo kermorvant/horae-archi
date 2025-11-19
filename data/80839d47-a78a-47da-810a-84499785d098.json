@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, dressed in blue, presents the Christ Child, swaddled in white, to an elderly man, likely Simeon, who wears a pink mantle over a green tunic and a white headdress. He has a long grey beard and halo. To the left, a woman in an orange robe and white veil, possibly Anna, holds a basket containing doves. To the right, another man in a blue mantle and green tunic, wearing an orange and white hat, stands observing. The figures are positioned within an architectural setting characterized by pointed arches and a ribbed vault ceiling painted blue with gold accents. A red cloth with gold floral motifs covers a raised platform or altar in the center. The overall impression is one of a sacred ritual taking place within a stylized religious interior.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "ribbed_vault",
+        "wall",
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Simeon",
+        "Anna"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/acv/acv-P-Sarraz-H-0050/acv-P-Sarraz-H-0050_250r.jp2/989,895,2374,3251/full/0/default.jpg"
+}

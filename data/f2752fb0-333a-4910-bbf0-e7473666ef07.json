@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The image depicts a male figure, likely Christ, standing in a landscape. He wears a reddish-brown robe and has a halo. His right hand is raised in a gesture of blessing or teaching, with two fingers extended. His left hand holds a circular object, possibly a chalice or a paten. Behind him, a stylized landscape features rolling hills, green foliage, and a distant architectural structure resembling a tower or a small church with a spire. The scene is framed by an ornate border with blue and orange decorative elements and inscribed text in Gothic script.",
+    "scene_interpretation": "Christ Blessing",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.1.46%2F038_B.1.46_f034v-f035r.jpg/1905,557,612,551/full/0/default.jpg"
+}

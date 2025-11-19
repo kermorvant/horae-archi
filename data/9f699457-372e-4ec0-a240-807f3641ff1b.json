@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts an interior architectural space with arched openings. In the foreground, a robed figure, likely a monk or cleric, stands facing a kneeling figure who appears to be receiving something from the standing figure. To the left, through an arched opening, a small, nude figure is visible, possibly representing a soul or a child. The architecture suggests a religious or monastic setting, with stone walls and arched doorways. The overall atmosphere is somber and devotional.",
+    "scene_interpretation": "The scene likely depicts an act of spiritual guidance or confession, possibly the Absolution of a sinner or the presentation of a soul to God. The kneeling figure represents penitence, while the standing figure acts as an intermediary or dispenser of grace. The small nude figure could symbolize innocence, a soul being cleansed, or even the Christ Child in a symbolic representation of divine mercy.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "monk",
+        "kneeling figure",
+        "nude figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525115590/f75/1177,76,676,1040/full/0/default.jpg"
+}

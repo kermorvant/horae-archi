@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary enthroned, holding the Christ Child. She is crowned and wears a blue mantle over a gold-trimmed garment. The Christ Child is looking towards the viewer. To the left, an angel with large wings kneels and plays a pipe. To the right, another angel kneels and plays a lute. Above the Virgin Mary, a dove, symbolizing the Holy Spirit, descends. In the background, a landscape with rolling hills is visible, and a distant church tower with a spire can be seen. The entire scene is framed by an arched border with gold illumination and decorative elements.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/mv404mn8568%2FW434_000045_1200/225,1034,2431,2702/full/0/default.jpg"
+}

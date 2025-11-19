@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, dressed in blue, holds the swaddled Christ Child, who has a halo. To Mary's left stands a woman in pink, possibly Saint Anne or another attendant, carrying a basket containing two doves. To the right, an elderly man with a long beard, wearing a green cloak and a red hat, stands behind an altar-like structure covered with a white cloth. He gestures towards the child, signifying the presentation. The background is a decorative tapestry with a repeating pattern of fleur-de-lis and diamonds in red, blue, and gold.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "wall",
+        "altar"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024827n/f172/1121,575,931,1375/full/0/default.jpg"
+}

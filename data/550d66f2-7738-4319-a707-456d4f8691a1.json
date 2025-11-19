@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. The Virgin Mary, adorned in a blue robe and halo, is shown with her hands crossed, looking down at an open book on a pink draped table. An angel, with large blue and white wings and a halo, kneels before her, gesturing with one hand and holding a scroll that reads 'Ave. Gratia. Plena. Dominus. tecum.' (Hail, full of grace, the Lord is with thee). A dove, representing the Holy Spirit, flies above the Virgin. The background is richly decorated with red patterned fabric and architectural elements suggesting a room, with green draperies hanging from above. In an upper niche, a figure, likely God the Father, is depicted with a beard and halo, his hands raised in blessing.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Musee_Saint_Raymond/315555247_PM31000783/DEPOT/315555247_PM31000783_0023/4218,629,1701,2236/full/0/default.jpg"
+}

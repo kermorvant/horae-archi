@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely Saint Margaret, seated triumphantly on a dragon. She is dressed in an orange tunic and a blue mantle, with a halo indicating her sainthood. Her hands are clasped in prayer, looking upwards towards a divine hand descending from a blue sky, from which rays of light emanate. The dragon, depicted as a monstrous, scaly creature with a gaping mouth, is subdued beneath her. The figures are situated within an architectural setting that appears to be a pavilion or a stylized representation of a sacred space, with ornate columns and arches supporting a striped roof. The background is a patterned red tapestry. Below the dragon and the saint is a green grassy area bordered by a crenellated wall, suggesting a fortified or elevated position.",
+    "scene_interpretation": "Saint Margaret and the Dragon",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "roof",
+        "wall",
+        "pinnacle"
+    ],
+    "persons": [
+        "Saint Margaret"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0067/DEPOT/M601415401_MS0067_0154/1963,1108,1494,1785/full/0/default.jpg"
+}

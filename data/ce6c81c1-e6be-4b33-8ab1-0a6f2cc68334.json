@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in a landscape setting. On the left, a man with grey hair and a beard, dressed in a white robe, kneels with his hands clasped in prayer. He appears to be supplicating. In the center, another figure, also with hands clasped in prayer, wears an orange robe and a yellow headdress. To the right, a third man, dressed in a blue tunic with gold embellishments and a red collar, wears a hat and also has his hands clasped, seemingly in a gesture of receiving or blessing. Behind the figures, a dark architectural structure with arched openings is visible on the left, and a blue sky with stylized clouds is in the background. The overall impression is one of supplication and perhaps a divine encounter or a scene of petition.",
+    "scene_interpretation": "This scene likely depicts a moment of prayer and intercession. The kneeling figure could be a supplicant, and the other two figures might represent intercessors or figures of authority. Without further iconographic clues, a specific biblical or hagiographic event is difficult to pinpoint, but it strongly suggests a theme of prayer, petition, or divine intervention.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_impr_sr_347/DEPOT/710146101_impr_sr_347_0077/3535,422,1480,1802/full/0/default.jpg"
+}

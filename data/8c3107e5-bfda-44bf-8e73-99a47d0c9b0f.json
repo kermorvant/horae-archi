@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A young woman, likely Saint Barbara, is depicted seated outdoors in a landscape. She wears a pink tunic and a blue, gold-patterned skirt. In her right hand, she holds a palm frond, a symbol of martyrdom, and in her left, a book. Behind her, rolling hills and trees are visible under a pale blue sky. To the right of the scene, a decorative architectural element, possibly a gilded column with intricate tracery, frames the composition. The overall impression is one of serene contemplation and religious devotion.",
+    "scene_interpretation": "Saint Barbara",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Saint Barbara"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_005/570,1657,875,481/full/0/default.jpg"
+}

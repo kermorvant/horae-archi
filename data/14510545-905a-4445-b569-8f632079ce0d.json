@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands to the left, gesturing with his right hand. He is dressed in a red cope with gold trim over a white alb. To his right, two men are engaged in an exchange at a wooden table. One man, wearing a blue tunic and orange sleeves, holds his hands up as if in explanation or surprise. The other man, in a yellow tunic and red cap, is counting or handling coins from a bag. A fourth man, in a grey tunic and cap, sits on a stool to the right, observing the transaction. The scene appears to be set outdoors under a thatched roof structure, with a green, leafy background suggesting foliage or a garden.",
+    "scene_interpretation": "The scene likely depicts a transaction involving a bishop, possibly related to tithes, alms, or church finances. The bishop's presence and attire suggest an ecclesiastical authority overseeing or participating in the exchange of money.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/08137810-4673-4f5f-8db8-e4d1f82e10d6/1883,4778,1056,990/full/0/default.jpg"
+}

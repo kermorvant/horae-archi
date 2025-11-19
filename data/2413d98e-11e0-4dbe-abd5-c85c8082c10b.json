@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an architectural setting. Christ, with a halo, stands to the left, gesturing with his hands. In the foreground, a bishop, identified by his mitre and ornate robes, kneels with hands clasped in prayer before an altar. The altar holds a chalice and paten, and on a side table are two small vessels and a candlestick. Behind the bishop, several figures are present, including men in helmets and one holding a staff. The background features architectural elements suggesting an interior space, possibly a church or chapel, with arched openings and patterned walls.",
+    "scene_interpretation": "Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "door",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0087/1385,1713,580,906/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "An angel with golden wings, dressed in a white robe, is shown touching the shoulder of a person wearing a golden-brown tunic. The background is a vibrant blue with intricate gold decorative patterns, suggesting a divine or celestial setting. The interaction between the two figures, with the angel's gesture of guidance or comfort, points to a significant religious event.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0068/DEPOT/M601415401_MS0068_0298/4266,1370,1004,1176/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation to the Shepherds. An angel, with outstretched wings and a halo, descends from a blue sky, showering golden rays upon the landscape. Below, a seated woman, presumably the Virgin Mary, clasps her hands in prayer. Two shepherds, one kneeling and the other reclining, look up in awe at the celestial apparition. The landscape is rendered with stylized green bushes, a large brown rock formation, and a body of water with a ship. The shepherds are shown with beards and are dressed in medieval attire. The angel holds a banner with the inscription \"Gloria in excelsis Deo\" (Glory to God in the highest).",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10644223/2827,238,1495,2189/full/0/default.jpg"
+}

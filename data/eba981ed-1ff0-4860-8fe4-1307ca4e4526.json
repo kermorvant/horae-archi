@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a skeletal figure, representing Death, confronting a richly dressed man. Death, with exposed ribs and a skull for a head, holds a torch aloft, its flame illuminating the scene. The man, wearing a feathered cap, tunic, and cloak, appears to be holding a sword or dagger. Both figures are positioned within an architectural frame that includes decorative elements resembling flames and skulls, suggesting a somber or cautionary theme. The overall composition evokes a Dance of Death motif, where Death claims all individuals regardless of their social standing.",
+    "scene_interpretation": "Dance of Death",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0064/733,2571,621,1151/full/0/default.jpg"
+}

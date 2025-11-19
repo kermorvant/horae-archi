@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A ram with large, curled horns walks across a grassy landscape under a blue sky. The ram is depicted in profile, facing left, with a light grey coat marked with wavy lines. In the background, a stylized building with towers and a pitched roof is visible on a hill. The foreground shows patches of green grass and some pink and yellow ground. The scene is framed by a decorative border on the left.",
+    "scene_interpretation": "Aries (The Ram)",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.487/Barb.lat.487_0233_zx_colorchecker.jp2/2461,1613,335,280/full/0/default.jpg"
+}

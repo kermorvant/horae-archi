@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered around a tomb or altar, where a robed figure, likely a bishop or high-ranking cleric, is gesturing towards a scroll. The architectural setting is elaborate, featuring a green, multi-tiered structure with arches, columns, and decorative elements, suggesting a sacred or important building. Behind this structure, a cityscape with towers and spires is visible under a blue sky. The figures are dressed in medieval attire, with some wearing distinctive hats. The overall impression is one of a solemn occasion, possibly a religious ceremony or a significant discussion related to a sacred text or relic.",
+    "scene_interpretation": "This scene likely represents a religious or historical event, possibly related to the veneration of a saint, the reading of a sacred text, or a council. The presence of a bishop-like figure and the tomb-like structure suggest a context of religious authority and ritual. Without specific iconographic clues, a precise interpretation is difficult, but it evokes themes of religious teaching, commemoration, or decision-making within a sacred space.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100254479/f70/974,344,1139,2012/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with the Virgin Mary, cloaked in blue, riding a donkey and holding the Christ Child, who is dressed in red. To the right, a bearded man, presumably Saint Joseph, walks alongside, carrying a red bundle over his shoulder. The figures are set against a vibrant, textured gold background, suggesting a divine or ethereal setting, with a patch of green ground indicating their path. The composition is framed by a decorative border.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537230/46244925.tif/889,1006,1383,1623/full/0/default.jpg"
+}

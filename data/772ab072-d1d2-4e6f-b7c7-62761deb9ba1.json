@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "A man with long hair and a beard, dressed in a blue tunic with gold trim and a red cape, kneels on a green grassy field. He is looking towards the right of the frame. On the ground near him are a golden helmet and a harp. In the background, a lush green landscape is dotted with trees and a distant city with multiple towers. Above the city, a winged angelic figure, depicted in red, descends from the sky, radiating golden light. To the right of the kneeling man, a section of a golden architectural structure with an archway is visible, and a red latticed fence encloses a pathway.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "palace",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower",
+        "undefined_element"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022331s/f177/151,106,1113,1386/full/0/default.jpg"
+}

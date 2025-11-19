@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, draped in a white veil and robe, sits on a donkey, cradling the swaddled Christ Child. To their left, Saint Joseph, an elderly man with a beard, walks alongside, leaning on a staff. The background is a decorative pattern of gold floral motifs on a white ground, suggesting a stylized, perhaps divine, setting rather than a specific earthly location. The figures are rendered with delicate brushstrokes, emphasizing their serene expressions and the tenderness of the moment.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8453974s/f207/341,512,1707,2031/full/0/default.jpg"
+}

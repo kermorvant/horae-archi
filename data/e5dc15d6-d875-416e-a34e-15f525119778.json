@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A figure, likely a bishop, stands within a decorative initial 'B'. The figure wears a white mitre, a blue cope over a red garment, and a white alb. They hold a crozier in their right hand and raise their left hand in a gesture of blessing. The background features a wall of blue bricks and a patterned tapestry above. The floor is tiled in a green and white checkered pattern. The scene is framed by the ornate red and gold initial 'B', suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_003%2Fwidener_003_jp2.zip%2Fwidener_003_jp2%2Fwidener_003_0107.jp2/2296,936,827,835/full/0/default.jpg"
+}

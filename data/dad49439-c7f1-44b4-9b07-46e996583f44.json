@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the brutal Massacre of the Innocents. In the foreground, a soldier in a golden cuirass and pink tunic, wearing an orange cap, raises a sword to strike a baby held by a distressed woman in a red gown. Another woman in blue, with a pink headdress, clutches a baby and wipes her eyes. To the right, another soldier in a blue tunic and helmet grabs a woman who is holding a baby, while a third soldier in orange pants and a red tunic appears to be involved in the violence. In the background, a group of soldiers on horseback approaches, and further in the distance, a village with houses and church spires is visible. The overall setting is a grassy landscape with rocky outcrops and trees.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "spire"
+    ],
+    "persons": [
+        "Soldier",
+        "Woman",
+        "Baby"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0086/DEPOT/M601415401_MS0086_0113/1775,751,1720,2894/full/0/default.jpg"
+}

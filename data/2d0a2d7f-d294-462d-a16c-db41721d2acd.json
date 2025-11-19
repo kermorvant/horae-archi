@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. He is wearing a crown of thorns and a loincloth. To his left kneels the Virgin Mary, her hands clasped in prayer, draped in a blue mantle over an orange robe. To his right stands a figure, likely Saint John the Evangelist, also with hands clasped, wearing a similar blue mantle over an orange robe. The background is a vibrant blue sky with golden streaks, suggesting clouds or divine light, and a green landscape with sparse trees. The entire scene is framed by an ornamental border with floral motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0032a/bge-lat0032a_0015r.jp2/721,927,2542,3687/full/0/default.jpg"
+}

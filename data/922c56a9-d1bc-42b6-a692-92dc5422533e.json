@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The upper register depicts Saint Catherine of Alexandria, crowned and with a halo, praying with clasped hands. To her right, two men are engaged in a struggle, one appearing to be subdued by the other. In the background, a group of figures stands watching. The lower register shows a man in armor raising a sword to behead a kneeling woman, also with a halo, who is praying with clasped hands. Behind her, a building complex resembling a castle or fortified town is visible. The scene is set in a landscape with trees and hills. The inscription below the upper scene reads 'D. Sancta Katharina'.",
+    "scene_interpretation": "Martyrdom of Saint Catherine",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010116g/f261/93,348,1904,2676/full/0/default.jpg"
+}

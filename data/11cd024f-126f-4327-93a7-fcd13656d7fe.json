@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three figures against a starry blue background. On the right, a bearded man wearing a crown and a blue robe adorned with gold flowers sits on a throne-like structure draped in gold fabric. He gestures with his right hand. To the left, two men stand. The one in the foreground wears a red robe over a blue garment and a conical hat, pointing with his left hand. Behind him, a younger man in a tan tunic looks towards the seated figure. The ground is depicted as green with tufts of grass.",
+    "scene_interpretation": "David and the Elders",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David",
+        "Elder"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f224/459,947,919,1484/full/0/default.jpg"
+}

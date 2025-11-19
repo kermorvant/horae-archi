@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and bearing wounds from scourging, standing in a sarcophagus-like structure. His body is marked with red stripes representing scourges, and blood is visible on his hands and chest. He holds a bundle of rods, likely symbolizing the instruments of his torture. The background is a vibrant blue adorned with scattered gold motifs, possibly representing divine light or abstract decorative elements. The lower part of the image shows the edge of the sarcophagus and a patterned texture within it.",
+    "scene_interpretation": "Man of Sorrows",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025266x/f125/174,745,826,790/full/0/default.jpg"
+}

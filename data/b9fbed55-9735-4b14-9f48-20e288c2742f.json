@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Fall of Man in the Garden of Eden. Adam stands to the left, holding an apple to his chest, with a sorrowful expression. Eve stands to the right, reaching for an apple offered by the serpent, which is coiled around a tree. The serpent has human-like features and horns. The background is a lush landscape with trees, a stream, a fountain, a swan, a deer, and various birds, including a peacock. The overall setting is idyllic, representing paradise before the Fall.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_075/1092,725,1343,1923/full/0/default.jpg"
+}

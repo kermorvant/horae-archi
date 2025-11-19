@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Baptist seated outdoors, gesturing with his right hand towards a lamb standing to his right. He is dressed in a golden tunic and a red mantle, with a halo around his head. He holds a book in his left hand. The lamb, also with a halo, is accompanied by a staff topped with a cross and a banner. Behind Saint John, a stone structure with a dark opening is visible, partially covered by greenery. The background features a rolling landscape with trees and hills under a pale blue sky. This imagery represents Saint John the Baptist, often depicted with a lamb as a symbol of Christ (the Lamb of God) and his role as a precursor.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0086/DEPOT/M601415401_MS0086_0203/4067,2113,986,1073/full/0/default.jpg"
+}

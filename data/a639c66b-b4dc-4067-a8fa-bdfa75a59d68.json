@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a seated male figure, identified as Christ by his halo, writing on a scroll or manuscript. He is dressed in a red tunic and a blue mantle. To his left, kneeling, is a winged figure, likely an angel, wearing a red cloak over a white garment. The angel holds a dark object, possibly an inkwell, and looks towards Christ. The background features architectural elements, including a pink wall with two diamond-paned windows, and a blue vaulted structure with similar windows. A green patterned tapestry or wall covering is visible behind Christ. The floor is tiled with a green and black checkered pattern. The overall setting suggests an interior space, possibly a study or a room within a religious building, where sacred texts are being produced or dictated.",
+    "scene_interpretation": "Annunciation to the Virgin Mary",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "window",
+        "vault",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/2295743/404,330,737,908/full/0/default.jpg"
+}

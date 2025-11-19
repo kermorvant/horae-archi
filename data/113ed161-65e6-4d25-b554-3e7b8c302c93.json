@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, likely a king due to the crown, is depicted seated. The figure wears a richly decorated garment with small dots and a patterned collar. The hands are clasped, holding a circular object, possibly a chalice or a reliquary. The scene is framed by decorative architectural elements, including an arch with foliate motifs and a serrated border at the top. The overall style suggests a devotional or narrative context within a manuscript.",
+    "scene_interpretation": "King David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0063/3897,1888,201,1529/full/0/default.jpg"
+}

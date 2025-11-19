@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The Virgin Mary, dressed in a pink robe and white veil, cradles the lifeless body of Christ, whose body is pale and emaciated. To her right, a young man, possibly John the Evangelist, supports Christ's legs and points outwards. To the left of Mary, two women, one in a grey veil and the other in a pale yellow garment, look on with sorrow. In the foreground, a figure in a red robe kneels, head bowed. The figures are set against a blue, patterned background, with a textured, rocky ground beneath them. The entire scene is framed by a decorative border.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f581/383,1288,790,904/full/0/default.jpg"
+}

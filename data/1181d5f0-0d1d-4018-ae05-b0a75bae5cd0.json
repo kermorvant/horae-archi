@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and crozier, stands in a richly decorated interior, gesturing with his right hand. He is clad in a blue cope with gold trim over a red garment. Before him, within a circular enclosure, are three young, unclothed figures with hands clasped in prayer. Behind the bishop, a tall, arched window reveals a blue sky. The scene is framed by architectural elements suggesting an interior space.",
+    "scene_interpretation": "Saint Nicholas and the Three Youths",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_020/DEPOT/890245409_n_020_0033/1364,2074,950,1230/full/0/default.jpg"
+}

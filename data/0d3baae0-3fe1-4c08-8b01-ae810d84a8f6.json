@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the body of Christ, wounded and draped in a white loincloth, being held by a figure wearing a bishop's mitre and ornate robes. A dove, symbolizing the Holy Spirit, hovers above Christ's head. In the background, architectural elements suggest a church interior, with figures in monastic habits and other observers present. The composition emphasizes the sorrow and sacrifice of Christ's passion.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_260/319,215,757,1229/full/0/default.jpg"
+}

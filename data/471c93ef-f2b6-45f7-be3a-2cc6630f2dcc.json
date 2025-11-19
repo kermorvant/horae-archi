@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men in a landscape setting. On the left, three men are shown. The foremost man, with a long white beard and wearing a blue robe and a tan cloak, points with his index finger. Behind him, another man in a red tunic and a third man are partially visible. On the right, a crowned figure, presumably a king, also with a white beard and wearing a blue robe with gold trim, extends his hand towards the pointing man. The background features a patterned tapestry-like wall with a blue sky above, dotted with golden clouds. The ground is green and sparsely populated with tufts of grass.",
+    "scene_interpretation": "This scene likely represents a biblical or historical event involving a king and his advisors or subjects. The gesture of pointing and the presence of a crown suggest a moment of communication, instruction, or perhaps a prophecy being delivered. Without further context or identifying attributes, a specific interpretation is difficult, but it evokes themes of leadership, counsel, or divine revelation.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f324/481,1326,756,1578/full/0/default.jpg"
+}

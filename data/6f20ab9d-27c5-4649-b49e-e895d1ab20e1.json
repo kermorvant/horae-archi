@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an interior space. A bishop, identifiable by his mitre and vestments, kneels and receives communion from a chalice. He is attended by two other figures, likely clergy or laymen, who look on with reverence. In the background, a figure, possibly a saint or a divine manifestation, stands behind a barrier, with arms raised. An altar is set with a book and a chalice. The overall setting suggests a liturgical event, possibly a Mass or a vision during a Mass.",
+    "scene_interpretation": "Miracle of the Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door",
+        "altar"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034545r/f193/1179,811,722,696/full/0/default.jpg"
+}

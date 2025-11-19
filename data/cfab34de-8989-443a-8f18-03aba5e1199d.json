@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation of the Christ Child, held by an elderly man wearing a jeweled headdress and a blue robe. The child, with a golden halo, is presented on a richly decorated bed or altar. To the left, a woman in a red gown and green hat holds a small basket and a staff. To the right, a man in a brown robe gestures towards the child, while a woman in a blue mantle kneels with her hands clasped in prayer. The background features arched windows with tracery, set within a structure with vaulted ceilings. The floor is tiled in a green and white checkered pattern. The overall scene is framed by an architectural arch decorated with floral motifs.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "vault",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/15918403/2128,220,1123,1708/full/0/default.jpg"
+}

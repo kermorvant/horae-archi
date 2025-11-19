@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint or a noblewoman, stands holding an open book in her hands. She wears a golden robe and a headdress. To her left, a smaller figure of a man with a beard and a blue and yellow cap is depicted kneeling or seated. The background features a red tapestry with gold motifs and a dark, possibly wooden, architectural element above. The scene appears to be set within an interior space, suggested by the tapestry and the implied enclosure.",
+    "scene_interpretation": "This scene likely depicts a devotional or hagiographic subject, possibly a saint known for her piety and learning, as indicated by the open book. The presence of a supplicant figure suggests a moment of prayer or petition.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326038/f327/539,1471,376,532/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and seated, holding the Christ Child. She is adorned in a golden gown and a blue mantle, with a golden crown on her head. The Christ Child, depicted as an infant, is held in her arms. Two angels, one on the left and one on the right, stand behind the Virgin and Child, their hands clasped in prayer or adoration. In the foreground, two figures kneel in prayer: a woman in a dark habit on the left, and a figure in a green robe on the right. The figures are positioned within an architectural setting suggested by a golden arch and columns, and a draped canopy of red and blue fabric with gold ornamentation. The background is a muted grey, possibly indicating an interior space or a stylized representation of a room.",
+    "scene_interpretation": "Madonna and Child with Angels and Donors",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46241310.tif/593,220,1706,2293/full/0/default.jpg"
+}

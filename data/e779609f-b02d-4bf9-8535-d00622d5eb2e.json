@@ -1,0 +1,30 @@
+{
+    "scene_description_enriched": "A nude woman with long red hair stands in shallow water, her body partially obscured by a patch of brown. Her discarded golden robe lies on the grassy bank behind her. To the left, a tall, ornate golden fountain with spires and decorative medallions rises from a hexagonal base. In the background, a grand complex of buildings with towers, spires, and arched windows is visible, suggesting a city or palace. A colonnade with statues of figures stands in the foreground to the right, and a crowned man looks out from a balcony above. The scene is set outdoors with a clear blue sky.",
+    "scene_interpretation": "The Nymph of the Fountain",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "palace",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "window",
+        "roof",
+        "spire",
+        "tower",
+        "wall",
+        "bridge",
+        "courtyard",
+        "undefined_element"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rodez/Bibliotheque_de_la_Societe_des_lettres_de_l_Aveyron/122025302_MS0001/DEPOT/122025302_MS0001_0103/784,357,1740,3191/full/0/default.jpg"
+}

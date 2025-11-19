@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, with a beard and halo, standing and gesturing with his hands. He is framed by an arched architectural element supported by columns. To his left and right, women are shown in devotional poses. One woman on the left kneels with hands clasped in prayer. Another woman on the right also kneels with hands clasped. In the foreground, a woman kneels and appears to be washing something in a vessel. The background features a grid-like pattern, suggesting a window or screen.",
+    "scene_interpretation": "The scene likely represents Christ's encounter with the sinful woman, often identified as Mary Magdalene, who anoints his feet with oil and washes them with her tears. This event is a powerful depiction of repentance, forgiveness, and devotion.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window"
+    ],
+    "persons": [
+        "Christ",
+        "sinful woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0032/756,1629,587,993/full/0/default.jpg"
+}

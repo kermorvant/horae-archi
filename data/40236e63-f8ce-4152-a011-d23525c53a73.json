@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth. Blood is visible on his body. A sign above his head reads 'INRI' and another inscription, 'PR DİMITE QVID ILLIS OR NESTVNT FACIVNT', is partially visible. A crowd of figures surrounds the cross, some pointing upwards, others looking on. Soldiers with spears and banners are present, as well as two horses and a dog. In the background, a city with towers and buildings is visible under a blue sky with stylized clouds. The scene is framed by a decorative border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502484n/f37/638,552,2115,2721/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with a group of figures gathered around the body of Christ laid out on a stone sarcophagus. Christ's body is shown wounded and wrapped in a white shroud. Several figures, including the Virgin Mary and other mourners, are shown with halos, indicating their sanctity. The figures are dressed in medieval attire. The background is a stylized landscape of rolling green hills under a blue sky. The sarcophagus itself is a prominent architectural element in the foreground.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52506271h/f30/1009,562,1811,1826/full/0/default.jpg"
+}

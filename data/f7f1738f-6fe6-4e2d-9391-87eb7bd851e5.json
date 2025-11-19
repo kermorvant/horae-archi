@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a tunic and a headband, wades through water, holding a staff. Behind him, a winged figure, possibly an angel or a representation of Christ, is depicted with a halo and holding a circular object. The background features rocky terrain and sparse trees. This scene likely depicts Saint Christopher carrying the Christ Child across a river, a popular devotional image.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00113507_00440/557,356,456,497/full/0/default.jpg"
+}

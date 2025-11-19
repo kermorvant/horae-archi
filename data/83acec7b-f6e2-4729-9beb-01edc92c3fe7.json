@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The Virgin Mary, draped in a blue mantle, cradles the body of Christ, who is shown with wounds and a loincloth. To the right, a woman in a red cloak holds a cross, and another woman in a golden gown kneels with hands clasped in prayer. Behind them, a group of women look on with solemn expressions. The figures are set against a backdrop of richly patterned textiles and architectural elements, including columns and arches, suggesting an interior or a structured setting. A small white dog lies on the floor in the foreground.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100254479/f533/607,318,1166,2043/full/0/default.jpg"
+}

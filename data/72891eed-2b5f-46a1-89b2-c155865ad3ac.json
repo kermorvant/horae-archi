@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ bound and scourged, a representation of the Passion. He is shown with a halo, wearing a crown of thorns, and his torso is bare, revealing wounds and marks of flagellation. His hands are bound in front of him. To his left, a column with a rope tied around it suggests the place of his torment. To his right, a pillar topped with a handle and a whip-like object further emphasizes the instruments of his suffering. The background is simple, with horizontal lines suggesting a wooden structure or platform.",
+    "scene_interpretation": "Ecce Homo",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "pillar",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00204/331,283,678,688/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely Christ, wearing a red robe and a crown, holding a globe in his left hand and raising his right hand in a gesture of blessing. Before him, the Virgin Mary, dressed in blue, kneels with her hands clasped in prayer. To her right stands a young angel with yellow wings, also looking towards Christ. Above, another angel with red and orange wings descends, holding a crown, possibly signifying the Coronation of the Virgin. The background features a patterned tapestry and a bed with red drapery, suggesting an indoor setting, possibly a royal chamber or a symbolic representation of heaven.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458140s/f135/372,515,989,1321/full/0/default.jpg"
+}

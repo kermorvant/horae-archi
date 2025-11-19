@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity, with the Virgin Mary kneeling in prayer beside a manger containing the Christ Child. An angel stands behind her, also in prayer. Several monks in hooded robes are gathered around, looking at the infant. In the background, a complex architectural structure is visible, featuring arches, domes, and decorative elements, suggesting a grand building. The presence of a cow and a donkey further reinforces the Nativity theme.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "dome",
+        "roof",
+        "wall",
+        "column",
+        "capital",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00089/86,95,912,1516/full/0/default.jpg"
+}

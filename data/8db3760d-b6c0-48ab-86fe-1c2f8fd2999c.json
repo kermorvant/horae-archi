@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a monastic habit, sits in a landscape holding an open book and a staff. To his right, a pig is depicted. The background is a simple expanse of grey earth beneath a bright blue sky. The figure's posture and the presence of the pig suggest a devotional scene, likely representing a hermit saint associated with pigs.",
+    "scene_interpretation": "Saint Anthony Abbot",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0033/DEPOT/M441095203_MS0033_0139/1484,2259,838,903/full/0/default.jpg"
+}

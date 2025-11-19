@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a crowned and haloed figure, identified as King David, seated on an ornate throne and playing a harp. He has a long white beard and wears a royal robe. Behind him, a group of men in colorful conical hats stand, some looking towards David. The background suggests an interior architectural setting with columns and patterned walls, draped with a blue fabric. The inscription \"CEVOSERVO\" is visible on a golden frieze above the throne. This scene is interpreted as David, the Psalmist King, playing music, likely in devotion or contemplation, as he is often depicted in medieval art as a musician and poet of the Psalms.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10020246c/f137/474,221,1912,3159/full/0/default.jpg"
+}

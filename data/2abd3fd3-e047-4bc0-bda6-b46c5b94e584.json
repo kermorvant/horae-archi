@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A figure, likely a monk or cleric due to the hooded garment and tonsure, is seated at a table laden with food and drink. The figure holds a bowl in their hands, appearing to be eating. The table is covered with a cloth, and utensils are visible. Behind the figure, a shelf holds a bottle. The background features a decorative, possibly arched, element with a dotted pattern, suggesting an interior setting. The overall scene depicts a moment of sustenance within a monastic or religious context.",
+    "scene_interpretation": "Monastic Meal",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0094/2542,3459,313,449/full/0/default.jpg"
+}

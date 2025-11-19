@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "An elderly man with a long white beard and hair, dressed in a blue robe, is seated and writing on a large scroll with a quill. He is positioned behind a wooden lectern or desk. In the foreground, a lion-like creature with a long, curled tail is depicted. The background suggests an interior space with arched architectural elements and drapery.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326038/f42/560,822,431,549/full/0/default.jpg"
+}

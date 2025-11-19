@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a kneeling figure with a halo, hands clasped in prayer, wearing a brown robe over blue garments. A serpent is coiled around the figure's waist. To the right, a golden stag stands, with a small figure of Christ on the cross appearing to emerge from its antlers. The background is a landscape with green fields and a blue sky. The entire scene is framed by decorative architectural elements on the left and right, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Saint Eustace",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Saint Eustace"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0009/835,3057,598,947/full/0/default.jpg"
+}

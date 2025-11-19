@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A crowned female figure, likely a queen or noblewoman, is depicted in profile, looking upwards. She wears a regal headdress and a mantle over her shoulders, with her hands clasped in prayer. To her left, a scroll with Latin text is unfurled. In the lower left, a circular object, possibly a shield or a coat of arms, is visible. The background is textured, suggesting a patterned fabric or a stylized architectural element. The scene appears to be devotional, possibly depicting a saint or a patron praying.",
+    "scene_interpretation": "Devotional Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Crowned Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0018/3877,4087,518,650/full/0/default.jpg"
+}

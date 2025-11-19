@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a humble, wooden structure. The Virgin Mary, seated and draped in a blue mantle, holds the Christ Child, who is reaching out towards a kneeling king. The king, dressed in red and blue, offers a golden casket. Two other kings are present: one in blue and a red crown, holding a golden object, and another in a green tunic and a white crown, looking upwards towards a divine golden light emanating from above. The background suggests a stable with wooden beams and a thatched roof.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1509/DEPOT/352386106_MS1509_0056/3586,558,1514,2064/full/0/default.jpg"
+}

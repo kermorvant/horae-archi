@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a crown with feather-like adornments. He has his right hand raised in a gesture of blessing or speaking, while his left hand is held across his chest, possibly holding something or in a gesture of humility. The figure is framed by an architectural element resembling an arch, with a textured background behind him. The overall style is that of a woodcut or early print, with strong outlines and hatching. The scene is contained within a decorative border.",
+    "scene_interpretation": "This image likely represents a king or a prophet, possibly from the Old Testament, given the crown and beard. The gesture of the raised hand is often associated with preaching, blessing, or divine revelation. Without further context or accompanying text, a specific biblical or devotional interpretation is difficult to ascertain, but it could be a representation of a royal figure in prayer or a figure of authority delivering a message.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0034/1852,3776,427,652/full/0/default.jpg"
+}

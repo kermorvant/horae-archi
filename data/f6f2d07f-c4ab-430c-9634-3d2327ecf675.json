@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ in the center on the cross, flanked by two thieves on crosses. A crowd of onlookers, including soldiers in armor and civilians in various attire, are gathered below. Some figures are looking up at the crucifixion, while others appear to be in mourning. A woman in a blue robe, likely the Virgin Mary, kneels in sorrow. The setting is an outdoor landscape with rolling hills and a blue sky dotted with stars. The scene is framed by an ornate border with foliate motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/5981214/499,480,1493,2226/full/0/default.jpg"
+}

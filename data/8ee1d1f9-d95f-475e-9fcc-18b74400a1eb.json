@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crowning with Thorns. Christ, seated on a chair, is being subjected to this act by two tormentors. One figure in a blue tunic places a crown of thorns on Christ's head, while another in an orange and gold tunic presses down on it with a stick. Christ's hands are bound, and he wears a simple pink robe. The floor is tiled in a green diamond pattern. In the background, a red wall with arched windows and a decorative frieze is visible. To the left, through an arched opening, a group of figures and a stylized tree are seen, with a distant view of a walled city under a starry sky. The overall setting suggests an interior space with an opening to an exterior view.",
+    "scene_interpretation": "Crowning with Thorns",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/3c00feb7-e228-427a-8b0b-7b8d4c7098c0/796,718,1726,2645/full/0/default.jpg"
+}

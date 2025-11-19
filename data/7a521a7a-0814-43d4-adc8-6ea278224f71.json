@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a simple stable structure, indicated by wooden beams and a thatched roof. In the foreground, the Christ Child lies in a manger filled with straw, radiating a golden halo. To the left, Saint Joseph, depicted with a white beard and halo, kneels, holding a lit candle. To the right, the Virgin Mary, also with a halo, kneels with her hands clasped in prayer. Behind them, a donkey and an ox are present. The background reveals a pastoral landscape with rolling hills and distant castles, suggesting a setting outside of a major urban center. Golden rays descend from the heavens above the manger, symbolizing divine light.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Christ Child",
+        "Saint Joseph",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025266x/f58/511,1426,2103,2081/full/0/default.jpg"
+}

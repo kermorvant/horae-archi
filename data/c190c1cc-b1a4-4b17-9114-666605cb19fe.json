@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The Virgin Mary, clad in a blue mantle, is seated and holds the Christ Child on her lap. Both figures are depicted with halos and are offering a red rose. To the left, an angel with large blue wings, also with a halo, is kneeling and looking towards the Virgin and Child. The background features a decorative tapestry-like pattern of red and gold foliage. The figures are situated on a green ground, and to the right, a wooden chair is visible. The scene is framed by a decorative border.",
+    "scene_interpretation": "Madonna and Child with an Angel",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_12%2F1945_65_12_jp2.zip%2F1945_65_12_jp2%2F1945_65_12_0294.jp2/1015,1682,2286,3198/full/0/default.jpg"
+}

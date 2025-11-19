@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "Three men are depicted in a richly decorated interior. The man on the left wears a yellow robe with red trim and a white fur collar, and a green and red hat. He holds a framed tablet with Latin inscriptions. The man in the center, wearing a white turban and a fur-trimmed garment, also holds the tablet. The man on the right wears a blue tunic and a green hat, and holds a small white object. The background consists of vertical wooden panels. The tablet displays the Latin text \"DNE NE IN FVRORE IVO A IN IRA TVA CORRIPIAS M\", which translates to \"Lord, do not rebuke me in your anger, nor discipline me in your wrath.\" This is a passage from Psalm 6, a penitential psalm often used for prayer and repentance.",
+    "scene_interpretation": "Penitential Psalm",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/hba/hba-membr0035/hba-membr0035_046r.jp2/729,4668,2866,1197/full/0/default.jpg"
+}

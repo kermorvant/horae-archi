@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a royal figure, likely God the Father, seated on a throne and gesturing towards the Virgin Mary, who stands with hands clasped in prayer. Above them, an angel descends, holding a crown. To the left of the Virgin, another angel plays a harp. To the right of the throne, a kneeling angel holds a book. The background features a richly patterned tapestry and a celestial blue sky with golden stars. The overall composition suggests a divine coronation or investiture of the Virgin Mary.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "God the Father",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_006%2Fwidener_006_jp2.zip%2Fwidener_006_jp2%2Fwidener_006_0213.jp2/3330,1182,1963,2648/full/0/default.jpg"
+}

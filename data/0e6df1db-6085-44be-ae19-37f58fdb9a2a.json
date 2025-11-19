@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene is divided into two main areas, viewed through an architectural archway. The foreground depicts a woman, identified as Mary Magdalene, kneeling and anointing the feet of Christ, who is seated at a table with other figures. She is wiping his feet with her hair. To the left, a man in a pink robe stands, holding a purse, and looking towards the scene. Behind Christ, a group of men are seated at a table, some eating. The background, viewed through a separate archway, shows a landscape with a figure praying in a field, a red dragon flying above, and a group of people behind a wooden fence. This outer scene may represent a temptation or a spiritual struggle. The interior scene is richly decorated with a tiled floor and wooden beams supporting the ceiling.",
+    "scene_interpretation": "The Washing of the Feet of Christ by Mary Magdalene",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "stairs",
+        "column"
+    ],
+    "persons": [
+        "Mary Magdalene",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502694t/f128/110,103,3397,4922/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, is depicted with her head bowed and her gaze directed downwards. She is holding a white cloth, possibly a shroud or a veil, with both hands. The background is filled with text, suggesting this is an illustration within a manuscript. The overall impression is one of solemnity and contemplation.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90680221/f194/3334,2169,732,1060/full/0/default.jpg"
+}

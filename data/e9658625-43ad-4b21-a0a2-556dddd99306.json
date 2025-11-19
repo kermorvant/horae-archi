@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, his body showing wounds and blood. He wears a crown of thorns. Below the cross, on the left, stands a woman in a white veil and habit, with her hands clasped in prayer. On the right, a man, also with hands clasped in prayer, looks upwards. The background is a decorative pattern of gold motifs on a brown ground, suggesting a stylized, non-realistic setting.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8453974s/f243/438,245,1508,2298/full/0/default.jpg"
+}

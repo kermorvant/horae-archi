@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts an angel with large wings, standing within an arched architectural structure. The angel is facing forward, with its hands outstretched. Behind the angel, a cityscape is visible, characterized by numerous buildings with spires and towers, suggesting a medieval urban environment. The foreground is rendered with a textured, undulating ground, possibly representing hills or rough terrain. The overall composition is a woodcut illustration, likely from a devotional text.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "spire",
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0063/4996,1968,461,968/full/0/default.jpg"
+}

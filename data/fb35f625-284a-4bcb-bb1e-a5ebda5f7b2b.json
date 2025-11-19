@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher wading through a body of water, carrying the Christ Child on his shoulders. Saint Christopher, a large bearded man wearing a blue tunic and a white head covering, leans on a staff for support as he navigates the choppy waters. The Christ Child, depicted as a young boy with a halo, sits on Saint Christopher's shoulders, his right hand raised in blessing. A large red cloak drapes over Saint Christopher's back and shoulders, billowing in the wind. In the background, a city with towers and buildings is visible across the water, and a small boat is moored to the left. The overall impression is one of arduous journey and divine protection.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446945q/f344/867,358,978,949/full/0/default.jpg"
+}

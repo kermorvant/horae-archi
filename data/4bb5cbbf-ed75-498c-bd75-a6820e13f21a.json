@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely a king or judge, adorned in royal blue and red robes with a fur-trimmed mantle, resting on a stone bench. He is flanked by two onlookers, one wearing a red cap and another a white head covering. Facing him is a figure in a vibrant blue robe, identified by a halo as Christ, holding a staff. Behind Christ, a figure in green and blue armor, possibly a soldier or guard, points towards Christ. The background features a decorative tapestry with a diamond pattern in gold, blue, and red. The foreground is a green meadow dotted with small white and red flowers.",
+    "scene_interpretation": "Christ Before Caiaphas",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/47899873/1642,738,1281,1669/full/0/default.jpg"
+}

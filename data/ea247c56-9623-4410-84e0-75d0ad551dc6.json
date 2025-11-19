@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A bearded man, depicted as a bishop with a mitre and halo, stands holding an open book in his left hand. He wears a blue cope with gold trim over a pink dalmatic and white alb. A prominent set of keys hangs from his belt. The scene is set within an architectural interior featuring a red tapestry with gold circular motifs and a green checkered floor. To the left, a window with tracery shows a glimpse of an interior space. To the right, an arched opening reveals a landscape with trees and hills under a blue sky. The ceiling is decorated with red and blue vaulted sections, supported by columns. The figure's attire and the keys strongly suggest he is Saint Peter, the apostle and first Pope, often depicted as the keeper of the keys to Heaven.",
+    "scene_interpretation": "Saint Peter",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "column",
+        "vault",
+        "wall"
+    ],
+    "persons": [
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0069/DEPOT/M601415401_MS0069_0087/4181,883,1390,1879/full/0/default.jpg"
+}

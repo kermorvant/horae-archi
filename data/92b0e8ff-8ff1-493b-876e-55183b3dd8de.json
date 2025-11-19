@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a king, identifiable by his crown and regal attire, standing in a landscape with stylized flowers and grass. He is raising his right hand, from which rays of light emanate, towards a group of figures in the upper left. These figures appear to be a congregation of people, some with halos, suggesting they are saints or blessed souls. To the lower left, a chaotic scene unfolds with numerous demonic figures tormenting fallen human souls, some of whom are depicted as infants. The king's gesture and the surrounding imagery suggest a divine intervention or a moment of judgment. A scroll with text is visible to the right of the king's head.",
+    "scene_interpretation": "The Last Judgment",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_T1343/DEPOT/B530626201_T1343_0028/4209,883,2086,2969/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary cradling the body of Christ after the crucifixion. Mary, dressed in a blue mantle and veil, is seated and looks down with a sorrowful expression, her hands clasped. Christ's body, pale and marked with wounds, lies across her lap. The background is a stylized landscape with rolling hills, a body of water, and distant, indistinct structures that suggest a town or castle. The scene is framed by an arched border with decorative floral elements.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1685/DEPOT/352386106_MS1685_0058/3560,338,2005,2402/full/0/default.jpg"
+}

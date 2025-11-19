@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men engaged in what appears to be a craft or trade, possibly blacksmithing or metalworking. In the foreground, a bearded man, wearing a cap and tunic, holds a hammer and tongs, working on a block that resembles an anvil. Two other men, also wearing caps and tunics, are positioned behind him, observing or assisting. The background features architectural elements suggesting an indoor setting, with arched windows and decorative tracery. The overall impression is one of skilled labor within a workshop or guild setting.",
+    "scene_interpretation": "Craftsman at Work",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "ornamental_tracery"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0034/514,406,714,1128/full/0/default.jpg"
+}

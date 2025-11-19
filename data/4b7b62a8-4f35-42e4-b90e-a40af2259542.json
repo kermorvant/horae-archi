@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a gathering of men, some seated and others standing, around a table. A central figure, possibly Christ, is shown holding a chalice and offering it to another man. The figures are rendered in a stylized, linear fashion typical of woodcuts. Above them, an architectural element resembling a rounded arch with decorative tracery frames the scene. The setting appears to be indoors, with the focus on the interaction between the individuals and the symbolic act of sharing the chalice.",
+    "scene_interpretation": "The Last Supper",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0044/1203,500,577,1103/full/0/default.jpg"
+}

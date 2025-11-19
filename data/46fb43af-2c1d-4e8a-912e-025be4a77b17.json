@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross at the center. To the left, the Virgin Mary, cloaked in blue and with hands clasped in prayer, is accompanied by other grieving women. Below the cross, a woman in blue, possibly Mary Magdalene, embraces the base of the cross. To the right, a man on a white horse, adorned with red and gold trappings, looks up towards the cross, accompanied by soldiers. Two other figures, possibly thieves, are depicted crucified on crosses in the background. The setting is an open landscape with a distant city skyline. The sky is a deep blue with golden stars.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0028/778,592,2360,3518/full/0/default.jpg"
+}

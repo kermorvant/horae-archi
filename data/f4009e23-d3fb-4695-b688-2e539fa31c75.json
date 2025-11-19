@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely a saint, lying on the ground, draped in a blue robe with gold trim and a pink undergarment. A rope is tied around their neck, and two men, one in blue and pink, the other in red, are pulling it. The figure has a halo, indicating sainthood. Behind them, a walled city with various buildings, including towers and houses with pitched roofs, is visible. The foreground features a low, crenellated wall. The inscription \"S Maze\" is present, suggesting the identity of the figure as Saint \"M\"aze, possibly a martyr. This scene likely represents the martyrdom of Saint \"M\"aze, being dragged to their execution or burial.",
+    "scene_interpretation": "Martyrdom of Saint Maze",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "tower",
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "battlement",
+        "crenellation",
+        "tower"
+    ],
+    "persons": [
+        "Saint Maze"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f43/1662,472,702,844/full/0/default.jpg"
+}

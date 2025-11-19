@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated and holding the Christ Child, with two angels flanking her. The Virgin Mary is dressed in a draped robe and veil, with a halo. The Christ Child is held in her arms, with one arm raised. The angel on the left plays a harp, and the angel on the right plays a lute. Both angels have halos and wings. They are positioned within a tent-like structure with a patterned backdrop. The tent is decorated with stars and circular motifs. The overall impression is one of a serene and devotional gathering, likely representing a moment of repose or contemplation.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0085/DEPOT/M601415401_MS0085_0043/4040,667,1841,2433/full/0/default.jpg"
+}

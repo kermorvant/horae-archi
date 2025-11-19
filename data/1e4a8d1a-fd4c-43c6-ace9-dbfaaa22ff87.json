@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, dressed in blue, holds the Christ Child, who is reaching out towards a figure in a red mitre and pink robe, likely a priest or bishop, who is gesturing towards a stone altar. To the left, another woman in a pink dress carries a basket containing two doves. The background features a decorative, tiled pattern and a green canopy above. The figures are rendered with halos, indicating their saintly status. The altar is draped with a red cloth adorned with gold motifs and fringed with white. The scene is set against a patterned backdrop, suggesting an interior space, possibly within a temple or church.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "altar",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0029/DEPOT/352386106_MS0029_0063/1471,634,1455,1869/full/0/default.jpg"
+}

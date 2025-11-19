@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a solitary figure, likely Christ, standing within an arched architectural frame. The figure is clad in a white tunic and a vibrant pink robe, with a halo of rays emanating from his head, indicating divinity. He holds a long, green staff in his left hand and his right hand is partially obscured, but appears to be holding a small orb. The background is a striking blue, with abstract gold markings that could represent divine light or script. The ground beneath the figure is rendered in a sandy, textured beige. The overall impression is one of solemnity and spiritual contemplation, possibly representing Christ as the Man of Sorrows or a similar devotional image.",
+    "scene_interpretation": "Christ as Man of Sorrows",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55006457g/f288/286,95,752,1001/full/0/default.jpg"
+}

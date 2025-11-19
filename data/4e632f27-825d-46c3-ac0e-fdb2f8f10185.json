@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts God the Father, crowned and with a long beard, holding the body of Christ after the crucifixion. Christ's body is pale and shows wounds, including the stigmata. A dove, representing the Holy Spirit, hovers between God the Father and Christ. Two figures, likely mourners or disciples, stand on either side of the central figures, supporting Christ's body. The scene is set within an architectural frame, suggesting an interior space, with arched windows visible in the background. The figures are adorned with rich garments, and the background features a decorative red tapestry with gold motifs. The overall composition evokes a sense of sorrow and divine contemplation.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010380f/f313/362,202,1004,1553/full/0/default.jpg"
+}

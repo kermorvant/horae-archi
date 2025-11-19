@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A man kneels in a golden robe, holding a sheaf of wheat. He looks upwards with a pained expression. Above him, in a blue, cloud-filled sky, a figure resembling Christ, with a beard and halo, looks down with hands clasped in prayer. In the background, a winding path leads through a green landscape towards a stone castle on a hill. The scene depicts a moment of supplication and divine observation.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f35/1195,4313,1719,1479/full/0/default.jpg"
+}

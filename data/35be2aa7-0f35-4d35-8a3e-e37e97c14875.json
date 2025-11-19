@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a divine council or Trinity. Two figures, likely representing God the Father and God the Son, are seated. The figure on the left, with a beard and long hair, points to an open book held between them. The figure on the right, also bearded, holds a globe. Above them, a dove, symbolizing the Holy Spirit, descends from a golden halo. Two winged figures, possibly angels, are positioned in the upper corners, looking towards the central figures. The setting appears to be a celestial or metaphysical realm, indicated by the golden background and the absence of earthly architecture.",
+    "scene_interpretation": "The Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537206/50308396.tif/1052,412,1635,3228/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a man with a stern expression, wearing a hooded garment and a belt with decorative elements. He is framed by architectural elements that suggest an interior setting, with columns and decorative arches visible. The background is filled with a stippled pattern, possibly representing a textured wall or a celestial expanse. The man's attire and the surrounding architecture suggest a figure of some importance, possibly a patron or a saint.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0098/2833,3966,514,714/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two male figures, both with halos indicating sainthood, are depicted. The figure on the left wears a blue robe over a yellow tunic and holds a closed book. The figure on the right wears a red robe over a yellow tunic and holds an open book. Both figures have beards and appear to be engaged in discussion or contemplation of the texts. The background is a dark, textured surface, possibly representing a wall or a simple interior space. The scene is framed by a red border with gold ornamentation.",
+    "scene_interpretation": "Saints Discussing Scripture",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint",
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0033/901,3619,513,737/full/0/default.jpg"
+}

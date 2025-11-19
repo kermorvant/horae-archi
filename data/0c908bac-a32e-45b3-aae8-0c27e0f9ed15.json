@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, with a halo, is seated and holding the Christ Child, who is also haloed and looking upwards. To the left, an elderly man with a long white beard, dressed in a golden robe and white mantle, kneels and offers a golden chalice. Behind him, a younger man in a red cap and yellow tunic holds a golden reliquary. To the right of Mary, a man in a green tunic and purple leggings, wearing a purple cap, stands with his hands on his hips, holding a golden chalice. Behind him, another man with a beard and brown robe is partially visible. The background is dark and appears to be a rough, rocky or earthen setting, with some suggestion of architectural elements or a cave-like structure above. The ground is rendered in earthy tones with some green vegetation.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_113%2Flewis_e_113_jp2.zip%2Flewis_e_113_jp2%2Flewis_e_113_0044.jp2/800,733,2569,3794/full/0/default.jpg"
+}

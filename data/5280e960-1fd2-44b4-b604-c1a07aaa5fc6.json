@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an interior space characterized by a vaulted ceiling and columns. In the foreground, a figure in a blue robe with a red hood kneels, presenting something to a figure in a pink robe who is holding a white cloth. To the left, two other figures are visible, one in a yellow tunic and red hat, and another in a blue robe and gold halo. The floor is decorated with a diamond pattern. The architectural setting suggests a formal or religious interior.",
+    "scene_interpretation": "The scene is likely an episode from the life of a saint or a biblical narrative, possibly involving a presentation or offering. The halos suggest the presence of holy figures. Without further context or clearer iconography, a specific interpretation is difficult, but it evokes themes of devotion and reverence.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS26%2FBMC_MS26_jp2.zip%2FBMC_MS26_jp2%2FBMC_MS26_0073.jp2/2568,1408,2520,3784/full/0/default.jpg"
+}

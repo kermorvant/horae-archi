@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, is depicted seated on a green dragon. She wears a blue robe and a reddish-brown cloak, and holds a cross in her hands. Her gaze is directed upwards, and rays of light emanate from her halo. Behind her, a large window with a grid pattern reveals a blue, mountainous landscape. The scene is framed by an ornamental border with floral motifs. The presence of the dragon and the saint's triumphant posture suggest the iconography of Saint Margaret of Antioch, who is often depicted overcoming the dragon that imprisoned her.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f190/798,224,781,1271/full/0/default.jpg"
+}

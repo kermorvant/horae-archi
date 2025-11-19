@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a humble stable. The Virgin Mary, clad in a blue robe and white veil, tenderly holds the Christ Child. Three Magi, distinguished by their rich attire and headwear, approach to offer gifts. One kneels before Mary, presenting a golden vessel, while another, dressed in blue and gold, holds a similar offering. The third Magus, depicted with darker skin and wearing a striped robe, also carries a gift. Behind them, other figures observe the scene. The architecture is rudimentary, suggesting a stable with a thatched roof and wooden supports, with an opening revealing a glimpse of the outdoors.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0036/DEPOT/751085109_LDUT_0036_0094/1435,685,1049,1889/full/0/default.jpg"
+}

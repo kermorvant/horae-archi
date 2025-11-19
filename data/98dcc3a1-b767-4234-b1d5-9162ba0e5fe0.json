@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation ceremony, likely the Presentation of Christ in the Temple. An elderly man, dressed in a bishop's mitre and ornate golden vestments, holds the Christ Child. The child is naked and appears to be looking towards the viewer. To the right, a woman in a blue mantle, presumably the Virgin Mary, is shown with her hands clasped in prayer. Behind the central figures, a crowd of onlookers is visible. The setting appears to be within a building, suggested by the presence of an architectural structure with a canopy overhead and a stone altar-like structure in the foreground. The overall atmosphere is one of reverence and devotion.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "canopy",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3781/Vat.lat.3781_0060.jp2/647,327,746,1155/full/0/default.jpg"
+}

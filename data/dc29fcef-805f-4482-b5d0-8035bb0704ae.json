@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a man in a red robe hanging from a tree by a rope, his eyes wide open and mouth agape in apparent distress. Below him, on the grassy ground, lies a discarded blue garment. In the background, a fortified castle with multiple towers is situated on a hill, accessed by a winding path and stairs. The landscape is dotted with trees and bushes under a clear blue sky. This imagery likely represents the suicide of Judas Iscariot, a biblical event where he hanged himself after betraying Jesus.",
+    "scene_interpretation": "Judas's Suicide",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "stairs",
+        "tower",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0152/2450,1496,796,1479/full/0/default.jpg"
+}

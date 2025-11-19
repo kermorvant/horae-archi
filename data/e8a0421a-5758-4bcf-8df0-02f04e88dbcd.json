@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A man wearing a checkered cap, a striped tunic, and white stockings is depicted in a landscape, bent over and engaged in digging with a tool. The background features rolling hills, trees, and a distant building with a tower. The scene likely represents agricultural labor or a pastoral activity, possibly alluding to the cycle of seasons or the diligence of work.",
+    "scene_interpretation": "Agricultural Labor",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511766t/f6/1504,1255,481,417/full/0/default.jpg"
+}

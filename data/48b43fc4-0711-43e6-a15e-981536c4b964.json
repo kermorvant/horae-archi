@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, bound and scourged, standing in the center. He is wearing a loincloth and has a halo. To his left, a man in a blue tunic and pink hose raises a whip, about to strike him. To Christ's right, two figures stand over him; one, in a tan tunic and blue hose, holds a stick, while another, wearing a crown and blue garment, looks on. Behind them, a brick wall forms the backdrop, with a hint of green landscape above. The scene is a representation of the Flagellation of Christ.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/mss_0095_031%2Fmss_0095_031_jp2.zip%2Fmss_0095_031_jp2%2Fmss_0095_031_0064.jp2/1215,7003,2168,2687/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a man in a blue tunic and red cloak, with a beard and a halo, looking upwards with his hands raised in supplication. He holds a staff. Above him, an angelic figure with wings, also with a halo, is depicted in white garments, with hands clasped in prayer. The background is a vibrant blue sky, and a hint of architectural structure, possibly an arch, is visible at the top. To the right of the man, a white, fluffy sheep is depicted, facing towards the viewer. The overall impression is one of divine intervention or prayer.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "David",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0025/4805,901,285,904/full/0/default.jpg"
+}

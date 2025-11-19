@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a standing figure of Christ, showing wounds on his chest and feet, holding a cross in his right hand. He is reaching towards a kneeling figure of the Virgin Mary, who is looking up at him with her hands clasped in prayer. Behind them, a stylized tree with green foliage is visible. The background is a rich gold, suggesting a divine or heavenly setting. The upper border of the image features a decorative architectural frieze with pointed arches and pinnacles, rendered in red, blue, and grey.",
+    "scene_interpretation": "Noli me tangere",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pinnacle"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dn556rp6795%2FW37_000204_1200/3703,2287,1530,2506/full/0/default.jpg"
+}

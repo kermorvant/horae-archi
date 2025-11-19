@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Baptism of Christ. John the Baptist, clad in a dark, rough garment and a white sash, stands on the right bank of a body of water, pouring water from a shell onto the head of Christ. Christ, depicted as a nude youth with a golden halo, stands in the water, which is rendered with green wavy lines. To the left, two figures with golden halos are present: one, an angel with large white wings, wears a blue robe, and the other, possibly a disciple or another angel, wears a red robe and holds a white cloth. The background features a blue sky with stylized trees and rocky terrain. The overall composition suggests a natural setting for this significant religious event.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "John the Baptist",
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00080/449,306,939,1301/full/0/default.jpg"
+}

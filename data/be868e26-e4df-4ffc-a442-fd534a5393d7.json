@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two bearded men, each wearing a distinctive hat, are depicted in profile, facing each other. The man on the left wears a green, wide-brimmed hat and an orange garment. The man on the right wears a reddish-brown, rounded hat with decorative elements and a green garment. They are separated by a vertical architectural element that resembles a column or pillar, topped with a decorative element that suggests a canopy or entablature. The background is plain, with a border framing the scene.",
+    "scene_interpretation": "This image likely depicts a scene from the Old Testament, possibly representing two prophets, kings, or important figures engaged in dialogue or contemplation. Without further context or identifying attributes, a specific biblical event cannot be definitively identified. The architectural element might symbolize a sacred space or a place of authority.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_impr_2003_1_078/DEPOT/M490075203_impr_2003_1_078_0091/4690,855,503,514/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, likely a saint or holy figure, is depicted wearing a dark monastic robe and a golden halo. He holds an open green-covered book in his left hand and appears to be reading or contemplating it. The figure is framed by a Gothic-style window with blue sky visible through its panes. Behind the figure, a decorative tapestry or fabric with gold scrolling patterns on a dark red background is visible. Below the figure, architectural elements suggest a niche or a balcony with decorative moldings and what appear to be miniature arches.",
+    "scene_interpretation": "Saint Reading",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "arch",
+        "microarchitecture",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f16/2569,1687,268,706/full/0/default.jpg"
+}

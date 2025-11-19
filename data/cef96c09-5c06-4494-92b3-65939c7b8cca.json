@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in an indoor setting. On the left, a richly decorated altar or table is visible, covered with green and white cloths, and adorned with gold trim. To the right, three men stand together, one in the foreground holding a scroll that unfurls and displays text. Behind them, another man is partially visible. A central figure, possibly Christ, stands to the far right, holding a sword and wearing a blue robe and a golden cloak. The figures are dressed in medieval attire, with halos indicating sanctity or importance. The overall impression is one of a religious or devotional scene, possibly illustrating a biblical narrative or a saint's life.",
+    "scene_interpretation": "The presence of a scroll with text, halos, and a figure holding a sword, combined with the altar-like structure, suggests a scene related to scripture, prophecy, or martyrdom. The text on the scroll, \"Iam notis et in uider,\" appears to be Latin and might be a quote from scripture or a devotional text. The figure with the sword could represent a martyr or a figure of authority in a religious context.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7ea28bfe-f572-416d-947e-2a1373c3dfa9/2049,1426,698,648/full/0/default.jpg"
+}

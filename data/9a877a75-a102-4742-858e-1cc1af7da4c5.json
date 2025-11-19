@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ Child in the Temple. The Virgin Mary, clad in a blue mantle, kneels before a table covered with a white cloth, upon which the Christ Child lies. Joseph, holding a basket of doves, stands to her left. To the right, a bishop, wearing a mitre and ornate vestments, holds the Christ Child. A young acolyte stands behind them, holding an open book. The figures are set within an architectural framework featuring elaborate golden columns and arches, suggesting a sacred space. The floor is tiled in a checkerboard pattern. The overall scene is rendered with rich colors and intricate details, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Joseph",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.487/Barb.lat.487_0111_fa_0051r.%5B01.fx.0000%5D.jp2/213,156,752,1020/full/0/default.jpg"
+}

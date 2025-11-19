@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A funeral procession is depicted outdoors, with a group of figures in clerical attire, including a bishop or high-ranking cleric in a blue cope adorned with gold floral motifs, leading the procession. They are accompanied by other clergy and laypeople, some with hands clasped in prayer. In the foreground, a man in a red tunic and blue cap is tending to a shrouded body being placed into a grave, which is surrounded by a decorative black netting. In the background, a walled structure and trees suggest a cemetery or sacred ground, with a small building, possibly a chapel or mausoleum, visible to the right. The scene likely represents a burial service, a common devotional theme in Books of Hours, emphasizing mortality and the hope of resurrection.",
+    "scene_interpretation": "Burial of the Dead",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "column",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Bishop",
+        "Cleric",
+        "Layperson"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0022/DEPOT/B441096101_MS0022_0213/3670,592,1328,1970/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts King David seated on a raised platform, writing on a scroll. He is dressed in a royal blue robe adorned with gold patterns. Before him lies a harp, suggesting his musical and poetic talents. The setting is a balcony or loggia overlooking a verdant landscape dotted with several castles and towers. The architecture in the background features conical roofs and crenellated battlements, indicative of medieval fortifications. The inscription \"DAVID\" is visible near the figure, confirming his identity. The overall scene evokes a sense of contemplation and royal inspiration.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "roof",
+        "battlement",
+        "wall",
+        "stairs"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0296.jp2/627,1243,1282,1460/full/0/default.jpg"
+}

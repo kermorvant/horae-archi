@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher wading through water, carrying the Christ Child on his shoulders. Saint Christopher, a large, bearded man, is dressed in a blue tunic and red cloak, holding a tall staff. The Christ Child, depicted as a young boy with a halo, sits on his shoulders, holding a globe and raising one hand in blessing. To the left, an older man with a beard, possibly a hermit or a traveler, is partially visible, looking towards Saint Christopher. The background shows a blue sky and a distant, indistinct landscape with a building. The overall impression is one of a perilous journey across water, guided by faith.",
+    "scene_interpretation": "The Transitus Sancti Christophori (The Crossing of Saint Christopher)",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0135/DEPOT/315556101_MS0135_0121/4030,2602,940,1146/full/0/default.jpg"
+}

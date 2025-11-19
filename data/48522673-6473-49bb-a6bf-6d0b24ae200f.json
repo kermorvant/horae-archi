@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and serene expression, standing amidst a crowd of figures. He is robed and raises his hands in a gesture of blessing or teaching. To his left, a figure with a beard and halo, possibly an apostle or a prophet, stands close. Surrounding Christ are numerous heads and upper bodies of people, some looking upwards towards him, others appearing to be in distress or awe. In the foreground, several figures are depicted lying down or in a kneeling posture, some with weapons, suggesting a conflict or a moment of surrender. The background features stylized architectural elements, including arches and what appear to be buildings or fortifications, rendered in a simplified, almost abstract manner. The overall impression is one of divine presence and human reaction, possibly depicting a moment of Christ's ministry or a scene from his Passion.",
+    "scene_interpretation": "Christ Teaching or Blessing",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0017/1040,625,539,1016/full/0/default.jpg"
+}

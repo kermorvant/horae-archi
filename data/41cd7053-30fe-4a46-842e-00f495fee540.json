@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross against a golden, shimmering background. To the left of the cross stands the Virgin Mary, dressed in a dark robe with pink trim, her head bowed and hands clasped. Beside her is a white horse, and behind them are two figures in red and green garments. To the right of the cross, a figure in a blue robe and pink mantle kneels with hands clasped in prayer. Behind this kneeling figure are three other individuals, one wearing a blue cap, all looking towards the crucifixion. The ground is depicted as rocky and uneven.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515833p/f392/576,555,1075,1394/full/0/default.jpg"
+}

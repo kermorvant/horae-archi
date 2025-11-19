@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable structure, characterized by a golden, angled roof and dark walls. The Virgin Mary, with a halo, is kneeling and praying before the Christ Child, who lies naked on a blue cloth on the ground. To the left, Saint Joseph, an elderly man with a white beard, is seated, holding a staff and looking towards the infant. Behind them, the head of a donkey is visible. In the background, a stylized cityscape with towers and buildings is rendered under a blue sky with golden rays descending, suggesting divine light.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0026/3600,1787,1241,1659/full/0/default.jpg"
+}

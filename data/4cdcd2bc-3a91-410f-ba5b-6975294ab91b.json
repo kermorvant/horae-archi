@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a stable-like structure. The Virgin Mary, with a halo, cradles the Christ Child, who is naked and looking towards the viewer. Three Magi are present: one, wearing a red cap, offers a gift; another, with a blue turban, holds a golden chest; and the third, an older man with a white beard, kneels and presents a golden chalice. The background shows a stone archway leading to an outdoor scene with trees, and the interior of the stable is suggested by wooden beams and a thatched roof.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lehigh_codex_017%2Flehigh_codex_017_jp2.zip%2Flehigh_codex_017_jp2%2Flehigh_codex_017_0108.jp2/2304,1877,4923,6892/full/0/default.jpg"
+}

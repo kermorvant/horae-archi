@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer, with his hands clasped and eyes raised upwards. He is dressed in a monastic habit. To his left, a table with a vase and a patterned cloth is visible. Behind him, a richly decorated bed and a harp are present. In the background, an angel descends from the sky, carrying a scroll, towards a cityscape with boats on a river. Above the cityscape, a circular medallion contains a bust of Christ. The entire scene is framed by an ornate, decorative arch.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "window",
+        "roof",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038638f/f89/2198,113,1036,1397/full/0/default.jpg"
+}

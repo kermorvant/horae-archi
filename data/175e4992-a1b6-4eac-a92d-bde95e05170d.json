@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "In a pastoral outdoor setting, three shepherds are depicted. Two stand and one kneels, all looking upwards towards a celestial vision. Above them, an angel appears on a cloud, radiating light. The shepherds are tending to a flock of sheep, some of which are visible in the background. The scene likely represents the Annunciation to the Shepherds, a pivotal moment in the Nativity narrative where angels announce the birth of Christ to humble shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS2788/DEPOT/B514546101_MS2788_0046/521,215,987,1193/full/0/default.jpg"
+}

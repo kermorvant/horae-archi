@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The Virgin Mary, seated and holding the Christ Child, is depicted within an architectural setting. The Christ Child, dressed in green, reaches towards the Virgin's face. Behind them stand two figures in red and brown robes, their expressions suggesting surprise or awe. The scene is framed by arches and columns, with a glimpse of a landscape with buildings and a river visible through an opening on the left. The floor is tiled in a green and white checkerboard pattern, and a potted plant with white lilies sits in the foreground. The overall scene likely represents a devotional image, possibly the Virgin and Child with attendants or a scene from the life of the Virgin.",
+    "scene_interpretation": "Virgin and Child",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/15918286/543,185,1102,1709/full/0/default.jpg"
+}

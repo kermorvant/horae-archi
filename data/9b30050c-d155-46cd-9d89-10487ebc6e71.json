@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ centrally nailed to a wooden cross. To his left and right are the two thieves, also crucified. Below the crosses, a group of figures mourns. On the left, the Virgin Mary, veiled in blue, is comforted by another woman, possibly Mary Magdalene, who is kneeling and reaching towards Christ. To the right of Christ, a group of men in elaborate attire, some in armor, observe the scene. In the background, a walled city with towers and spires is visible, set against a blue sky with celestial bodies. The ground is green and scattered with a skull and bones, symbolizing Golgotha.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xz282wc8447%2FW284_000125_1200/379,660,3316,4725/full/0/default.jpg"
+}

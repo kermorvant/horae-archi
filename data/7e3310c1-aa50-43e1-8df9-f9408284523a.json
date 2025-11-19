@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A young woman with auburn hair, wearing a long, flowing pink gown, stands in a grassy field dotted with small white and red flowers. She holds a large, green, palm-like frond diagonally across her body, resting its base on the ground. Her head is tilted slightly, and her gaze is directed downwards. The background is a clear blue sky, suggesting an outdoor setting. The scene is likely an allegorical representation or a depiction of a saint, possibly Saint Barbara, who is often depicted with a palm frond, a symbol of martyrdom.",
+    "scene_interpretation": "Saint Barbara",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Barbara"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_004%2Fwidener_004_jp2.zip%2Fwidener_004_jp2%2Fwidener_004_0018.jp2/1854,4949,953,1095/full/0/default.jpg"
+}

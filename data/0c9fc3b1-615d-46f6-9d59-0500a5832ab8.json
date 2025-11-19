@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. The Virgin Mary, seated on an ornate chair, is reading a book. The Angel Gabriel, with red and blue wings, kneels before her, holding a branch and looking upwards. A beam of light, originating from a figure in the upper left, descends towards Mary. The architectural setting is elaborate, featuring a multi-tiered structure with arches, columns, and decorative tracery. The background includes a blue sky with golden stars and some trees. The overall scene is rendered with vibrant colors and intricate details, typical of medieval manuscript illumination.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "tracery_window",
+        "arcade",
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/aa8eb40c-49f5-4133-8234-4750f17b7bf1/1126,801,2000,2926/full/0/default.jpg"
+}

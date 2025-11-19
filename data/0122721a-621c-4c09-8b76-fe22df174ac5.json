@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and bearing wounds, being supported by several figures. Two men are shown holding Christ's body, one from the front and another from behind. A woman, likely the Virgin Mary, is shown reaching out to touch Christ's face, her head covered by a veil. Another figure, possibly a disciple or follower, is visible behind Christ, and a man with a beard and hat stands to the right, looking towards Christ. The background features architectural elements that suggest a building, with arched openings and decorative tracery. The overall impression is one of sorrow and lamentation over Christ's suffering.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0065/6002,1998,639,1103/full/0/default.jpg"
+}

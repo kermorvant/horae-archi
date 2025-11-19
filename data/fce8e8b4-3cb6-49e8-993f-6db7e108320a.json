@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "Two bearded male figures stand within an architectural frame. The figure on the left wears a reddish-brown robe with gold trim and a blue undergarment, holding a book. He also carries a staff topped with a crescent moon-like symbol. The figure on the right is draped in a dark grey cloak over a green garment. Both figures have halos, suggesting they are saints or important religious figures. The scene is framed by an arch decorated with gold ornamentation, and the background is a vibrant blue sky with stylized clouds. The presence of halos and the book suggests a religious context, possibly depicting saints or biblical figures.",
+    "scene_interpretation": "Saints",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0010/5057,974,521,1026/full/0/default.jpg"
+}

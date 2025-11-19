@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body draped in a blue cloth. Below him, a group of mourners, including figures in blue and pink robes, are gathered. To the right, soldiers in armor are present, one holding a shield with a red dragon emblem. The background is a decorative pattern of gold diamonds on a grey field. The overall impression is one of solemnity and sorrow.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Soldier"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00214/461,355,921,1204/full/0/default.jpg"
+}

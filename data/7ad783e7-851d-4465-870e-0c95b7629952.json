@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a rural landscape with several figures engaged in agricultural labor. In the foreground, two individuals, likely peasants, are shown working. The person on the right wields a sickle, appearing to cut crops, while the person on the left carries a long pole. Behind them, another figure is visible, also seemingly involved in fieldwork. In the background, a building with a pitched roof and windows is depicted, suggesting a rural dwelling or farmstead. Above the figures, a circular medallion contains an image of a fish and a scorpion, possibly representing astrological signs or a symbolic motif. The overall setting is an outdoor agricultural field, with hints of rural architecture.",
+    "scene_interpretation": "Agricultural Labor",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1059733/2425,449,968,938/full/0/default.jpg"
+}

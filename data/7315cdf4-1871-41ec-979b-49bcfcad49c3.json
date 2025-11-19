@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ Child in the Temple. The Virgin Mary, in a blue robe, presents the Christ Child to a bearded man in bishop's attire, who holds a chalice. Joseph, in a purple and orange robe, stands to the left, holding a dove. Two women in green and yellow robes stand to the right and left respectively, and another figure in a blue headdress is visible behind Joseph. The figures are positioned within an interior space with a pink brick wall and arched windows with latticework. The floor is tiled in a green and black checkerboard pattern. The scene is framed by a decorative border.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zs503zt2162%2FW240_000418_1200/4675,1556,2735,4272/full/0/default.jpg"
+}

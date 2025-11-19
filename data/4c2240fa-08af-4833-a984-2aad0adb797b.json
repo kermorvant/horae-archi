@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, depicted in a blue tunic and a red cloak trimmed with gold, stands holding a green book and a staff. He wears a dark cap with a white emblem. In the background, a castle or fortress is visible on a hill, with rolling hills and a pale blue sky. The figure has a halo, suggesting sanctity. The scene is likely a depiction of a saint, possibly Saint Christopher, given the staff which resembles a shepherd's crook or a pilgrim's staff, and the book, often associated with learned saints or evangelists.",
+    "scene_interpretation": "Saint's Portrait",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025266x/f128/496,286,832,871/full/0/default.jpg"
+}

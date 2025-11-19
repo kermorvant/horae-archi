@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable structure. The Virgin Mary, in a blue mantle and white veil, kneels with her hands clasped over her chest, gazing downwards. Beside her, the Christ Child lies in a manger, bathed in a golden halo. To the left, Saint Joseph, an elderly man with a white beard, is seated, leaning on a staff, also looking towards the child. Behind them, several figures, possibly shepherds, peer into the stable from an opening. In the background, a landscape with buildings and a body of water is visible. The stable itself is constructed of wooden beams and planks, with a thatched roof.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "pillar",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550098895/f72/370,337,1444,1852/full/0/default.jpg"
+}

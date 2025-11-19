@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man, likely a monk or a religious figure, in profile. He wears a hooded robe and has his right hand raised to his ear, as if listening intently or in contemplation. His left hand holds a folded document or scroll. The figure is framed by architectural elements that suggest an interior space, possibly a niche or a decorative architectural surround. The overall style is that of a woodcut or wood engraving, common in early printed Books of Hours.",
+    "scene_interpretation": "This image likely represents a saint or a religious figure in a moment of divine inspiration, contemplation, or receiving a message. The gesture of listening with the hand to the ear is often associated with prophets or individuals receiving divine revelation. The document in his hand could symbolize scripture, a divine decree, or a prayer.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0097/4121,3913,477,714/full/0/default.jpg"
+}

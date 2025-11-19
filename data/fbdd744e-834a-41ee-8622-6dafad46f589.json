@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and halo, stands on the left, holding a golden disc in his right hand. He is richly attired in a pink cope over a green chasuble, with ornate gold trim. Behind him is a patterned tapestry of blue and gold. To the right, a pink architectural structure rises, featuring arched windows and a balcony. Several figures, including a man in a blue robe with a beard and two women, peer out from an opening in the building. The scene appears to depict a religious or civic event involving the bishop and the inhabitants of the building.",
+    "scene_interpretation": "Saint Gregory the Great",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall",
+        "balcony"
+    ],
+    "persons": [
+        "Saint Gregory the Great"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f730/703,787,1888,2694/full/0/default.jpg"
+}

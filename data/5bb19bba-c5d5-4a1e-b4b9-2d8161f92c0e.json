@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A nude child with blond hair is depicted watering a patch of grass with a blue watering can. The child is leaning forward, pouring water from the can onto the ground. In the background, a river or body of water is visible, with steps leading down to it. Beyond the water, a city skyline with prominent towers and buildings is rendered in muted colors. The scene is framed by an arched border, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "This scene likely represents the astrological sign of Aquarius, which is often depicted as a youth pouring water. In the context of a Book of Hours, such zodiacal representations were common and could be used to mark the passage of time or as allegorical elements.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0017.jp2/1694,3460,1486,882/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts an interior space with an arched opening revealing an outdoor landscape. In the foreground, a young man in armor kneels before a seated king. The king, adorned in a blue robe and a white crown, gestures with his right hand. Behind the king, several figures stand, some wearing elaborate hats. The kneeling figure holds a staff. The outdoor scene visible through the arch shows two figures engaged in an activity, possibly hunting or farming, with a distant castle-like structure on a hill. The architectural elements suggest a royal or noble setting.",
+    "scene_interpretation": "This scene likely depicts a moment from the Old Testament, possibly David before King Saul, or a similar narrative of a supplicant or messenger addressing royalty. The presence of a king and a kneeling figure suggests a scene of petition, judgment, or audience.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "King",
+        "kneeling figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/ms_1057_029%2Fms_1057_029_jp2.zip%2Fms_1057_029_jp2%2Fms_1057_029_0188.jp2/957,869,2119,3020/full/0/default.jpg"
+}

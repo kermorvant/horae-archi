@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a baptismal font where several nude figures, likely representing souls or the newly baptized, are being immersed. On the left, a bearded male figure with a halo, possibly representing John the Baptist or Christ, gestures towards the figures in the font. On the right, another haloed figure, possibly Christ, pours water from a vessel onto the heads of some of the figures. Above, a dove, symbolizing the Holy Spirit, is visible, with a hand emerging from a cloud, suggesting divine intervention. The background is dark and patterned, with decorative borders framing the scene.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "undefined_element"
+    ],
+    "persons": [
+        "John the Baptist",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_Jacquemart_Andre/751085428_MS0001(254)/DEPOT/751085428_MS0001(254)_0135/1324,652,1175,1181/full/0/default.jpg"
+}

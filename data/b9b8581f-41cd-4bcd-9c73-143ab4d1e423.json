@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Jesus, bearing wounds and a crown of thorns, being held by mourners. Christ's body is draped in a white cloth with blue stripes. Several figures surround him, including the Virgin Mary, identifiable by her blue mantle, and other individuals with halos, suggesting they are holy figures. Two men with beards and elaborate headwear are prominent, one supporting Christ's legs and another his torso. A woman with clasped hands and a sorrowful expression stands to the right. The background is a vibrant blue, and the scene is framed by architectural elements suggestive of a wooden cross and decorative borders. The inscription \"I.N.R.I.\" is visible above the cross.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-cl0124/bge-cl0124_106r.jp2/795,752,3248,4661/full/0/default.jpg"
+}

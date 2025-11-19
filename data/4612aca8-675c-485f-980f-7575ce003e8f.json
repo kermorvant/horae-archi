@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a procession of five women, two of whom are identified as martyrs by their halos and the swords they carry. An angel with golden wings stands between them, holding a staff. Above, in a celestial band of clouds, three figures, likely representing the Holy Trinity or saints, are depicted reading a book. The figures are walking on a path in front of a cityscape with various buildings, including a small church on the left. The overall scene suggests a religious narrative, possibly a martyrdom or a procession of saints.",
+    "scene_interpretation": "Martyrdom of Saints",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "church",
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower",
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.487/Barb.lat.487_0054_fa_0023v.jp2/348,326,831,1294/full/0/default.jpg"
+}

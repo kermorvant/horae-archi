@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. Christ's body, with wounds from crucifixion visible, lies across the lap of the Virgin Mary, who is dressed in blue and white. She cradles his head and appears distressed. Around them, four other women, all with halos, express sorrow. Two are on the left, one in a red robe and the other in a blue veil, and two are on the right, one in purple and the other in blue and red. A wooden cross stands behind Christ. The setting is outdoors, with rocky hills and a blue sky in the background, suggesting a desolate landscape.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_MS2048/DEPOT/B490076101_MS2048_0022/4030,1118,1475,1766/full/0/default.jpg"
+}

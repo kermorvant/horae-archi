@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, is depicted seated and engaged in writing. They hold a quill in their right hand, poised over an open book. The figure wears a blue mantle over a grey tunic, both adorned with gold embellishments. To the left, a monstrous, furry creature with a human-like face sits beside the figure. Behind them, a Gothic window with tracery reveals a blue sky. The background features a red, patterned fabric on the right and a dark, architectural element on the left.",
+    "scene_interpretation": "Saint Jerome in the Wilderness",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/3003456/1257,1953,875,837/full/0/default.jpg"
+}

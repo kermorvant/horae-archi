@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts a group of individuals in what appears to be a religious or monastic setting. In the foreground, several figures, possibly monks or choristers, are gathered around a lectern displaying a musical score. One figure in a white robe is actively engaged with the book. Behind them, a group of three men, one in a red robe and elaborate hat, another in a blue tunic and hat, and a third in a red robe and yellow hat, stand conversing. The background reveals architectural elements including arched windows with tracery, columns, and a vaulted ceiling, suggesting an interior space. To the right, a reliquary or sarcophagus rests on a raised platform, adorned with intricate architectural details.",
+    "scene_interpretation": "The scene likely represents a choir practice or a liturgical service within a monastic or cathedral setting. The presence of the musical score on the lectern and the figures in religious attire point towards a devotional context. The reliquary suggests veneration of a saint or holy relic.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "vault",
+        "roof",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Cleric",
+        "Man in blue tunic",
+        "Man in red robe and yellow hat",
+        "Chorister"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0279.jp2/4336,3061,1299,1418/full/0/default.jpg"
+}

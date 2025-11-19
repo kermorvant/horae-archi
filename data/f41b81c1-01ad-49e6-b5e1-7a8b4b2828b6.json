@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a distinctive hat and a robe adorned with a circular emblem, is depicted in profile. He holds his hands clasped in front of him. To the left, a section of architectural ornamentation is visible, featuring a niche with a small figure inside. The background is filled with a dotted pattern, suggesting a decorative or symbolic space. The scene's composition and the figure's attire suggest a devotional or historical representation, possibly of a saint or a significant religious figure.",
+    "scene_interpretation": "Biblical Figure",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Bearded man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0024/5404,3869,345,614/full/0/default.jpg"
+}

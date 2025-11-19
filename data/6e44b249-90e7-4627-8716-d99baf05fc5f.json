@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a simple wooden stable. The Virgin Mary, dressed in a blue mantle, is seated on a red cushion, reading from an open book placed on a wooden stool. The Christ Child, with a golden halo, lies in a manger, reaching out towards the viewer. Behind the manger, a donkey and an ox are visible. To the right, Saint Joseph, wearing a red hat and green cloak over a pink tunic, holds a lantern and a bag, looking towards the Virgin and Child. The background is a starry blue sky, with a prominent star above the stable, from which rays of light emanate. The architecture is rudimentary, suggesting a humble dwelling.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/68534357/68557809.tif/793,573,1360,2053/full/0/default.jpg"
+}

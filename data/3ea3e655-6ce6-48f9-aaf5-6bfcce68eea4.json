@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene is divided into two parts by architectural elements. On the left, two figures are seated. The figure on the left wears a hooded robe and appears to be holding a bowl or vessel. The figure on the right wears a cap and a tunic, and is also holding a circular object, possibly a hat or a plate. They are positioned within an architectural setting that includes columns and decorative elements. On the right, a nude figure is depicted in water, pouring liquid from a jug. Behind this figure, a city skyline with buildings and towers is visible. The overall style suggests a woodcut illustration.",
+    "scene_interpretation": "This scene likely depicts the Baptism of Christ, with John the Baptist on the right pouring water, and possibly figures representing onlookers or participants on the left. The city in the background could represent Jerusalem or a symbolic representation of the urban setting where the event took place.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0012/3449,2999,1042,422/full/0/default.jpg"
+}

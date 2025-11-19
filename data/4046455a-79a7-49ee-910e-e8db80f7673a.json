@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue robe with gold trim, meeting Elizabeth, who is older and wears a white veil and a blue dress with a pink cloak. Both figures have golden halos. They are shown outdoors in a hilly landscape with sparse trees and vegetation. Rays of golden light emanate from the upper left, suggesting divine presence. The figures are holding hands, a gesture of greeting and recognition.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0069/DEPOT/M601415401_MS0069_0024/4105,967,1372,1785/full/0/default.jpg"
+}

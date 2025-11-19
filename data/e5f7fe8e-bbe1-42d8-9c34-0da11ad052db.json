@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a blue robe, meeting Elizabeth, who is wearing a pink outer garment and a white veil. They are embracing, their hands clasped. To the left, a bearded man in a red cloak and blue tunic, likely Saint Joseph, stands behind Mary. To the right, a young woman in a golden dress, possibly a handmaiden, stands behind Elizabeth. The figures are set in a lush green landscape with trees. In the background, a walled city with towers and spires is visible under a hazy blue sky. The entire scene is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0057/3123,488,1077,1692/full/0/default.jpg"
+}

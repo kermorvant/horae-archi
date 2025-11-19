@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Luke painting the Virgin Mary and Christ Child. Saint Luke, identified by his halo and beard, is seated and actively painting on a panel, holding a brush and palette. He is dressed in a green tunic and a pink robe. To his left, within a golden, arched shrine, is an image of the Virgin Mary holding the Christ Child. In the background, to the left, the ox, Saint Luke's traditional symbol, is visible. To the right, a window with blue panes is depicted, and a jug sits on a surface. The floor is a checkered pattern of yellow and blue squares. The scene is framed by an ornate, gilded border with floral motifs.",
+    "scene_interpretation": "Saint Luke painting the Virgin and Child",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Luke",
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jt399mb8580%2FW281_000037_1200/975,601,3246,4798/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint, is depicted seated and holding a reliquary. She has a golden halo and wears a blue mantle over a green garment. Her hands are clasped around the cylindrical reliquary, which has a pointed spire. The background features a decorative, tessellated pattern of blue, gold, and red squares, with green circular motifs. The floor is tiled in a diamond pattern of pale yellow, pink, and grey squares. The scene is framed by an ornate border with gold leaf and decorative elements.",
+    "scene_interpretation": "Saint holding a reliquary",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/tc762gc0596%2FW719_000382_1200/4403,1410,2636,3940/full/0/default.jpg"
+}

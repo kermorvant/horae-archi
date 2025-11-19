@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A female saint, identified by her halo and the cross she holds, stands with her hands clasped in prayer. She is depicted in the foreground, facing a fearsome dragon that lies before her, its mouth open and red tongue extended. The saint wears a golden dress and a crimson cloak adorned with gold patterns. The dragon is dark brown with yellow spots and sharp claws. Behind the saint, a lush green landscape unfolds, dotted with trees and rolling hills. In the middle ground, a river or body of water is visible with several sailing ships. Further in the background, a fortified castle with multiple towers and spires dominates the scene, set against a backdrop of blue mountains. The entire scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "spire",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0033/bge-lat0033_186r.jp2/468,604,1443,2152/full/0/default.jpg"
+}

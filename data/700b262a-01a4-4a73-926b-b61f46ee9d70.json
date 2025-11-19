@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A haloed man with a grey beard, dressed in a blue tunic and a red robe, sits on a wooden bench and writes in a book. To his right, a winged ox with horns rests on a green patterned floor. Behind the man, a blue curtain with gold patterns is visible, and to the right, a patterned red textile hangs. Above the red textile, a window with diamond-shaped panes is depicted. The scene is likely an illustration of Saint Luke, as he is traditionally depicted with his symbol, the winged ox, and is shown writing his Gospel.",
+    "scene_interpretation": "Saint Luke writing his Gospel",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_008r.jp2/2009,2598,1374,1904/full/0/default.jpg"
+}

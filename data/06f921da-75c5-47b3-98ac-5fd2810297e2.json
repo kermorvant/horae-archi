@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A woman, possibly the Virgin Mary, is depicted seated, wearing a head covering and a long, draped garment. She holds a lily in her right hand, a symbol of purity. Her left hand rests on a book or cushion. To her right, a vertical element, possibly a column or tree trunk, separates her from another figure whose arm is visible. The scene appears to be set outdoors, suggested by the presence of foliage above and the general lack of architectural enclosure.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0050/3405,3411,314,432/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "Three figures are depicted in conversation. The central figure, dressed in a long robe and a hat, is looking towards the right. The figure on the right, also in a robe and head covering, appears to be speaking to the central figure, gesturing with their hands. The figure on the left, in a hooded robe, is looking away and raising one hand. Behind the figures, architectural elements suggest a city or town setting with buildings and arched structures. The scene is framed by decorative architectural motifs at the top.",
+    "scene_interpretation": "The scene is not clearly identifiable as a specific biblical or devotional event. It appears to depict a secular conversation or a scene from daily life within a medieval urban context.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "gable"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0062/5835,540,640,1142/full/0/default.jpg"
+}

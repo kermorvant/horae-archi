@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, bleeding from his wounds and wearing a crown of thorns. To the left, the Virgin Mary, draped in a blue robe and white veil, looks down with sorrow. To the right, a figure, likely Saint John the Evangelist, gazes upwards towards Christ, clad in a blue tunic and a red cloak. The setting is an outdoor landscape with rolling hills, sparse vegetation, and a blue sky. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84528173/f169/424,163,1140,1684/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left and the Virgin Mary on the right. The Angel Gabriel, with large golden wings and a halo, is kneeling and gesturing towards the Virgin Mary. He holds a lily stalk, a symbol of purity. The Virgin Mary, also with a halo and a crown, is seated and reading a book. She is depicted with a gesture of surprise or acceptance. Behind the Virgin Mary is a green tapestry with gold ornamentation. The setting appears to be an interior space, suggested by the architectural elements on the left, which include columns and arches, and the wooden furniture and patterned curtain on the right. A dove, representing the Holy Spirit, descends from above towards the Virgin Mary, with rays of light emanating from it.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "window",
+        "wall",
+        "arcade"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f608/696,1241,1942,2320/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Assumption of the Virgin Mary, who is shown floating in a radiant oval against a deep blue, star-studded sky. She is surrounded by a host of angels, some playing musical instruments like trumpets, lutes, and organs, while others hold books and sing. Below, a group of figures, likely apostles, are shown kneeling and looking upwards in adoration. One small figure in the middle ground is also praying. In the upper part of the image, two figures, possibly God the Father and Christ, are depicted in a cloud, crowning the Virgin Mary. In the background, a walled city with towers and spires is visible on a hill.",
+    "scene_interpretation": "Assumption of the Virgin Mary",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/f21255d4-872d-4468-9bde-27cfc7ba8b79/2285,1200,1927,3445/full/0/default.jpg"
+}

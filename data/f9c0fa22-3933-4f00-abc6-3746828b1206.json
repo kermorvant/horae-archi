@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, with a halo, rides a donkey, holding the Christ Child, also with a halo. Joseph, dressed in a pink robe and yellow head covering, walks beside the donkey, leading it by a rope. They are in a verdant landscape with a body of water in the background, possibly a river, where boats are visible. The background is adorned with a decorative, grid-like pattern of gold, blue, and pink squares, suggesting a stylized representation of the sky or a celestial realm. Trees are scattered throughout the landscape.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10463253t/f131/450,110,1043,1482/full/0/default.jpg"
+}

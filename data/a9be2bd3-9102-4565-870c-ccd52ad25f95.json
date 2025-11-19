@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a stone altar. A woman in a blue robe kneels, presenting a swaddled infant to a bearded man wearing a red mitre and blue robes, who appears to be a bishop. Behind the bishop, another man in green and blue robes stands. To the left, a woman in a red dress and green apron holds a basket. The background features tall, narrow windows with a diamond-patterned tracery, suggesting an interior architectural setting. The overall scene likely represents a presentation or a religious ceremony involving the infant.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "altar"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1509/DEPOT/352386106_MS1509_0048/3501,558,1531,2021/full/0/default.jpg"
+}

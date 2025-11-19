@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two women, one in a reddish-brown robe and the other in a golden-brown robe, are shown holding a swaddled infant. The woman on the left cradles the baby, while the woman on the right supports it. They stand on a green grassy bank beside a body of water depicted with wavy lines. Behind them, the sky is a deep blue with scattered yellow cloud-like formations. The scene appears to be set outdoors, with no discernible architectural structures.",
+    "scene_interpretation": "Finding of Moses",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Infant",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f278/393,1315,973,1556/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. He is shown with a halo and a crown of thorns, his body bearing wounds. To the left, a blue cloth is draped. In the foreground, a figure in an orange robe and blue boots stands facing away, while a child in a blue tunic and red hat stands between them. Behind Christ, a group of soldiers with helmets and spears are visible, some with their faces turned towards the viewer. The setting is an outdoor landscape with a grassy hill and trees in the background.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bpun/bpun-A0028/bpun-A0028_093r.jp2/992,710,2156,2788/full/0/default.jpg"
+}

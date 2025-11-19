@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity. God the Father, an elderly bearded figure wearing a crown and a red cloak, holds the body of Christ, who is depicted as dead and naked, wrapped in a white loincloth. Christ's wounds are visible, including a wound on his side. The Holy Spirit is represented as a dove, flying above and behind Christ's head. The figures are set against a golden, radiating background, suggesting a divine or heavenly realm. The scene is framed by dark, rocky, or cloud-like forms on either side, creating a sense of enclosure and emphasizing the celestial nature of the event.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Cappon.218/Cappon.218_0402_fr_0190v.jp2/398,763,317,299/full/0/default.jpg"
+}

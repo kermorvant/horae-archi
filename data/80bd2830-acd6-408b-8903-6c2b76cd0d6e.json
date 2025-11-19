@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a ritualistic act taking place indoors, likely within a religious or ceremonial space. Several figures are gathered around a table covered with a red cloth adorned with gold patterns. On the table lies a naked infant, held by two individuals. One person, dressed in a dark robe and a distinctive hat, appears to be performing an action on the infant with a feather or quill. Other figures, including women in veils and men in robes and turbans, observe the scene with solemn expressions. The background features architectural elements such as columns and arched windows with tracery, suggesting a Gothic architectural style. The overall atmosphere is one of solemnity and ritual, possibly representing a religious ceremony or a symbolic act of purification or dedication.",
+    "scene_interpretation": "Circumcision",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/hr678ct7683%2FW279_000180_1200/5260,1527,3097,5203/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene is divided into two parts by a prominent red column. On the left, a crowned king, identified by the inscription \"DAVID\" on his robe, stands gesturing towards a group of figures. One figure, dressed in blue and holding a book, appears to be reading or singing, accompanied by two other individuals. Behind them, an architectural structure with green columns and arched windows is visible. On the right, a construction scene unfolds. Several figures are engaged in building a structure, with scaffolding and wooden beams. One figure in blue is digging, while another in red and blue is hammering a stone. A wooden coffin-like structure is also present. The overall scene depicts both a royal or religious gathering and manual labor, possibly related to construction or burial.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0371.jp2/4334,1731,1405,1299/full/0/default.jpg"
+}

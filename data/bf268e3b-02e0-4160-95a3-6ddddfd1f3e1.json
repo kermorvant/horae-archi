@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a female saint, identified by her halo and the cross she holds, within a fortified tower. She is dressed in a pink robe and has her hands clasped to her chest. A monstrous, dragon-like creature with fiery breath emerges from the base of the tower, seemingly attacking or threatening the saint. Above and to the right, a bust of a bearded figure, possibly God or an angel, is depicted in a blue cloud. The tower itself is rendered in a light yellow stone with crenellated battlements and arched openings. The surrounding decorative border features geometric patterns and floral motifs in red, blue, and gold.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "battlement",
+        "wall",
+        "roof",
+        "window",
+        "portal"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f271/542,540,1789,1943/full/0/default.jpg"
+}

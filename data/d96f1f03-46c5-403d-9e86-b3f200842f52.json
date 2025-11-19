@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary, a significant event in Christian iconography. Christ, seated on a throne and wearing a crown and green mantle, places a crown upon the head of the Virgin Mary, who is kneeling before him. She is adorned with a blue robe and has a halo. Above them, in a celestial realm indicated by a golden, star-filled sky, God the Father blesses the scene, holding a golden orb. Angels surround the central figures, some playing trumpets with flags bearing crosses, others looking on with reverence. The figures are set against a backdrop of a grey, brick-like wall, suggesting an architectural interior, though the upper portion opens to a divine sky. The floor is decorated with a green and gold diamond pattern.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/hw305bv4114%2FW197_000276_1200/4819,1359,3978,6727/full/0/default.jpg"
+}

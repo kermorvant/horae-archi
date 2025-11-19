@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting. On the right, a robed figure, likely a monk or scholar, is seated and writing on a scroll. They are positioned behind a desk with an open book. To the left, a younger figure, possibly an angel or a disciple, stands and holds a quill, appearing to be in the process of writing or transcribing. The background features decorative elements and what appears to be a vaulted ceiling. The overall impression is one of scholarly or religious activity, possibly the dictation or transcription of sacred texts.",
+    "scene_interpretation": "Saint Jerome in his Study",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525115590/f20/584,118,593,1004/full/0/default.jpg"
+}

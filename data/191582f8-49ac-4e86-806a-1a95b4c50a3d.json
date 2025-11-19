@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a formal interior setting where a man in a golden robe, wearing a blue turban and holding a small object, stands before a seated figure in a similar golden robe, who holds a scepter. The seated figure has a long white beard and wears a golden headdress. Behind the standing man, a group of men in various colored robes and hats are gathered. The background features a wall adorned with medallions containing portraits and decorative inscriptions. The floor is tiled, and the scene is framed by ornate, gilded architectural elements at the bottom, suggesting a palace or a grand hall. The overall impression is one of an audience or a presentation of tribute.",
+    "scene_interpretation": "Presentation of Tribute",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arcade",
+        "canopy",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f685/1188,1180,2480,3491/full/0/default.jpg"
+}

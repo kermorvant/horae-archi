@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A crowned figure, likely a king or saint, stands within a decorative architectural frame. The figure wears a blue robe and a white sash draped over their shoulder. Their right hand holds a small object, possibly a relic or a symbol of office, while their left hand is extended outwards. The background is a textured gold leaf, suggesting a divine or sacred context. The architectural surround features pointed arches and decorative elements, indicative of Gothic style.",
+    "scene_interpretation": "Saint Louis IX of France",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Louis IX of France"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0062/DEPOT/M601415401_MS0062_0017/2536,1850,519,943/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit upon the Virgin Mary and the Apostles. The Virgin Mary, dressed in a blue robe, kneels with her hands clasped in prayer. Beside her, a woman in a red robe looks on. A group of men, identifiable as Apostles by their halos, stand behind them, some looking upwards. In the background, a grand architectural structure with tall, ribbed windows and arches is visible. Above, the Holy Spirit descends in the form of a dove, radiating golden light and flames, symbolizing divine inspiration. The scene is framed by an ornate border with floral motifs.",
+    "scene_interpretation": "Descent of the Holy Spirit",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_073/DEPOT/M490075203_MS2003_1_073_0135/3936,995,1278,1870/full/0/default.jpg"
+}

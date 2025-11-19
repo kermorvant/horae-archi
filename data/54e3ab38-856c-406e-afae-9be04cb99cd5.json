@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The Virgin Mary, draped in a blue mantle, cradles the body of Christ, whose wounds are visible. To her left, a figure in a pink robe, likely Saint John the Evangelist, supports Christ's head. Below them, a figure in a red robe, possibly Mary Magdalene, kneels and reaches out towards Christ's feet. The background is a rich red with gold ornamentation, suggesting a divine or sacred setting, and rays emanate from behind the figures, further emphasizing the spiritual nature of the event. The ground beneath them is rendered in green and yellow hues.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "Saint John the Evangelist",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/233be1eb-976b-4c32-a9b0-12a6a9573a1f/969,610,1937,3417/full/0/default.jpg"
+}

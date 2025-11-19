@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered around a table, with one man seated on the left, leaning on a staff and holding a scroll or book. Another man in the center points outwards, while others look on. A donkey is visible on the right, suggesting travel or a journey. The figures are enclosed within an architectural setting suggested by an arched opening and textured background, possibly representing a building interior or a covered space. The overall composition suggests a narrative moment, possibly from a biblical story or a devotional text.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Magi"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0018/748,2809,594,891/full/0/default.jpg"
+}

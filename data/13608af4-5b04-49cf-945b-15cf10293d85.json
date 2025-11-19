@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely a king or patriarch, wearing a crown and a long beard, holding a crozier. He is positioned on a cloud. Above and behind him, an angel with large wings is descending, seemingly placing the crown on his head or bestowing a blessing. To the left, another figure, possibly a prophet or saint, is shown with hands clasped in prayer, also appearing to be on clouds. The background is filled with stylized clouds and horizontal lines suggesting a celestial or ethereal setting.",
+    "scene_interpretation": "Coronation of a King",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0060/4963,696,432,961/full/0/default.jpg"
+}

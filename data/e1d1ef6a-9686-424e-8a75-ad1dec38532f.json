@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man wearing a turban adorned with a floral motif and a richly decorated robe. He has a stern expression and is gesturing with his right hand, holding a scroll or book in his left. The background is plain, with a few scattered circles suggesting stars or celestial bodies. The figure's attire and gesture suggest he is a learned individual, possibly a prophet or a scholar engaged in contemplation or discourse.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0063/845,1750,685,872/full/0/default.jpg"
+}

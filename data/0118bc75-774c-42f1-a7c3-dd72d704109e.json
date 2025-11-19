@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man with long, wavy hair, wearing a cap and a tunic with a pendant, is depicted in profile, looking to the right. His right hand is raised with a finger pointing upwards, while his left hand rests on his lap. The background is filled with a stippled pattern, suggesting a celestial or divine setting. The figure is framed by architectural elements that appear to be decorative arches or columns, hinting at a sacred or important context. The gesture of pointing upwards is often associated with prophecy, divine instruction, or a sermon.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0025/3986,4041,451,627/full/0/default.jpg"
+}

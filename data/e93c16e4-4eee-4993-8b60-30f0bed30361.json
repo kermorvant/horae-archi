@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a divine intervention. In the upper part, a celestial figure, possibly God the Father, is shown in a red halo, gesturing with his right hand. Below him, a winged figure in a red robe, likely an angel, descends with a sword, seemingly to stop a man. This man, dressed in a golden tunic and blue mantle, stands with his left arm extended, pointing upwards with his right index finger. He faces another man, who is kneeling with his hands clasped in prayer, dressed in a blue robe and green tunic. Between the two men, a jeweled object with a blue cap rests on a white cushion. The background features a patterned red tapestry, and beyond that, a landscape with trees and a city with prominent towers and spires. To the right, a richly decorated architectural structure, possibly a throne or a canopy, is visible, with carved figures adorning its upper section. In the foreground, a golden harp lies on the floor.",
+    "scene_interpretation": "This scene likely represents the divine intervention to stop the sacrifice of Isaac, as depicted in the Book of Genesis. The angel, sent by God, halts Abraham's hand just as he is about to sacrifice his son. The kneeling figure is likely Abraham, and the figure with the sword is the angel. The presence of the harp might allude to David, a descendant of Abraham, or to the musical accompaniment of divine praise.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Abraham",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505805b/f157/253,228,817,1194/full/0/default.jpg"
+}

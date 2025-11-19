@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her blue mantle and halo, meeting Elizabeth, who is shown with clasped hands and a halo, indicating her piety. Behind Mary stands an older man with a beard, possibly Joseph, observing the encounter. The figures are set against a backdrop of rolling green hills and a distant cityscape with towers. The scene is framed by an ornate, gilded architectural border, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f51/188,155,1289,1798/full/0/default.jpg"
+}

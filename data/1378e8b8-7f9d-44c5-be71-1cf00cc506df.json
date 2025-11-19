@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a tumultuous crowd surrounding Jesus, who is being apprehended. A figure, likely Judas, is shown kissing Jesus, identifying him to the soldiers. One soldier, armored and helmeted, is falling to the ground, possibly struck by Jesus' divine power or the force of the crowd. Other soldiers with spears and swords are pushing forward. In the background, a city with a prominent church tower is visible, framed by elaborate Gothic architectural elements, including pointed arches and decorative tracery. A figure in a monk's habit is seated above, holding a scroll, possibly representing a prophet or a scribe.",
+    "scene_interpretation": "The Arrest of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "tracery_window",
+        "tower",
+        "wall",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Jesus",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0016/1065,490,1751,3096/full/0/default.jpg"
+}

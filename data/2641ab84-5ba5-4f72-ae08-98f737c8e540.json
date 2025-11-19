@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crowning with Thorns. In the foreground, Christ, wearing a red cloak and a crown of thorns, is seated. Two figures are actively placing the thorns upon his head, one with a pink tunic and green hose, the other in a green tunic and purple hat. Another figure in a blue and orange tunic looks up at Christ. In the background, through an arched opening, several figures are visible. One figure, possibly a guard, holds a whip, while another appears to be being struck. Flames are depicted in the upper left background, suggesting a chaotic or violent setting. A figure in a blue hat and green garment looks out from an upper window.",
+    "scene_interpretation": "Crowning with Thorns",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3769/Vat.lat.3769_0238_fa_0114v.jp2/1041,708,1006,1153/full/0/default.jpg"
+}

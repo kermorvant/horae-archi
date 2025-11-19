@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a nude woman with red hair and a blue veil, her head bowed and eyes closed, standing in a garden setting. She is positioned in the foreground, with her hands extended forward. Behind her, a lush green garden with bushes is visible, leading to a complex architectural ensemble of towers, crenellated walls, and arched windows, suggesting a fortified city or castle. In the background, a figure in orange robes is seen looking out from a window. A fountain with ornate carvings is also present in the garden. The overall impression is one of a serene, possibly contemplative moment within an urban or palatial environment.",
+    "scene_interpretation": "The scene likely represents the Bath of Bathsheba, a common theme in medieval art, depicting Bathsheba bathing when she is seen by King David. The nudity of the woman and the garden setting are characteristic of this narrative. The presence of the figure in the window could allude to King David observing her.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "tower",
+        "battlement",
+        "wall",
+        "bridge"
+    ],
+    "persons": [
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0147/bge-lat0147_0107r.jp2/676,529,3621,4564/full/0/default.jpg"
+}

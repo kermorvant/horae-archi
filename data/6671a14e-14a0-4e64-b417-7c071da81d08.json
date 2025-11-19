@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Angel Gabriel, with wings spread and halo, kneels and points with a long staff towards the Virgin Mary. The Virgin Mary, also with a halo, kneels on the right, her hands clasped in prayer over an open book. Above them, within an arched architectural frame adorned with floral motifs, a divine figure, likely God the Father, is depicted wearing a crown and holding a scepter, surrounded by smaller figures and radiating light. A dove, representing the Holy Spirit, is shown descending towards the Virgin Mary. The background suggests an interior space with patterned walls and a tiled floor.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034545r/f27/2896,372,957,1404/full/0/default.jpg"
+}

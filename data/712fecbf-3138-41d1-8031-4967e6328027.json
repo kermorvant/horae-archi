@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and seated on a throne, holding the Christ Child. The Christ Child reaches for an apple in Mary's hand. To the left, an angel with pink wings, dressed in a white robe, plays a lute. The figures are framed by an architectural structure with columns and an arched canopy, suggesting an interior setting. A window with a grid pattern is visible behind the Virgin and Child. The overall scene is rich with decorative elements, including gold leaf and intricate patterns on the clothing and architecture.",
+    "scene_interpretation": "Madonna and Child with an Angel Musician",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "canopy",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/ms_1057_029%2Fms_1057_029_jp2.zip%2Fms_1057_029_jp2%2Fms_1057_029_0349.jp2/2930,1016,2099,3000/full/0/default.jpg"
+}

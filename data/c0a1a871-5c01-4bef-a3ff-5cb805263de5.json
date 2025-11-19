@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her halo, embracing Elizabeth, who is also haloed and appears to be pregnant. To the left, a figure in a dark robe, possibly Saint Joseph or a religious figure, stands observing. The background features stylized trees and a distant architectural structure resembling a castle or fortified town with towers and crenellations. The figures are positioned on a decorative, swirling ground pattern.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "battlement",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9061586h/f28/2717,255,1462,1722/full/0/default.jpg"
+}

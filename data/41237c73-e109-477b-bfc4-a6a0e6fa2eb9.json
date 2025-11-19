@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a young man, likely a saint, seated and holding a stone in his left hand. He wears a reddish-brown robe with gold ornamentation over a white tunic. His hair is short and styled with a topknot, and he has a golden halo. The background is a landscape with rolling blue hills, green fields, and stylized clouds. In the distance, several indistinct architectural structures, possibly towers or buildings, are visible. The scene is framed by a decorative gold border.",
+    "scene_interpretation": "Saint Stephen",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Stephen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/492830/1048,1012,939,983/full/0/default.jpg"
+}

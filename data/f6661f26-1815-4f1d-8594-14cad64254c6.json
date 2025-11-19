@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation ceremony, likely the Presentation of Christ in the Temple, within an architectural setting that suggests a church or a grand hall. A central figure, presumably the Virgin Mary, dressed in a blue mantle, presents the Christ Child to a bishop-like figure wearing a mitre and ornate vestments. They stand on a raised platform. Several other figures, including women and men in medieval attire, surround them, observing the event. Behind the main figures, an elaborate wooden canopy with decorative tracery is visible, supported by columns. The background shows architectural elements like stone walls and arched windows, hinting at a religious or noble interior.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "canopy",
+        "stairs",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.10293/Vat.lat.10293_0222_fa_0109v.jp2/318,151,265,454/full/0/default.jpg"
+}

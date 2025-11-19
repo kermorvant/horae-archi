@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A woman with long, flowing blonde hair, draped in a red cloak, kneels with her hands clasped in prayer. She is positioned within a rocky grotto, with a view of a green, rolling landscape with trees visible through an opening. To the left, a small, cylindrical vessel with a lid sits on the ground. Above and to the left, an angel with golden wings descends from a golden halo, reaching towards the woman. The scene is framed by trees on either side and a decorative border at the top.",
+    "scene_interpretation": "Penitent Magdalene",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Mary Magdalene",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008564m/f225/409,340,1226,1142/full/0/default.jpg"
+}

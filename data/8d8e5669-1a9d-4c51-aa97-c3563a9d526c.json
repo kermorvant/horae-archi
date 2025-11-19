@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist seated outdoors, holding an open book and a quill. To his left stands an eagle, his traditional symbol, carrying a lantern in its beak. The background features a body of water and a distant castle or fortified building under a starry night sky. The figure of John is rendered with a halo, indicating his saintly status, and he is dressed in a blue tunic and a red mantle. The eagle, also with a halo, is depicted with detailed feathers and talons. The overall setting suggests a contemplative or visionary moment for the Evangelist.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Borgh.183/Borgh.183_0013_fa_0005r.jp2/277,277,734,972/full/0/default.jpg"
+}

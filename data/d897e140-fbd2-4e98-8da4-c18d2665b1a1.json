@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A central figure, likely Christ, is seated on a throne, holding a globe and a scepter. He is surrounded by a crowd of people, some of whom are looking towards him with expressions of awe or supplication. The throne is elaborate, with gothic architectural elements. The scene appears to be set within a grand, possibly ecclesiastical, interior, suggested by the arched framing and the solemnity of the figures.",
+    "scene_interpretation": "Christ Enthroned",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0145/867,416,1326,1595/full/0/default.jpg"
+}

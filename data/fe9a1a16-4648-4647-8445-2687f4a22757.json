@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary cradling the dead body of Christ in her lap. Behind them stands a wooden cross, from which Christ has been taken down. A ladder leans against the cross, suggesting the process of the Deposition. The setting is an outdoor landscape with rocky formations in the background and a green, grassy ground. The figures are rendered with a somber expression, emphasizing the pathos of the moment.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/16057531/826,442,415,403/full/0/default.jpg"
+}

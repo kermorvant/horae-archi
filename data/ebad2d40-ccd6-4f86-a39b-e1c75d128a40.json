@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, with a halo, is kneeling with her hands clasped in prayer, looking down at the Christ Child lying in a manger. The Christ Child is also depicted with a halo and is swaddled. To the right, Saint Joseph, also with a halo, kneels in prayer. Behind them, a donkey and an ox are visible. The figures are positioned within a rudimentary stable structure, suggested by wooden beams and a thatched roof. In the background, a walled city with towers and spires is visible, set against a landscape with trees. Two figures in red hats and tunics are looking over a wall in the middle ground.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Avranches/Bibliotheque_municipale/500256201_Inv.94.1.1/DEPOT/500256201_Fds_Pigeon_Inv_94_1_1_0039/3908,582,1823,2462/full/0/default.jpg"
+}

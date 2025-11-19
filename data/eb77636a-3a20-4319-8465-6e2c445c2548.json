@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identified by his halo, riding an ass into a walled city. He is accompanied by several followers, one of whom, dressed in red, holds a green book. Christ is gesturing with his right hand. To the right, a figure in an orange tunic is visible near a building with conical blue roofs and arched openings. The ground is rendered as green with yellow grass and foliage. The background is a decorative green pattern with gold swirls.",
+    "scene_interpretation": "Entry into Jerusalem",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/62939059/63503464.tif/1277,1002,1795,2960/full/0/default.jpg"
+}

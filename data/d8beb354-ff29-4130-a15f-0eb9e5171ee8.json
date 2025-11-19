@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, an angel with feathered wings, dressed in red and green robes, gestures towards a dove descending from above. The angel stands against a backdrop of ornate, swirling patterns in blue and gold. To the right, within an architectural structure featuring an arched opening and a stepped base, the Virgin Mary is depicted. She wears a blue robe and a veil, with a golden halo surrounding her head. A dove, symbolizing the Holy Spirit, is shown in flight between the angel and Mary. The architectural element suggests a niche or a small sanctuary.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "stairs",
+        "niche"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00008/500,335,917,1214/full/0/default.jpg"
+}

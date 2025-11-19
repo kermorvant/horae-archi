@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a dramatic and violent event. On the left, a bearded man wearing a blue robe and a green, jeweled hat sits on a wooden throne. He points with his right hand, holding a small, red object, possibly a piece of flesh. In the center, a woman in a red dress and white veil holds a naked infant. The infant appears to be wounded, with blood visible on its chest. A soldier in blue armor and a green tunic stands behind the woman, holding a large sword raised above the infant, poised to strike. The background is a red tapestry with a gold geometric pattern. The floor is tiled in a green and black checkerboard pattern. The scene is framed by an arched border with floral motifs.",
+    "scene_interpretation": "The Judgment of Solomon",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Solomon",
+        "Mother",
+        "Soldier"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0031/DEPOT/352386106_MS0031_0087/3958,820,1404,1912/full/0/default.jpg"
+}

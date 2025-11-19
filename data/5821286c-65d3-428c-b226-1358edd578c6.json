@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Angel Gabriel, with large blue and orange wings, kneels and holds a staff. He is dressed in a light blue robe and a golden cloak. Rays of golden light emanate from the upper left, directed towards the scene. In the center, a white dove, symbolizing the Holy Spirit, flies downwards. On the right, the Virgin Mary kneels, her hands clasped in prayer, wearing a blue robe and a halo. She is positioned before an open book on a wooden lectern. Behind her, a red curtain with gold decorative elements is drawn back, revealing a green curtain. The floor is tiled with a checkered pattern. In the background, a window with diamond-shaped panes is visible within a stone wall.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xz419dn0625%2FW429_000086_1200/4105,2252,1883,3007/full/0/default.jpg"
+}

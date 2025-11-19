@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a landscape setting with architectural ruins. In the foreground, a man with a long white beard and hair, partially undressed and wrapped in a white cloth, kneels with his arms crossed. To his right, a man in a blue robe and yellow hat gestures with his finger, while another figure in a yellow robe looks on. Behind them, a woman with her hands clasped in prayer stands looking down. In the background, crumbling stone structures suggest ruins, possibly a castle or fortified building, against a blue sky with distant mountains. The overall impression is one of a somber encounter, possibly a moment of spiritual counsel or visitation.",
+    "scene_interpretation": "Job and His Friends",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Job",
+        "Job's friend"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84469449/f227/295,26,912,1440/full/0/default.jpg"
+}

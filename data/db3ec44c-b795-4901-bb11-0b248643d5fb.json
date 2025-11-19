@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary tenderly embracing the Christ Child. Mary, dressed in a vibrant blue mantle, cradles the infant who is reaching up towards her face. Both figures have golden halos, indicating their divine status. The background is framed by a large, decorative initial 'H' in blue and gold, with a red and gold wavy pattern behind the figures. The overall impression is one of maternal love and divine connection.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Dieppe/Chateau_Musee/M0712_inv_0978_4_4/DEPOT/M0712_inv_0978_4_4_0007/3873,1097,1333,1195/full/0/default.jpg"
+}

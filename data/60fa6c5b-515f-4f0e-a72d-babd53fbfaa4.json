@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of four figures in an outdoor setting with architectural ruins. In the foreground, a man with white hair and a beard, his body covered in sores, reclines on the ground, draped in a white cloth. He is being approached by three younger figures. Two of them are playing musical instruments: one plays a lute, and another plays a pipe. The third figure stands behind them. In the background, there are ruins of classical architecture, including arches and towers, set against a hilly landscape with trees. The overall impression is one of a pastoral or allegorical scene, possibly representing a biblical narrative or a moral lesson.",
+    "scene_interpretation": "Job",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Job"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0037/DEPOT/751085109_LDUT_0037_0114/1207,724,1310,2222/full/0/default.jpg"
+}

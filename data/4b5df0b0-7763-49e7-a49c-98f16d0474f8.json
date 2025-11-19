@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with Saint Elizabeth, clad in a golden, patterned robe, kneeling and embracing Saint Mary, who wears a blue mantle. Between them stands an older man, likely Saint Joseph, with a grey beard and hair, his hands clasped. In the background, a building with arched windows and a tiled roof is visible, suggesting a domestic or religious setting. A figure in blue kneels in prayer within an opening of the building, and another figure is partially visible in a doorway. The landscape is rendered with rolling green hills and a pale blue sky with stylized clouds.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Saint Elizabeth",
+        "Saint Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/ms_1057_029%2Fms_1057_029_jp2.zip%2Fms_1057_029_jp2%2Fms_1057_029_0108.jp2/1142,869,2110,3040/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men in conversation, set against a backdrop of architectural elements. The central figure, a bearded man wearing a hat and a long robe, gestures with his hands. To his right, two other bearded men are shown, one with hands clasped in prayer or supplication, and the other looking towards the central figure. The architectural setting includes what appears to be a stylized building with arched openings and decorative elements, suggesting an urban or religious context. The overall impression is one of a formal gathering or discussion.",
+    "scene_interpretation": "This scene likely represents a moment of discourse or petition, possibly within a biblical narrative or a devotional context. The gestures of the figures, particularly the clasped hands, suggest earnest communication, prayer, or pleading. Without further iconographic clues, a specific event cannot be definitively identified, but it evokes themes of dialogue, counsel, or supplication.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0027/652,3402,614,1165/full/0/default.jpg"
+}

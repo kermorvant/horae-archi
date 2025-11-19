@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint or scribe, is depicted writing on a scroll at a wooden lectern. The figure wears a blue mantle over a pinkish-brown robe and an orange cap. To the left, a lion-like creature with a scroll draped around its neck sits on the floor. The scene is set within an arched architectural frame, suggesting an interior space. The background features green patterned walls and a mosaic-like tiled area. A small potted plant with orange flowers is visible to the right. The overall impression is one of scholarly or devotional activity within a richly decorated setting.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509627p/f43/850,456,1778,2418/full/0/default.jpg"
+}

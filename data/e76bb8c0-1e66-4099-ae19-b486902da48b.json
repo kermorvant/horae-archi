@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a haloed male figure, identified as Saint Peter, standing in an outdoor landscape. He is dressed in a blue tunic with a golden collar and a red mantle lined with fur. His left hand holds a book, while his right hand points towards it. In his left hand, he also holds a set of keys. The background features a stylized tree on the left, rolling green hills, and a rocky outcrop on the right. The sky is a pale blue.",
+    "scene_interpretation": "Saint Peter",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/16032681/396,705,757,853/full/0/default.jpg"
+}

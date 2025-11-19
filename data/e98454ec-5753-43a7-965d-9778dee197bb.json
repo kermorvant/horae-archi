@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The image depicts a man with a beard and a turban, seated and with his hands clasped in prayer. He is positioned in front of a textured background that suggests foliage or a decorative element. To his right, architectural elements are visible, including what appears to be a tower or a section of a building with arched openings and decorative molding. The overall style is that of a woodcut or engraving, typical of early printed Books of Hours.",
+    "scene_interpretation": "The figure's posture of prayer and the presence of architectural elements suggest a devotional scene, possibly representing a saint, a prophet, or a devout individual engaged in prayer. Without further context or identifying attributes, a specific biblical or hagiographic interpretation is not possible, but it clearly conveys a moment of religious contemplation.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0025/4170,3879,282,589/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, with long blonde hair and a golden robe, stands against a blue sky with distant blue mountains. The figure holds a staff or crosier. The lower part of the image depicts a green landscape with gold accents, suggesting a pastoral or earthly setting. A decorative initial is visible in the upper right corner.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_060_059/DEPOT/210546201_S_060_059_0112/1294,1006,955,1159/full/0/default.jpg"
+}

@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a bishop, adorned in ornate vestments and a mitre, seated on a raised platform, leaning forward to receive or bless a child held by a woman. The child, depicted as an infant, is naked and held upright. To the left of the woman, another woman stands holding a basket. Behind the bishop, a man in a cap and dark robe stands attentively. The architectural setting is an interior space with a vaulted ceiling featuring star-like decorations and arched windows. The bishop is seated on a richly decorated, multi-tiered structure that resembles a throne or altar. The overall scene suggests a religious or devotional event, possibly the Presentation of Christ in the Temple, or a similar ritual involving a bishop and a child.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "roof",
+        "pillar",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Bishop",
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100386783/f89/829,281,1104,1533/full/0/default.jpg"
+}

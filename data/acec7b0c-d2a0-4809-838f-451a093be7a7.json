@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Lawrence, who is shown standing in a large wooden tub over a fire. He is surrounded by a crowd of figures, some of whom are soldiers with spears and swords, and others appear to be onlookers. In the background, a figure dressed in royal attire rides a white horse, accompanied by other individuals. To the left, a serene figure, possibly a scribe or prophet, is seated and writing in a book, with a landscape and buildings in the distance. The overall setting is framed by an ornate architectural border, suggesting it is an illustration within a manuscript.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421788/298,180,1138,1582/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A haloed figure with a long white beard and a blue cap is seated, holding an open book. The figure wears a red robe with gold trim. Beneath the figure, a golden-brown ox is visible, its head turned towards the viewer. In the background, architectural elements suggest a building, possibly with arched windows or openings. The scene is framed by a red border.",
+    "scene_interpretation": "Saint Luke",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0012/3553,578,307,666/full/0/default.jpg"
+}

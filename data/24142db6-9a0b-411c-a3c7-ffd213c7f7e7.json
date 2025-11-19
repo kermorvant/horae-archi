@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Kiss of Judas, a pivotal moment in the Passion of Christ. Jesus, identifiable by his halo and central placement, is being embraced by Judas Iscariot, who is marked by his betrayal. A crowd of soldiers and onlookers surrounds them, some holding weapons like spears. In the foreground, a figure, possibly a soldier or a disciple, is shown falling or being struck down, with a lantern nearby. In the background, architectural elements suggest a town or city, with buildings and possibly a church spire, set against a dark, starry sky. The overall atmosphere is one of turmoil and impending doom.",
+    "scene_interpretation": "Kiss of Judas",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Jesus",
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0017/2896,631,1437,2182/full/0/default.jpg"
+}

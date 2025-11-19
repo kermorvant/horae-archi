@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Virgin Mary, haloed and dressed in blue, is seated and reading from an open book placed on a lectern draped with a red cloth. To her right, the Archangel Gabriel, with large red wings and wearing a pink cloak over white garments, kneels and extends his hands, holding a scroll with text. Above Gabriel, a dove descends, symbolizing the Holy Spirit. In the upper right corner, a bearded figure, likely God the Father, blesses the scene. The background features a brick wall and a patterned textile, suggesting an interior setting. The floor is decorated with a geometric pattern.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Archangel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_003%2Fwidener_003_jp2.zip%2Fwidener_003_jp2%2Fwidener_003_0076.jp2/397,932,1454,1668/full/0/default.jpg"
+}

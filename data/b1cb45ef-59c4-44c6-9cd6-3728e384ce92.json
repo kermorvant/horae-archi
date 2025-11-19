@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. The Virgin Mary, clad in a blue mantle and halo, is shown seated or kneeling on a raised platform, her hands raised in a gesture of surprise or acceptance. A dove, symbolizing the Holy Spirit, hovers above her. Facing her is the Angel Gabriel, kneeling and gesturing towards her, holding a scroll with Latin text. Behind the Virgin, a vaulted ceiling with blue and gold decoration is visible, along with arched windows. To the right, a divine figure, likely God the Father, is depicted in a radiant halo, observing the scene. The floor is tiled in a green and white checkered pattern. The overall composition suggests a sacred event taking place in a richly decorated interior.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "roof",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0069/DEPOT/M601415401_MS0069_0011/4297,858,1431,1887/full/0/default.jpg"
+}

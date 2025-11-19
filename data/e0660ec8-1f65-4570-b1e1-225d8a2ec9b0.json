@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two male figures, both identified as saints by their halos and episcopal attire. The figure on the left, headless, holds his severed head in his hands. He wears a red chasuble over a white alb and carries a crosier. The figure on the right, wearing a miter and a richly patterned chasuble over a white alb, holds a crosier and raises his right hand in a gesture of blessing or speech. Both figures stand in a landscape setting with trees and green foliage under a blue sky with scattered clouds. The entire scene is framed by an arched architectural element, suggesting it is an illustration within a manuscript.",
+    "scene_interpretation": "Martyrdom of a Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint",
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_269/DEPOT/710146101_269_0171/3594,532,1455,2157/full/0/default.jpg"
+}

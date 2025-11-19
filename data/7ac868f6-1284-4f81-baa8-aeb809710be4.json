@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, dressed in a blue robe, kneels beside a manger containing the infant Jesus. A donkey and a cow stand behind the manger, their heads close to the baby. To the right, an elderly man, presumably Saint Joseph, with a white beard and wearing a red cloak over a purple garment, kneels with his hands clasped in prayer. The background features architectural elements suggesting a stable or ruined building, with columns, arches, and brick walls.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.101/Ross.101_0174_fa_0080v.jp2/214,87,294,532/full/0/default.jpg"
+}

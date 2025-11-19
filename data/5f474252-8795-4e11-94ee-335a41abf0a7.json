@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, with a halo, rides a donkey, cradling the Christ Child who is dressed in red. Beside them walks a bearded man, presumably Saint Joseph, leading the donkey. The background features a stylized landscape with rolling hills, scattered trees, and distant buildings resembling a fortified town or castle. The overall impression is one of travel through a somewhat rugged terrain.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10020246c/f116/613,201,1794,2299/full/0/default.jpg"
+}

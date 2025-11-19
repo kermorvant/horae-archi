@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in what appears to be an outdoor setting, possibly a garden or forest, indicated by the foliage and an arched structure overhead. Two men are in the foreground, engaged in conversation or an exchange. The man on the left wears a cap and a tunic, holding a small object. The man on the right wears a tunic and hose, also gesturing. Behind them, a third figure, possibly a woman, is partially visible, wearing a head covering. In the lower part of the image, several animal heads, resembling dogs or wolves, are depicted, some appearing to be leashed or held. The overall style is that of a woodcut illustration, common in medieval manuscripts.",
+    "scene_interpretation": "This scene does not depict a specific biblical or devotional event recognizable from standard iconography. It appears to be a genre scene or an illustration from a secular text, possibly depicting a social interaction or a narrative moment.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0063/5157,2837,429,643/full/0/default.jpg"
+}

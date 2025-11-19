@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A group of men surround a central figure seated in a large, circular basin. The central figure, appearing youthful, is looking downwards with hands resting in their lap. The surrounding men are depicted with varied headwear, some with beards, and are gesturing towards the central figure. Above the scene, an arched decorative element frames the composition, with small architectural representations visible on either side. The overall impression is of a ritualistic or judicial event taking place within an architectural setting, possibly a public space or a room within a building.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "John the Baptist",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0092/5091,1660,399,678/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a procession carrying a golden reliquary, possibly the Ark of the Covenant, towards a building with an open doorway. Two figures in elaborate robes carry the reliquary on poles. One figure, wearing a red robe and a turban, is in the foreground. Another figure in a yellow robe follows closely. An elderly man with a beard, dressed in blue and red robes, emerges from the doorway to greet them. In the upper left, a divine figure, possibly God the Father, is depicted in a red garment and a crown, holding a globe and gesturing with his hand, with golden rays emanating from him. In the background, a church with a tall spire and arched windows is visible, along with other buildings and a green tree.",
+    "scene_interpretation": "The scene likely represents the procession of the Ark of the Covenant, a significant event in the Old Testament, possibly the bringing of the Ark into Jerusalem or its transport to the Temple. The divine figure in the upper register signifies divine approval or presence. The architecture suggests a biblical or historical setting within a city.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "spire",
+        "door",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/5548daf6-a244-4de3-bb9c-d242815ce948/636,962,2212,2630/full/0/default.jpg"
+}

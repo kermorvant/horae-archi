@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, with long wavy hair and a richly decorated garment, points with their left hand towards a coiled serpent and a bird with large wings. The serpent is entwined around a small, cat-like creature. The bird appears to be a griffin, a mythical creature with the body of a lion and the head and wings of an eagle. The scene is rendered in a woodcut style, with stark lines and minimal shading, suggesting a devotional or didactic purpose.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00106/349,2362,620,683/full/0/default.jpg"
+}

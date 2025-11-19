@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ. Christ is shown on the cross, with a halo and the inscription 'INRI' above his head. Several figures surround the cross. To the right, a man appears to be hammering a nail into Christ's hand. To the left and below, other figures are present, one holding a hammer and another seemingly engaged in some action related to the event. In the background, architectural elements suggestive of a city or buildings are visible, framed by an arched border. The overall impression is a dramatic and somber depiction of Christ's sacrifice.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0016/1309,3238,568,862/full/0/default.jpg"
+}

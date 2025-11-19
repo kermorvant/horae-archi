@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Baptism of Christ. Christ, a nude figure with a halo, stands in water, with water pouring over his head from a vessel held by John the Baptist. John the Baptist, also with a halo, is depicted with a beard and wearing a red cloak over a garment of animal skins, standing on a rocky bank. To the left of Christ, an angel with feathered wings and a halo, dressed in white and blue robes, holds a cloth. Above, the Holy Spirit is represented as a dove descending from a radiant blue sky, with golden rays emanating from it. The background features rocky hills and sparse vegetation. The entire scene is framed by an arched border adorned with floral motifs and gold leaf.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "John the Baptist",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502614h/f334/1474,314,1357,2020/full/0/default.jpg"
+}

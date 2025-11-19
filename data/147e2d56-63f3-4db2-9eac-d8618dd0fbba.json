@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo, is seated on a throne, holding the Christ Child. She wears a vibrant blue robe adorned with gold trim. The Christ Child, nude, looks upwards. To the left, an angel with blue wings kneels, wearing a grey robe and holding a rosary. To the right, another angel, also with blue wings, kneels in a red cloak over a white garment, looking towards the Virgin and Child. The scene is framed by an architectural structure featuring pink and blue columns supporting arches with decorative blue and gold vaulting. Behind the figures, a red tapestry with gold ornamentation serves as a backdrop. Through the open arches, a green landscape with trees is visible. The floor is tiled in pink and white.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "vault",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/47957773/1630,524,1541,2154/full/0/default.jpg"
+}

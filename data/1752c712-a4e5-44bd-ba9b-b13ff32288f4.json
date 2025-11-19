@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in an outdoor setting with buildings in the background. In the foreground, a man with a long beard is kneeling with his hands clasped in prayer. He is being struck from above by a man holding a long, flat object, possibly a sword or a staff. Other figures surround the kneeling man, some appearing to be onlookers or participants in the event. The architecture in the background consists of stylized buildings with pitched roofs and windows, suggesting a town or city. The overall impression is one of violence or execution.",
+    "scene_interpretation": "Martyrdom",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0071/4999,1121,395,779/full/0/default.jpg"
+}

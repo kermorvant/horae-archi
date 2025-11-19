@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The upper register depicts a dramatic scene of violence and divine intervention. A soldier in golden armor holds a sword aloft, seemingly about to strike a woman dressed in red who cradles a child. Another woman in blue, with a blue veil, looks on with distress. Above them, a child in a red garment is being lifted into the air, possibly by divine force, with outstretched arms. The background shows a wooded landscape and a fortified structure. The lower register presents a peaceful scene of the Flight into Egypt, with the Virgin Mary riding a donkey, holding the Christ Child, and accompanied by Saint Joseph walking beside them. They are in a pastoral landscape with rolling hills and trees. The entire composition is framed by ornate architectural elements, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "The upper scene likely depicts the Massacre of the Innocents, with the child being miraculously saved. The lower scene is the Flight into Egypt, a common theme in Books of Hours. Together, these scenes likely illustrate a narrative related to the early life of Christ and the persecution faced by his family.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f129/119,422,1443,2170/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts Moses at the Burning Bush. A bearded man, identified as Moses, is seated in a verdant landscape, tending to a flock of sheep. A goat leaps onto a rocky outcrop. In the background, a city with classical architecture, including domes and spires, is visible. Above, in a cloudy sky, God the Father appears, surrounded by cherubic angels, with flames emanating from a bush in the middle ground. The divine presence signifies the divine revelation to Moses.",
+    "scene_interpretation": "The Burning Bush",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "spire",
+        "dome",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Moses",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS1476/DEPOT/M601415401_MS1476_0017/1028,995,2031,3096/full/0/default.jpg"
+}

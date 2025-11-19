@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Jesus, clad in a blue robe with gold trim, standing and gesturing with his right hand. Before him, a man lies on the ground, wrapped in a white shroud, with his hands clasped in prayer. To Jesus's right, a woman kneels, also with hands clasped, and another woman stands behind her. A group of men, some pointing, stand to Jesus's left. In the background, a stone wall with an arched opening suggests an architectural setting, with trees and buildings visible beyond. This scene is interpreted as the Raising of Lazarus, a miracle where Jesus brings Lazarus back to life after he had been dead for four days.",
+    "scene_interpretation": "Raising of Lazarus",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Jesus",
+        "Lazarus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515740c/f207/446,374,1270,1560/full/0/default.jpg"
+}

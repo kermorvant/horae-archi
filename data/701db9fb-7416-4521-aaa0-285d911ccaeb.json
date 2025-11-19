@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Jerome in the wilderness, seated and writing on a scroll, illuminated by divine light descending from a bust of God in a radiant halo above. To his left, a golden eagle, possibly symbolizing the evangelist John or a divine messenger, holds inkwells and a quill. To his right, a demon with a staff lurks menacingly. In the background, a river flows past rocky hills and lush greenery. Further in the distance, three figures are engaged in conversation on a rocky outcrop, with a walled city or castle visible on the horizon. The overall composition suggests a moment of spiritual contemplation and struggle against temptation.",
+    "scene_interpretation": "Saint Jerome in the Wilderness",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome",
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f33/495,87,1156,1767/full/0/default.jpg"
+}

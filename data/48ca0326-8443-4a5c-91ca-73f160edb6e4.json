@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed figure in a brown monastic habit, identified as Saint Francis, stands with his right hand raised, showing stigmata. He holds a book in his left hand. Before him kneels a crowned woman, likely a queen, in a blue and white patterned garment, her hands clasped in prayer. Her right hand also displays stigmata. Behind them, a golden curtain is drawn, suggesting an interior setting. The scene is framed by an arched border decorated with floral motifs and a blue, scrolling pattern.",
+    "scene_interpretation": "The stigmata on both Saint Francis and the queen indicate a scene of divine grace or a miraculous event, possibly related to the saint's devotion and the queen's piety. Saint Francis is known for receiving the stigmata, and this depiction suggests a connection between his spiritual experience and the recipient of his intercession or blessing.",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Saint Francis"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501939c/f66/957,342,1092,1743/full/0/default.jpg"
+}

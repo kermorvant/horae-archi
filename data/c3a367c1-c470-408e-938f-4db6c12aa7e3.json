@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and beard, standing centrally and holding an orb topped with a cross, symbolizing his dominion over the world. He is surrounded by several figures, likely angels, some with wings, who are looking towards him with reverence. Two figures are shown kneeling at the bottom, their hands clasped in prayer. To the sides, architectural elements resembling arched structures with spires or towers frame the central figure and the surrounding angels. The overall impression is one of divine authority and adoration.",
+    "scene_interpretation": "Christ in Majesty",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "spire",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0074/4115,2659,582,949/full/0/default.jpg"
+}

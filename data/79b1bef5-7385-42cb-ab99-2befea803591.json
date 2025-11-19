@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a haloed female saint, dressed in a white wimple and a pink robe over a blue undergarment, holding an open book and a tall golden staff. She is looking down at the book with a pensive expression. Above and to her left, a winged black demon with horns and red eyes hovers, holding a golden vessel. To her right, a winged angel, also haloed, descends from the starry blue sky, holding a golden rod with a red tip, seemingly pointing towards the saint. The setting is an outdoor landscape with rocky formations and green ground covered in stylized yellow foliage. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Temptation of a Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint",
+        "Demon",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F411_B.11.32_f214r.jp2/856,534,1843,2373/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a kneeling figure, possibly a shepherd or farmer, holding a bundle of stalks or reeds. To the right of the figure is a stylized architectural element resembling a small shrine or tabernacle, with a domed roof. Further to the right, a ram is shown lying down. In the background, a simplified representation of a walled city or castle with towers is visible on a hilly landscape. The overall composition suggests an outdoor pastoral or agricultural setting.",
+    "scene_interpretation": "This scene likely represents a pastoral or agricultural theme, possibly alluding to the bounty of the land or the life of a shepherd. The ram is a common symbol in Christian iconography, often representing Christ (the Lamb of God) or the faithful. The architectural element could be interpreted as a shrine or a representation of a dwelling, grounding the scene in a human or devotional context.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0009/1356,420,1725,575/full/0/default.jpg"
+}

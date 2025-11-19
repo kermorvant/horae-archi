@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Catherine of Alexandria standing triumphantly over a defeated emperor, likely Maxentius, who lies prostrate beneath her feet. She is crowned and holds a palm frond, symbolizing martyrdom. Behind her, a crowd of onlookers observes, some appearing to be in discussion. In the background, a complex of medieval buildings, including a prominent tower with a dome and smaller turrets, suggests an urban setting. To the right, another group of figures witnesses a blindfolded woman, possibly a convert or a follower, being led away. The overall composition suggests the victory of faith over paganism and tyranny, a common theme in the hagiography of Saint Catherine.",
+    "scene_interpretation": "Martyrdom of Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window",
+        "dome",
+        "turret",
+        "arch"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b5139f-1f06-4d0f-8cea-16ba6b01d81d/726,1010,2195,2722/full/0/default.jpg"
+}

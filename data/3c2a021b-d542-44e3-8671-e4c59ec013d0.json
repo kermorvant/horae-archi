@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint or holy woman, is depicted seated and writing. She wears a blue robe and has a halo, indicating her sanctity. She is holding a quill and appears to be writing in a book or scroll laid out before her. The background is a stylized architectural setting with red and orange elements suggesting walls or drapery, framed by a decorative blue and green border with intertwined motifs. The scene evokes a sense of scholarly devotion or the recording of sacred texts.",
+    "scene_interpretation": "Saint writing",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.C.IV.109/Chig.C.IV.109_0062_fa_0027r.jp2/209,188,117,130/full/0/default.jpg"
+}

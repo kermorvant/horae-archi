@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary tenderly holding the Christ Child. Mary, draped in a vibrant blue mantle with gold trim, gazes down at the infant. The Christ Child, depicted as a nude infant, is held securely in her arms, wrapped partially in white cloth. A golden background, characteristic of divine or heavenly settings, surrounds the figures. The composition is framed by an arched border, suggesting it is an illumination within a manuscript.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0068/DEPOT/M601415401_MS0068_0045/1887,807,1393,2414/full/0/default.jpg"
+}

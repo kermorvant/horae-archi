@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely God the Father, adorned in royal regalia including a crown and rich robes, holding a globe in his left hand and extending his right hand towards a kneeling figure, the Virgin Mary. God the Father is positioned on a throne with an elaborate, Gothic-style architectural backdrop featuring pointed arches and tracery. To the left of the Virgin Mary, a winged angelic figure, possibly the Angel Gabriel, is also present, holding a crown. The figures are set against a radiant blue background with golden rays emanating from behind them, suggesting a divine or celestial setting. The Virgin Mary is dressed in a blue robe and her hands are clasped in prayer. The overall composition evokes a sense of divine judgment or pronouncement.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "tracery_window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0106/utp-0106_107r.jp2/1224,532,2608,3922/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely the Virgin Mary, kneeling and looking upwards towards a radiant light source from which rays descend. She holds an open book in her lap and her left hand is raised. To the left, a dove, representing the Holy Spirit, is shown descending with outstretched wings. The background is rendered with hatching to suggest foliage or a natural setting, with some indistinct forms that could be interpreted as trees or rocks. The overall composition suggests a divine visitation or inspiration.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0041/4942,3299,508,576/full/0/default.jpg"
+}

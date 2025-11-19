@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A full-length depiction of a woman standing within an architectural niche. She wears a long, flowing gown and a headdress. A long strand of beads hangs from her neck. The niche is framed by an arched opening with decorative tracery. The background appears to be a page from a manuscript, with some faint coloring visible.",
+    "scene_interpretation": "Devotional Image",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tracery_window",
+        "niche"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Metz/Bibliotheque_municipale/574636101_MS1581/DEPOT/574636101_MS1581_0017A/565,1318,2336,2790/full/0/default.jpg"
+}

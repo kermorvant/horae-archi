@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered under a large, decorative arch. On the left, a figure with a halo, likely Christ, stands and gestures. To his right, several other figures are seated or standing, some wearing hats and elaborate garments. One figure, seated prominently on the right, appears to be a king or a high-ranking official, holding a scepter and a crown or hat on his lap. The overall setting suggests a formal gathering or a scene from a biblical narrative, possibly involving judgment or a royal audience.",
+    "scene_interpretation": "Christ Before Caiaphas",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0030/5033,410,587,960/full/0/default.jpg"
+}

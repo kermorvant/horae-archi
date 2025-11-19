@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A funeral procession is depicted outdoors. Three figures are present: two mourners in dark robes stand to the left, facing a coffin containing a body draped in white. To the right, a priest in a red robe and a white alb holds an open book and a sprinkler, while another figure in a blue robe holds a censer. The scene is set against a backdrop of a brick wall and a blue sky with golden stars, suggesting a stylized or symbolic representation of the afterlife or a sacred space. The ground is green with stylized yellow vegetation.",
+    "scene_interpretation": "Funeral Rites",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Priest",
+        "Mourner"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_012/DEPOT/762595409_A_10_012_0089/3772,532,1590,2140/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint John the Baptist, stands in a landscape with a golden background. He is depicted wearing a purple robe with a red undergarment and holds a lamb in his arms. The lamb is a symbol of Christ, often referred to as the \"Lamb of God.\" The scene is framed by decorative borders, suggesting it is an illustration from a manuscript, likely a Book of Hours. The sparse vegetation and the golden background indicate a stylized, rather than realistic, setting.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kr986bn6539%2FW215_000087_1200/838,1875,2565,2196/full/0/default.jpg"
+}

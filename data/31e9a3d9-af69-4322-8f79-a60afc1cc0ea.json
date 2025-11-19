@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Christ emerging from a sarcophagus, triumphantly holding a banner with a cross. He is surrounded by two soldiers, one on each side, who appear to be guarding or witnessing his resurrection. The soldier on the left holds a large axe, while the soldier on the right holds a spear. Christ is depicted with a halo and a red cloak draped over his shoulders, pointing upwards with his right hand. The sarcophagus is ornate, with circular motifs on its side. The background is a landscape with rolling hills and trees under a blue sky. This imagery represents the Resurrection of Christ, a central event in Christian theology.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Soldier"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_107%2Flewis_e_107_jp2.zip%2Flewis_e_107_jp2%2Flewis_e_107_0226.jp2/1250,3851,4414,5259/full/0/default.jpg"
+}

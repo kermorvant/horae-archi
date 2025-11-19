@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely Pontius Pilate, seated and wearing a blue robe and a distinctive hat. A servant in a red tunic stands to his left, holding a ewer and a basin, seemingly preparing to wash hands. To the right, Jesus, crowned with thorns and bleeding, is being led forward by two figures, one in armor and another in a purple robe. Jesus's face shows suffering, and his hands are bound. The setting appears to be an interior space with a wooden door and wall.",
+    "scene_interpretation": "Christ Before Pilate",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Jesus",
+        "Pontius Pilate"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f30/795,191,1468,1697/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, identified by a halo as a saint, stands in a forest setting, holding an open book with blue pages and gold stars. He is dressed in a blue robe with gold trim and a grey patterned tunic. He leans on a golden staff. To his right, a wild boar with a blue bell around its neck sits attentively. In the foreground to the left, a small fire burns. The background features a dense green foliage with golden leaves, suggesting a lush forest.",
+    "scene_interpretation": "Saint Anthony Abbot",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/4771096/1832,511,996,1064/full/0/default.jpg"
+}

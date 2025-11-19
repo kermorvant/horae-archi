@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo and crown, holds the Christ Child on her left arm. She wears a pink gown and a blue mantle adorned with gold patterns. The Christ Child, also with a golden halo, reaches towards his mother's face. Behind them is a richly patterned tapestry-like background in shades of red, blue, and gold. The figures stand on a green ground, suggesting an outdoor setting. The scene is framed by decorative borders.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828346/307,287,1417,2096/full/0/default.jpg"
+}

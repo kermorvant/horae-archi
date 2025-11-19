@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a crown and a robe with two prominent buttons, is depicted seated. He holds a scepter or staff in his hands. The background is filled with a stippled pattern, suggesting a decorative or symbolic setting. Architectural elements, specifically arches and columns, frame the figure, indicating an interior or a structured environment. The overall style is that of a woodcut or engraving, common in medieval printed materials.",
+    "scene_interpretation": "The figure's regalia, including the crown and scepter, strongly suggests he represents a king. Without further context or accompanying text, it is difficult to pinpoint a specific biblical or devotional scene. However, kings in medieval art often symbolize earthly power, justice, or are depicted as figures from the Old Testament, such as King David or the Magi.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0031/2745,4028,439,652/full/0/default.jpg"
+}

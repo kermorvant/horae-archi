@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an arched architectural frame adorned with foliate motifs. On the left, the Virgin Mary, dressed in a blue robe and with hands clasped in prayer, is shown kneeling before a lectern. Behind her, a rich red and gold patterned curtain hangs. To the right, the Angel Gabriel, in a pink robe and with golden wings, kneels and holds a green book. He is shown speaking, with a scroll unfurling from his mouth containing the Latin text 'Ave gratia plena Dominus tecum'. Above Gabriel, a dove, representing the Holy Spirit, descends. A small statue of a standing male figure is visible in a niche above the lectern. In the background, a stylized representation of a building with arched windows is depicted.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_208%2Flewis_e_208_jp2.zip%2Flewis_e_208_jp2%2Flewis_e_208_0058.jp2/1582,2111,4238,6100/full/0/default.jpg"
+}

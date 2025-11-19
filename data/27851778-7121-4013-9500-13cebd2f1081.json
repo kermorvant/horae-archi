@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A procession is depicted moving across a green landscape with a city in the background. In the foreground, several figures are visible. On the left, a group of men in richly colored robes, one wearing a crown and with hands clasped in prayer, appear to be part of the procession. To the right, two figures in ornate golden robes, likely clergy, carry a large, intricately decorated reliquary on a wooden beam. The reliquary is shaped like a miniature building with a steep, tiled roof and golden ornamentation. In the distance, a city skyline is rendered with various buildings, including a prominent domed structure and numerous towers and spires. The scene likely represents a religious procession, possibly carrying a sacred relic, within or near a city.",
+    "scene_interpretation": "Religious Procession with Reliquary",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "King",
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f340/1485,4173,3189,1545/full/0/default.jpg"
+}

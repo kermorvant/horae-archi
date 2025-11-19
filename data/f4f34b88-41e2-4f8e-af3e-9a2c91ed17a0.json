@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer, his hands clasped and his gaze directed upwards. He is richly dressed in a blue robe adorned with gold stars and a fur-trimmed collar, kneeling on a green checkered floor. Beside him lies a harp, and in the foreground, a jeweled object rests on a pink and white striped cushion. Behind him, a decorative tapestry hangs on the wall. To the right, an ornate architectural element, possibly a doorway or niche, frames a view of a distant city with towers and walls. Above, in a celestial realm depicted with a blue sky and golden rays, a winged angelic figure, possibly an angel, descends towards the man, accompanied by a larger, more divine figure radiating light and holding a scepter. The overall scene suggests a moment of divine intervention or revelation.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/6135511/1891,392,1355,2024/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts Saint Sebastian, a young man with fair hair, bound to a tree trunk. He is pierced by numerous arrows, with blood dripping from the wounds. He wears a white loincloth. The background shows a landscape with trees and a body of water under a blue sky. To the left, a rudimentary structure resembling a haystack or a small building is visible. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_287/612,103,484,770/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A figure with long, wavy hair, wearing a simple garment, is seated on a cushioned surface, possibly a bench or a low wall. The figure is reaching up towards a tree with branches laden with round fruits, and appears to be plucking or eating one. The background is filled with stippling, suggesting a starry sky or a dense foliage. The scene is framed by decorative borders, with stylized leaves and circular motifs. The overall impression is one of a pastoral or idyllic setting, possibly depicting a moment of simple pleasure or contemplation.",
+    "scene_interpretation": "Adam and Eve in the Garden of Eden",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0062/676,3201,662,772/full/0/default.jpg"
+}

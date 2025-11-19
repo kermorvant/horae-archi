@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure, likely Christ, seated and holding a hammer, with a halo. Surrounding this figure is a starry expanse, with several lamps or candles arranged in a semi-circle below. To the left of the central figure, a bird is visible, and below it, an animal resembling a goat or ram. To the right, a standing figure, possibly an angel or saint, looks towards the central figure, and below them, a smaller figure, perhaps a child, is depicted. At the bottom of the scene, four crowned figures, likely kings or rulers, are shown looking upwards. The overall composition is framed by decorative elements, suggesting it is an illustration within a manuscript.",
+    "scene_interpretation": "The scene appears to represent Christ in Majesty, possibly alluding to the Last Judgment or a divine revelation. The hammer could symbolize Christ's power or role as a creator. The lamps might represent the seven gifts of the Holy Spirit or the seven churches of Revelation. The crowned figures at the bottom could represent the Magi or earthly rulers acknowledging Christ's authority. The presence of animals and a bird might be symbolic, though their specific meaning is not immediately clear without further context.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0076/5326,2419,609,734/full/0/default.jpg"
+}

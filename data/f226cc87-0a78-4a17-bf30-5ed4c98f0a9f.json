@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, is seated on an ornate throne, draped in a golden-orange robe and a white veil. She is holding a small, lantern-like object in her left hand and pointing with her right index finger towards it. The throne is decorated with miniature figures in niches, including a crowned king and standing women. Behind her, a blue tapestry with gold fleur-de-lis is visible. The background features a colonnade with alternating red and gold columns, suggesting an interior architectural setting. A coiled green serpent with a reptilian head lies at the foot of the throne. The scene is framed by elaborate gold microarchitecture on the sides.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "canopy",
+        "microarchitecture",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f42/1162,1406,3121,3621/full/0/default.jpg"
+}

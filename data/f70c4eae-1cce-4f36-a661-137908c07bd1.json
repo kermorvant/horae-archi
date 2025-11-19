@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A crowned female figure, likely a saint or queen, stands centrally, holding a book in her left hand and a sword in her right. She wears a richly decorated garment and a halo, suggesting her sanctity. Behind her, to the right, a simplified depiction of a church or tower with arched windows is visible. To the left, architectural elements resembling walls or buildings are present. The overall scene is rendered in a woodcut style with strong outlines and hatching for shading, set against a background that suggests an outdoor or architectural setting.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0079/1471,832,528,820/full/0/default.jpg"
+}

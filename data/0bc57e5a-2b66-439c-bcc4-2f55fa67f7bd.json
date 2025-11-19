@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary, with Christ, surrounded by a radiant halo and angelic figures, receiving her soul. Below, the Virgin lies on a richly decorated bed, attended by grieving Apostles. Above them, in a celestial realm, the Virgin Mary and God the Father are enthroned, holding hands, signifying their union in heaven. The entire composition is framed by an arched border adorned with floral motifs and gold leaf, typical of medieval manuscript illumination.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F259_B.11.32_f138r.jp2/736,594,1880,2490/full/0/default.jpg"
+}

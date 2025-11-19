@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary, with her lying on a richly decorated bed, covered by a blue mantle. She is surrounded by a crowd of figures, some of whom appear to be apostles, with halos indicating their sanctity. Christ is depicted in the upper background, surrounded by a golden aura and a mandorla, reaching down towards the Virgin. The architectural setting is a grand interior with columns and arches, suggesting a sacred space. The floor is tiled in a checkered pattern. The overall impression is one of solemnity and divine intervention.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0052/1048,879,1819,2605/full/0/default.jpg"
+}

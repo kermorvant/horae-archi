@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, likely a prophet or saint, stands in a landscape, holding a cross. He wears a red tunic and a yellow mantle draped over his shoulders. His right hand is raised, index finger pointing upwards, in a gesture of speech or blessing. The background depicts a blue sky with clouds and green foliage. The scene is framed by ornate, gilded architectural elements on the left and right, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_023/592,1690,765,487/full/0/default.jpg"
+}

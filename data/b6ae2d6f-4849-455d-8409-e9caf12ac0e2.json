@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a blue mantle adorned with stars, meeting Elizabeth. Elizabeth, wearing a white headdress and a pink robe, is shown with her hands clasped. They stand in an outdoor setting with rolling green hills, stylized trees, and a stone structure on the left. To the right, a building with a blue, tiled roof and arched windows is visible, suggesting a religious or civic structure. The overall atmosphere is serene and devotional, capturing a moment of sacred encounter.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_003%2Fwidener_003_jp2.zip%2Fwidener_003_jp2%2Fwidener_003_0090.jp2/365,860,1505,1760/full/0/default.jpg"
+}

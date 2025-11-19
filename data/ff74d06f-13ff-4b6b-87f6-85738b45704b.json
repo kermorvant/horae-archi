@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ, with a halo and wearing a loincloth, is being lowered from the cross. A man in a blue tunic and pink hose stands on a ladder, supporting Christ's body. Another man, also in a blue tunic and with a halo, reaches up to assist. To the left, three figures, two with halos and dressed in blue and pink robes, observe the scene. A man in an orange tunic and blue hose stands below, holding a hammer and chisel, seemingly having just removed nails from the cross.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/47899924/470,728,1309,1669/full/0/default.jpg"
+}

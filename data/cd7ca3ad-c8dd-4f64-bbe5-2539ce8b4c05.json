@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a woman in a red gown, adorned with gold patterns and a jeweled belt, standing and pointing upwards. Before her, an elderly man in a blue robe with ornate gold trim kneels, looking upwards with his hands raised in supplication. Above them, in a golden celestial sphere, the Virgin Mary holds the Christ Child. In the background, a building with multiple gabled roofs and towers is visible, set against a blue, cloud-filled sky. To the right, two figures in purple and green robes observe the scene, one pointing. The ground is rendered with green foliage and scattered round objects, possibly stones or fruits. The overall composition suggests a divine vision or revelation.",
+    "scene_interpretation": "The Annunciation to Saint Joachim",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "roof",
+        "tower",
+        "wall",
+        "arch",
+        "portal"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84328965/f48/300,209,1478,2360/full/0/default.jpg"
+}

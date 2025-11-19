@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts three women, two of whom are seated and appear to be grieving or in supplication, while the third stands and gestures with her hands, seemingly in prayer or discourse. Behind them, a cityscape is visible, characterized by buildings with pointed roofs and towers, suggesting an urban setting. The architectural elements are rendered in a simplified, woodcut style. The overall composition evokes a scene of lamentation or intercession within a town.",
+    "scene_interpretation": "Lamentation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0095/5866,3515,728,1179/full/0/default.jpg"
+}

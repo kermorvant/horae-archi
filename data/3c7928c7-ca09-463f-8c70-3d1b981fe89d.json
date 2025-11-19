@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A crowned male figure, likely a king, is depicted in profile, looking to the right. He wears a tunic and has long, wavy hair. His left hand is placed over his chest, and his right hand is not clearly visible. The figure is framed by architectural elements, including a column on the left and an arched structure above, suggesting he is within an interior space. The background is filled with a dotted pattern, possibly representing a tapestry or a decorative wall.",
+    "scene_interpretation": "The image depicts a royal figure, possibly representing a king from the Old Testament or a secular ruler. Without further context or iconography, a specific religious interpretation is not possible, but it could be part of a series illustrating royal lineage or historical events.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0038/1849,3809,363,652/full/0/default.jpg"
+}

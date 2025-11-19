@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within an illuminated manuscript initial. The Virgin Mary, seated on a green draped dais, holds the Christ Child on her lap. The Christ Child, radiating golden light, is reaching towards a golden chalice offered by the first Magus, an elderly man with a white beard, wearing a golden robe. Behind him, two other Magi, crowned and richly dressed, observe the scene. The architectural setting is a stable-like structure with a brick wall and a wooden roof, open to a blue sky with a suggestion of foliage. The scene is framed by a decorative blue initial with white and gold ornamentation, set against a gold leaf background.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/vad%2Fvad-0327%2Fvad-0327_0040r.jp2/1501,2480,2384,2502/full/0/default.jpg"
+}

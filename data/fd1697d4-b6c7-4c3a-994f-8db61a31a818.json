@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity. Two elderly male figures, representing God the Father and God the Son, stand side-by-side, both with long white beards and wearing blue robes. They hold a globe between them, upon which a white dove, symbolizing the Holy Spirit, is perched. Both figures have halos with crosses, and the dove also has a small halo. The background is a vibrant orange with a subtle diamond pattern, framed by decorative borders. The figures' gestures and the presence of the globe and dove clearly indicate a theological representation.",
+    "scene_interpretation": "Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "God the Son",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f375/357,574,1033,1380/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable structure, characterized by wooden beams and a stone wall. The Virgin Mary, in a blue robe, kneels beside the Christ Child, who lies in a manger radiating a golden halo. A donkey and an ox are present, their heads visible behind Mary. To the right, a tonsured monk in a red cloak and purple tunic prays with clasped hands. In the foreground, an angel, kneeling and robed in yellow, also prays. Behind them, through an opening in the stable, two figures are visible: one in a red pointed hat and blue garment, and another in a pink tunic, both with hands clasped in prayer, looking towards the stable. The background shows a pastoral landscape with distant buildings.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "column",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0077/DEPOT/M601415401_MS0077_0067/1645,634,1748,2915/full/0/default.jpg"
+}

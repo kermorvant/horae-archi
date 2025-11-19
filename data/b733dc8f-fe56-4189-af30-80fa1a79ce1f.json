@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Peter by his attributes, stands in a simple architectural setting. He wears a blue mantle over a golden tunic. In his left hand, he holds an open book, and in his right, he carries a set of keys. Behind him, a wall constructed of grey bricks is visible, and to his right, a dark, shadowed architectural element suggests an interior space or a doorway. The ground is a light, neutral color, and the scene is bordered by a gold frame.",
+    "scene_interpretation": "Saint Peter",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN321296575/files/images/00000342.tif/1089,1277,753,809/full/0/default.jpg"
+}

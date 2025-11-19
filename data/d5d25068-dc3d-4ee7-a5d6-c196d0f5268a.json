@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony, likely a baptism, taking place within a richly decorated architectural setting. Several figures are gathered around a baptismal font. On the left, a woman in a blue mantle and veil, with hands clasped in prayer, stands next to a man in a red and brown robe. To the right of the font, an older man with a beard, wearing a patterned robe, holds a swaddled infant. Behind him, a woman in a black veil and red garment looks on. Another figure in a blue and orange hat stands to the far right. The background features columns, arches, and a detailed window, suggesting an interior space within a religious building. A golden reliquary or tabernacle is visible in the background, further emphasizing the sacred nature of the event.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lcp_ms024%2Flcp_ms024_jp2.zip%2Flcp_ms024_jp2%2Flcp_ms024_0139.jp2/4492,1544,5098,8503/full/0/default.jpg"
+}

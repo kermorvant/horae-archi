@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man, likely a scholar or prophet, seated and engrossed in reading a book. He is dressed in a simple robe. The background is textured with stippling, suggesting a celestial or divine setting. Architectural elements frame the scene, with what appear to be decorative arches and columns on either side, hinting at a sacred or learned space. The overall impression is one of contemplation and wisdom.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0029/2870,4003,464,665/full/0/default.jpg"
+}

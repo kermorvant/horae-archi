@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely a woman, with a somber expression, looking towards the left. Behind her, a dark, stylized tree or foliage is visible. In the background, a silhouette of a fortified hill with a tower or castle-like structure is present. The overall atmosphere is dark and somewhat dramatic, suggesting a narrative moment. Given the context of Books of Hours, this could represent a scene from the Passion of Christ, such as the Agony in the Garden, or a devotional image of a sorrowful saint or the Virgin Mary.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9065943c/f11/3732,542,953,458/full/0/default.jpg"
+}

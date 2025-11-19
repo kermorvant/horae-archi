@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit. The Virgin Mary, centrally positioned, is surrounded by several figures, all looking upwards. The Holy Spirit is represented by a white dove descending from above, with rays of light emanating from it. The figures are shown within an architectural setting suggested by arched frames containing figures, and a tiled floor. The overall atmosphere is one of devotion and divine inspiration.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS1688/DEPOT/786466101_MS1688_0033/4171,554,1673,2565/full/0/default.jpg"
+}

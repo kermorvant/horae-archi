@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, cloaked in blue and white, with her eyes closed and hands clasped in prayer, her face etched with sorrow and tears. Beside her stands Christ, wearing a purple robe and a crown of thorns, his face bearing the marks of suffering and blood. He is bound with ropes. Behind them, two large, fluted columns rise against a bright blue sky, suggesting an architectural setting. The figures are framed by a decorative border.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-cl0124/bge-cl0124_157r.jp2/786,558,3164,4821/full/0/default.jpg"
+}

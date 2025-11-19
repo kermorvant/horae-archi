@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "A crowned man, identified as King David, kneels in prayer within an arched architectural setting. He wears a blue robe adorned with golden fleur-de-lis and a richly patterned surcoat. His hands are clasped in supplication, and his gaze is directed upwards. To his right, a harp rests on a stand. Through a large window, a verdant landscape is visible, featuring rolling hills, trees, and a distant castle or fortified building. Above the landscape, an angel with outstretched wings hovers in a blue sky. The scene likely depicts King David in prayer, possibly receiving divine inspiration or a message from an angel, a common theme in devotional art.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "King David",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/nm106gm5236%2FW277_000212_1200/4800,1178,3877,5717/full/0/default.jpg"
+}

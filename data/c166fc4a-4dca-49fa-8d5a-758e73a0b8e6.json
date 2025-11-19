@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left, kneeling with hands clasped in prayer, his large red wings spread behind him. He is dressed in a blue robe. Facing him on the right is the Virgin Mary, also kneeling, with her hands clasped over her chest, and a book open before her. She wears a brown dress and a blue mantle. A dove, representing the Holy Spirit, descends from above, with rays of light emanating from it towards the Virgin. The figures are positioned within an architectural setting that includes large columns and a detailed background suggesting a cityscape seen through a window. The floor is tiled in a pinkish hue.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154676/f255/89,446,826,888/full/0/default.jpg"
+}

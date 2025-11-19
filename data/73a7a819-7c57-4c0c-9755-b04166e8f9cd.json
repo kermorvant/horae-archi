@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family during their journey, likely the Flight into Egypt. The Virgin Mary, with a halo, cradles the Christ Child, who is also haloed. They are accompanied by Saint Joseph, who is bearded and wears a cap, carrying a staff. A donkey stands to the right, and an ox is visible below the Christ Child. In the background, a stylized cityscape with buildings and hills suggests their destination or a place of rest. The figures are rendered in a woodcut style with bold outlines and hatching for shading.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0045/5211,785,724,1005/full/0/default.jpg"
+}

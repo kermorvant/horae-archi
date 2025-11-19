@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A woman kneels on a circular, rocky outcrop, reading from a scroll. She wears a long, flowing peach-colored robe and has long, dark hair. To her left, a large, brown bird with outstretched wings holds a dark object in its beak. The background depicts a body of water with several sailing vessels and a distant city or castle on a hill. The scene is framed by decorative architectural elements on the left and right, featuring carved figures. The inscription at the bottom reads \"IN: PRICIPION\". This scene likely represents Saint Jerome in the wilderness, with the bird possibly symbolizing his penitence or a messenger, and the scroll referencing his scholarly work, perhaps the beginning of his translation of the Bible into Latin (the Vulgate), which famously begins with \"In principio creavit Deus caelum et terram.\"",
+    "scene_interpretation": "Saint Jerome in the Wilderness",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/710145202/DEPOT/IRHT_183645_2/1055,1257,493,830/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A crowd of women, many with halos, are depicted. In the foreground, a central figure, possibly a saint or a devout woman, holds a green book adorned with gold floral motifs. She is draped in a golden cloak over a dark garment. To her left, another woman clasps her hands in prayer, wearing a green robe. The background suggests an architectural setting with plain walls and arched openings, possibly indicating a church or a hall. The overall impression is one of devotion and community, likely within a religious context.",
+    "scene_interpretation": "Commemoration of Saints or Devotional Gathering",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_318/330,705,478,680/full/0/default.jpg"
+}

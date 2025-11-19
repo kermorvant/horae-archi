@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body showing wounds and a loincloth. To the left, the Virgin Mary, veiled in blue, stands with hands clasped in prayer, accompanied by another woman. To the right, a group of soldiers in armor, some holding spears, are present. In the background, a cityscape with buildings is visible against a starry blue sky. The overall scene is set in an outdoor environment, likely Golgotha, with a symbolic representation of the city.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022330b/f215/319,89,935,1467/full/0/default.jpg"
+}

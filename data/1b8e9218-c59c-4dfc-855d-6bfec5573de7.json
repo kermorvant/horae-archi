@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral setting with a woman and a man in the foreground, surrounded by sheep. The woman, dressed in a long gown and veil, is seated, while the man, wearing a hooded tunic and hose, kneels beside her, reaching out. Above them, two figures in dark robes are suspended in the air, holding a scroll from which rays of light emanate downwards. To the right, another figure, possibly a shepherd, stands with arms raised, looking upwards. In the background, a building resembling a barn or stable is visible, along with trees and a hilly landscape. The overall composition suggests a divine intervention or blessing upon the earthly scene.",
+    "scene_interpretation": "The scene likely represents the Annunciation to the Shepherds, a common theme in Christian art. The two figures in the sky are likely angels, one of whom is holding a scroll with the angelic message (Gloria in excelsis Deo). The rays of light symbolize divine grace. The shepherds in the foreground are reacting to this celestial event, with one looking up in awe. The presence of sheep reinforces the pastoral context of the Annunciation.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "barn"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Angel",
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS0359/DEPOT/B514546101_MS0359_0044/2025,337,744,1062/full/0/default.jpg"
+}

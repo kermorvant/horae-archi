@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts two figures, identified as Christ and Saint John the Baptist, standing in a verdant landscape. Christ, on the left, wears a golden robe and a blue mantle, with a halo indicating his divinity. He gestures with his right hand towards Saint John the Baptist, who stands on the right, clad in a red tunic and a golden mantle, also with a halo. The background features rolling green hills, trees, and distant mountains under a blue sky with scattered clouds. The scene is framed by ornate columns decorated with sculpted figures, suggesting a decorative border rather than architectural context for the main figures.",
+    "scene_interpretation": "Christ and John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column"
+    ],
+    "persons": [
+        "Christ",
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f533/893,1285,3061,3777/full/0/default.jpg"
+}

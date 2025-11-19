@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a blue robe with gold trim and a red mantle, is seated at a table covered with a white cloth. He holds a smoking implement over a small dish, suggesting he is burning incense or herbs. On the table are two small, round objects. Behind him, a curtain hangs, and to the right, through an opening, a blue, seated figure is visible against a blue background, possibly representing a spiritual entity or a symbolic representation. The scene appears to be set within an interior space, with architectural elements suggesting a room or chamber.",
+    "scene_interpretation": "This scene likely depicts a ritualistic or devotional act, possibly related to purification or prayer, given the burning incense. The presence of the blue figure could symbolize a divine presence or a spiritual vision experienced by the man. Without further context, a specific biblical or hagiographic event is difficult to pinpoint, but it aligns with practices of spiritual contemplation and ritual within medieval devotional literature.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0137/DEPOT/315556101_MS0137_0053/4108,433,1949,1089/full/0/default.jpg"
+}

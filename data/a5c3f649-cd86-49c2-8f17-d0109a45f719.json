@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a lone female figure, likely the Virgin Mary, standing within an architectural niche. She is shown with a veiled head and a serene, downcast expression, her hands cradling a vessel, possibly a jar or a censer. The figure is draped in flowing robes, and the architectural setting is suggested by the presence of two columns framing her and an arched structure above. The style is reminiscent of woodcut illustrations, with strong lines and hatching to create form and shadow.",
+    "scene_interpretation": "The scene is likely an iconographic representation of the Virgin Mary, possibly in a devotional context such as a depiction of her as a mourner or as a bearer of sacred objects. The vessel she holds could allude to the ointment used for Christ's burial or to the incense used in liturgical services, linking her to the Passion or to her role in worship.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "niche"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00172/969,2050,356,585/full/0/default.jpg"
+}

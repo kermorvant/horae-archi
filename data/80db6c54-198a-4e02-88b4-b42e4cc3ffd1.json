@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A figure, identified as Christ, is depicted seated on a throne. He has a halo and is gesturing with his right hand while holding a globe in his left. The throne is elaborate, with architectural elements suggesting a Gothic style, including pointed arches and pinnacles. The background is a rich tapestry of gold squares interspersed with blue and pink, framed by decorative borders. The scene is set within a stylized architectural framework, possibly representing a celestial or divine space.",
+    "scene_interpretation": "Christ in Majesty",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "pinnacle",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f257/513,700,1789,1925/full/0/default.jpg"
+}

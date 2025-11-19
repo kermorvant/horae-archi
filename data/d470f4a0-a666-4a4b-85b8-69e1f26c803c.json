@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Raising of Lazarus. Lazarus, wrapped in white linen, is shown emerging from a stone sarcophagus, his body pale and his eyes open. He is surrounded by a group of onlookers, some with halos, suggesting they are disciples or important figures. Jesus, with a halo, stands to the right, gesturing towards Lazarus with his right hand, as if commanding him to rise. Mary Magdalene, identified by her kneeling posture and golden dress, is also present, her hands clasped in devotion. In the background, a rocky landscape gives way to a green hill with trees and a distant castle. The inscription \"LAZARO\" is visible on the sarcophagus.",
+    "scene_interpretation": "Raising of Lazarus",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Jesus",
+        "Lazarus",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0034/bge-lat0034_074r.jp2/489,415,3171,4029/full/0/default.jpg"
+}

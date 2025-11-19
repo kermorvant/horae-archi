@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two haloed women, likely the Virgin Mary and Saint Elizabeth, embracing outdoors in a verdant landscape. The woman on the left, dressed in white, appears younger and is holding the hands of the woman on the right, who is older and veiled, wearing a dark cloak. Behind them, rolling green hills are dotted with trees, and in the distance, a city with spires and towers is visible under a cloudy sky. To the right, a portion of a building with a dark, sloped roof and timber framing is depicted. The overall impression is one of a tender reunion in a pastoral setting with hints of urban civilization in the background.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60005168/f64/859,363,1376,1890/full/0/default.jpg"
+}

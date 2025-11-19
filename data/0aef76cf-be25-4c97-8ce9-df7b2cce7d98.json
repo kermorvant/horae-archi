@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Christ, is depicted with a halo, wearing a golden tunic and a purple mantle. He points with his right hand towards a small white lamb resting on a blue book adorned with gold patterns. The background is a dark, stylized foliage with gold accents, suggesting an outdoor or natural setting. The lamb symbolizes Christ as the Lamb of God, and the book likely represents the Gospels or the Word of God.",
+    "scene_interpretation": "Christ as the Lamb of God",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/492827/573,1451,876,964/full/0/default.jpg"
+}

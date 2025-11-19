@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation of a child, likely the Christ Child, to a group of figures within an arched architectural setting. On the left, a woman in a blue mantle holds the infant. To her right stands a bald-headed figure in a brown robe and blue collar, and to the right of that figure, a woman wearing a crown and a pink dress. The background features red drapery and an opening revealing a green landscape. The overall composition suggests a religious event, possibly the Presentation of Christ in the Temple, or a similar devotional scene involving the Holy Family and other figures.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84528084/f85/389,259,1357,1683/full/0/default.jpg"
+}

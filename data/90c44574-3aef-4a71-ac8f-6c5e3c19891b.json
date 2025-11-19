@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A single female figure, likely the Virgin Mary, is depicted in profile, holding a flower in her left hand. She wears a wimple and a long, draped robe. The background is filled with a dotted pattern, suggesting a celestial or ethereal setting, and is framed by an arched element at the top. The lower portion of the image shows a stylized representation of foliage and possibly a stone ledge, indicating an outdoor or garden setting.",
+    "scene_interpretation": "Virgin Mary",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0067/4937,3366,263,687/full/0/default.jpg"
+}

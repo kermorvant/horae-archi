@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A king, identifiable by his crown and regal attire, sits on a throne-like structure. He is bearded and wears a cloak fastened with a brooch. Facing him is a woman, likely a queen, wearing a veil and a long dress. Her hands are clasped together in front of her. Behind them, architectural elements suggest an interior space with arched openings and decorative friezes. The scene depicts a royal couple in what appears to be a formal setting, possibly a court or a chamber within a palace. The presence of a small, indistinct figure being held by the king suggests a possible depiction of a child or a symbolic representation of lineage or authority.",
+    "scene_interpretation": "The scene likely represents a royal couple, possibly King David and Bathsheba, or another royal figure from the Old Testament, given the regal attire and the presence of a child. Without further context or clearer iconography, a definitive interpretation is difficult, but it evokes themes of royalty, lineage, and perhaps a moment of domestic or political significance.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0075/6154,3845,518,1009/full/0/default.jpg"
+}

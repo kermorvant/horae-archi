@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, dressed in a blue mantle and green undergarment, holds the Christ Child on her lap. The Christ Child, with a golden halo, is reaching out. Three Magi are present. One, wearing a red turban and blue robe, offers a golden vessel. Another, kneeling and dressed in blue and pink, also offers a golden vessel. The third Magus, standing and adorned in a red robe and crown, touches his crown. The figures are set against a rich red background with intricate gold foliate decoration. A golden, box-like structure is visible beneath the Virgin and Child.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021257k/f119/536,549,969,1038/full/0/default.jpg"
+}

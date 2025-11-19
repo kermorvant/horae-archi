@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "A man, identified as David, kneels in prayer, his hands clasped and his gaze directed upwards. He is dressed in a blue robe with gold trim and a fur-lined collar, kneeling on a red cloak. Beside him, a crown rests on a white cushion, and a harp is visible. In the background, a celestial scene unfolds with God the Father, depicted as an elderly bearded figure with a halo, bestowing a blessing or instruction. An angel, with outstretched wings and holding a sword, descends from above, seemingly directed towards a distant castle. The scene is framed by ornate architectural elements on the left, suggesting an interior setting, while the background depicts an outdoor landscape with trees and a castle.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "harp"
+    ],
+    "persons": [
+        "David",
+        "God the Father",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000011/MAA_00011_060.jpg/2300,312,883,1234/full/0/default.jpg"
+}

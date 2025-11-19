@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, possibly a scholar or prophet, seated and writing on a scroll. He wears a hat and a cloak over his tunic. To his left, a lion with a mane sits attentively. Behind the man, a lectern holds an open book, and stacks of books are visible. The architectural setting includes arched structures and what appear to be small, decorative buildings or niches. The overall impression is one of intellectual pursuit or divine inspiration.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "niche"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0015/4055,1265,587,920/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a seated figure, likely the Virgin Mary, draped in a blue mantle, cradling a cross. The figure has a halo, indicating sanctity. The background is a textured red, with areas of white and some darker splotches. The cross is rendered in a pale color, with a golden element near its center. The overall impression is one of sorrow and devotion, with the figure appearing to be in mourning or contemplation of the crucifixion.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://images.lib.cam.ac.uk/iiif/MS-FF-00006-00008-000-00022.jp2/1585,2449,1849,2754/full/0/default.jpg"
+}

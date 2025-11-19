@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a brutal act of violence in an outdoor setting. A soldier in ornate golden armor, identified by his helmet and scale-like breastplate, is shown restraining a woman. The woman, dressed in a dark red garment and white veil, clutches a naked infant. To the left, another soldier in blue armor holds an axe. In the center, a dismembered infant's torso is impaled on a pole, with a severed head and limbs scattered on the ground, indicating a massacre. In the background, a fortified castle or town is visible on a hill under a blue sky. The overall scene is one of horror and suffering, likely representing a biblical event of persecution.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Infant"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1168342/2748,161,1995,1945/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and wearing a blue mantle over a pink dress, holds the Christ Child on her lap. The Christ Child is also dressed in red and has a halo. Three Magi, identified by their crowns and rich attire, approach them. The first Magus, on the left, is gesturing towards Mary and the Child. The second Magus, in the center, wears a red and blue robe and a golden crown, holding a golden vessel. The third Magus, on the right, is also crowned and dressed in red, holding a golden object. They are positioned in a space that appears to be a simple dwelling, with wooden beams visible above and a green, grassy ground below. The architectural setting is suggested by a doorway on the left and a partition separating the figures, with a patterned background behind the Magi.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0109/utp-0109_068v.jp2/2512,298,2502,4060/full/0/default.jpg"
+}

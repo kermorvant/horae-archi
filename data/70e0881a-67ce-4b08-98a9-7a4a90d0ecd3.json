@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The image displays three distinct vignettes framed by architectural elements. The uppermost vignette features the Virgin Mary holding the Christ Child. She is depicted with long blonde hair, wearing a blue robe adorned with gold patterns, and cradling the infant. The middle vignette shows a woman, possibly Saint Elizabeth, with a headdress, gesturing with her right hand towards a man who is kneeling and appears to be holding a scroll or book. The man is dressed in a brown robe. Rays of light emanate from above. The lowest vignette depicts a bearded man, likely a prophet or saint, wearing a red and gold robe and holding a scroll with Latin inscription. The background of all vignettes is a light blue, suggesting an ethereal or heavenly setting, and they are set within arched openings framed by decorative architectural motifs.",
+    "scene_interpretation": "The vignettes likely represent scenes from the life of Christ and the Virgin Mary, or figures from the Old Testament who foretold Christ's coming. The top panel is a Madonna and Child, a common devotional image. The middle panel could represent the Visitation, with Saint Elizabeth greeting the Virgin Mary, or another encounter between significant biblical figures. The bottom panel, with a figure holding a prophetic scroll, strongly suggests a prophet from the Old Testament, such as Isaiah or Jeremiah, whose prophecies are linked to the coming of the Messiah.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0074.jp2/263,393,407,4044/full/0/default.jpg"
+}

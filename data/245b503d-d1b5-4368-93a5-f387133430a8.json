@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Angel Gabriel, with large blue and brown wings, kneels and addresses the Virgin Mary. He holds a scroll inscribed with \"Ave gratia plena Dñs tecum\" (Hail, full of grace, the Lord is with thee). Rays of golden light descend from the heavens, carrying a dove, symbolizing the Holy Spirit, towards Mary. The Virgin Mary, on the right, kneels in prayer with her hands clasped to her chest. She is seated before a wooden lectern with an open book. The setting is partially interior, indicated by a checkered floor and a large window with tracery, and partially exterior, with a landscape visible through an arched opening on the left, featuring trees and a distant castle. A red tapestry with gold ornamentation hangs on the right wall.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0779_0778/DEPOT/620416201_MS0779_0778_0022B/3126,1995,2544,3528/full/0/default.jpg"
+}

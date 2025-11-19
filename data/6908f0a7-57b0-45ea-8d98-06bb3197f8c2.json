@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a rocky hillside where Christ, with a halo and radiant light emanating from his head, is handing a book to a kneeling figure. Christ is dressed in a long, grey robe with gold embellishments, and the kneeling figure, likely a disciple or prophet, wears a blue tunic and a gold mantle, also holding a book. To the right, a crowd of people, some with halos, are gathered, looking towards Christ and the kneeling figure. The landscape is rendered with rolling green hills, scattered trees and bushes, and a distant view of a body of water and possibly some buildings. The sky is a pale blue with stylized clouds highlighted with gold.",
+    "scene_interpretation": "The scene likely represents Christ giving the Law or divine knowledge to Moses, or possibly another prophet or disciple. The presence of multiple figures with halos suggests a significant religious event, possibly related to the Old Testament or the early Church.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Moses"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f256/1427,4338,3165,1504/full/0/default.jpg"
+}

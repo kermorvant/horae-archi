@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely a saint, standing in front of a stylized building with two towers. The figure is dressed in a blue robe and holds a staff. Two animals, resembling sheep or goats, are positioned in front of the figure, one looking upwards. To the right, a tree with green leaves and orange fruits is depicted. The background is a gold leaf, suggesting a divine or sacred context. The inscription above reads 'faint luc cuu' and 'the saing amert', possibly identifying the saint as Saint Luke or Saint Amer. This imagery is characteristic of medieval manuscript illumination, often found in Books of Hours, and likely represents a devotional scene.",
+    "scene_interpretation": "Saint Luke",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/ww852nx4077%2FW39_000029_1200/1000,2661,1563,1576/full/0/default.jpg"
+}

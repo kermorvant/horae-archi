@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ within a humble stable. The Virgin Mary, in a blue mantle, kneels beside a manger, gazing down at the Christ Child. Joseph, an elderly figure in a red cloak and blue tunic, kneels with hands clasped in prayer, leaning on a staff. Behind them, a cow and a donkey are visible. In the background, a pastoral landscape unfolds with rolling hills and a distant town featuring church spires. Rays of golden light descend from above, illuminating the scene and symbolizing divine presence. The overall composition evokes a sense of reverence and the miraculous birth.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:41:5:wdl_14415:139_74G37_066r/516,158,1091,1734/full/0/default.jpg"
+}

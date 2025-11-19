@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a royal figure, likely King David, seated and holding a crown, gesturing with his right hand. Before him, the Virgin Mary kneels in prayer, adorned with a crown. Above them, several angels are depicted, some with wings spread, seemingly descending or attending. One angel plays a harp-like instrument, while another holds a similar instrument. In the background, a row of figures, possibly a heavenly host or saints, are visible against a blue backdrop. The architectural setting is suggested by ornate golden columns and decorative arches, creating a sense of a grand, possibly celestial, interior.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Avranches/Bibliotheque_municipale/500256201_Inv.94.1.1/DEPOT/500256201_Fds_Pigeon_Inv_94_1_1_0057/4012,610,1879,2556/full/0/default.jpg"
+}

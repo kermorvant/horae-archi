@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, likely an apostle or saint, stands holding a processional cross topped with a crucifix and a blue book. He is draped in a flowing purple mantle over a green tunic. The background suggests an architectural interior with columns and decorative panels, opening to a view of a distant city through a large window. The scene is rendered with rich colors and detailed drapery, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "Apostle",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f348/876,922,1053,1758/full/0/default.jpg"
+}

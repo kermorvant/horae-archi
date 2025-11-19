@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A man with a beard, wearing a golden robe, stands with his hands clasped in prayer, looking upwards. He is in a rocky, natural landscape with trees and a body of water. In the background, a formidable castle sits atop a hill. To the right of the man, a multi-headed serpent-like creature emerges from the rocks. The scene is framed by an ornate, gold-colored arch, suggesting it is part of a larger illuminated manuscript. This scene likely depicts a moment of spiritual trial or divine intervention, possibly related to the man's faith or a biblical narrative involving a struggle against evil.",
+    "scene_interpretation": "St. George and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "St. George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f180/1509,1743,761,2240/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "Two men, wearing helmets and tunics, are carrying a large cluster of grapes on a pole. They are depicted in profile, facing each other. Behind them, stylized architectural elements suggest a city or town with buildings featuring pitched roofs and arched windows. The scene is framed by decorative borders, and the overall impression is one of labor or harvest.",
+    "scene_interpretation": "This scene likely represents the spies sent by Moses to scout the land of Canaan, as described in the Book of Numbers (13:23). They returned with a cluster of grapes so large that it had to be carried on a pole between two men, symbolizing the fertility and abundance of the Promised Land.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Man",
+        "Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0084/915,3452,664,1166/full/0/default.jpg"
+}

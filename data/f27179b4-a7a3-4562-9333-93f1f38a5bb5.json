@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a bishop, identifiable by his mitre and crozier, standing outside a gilded, open-sided structure. He gestures towards a group of figures within. Inside, a woman lies on a bed, attended by two other women. One of the attendants holds a swaddled infant. The interior is richly decorated with patterned textiles and a canopy. The scene is framed by an arched border with decorative elements. In the background, a landscape with rolling hills and distant buildings is visible under a blue sky. This scene is likely the Nativity of Christ, with the bishop representing a significant figure, perhaps a prophet or a saint, witnessing the event, or it could be a depiction of a saint's birth or a miraculous event.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:41:5:wdl_14415:175_74G37_084r/550,177,1134,1719/full/0/default.jpg"
+}

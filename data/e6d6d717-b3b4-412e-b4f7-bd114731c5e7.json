@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A man, depicted with a beard and wearing a hat, an orange tunic, and boots, is shown scattering seeds on a golden, striped ground. He carries a white sack over his shoulder and a dark pouch at his waist. The scene is framed by an ornate, quatrefoil-shaped border with a red background decorated with a repeating gold pattern of stylized leaves and diamonds. The overall setting appears to be an agricultural field, suggested by the act of sowing and the striped ground representing furrows.",
+    "scene_interpretation": "Sowing",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "sower"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0020/4965,3051,722,745/full/0/default.jpg"
+}

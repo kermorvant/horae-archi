@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within a bordered frame. On the left, three men with distinctive pointed hats stand behind a central figure wearing a halo and a dark robe, who is holding a staff. To the right of the haloed figure, a young boy in a tunic holds a bowl. Facing the boy, a man in a dark robe, also wearing a pointed hat, pours liquid from a vessel into the bowl. Behind this man, a small architectural structure with arched openings is visible. The background is dark and indistinct, suggesting an interior or a dimly lit outdoor setting.",
+    "scene_interpretation": "The scene likely represents a charitable act, possibly the feeding of the poor or a similar act of mercy, given the offering of food or drink. The haloed figure could be a saint or a significant religious figure, and the act of giving to the needy is a common theme in Christian devotion.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525111708/f166/1812,548,799,1221/full/0/default.jpg"
+}

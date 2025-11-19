@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Sebastian, a young man with a halo, tied to a tree trunk. He is partially undressed, wearing only a loincloth. An archer, wearing a blue hat and a pink tunic over a white garment, aims an arrow at Saint Sebastian. The setting is an outdoor landscape with rolling hills, scattered trees, and a distant blue sky. The overall impression is one of martyrdom.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN321296575/files/images/00000351.tif/402,1767,731,807/full/0/default.jpg"
+}

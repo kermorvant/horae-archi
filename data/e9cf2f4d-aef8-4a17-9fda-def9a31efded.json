@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity in a symbolic representation of the Crucifixion. God the Father, depicted as an elderly man with a papal tiara and halo, holds the crucified Christ. The Holy Spirit is represented by a dove, positioned between God the Father and Christ. Christ is shown on the cross, with wounds visible. The figures are set against a blue, gold-patterned background, with architectural elements suggesting a divine or heavenly space. To the left, columns and a partial entablature are visible, hinting at a classical or sacred architectural setting. The overall composition is framed by decorative borders typical of illuminated manuscripts.",
+    "scene_interpretation": "The Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-manuscripta.ch/zuz/i3f/v20/1657232/706,564,2264,3339/full/0/default.jpg"
+}

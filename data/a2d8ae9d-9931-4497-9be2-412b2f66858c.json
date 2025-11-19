@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his head bowed and wearing a crown of thorns. To his left stands the Virgin Mary, her hands clasped in prayer and her face conveying sorrow. To his right is Saint John the Evangelist, looking up at Christ with a pensive expression. At the foot of the cross, a skull and bones are visible, symbolizing Golgotha, the place of the skull. The inscription 'INRI' is present above Christ's head. The figures are rendered in a stylized, woodcut-like manner, with minimal architectural or landscape detail.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0076/3692,2466,557,829/full/0/default.jpg"
+}

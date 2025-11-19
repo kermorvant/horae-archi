@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within an open-sided pavilion supported by columns. The Virgin Mary, dressed in dark robes, kneels to the left, gazing down at the Christ Child lying on the ground. To the right, a bearded man, likely Joseph, wearing a hooded garment, leans forward and appears to be holding a small object, possibly for the child. The background shows a walled garden with sparse vegetation and trees. The pavilion's roof is thatched, and the structure is framed by decorative borders.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511236p/f37/805,358,823,1077/full/0/default.jpg"
+}

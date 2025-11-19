@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two men are depicted in a grassy outdoor setting with trees in the background under a blue sky. The man on the left wears a grey tunic, trousers, and boots, and carries a staff and a stone in his raised hand. The man on the right wears a red tunic, trousers, and boots, and also carries a staff, with his hand raised to his head. Their clothing appears worn, suggesting they are travelers or engaged in manual labor. The scene is likely a depiction of David and Goliath, with David preparing to throw the stone at Goliath.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0068/4264,1459,534,612/full/0/default.jpg"
+}

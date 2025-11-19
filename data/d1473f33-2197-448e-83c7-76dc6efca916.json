@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a king seated on a throne, wearing a crown and a blue robe trimmed with white fur. He holds a scepter in his right hand. Before him stand three figures. The central figure, dressed in a red tunic and a flowing brown cloak, has a halo and appears to be speaking. To his left, another figure with a halo, dressed in blue, looks towards the king. Between the central figure and the king stands a man in a green tunic and hood, holding a staff. The background is a rich red tapestry with a repeating gold pattern. The king's throne is elevated on a golden dais. This scene likely represents a biblical narrative, possibly a king receiving a prophet or a supplicant.",
+    "scene_interpretation": "David and Bathsheba",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "King David",
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024827n/f634/1006,536,998,1310/full/0/default.jpg"
+}

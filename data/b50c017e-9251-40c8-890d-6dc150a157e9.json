@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a man in a purple robe and a distinctive hat, gesturing with his right hand and pointing upwards with his index finger, while his left hand is open. He stands on a patterned red carpet. Before him, a bearded man in royal attire, including a blue robe and a crown on a cushion, kneels with his hands clasped in prayer. Behind the kneeling man, a golden, ornate architectural structure with pointed arches and decorative tracery is visible. In the background, a landscape with rolling hills, trees, and distant buildings is depicted under a blue sky. A divine figure, possibly God or a prophet, is shown in the upper part of the scene, emanating rays of light towards the praying man. A harp lies on the floor in the foreground.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "ornamental_tracery",
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/AARB/AARB%2000002/AARB_00002_IMG_094r.jpg/508,482,1905,2577/full/0/default.jpg"
+}

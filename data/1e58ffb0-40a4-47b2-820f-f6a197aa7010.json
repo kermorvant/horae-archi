@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with several figures. In the foreground, two figures are resting or praying on the ground, one with a halo. Behind them, a bearded man in an orange tunic and blue robe reclines, appearing to be asleep or contemplative. In the middle ground, a man with a halo kneels in prayer, his hands outstretched towards a wooden fence. Above him, an angel descends from clouds, holding a chalice. In the background, a city with tall buildings is visible, and to the right, a small architectural structure with figures inside. The overall scene is framed by an ornate golden arch.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "door",
+        "window"
+    ],
+    "persons": [
+        "Christ",
+        "Angel",
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550057309/f30/482,259,1094,1647/full/0/default.jpg"
+}

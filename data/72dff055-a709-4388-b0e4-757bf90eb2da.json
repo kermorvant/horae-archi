@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Sebastian, who is shown tied to a tree, pierced by multiple arrows. His body is pale and marked with blood. Three archers, dressed in medieval attire, are actively shooting arrows at him. In the background, a city with spires and domes is visible under a blue sky. Above, in a golden halo and rays of light, a divine figure, likely God the Father, blesses the scene with a gesture of his hand and holds a globe.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502614h/f351/683,278,1336,2136/full/0/default.jpg"
+}

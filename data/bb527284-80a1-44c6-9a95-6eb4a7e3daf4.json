@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space, framed by decorative architectural elements. On the left, the Virgin Mary, clad in a blue mantle and veil, kneels with her hands clasped in prayer, her gaze downcast. Before her is a table draped with a golden cloth, upon which rests an open book and a vase of lilies. To the right, the Angel Gabriel, in a red robe and green tunic, kneels and gestures towards the Virgin. Above Gabriel, a dove, representing the Holy Spirit, descends with rays of light emanating from it. In the upper right corner, a small roundel depicts God the Father, blessing. The background features a dark, textured wall and a blue drapery. The overall scene is rich with symbolic elements, including the lilies representing Mary's purity and the dove signifying the divine conception.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "door",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_Impr_8_GR0045/DEPOT/B280856201_Impr_8_GR0045_0031/3445,305,2308,3016/full/0/default.jpg"
+}

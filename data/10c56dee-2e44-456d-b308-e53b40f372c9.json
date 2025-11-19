@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a winged figure, likely an angel, triumphing over a horned, demonic creature. The angel, dressed in a tunic and cloak, wields a sword raised to strike the fallen demon. The demon is depicted in a contorted, defeated posture, with its tail visible. The background is a dark, stylized landscape with suggestions of foliage and possibly distant hills. The overall composition suggests a struggle between good and evil.",
+    "scene_interpretation": "The Triumph of the Archangel Michael",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Archangel Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90680933/f171/1688,724,882,1142/full/0/default.jpg"
+}

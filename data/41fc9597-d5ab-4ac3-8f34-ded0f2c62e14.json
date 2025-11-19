@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A seated figure, likely a man, is depicted in a red robe and a green mantle, wearing a dark hat. He is positioned next to a hexagonal table with a white tablecloth, on which rests a bowl and two small circular objects. Behind him, a large green curtain is visible. To the right, a fireplace with flames is depicted, with a jug and other objects nearby. The scene appears to be set indoors, within a domestic or monastic interior.",
+    "scene_interpretation": "This scene likely depicts a moment of contemplation or daily life within a religious or secular context. Without further iconographic clues, a specific religious event cannot be identified. It could represent a devotional practice, a moment of rest, or a narrative scene from a text.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ott.lat.548/Ott.lat.548_0011_fa_0004r.jp2/339,910,269,202/full/0/default.jpg"
+}

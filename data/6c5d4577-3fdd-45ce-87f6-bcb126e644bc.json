@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts three figures within a circular frame. On the left, a bearded figure, possibly representing God the Father, holds a swaddled infant. To the right, two other bearded figures, one appearing to embrace the central figure and the other looking on, are also present. The background is filled with stippling, suggesting a celestial or ethereal setting. The figures are rendered in a stylized, medieval manner with flowing robes and distinct facial features.",
+    "scene_interpretation": "The scene is likely a representation of the Holy Family, with God the Father presenting the Christ Child to Mary and Joseph, or a depiction of the Trinity with the Christ Child. Given the presence of three bearded male figures and the infant, it could also be interpreted as a representation of the Trinity, with God the Father, God the Son (as the infant), and the Holy Spirit (represented by the third figure). Without further context or iconography, a definitive interpretation is challenging, but it strongly suggests a theological or devotional theme.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0085/5270,3299,677,598/full/0/default.jpg"
+}

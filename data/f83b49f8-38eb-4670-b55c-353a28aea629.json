@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man, likely a king or a noble, shown in profile facing right. He wears an ornate headdress and a richly decorated garment with circular motifs on the collar. His right hand is raised, with the index finger pointing upwards, suggesting a gesture of speech, prayer, or emphasis. The figure is framed by architectural elements, including what appears to be a decorative arch above and a column to the right, suggesting an interior or a structured setting. The background is filled with a stippled pattern, possibly representing foliage or a decorative textile.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0019/1366,4028,577,652/full/0/default.jpg"
+}

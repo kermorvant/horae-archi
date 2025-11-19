@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a crown with a circular emblem. He has long, wavy hair and is dressed in a robe. His right hand is raised, with fingers extended, in a gesture of speaking or blessing. The background is filled with a stippled pattern, and architectural elements, including a decorative arch and a column, frame the figure. The overall style suggests a medieval woodcut or engraving.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0059/2745,3991,439,702/full/0/default.jpg"
+}

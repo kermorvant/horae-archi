@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two men are depicted in conversation, with one on the left wearing a cap and tunic, and the other on the right, who has a beard and wears a cap and robe, holding a circular object. They are positioned within an architectural setting suggested by decorative elements and what appear to be architectural fragments in the background. The scene is rendered in a woodcut style with strong outlines and hatching.",
+    "scene_interpretation": "The scene is not clearly identifiable as a specific biblical, liturgical, or devotional event based on the provided visual information. It appears to be a genre scene or a depiction of a secular interaction.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0069/953,3477,601,1166/full/0/default.jpg"
+}

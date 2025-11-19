@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A man, likely an artist, is depicted seated and painting on an easel. He wears a blue tunic with a white collar and a yellow undershirt, along with a pink robe draped over his legs. He holds a palette and brush, focused on the painting which appears to depict a religious scene with two figures. To the left, a bull with horns rests on the floor. In the background, a series of large columns support an unseen structure, and a window with diamond-shaped panes is visible on the left wall. The scene suggests an artist at work, possibly creating an image for devotional purposes, with the bull potentially symbolizing Saint Luke, the patron saint of artists.",
+    "scene_interpretation": "Saint Luke Painting the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14936/Vat.lat.14936_0038_fa_0015v.jp2/257,406,372,521/full/0/default.jpg"
+}

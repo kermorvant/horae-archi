@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Three women approach a tomb. The woman in the foreground, dressed in blue and pink with gold trim, kneels and reaches towards the opening of a rocky tomb, holding a golden vessel. Behind her, two other women, one in purple and the other in blue and red, also hold golden vessels. The scene is set outdoors with lush green foliage and a blue sky. The tomb appears to be a cave-like structure with a stone slab in front of its entrance. This scene depicts the women at the tomb of Christ after his resurrection, likely the Myrrh-bearing women discovering the empty tomb.",
+    "scene_interpretation": "The Women at the Tomb",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Myrrh-bearing women"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515740c/f317/503,2404,1299,643/full/0/default.jpg"
+}

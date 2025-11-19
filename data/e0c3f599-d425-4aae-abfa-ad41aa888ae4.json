@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint, with a halo and long, braided blonde hair, is depicted in a blue garment and a red cloak. She holds an open book with musical notation, and a long staff topped with a banner. Above and to the right of her head, a small, dark, demonic figure is shown in flight. In the background, a stylized landscape with rolling hills and distant architectural structures, possibly towers or castles, is visible under a pale blue sky. The overall scene suggests a devotional image, possibly representing a saint associated with music or learning, confronting temptation.",
+    "scene_interpretation": "Saint Cecilia, patron saint of musicians, is often depicted with musical instruments or sheet music. The presence of the demonic figure could symbolize the temptations faced by the faithful or the triumph of faith over evil, a common theme in Christian iconography.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower"
+    ],
+    "persons": [
+        "Saint Cecilia"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f196/928,1439,623,711/full/0/default.jpg"
+}

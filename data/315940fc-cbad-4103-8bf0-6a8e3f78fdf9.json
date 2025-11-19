@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A person, likely a cleric or a devout individual, is seated on a blue, gold-patterned cushion, wearing a red robe and a red hat with a veil. They are holding an open book with text and appear to be reading or praying. The background suggests an interior space with a blue, gold-patterned drapery behind the figure and a window with a view of the sky. To the right, architectural elements, including a column and an arch, suggest a more elaborate setting, possibly a loggia or a richly decorated room.",
+    "scene_interpretation": "Devotional Reading",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "window",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f623/3104,1793,926,2305/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts the Virgin Mary seated and holding the Christ Child. She is enveloped in a deep blue mantle, with a lighter blue veil covering her head and shoulders. Her face is rendered with soft, pale tones, and she gazes downwards. The Christ Child, also pale, is held securely in her arms. Both figures are set against a radiant, textured gold background that emanates outwards like rays of light. The scene is framed by decorative borders featuring geometric patterns and scrolling motifs in blue, red, and white.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://images.lib.cam.ac.uk/iiif/MS-II-00006-00002-000-00114.jp2/1593,2139,2364,3685/full/0/default.jpg"
+}

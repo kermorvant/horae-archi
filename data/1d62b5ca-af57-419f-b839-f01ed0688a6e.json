@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the biblical story of David and Goliath. On the left, the defeated giant Goliath lies on the ground, clad in ornate golden armor, with a sword and a spear nearby. On the right, the young shepherd David stands triumphantly, holding a sling in his raised hand and a shepherd's staff. A flock of sheep grazes in the background, suggesting a pastoral setting. In the distance, a walled city with towers and buildings is visible, along with rolling hills and mountains. The overall composition portrays David's victory over the formidable Goliath, a pivotal moment in his journey to becoming king.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_226/270,185,807,1236/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. The Angel Gabriel, with large wings and a blue drapery, descends from the clouds, holding a lily and a key. He is addressing the Virgin Mary, who is kneeling on the right, her hands crossed over her chest in a gesture of humility and acceptance. She is dressed in a pink robe and a blue mantle. Behind her, a wooden lectern holds an open book. To the right of the Virgin, architectural elements suggest an interior space, with fluted columns and a green drapery. Three cherubic heads with wings are visible in the upper left, amidst blue clouds, and a white dove, symbolizing the Holy Spirit, flies towards the Virgin.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "door",
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10538047h/f27/250,284,2113,3240/full/0/default.jpg"
+}

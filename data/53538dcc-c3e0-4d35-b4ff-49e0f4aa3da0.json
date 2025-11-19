@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, bearing the inscription \"INRI\". To the left, the Virgin Mary, cloaked in blue, stands with her hands clasped in grief, while another woman, possibly Mary Magdalene, kneels at the foot of the cross, embracing it. To the right, a figure in red and blue robes, likely Saint John the Evangelist, looks on with sorrow. The background features a rocky landscape with sparse trees, a distant city with buildings, and a crowd of figures gathered in the distance. The sky is blue with scattered birds and what appear to be stylized representations of flying objects.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Cappon.218/Cappon.218_0377_fr_0177r.jp2/286,232,557,701/full/0/default.jpg"
+}

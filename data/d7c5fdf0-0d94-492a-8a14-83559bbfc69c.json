@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral setting with shepherds and their flock, overseen by two angels in the sky. The angels hold a banner inscribed with \"GLORIA IN EXCELSIS DEO ET IN TERRA PAX HOMINIBUS BONAE VOLUNTATIS\" (Glory to God in the highest and peace on earth to men of good will). Below them, a walled city with towers and buildings is visible. In the foreground, several figures, likely shepherds, are tending to sheep, goats, and dogs. One figure, possibly a shepherd, is looking upwards towards the angels. A woman in a headdress and a dark robe is seated, holding a lamb. Another figure, a man with a beard and a hooded robe, stands with a staff, also observing the scene. The overall composition suggests a representation of the Nativity or an Annunciation to the Shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Shepherd",
+        "Woman",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0032/2711,641,1523,2037/full/0/default.jpg"
+}

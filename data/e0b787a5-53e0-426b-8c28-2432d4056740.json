@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ in judgment, seated in a mandorla of red and white stripes, with a golden halo dotted with stars. He is shown with wounds on his hands and side, and his feet are also marked with wounds. Below him, on a green grassy ground, are several figures emerging from tombs. To the left and right of Christ, two angels with blue wings blow trumpets. In the foreground, two figures, likely representing the Virgin Mary and another saint or supplicant, kneel with hands clasped in prayer, looking up at Christ. The background behind Christ is a patterned textile of gold, blue, and red squares, framed by ornate foliage in the upper corners.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1041367/547,273,1714,2749/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts an elderly man with a long white beard, kneeling in prayer with his hands clasped. He is unclothed except for a light blue loincloth. Behind him is a large bed with white pillows and a red draped cover, partially obscured by blue curtains adorned with gold patterns. To the left, framed by an arch, is a window showing a scene of a man, possibly a craftsman, working with thread and fabric, with red figures and flames visible behind him. Below this window, within a circular niche, is a depiction of a seated figure in prayer. The floor is tiled in a checkered pattern of pink, green, and white squares. The overall setting appears to be an interior space, possibly a bedroom, with architectural elements suggesting a domestic or monastic context.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025268t/f93/319,127,1014,1453/full/0/default.jpg"
+}

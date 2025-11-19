@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the central cross, crowned with thorns and bleeding. To his left and right are two thieves, also crucified. Below the central cross, the Virgin Mary, dressed in blue, is shown in grief, supported by a figure in red. A crowd of onlookers, including soldiers and men in hats, are gathered around the base of the crosses. In the background, a city with towers and spires is visible. The ground is rocky and barren, with a skull and bones at the foot of Christ's cross. The scene is framed by an ornate border with floral motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0082/DEPOT/M601415401_MS0082_0071/3852,620,1841,2659/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A procession of figures, including bishops in ornate vestments and a kneeling king, are gathered outside a Gothic-style building. The figures are depicted in prayer or contemplation, with some holding processional crosses. The building features a pitched roof, pointed arch windows, and a central doorway. The scene appears to be a religious ceremony or a moment of devotion taking place in front of a church or chapel.",
+    "scene_interpretation": "Religious Procession",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "window",
+        "door",
+        "roof"
+    ],
+    "persons": [
+        "King",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/adf34218-7b65-49ec-a678-bf065ce9ca2f/707,4855,2210,936/full/0/default.jpg"
+}

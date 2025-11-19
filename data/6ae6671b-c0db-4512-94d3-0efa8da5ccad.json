@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a confrontation between a winged angel and a horned, goat-like demon. The angel, with curly hair and large wings, holds a scroll or tablet with inscribed text and appears to be offering it or presenting it. The demon, with a bestial face, horns, and a beard, is positioned to the left, seemingly recoiling or being subdued. The background is rendered with stylized foliage and rocky terrain, suggesting an outdoor setting. The overall composition implies a struggle between good and evil, possibly representing a spiritual battle or temptation.",
+    "scene_interpretation": "Temptation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Demon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0017/1568,3405,1120,413/full/0/default.jpg"
+}

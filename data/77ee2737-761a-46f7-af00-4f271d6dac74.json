@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely a saint, stands in a landscape. He has a beard and long hair, and is dressed in a tunic and a dark cloak. He holds an open book in his left hand and a T-shaped object, possibly a carpenter's square or a symbol of martyrdom, in his right. The background depicts rolling hills, scattered trees, and in the distance, a cluster of buildings including a church with a tower. The sky is filled with dark, stylized clouds. The overall scene suggests a devotional image of a saint in a pastoral setting, possibly representing Saint Jude Thaddeus, known for his association with carpentry and his martyrdom.",
+    "scene_interpretation": "Saint Jude Thaddeus",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower"
+    ],
+    "persons": [
+        "Saint Jude Thaddeus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Douai/Bibliotheque_municipale/591786101_MS0182/DEPOT/591786101_MS0182_0173/3470,876,1167,1434/full/0/default.jpg"
+}

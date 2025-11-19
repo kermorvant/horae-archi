@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure, likely Saint Peter, standing on a raised platform of stacked books or cushions. He is dressed in a red tunic and a blue mantle, with a golden halo around his head. His eyes are closed, and his hands are clasped in prayer or contemplation. He is surrounded by a group of men, some wearing elaborate hats and robes, who appear to be listening to him or observing him. The background is a rich blue tapestry with floral motifs. The overall impression is one of a religious or spiritual gathering, possibly a sermon or a moment of divine inspiration.",
+    "scene_interpretation": "Saint Peter Preaching",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.C.IV.111/Chig.C.IV.111_0330_fa_0159v.jp2/375,274,412,503/full/0/default.jpg"
+}

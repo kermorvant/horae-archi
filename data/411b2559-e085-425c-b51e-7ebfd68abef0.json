@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, stands in an outdoor setting. The figure wears a white garment and a red cloak lined with gold. They hold a golden chalice in their left hand and gesture with their right. The background depicts a blue sky with stylized trees and hills in shades of blue and green, suggesting a landscape.",
+    "scene_interpretation": "Saint holding a chalice",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0138/DEPOT/315556101_MS0138_0068/4162,789,902,883/full/0/default.jpg"
+}

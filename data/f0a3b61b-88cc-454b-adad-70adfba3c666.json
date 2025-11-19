@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, clad in a blue mantle and wearing a halo, kneels in adoration. To her right, a figure in a pink garment with a red cap gestures outwards. In the background, a donkey and an ox are visible, suggesting the traditional elements of the Nativity. The stable itself is a simple wooden structure with a thatched or wooden roof, open to a pastoral landscape with rolling hills and trees under a blue sky. A small, pale figure, possibly the Christ Child, is visible near Mary's feet.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.444/Barb.lat.444_0154_fa_0061v.jp2/644,309,386,855/full/0/default.jpg"
+}

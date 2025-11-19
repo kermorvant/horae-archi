@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a monk in prayer, kneeling with his hands clasped and face turned upwards towards a large illuminated initial. Above him, a dark, shadowy area suggests a cave or a dark interior, from which he emerges. Flanking the text are architectural elements of a building with timber framing and windows. Above the text, two winged creatures, resembling cherubs or small animals, are perched on decorative elements, with scrolls bearing the names 'Marrus' and 'Luca'. The overall impression is one of a devotional scene, possibly illustrating a penitential psalm or a moment of spiritual contemplation.",
+    "scene_interpretation": "Penitential Psalms",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f149/2201,1211,1674,1535/full/0/default.jpg"
+}

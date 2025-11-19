@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ, with a halo, is being lowered from the cross by two figures. One figure, likely Joseph of Arimathea, supports Christ's body from below, embracing him. Another figure, standing on a ladder, is actively involved in the process of removing Christ from the cross, possibly untying his hands. The setting appears to be outdoors, with a grassy ground and a simple cross. The background is filled with text, suggesting this is an illustration within a manuscript.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Christ",
+        "Joseph of Arimathea"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f177/542,703,913,1113/full/0/default.jpg"
+}

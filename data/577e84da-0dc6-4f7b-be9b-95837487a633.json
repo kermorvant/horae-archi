@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a table. The central figure, likely the Virgin Mary, cradles the Christ Child. Other figures, possibly apostles or mourners, are shown with expressions of sorrow or contemplation. The setting appears to be indoors, with a table and possibly a wall or drapery behind the figures. The overall composition suggests a moment of tenderness and solemnity, possibly related to the Nativity or a later event in Christ's life.",
+    "scene_interpretation": "The Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0067/3374,3694,327,643/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. The Angel Gabriel, crowned and winged, approaches the Virgin Mary, who is kneeling and reading a book. Gabriel holds a lily and gestures towards Mary, while the Holy Spirit descends as a dove from a radiant light above. Two other angels are present, one on the left holding a golden rod and the other on the right, seemingly assisting Gabriel. The setting appears to be a richly decorated interior, with columns and drapery suggesting a noble or sacred space. In the background, a cityscape with a prominent church spire is visible.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "roof",
+        "spire",
+        "door"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vn362wg6218%252FW437_000040_300/602,217,752,1215/full/0/default.jpg"
+}

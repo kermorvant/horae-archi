@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A man, likely King David, with a grey beard and wearing a royal blue and gold robe trimmed with ermine, embraces a woman, likely the Virgin Mary, who is dressed in a blue mantle and gown. They stand in front of a prominent golden tower with arched openings. In the background, a walled city with spires and buildings is depicted under a starry blue sky. The scene is set outdoors, with a grassy foreground and scattered bushes. The embrace and the presence of the Virgin Mary suggest a devotional scene, possibly related to the life of David or a contemplation of Mary's purity and role.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "King David",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f171/205,273,782,911/full/0/default.jpg"
+}

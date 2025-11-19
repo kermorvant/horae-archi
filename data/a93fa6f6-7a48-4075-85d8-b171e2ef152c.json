@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a figure, likely a saint or a royal personage, standing within an architectural setting. The figure is adorned with a jeweled necklace and wears a patterned garment, holding a processional cross. A banner with inscribed text flows behind the figure. The architectural elements suggest an interior space with arched openings and decorative columns.",
+    "scene_interpretation": "Saint holding a processional cross",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0079/2583,3403,566,590/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "An angel with golden wings and a halo hovers in the upper part of the scene, holding a scroll that reads \"Gloria in excelsis Deo\". Below, in a grassy landscape dotted with trees, two shepherds are depicted. One shepherd, wearing a blue tunic and a red cloak, leans on a staff and looks upwards. Another shepherd, dressed in a pink garment, is seated on the ground, looking up with his hand raised. Several sheep are scattered around the landscape, and a dog sits near the seated shepherd. The background features a patterned textile-like sky.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8458140s/f93/314,535,972,1337/full/0/default.jpg"
+}

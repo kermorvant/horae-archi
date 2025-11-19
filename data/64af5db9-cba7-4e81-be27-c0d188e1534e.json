@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a nude woman with long, flowing hair bathing in a hexagonal pool. She wears a cross necklace. To the left, a man in regal attire, wearing a crown and ermine-trimmed robe, stands behind a stone structure, holding a scepter. He appears to be observing the woman. Behind the pool, a garden with manicured bushes and flowerbeds is visible, bordered by trees and a distant landscape with hills and a castle. The architecture suggests a courtyard setting with classical elements like columns and arches.",
+    "scene_interpretation": "Bath of Bathsheba",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "roof",
+        "stairs",
+        "courtyard"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_14%2F1945_65_14_jp2.zip%2F1945_65_14_jp2%2F1945_65_14_0119.jp2/3691,2287,5411,5867/full/0/default.jpg"
+}

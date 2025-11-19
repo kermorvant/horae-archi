@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, in a blue robe, kneels with her hands clasped in prayer before the Christ Child, who lies naked on the ground. Saint Joseph, an elderly man with a beard, kneels beside them, holding a candle and a shepherd's crook. A donkey and an ox are present, with the ox looking towards the child. In the background, a humble stable with a thatched roof is visible, behind which lies a walled city with towers and buildings, suggesting a juxtaposition of the humble birth with the grandeur of the world. The scene is framed by ornate Gothic architectural elements, including arches and decorative tracery, and flanked by figures in niches, possibly saints or prophets.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "tower",
+        "niche",
+        "microarchitecture",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421827/157,161,1248,1676/full/0/default.jpg"
+}

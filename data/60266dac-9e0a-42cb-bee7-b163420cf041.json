@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Luke writing, seated on a raised platform within an interior space. He is dressed in a blue robe and has a halo, indicating his saintly status. Before him is a lectern with a manuscript. To his left, a winged ox, the symbol of Saint Luke, lies on the floor. The room features a large window overlooking a landscape with trees, hills, and buildings, suggesting a pastoral setting outside. The interior architecture includes columns, arches, and a vaulted ceiling decorated with stars. A rich tapestry with fleur-de-lis motifs hangs behind the saint. The floor is tiled with a geometric pattern. The overall impression is one of scholarly contemplation and divine inspiration.",
+    "scene_interpretation": "Saint Luke Writing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "window",
+        "roof",
+        "wall",
+        "pillar",
+        "capital",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/555706/547,276,1635,2406/full/0/default.jpg"
+}

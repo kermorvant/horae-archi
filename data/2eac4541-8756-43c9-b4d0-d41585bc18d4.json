@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and vestments, stands behind a wooden lectern, gesturing with his hands as if preaching or giving counsel. In front of him, two women are seated on the floor, one in a pink gown and the other in a lavender gown. Behind them, a group of men are gathered, some looking towards the bishop and others conversing amongst themselves. The scene takes place within an interior space with arched architectural elements and a window with tracery. The bishop's gesture and the presence of the seated women suggest a scene of instruction or spiritual guidance, possibly related to a religious teaching or a confession.",
+    "scene_interpretation": "Instruction",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "lectern"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1e855748-d5a3-409c-8c1a-a2ec53de6381/345,1725,974,645/full/0/default.jpg"
+}

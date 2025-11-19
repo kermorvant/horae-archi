@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A group of figures are gathered around a lectern displaying a book. On the left, several men, one in a blue and white robe with gold trim, and another in a red robe, look upwards with expressions of awe or contemplation. In the center, a figure in a white robe with blue trim, possibly a cleric or a noble, gestures towards the book on the lectern, their hands clasped in prayer. To the right, three figures in black monastic habits, their faces downcast, appear to be listening or praying. The scene is framed by an arched architectural element with a decorative mosaic-like pattern in gold, blue, and red squares. A richly patterned red and gold textile drapes the foreground, suggesting an altar or a ceremonial space. The overall impression is one of religious devotion and scholarly engagement with sacred texts.",
+    "scene_interpretation": "Religious Devotion",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Monk",
+        "Nun"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_MSNA0168/DEPOT/B280856201_MSNA0168_0103/3130,389,1162,1778/full/0/default.jpg"
+}

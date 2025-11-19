@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross against a deep blue, star-speckled sky. Below, a group of mourners gathers. To the left, the Virgin Mary, veiled in blue, is comforted by another woman. To the right, Mary Magdalene, in a red robe, is embraced by another woman, possibly Saint John. A figure in green, possibly a disciple, reaches up towards Christ's feet. In the background, a detailed cityscape with towers and domes is visible, suggesting Jerusalem, with a crowd and soldiers gathered below the hill.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550093038/f100/404,492,2323,3623/full/0/default.jpg"
+}

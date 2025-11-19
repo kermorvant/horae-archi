@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo, is seated and cradling the Christ Child, who is also haloed. She wears a vibrant blue robe. To her left, an angel with wings and a white robe plays a long pipe. To her right, another angel, similarly winged and robed, plays a lute. They are positioned within an architectural setting that features golden, ornate structures with arched openings and decorative elements. The background behind the Virgin and Child is a rich red tapestry with gold ornamentation. The scene is framed by decorative borders with floral motifs.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_073/DEPOT/M490075203_MS2003_1_073_0193/4059,995,1306,1974/full/0/default.jpg"
+}

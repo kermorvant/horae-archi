@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Five figures, all with halos, stand within an arched architectural frame adorned with foliate motifs. The figures are depicted frontally, with their faces obscured. The leftmost figure holds an open book. The second figure from the left holds a tower-like object. The central figure holds a book. The fourth figure from the left holds a book. The rightmost figure stands with hands clasped. Rays of light emanate from above, suggesting a divine presence. The figures are dressed in long, flowing robes. The ground beneath them appears to be a grassy or earthy surface. The scene is framed by a dark border, and the background within the arch is filled with radiating lines.",
+    "scene_interpretation": "The presence of halos and the radiating light strongly suggest a celestial or divine gathering. The figures could represent saints, virgins, or other holy figures. The book held by the leftmost figure and the central figure indicates devotion or study of scripture. The tower-like object held by the second figure might symbolize a specific saint or a religious concept. Without further iconographic clues, a precise identification of the event is difficult, but it likely pertains to a devotional scene involving holy individuals.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f430/766,105,1259,1607/full/0/default.jpg"
+}

@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts a grand, golden castle with numerous spires and towers dominating the left side. A loggia with arched openings and columns overlooks a garden area. In the foreground, two women are seated by a fountain. One woman, closer to the viewer, is dressed in blue and white and appears to be resting. The other woman, further back, is also in blue and gold attire. The background shows a lush green landscape with rolling hills, a small church, and distant mountains under a vibrant blue sky with scattered clouds. The overall impression is one of opulence and serene outdoor leisure.",
+    "scene_interpretation": "This scene likely represents a secular or devotional moment, possibly a depiction of courtly life or a contemplative scene inspired by biblical narratives of leisure or paradise. The presence of the fountain and garden suggests themes of purity, renewal, or earthly delights. Without specific iconographic clues, a precise biblical event is difficult to ascertain, but it evokes a sense of peace and beauty.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "spire",
+        "tower",
+        "roof",
+        "window",
+        "wall",
+        "bridge",
+        "courtyard",
+        "undefined_element"
+    ],
+    "persons": [
+        "woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f323/1031,859,2871,4524/full/0/default.jpg"
+}

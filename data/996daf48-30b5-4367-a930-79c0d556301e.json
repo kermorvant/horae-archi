@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, with a halo and dressed in a blue robe, kneels with her hands clasped in prayer. Beside her stands a donkey. To the right, Saint Joseph, also with a halo and praying, is dressed in a red robe. Between them, lying on a straw-filled manger lined with white cloth, is the Christ Child, radiating golden light. Behind the figures, a simple wooden structure with a thatched roof suggests a stable. In the background, dark, rocky hills are visible against a blue sky with rays of divine light descending.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85397092/f17/232,321,1352,1738/full/0/default.jpg"
+}

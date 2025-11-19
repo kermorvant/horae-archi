@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a divine representation of the Crucifixion. At the top, a figure with a long white beard and a halo, presumably God the Father, is shown with arms outstretched, supporting the cross. Below, the crucified Christ is depicted, wearing a loincloth. A dove, symbolizing the Holy Spirit, is positioned between God the Father and Christ. The figures are set against a backdrop of golden and blue drapery, suggesting a celestial or divine setting. The scene is framed by decorative borders with floral motifs and vertical red and white stripes.",
+    "scene_interpretation": "The Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_257%2Flewis_e_257_jp2.zip%2Flewis_e_257_jp2%2Flewis_e_257_0035.jp2/3992,1149,2237,3602/full/0/default.jpg"
+}

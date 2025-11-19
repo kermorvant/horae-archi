@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ's body, pale and lifeless, is being carefully lowered by two men. One man, wearing a blue tunic and orange hose, supports Christ's legs and torso, while another man, dressed in a red and gold patterned tunic and a distinctive hat, holds Christ's upper body and arm. A wooden cross stands prominently in the background, its horizontal beam extending across the upper portion of the image. To the right of the cross, a sorrowful Virgin Mary, draped in a blue mantle, stands with her hands clasped. Beside her, a woman in a golden robe looks on with concern. On the left, a bearded man in a purple tunic, possibly Joseph of Arimathea or Nicodemus, assists in the removal of Christ's body. The background is a simple landscape with rolling hills and a pale blue sky, suggesting an outdoor setting.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_107%2Flewis_e_107_jp2.zip%2Flewis_e_107_jp2%2Flewis_e_107_0224.jp2/918,5415,3750,4321/full/0/default.jpg"
+}

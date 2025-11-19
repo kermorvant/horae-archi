@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and carrying a large wooden cross, being led through a crowd. He is dressed in a blue robe, and his halo is gilded. To his right, the Virgin Mary, also with a gilded halo and dressed in a blue mantle, looks on with sorrow, her hands clasped. They are surrounded by a group of soldiers and onlookers, many in armor and wearing distinctive helmets and turbans. Some soldiers carry halberds and other weapons. Behind them, a stone building with arched openings and crenellations is visible, suggesting a city or fortress. The sky above is a deep blue with golden stars and rays of light emanating from the top center, possibly symbolizing divine presence or the sun. The ground is rendered in earthy tones with patches of green vegetation.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/5981206/564,447,1480,2175/full/0/default.jpg"
+}

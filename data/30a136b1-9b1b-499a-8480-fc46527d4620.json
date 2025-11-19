@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image displays a decorative border with figural elements and foliate motifs, adjacent to a column of text. At the top and bottom of the border are figures wearing head coverings and robes, possibly monks or religious figures. Interspersed between these figures are elaborate scrolling acanthus leaves and a central spiral motif, resembling a stylized flower or a coiled serpent. The overall impression is one of ornamental richness, likely framing a religious text or illustration.",
+    "scene_interpretation": "This image appears to be a decorative border from a medieval manuscript, possibly a Book of Hours. The figures, if interpreted as monks, could allude to the monastic context of manuscript production or devotion. The foliate and spiral motifs are common decorative elements in medieval art, often carrying symbolic meanings related to growth, eternity, or the divine.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0018/3632,496,326,4262/full/0/default.jpg"
+}

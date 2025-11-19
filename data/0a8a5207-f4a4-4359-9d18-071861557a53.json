@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a male figure, likely Christ, crucified on a cross. He wears a red robe and has a halo. His hands and feet are pierced by nails, with blood visible. The background is a rich blue tapestry with gold geometric patterns and stylized motifs. To the left and right of the figure are architectural elements that appear to be parts of a larger structure, possibly representing a symbolic or heavenly setting. A shield with heraldic symbols is placed at the base of the cross.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525095563/f348/1687,1346,2323,3146/full/0/default.jpg"
+}

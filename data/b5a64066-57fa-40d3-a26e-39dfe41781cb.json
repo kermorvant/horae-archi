@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a group of women, some crowned and others in religious habits, interacting in a setting that blends architectural elements with a celestial vision. In the upper portion, three figures, likely Christ and two saints or prophets, are seated on clouds, reading from an open book. Below them, a cityscape with buildings and towers is visible. In the foreground, several women are gathered. One woman in a pink gown and crown is embraced by a nun in a dark habit. Another woman in a blue gown holds a red bag, and a third woman in a purple and gold dress holds a red rose. Two winged figures, possibly angels, stand behind the women, holding banners. A small, detailed church building is depicted in the lower left corner.",
+    "scene_interpretation": "The scene likely represents a gathering of holy women or martyrs, possibly including Saint Ursula and her companions, or a representation of the Church Triumphant. The celestial vision above suggests divine approval or a heavenly reward. The presence of a nun and crowned women could signify different states of religious devotion or martyrdom. The rose is a common symbol of the Virgin Mary and purity, while the banners might represent victory or faith.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "spire",
+        "window",
+        "tower"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0023/1365,1110,1535,2313/full/0/default.jpg"
+}

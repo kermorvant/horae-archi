@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross. To his left stands the Virgin Mary, veiled and with hands clasped in prayer, accompanied by another figure. To his right, a figure in a hooded robe, possibly a disciple or a mourner, stands with hands clasped, next to a bearded man in a cap. Above Christ's head, a plaque with the inscription 'INRI' is visible. In the background, behind the figures and the cross, a simplified architectural structure resembling a tower or building is depicted. The scene is framed by an arched border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0029/5881,586,575,1084/full/0/default.jpg"
+}

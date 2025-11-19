@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Betrayal of Christ, with Jesus at the center being kissed by Judas. Jesus, wearing a red robe, is surrounded by a group of figures. Judas, in a yellow and green robe, is shown kissing Jesus, while another figure, possibly a disciple, is being struck down by a club, lying on the ground. To the right, soldiers in armor, one with a golden breastplate, are apprehending Jesus. In the background, a cityscape with towers and buildings is visible under a cloudy sky. A lantern is held by one of the figures, illuminating the scene.",
+    "scene_interpretation": "Betrayal of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_INCRIA063/DEPOT/B721816101_INCRIA063_0011/3374,433,1997,3036/full/0/default.jpg"
+}

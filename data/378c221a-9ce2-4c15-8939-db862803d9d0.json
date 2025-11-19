@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two female figures, likely the Virgin Mary and Saint Anne, seated and engaged with a book. The elder figure, possibly Saint Anne, wears a white veil and a red mantle over a blue garment, and holds an open book on her lap, her hands resting on its pages. Beside her, a younger figure, likely the Virgin Mary, dressed in a blue gown, looks towards the book. Both figures have golden halos, indicating their saintly status. The background is a plain green fabric with gold decorative elements, suggesting an interior setting. The overall composition is devotional, focusing on the figures and their interaction with the sacred text.",
+    "scene_interpretation": "Education of the Virgin Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Anne"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025549k/f335/292,699,654,820/full/0/default.jpg"
+}

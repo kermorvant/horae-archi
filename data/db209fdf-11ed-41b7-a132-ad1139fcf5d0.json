@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary kneeling before a lectern and a group of apostles gathered around her. A dove, representing the Holy Spirit, descends from above, radiating golden light upon the assembled figures. The background shows an architectural setting with arched windows revealing a cityscape, and ornate columns frame the scene on the right. The figures are shown with hands clasped in prayer or raised in supplication, their faces turned upwards towards the divine presence. The overall atmosphere is one of spiritual fervor and divine revelation.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "roof",
+        "wall",
+        "portal"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.120/Ross.120_0099_fa_0043r.jp2/318,347,725,799/full/0/default.jpg"
+}

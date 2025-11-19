@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a royal figure, adorned in a richly patterned golden robe and crown, kneeling before another figure in a blue robe. The kneeling figure offers a golden chalice. To the left, three clerics in ornate robes are gathered around an open book, seemingly reading or chanting. The background features red and yellow drapery, suggesting an interior setting, possibly a chamber or chapel. The presence of the chalice and the clerical figures suggests a religious or ceremonial context, possibly related to a sacrament or an offering.",
+    "scene_interpretation": "Offering",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f351/266,1389,674,846/full/0/default.jpg"
+}

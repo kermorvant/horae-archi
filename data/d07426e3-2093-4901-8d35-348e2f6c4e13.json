@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher wading through water, carrying the Christ Child on his shoulders. Saint Christopher, a bearded man in a blue tunic and red cloak, holds a staff for support. The Christ Child, with a halo, is seated on his shoulders, raising a hand in blessing. In the background, to the left, a figure in a monastic habit stands in the doorway of a building with a circular window and two vertical openings. The setting is a body of water with distant hills and a simplified landscape.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "window",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xj035pj4779%2FW282_000042_1200/5034,5130,2108,2028/full/0/default.jpg"
+}

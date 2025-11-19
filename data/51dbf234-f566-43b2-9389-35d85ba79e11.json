@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a sorrowful woman, likely Mary Magdalene, standing in a landscape under a starry night sky. She wears a blue gown and a purple mantle, her head covered by a white veil. Tears stream down her face, and she clutches a golden vessel, possibly an alabastron containing ointment, inscribed with text. In the background, two figures in religious attire, possibly other women, stand near a low fence. Beyond them, a stylized landscape unfolds with rolling hills, trees, and distant walled cities illuminated by golden light. The overall impression is one of profound grief and devotion.",
+    "scene_interpretation": "Lamentation of Mary Magdalene",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550093038/f408/549,537,2118,3615/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A man with a distinctive bifurcated beard and a tonsure is depicted in profile, looking upwards with his hands clasped in prayer. He is richly attired in a gold robe with a pink brocade pattern, trimmed with fur and a decorative collar. Behind him, a dark curtain is visible, and to his right, a section of a wall adorned with heraldic banners featuring fleur-de-lis and crosses. Below the figure, a decorative band displays scrolls with inscriptions and a crown, suggesting a devotional or commemorative context. The overall impression is one of piety and status.",
+    "scene_interpretation": "Devotional Portrait",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000466t/f174/986,659,866,1424/full/0/default.jpg"
+}

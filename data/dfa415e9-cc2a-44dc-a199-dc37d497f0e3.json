@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint or holy person, is depicted seated and engrossed in reading a manuscript. The figure wears a dark cloak over a striped garment and a white wimple and cap. The setting appears to be an interior space, suggested by the presence of architectural elements such as columns and arches, and a draped curtain behind the figure. To the right, an arched opening reveals a distant landscape with buildings. The overall impression is one of scholarly contemplation or religious devotion.",
+    "scene_interpretation": "Saint Reading",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0022/857,376,1344,1648/full/0/default.jpg"
+}

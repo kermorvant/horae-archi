@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo, is seated and cradles the Christ Child. She wears a vibrant blue robe and holds a small golden orb in her hand, which the child reaches for. Behind them, a green canopy, adorned with gold lettering and a crown-like motif, is suspended. The background features a red tapestry with intricate gold patterns, and beyond that, architectural elements suggesting a grand interior with tall windows. The scene is framed by a golden arch supported by fluted columns.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010383s/f55/411,163,1098,1618/full/0/default.jpg"
+}

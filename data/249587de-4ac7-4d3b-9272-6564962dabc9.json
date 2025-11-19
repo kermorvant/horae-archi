@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, adorned in a golden cope with intricate red and gold trim, a blue tunic, and a jeweled mitre, stands holding a crozier. He is depicted in profile, facing right, with a halo around his head. Before him, a young boy, also with a halo, sits on a barrel with his hands clasped in prayer. Two other figures, appearing to be children, are partially visible behind the boy, also looking towards the bishop. The scene is framed by an arched architectural element, suggesting an interior setting with a backdrop of dark, textured walls.",
+    "scene_interpretation": "Saint Nicholas and the Three Maidens",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53000319s/f127/234,194,529,749/full/0/default.jpg"
+}

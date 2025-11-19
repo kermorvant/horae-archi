@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A group of figures are depicted in a crowded scene. On the left, a woman in a wimple points with her right index finger towards a man who is kneeling and extending his left hand. Behind them, several other figures are visible, some wearing hats and long robes. The scene appears to be set within an architectural context, suggested by the presence of what looks like a column or pillar behind the kneeling man and an arched structure above the figures. The overall impression is one of a narrative moment, possibly a religious or historical event, conveyed through gesture and composition.",
+    "scene_interpretation": "The gesture of pointing and the kneeling figure suggest a moment of accusation, supplication, or revelation. Without further context or clearer iconography, a definitive interpretation is difficult. However, the presence of multiple figures in a somewhat formal arrangement could allude to a biblical scene or a moment from a saint's life.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "pillar",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0012/1128,3111,340,678/full/0/default.jpg"
+}

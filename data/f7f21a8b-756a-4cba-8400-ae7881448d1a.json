@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint, stands holding a censer. She has a halo, indicating her sanctity. The background is filled with a dotted pattern, suggesting a stylized representation of space or perhaps a textile. Above her, an architectural element resembling an arch with decorative tracery frames the scene. The figure's drapery is rendered with strong, angular folds. The overall impression is of a devotional image, possibly depicting a saint associated with worship or prayer.",
+    "scene_interpretation": "Saint holding a censer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0069/959,828,475,603/full/0/default.jpg"
+}

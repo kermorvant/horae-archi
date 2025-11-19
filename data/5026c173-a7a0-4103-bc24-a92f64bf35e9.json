@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. On the left, the Angel Gabriel, with large red and blue wings and a golden halo, kneels and presents a scroll inscribed with \"Ave Maria gratia plena\". He wears a green tunic and a reddish-brown cloak. To the right, the Virgin Mary, also with a golden halo, kneels in a blue robe, her hands clasped in prayer. Behind her is a bed canopy with red drapery. The background features a stone wall, a window with tracery, and an arched opening revealing a landscape. A lectern with an open book rests beside the Virgin.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "tracery_window",
+        "arch",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_MSNA0167/DEPOT/B280856201_MSNA0167_0030/3019,426,1523,1873/full/0/default.jpg"
+}

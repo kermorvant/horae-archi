@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and halo, stands to the left, offering a dish to a group of people seated at a table laden with food. The bishop wears a blue robe adorned with gold fleur-de-lis and a red undergarment. The seated figures, including men and women, are dressed in simple tunics and head coverings. One woman holds a green chalice, and another man gestures towards his mouth as if tasting. The background features a decorative grid pattern of red and blue squares. The scene appears to be set within an interior space, suggested by the presence of the table and the figures' attire, though the architectural context is minimal.",
+    "scene_interpretation": "Miracle of the Loaves and Fishes",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f387/450,520,1789,1954/full/0/default.jpg"
+}

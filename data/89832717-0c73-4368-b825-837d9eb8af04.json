@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist, identifiable by his halo and golden eagle attribute, seated outdoors in a rocky, verdant landscape. He is dressed in a blue robe and a red cloak, and is shown writing on a scroll. To his left, a golden eagle stands, looking towards the scroll. In the background, a stylized landscape with blue hills and distant towers is visible under a sky with golden rays descending from clouds. The scene is framed by an illuminated border with foliate motifs.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0079/DEPOT/M601415401_MS0079_0019/4237,497,1569,2331/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A procession of figures, many in monastic habits, moves through an outdoor courtyard. In the foreground, several individuals are clad in dark, hooded robes with gold detailing, suggesting a solemn occasion. Behind them, other figures in lighter grey robes are visible. The procession appears to be moving towards a large, multi-story building complex with red brick walls and dark tiled roofs, characteristic of religious architecture. The scene is framed by an arched border with floral motifs, typical of illuminated manuscripts. The presence of torches and a processional cross suggests a religious ceremony, possibly a funeral or a religious procession.",
+    "scene_interpretation": "Funeral Procession",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011051v/f398/950,272,1277,1877/full/0/default.jpg"
+}

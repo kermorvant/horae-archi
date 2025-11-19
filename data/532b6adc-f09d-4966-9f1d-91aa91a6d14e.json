@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "An elderly man with a white beard and a blue turban, wearing a red tunic and a purple cloak, is depicted writing in a large illuminated book placed on a desk. He holds a quill in his right hand. To his right stands a younger figure, possibly an angel, with curly blond hair and a halo, holding another open book. The background suggests an interior space with dark walls and two windows showing a blue sky. The scene is likely an illustration of a prophet or evangelist at work, inspired by divine revelation.",
+    "scene_interpretation": "Evangelist Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window"
+    ],
+    "persons": [
+        "Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_024r.jp2/904,3804,1768,2110/full/0/default.jpg"
+}

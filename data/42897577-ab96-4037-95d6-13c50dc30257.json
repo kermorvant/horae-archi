@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an interior space. A haloed woman in a golden gown kneels on the left, her hands clasped. To her right, a child is seated on a raised platform. Several men, some wearing turbans and elaborate robes, stand behind the child. The background features a wall with diamond-patterned windows and a green tiled floor. The overall impression is one of a devotional or religious gathering, possibly related to the presentation of the child.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/qx197gr5341%2FW180_000171_1200/3734,2486,1470,2586/full/0/default.jpg"
+}

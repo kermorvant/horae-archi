@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded male figure, identified as Saint John the Baptist by his attributes, stands within an architectural frame. He is depicted with a halo, holding a staff topped with a cross and a book. The background shows a stylized landscape with hills and clouds, visible through an opening. The figure is dressed in a tunic and cloak, with one knee bent. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Douai/Bibliotheque_municipale/591786101_MS0182/DEPOT/591786101_MS0182_0177/3333,594,1335,1716/full/0/default.jpg"
+}

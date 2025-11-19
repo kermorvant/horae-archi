@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A crowned man, seated on a throne-like chair, is depicted in profile, engaged in hammering. He holds two hammers, one raised above his head and another in his right hand, striking an object. Several anvil-like forms are visible in front of him, arranged in a line, suggesting a workshop or construction setting. The background is a textured gold, typical of manuscript illumination, with decorative elements framing the scene. The figure wears a pink robe and orange hose. The scene likely represents King David, known for his wisdom and association with building projects, possibly the Temple of Jerusalem, or a more general depiction of a craftsman at work.",
+    "scene_interpretation": "King David",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/2940374/397,505,554,810/full/0/default.jpg"
+}

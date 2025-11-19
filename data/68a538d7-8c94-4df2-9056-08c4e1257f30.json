@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael, clad in golden armor and with large pink wings, standing over a defeated, monstrous figure. Saint Michael holds a sword raised to strike and a blue shield. The setting is an outdoor landscape with a body of water and rolling hills in the background, upon which a castle or fortified building is visible. The ground is green and uneven, suggesting a natural terrain.",
+    "scene_interpretation": "Saint Michael Slaying the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/ms_1057_029%2Fms_1057_029_jp2.zip%2Fms_1057_029_jp2%2Fms_1057_029_0368.jp2/1077,2187,1413,1439/full/0/default.jpg"
+}

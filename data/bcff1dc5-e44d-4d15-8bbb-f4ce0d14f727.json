@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in an outdoor setting with trees and a blue, star-filled sky. The central figures are the Virgin Mary, dressed in a blue mantle and veil, and the Christ Child, wearing a red tunic and halo. The Christ Child reaches out his hand towards the Virgin Mary. To the left, a woman in a red garment and green skirt, holding a staff, appears to be leading or accompanying them. To the right, two other women, one in a pink dress and the other in a blue dress, are also present, with the woman in blue embracing the woman in pink. The overall composition suggests a narrative moment, possibly a journey or a significant encounter.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f149/1623,1607,735,757/full/0/default.jpg"
+}

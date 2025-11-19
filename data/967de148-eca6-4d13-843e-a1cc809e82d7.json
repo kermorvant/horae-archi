@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a trial or judgment, with Jesus, identifiable by his halo, being presented to a seated figure who appears to be a judge or ruler. Jesus is robed in pink and is accompanied by a group of soldiers in armor. Two figures, one in red and green and the other in blue, gesture towards Jesus, possibly making accusations or pleas. A kneeling figure in green is also present. The setting is an interior space with a vaulted blue ceiling and a large, latticed window. A richly decorated canopy and carpet suggest a formal or royal setting. The overall impression is one of authority and judgment, with Jesus as the central figure under scrutiny.",
+    "scene_interpretation": "Christ Before Caiaphas",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Jesus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14935/Vat.lat.14935_0300_fa_0146v.jp2/560,227,458,774/full/0/default.jpg"
+}

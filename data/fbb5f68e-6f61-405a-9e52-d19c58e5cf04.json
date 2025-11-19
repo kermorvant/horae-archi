@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a cap adorned with a circular emblem. He has long, wavy hair and is dressed in a tunic with decorative circular buttons. His hands are clasped in front of him. The background is filled with a stippled pattern, and the scene is framed by architectural elements suggesting an archway or niche with decorative tracery above. The overall impression is that of a portrait, possibly of a biblical figure or a saint, rendered in a woodcut style typical of medieval manuscripts.",
+    "scene_interpretation": "Biblical Figure Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Bearded Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0042/2635,4024,481,678/full/0/default.jpg"
+}

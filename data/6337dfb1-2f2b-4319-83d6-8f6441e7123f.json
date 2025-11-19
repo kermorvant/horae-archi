@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A saintly figure, identified by a triple tiara and halo, stands on the left, gesturing with his right hand. He wears a red cloak over a blue robe adorned with gold trim. In the center, a sleeping man with long hair and a beard lies on the ground, his head resting on his hand. To his right, a woman with long blonde hair, her hands clasped in prayer, is depicted. Behind them, a white unicorn with a single horn is visible, along with a golden deer with antlers and a dark, furry creature resembling a dog or bear. The scene unfolds in a lush, green forest setting with blue foliage in the background. The presence of Adam and Eve, a unicorn, and a saintly figure suggests a narrative related to the Fall of Man and its redemption.",
+    "scene_interpretation": "The Fall of Man and the Redemption",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0087/DEPOT/M601415401_MS0087_0038/1742,857,1693,2808/full/0/default.jpg"
+}

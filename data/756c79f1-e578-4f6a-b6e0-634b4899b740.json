@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man in a blue robe, possibly representing a prophet or divine messenger, points downwards with his right hand towards a kneeling man in a golden robe. The kneeling man looks upwards with his eyes closed and hands clasped, appearing to receive a blessing or divine inspiration. To the right, a woman in a red dress and blue veil also looks upwards with her head bowed and hands clasped in prayer or supplication. The background is a rich red tapestry adorned with golden clouds, and above, a blue celestial sphere studded with stars from which golden rays descend, symbolizing divine emanation. The figures are set against a green, grassy ground with stylized vegetation.",
+    "scene_interpretation": "The scene likely depicts a moment of divine revelation or intercession, possibly related to a prayer being answered or a spiritual gift being bestowed. The pointing figure could be a prophet or an angel, and the kneeling figure a supplicant. The presence of the woman suggests a communal or familial aspect to the prayer. The celestial imagery strongly indicates a divine source of the action.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Prophet",
+        "Supplicant",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f466/390,1172,836,1755/full/0/default.jpg"
+}

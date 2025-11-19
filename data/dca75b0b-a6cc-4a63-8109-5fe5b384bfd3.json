@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Two haloed male figures stand in an interior architectural setting. The figure on the left, identified by his keys, is likely Saint Peter. He wears a golden tunic and a blue mantle, and holds a large, ornate key with a cross on it. The figure on the right, possibly Saint Paul, wears a green striped tunic and a red cloak, and holds a sword. The background depicts a wall with vertical lines suggesting architectural elements like pilasters or columns, and a doorway or opening with a green, patterned curtain or tapestry.",
+    "scene_interpretation": "Saints Peter and Paul",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550098895/f175/218,741,522,510/full/0/default.jpg"
+}

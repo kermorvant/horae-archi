@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A young figure with a halo, possibly representing a saint or a child Christ, is seated outdoors on a grassy hill. The figure is dressed in a blue tunic and a brown skirt, and holds a scroll with text. The background is a vibrant blue sky with stylized clouds and distant, indistinct forms. The scene is framed by an ornate, gilded archway with decorative motifs. The overall impression is one of serene contemplation in a natural setting.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lcp_ms024%2Flcp_ms024_jp2.zip%2Flcp_ms024_jp2%2Flcp_ms024_0040.jp2/1796,3401,3282,3890/full/0/default.jpg"
+}

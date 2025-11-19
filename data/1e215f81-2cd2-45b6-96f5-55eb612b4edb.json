@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of four haloed figures. One figure, presumably Christ, stands on the right, gesturing with his right hand and looking towards the other three figures who are positioned to his left. The figure closest to Christ, identified as Peter, holds a book and looks upwards with an expression of awe or supplication. The other two figures, also haloed, stand behind Peter, looking in the same direction. The background is a richly patterned tapestry of blue, red, and gold squares, suggesting an indoor setting or a symbolic representation of a divine space. The lower portion of the image shows a green ground with sparse vegetation, indicating an outdoor element or a transition to a more earthly realm.",
+    "scene_interpretation": "Ascension of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f227/1814,859,895,1549/full/0/default.jpg"
+}

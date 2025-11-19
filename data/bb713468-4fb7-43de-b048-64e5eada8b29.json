@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a solemn ceremony within a grand, Gothic-style interior. Several figures in dark, hooded robes are gathered around a large, ornate catafalque adorned with numerous lit candles. To the left, a group of figures in lighter robes, some with veils, are seated in what appears to be a choir or pew. Above them, banners bearing heraldic symbols hang from the architectural elements. The architecture features tall, slender columns and pointed arches, characteristic of Gothic cathedrals. The overall atmosphere suggests a funeral or memorial service, possibly for a person of high status, given the elaborate setting and the presence of banners.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "window",
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0068/DEPOT/M601415401_MS0068_0204/2190,954,1419,2293/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with his body rendered in a stylized manner, showing wounds. To the left, a figure in a black habit, likely the Virgin Mary, stands with hands clasped in prayer, her face downcast. To the right, another figure, possibly Saint John the Evangelist, stands with a book in hand, looking towards Christ with a pensive expression. The figures are set against a decorative background of foliage and are framed by an arched border. The ground beneath them is depicted with stylized grass and plants.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Douai/Bibliotheque_municipale/591786101_MS0188/DEPOT/591786101_MS0188_0022/1106,697,1036,1845/full/0/default.jpg"
+}

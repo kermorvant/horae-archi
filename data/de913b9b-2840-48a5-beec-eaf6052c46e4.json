@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, dressed in a blue robe, holds the Christ Child. Joseph, in a red cloak, stands behind her. To the right, a priest in ornate vestments receives the child, while another figure, possibly Simeon, looks on. Behind the figures, a patterned tapestry hangs, and in the background, architectural elements suggest an interior space with windows. The overall scene is framed by decorative borders typical of a Book of Hours.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0032/DEPOT/352386106_MS0032_0079/3755,465,1309,2089/full/0/default.jpg"
+}

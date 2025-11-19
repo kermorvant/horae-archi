@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts King Herod, seated on a throne adorned with gold and red tassels, gesturing towards a woman in a yellow gown who is recoiling in horror. The woman's arms are raised in distress, and she appears to be witnessing a massacre. Around her, soldiers in armor are shown brutally killing infants, whose bodies lie strewn on the ground, covered in blood. In the background, a city with numerous buildings and towers is visible under a bright blue sky, with distant mountains. The scene is framed by an ornate golden curtain on the left and a wooden structure on the far left.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "door",
+        "tower"
+    ],
+    "persons": [
+        "King Herod"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/37c7ca20-3159-43f0-a0e7-83f331ed2148/2224,815,2286,3445/full/0/default.jpg"
+}

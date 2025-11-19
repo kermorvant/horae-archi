@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Baptism of Christ. John the Baptist, on the right, pours water from a vessel onto the head of Christ, who stands in the water with his hands clasped in prayer. Both figures have golden halos. Christ is depicted with a white loincloth, while John wears a red robe. The setting is a rocky, outdoor landscape with a single tree on the left and a blue sky in the background. The water is rendered with green and blue brushstrokes, suggesting movement and depth.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_115%2Flewis_e_115_jp2.zip%2Flewis_e_115_jp2%2Flewis_e_115_0133.jp2/3369,2306,2071,2258/full/0/default.jpg"
+}

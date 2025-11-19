@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man wearing a conical, striped hat and a hooded robe stands within an architectural setting. He is depicted from the chest up, with his hands clasped in his lap. Behind him, an arched structure with decorative tracery frames the scene, and to his right, a building with pointed arches and decorative elements is visible. The background is filled with a stippled pattern, suggesting a textured surface or a decorative element within the architecture.",
+    "scene_interpretation": "This image likely depicts a saint or a religious figure, possibly a hermit or a scholar, given the contemplative pose and the monastic-like attire. The architectural elements suggest a sacred or scholarly space, such as a chapel or a library within a monastery. Without further context or identifying attributes, a specific scene interpretation is not possible.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "pointed_arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0050/4095,3755,303,634/full/0/default.jpg"
+}

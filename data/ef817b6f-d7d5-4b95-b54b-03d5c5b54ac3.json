@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a domestic interior with a group of people gathered around a table. A man with a beard, wearing a blue and red patterned robe and a blue and orange hat, sits at the left, gesturing with his left hand. Beside him, a woman in a purple dress and a black head covering looks towards him. Behind them, two children in red and blue clothing are visible. To the right, a richly decorated golden column separates the main group from another area where a person in a blue garment is serving food or drink to another individual. A figure in a brown and blue tunic, possibly a servant or beggar, is also present in the foreground, receiving something from another person. The setting appears to be a well-appointed room, suggested by the patterned green wall covering and the ornate column. The presence of animals, including a dog and a cat, under the table adds to the domestic atmosphere. The overall scene suggests a meal or a gathering within a household.",
+    "scene_interpretation": "This scene likely depicts a biblical or devotional narrative related to hospitality, charity, or a feast. Without specific iconographic clues, it's difficult to pinpoint an exact event, but the act of sharing food and the presence of various social strata (indicated by the attire) could allude to themes of generosity, community, or even a parable. The inscription \"VAIS RICHE\" (likely meaning \"goes rich\" or \"becomes rich\") on the green tapestry might suggest a moral lesson about wealth, generosity, or divine providence.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "man",
+        "woman",
+        "child",
+        "servant"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_145v.jp2/2686,314,2648,4701/full/0/default.jpg"
+}

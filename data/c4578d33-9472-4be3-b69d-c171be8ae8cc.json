@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a female saint, identified by her halo and the arrow piercing her body, holding an open book. She stands within an arched doorway, with a dark, ornate door to her left. Through the doorway, a landscape is visible where a male figure aims a bow and arrow at a female figure. The saint is dressed in a blue gown and a golden cloak, with a pink skirt. The background is a textured green and blue, suggesting an outdoor setting beyond the immediate architectural frame. The overall composition suggests a narrative moment, possibly illustrating the martyrdom of the saint.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_S_191/DEPOT/710146101_S_191_0193/3442,431,1531,2292/full/0/default.jpg"
+}

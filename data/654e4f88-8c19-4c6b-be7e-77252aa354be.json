@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of male figures, all with golden halos, suggesting they are saints or holy figures. The central figure, a bearded man in a blue robe with gold trim, holds a sword vertically. To his left, another bearded man in a green robe and gold trim also holds a sword. Behind them, several other figures with halos are visible, their faces partially obscured. The background suggests an indoor architectural setting with dark, possibly vaulted ceilings and decorative elements. The overall impression is one of solemnity and religious devotion, likely representing a gathering of apostles or martyrs.",
+    "scene_interpretation": "Apostles",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "vault",
+        "wall"
+    ],
+    "persons": [
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_018/DEPOT/890245409_n_018_0046/3594,1793,922,1057/full/0/default.jpg"
+}

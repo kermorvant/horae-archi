@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a man wearing a cap with a prominent circular ornament on its crown. He has a beard and is dressed in a robe with a circular emblem on the chest and another on the hip. He holds a staff or scepter in his left hand, topped with a similar circular ornament. The background features decorative elements, including what appears to be foliage or a patterned textile, and architectural framing with pointed arches and decorative tracery. The overall style suggests a woodcut or engraving, possibly from a printed book.",
+    "scene_interpretation": "This image does not depict a specific biblical, liturgical, or devotional scene. It is likely a portrait or a symbolic representation of a figure, possibly a saint, a king, or a person of importance, indicated by the regalia-like ornaments. Without further context, a precise interpretation is not possible.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0071/2495,4195,364,579/full/0/default.jpg"
+}

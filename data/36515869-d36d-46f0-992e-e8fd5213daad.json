@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely a woman in a white veil and robe, standing on a raised platform or steps. She is looking downwards and appears to be interacting with a smaller figure, possibly a child, who is kneeling or sitting at her feet. Behind them, an ornate window with tracery is visible, suggesting an interior architectural setting. In the background, towering structures with spires and domes, indicative of religious or grand civic buildings, rise against a blue sky. The overall impression is one of a devotional or narrative scene set within a richly detailed architectural environment.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tracery_window",
+        "spire",
+        "dome",
+        "stairs",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105375885/f69/126,60,256,3443/full/0/default.jpg"
+}

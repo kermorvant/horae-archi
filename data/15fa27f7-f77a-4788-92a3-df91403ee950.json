@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary kneeling on a grassy, flower-filled hillside, her hands clasped in prayer. She is dressed in a blue robe and a grey mantle. Above and to her right, God the Father appears in a radiant burst of light, his right hand raised in blessing and his left hand holding a globe. Behind Mary, a golden wall with crenellations suggests a city or fortification. The background is a deep blue sky, adorned with decorative gold motifs.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "battlement",
+        "crenellation"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.C.IV.111/Chig.C.IV.111_0066_fa_0027v.jp2/370,262,414,431/full/0/default.jpg"
+}

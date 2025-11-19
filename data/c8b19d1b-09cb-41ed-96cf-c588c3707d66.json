@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary seated centrally, surrounded by the Apostles. All figures are depicted with halos, indicating their sanctity. The Virgin Mary is looking upwards, with her hands clasped in prayer. Several Apostles are also looking upwards, with expressions of awe and wonder. Some are holding books, suggesting they are engaged in prayer or study. Above them, a dove, symbolizing the Holy Spirit, descends from a stylized tree or vine, with rays of light emanating from it. The figures are seated on a tiled floor, and the background is a dark, decorative pattern. The overall impression is one of divine inspiration and spiritual illumination.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Douai/Bibliotheque_municipale/591786101_MS0179/DEPOT/591786101_MS0179_0025/1018,750,1451,1980/full/0/default.jpg"
+}

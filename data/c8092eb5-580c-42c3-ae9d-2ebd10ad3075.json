@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a burial in progress, set against a backdrop of medieval buildings. Two figures, one in blue and the other in pink, are lowering a body wrapped in white cloth into an open grave. Several monks in dark robes stand to the left, observing the burial, with one holding a small object, possibly a prayer book or rosary. To the right, more monks in black habits are gathered, some with heads bowed in prayer or contemplation. A tall, ornate cross stands prominently in the center, surrounded by smaller wooden crosses. The architectural setting includes buildings with red-tiled roofs and arched windows, suggesting a town or monastic complex. The overall atmosphere is somber and devotional, likely representing a funeral rite.",
+    "scene_interpretation": "Funeral Rite",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "cross",
+        "wall"
+    ],
+    "persons": [
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828366/323,270,1484,2052/full/0/default.jpg"
+}

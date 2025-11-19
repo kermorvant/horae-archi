@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bust of a bearded man wearing a hooded garment is depicted within an architectural frame. The man has a serene expression and his hands are clasped in front of him. The frame is decorated with Gothic-inspired tracery and foliate motifs. The overall style suggests a decorative initial or border element from a medieval manuscript.",
+    "scene_interpretation": "Unknown",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Bearded man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0063/3872,509,326,1354/full/0/default.jpg"
+}

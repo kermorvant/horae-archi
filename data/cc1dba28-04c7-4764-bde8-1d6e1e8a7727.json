@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a landscape setting with a red, star-filled sky. In the upper register, two elderly men with halos are shown looking upwards, one holding a book. Below them, rays of golden light descend. In the middle ground, a naked figure, likely Adam, is being touched by a man in a blue robe, while another figure in a blue robe stands behind. To the left, a bearded man with a halo in a blue robe gestures upwards. In the foreground, a man in a red robe lies on the ground, seemingly struck down, and a monstrous, wolf-like creature with sharp teeth and claws is present on the right. The overall composition suggests a divine intervention or judgment.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f122/482,984,900,1535/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body pierced by a spear. Above him, a bust of God the Father is visible within a blue mandorla. Below the cross, a group of figures are gathered. To the left, a woman in a red robe and green sash, likely the Virgin Mary, is being comforted by another figure. To the right of the cross, soldiers are present, one of whom is offering a sponge on a reed to Christ. In the background, a city with numerous towers and spires is depicted, set against a green landscape. The scene is framed by an illuminated border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10509406b/f32/639,434,1159,1796/full/0/default.jpg"
+}

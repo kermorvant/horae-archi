@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely Saint Sebastian, bound and pierced by numerous arrows. He stands naked, with his body showing signs of suffering. Three figures surround him: one on the left appears to be shooting an arrow, another in the center is holding a bow, and a third figure stands behind them, looking on. The figures are rendered in a stylized, medieval manner. Above them, an architectural element resembling an arch with decorative detailing frames the scene. The background is filled with stippling, suggesting a textured or perhaps a dark, enclosed space.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0049/1049,772,463,677/full/0/default.jpg"
+}

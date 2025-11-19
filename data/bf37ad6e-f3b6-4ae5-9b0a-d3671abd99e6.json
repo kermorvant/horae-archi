@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an arched architectural setting. On the right, a bearded man, likely Christ, is shown wearing a blue robe adorned with gold fleur-de-lis patterns over a gold tunic. He is holding and writing on a scroll, with a halo of golden rays around his head. To his left, a younger figure, possibly a disciple or an angel, stands wearing a yellow robe and holding a dark inkwell and quill. The background features a red tapestry with golden droplets and an arched doorway. The floor is tiled with a geometric pattern of red and green squares. The architecture includes large purple columns with gold bases and capitals, supporting a golden archway.",
+    "scene_interpretation": "The scene likely represents Christ dictating or writing scripture, possibly the Gospels, to a scribe. The presence of the inkwell and quill, along with the scroll, points to the act of writing. The halo around Christ's head signifies his divinity. The figure on the left could be an evangelist or an angel assisting in the divine revelation.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1588/DEPOT/352386106_MS1588_0122/3586,566,1582,2377/full/0/default.jpg"
+}

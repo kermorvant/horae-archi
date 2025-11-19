@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "Two bearded men, likely hermits or monks, are depicted in a landscape setting. The figure on the left, dressed in a purple robe and wearing a red cap, sits and reads from a blue book, leaning on a wooden staff. A wild boar stands to his left, looking upwards. The figure on the right, in a dark habit with a golden-brown mantle, stands and looks upwards, holding a book and a staff. In the background, rolling green hills are dotted with trees, and a stylized city with towers and spires is visible under a starry blue sky. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Saint Anthony Abbot and Saint Paul the Hermit",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Anthony Abbot",
+        "Saint Paul the Hermit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100254479/f482/1085,247,1085,1596/full/0/default.jpg"
+}

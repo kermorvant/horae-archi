@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, holding a golden orb topped with a cross, bestowing a blessing upon the Virgin Mary, who kneels with clasped hands and wears a crown. To the left, an angel with wings and a halo stands behind the Virgin, seemingly placing or adjusting her crown. Behind them, a canopy-like structure is visible, adorned with a blue drapery and a red background filled with numerous figures, possibly representing a heavenly host. The figures are set against a green drapery, and the entire scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f103/336,202,1518,2067/full/0/default.jpg"
+}

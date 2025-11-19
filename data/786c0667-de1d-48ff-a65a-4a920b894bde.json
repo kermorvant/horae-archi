@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the central cross and two thieves on either side. Christ is shown with a halo and the inscription 'INRI' above his head. He is naked except for a loincloth. The thief on the left has a beard and is also naked, while the thief on the right is younger and also naked. The background is a pink tapestry-like pattern with gold motifs. The ground beneath the crosses is depicted as green and textured. The entire scene is framed within a large, illuminated letter 'D' which is decorated with gold leaf and blue and red patterns.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Thief"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537214/46196877.tif/609,2304,1352,1042/full/0/default.jpg"
+}

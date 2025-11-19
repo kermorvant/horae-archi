@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely Christ, stands holding a large wooden cross in his left arm and a book open in his right hand. He wears a blue tunic with gold stripes and a red mantle. His hair is long and light brown, and he has a beard. A shadow of a cross is cast behind him. The figure is positioned against a plain background with a hint of architectural structure suggested by the shadow. The presence of the cross and the book strongly suggests a depiction related to Christ's Passion and teachings.",
+    "scene_interpretation": "Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025549k/f331/267,1221,640,713/full/0/default.jpg"
+}

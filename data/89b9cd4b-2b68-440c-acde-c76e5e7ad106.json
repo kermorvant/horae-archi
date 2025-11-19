@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a stable-like structure. The Virgin Mary, with a halo, holds the Christ Child on her lap. To her left stands a bearded man, likely Joseph. In the foreground, one of the Magi kneels, offering a golden vessel, while two other Magi stand behind him, one holding a similar vessel. A donkey and an ox are visible in the background, within the dimly lit interior. The architecture is characterized by rough stone walls and arched openings.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xb915nd9363%2FW439_000340_1200/4641,947,2783,3202/full/0/default.jpg"
+}

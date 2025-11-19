@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely Saint Jerome, stands in a room with patterned walls and architectural elements. He wears a red robe over a blue and purple tunic and holds a green book. To his left, a lion with bared teeth and claws is depicted. The inscription above the figure reads 'RHEE AWIS FI FLOTS PAIR RIE OISIMEI OGERO'. The scene appears to be set indoors, within a space that suggests an architectural interior.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f356/944,974,956,1843/full/0/default.jpg"
+}

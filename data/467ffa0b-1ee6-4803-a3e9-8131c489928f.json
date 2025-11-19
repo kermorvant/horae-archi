@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a man in a blue robe kneeling in prayer, looking upwards towards a crucifix. He has a beard and appears to be a hermit or monk. Beside him, a beaver sits and chews on a plant. In the background, a small chapel with a cross on its roof is nestled into a rocky hillside, where another figure is climbing. To the right of the kneeling man, a red cloak or robe is draped over an unseen object. The crucifixion scene is central, with Christ on the cross, wearing a crown of thorns. The background shows a body of water with ships and distant mountains and buildings, suggesting a landscape setting.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "cross"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.101/Ross.101_0418_fa_0201v.jp2/196,85,302,546/full/0/default.jpg"
+}

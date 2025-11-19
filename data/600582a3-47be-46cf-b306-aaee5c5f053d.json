@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Paul, is depicted reading a book. He wears a blue tunic with gold trim and a red cloak. A halo encircles his head, and he holds a staff in his right hand. The background is a blue sky with stylized clouds and distant, abstract landscape elements. The scene is framed by a golden architectural element on the left, suggesting an interior or a framed depiction.",
+    "scene_interpretation": "Saint Paul",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_020/DEPOT/890245409_n_020_0028/1403,680,911,1238/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an arched frame. On the left, the Virgin Mary, dressed in a blue robe, is seated, looking down at an open book on a lectern. A dove, symbolizing the Holy Spirit, hovers above her. To the right, the Angel Gabriel, adorned in a red robe over a white tunic and with large wings, kneels and gestures towards Mary, holding a scroll with Latin text. Behind them, architectural elements suggest an interior space with a bed canopy on the left and windows with tracery on the right, through which sunlight streams. The background features a green, patterned tapestry.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Caen/Musee_des_Beaux_Arts/141185204_coll_mancel_ms0239/DEPOT/141185204_coll_mancel_ms0239_0035/3662,592,1252,1928/full/0/default.jpg"
+}

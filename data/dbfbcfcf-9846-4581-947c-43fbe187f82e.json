@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The left panel depicts a bearded man, possibly a scribe or scholar, wearing a blue and gold robe and a blue turban, seated at a lectern and writing on a scroll. He is positioned within an interior space with a window showing a landscape. The right panel illustrates the Nativity scene. The Virgin Mary, in a blue mantle and gold gown, kneels in prayer beside the Christ Child lying in a manger. Saint Joseph, in a red robe, kneels in adoration. Above them, an angel with golden wings descends, holding a scroll with text. In the background, two figures, possibly shepherds, are shown in a field with sheep, and a simple wooden structure, perhaps a stable, is visible.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0281.jp2/2558,1144,1514,1673/full/0/default.jpg"
+}

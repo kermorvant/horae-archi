@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The left panel depicts a bearded man, labeled 'David', kneeling in prayer before a grand arched gateway. He wears a royal blue robe adorned with gold fleur-de-lis and a fur-lined mantle. A harp lies at his feet, and a basket of red flowers is placed beside him. Behind him, a fortified building with multiple towers and spires rises, suggesting a castle or city. The right panel shows a young man in ornate golden armor, pierced by arrows, standing in a lush green forest. He holds a long staff or spear. The scene is divided, with the architectural setting on the left and a natural landscape on the right, suggesting a narrative split or contrast.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0405.jp2/2676,1144,1260,1555/full/0/default.jpg"
+}

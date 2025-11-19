@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic and fiery inferno, likely representing Hell. Numerous figures, rendered in dark silhouettes, are engulfed in flames and appear to be suffering. Some figures are falling, while others are contorted in agony. A large, serpentine creature with a gaping maw and possibly horns is prominent in the lower right, spewing fire. Above, amidst the darkness and flames, a winged figure, possibly an angel or demon, is depicted in flight. The entire scene is framed by an arched architectural element with decorative golden borders and figures of robed individuals on either side, suggesting a divine or judgmental context.",
+    "scene_interpretation": "Hell",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f508/1006,1459,1064,2786/full/0/default.jpg"
+}

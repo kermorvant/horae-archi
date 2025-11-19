@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A female saint, identified by a halo, stands in a grassy landscape. She is dressed in a blue patterned surcoat over a red gown, both adorned with gold trim and pearls. She holds an open golden vessel, possibly an ointment jar, in her hands. In the background, a rocky cliff face is depicted with several small buildings nestled into its side, suggesting a monastic or hermitic settlement. Further in the distance, rolling hills and more buildings are visible under a pale blue sky.",
+    "scene_interpretation": "Saint holding ointment jar",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427237h/f449/1118,453,793,1002/full/0/default.jpg"
+}

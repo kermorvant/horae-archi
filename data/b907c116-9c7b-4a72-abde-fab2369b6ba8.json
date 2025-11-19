@@ -1,0 +1,12 @@
+{
+    "scene_description_enriched": "A close-up detail of a medieval manuscript illumination shows the head of a person. The figure wears a headdress or cap, partially obscuring the hair. The face is rendered with delicate brushstrokes, suggesting a serene or contemplative expression. The background is a textured, likely gilded surface, typical of devotional manuscripts.",
+    "scene_interpretation": " devotional_figure",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00070/223,970,198,234/full/0/default.jpg"
+}

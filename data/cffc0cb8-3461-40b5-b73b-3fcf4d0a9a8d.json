@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, seated on a donkey, cradles the Christ Child. She wears a blue robe with gold trim and a white headdress. The Christ Child is swaddled and also has a halo. To the left, Saint Joseph, with a white beard and wearing a red cloak over a pink tunic and blue hose, leads the donkey. He holds a staff and appears to be playing a pipe. The setting is an outdoor landscape with rolling hills, sparse trees, and a distant, indistinct cityscape. The sky is a gradient of blue and silver.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ott.lat.2919/Ott.lat.2919_0254_fa_0123v.jp2/486,283,480,773/full/0/default.jpg"
+}

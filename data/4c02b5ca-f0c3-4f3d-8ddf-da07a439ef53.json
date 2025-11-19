@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in a landscape setting. On the left, a woman in a red and blue robe with a blue head covering points towards a man kneeling on the right. Between them stands another figure, also hooded in a golden-brown robe. The kneeling man, with a white beard and loincloth, has his hands clasped in prayer and appears to be receiving divine light or inspiration, indicated by rays emanating from above and a faint glow around him. In the background, a fortified city with towers and spires is visible, set against a hilly landscape under a blue sky. The ground is depicted as tilled earth.",
+    "scene_interpretation": "Saint Anthony Abbot in the Desert",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_107%2Flewis_e_107_jp2.zip%2Flewis_e_107_jp2%2Flewis_e_107_0275.jp2/4355,2443,4649,6159/full/0/default.jpg"
+}

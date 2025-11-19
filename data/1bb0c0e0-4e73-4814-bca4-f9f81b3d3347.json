@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A nude woman stands in a body of water, her long blonde hair cascading down her back. To the left, a king wearing a crown and ermine-trimmed robe is visible through an open window of a stone building with a red-tiled roof. The background depicts a landscape with rolling green hills, trees, and a distant city. To the right, a tall, reddish-brown tower-like structure with an open top stands amidst the greenery. The scene likely represents Bathsheba bathing, as observed by King David.",
+    "scene_interpretation": "Bathsheba bathing",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "King David",
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_098%2Flewis_e_098_jp2.zip%2Flewis_e_098_jp2%2Flewis_e_098_0143.jp2/2529,937,2452,3371/full/0/default.jpg"
+}

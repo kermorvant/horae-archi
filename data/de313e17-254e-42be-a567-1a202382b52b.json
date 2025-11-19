@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his head bowed and wearing a loincloth. Above him, the inscription \"INRI\" is visible. To his left stands the Virgin Mary, her hands clasped in sorrow, and to his right stands Saint John the Evangelist, holding a book. The background features stylized architectural elements, suggesting a city or buildings, and a decorative arch frames the composition.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0016/4142,2569,589,1004/full/0/default.jpg"
+}

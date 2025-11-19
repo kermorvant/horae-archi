@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic shelter, possibly a stable, indicated by the presence of a cow and an ox. The Virgin Mary, in a blue robe, kneels in adoration before the Christ Child, who is seated in a manger and radiating light. Saint Joseph, in a red robe, is also present, leaning forward with his hands clasped in prayer. Above, a divine figure, possibly God the Father, is depicted within a red halo, sending rays of light down towards the scene. An angel with wings is also visible, attending to the scene. The background is a richly decorated tapestry-like pattern of gold squares interspersed with blue and red circular motifs. The shelter itself is constructed of wooden beams and thatched roofing.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55005889s/f87/392,124,811,1425/full/0/default.jpg"
+}

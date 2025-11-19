@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a gathering of men around a table, with Jesus at the center. He is shown holding bread and looking towards the viewer. The men surrounding him are engaged in conversation, with some gesturing. Behind them, a patterned window is visible, suggesting an indoor setting. The overall composition suggests a religious event, likely the Last Supper or a similar meal involving Jesus and his disciples.",
+    "scene_interpretation": "Last Supper",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window"
+    ],
+    "persons": [
+        "Jesus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0019/2118,3797,872,676/full/0/default.jpg"
+}

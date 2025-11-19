@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a divine vision. At the top, God the Father, enthroned and haloed, holds the crucified Christ. Below them, a radiant emanation descends, illuminating a group of figures. On the left, two men in elaborate turbans and robes are looking upwards, one kneeling. On the right, a woman in a pink robe and a man in a blue robe also gaze skyward. In the background, a rocky landscape transitions to a city with spires and towers. An open book lies on the ground near the kneeling figures. The scene is framed by decorative borders.",
+    "scene_interpretation": "The Trinity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84496839/f243/402,96,1844,2815/full/0/default.jpg"
+}

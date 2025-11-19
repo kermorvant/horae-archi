@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Circumcision of Christ, with the Virgin Mary holding the infant Jesus over a golden basin. Joseph, an older man with grey hair, is shown performing the ritual with a knife. Two women attend, one with a white headdress and a golden garment, and another in a red robe. A man in a red robe stands behind Joseph, and another figure in a golden robe is visible on the right. The figures are positioned within an architectural setting characterized by arches and columns, with a glimpse of an outdoor landscape through an opening. The floor is tiled, and the overall scene is richly decorated with gold accents.",
+    "scene_interpretation": "Circumcision of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0068/DEPOT/M601415401_MS0068_0130/1836,816,1262,2318/full/0/default.jpg"
+}

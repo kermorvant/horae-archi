@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a rocky, outdoor setting with a shepherd, identifiable by his staff and sheep, looking upwards with his hand raised. To the left, three figures are shown: a woman with a floral headdress, another woman with clasped hands, and a child partially obscured. Above them, a winged, blue angelic figure hovers in a golden sky. The overall composition suggests a divine revelation or visitation occurring in a pastoral landscape.",
+    "scene_interpretation": "Visitation of an Angel to a Shepherd",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd",
+        "Woman",
+        "Woman",
+        "Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013078h/f115/260,114,903,1324/full/0/default.jpg"
+}

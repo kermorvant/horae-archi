@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, identified as a prophet, is depicted seated and gesturing with his right hand. He wears a vibrant blue robe adorned with gold trim and holds a scroll inscribed with Hebrew lettering. To his left, a ram with a halo rests, symbolizing a sacrificial animal or a biblical figure. The background features a richly patterned tapestry in black, red, and gold, with diamond-shaped motifs and blue accents. The scene is set on a green ground, with a stone structure visible to the right, suggesting a raised platform or altar.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828158/1956,1173,724,1269/full/0/default.jpg"
+}

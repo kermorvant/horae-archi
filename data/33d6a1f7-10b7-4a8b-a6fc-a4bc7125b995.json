@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Luke writing, seated at a golden lectern on which rests an open book. He is dressed in a yellow tunic and a pink and white robe, with a green halo and a red cap. To his left, a winged ox, the symbol of Saint Luke, lies on a green ground, with a scroll bearing an inscription. Behind Saint Luke, a rich blue curtain with gold patterns is drawn, suggesting an indoor setting. The floor is green, and several books are scattered around, including one open on the floor. A small, ornate tower-like structure with a figure on top is visible behind the lectern.",
+    "scene_interpretation": "Evangelist Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000466t/f40/834,224,1036,1740/full/0/default.jpg"
+}

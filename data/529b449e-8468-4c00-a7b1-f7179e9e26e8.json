@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a man in the foreground, dressed in a pink tunic and white hose, throwing stones at a herd of wild boars. A dog stands attentively beside him. In the background, a dense forest with tall, slender trees dominates the middle ground, with several figures tending to sheep or pigs within its depths. To the far left, a castle with turrets and battlements is nestled on a hill. Above the landscape, a celestial calendar or zodiac wheel is depicted, featuring astrological signs, lunar phases, and celestial bodies, indicating the month of November and the zodiac sign Scorpio. This imagery suggests a connection between the earthly activities and the cosmic order.",
+    "scene_interpretation": "November Calendar",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "turret",
+        "battlement",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0016/1115,402,2120,3181/full/0/default.jpg"
+}

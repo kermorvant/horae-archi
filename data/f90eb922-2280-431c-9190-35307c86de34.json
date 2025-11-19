@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a knight in full armor, holding a sword aloft, confronting a woman who is kneeling and reaching towards him. A baby is held by the knight. To the left, a robed figure with a staff stands observing, and to the right, another figure, also robed, looks on. The setting is a dark, somewhat abstract landscape with sparse vegetation. The overall composition suggests a dramatic and possibly violent encounter, interpreted as the Judgment of Solomon, where the king's wisdom is tested by two women claiming to be the mother of the same child.",
+    "scene_interpretation": "Judgment of Solomon",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Knight",
+        "Woman",
+        "Baby",
+        "Man with staff",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/pb462wj5265%2FW190_000162_1200/4486,3966,1715,1729/full/0/default.jpg"
+}

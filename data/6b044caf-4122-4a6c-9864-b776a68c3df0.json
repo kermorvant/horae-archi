@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, bound to a column and bleeding from numerous wounds, stands at the center. He is surrounded by four tormentors. One man in a red tunic and green hose holds a whip, while another in a blue tunic and red hose raises a club to strike. A third figure, also in blue and red, is being held down on the ground by a tormentor in red and green who is pulling his leg. A fourth tormentor, in blue and red, stands behind Christ, holding a rod. The background features draped red and blue textiles, suggesting a makeshift setting, possibly within a courtyard or a hall. The architectural elements visible are limited to a column to which Christ is bound and a suggestion of an arched structure in the background.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/6135453/1816,409,1529,2224/full/0/default.jpg"
+}

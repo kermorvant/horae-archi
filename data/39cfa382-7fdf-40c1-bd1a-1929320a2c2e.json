@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Baptism of Christ. John the Baptist, kneeling on a green hill, pours water from a vessel onto the head of Christ, who stands in the river Jordan. Christ is partially submerged and wrapped in a white cloth. Above them, the Holy Spirit descends as a dove, surrounded by rays of light. In the upper register, God the Father, enthroned and holding a globe, is flanked by two angels. The background features a lush landscape with trees, rolling hills, and a distant city with towers and domes.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "John the Baptist",
+        "Christ",
+        "God the Father",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/np517xz5161%2FW196_000070_1200/5090,1558,3251,5396/full/0/default.jpg"
+}

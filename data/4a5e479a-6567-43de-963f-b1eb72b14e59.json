@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, adorned in a blue mantle with gold embellishments and a white veil, seated with a golden halo. To her left stands an angel, also with a golden halo, wearing a white robe and holding a small, round object. The figures are positioned within an architectural setting suggested by a wooden structure in the foreground and a dark, possibly interior, background with hints of an archway. The overall impression is one of a sacred or devotional moment, likely the Annunciation, given the presence of the angel and the Virgin Mary.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0101/utp-0101_027r.jp2/4819,5276,873,2093/full/0/default.jpg"
+}

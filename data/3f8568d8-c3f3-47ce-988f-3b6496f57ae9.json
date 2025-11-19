@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed man with long grey hair and a beard, dressed in a blue robe with gold trim, is shown writing in a book with a quill. To his left, a brown bull with black horns is depicted. The background is a muted grey, suggesting an indoor or abstract setting. This scene likely represents Saint Luke the Evangelist, traditionally symbolized by the bull, as he writes his Gospel.",
+    "scene_interpretation": "Saint Luke Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_086%2Flewis_e_086_jp2.zip%2Flewis_e_086_jp2%2Flewis_e_086_0036.jp2/781,2277,1377,1671/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a battlefield encampment with numerous tents set up on a hilly landscape. In the foreground, several soldiers in armor lie fallen, some appearing wounded or dead. Two armored figures stand prominently: one on the left holds a banner, while the figure on the right, also armored, appears to be tending to a wounded or deceased individual lying within a tent. The background shows more tents, trees, and figures in the distance, with a rocky outcrop topped by two figures. The overall impression is one of a military camp after a battle, possibly during a campaign.",
+    "scene_interpretation": "Battle",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "tent"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3770/Vat.lat.3770_0148_fa_0071v.jp2/810,377,1389,2204/full/0/default.jpg"
+}

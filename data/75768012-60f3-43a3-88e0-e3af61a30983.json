@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a dramatic event unfolding outside a fortified tower. In the foreground, three figures are engaged in a struggle. One figure, dressed in blue and holding a large, curved sword aloft, appears to be about to strike. Another figure, in a red robe and a yellow conical hat, points forcefully towards a third figure who is kneeling and pleading with outstretched hands. This kneeling figure, clad in a light-colored robe, seems to be the intended victim. To the right, a tower rises, with two figures visible behind barred windows in an upper level. The tower itself is constructed of stone with a golden, multi-faceted roof and smaller turrets. The background is a rich red with scattered gold motifs, possibly representing clouds or decorative elements. The ground is rendered with green grass and hints of foliage.",
+    "scene_interpretation": "This scene likely illustrates a moment of violence or persecution, possibly related to a biblical narrative or a hagiographic account. The presence of a tower and the act of violence suggest a theme of imprisonment, martyrdom, or a struggle against oppressive forces. Without further context, a specific interpretation is difficult, but it evokes themes of injustice and suffering.",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "roof",
+        "turret"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f160/558,945,785,1648/full/0/default.jpg"
+}

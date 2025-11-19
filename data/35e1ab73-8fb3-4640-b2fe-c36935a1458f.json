@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed male figure, identified as Saint Christopher, is depicted in profile, facing right. He wears a brown, brimmed hat adorned with white markings, a blue robe with gold embellishments, and a red undergarment. A brown satchel hangs from his shoulder, and he carries a long staff diagonally across his body. In his hands, he holds an open book with text rendered in a stylized, illegible script. The background features a green, grassy landscape with stylized trees and distant blue mountains, suggesting an outdoor setting. The figure's attire and the staff are indicative of a pilgrim or traveler.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Christopher"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_219r.jp2/723,916,1746,2153/full/0/default.jpg"
+}

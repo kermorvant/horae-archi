@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a fortified structure with a red brick tower on the left and a grey stone wall with battlements. A knight in full armor, holding a halberd, stands guard outside the wall. To the right, within a barred opening of the wall, a young woman in a blue dress with a halo is shown praying. She is facing a monstrous, red-skinned creature with horns and sharp teeth, possibly a demon, which is also behind the bars. The woman holds a golden cross. Two birds are perched on the battlements, and a lizard is visible on the wall.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "battlement",
+        "arch",
+        "door"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326055/f380/1100,212,1554,2012/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a macabre feast, likely the Beheading of Saint John the Baptist. In the foreground, a woman in a green gown stands beside a table draped with a white cloth, on which rests a platter with the severed head of a man with a halo, suggesting sainthood. Another woman in blue, adorned with a crown, appears to be presenting the head. To the left, a man in blue attire holds a sword and a basket, possibly having just carried out the execution. Behind them, a group of figures in various colored attire and hats are gathered, some holding cups. In the background, a man plays a lute, and another plays a pipe, adding a festive, albeit unsettling, element to the scene. Beyond this, a wooden fence encloses a grassy area, and in the far distance, a landscape with mountains and two winged figures (possibly angels) is visible through a window.",
+    "scene_interpretation": "Beheading of Saint John the Baptist",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326055/f342/1174,278,1416,1739/full/0/default.jpg"
+}

@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a group of clerics in a richly decorated interior, possibly a chapel or a church. The central figure, a tonsured cleric, kneels and looks upwards, holding a rosary with a pendant. He wears a white alb and a blue and gold cope. Behind him, two other clerics, also tonsured and wearing similar vestments, look in the same direction. The background features architectural elements such as columns with Corinthian capitals, arched windows with tracery, and a vaulted ceiling. Elaborate draperies, possibly altar cloths or hangings, are visible, along with a raised platform or altar adorned with gold and red patterned fabric. The floor is tiled in a checkerboard pattern. The overall impression is one of solemn prayer and devotion within a sacred space.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "window",
+        "tracery_window",
+        "vault",
+        "roof",
+        "wall",
+        "arcade"
+    ],
+    "persons": [
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f454/1005,1536,925,2518/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on their journey, likely the Flight into Egypt. The Virgin Mary, with a halo, is seated on a donkey, cradling the Christ Child, who also has a halo. Saint Joseph, with a halo and carrying a staff and a red bundle, walks beside the donkey. An ox stands to the left of the donkey. The background features a lush, green forest on the left and a mountainous, snowy landscape on the right. The scene is framed by decorative borders, including cherubic heads and scrolling foliage at the top, and a blue and gold ornamental motif on the right.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14936/Vat.lat.14936_0155_fa_0074r.jp2/231,109,628,802/full/0/default.jpg"
+}

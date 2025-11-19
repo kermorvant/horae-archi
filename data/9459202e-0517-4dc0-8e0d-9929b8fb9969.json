@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, likely a saint or a holy person, stands within an architectural niche. The figure wears a headdress and a draped garment adorned with floral motifs at the shoulders. They hold a staff in their right hand and raise their left hand in a gesture of blessing or teaching. The scene is framed by an arch with decorative elements, suggesting an interior or a devotional setting.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0064/5076,429,506,599/full/0/default.jpg"
+}

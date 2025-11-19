@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a martyrdom, likely Saint Stephen, kneeling and looking upwards. He is dressed in a red and gold chasuble, with a wound on his head from which blood is flowing. Two figures are shown assaulting him: one on the left, wearing a red cap and blue tunic, raises his fist as if to strike; the other on the right, wearing a green cap and purple tunic, holds a stone or club above his head, ready to strike. In the background, a city with spires and towers is visible under a blue sky. Rays of golden light descend from the upper part of the image, where a representation of God or Christ is faintly depicted, suggesting divine intervention or witness.",
+    "scene_interpretation": "Martyrdom of Saint Stephen",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Stephen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0105/utp-0105_039v.jp2/3000,447,2185,3591/full/0/default.jpg"
+}

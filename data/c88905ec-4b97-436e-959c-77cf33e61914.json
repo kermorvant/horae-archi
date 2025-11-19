@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architecturally rendered space. On the left, a woman, likely the Virgin Mary, is seated and holding the Christ Child. Before her, another woman, possibly a queen or a saint, kneels and reaches out towards the child. Behind them, several other figures, all with halos, stand with hands clasped in prayer or reverence. The background features elaborate vaulted architecture, suggesting an interior setting. The overall scene is interpreted as a devotional representation, possibly the Presentation of the Christ Child or a similar moment of veneration.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "pillar",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f18/2538,556,886,1237/full/0/default.jpg"
+}

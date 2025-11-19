@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, holding the Christ Child, stands before an altar. To her right, a bearded man, likely Simeon, reaches out towards the child. Behind Simeon, another bearded man, possibly Joseph, observes. To the left of the Virgin, a woman holds a basket and a staff. The background is a red textile with a gold grid pattern. Above the altar, a bell hangs suspended. The altar itself is draped with a patterned cloth and has a wooden structure beneath it. The overall setting suggests an interior space within a religious building.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "altar",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Simeon",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_092%2Flewis_e_092_jp2.zip%2Flewis_e_092_jp2%2Flewis_e_092_0116.jp2/978,1018,2079,2459/full/0/default.jpg"
+}

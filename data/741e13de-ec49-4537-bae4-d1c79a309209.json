@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a seated king, adorned with a crown and a long beard, gesturing towards a kneeling woman who is presenting a crown. Above them, two angels are shown, one holding a crown and the other gesturing. In the background, a series of architectural structures with triangular gables and arched windows are visible, suggesting a palace or grand hall. Further in the background, a group of figures, possibly angels or saints, are depicted with halos, looking down upon the scene. The inscription \"VAO. CONPLETOPIV\" is present at the bottom. The overall composition suggests a scene of investiture or divine recognition.",
+    "scene_interpretation": "Coronation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "gable",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "King",
+        "Woman",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_T1343/DEPOT/B530626201_T1343_0051/4237,907,2005,2984/full/0/default.jpg"
+}

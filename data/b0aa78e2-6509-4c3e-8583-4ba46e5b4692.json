@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, with a halo and a crown of thorns, stands bound to a blue column. He is unclothed except for a loincloth. Several figures surround him, some appearing to inflict punishment. On the left, a man in a blue tunic and orange hood holds a hammer, looking up at Christ. Another figure in a pink robe and green leggings stands in the foreground, holding a whip. On the right, a group of figures, some wearing distinctive hats, observe the scene. One figure in a blue tunic and orange hood is actively whipping Christ. The background features a patterned wall and a tiled floor. The scene is framed by decorative borders.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://adore.ugent.be/IIIF/images/archive.ugent.be:ACDEC1CE-F244-11E7-B6BF-C49F0AD9BE4D:DS.135/1836,493,1466,2603/full/0/default.jpg"
+}

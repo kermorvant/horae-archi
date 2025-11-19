@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a figure in a pink robe, identified as Christ by his halo, standing between two armored guards. To the left, a seated figure in a blue robe and a green hat, likely a judge or authority figure, gestures. The setting appears to be an interior space with a large window showing a landscape outside. The floor is tiled, and the ceiling is wooden. This scene likely represents Christ's trial or condemnation.",
+    "scene_interpretation": "Christ before Pilate",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Reg.lat.165/Reg.lat.165_0151_fa_0074r.jp2/254,397,525,656/full/0/default.jpg"
+}

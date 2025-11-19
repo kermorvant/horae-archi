@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in the foreground against a red, textured background with gold and silver accents. On the left, two older men with long white beards and elaborate hats stand beside a young child dressed in a yellow tunic. The child is reaching out to the man on the right, who is seated and also has a long white beard and a red and gold hat. This seated figure is gesturing towards the child. The figures are dressed in richly colored robes, with the man on the right wearing a prominent blue robe adorned with gold trim. The ground is depicted as green, suggesting an outdoor setting. The overall composition suggests a moment of interaction or presentation, possibly within a narrative context.",
+    "scene_interpretation": "Presentation of Jesus in the Temple",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Simeon",
+        "Jesus",
+        "Anna"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f145/1863,938,828,1644/full/0/default.jpg"
+}

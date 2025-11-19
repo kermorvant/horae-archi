@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a banquet, likely the Last Supper, set within an elaborately decorated interior. Several figures are seated around a long table laden with food and drink. Christ, identifiable by his halo and central position, is engaged in conversation with one of the disciples. The architecture features a rich blue tapestry with gold stars and tassels, and a golden, arched frame surrounds the scene. Windows with diamond-shaped panes are visible in the background. To the right, a gilded panel with blue lettering reads \"CENA DOMINI\" (The Lord's Supper). The overall impression is one of solemnity and religious significance, conveyed through the figures' gestures and the opulent setting.",
+    "scene_interpretation": "Last Supper",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550057309/f17/313,380,1244,1524/full/0/default.jpg"
+}

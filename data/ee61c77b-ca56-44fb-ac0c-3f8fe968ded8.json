@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated and holding the Christ Child, both with halos. To the left, a woman in a long brown dress and a tall, conical headdress with a veil kneels with her hands clasped in prayer. In front of her is an open book with text. The figures are set in a green, hilly landscape. In the background, a cluster of buildings with towers and spires is visible on a distant hill. Golden rays of light emanate from the upper left corner, suggesting divine illumination. The overall scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Madonna and Child with a Donor",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84528173/f161/343,396,1210,1599/full/0/default.jpg"
+}

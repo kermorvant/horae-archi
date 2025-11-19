@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Resurrection of Christ. Christ, with a halo and a cross visible within it, stands triumphantly emerging from an open sarcophagus. He is draped in a blue tunic and a pink mantle, holding a banner with a red cross on a white field. His right hand is raised in a gesture of blessing or command. Below the sarcophagus, three Roman soldiers, clad in armor and helmets, are depicted asleep or stunned, one wearing a red cap. The background is a rich gold, with stylized trees and rocky formations on the left. The sarcophagus is ornate, with a decorative frieze and a white cloth inside.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f653/476,817,1941,2873/full/0/default.jpg"
+}

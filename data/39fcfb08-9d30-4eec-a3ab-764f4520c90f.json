@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts Christ seated on a throne, holding an orb, and gesturing with his right hand. He is flanked by two angels, one above and to his left, and another to his right. To Christ's left, a crowned female figure stands, while a kneeling female figure in a blue gown and white headdress is positioned in front of her. Behind the figures, an architectural setting is visible, with arched windows and a cityscape in the background. The overall scene suggests a divine or royal audience, possibly representing Christ's authority or a moment of spiritual significance.",
+    "scene_interpretation": "Christ Enthroned",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zv762vd8005%2FW220_000315_1200/4342,1704,2276,3179/full/0/default.jpg"
+}

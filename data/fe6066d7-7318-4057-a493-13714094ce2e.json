@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting that opens to a landscape. On the right, an older woman, likely Saint Anne, is seated, wearing a pink robe and a white veil, and is engaged in reading from a book. To her left, a younger woman, presumably the Virgin Mary, stands and looks down at the book, her hands also touching it. She wears a blue gown and a crown, indicating her royal or divine status. The interior space is suggested by a dark, possibly wooden, ceiling and a patterned wall behind Saint Anne. The foreground floor is tiled in blue. Through an arched opening, a detailed landscape is visible with a river, rolling hills, trees, and a fortified city with towers and spires in the distance. The overall scene likely represents the education or instruction of the young Virgin Mary by her mother, Saint Anne, a common theme in devotional art.",
+    "scene_interpretation": "Education of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Saint Anne",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/zhl/zhl-P0006-4/zhl-P0006-4_270v.jp2/1841,298,3460,4545/full/0/default.jpg"
+}

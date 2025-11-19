@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a domestic interior, possibly a kitchen or dining area, framed by a large archway. On the left, a woman in a dark hooded garment, likely the Virgin Mary, stands with her hands clasped in prayer or supplication. In the center, a round table holds a roasted bird or fowl, possibly a lamb, suggesting a meal. Behind the table, two figures are visible: a woman with a veiled head and an older man with a beard, both appearing to be engaged in conversation or observation. The overall atmosphere is one of quiet domesticity, possibly hinting at a religious event within a humble setting.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525115590/f62/499,94,648,988/full/0/default.jpg"
+}

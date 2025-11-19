@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identified by his halo, standing and gesturing with his hands towards a kneeling man who is praying with his hands clasped. Christ is on the left, and the man is on the right. Behind them, in the background, are stylized representations of buildings, suggesting an urban or architectural setting. The overall composition is framed by an arched element at the top, possibly representing a canopy or architectural feature.",
+    "scene_interpretation": "Christ and the Centurion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Centurion"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0031/4241,2726,415,699/full/0/default.jpg"
+}

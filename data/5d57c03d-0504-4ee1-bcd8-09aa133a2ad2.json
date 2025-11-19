@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a king, seated on a raised platform and wearing a crown and purple robe, holding a curved sword. He is surrounded by various figures engaged in different activities. To the left, several individuals in dark attire and hats are gathered around a structure, with one appearing to be writing or drawing. Above them, a sun with a face and a crescent moon are visible against a red background. In the center and right, several naked infants lie on the ground, some appearing wounded or dead, with bloodstains on their bodies. Other figures, some in military attire, are present, with one appearing to be playing a stringed instrument. In the foreground, a woman in a purple robe lies on the grass near a body of water, with a bouquet of flowers beside her. The overall scene appears to be a depiction of the Massacre of the Innocents, with the king representing King Herod, and the infants representing the victims.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King Herod"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_MS0688/DEPOT/B721816101_MS0688_0005/982,1629,1444,2155/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts a figure, possibly a saint or a prophet, holding a staff or a cross in their left hand and raising their right hand in a gesture of blessing or teaching. The figure wears a tunic with decorative elements and a circlet on their head. Behind the figure, an architectural element resembling a Gothic arch with tracery is visible, suggesting an interior or a structured setting. A banner with illegible text is also present. The overall style is that of a woodcut or engraving, common in medieval manuscripts.",
+    "scene_interpretation": "The figure's gesture and the presence of a banner suggest a didactic or prophetic role, possibly representing a saint or a biblical figure. The architectural elements hint at a sacred or learned context.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0012/3873,3947,552,602/full/0/default.jpg"
+}

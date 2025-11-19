@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a divine figure, likely God the Father, enthroned within a radiant arch, surrounded by cherubic figures. Below, a man, possibly a prophet or a supplicant, emerges from a rocky cavern, his hands raised in prayer or supplication. The landscape is rugged and hilly, with scattered trees and distant buildings, including a castle-like structure. The divine presence is shown descending rays of light towards the earth, suggesting a communication or intervention.",
+    "scene_interpretation": "The scene appears to represent a divine revelation or a moment of prayer and divine response, possibly related to a prophetic vision or a plea for divine intervention. The figure in the upper register is indicative of God, and the figure below is in a posture of supplication, suggesting a dialogue between the divine and the human.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032954j/f142/3047,232,923,1537/full/0/default.jpg"
+}

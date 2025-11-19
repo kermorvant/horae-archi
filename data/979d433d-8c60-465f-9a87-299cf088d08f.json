@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts Jesus in a purple robe and white sash, with a halo, gesturing with his hands towards a man in a blue robe and orange tunic who is kneeling and looking up at him. Around them, a group of onlookers observe the interaction. To the left, a young boy in a patterned tunic kneels and holds a basin of water. The setting appears to be an interior space with a vaulted ceiling supported by columns, and arched windows along the back wall. This scene is likely an illustration of Jesus healing a person, possibly the healing of the blind man or a similar miracle of restoration, emphasizing Jesus' divine power and compassion.",
+    "scene_interpretation": "Healing Miracle",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "window",
+        "wall",
+        "door",
+        "roof"
+    ],
+    "persons": [
+        "Jesus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_022/1076,789,1395,2009/full/0/default.jpg"
+}

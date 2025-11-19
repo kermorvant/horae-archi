@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint or prophet, is depicted seated outdoors, writing on a scroll. The figure wears a red cloak over a blue garment and has a serene, downward gaze. To the left, a red, winged creature resembling a dragon or griffin is present. The background features a landscape with rolling green hills, a body of water, and in the distance, a city with towers and walls. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_098%2Flewis_e_098_jp2.zip%2Flewis_e_098_jp2%2Flewis_e_098_0032.jp2/986,995,2325,3343/full/0/default.jpg"
+}

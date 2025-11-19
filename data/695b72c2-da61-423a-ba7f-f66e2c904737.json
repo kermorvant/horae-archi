@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A group of figures are depicted in a devotional scene. In the foreground, two elderly men with beards are prominent. The man on the left wears a golden robe and a blue mantle, holding an open book with musical notation and a large key. He looks upwards with an expression of devotion. The man on the right wears a grey robe and a green mantle, holding a red-bound book. He also looks upwards. Between them and behind them, a younger figure in a red tunic holds a golden chalice and gestures with one hand. Several other figures, mostly with dark hair, are visible in the background, their faces turned upwards. The background is a rich blue with gold floral motifs, suggesting a heavenly or sacred space. The scene is framed by architectural elements on the sides, appearing as columns or pilasters with gold ornamentation.",
+    "scene_interpretation": "Saint Peter",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_020/DEPOT/890245409_n_020_0028/3599,680,1106,1534/full/0/default.jpg"
+}

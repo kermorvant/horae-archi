@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts Saint Sebastian, a Christian martyr, pierced by numerous arrows. He stands in a verdant landscape under a tree, with a blue sky and distant hills. His body is shown from the chest up, with arrows protruding from his torso and arms. Bloodstains are visible on his skin and the cloth draped around his waist. He has a golden halo, indicating his sainthood. The scene is rendered in a stylized, medieval manner, with vibrant colors and a flat perspective.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0102/utp-0102_221v.jp2/2661,3815,1767,2238/full/0/default.jpg"
+}

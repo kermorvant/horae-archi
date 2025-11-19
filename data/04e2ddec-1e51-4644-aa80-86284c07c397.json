@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple, framed by an arched architectural element adorned with floral motifs. In the center, a bearded man, likely Simeon, wearing a royal crown and a blue mantle over a red robe, sits on a raised platform covered with a patterned cloth. He is receiving the Christ Child, held by the Virgin Mary, who wears a blue robe and a golden halo. Behind Mary stands a woman, possibly Anna, and behind Simeon, another bearded man in a green hood. Above Simeon, a decorative canopy with red and blue panels hangs, featuring a bell-like object. The background shows arched windows with tracery, suggesting an interior setting. The floor is tiled in a checkered pattern of yellow and red.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Simeon",
+        "Anna"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_11%2F1945_65_11_jp2.zip%2F1945_65_11_jp2%2F1945_65_11_0113.jp2/5351,1916,4552,5924/full/0/default.jpg"
+}

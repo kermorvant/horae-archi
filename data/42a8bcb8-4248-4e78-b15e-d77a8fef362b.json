@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior architectural setting. The Virgin Mary, seated and reading from an open book, is on the left. She wears a blue robe over a reddish-brown garment and has a golden halo with a dove descending towards her, symbolizing the Holy Spirit. To her right, the Angel Gabriel, identified by his wings and white robe adorned with gold trim, kneels and presents a scroll. The background features a stone wall and a window showing a stylized landscape with a small figure and a cross. Above the window, two figures in regal attire are visible. The floor is decorated with a geometric pattern of red, green, and blue squares. The overall scene is framed by a golden border.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/63047466/68634069.tif/1068,982,2254,2856/full/0/default.jpg"
+}

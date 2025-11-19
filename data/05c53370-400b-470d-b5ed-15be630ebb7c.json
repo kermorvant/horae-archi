@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel kneeling on the left, presenting a lily to the Virgin Mary, who is seated on the right. Gabriel is depicted with large, colorful wings and is dressed in a white robe. Mary, with a halo, is shown with her hands raised in a gesture of acceptance or surprise, and she is looking down at a book. Behind Gabriel, an arched opening reveals a landscape with hills and a building, under a sky where a dove, representing the Holy Spirit, descends from a radiant sun. The figures are situated within an architectural setting characterized by large columns and arches, suggesting an interior space that opens to an exterior view.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.19%2F016_B.13.19_f001v-f002r.jpg/454,312,451,742/full/0/default.jpg"
+}

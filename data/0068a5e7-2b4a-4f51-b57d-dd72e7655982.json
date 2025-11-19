@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. His body is emaciated and marked with wounds. To the left of the cross, three women are gathered, one in a blue mantle and veil, with hands clasped in prayer, likely the Virgin Mary, accompanied by two other women. To the right, a group of men, some in hats and armor, are present, one of whom appears to be speaking or gesturing towards the cross. A skull and bone lie at the foot of the cross, symbolizing Golgotha. The background is a stylized landscape with green hills and a blue sky.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS20%2FBMC_MS20_jp2.zip%2FBMC_MS20_jp2%2FBMC_MS20_0178.jp2/839,762,2667,3933/full/0/default.jpg"
+}

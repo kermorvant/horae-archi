@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a vibrant blue mantle, standing with her hands clasped over her abdomen, indicating her pregnancy. She is greeted by Elizabeth, who is kneeling and reaching out to touch Mary's hand. To the left, an older man, likely Saint Joseph, stands with his hand raised in a gesture of blessing or welcome. The figures are set against a hilly landscape with trees and a distant view of a fortified building with towers and arched windows. The scene is framed by an ornate golden arch.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0063/3318,614,1399,2053/full/0/default.jpg"
+}

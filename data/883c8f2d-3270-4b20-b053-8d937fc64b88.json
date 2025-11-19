@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, both with golden halos. Mary is dressed in a blue robe, and the Christ Child is nude. To the right, a black, horned demon with sharp teeth and claws stands menacingly, holding a staff. In the foreground, a man in a red robe and green sash kneels with his hands clasped in prayer, looking up towards the Virgin and Child. Behind them, a lush green landscape unfolds with trees and a distant city with spires. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Temptation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10532608h/f368/758,210,827,1282/full/0/default.jpg"
+}

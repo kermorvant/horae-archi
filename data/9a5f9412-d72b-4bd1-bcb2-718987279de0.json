@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "In a verdant landscape, a group of men in blue and red hats gather around a central figure who is placing a crown on the head of a kneeling woman. The man placing the crown wears a golden robe and has a long beard. The kneeling woman, also in a golden-hued robe, has her hands clasped in prayer. Above them, in a celestial blue sky with golden accents, a bearded figure, possibly divine, is depicted with hands clasped. In the background, a castle with multiple spires sits atop a green hill. The scene is framed by an ornate golden border.",
+    "scene_interpretation": "Coronation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "spire"
+    ],
+    "persons": [
+        "King",
+        "Queen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f336/1675,1587,686,2437/full/0/default.jpg"
+}

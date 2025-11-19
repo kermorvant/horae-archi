@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The Virgin Mary, dressed in a blue mantle, cradles the lifeless body of Christ in her lap. Christ's body is pale and bears wounds, with drops of blood visible on his feet and side. A halo surrounds his head. To the left, a figure, likely Mary Magdalene, kneels and holds a white cloth, her gaze directed towards Christ. She also has a halo. The background is a rich red tapestry with a gold scrolling pattern. A wooden cross with the inscription 'INRI' is visible behind Christ. The ground is depicted as green grass with rocky outcrops in the foreground. The entire scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0031/DEPOT/352386106_MS0031_0022/3950,651,1437,1954/full/0/default.jpg"
+}

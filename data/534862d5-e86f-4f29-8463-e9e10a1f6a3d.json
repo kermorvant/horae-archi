@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed woman, likely Mary Magdalene, stands within an arched architectural frame. She is dressed in a pink striped gown and a blue mantle, and cradles a golden vessel, possibly an alabastron, in her arms. The background features a red tapestry with gold ornamentation and a patterned screen of gold, blue, and green squares. The floor is a green and dark green checkered pattern, bordered by white and pink stripes. Red vases are visible on either side of the scene. The overall impression is one of solemn devotion, suggesting a scene related to the Passion or burial of Christ, given the typical iconography of Mary Magdalene with an alabastron.",
+    "scene_interpretation": "Mary Magdalene with Alabastron",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/my189pm5441%2FW202_000092_1200/3807,2468,1866,3017/full/0/default.jpg"
+}

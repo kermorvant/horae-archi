@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded, elderly man, likely a saint or holy figure, is depicted seated on a raised, ornate throne. He wears a dark, hooded robe and holds a long staff in his left hand, leaning it against the throne. In his right hand, he holds an open book, suggesting scholarly or spiritual contemplation. The background features a decorative, tessellated pattern within an arched frame, adorned with stylized floral motifs. The figure's halo indicates his sanctity. The scene is framed by decorative borders typical of illuminated manuscripts.",
+    "scene_interpretation": "Saint in contemplation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_006%2Fwidener_006_jp2.zip%2Fwidener_006_jp2%2Fwidener_006_0443.jp2/3262,1026,1924,2980/full/0/default.jpg"
+}

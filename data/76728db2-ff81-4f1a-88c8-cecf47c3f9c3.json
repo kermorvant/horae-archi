@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men, some kneeling and others standing, looking upwards with hands clasped in prayer or awe. They are gathered on a green, hilly landscape. In the upper part of the image, the feet and lower legs of a figure, presumably Christ, are seen ascending into a blue sky. In the background, a city with towers and spires is visible. The entire scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Ascension of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "spire",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00095049_00238/442,47,509,686/full/0/default.jpg"
+}

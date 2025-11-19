@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, wearing a blue mantle, cradles the Christ Child, who is reaching out towards the gifts presented by the Magi. The Magi, adorned in rich, jeweled robes and crowns, offer golden vessels filled with precious contents. In the background, a simple wooden stable structure is visible, with figures looking on from within and behind the approaching Magi. The landscape beyond features rolling hills and distant castles under a starry sky with a bright star emanating rays of light.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502694t/f54/644,523,2652,3889/full/0/default.jpg"
+}

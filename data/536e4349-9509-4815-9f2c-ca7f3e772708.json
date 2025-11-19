@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "Four men, each wearing a crown and ornate headwear, are depicted in conversation. The man on the far left wears a blue and gold hat and a pink tunic. Next to him, an older man with a white beard and a pink and gold crown wears a yellow tunic. To his right, a man with a beard and a red turban wears a blue tunic. The man on the far right, seated and wearing a yellow robe with a blue collar adorned with gold fleur-de-lis, also wears a white and gold crown. Behind them, a window with diamond-shaped panes is visible, and to the left, a distant cityscape with towers and a green, hilly landscape can be seen. The scene appears to be set within an interior space looking out onto a landscape and city.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Magi"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_048r.jp2/818,5842,3227,1506/full/0/default.jpg"
+}

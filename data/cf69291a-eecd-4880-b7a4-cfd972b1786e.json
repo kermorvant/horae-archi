@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A crowned female figure, possibly a queen or saint, is depicted holding a flaming torch in her right hand and pointing with her left index finger. She wears a jeweled headdress and a richly decorated garment with a cape. The figure is framed by an architectural element resembling an arch with decorative tracery, suggesting an interior or a symbolic architectural setting. The scene is rendered in a black and white woodcut style, typical of medieval manuscripts.",
+    "scene_interpretation": "The figure's regalia and the flaming torch suggest she might represent a saint, possibly Saint Barbara, who is often depicted with a tower and a palm branch, or Saint Lucy, associated with light and sight. The torch could symbolize divine illumination, faith, or martyrdom. Without further context, a definitive interpretation is difficult, but it likely relates to a devotional or hagiographic narrative.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0082/5100,422,476,572/full/0/default.jpg"
+}

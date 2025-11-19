@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, stands in profile, her gaze directed downwards and to the right. She wears a long, flowing white garment with elaborate pleating at the hem, and a dark cloak draped over her shoulders. To her left, a small, pale pink tower with arched openings and a domed roof rises. In the background, a stylized cityscape with spires is depicted in shades of blue. The scene is framed by a decorative border.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "dome",
+        "roof"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kb564yr3366/W165_000258_300/304,296,714,1004/full/0/default.jpg"
+}

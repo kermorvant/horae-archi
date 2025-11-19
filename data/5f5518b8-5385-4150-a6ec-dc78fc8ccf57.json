@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded male saint, identified by his halo, stands holding a book in his left arm and a staff in his right hand. He wears a long robe and a cloak draped over his shoulder, with a satchel hanging from his waist. Behind him, to the left, is a stylized representation of a building with arched windows and a cluster of grapes or a pinecone. To the right, another building with arched windows is visible. The lower part of the scene depicts a body of water with a small animal, possibly a dog or a lion, lying at the saint's feet. The overall composition suggests a saintly figure in a landscape setting with architectural elements.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0080/4134,2712,603,923/full/0/default.jpg"
+}

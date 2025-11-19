@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a burial service taking place outdoors in front of a small, pink-hued church with a tower. A group of figures in black monastic habits stand to the left, some holding candles. Two clerics in liturgical vestments stand to the right, one holding an open green book and the other wearing a blue cope. Two figures, one in blue and one in orange, are actively engaged in lowering a shrouded body into an open grave, where a scythe lies nearby. The background is a golden, textured field under a blue sky with faint white streaks. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Funeral Rite",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower",
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Cleric",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84528158/f163/400,104,1748,2030/full/0/default.jpg"
+}

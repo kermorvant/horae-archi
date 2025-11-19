@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A man with long gray hair and a beard, dressed in a vibrant blue robe with gold trim, is depicted seated. He holds an open book in his lap, his left hand resting on it, while his right hand is raised with fingers extended, as if in speech or blessing. The background features a lush green forest with trees and a bright blue sky, suggesting an outdoor setting. To the left and right, decorative architectural elements frame the scene, with a column visible behind the figure. The overall impression is one of contemplation or pronouncement, possibly within a natural or symbolic landscape.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0147/bge-lat0147_0010r.jp2/606,478,3711,4651/full/0/default.jpg"
+}

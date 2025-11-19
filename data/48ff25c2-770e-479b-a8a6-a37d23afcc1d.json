@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. Three kings, identified by their crowns and rich attire, approach the Virgin Mary who holds the Christ Child. The kings are offering gifts, represented by ornate chalices. One king, with a dark complexion and a white cap, stands to the left. Another king, with a long beard and a blue crown, holds a chalice and points upwards. The third king, on the far right with a blue hood, also appears to be presenting a gift. The Christ Child is naked and reaches out towards the viewer. The background is a stylized landscape with rocky formations and hints of buildings in the distance, suggesting an outdoor setting.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013078h/f122/488,104,864,1296/full/0/default.jpg"
+}

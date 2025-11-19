@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "In an outdoor landscape, a naked man lies prone on the ground, seemingly deceased or in a state of profound weakness. To his left, an angel with large red and yellow wings, clad in a light purple robe, extends a staff towards a small, glowing figure of a child. To the right, a winged, demonic creature with brown, leathery wings and sharp claws reaches towards the man's head, appearing to threaten him. In the background, rolling green hills are visible, with a distant walled town or castle. The scene likely depicts the struggle for a soul, with the angel representing divine intervention and the demon representing temptation or damnation.",
+    "scene_interpretation": "The Struggle for the Soul",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel",
+        "Demon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_104%2Flewis_e_104_jp2.zip%2Flewis_e_104_jp2%2Flewis_e_104_0232.jp2/946,1193,2597,2680/full/0/default.jpg"
+}

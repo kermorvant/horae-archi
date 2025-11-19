@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and vestments, stands holding a staff in his left hand and a book in his right. He is depicted within an architectural setting that includes arched openings and a checkered floor. Behind him, a cross is visible, suggesting a religious context. The scene is likely a depiction of a saintly bishop, possibly engaged in prayer or study.",
+    "scene_interpretation": "Saint in contemplation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/br791wh6450%2FW435_000347_1200/308,3677,1359,2192/full/0/default.jpg"
+}

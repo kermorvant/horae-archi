@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a brutal act of infanticide, likely representing the Massacre of the Innocents. A soldier in armor, wearing a distinctive pointed helmet, is shown stabbing a naked infant with a sword. To the left, a woman in a red dress covers her face in distress, while another infant lies on the ground nearby, seemingly already harmed. To the right, a group of men, including an elder figure in blue robes and a tall, elaborate headdress, and a man in full armor, observe the horrific event. In the background, a stylized landscape unfolds with rolling hills, trees, and a distant city with towers and buildings, suggesting a setting outside the city walls.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Soldier",
+        "Woman",
+        "Elder",
+        "Armored Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_MSNA0167/DEPOT/B280856201_MSNA0167_0074/842,609,1382,1834/full/0/default.jpg"
+}

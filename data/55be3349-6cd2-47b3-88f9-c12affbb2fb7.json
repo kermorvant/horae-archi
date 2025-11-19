@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A bearded, elderly man, likely a saint, is depicted kneeling and being tormented by three demonic figures. The saint wears a blue robe and a golden cloak, with a rosary around his neck. His halo suggests sanctity. The demons, rendered in red and blue, have monstrous features, horns, and claws, and are shown striking the saint. In the background, a small building with a bell tower and a cross is visible, suggesting a religious setting. The scene likely represents the martyrdom or temptation of a saint by demons.",
+    "scene_interpretation": "Martyrdom of a Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower",
+        "bell",
+        "cross",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_Impr_8_GR0045/DEPOT/B280856201_Impr_8_GR0045_0108/1069,1974,1017,1365/full/0/default.jpg"
+}

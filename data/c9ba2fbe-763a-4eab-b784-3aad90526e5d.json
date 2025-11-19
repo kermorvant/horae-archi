@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts an outdoor pastoral setting with two shepherds tending to a flock of sheep. One shepherd, on the left, wears a red tunic and blue hose, holding a spear. The other shepherd, on the right, is dressed in a blue tunic and red hose, also holding a spear. A dog lies in the foreground, and a flask rests on the ground. In the background, a simple barn with a red roof is visible, along with a fence and some distant buildings. Above, an angel with outstretched wings descends, carrying a scroll that reads \"GLORIA IN EXCELCIS\". The landscape is lush with trees and greenery. This scene illustrates the Annunciation to the Shepherds, a key event in the Nativity narrative, where angels proclaimed the birth of Christ to humble shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "barn"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "fence"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550057309/f99/272,226,1095,1674/full/0/default.jpg"
+}

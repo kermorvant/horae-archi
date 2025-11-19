@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Baptist, identifiable by his halo and characteristic attire of animal skins, pointing towards a lamb resting on an open book. He wears a rough, brown tunic and a rich crimson cloak draped over his shoulders. The lamb, a symbol of Christ, is white and appears docile. The background is a lush, green forest with trees and foliage, suggesting an outdoor setting. The image is framed by a decorative gold border, and a gilded initial 'I' is visible in the upper right corner.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515741t/f231/322,469,630,621/full/0/default.jpg"
+}

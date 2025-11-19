@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a funeral procession outside a Gothic church. Several figures are present: two individuals in light blue robes are lowering a wooden coffin into a grave, while another person in a red tunic and blue sleeves holds a black hat. Behind them, a group of clergy, including a figure in a blue cope reading from a red book, and several individuals in black monastic habits, observe the proceedings. In the background, the ornate facade of a church with pointed arches and spires is visible, alongside a cityscape of brick buildings with varied rooflines and towers. The overall atmosphere suggests a solemn religious ceremony taking place in a communal setting.",
+    "scene_interpretation": "Funeral",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "spire",
+        "roof",
+        "wall",
+        "door",
+        "arch"
+    ],
+    "persons": [
+        "Clergy",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:42:2:wdl_14422:068_SMC_1_030v/1106,234,1422,2207/full/0/default.jpg"
+}

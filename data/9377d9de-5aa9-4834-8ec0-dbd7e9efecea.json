@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a king, identifiable by his crown and ornate golden robe, engaged in conversation with a robed figure who appears to be a prophet or religious advisor. The king gestures with his hands, seemingly in supplication or inquiry. Behind the king, a group of men in varied attire observe the interaction. In the background, a large castle with multiple towers and red-tiled roofs is visible, set against a landscape of rolling hills and a pale blue sky. The ground is green and dotted with stylized trees and foliage highlighted with gold leaf. The overall impression is one of a significant encounter between royalty and spiritual counsel, possibly within a royal court or a place of importance.",
+    "scene_interpretation": "Prophetic Encounter",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof"
+    ],
+    "persons": [
+        "King",
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f492/1014,4189,3270,1540/full/0/default.jpg"
+}

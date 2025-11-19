@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a walled city with a prominent church spire, set against a blue, undulating landscape. Trees with gold foliage frame the view on the left and right. In the foreground, a small boat with a single occupant navigates a body of water. The city itself features several buildings, including what appears to be a central church with a tall spire, surrounded by other structures and fortifications. The overall impression is one of a serene, perhaps idealized, urban setting.",
+    "scene_interpretation": "Jerusalem",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "spire",
+        "wall",
+        "door",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510074b/f92/1875,5217,1954,1192/full/0/default.jpg"
+}

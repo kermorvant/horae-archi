@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a blue robe with gold trim, kneels with his hands clasped in prayer. He is positioned in a landscape setting with a harp to his right. Above him, in a celestial cloud, a figure identified as Christ is depicted, pointing outwards and holding a chalice. Rays of light emanate from Christ towards the praying man. To the left, a portion of an architectural structure, possibly a doorway or niche, is visible.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "door",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ",
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/1013397/1013117.tif/291,353,809,806/full/0/default.jpg"
+}

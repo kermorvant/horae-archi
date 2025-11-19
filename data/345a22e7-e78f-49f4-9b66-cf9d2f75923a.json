@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a woman, likely Bathsheba, bathing in a decorative tub, with water cascading around her. She wears a necklace with a cross. Two attendants stand nearby; one holds a mirror, and the other offers a dish. In the background, a king, possibly David, is visible through an arched opening, observing the scene. Behind him, a fortified castle and a city skyline are depicted. The entire scene is framed by ornate architectural elements, suggesting a royal or noble setting.",
+    "scene_interpretation": "Bathsheba bathing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Bathsheba",
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/11b1b23b-6e27-4a41-918e-33c035163633/2019,315,1430,1571/full/0/default.jpg"
+}

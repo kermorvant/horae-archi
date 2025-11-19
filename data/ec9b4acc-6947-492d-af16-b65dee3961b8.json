@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a royal figure, likely a king or emperor, seated on a throne and wearing a jeweled crown and ornate robes. He holds a globe in his left hand and gestures with his right towards a kneeling woman, presumably the Virgin Mary, who is also crowned and has her hands clasped in prayer. Above them, an angel, with white wings and blue robes, descends from the upper left, carrying a crown. To the left of the kneeling woman, two other figures are visible: one with dark hair and a purple garment, and another with lighter hair and a pink tunic, possibly attendants or other angelic beings. The background features rich drapery in pink and green, with the green section adorned with a repeating pattern of foliage and geometric shapes. The scene is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_4%2F1945_65_4_jp2.zip%2F1945_65_4_jp2%2F1945_65_4_0205.jp2/4863,2110,4532,8050/full/0/default.jpg"
+}

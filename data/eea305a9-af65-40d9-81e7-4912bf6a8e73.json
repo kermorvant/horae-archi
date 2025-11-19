@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A female saint, identified by her halo, is depicted in prayer, her hands clasped together. She is seated, with a dragon coiled around her. The dragon's head is raised and facing left, its mouth open. Behind the saint is a stone wall with a barred window, through which light streams. The saint wears a blue garment with gold trim and a red cloak. The dragon is depicted in shades of green, orange, and red, with a coiled tail. The scene is framed by a decorative border.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46243463.tif/606,1330,970,1165/full/0/default.jpg"
+}

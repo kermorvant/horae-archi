@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within an arched architectural frame. The Virgin Mary, with a halo, is seated and holds the Christ Child on her lap. The Christ Child is reaching out. Before them, one of the Magi kneels, offering a gift, while two other Magi stand behind him, one also holding a gift. The background is dark and suggests an interior space with architectural elements like columns and arches, though they are rendered abstractly. The overall scene is framed by a decorative border with floral motifs.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84528084/f93/459,266,1334,1652/full/0/default.jpg"
+}

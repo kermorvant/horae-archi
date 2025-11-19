@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "An angel with red wings and a pink robe descends from a blue sky dotted with gold clouds, holding a scroll that reads 'Ave Maria'. Below, a man wearing a straw hat and a white tunic is harvesting a field of golden wheat with a scythe. His legs are bent as he works amongst the stalks, and he holds a tool in his right hand. The scene is set outdoors in a cultivated field.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel",
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828264/1888,1058,667,1278/full/0/default.jpg"
+}

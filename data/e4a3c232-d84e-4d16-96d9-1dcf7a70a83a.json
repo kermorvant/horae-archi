@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a blue robe and gold halo, meeting Elizabeth, who wears a dark garment and a white veil, also with a gold halo. They are holding hands, suggesting a moment of greeting and recognition. Behind them, to the left, is a stylized blue and gold tower. To the right, a stone building with arched openings and crenellations is visible. The background features a green landscape with hints of rocky formations and a blue sky. The overall composition is framed by an ornamental border.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "wall",
+        "battlement",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dr952cm5469%2FW229_000089_1200/1284,977,2467,3729/full/0/default.jpg"
+}

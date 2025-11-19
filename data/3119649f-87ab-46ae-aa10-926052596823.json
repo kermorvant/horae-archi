@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Betrayal of Christ, with Judas Iscariot kissing Jesus to identify him to the soldiers. Jesus, in a blue robe and with a halo, is being embraced by Judas, who wears a yellow cloak over a blue tunic. A crowd of soldiers, some in armor and helmets, surround them, holding torches and weapons. One soldier in the foreground is shown being struck or falling, while another appears to be reaching for Jesus. The background is a deep blue sky, with stylized representations of torches and spears. The ground is a simple green expanse.",
+    "scene_interpretation": "Betrayal of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Jesus",
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1219/DEPOT/352386106_MS1219_0006/3696,346,1818,2622/full/0/default.jpg"
+}

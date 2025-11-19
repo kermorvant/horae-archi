@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer before an open book placed on a table. He is dressed in dark, fur-trimmed robes and a cap. Behind him, a richly decorated wall features carved panels with figures, possibly saints or biblical scenes. The entire composition is framed by ornate columns and architectural elements, suggesting an interior setting. Below the kneeling figure, an angel with large wings is seated, holding a shield with a coat of arms and a banner inscribed with text. The overall impression is one of devotion and contemplation within a structured, possibly ecclesiastical or noble, environment.",
+    "scene_interpretation": "Devotional scene with a donor figure in prayer.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00037/25,15,1074,1719/full/0/default.jpg"
+}

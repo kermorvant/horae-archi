@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a procession of figures in a hilly, outdoor landscape. In the foreground, a young woman with a halo holds a staff and looks to the right. To her left, a bearded man, also with a halo, kneels and holds a staff. Behind him, another bearded man peers over a hill. To the right of the woman, an elderly bearded man with a halo looks upwards and holds a staff. The figures appear to be part of a religious procession or pilgrimage, suggested by their halos and staffs, and the landscape setting. Above the scene, a decorative banner displays Latin text, possibly from a psalm or liturgical chant, which reads 'annuntiaabit laudem tuam' (will announce your praise).",
+    "scene_interpretation": "The scene likely represents a procession of saints or holy figures, possibly related to a psalm or devotional text that speaks of praise and proclamation. The text 'annuntiaabit laudem tuam' directly supports this interpretation, suggesting a theme of divine praise.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint",
+        "Saint",
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f115/1972,3584,2277,1260/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "Two haloed women embrace tenderly in an outdoor setting. The woman on the left wears a blue mantle over a red and gold gown, while the woman on the right is clad in a red mantle over a dark gown, with a white veil covering her head. Behind them, a walled complex of buildings is visible, featuring a prominent tower with a conical roof and other structures with blue tiled roofs and red brick walls. The landscape is rendered with stylized green trees and rolling hills in the background. The scene likely depicts the Visitation, a biblical event where Mary, pregnant with Jesus, visits her cousin Elizabeth, who is also pregnant with John the Baptist. The embrace symbolizes their shared joy and divine blessing.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_105%2Flewis_e_105_jp2.zip%2Flewis_e_105_jp2%2Flewis_e_105_0111.jp2/2646,1084,2442,3870/full/0/default.jpg"
+}

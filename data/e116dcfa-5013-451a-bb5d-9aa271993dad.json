@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher wading through a body of water, carrying the Christ Child on his shoulders. Saint Christopher, a large bearded man, uses a staff for support. The Christ Child, seated on his shoulders, points upwards. In the background, a figure on a rocky outcrop holds a lantern. Distant buildings, possibly a castle or town, are visible on the left bank. The overall scene represents the legend of Saint Christopher, a popular devotional image.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Christ Child",
+        "Saint Christopher"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f161/4882,1424,1101,1154/full/0/default.jpg"
+}

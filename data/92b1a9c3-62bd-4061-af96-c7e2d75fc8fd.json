@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity, with God the Father seated, holding the crucified Christ. The Holy Spirit is represented by a dove descending between them. Two winged seraphim with red wings are positioned above, and two golden-winged angels flank the scene. The figures are set against a blue background with golden stars, and a patterned red textile hangs behind them. God the Father is seated on a golden throne-like structure, and Christ is on a wooden cross. The overall composition is framed by an arched border with decorative elements.",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Holy Spirit",
+        "Seraphim",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10532608h/f69/397,198,888,1427/full/0/default.jpg"
+}

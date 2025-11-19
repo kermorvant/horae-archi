@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two haloed women, likely saints or biblical figures, meeting outdoors. The woman on the left, dressed in a white veil and a pink robe with a blue mantle, is shown with her hands clasped. The woman on the right, wearing a blue robe over a pink garment, extends her hands towards the other. Behind them, to the left, is a grey stone building with decorative elements and a tall, blue-capped tower. To the right, a brick tower with a similar blue cap rises against a backdrop of a green, hilly landscape dotted with trees and fields. A low stone wall separates the figures from the landscape. The overall impression is one of a devotional encounter set within a semi-urban or monastic environment.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_003/DEPOT/762595409_A_10_003_0055/1302,845,1641,2428/full/0/default.jpg"
+}

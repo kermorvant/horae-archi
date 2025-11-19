@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, a woman in a blue robe, identified as the Virgin Mary, sits with her hands clasped in prayer before an open book on a wooden desk. Behind her is a patterned tapestry. On the right, the Angel Gabriel, with feathered wings and a golden robe, approaches from an arched doorway. He holds a scroll or banner with text, and a dove, representing the Holy Spirit, descends from a radiant sky above. The architectural elements suggest a building with stone walls and decorative crenellations, possibly a palace or a grand house. The overall scene is framed by a large arch.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door",
+        "battlement",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_093%2Flewis_e_093_jp2.zip%2Flewis_e_093_jp2%2Flewis_e_093_0100.jp2/1045,947,1963,2814/full/0/default.jpg"
+}

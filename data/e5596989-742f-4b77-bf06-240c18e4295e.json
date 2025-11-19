@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable, indicated by the wooden structure and thatched roof. The Virgin Mary, clad in a blue robe, kneels with her hands clasped in prayer, looking down at the Christ Child lying on a white cloth. A donkey is visible behind her. An elderly man, possibly Joseph, kneels and holds a lit candle, illuminating the scene. In the background, a walled city with towers is visible amidst rolling hills and trees. Golden rays emanate from above, suggesting divine light.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/4771066/426,172,1349,1968/full/0/default.jpg"
+}

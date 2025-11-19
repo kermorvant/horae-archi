@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Saint Jerome, is seated in a wooden chair, engrossed in reading a scroll displayed on a lectern. The figure wears a red robe over a white garment. To the right, a lion rests on a patterned floor, and a tall, multi-tiered structure resembling a cabinet or bookshelf stands behind the figure. A small red book is visible within an opening of this structure. A decorative table with a book and a small architectural model of a tower is also present. The background features a green, gold-patterned textile, and the scene is framed by an arched border with floral motifs.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "door",
+        "window",
+        "arch",
+        "column",
+        "capital",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/gd972zf6050%2FW246_000260_1200/4727,965,2857,4961/full/0/default.jpg"
+}

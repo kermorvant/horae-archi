@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist, identified by his halo and scholarly activity, writing on a scroll. He is seated and appears to be in deep thought. Beside him stands his symbol, an eagle, holding a lamp in its beak. The background is a complex landscape featuring a body of water with several ships, a town with a prominent tower, and rolling hills. The overall composition is framed by an ornamental border, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90764667/f2/3504,370,1260,1693/full/0/default.jpg"
+}

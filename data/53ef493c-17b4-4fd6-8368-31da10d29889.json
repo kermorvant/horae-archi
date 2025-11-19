@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an arched architectural setting. On the left, the Angel Gabriel, with blue wings and a golden halo, kneels and presents a scroll inscribed with \"Ave Maria, gratia plena, Dominus tecum.\" He is dressed in a rose-colored robe. On the right, the Virgin Mary, also with a golden halo, kneels on a green cushion, her hands raised in a gesture of acceptance or surprise. She wears a blue robe and is reading from an open book. Above and behind the Virgin Mary, a representation of God the Father is visible in a celestial realm, with rays of light descending towards the scene. The architecture features blue vaulted ceilings with red ribbing, Gothic windows, and a red patterned wall or tapestry. The floor is tiled in a diamond pattern. The overall scene is framed by an ornate, illuminated arch.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "wall",
+        "column",
+        "capital",
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0031/3831,592,1159,1750/full/0/default.jpg"
+}

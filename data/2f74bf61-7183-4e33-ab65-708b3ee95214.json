@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene is divided into two distinct areas. On the left, a bearded man, identified as David, kneels in prayer before an open book on a lectern. He wears a royal blue robe adorned with gold fleurs-de-lis and a golden clasp, and a crown or headdress. His hands are raised in supplication. Behind him, large arched windows reveal a landscape. The right side of the image depicts an urban setting with various buildings. In the foreground, a person plays a large musical instrument, possibly an organ. Above and behind this, several figures are visible in windows of different structures, including a tower with a blue conical roof and a larger building with multiple windows. One window shows several figures looking out, and another shows a single figure. The overall impression is a juxtaposition of private devotion and public life within a medieval cityscape.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall",
+        "column"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0394.jp2/2188,1191,1405,1415/full/0/default.jpg"
+}

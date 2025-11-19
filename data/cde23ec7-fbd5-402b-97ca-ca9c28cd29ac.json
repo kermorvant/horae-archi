@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a procession or battle involving an elephant, led by a figure in armor. Behind the elephant, a crowd of people with expressive faces appears to be reacting to the event, some with open mouths. In the background, architectural structures, including buildings with windows and what might be a tower, are visible. The overall impression is one of movement and possibly conflict or spectacle.",
+    "scene_interpretation": "While the specific event is not definitively identifiable from the provided image, the presence of an elephant and a crowd suggests a historical or possibly allegorical scene. Elephants were sometimes used in warfare or as symbols of power and exoticism in medieval art. Without further context or clearer iconographic details, a precise religious or biblical interpretation is not possible.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0079/5203,849,415,964/full/0/default.jpg"
+}

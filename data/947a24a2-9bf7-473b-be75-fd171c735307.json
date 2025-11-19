@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Luke by the halo and the presence of his evangelist symbol, the ox, is depicted writing on a scroll. He is seated on a throne-like chair draped with a red cloth. He holds a quill in his right hand and is looking upwards, seemingly inspired. The background suggests an interior space with large, grey, segmented columns on the left and a grey, panelled wall behind him. To the right, an ox is visible, resting on a green, textured surface, likely representing the ground or a stylized landscape element. The scene is likely an illustration of Saint Luke writing his Gospel, a common theme in Books of Hours.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS1687/DEPOT/786466101_MS1687_0024/4040,1230,883,818/full/0/default.jpg"
+}

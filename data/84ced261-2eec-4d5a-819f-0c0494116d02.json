@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded monk, identified by his tonsure and halo, in a dark habit, surrounded by various animals and a serpentine creature. A lion is shown biting at the monk's robe, a goat-like animal is near his left leg, and a white, dog-like creature with sharp claws is at his feet, appearing to attack. A green, scaly, serpentine creature coils around the monk's arm and neck. The background is a stylized landscape with rolling hills and trees, rendered in shades of green and brown, with a textured gold background in the upper portion. To the far left, a small, red building with a dark opening is visible. The monk's hands are raised, one in a gesture of supplication or defense. This imagery represents the temptations and trials faced by a hermit saint in the wilderness.",
+    "scene_interpretation": "Temptations of Saint Anthony",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Anthony"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f596/557,756,2024,2643/full/0/default.jpg"
+}

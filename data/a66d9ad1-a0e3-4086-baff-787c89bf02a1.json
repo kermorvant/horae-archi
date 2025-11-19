@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of the Virgin Mary in the Temple. A bearded man, likely a priest, sits on a raised dais, pointing with his right hand. Before him, the Virgin Mary, depicted with a halo and praying hands, is being presented. She is dressed in a blue robe adorned with gold stars and a crown. Two angels with blue wings and pink robes attend to her, one placing a crown on her head and another holding her robe. To the left, a young girl in a yellow tunic stands, holding a blue cloth. In the background, architectural elements suggest an interior space with arched doorways and a vaulted ceiling. The overall scene is rich with devotional symbolism, highlighting Mary's purity and her destined role.",
+    "scene_interpretation": "Presentation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "door",
+        "roof",
+        "dais",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000424g/f134/549,184,728,1049/full/0/default.jpg"
+}

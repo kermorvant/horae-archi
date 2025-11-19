@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts two bearded men, one wearing a blue cap and a golden robe over a blue tunic, and the other wearing a golden robe over a blue tunic, holding scrolls. Between them, a winged angel kneels, dressed in white. The figures are positioned in an interior space with tall, fluted columns in various colors (blue, gold, red) supporting an unseen structure. The background behind the columns is a dark, textured wall. To the right, an arched opening reveals an outdoor scene with a green landscape and a building with a red roof and a tower. The scrolls held by the men contain Latin inscriptions. The overall impression is one of a solemn biblical or prophetic scene, possibly related to scripture or divine pronouncements.",
+    "scene_interpretation": "Prophetic Revelation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f55/898,3330,3264,2545/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary kneeling with her hands clasped in prayer, illuminated by divine rays emanating from a dove, representing the Holy Spirit, descending from above. She is surrounded by a group of figures, some with their hands raised in supplication, suggesting a moment of spiritual reception or divine inspiration. Behind them, an architectural structure with columns and ornate capitals forms the backdrop. To the right, an arched opening reveals an outdoor landscape where a figure is seen in the distance. The overall composition suggests a sacred event taking place within a partially enclosed, yet open, setting.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000003/MAA_00003_091.jpg/2138,398,817,1099/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth. To the left stands the Virgin Mary, draped in a blue mantle, with her hands clasped in sorrow. To the right is a figure, likely Saint John the Evangelist, also with clasped hands, dressed in a red robe. In the background, a landscape with rolling hills is visible, leading to a city with prominent buildings, including a domed structure and spires. The entire scene is framed by an arched border decorated with foliate motifs and gold ornamentation.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN321296575/files/images/00000072.tif/1094,539,1266,2131/full/0/default.jpg"
+}

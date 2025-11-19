@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Eustace kneeling in prayer in a landscape. He is dressed in a blue tunic with red sleeves and black boots, and a halo encircles his head. To his left stands a brown horse adorned with a blue saddle cloth. To his right, a brown stag with antlers is prominently featured. In the background, a winding river flows through a valley, with a fortified tower and other buildings on a hill. In the upper part of the frame, a small, stylized figure, possibly representing God or an angel, is depicted in the sky, with rays of light descending. The overall scene is framed by decorative floral motifs.",
+    "scene_interpretation": "Saint Eustace",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Eustace"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8538808p/f374/1009,343,1183,1763/full/0/default.jpg"
+}

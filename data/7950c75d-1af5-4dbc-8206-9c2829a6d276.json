@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bishop, adorned with a mitre and holding a crozier, stands centrally, presiding over a group of clerics. The bishop is dressed in ornate red vestments with green accents. To his left and right, several figures in clerical attire hold books and appear to be engaged in a religious ceremony or service. The scene is framed by an elaborate architectural canopy with pointed arches and decorative tracery, rendered in gold and black. Below the figures is a richly decorated altar or table, also in gold with black and red patterns. A red cross is visible in the upper right corner, suggesting a sacred context.",
+    "scene_interpretation": "Consecration of a Bishop",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "canopy",
+        "microarchitecture",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/hf206wb9742%2FW104_000151_1200/1315,1871,2861,2292/full/0/default.jpg"
+}

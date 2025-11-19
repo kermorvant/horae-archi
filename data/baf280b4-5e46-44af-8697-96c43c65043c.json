@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a nocturnal setting, possibly a city street or courtyard. In the foreground, three individuals are prominent: a bearded man wearing a distinctive blue and pink hat, an orange cloak, and a green robe, holding a rosary; to his right, a figure in a red tunic and orange hat; and further right, a person in a yellow patterned robe and a dark headdress, with arms crossed. Behind them, an arched entryway reveals a dimly lit interior or passage where several figures are visible, some holding torches. In the background, a fortified building with a steep roof is illuminated by torches, and a procession of figures carrying torches and spears appears to be moving. The overall atmosphere is one of movement and perhaps apprehension or conflict.",
+    "scene_interpretation": "The scene likely depicts a biblical event involving a nocturnal pursuit or arrest, possibly related to the Passion of Christ or a similar narrative involving figures being apprehended in the dark. The torches and the presence of armed individuals suggest a dramatic or tense moment.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3769/Vat.lat.3769_0236_fa_0113v.jp2/1009,745,1007,1027/full/0/default.jpg"
+}

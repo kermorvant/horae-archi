@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on their journey, likely the Flight into Egypt. The Virgin Mary, wearing a blue mantle and white veil, is seated on a donkey, cradling the Christ Child. Joseph, with a red tunic and blue cloak, walks beside the donkey, carrying a staff. In the background, a rural landscape unfolds with a thatched-roof building, trees, and rolling hills. A broken stone archway is visible, and atop a rocky mound, a golden finial with a figure stands prominently. The overall impression is one of travel and humble pilgrimage.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550106099/f136/311,356,820,1337/full/0/default.jpg"
+}

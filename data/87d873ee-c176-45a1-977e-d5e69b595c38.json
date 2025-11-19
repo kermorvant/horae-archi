@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts King David kneeling in prayer within an architectural setting, identifiable by a column and arched window. He is dressed in a royal blue robe adorned with gold embroidery and has a harp at his feet. To his right, an angelic figure with large wings and a flowing white garment stands in an outdoor landscape. The angel holds a scroll with text and is depicted with bare breasts. Above the angel, a banner with text is unfurled, and in the upper right corner, a haloed figure, possibly Christ or a saint, is shown pointing. The overall scene suggests a divine communication or revelation to David.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "David",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0379.jp2/4285,1181,1445,1536/full/0/default.jpg"
+}

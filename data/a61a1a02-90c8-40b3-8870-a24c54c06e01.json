@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "In a pastoral setting, a woman with long blonde hair, dressed in a golden-brown tunic, sits outside a rustic hut with a thatched roof. She is breastfeeding an infant while a younger child, also in a similar tunic, looks up at her. The hut is constructed with rough-hewn logs and branches, with a visible window. To the right, a man with a beard and long hair, wearing a torn golden-brown tunic, stands holding a scythe, looking down. The background features rolling green hills, trees, and a path winding through the landscape. The scene depicts a family in humble circumstances, likely representing the Holy Family in their early years or a general scene of rural life.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008174h/f157/161,1128,1603,1318/full/0/default.jpg"
+}

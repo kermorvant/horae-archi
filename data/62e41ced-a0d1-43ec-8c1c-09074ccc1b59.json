@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, with Saint Joseph standing to the right. Mary, wearing a blue mantle and white veil, gazes downwards with closed eyes. The Christ Child, dressed in a red tunic, looks upwards. Saint Joseph, with a long white beard and wearing a green cloak over a red garment, is shown in profile, looking away from the central figures. The background is a landscape with rolling green hills, trees, and a distant blue body of water with a castle-like structure on a hill. The entire scene is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "Holy Family",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10840782/2043,486,1125,1688/full/0/default.jpg"
+}

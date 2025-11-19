@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A single figure, likely a saint or pilgrim, is depicted within an architectural frame. The figure wears a headdress and a garment with vertical pleating. They hold a staff or pilgrim's staff in their right hand and raise their left hand in a gesture of blessing or teaching. The scene is framed by an arch supported by decorative capitals, suggesting an architectural setting. The figure's attire and the staff are indicative of a devotional context, possibly representing a saint known for pilgrimage or a specific religious order.",
+    "scene_interpretation": "Saint James the Greater",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "capital"
+    ],
+    "persons": [
+        "Saint James the Greater"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0065/4181,460,402,501/full/0/default.jpg"
+}

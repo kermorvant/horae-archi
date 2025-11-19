@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A female figure, identified as Saint Mary Magdalene by her attribute, stands within an architectural setting. She is depicted with long, flowing hair and wears a red undergarment and a blue mantle. In her hands, she holds a golden vessel, likely a pyx or reliquary. The background features a stone wall on the left with a window, and a green, patterned tapestry or wall hanging on the right. The architectural elements suggest an interior space with vaulted ceilings and arched openings, indicative of Gothic style. The floor is rendered with wooden planks. The figure's halo signifies her sainthood. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Saint Mary Magdalene",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Saint Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10509406b/f102/802,412,1102,1739/full/0/default.jpg"
+}

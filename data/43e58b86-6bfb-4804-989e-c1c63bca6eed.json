@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a central figure, possibly Christ, who is gesturing with his hands. To the right of this central figure, a woman with long hair is shown with her hands clasped, possibly in prayer or supplication. She is seated. On the left, three men are visible, one wearing a cap and the other two with beards. The background suggests an architectural setting with arched elements and vertical lines, possibly representing windows or a vaulted ceiling. The overall composition suggests a moment of interaction or teaching.",
+    "scene_interpretation": "The scene likely represents Christ teaching or interacting with his disciples or followers. The woman's gesture could indicate devotion or a plea. Without more context, a specific biblical event is difficult to pinpoint, but it aligns with depictions of Christ's ministry.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0025/2190,3895,924,622/full/0/default.jpg"
+}

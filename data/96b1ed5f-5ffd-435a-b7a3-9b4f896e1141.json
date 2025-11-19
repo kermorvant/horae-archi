@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act within an interior space. A seated figure, likely a ruler, in a blue robe and a distinctive white and green hat, gestures with his left hand. Before him, a man in an orange tunic and armor wields a sword, seemingly in the act of beheading a figure dressed in blue. Another figure in blue and red is shown kneeling, with a severed head and blood visible. To the right, a woman in a red robe and a blue and yellow hat holds a child, who is looking towards the central action. The background features a red tapestry with gold patterns and a gold patterned wall above. The floor is tiled in a diamond pattern.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_105%2Flewis_e_105_jp2.zip%2Flewis_e_105_jp2%2Flewis_e_105_0169.jp2/2422,1084,2402,3988/full/0/default.jpg"
+}

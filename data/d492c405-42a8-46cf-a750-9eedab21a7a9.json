@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Within a circular frame, a female figure, likely the Virgin Mary, is depicted holding a child, the Christ Child, in her arms. She wears a headdress and is surrounded by a radiant halo. To her left, a spinning wheel is visible, and a sword pierces a ram or lamb at her feet. The scene is rendered in a woodcut style with hatching and cross-hatching to create shading and texture. The background is plain, suggesting a focus on the figures and their symbolic attributes.",
+    "scene_interpretation": "The iconography strongly suggests the Virgin Mary, possibly as the Virgin of Mercy or a representation of her sorrows, given the sword and the sacrificial animal. The spinning wheel could allude to her domestic life or the thread of fate. The presence of the Christ Child confirms her role as the mother of Jesus.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_007/DEPOT/210545209_impr_layette_123_007_0094/749,1513,849,833/full/0/default.jpg"
+}

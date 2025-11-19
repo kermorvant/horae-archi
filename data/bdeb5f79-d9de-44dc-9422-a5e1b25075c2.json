@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely a saint, kneeling before a desk with a book open, holding a quill and inkwell. A halo surrounds the figure's head, suggesting sanctity. To the left, another figure stands, possibly a disciple or an attendant, looking towards the kneeling figure. Behind the desk, a baptismal font is visible, with a small figure, possibly Christ Child or a saint in baptism, standing within it. The background suggests an interior space with wooden paneling and a draped cloth. The overall scene evokes a moment of divine inspiration or religious devotion, possibly related to the writing of scripture or a significant religious event.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door",
+        "canopy"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS0358/DEPOT/B514546101_MS0358_0153/834,276,658,970/full/0/default.jpg"
+}

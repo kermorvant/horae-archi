@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned and seated on a throne-like cushion, extending his hand to the Virgin Mary, who is also crowned and kneeling before him. Christ holds a golden orb. To the left, an angel, with green wings and a golden halo, stands with hands clasped in prayer. The figures are set against a backdrop of draped orange fabric and a richly patterned gold, blue, and red tessellated surface. The overall composition is framed by an arched border with decorative floral motifs.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/SanMarino_Huntington_HM1099%2FSanMarino_Huntington_HM1099_jp2.zip%2FSanMarino_Huntington_HM1099_jp2%2FSanMarino_Huntington_HM1099_0154.jp2/845,378,1223,1811/full/0/default.jpg"
+}

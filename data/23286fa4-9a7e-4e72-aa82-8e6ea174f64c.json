@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and holding the Christ Child, is sheltered by a simple wooden structure with a thatched roof. A figure in a red cloak stands behind Mary. Three Magi approach, one kneeling and presenting a golden casket, while another stands holding a golden staff and wearing a crown. The third Magus is partially visible behind the second. The setting is outdoors, with rolling hills, trees, and a blue sky with golden stars and a radiant sun. A crown lies on the grassy ground in the foreground.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0006/cea-0006_078r.jp2/380,583,2250,3020/full/0/default.jpg"
+}

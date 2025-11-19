@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and wearing a blue robe and white veil, holds the Christ Child. The Christ Child reaches towards a golden vessel presented by one of the Magi, who is kneeling and dressed in a red and green robe. Another Magus stands behind him, holding a golden crown. In the background, a multi-story building with arched openings and windows is visible, with figures looking out from an upper window. The ground is rendered in gold leaf, suggesting a sacred or divine setting.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fx384wm8694/W179_000178_1200/3430,1929,1833,2959/full/0/default.jpg"
+}

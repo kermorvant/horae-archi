@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue robe, meeting Elizabeth, who is kneeling and wearing a red and purple garment. Both figures have golden halos, indicating their sanctity. They are shown outdoors in a landscape with rolling green hills and a winding path. In the background, a fortified building with towers and battlements is visible, along with smaller structures and distant mountains. The scene is framed by an ornate golden arch, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower",
+        "battlement"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0080/DEPOT/M601415401_MS0080_0038/4115,1005,1823,1701/full/0/default.jpg"
+}

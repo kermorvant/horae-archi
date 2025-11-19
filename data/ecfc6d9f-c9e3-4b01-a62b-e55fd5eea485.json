@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in prayer, possibly monks, set against a background of stylized architectural elements and decorative scrolls. The lower figure, kneeling on the ground, looks upwards with hands clasped in supplication. Above and slightly behind this figure, another individual, also in prayer, is depicted. Between them, a horizontal beam with two wheels suggests a cart or a similar structure, possibly symbolic. In the background, simplified representations of buildings with towers and domes are visible, along with decorative architectural motifs resembling small shrines or niches. The overall impression is one of devotion and contemplation, possibly within a monastic or religious context.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "roof",
+        "niche"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0099/5829,3515,677,1190/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, cloaked in blue and holding the Christ Child, riding on a donkey. Joseph, wearing a red cap and a pink tunic, leads the donkey by a rope. They are shown in an outdoor setting with green ground and sparse vegetation. Behind them is an architectural element resembling a decorative screen or window with a gold lattice pattern against a black background, framed by an arched border adorned with floral motifs.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0028/DEPOT/352386106_MS0028_0086/3510,444,1511,2077/full/0/default.jpg"
+}

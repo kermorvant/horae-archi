@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a single figure, likely a prophet or saint, shown in profile. The figure has a beard and is wearing a draped garment and a head covering. The figure is positioned within a decorative architectural frame that features stylized foliage and pointed arches. The overall impression is that of a vignette from a manuscript, possibly an initial letter or a marginal decoration.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0090/3435,2900,275,1768/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The body of Christ, bloodied and wrapped in a white shroud, is being held by the Virgin Mary, who is dressed in blue. Around them, several figures mourn. To Christ's left (viewer's right), a figure in yellow holds his head, and another in orange looks down. To Christ's right (viewer's left), two figures in orange and yellow also express grief. The figures are positioned in front of a large, green, rocky hill. In the background, a blue sky with distant hills is visible. Two wooden crosses, one with the INRI inscription, stand prominently, suggesting the crucifixion site. The scene is framed by decorative borders with floral motifs.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.198/Ross.198_0028_fa_0021v-22r.jp2/1759,164,636,939/full/0/default.jpg"
+}

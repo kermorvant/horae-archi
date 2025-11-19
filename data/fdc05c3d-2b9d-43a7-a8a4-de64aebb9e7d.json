@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A friar, identified by his habit and stigmata on his hands, kneels in prayer. Above him, Christ is depicted on a cross, with stylized orange wings emanating from the cross. The friar has a golden halo, indicating sainthood. In the background, a rocky landscape is visible, with a small, hooded figure peeking from behind a hill. The scene is framed by a decorative border.",
+    "scene_interpretation": "The Stigmata of Saint Francis",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Saint Francis"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/br791wh6450%2FW435_000352_1200/4343,1936,1451,2223/full/0/default.jpg"
+}

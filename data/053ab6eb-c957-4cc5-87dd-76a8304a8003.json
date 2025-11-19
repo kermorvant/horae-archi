@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a halo and wearing a blue mantle over a white garment, stands and holds up a white cloth. On the cloth is the imprint of a man's face with long brown hair and a beard, wearing a crown. The background is a golden, textured wall, and the scene is framed by green drapery on the left and architectural elements on the right, suggesting an interior setting. The floor is tiled in a golden pattern. This scene likely represents the Veil of Veronica, a relic bearing the imprint of Christ's face.",
+    "scene_interpretation": "Veil of Veronica",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "column"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55007801k/f51/245,844,632,677/full/0/default.jpg"
+}

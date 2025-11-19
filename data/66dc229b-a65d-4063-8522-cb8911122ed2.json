@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A group of men, some in blue robes and others in red or gold, are gathered around a partially flayed figure lying on the ground. The figure, with a halo, appears to be undergoing a violent act of dismemberment, with blood visible on its limbs and the surrounding ground. The background is a richly patterned tapestry or textile in shades of red, gold, and blue, suggesting an indoor or ceremonial setting. The men are depicted with varied expressions, some appearing to be actively involved in the process, while others observe with solemnity. The scene is likely a depiction of martyrdom, given the presence of the halo and the brutal nature of the act.",
+    "scene_interpretation": "Martyrdom of Saint Bartholomew",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Bartholomew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f93/1849,1215,904,1655/full/0/default.jpg"
+}

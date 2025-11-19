@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a formal gathering within an interior space, likely a hall or chamber. At the center, a figure in a red robe and blue headdress is seated on a throne-like chair, gesturing with their hands. Before them, a scribe is diligently writing at a desk, with a quill and inkwell visible. Two other figures, dressed in pink and blue robes, stand to the left and right of the seated figure, appearing to be in discussion or attendance. Two younger figures, one in blue and pink, and another in pink, stand in the foreground, one with hands clasped in prayer or supplication. The background features patterned textiles and windows with lattice work, suggesting a well-appointed interior. The overall impression is one of a judicial or administrative proceeding, possibly involving a plea or petition.",
+    "scene_interpretation": "This scene likely represents a moment of judgment, petition, or legal proceeding, common in medieval depictions of secular or religious authority. The seated figure could be a judge, a lord, or even a bishop, presiding over a matter. The scribe and attendants are typical of such settings. The figure with clasped hands might be a petitioner or someone seeking favor.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "scribe"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f284/1832,2749,896,902/full/0/default.jpg"
+}

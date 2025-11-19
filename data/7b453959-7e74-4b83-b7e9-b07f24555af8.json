@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "A bearded king, adorned with a golden crown and a flowing pink robe trimmed with gold, stands with his arms raised, looking upwards. To his right, a man with long, dark, unkempt hair and a beard, wearing a torn blue tunic, is chained and appears to be emerging from a stone structure. Behind him, several other figures are visible within an arched opening of the structure. Above and to the left, a haloed figure, possibly God or a prophet, is depicted in the clouds. The scene is set against a dark blue, patterned background, with a detailed stone castle-like structure dominating the right side of the image. The ground is rendered in green with some grey stone elements.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "battlement",
+        "arch",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "King Saul",
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0053/4876,959,681,1100/full/0/default.jpg"
+}

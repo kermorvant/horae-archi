@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the central cross and two thieves on crosses to his left and right. Christ is shown with a halo and a loincloth, his arms outstretched. Below the cross, a group of mourners is gathered. On the left, a woman in a blue mantle, likely the Virgin Mary, stands with her hands clasped in prayer, accompanied by another woman in pink. To the right of Christ, a figure in a red robe and elaborate headdress looks away, while other figures are partially visible in the background. The setting is an outdoor landscape with a blue sky and hints of distant hills or structures. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501939c/f160/857,281,928,1353/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a royal courtly gathering within an architectural setting suggestive of a palace or grand hall. A crowned king, with a long beard, is seated on a throne, holding a scepter. Before him, a young woman, also crowned, kneels and presents a chalice. Behind her, two other women stand, one with a veiled head. To the right of the king, another figure, possibly a queen or noblewoman, is visible, also crowned. The background features architectural elements such as pointed arches and decorative pinnacles, framing the figures. The overall impression is one of a formal presentation or offering within a regal environment.",
+    "scene_interpretation": "Presentation of a Royal Offering",
+    "spatial_context": "indoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "palace"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "pinnacle",
+        "canopy"
+    ],
+    "persons": [
+        "King",
+        "Queen",
+        "Noblewoman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0020/5578,3489,689,1154/full/0/default.jpg"
+}

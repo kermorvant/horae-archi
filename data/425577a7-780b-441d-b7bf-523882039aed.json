@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and gesture of blessing or teaching, interacting with a group of people. He stands within an arched architectural structure, possibly a doorway or a niche, with other figures behind him. In front of him, two individuals are shown in supplication or receiving a blessing. One is seated on a surface, appearing ill or infirm, with hands clasped in prayer. Another figure kneels before Christ, also with hands joined. The overall setting suggests a moment of healing or divine intervention.",
+    "scene_interpretation": "Healing of the Infirm",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0045/846,2882,553,1015/full/0/default.jpg"
+}

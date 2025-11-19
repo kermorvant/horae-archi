@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and beard, carrying a lamb on his shoulders, surrounded by several other sheep. He is dressed in a dark robe and appears to be walking. To the right, a woman with a veiled head and clasped hands stands in prayer. The background is dark and speckled with small white dots, suggesting stars, and framed by an ornamental archway. This imagery represents Christ as the Good Shepherd, a common devotional theme.",
+    "scene_interpretation": "Christ as the Good Shepherd",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Douai/Bibliotheque_municipale/591786101_MS0182/DEPOT/591786101_MS0182_0136/3119,480,1404,1876/full/0/default.jpg"
+}

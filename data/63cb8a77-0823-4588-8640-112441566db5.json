@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men engaged in discussion, framed by an arched architectural element. In the foreground, a seated figure, possibly a king or important personage, gestures with their hands. To their left, a man with a beard and long hair holds a staff or scepter. Another figure to the far left appears to be listening intently. To the right of the seated figure, a man in a distinctive headdress, possibly a crown or miter, also seems to be speaking or listening. Behind them, architectural elements suggest a grand interior space. The overall impression is one of a formal gathering or council.",
+    "scene_interpretation": "This scene likely represents a biblical or historical event involving important figures, possibly a council or a moment of deliberation. Without further context or identifying attributes, a specific interpretation is difficult, but the formal attire and gestures suggest a scene of significance.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0046/1141,462,564,1003/full/0/default.jpg"
+}

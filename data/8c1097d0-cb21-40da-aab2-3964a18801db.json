@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bearded man, likely a scholar or saint, is depicted seated and reading from two open books. He wears a hooded robe. To his right, a bull is visible, its head turned towards the viewer. The scene is framed by architectural elements suggesting an interior space, with a vaulted ceiling and a window with tracery visible in the background. The presence of the bull, one of the Evangelist symbols, suggests this scene may represent Saint Luke.",
+    "scene_interpretation": "Saint Luke",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "vault",
+        "roof"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0015/1422,1371,613,981/full/0/default.jpg"
+}

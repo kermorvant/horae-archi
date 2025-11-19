@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A man wearing a blue cap, a red and gold tunic, and blue hose is depicted tending to a fire. He holds a long stick, possibly a poker, which he is using to stir the flames within a hearth. To the left, a blue goat is shown leaping against a bright blue sky with a suggestion of landscape below. The background suggests an interior space with architectural elements, including what appears to be a large, draped curtain or tapestry behind the hearth. The scene likely represents the zodiac sign Capricorn, often depicted as a goat, and the associated activities or imagery of the month.",
+    "scene_interpretation": "Capricorn",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0137/DEPOT/315556101_MS0137_0059/1354,412,2005,1153/full/0/default.jpg"
+}

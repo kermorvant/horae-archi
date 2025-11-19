@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two bearded male figures standing in an outdoor setting with trees and foliage. The figure on the left holds an open book and a stylus, while the figure on the right holds a book and a sword. Below them, two winged figures, presumably angels, are present. One angel stands holding a scroll with a large decorative initial 'P' and Latin text. The other angel kneels, looking upwards and pointing towards the scroll. The overall composition is framed by a decorative border.",
+    "scene_interpretation": "This scene likely represents Saints Peter and Paul, prominent apostles of Christianity. Peter is often depicted with keys (though not visible here) and a book, symbolizing his role as the 'rock' of the Church and the keeper of its doctrines. Paul is frequently shown with a sword, representing his martyrdom and his role as the 'Apostle to the Gentiles'. The scroll with the initial 'P' and the text likely refers to a passage from scripture or a theological statement attributed to them. The angels' presence suggests divine sanction or the transmission of heavenly knowledge.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511766t/f187/593,369,753,1323/full/0/default.jpg"
+}

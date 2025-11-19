@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ. Christ, with a golden halo and wounds from scourging, stands in the center. To his left, a man in a blue robe and red hat holds Christ's arm and appears to be striking him with a rod. Another figure, possibly a youth, is held by the man in blue. To Christ's right, a figure in a blue tunic and yellow hat strikes Christ with a whip. The figures are positioned within an architectural setting that suggests an interior space with arched windows and a vaulted ceiling. The floor is tiled in a diamond pattern. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "vault"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100224243/f49/280,121,1026,1414/full/0/default.jpg"
+}

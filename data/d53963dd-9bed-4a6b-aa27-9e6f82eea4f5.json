@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Jerome, identifiable by his halo and scholarly attire, seated and writing on a scroll. He is accompanied by his attribute, a lion, which sits attentively beside him. The figures are positioned within an architectural setting characterized by an arched opening supported by columns. A draped canopy, possibly part of a bed or a symbolic representation of a divine presence, is visible behind Saint Jerome. The background features a wall with paneling, suggesting an interior space. The overall composition evokes a sense of quiet contemplation and scholarly pursuit, aligning with the traditional iconography of Saint Jerome.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105375885/f46/364,330,1870,2819/full/0/default.jpg"
+}

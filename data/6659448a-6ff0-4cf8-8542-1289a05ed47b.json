@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A lone figure, likely Christ, is depicted carrying a large cross. The figure wears a dark robe and appears to be walking on a grassy or field-like ground. Above the figure, a halo surrounds the head, and a band of text in a Gothic script arches over the scene, likely containing a devotional or biblical inscription. The figure's posture suggests exertion and burden as they bear the weight of the cross.",
+    "scene_interpretation": "Christ Carrying the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_131%2Flewis_e_131_jp2.zip%2Flewis_e_131_jp2%2Flewis_e_131_0480.jp2/3388,1963,1371,2147/full/0/default.jpg"
+}

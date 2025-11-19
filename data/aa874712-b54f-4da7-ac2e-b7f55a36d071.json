@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act within an architectural setting. In the foreground, a figure with long hair, possibly female, is kneeling or lying down, with another figure bending over them, appearing to be in the act of beheading. Behind them, a group of men, some wearing hats and tunics, and one with a beard, stand with swords. One man points towards the kneeling figure. The background suggests an urban environment with buildings and arched architectural elements.",
+    "scene_interpretation": "Martyrdom of Saint John the Baptist",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0086/1761,2762,622,961/full/0/default.jpg"
+}

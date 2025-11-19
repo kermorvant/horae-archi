@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross at the center. He is shown with a loincloth, and his body bears wounds. To his left and right, two angels kneel on raised platforms, their hands crossed over their chests and their wings spread. The architectural setting appears to be an interior space, possibly a chapel or a stylized representation of Golgotha, with decorative elements suggesting religious architecture. The overall composition is framed by an arched border, typical of manuscript illumination.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0141/2662,409,1312,1639/full/0/default.jpg"
+}

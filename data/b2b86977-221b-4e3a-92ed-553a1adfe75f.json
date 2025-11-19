@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a battlefield with fallen soldiers in the foreground, suggesting a recent conflict. A man in armor, identified as David, kneels in prayer, his hands clasped, looking upwards towards a divine apparition. Above him, God the Father, depicted with a beard and halo, is seated on a cloud, surrounded by angels, with rays of divine light descending upon David. To the right of David, a group of soldiers, some on horseback, are arrayed, observing the scene. In the background, a fortified city with towers and walls is visible, along with tents and banners, indicating a military encampment. The overall scene portrays a moment of divine intervention and spiritual solace amidst warfare.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "fortress",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "tent"
+    ],
+    "persons": [
+        "God the Father",
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427237h/f308/485,369,1919,2953/full/0/default.jpg"
+}

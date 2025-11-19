@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer before a seated figure. The kneeling figure, clad in a blue robe with orange cuffs, has his hands clasped in supplication and his head tilted upwards. Behind him, a richly patterned orange and red textile hangs from a rod, suggesting an interior setting. The seated figure, identified by a halo, wears a pink robe over an orange tunic and holds a white orb in his left hand, while raising his right hand in a gesture of blessing or speech. The background is a deep blue with decorative patterns. This scene is likely a representation of David in Prayer, a common motif in Books of Hours, where David is often depicted in supplication before God.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f240/773,1664,757,872/full/0/default.jpg"
+}

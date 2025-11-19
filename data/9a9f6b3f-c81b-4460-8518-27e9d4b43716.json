@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and crozier, is seated on a cushion atop a book. He is gesturing with his right hand towards three young boys who are depicted within a wooden tub. The boys appear to be praying or pleading, with their hands clasped. Behind the bishop, a brick wall with a small window is visible. To the right, a building with arched openings and windows suggests an urban or ecclesiastical setting. The scene likely depicts Saint Nicholas of Myra, a bishop renowned for his miracles, particularly his intervention to save three innocent men from execution and his legendary generosity towards children.",
+    "scene_interpretation": "Saint Nicholas of Myra",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "Saint Nicholas of Myra"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00113507_00443/321,337,486,534/full/0/default.jpg"
+}

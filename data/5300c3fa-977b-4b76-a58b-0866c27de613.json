@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A man wearing a wide-brimmed hat and a tunic is depicted in the act of mowing with a scythe. He is positioned in a field of grass, with his body bent as he swings the scythe. The background features an elaborate decorative border with foliate motifs, typical of manuscript illumination. This scene likely represents the month of June or July, associated with the harvest season, and could be part of a calendar cycle within a Book of Hours.",
+    "scene_interpretation": "Harvest",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032954j/f12/2961,2313,476,470/full/0/default.jpg"
+}

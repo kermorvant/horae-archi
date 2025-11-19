@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts a central, anatomically detailed human figure, likely representing the microcosm, with internal organs visible. Surrounding this figure are celestial bodies, including a sun with a face at the top and a crescent moon with a face on the right. Stars are scattered throughout the background, and ribbons with Latin inscriptions encircle the central figure, suggesting astrological or medical connections. At the bottom, a smaller, seated figure, possibly a jester or a representation of earthly concerns, is depicted holding a staff and looking upwards. The overall composition is framed by decorative borders with architectural motifs.",
+    "scene_interpretation": "This image is likely an illustration related to medieval astrology and medicine, specifically the concept of the microcosm reflecting the macrocosm. The detailed anatomy and celestial bodies suggest a connection between the human body and the cosmos, a common theme in medieval thought. The inscriptions on the ribbons likely refer to astrological influences or medical humors. The figure at the bottom may represent humanity's place within this cosmic order or the influence of earthly forces.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0006/4432,1572,1241,2281/full/0/default.jpg"
+}

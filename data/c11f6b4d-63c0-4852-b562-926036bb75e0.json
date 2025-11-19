@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A royal couple, a king and queen, ride side-by-side on a white horse through a wooded landscape. The king, wearing a crown, has his arm around the queen. They are dressed in white robes with gold trim. Behind them, a young man, possibly a squire or attendant, walks, also dressed in white, holding the reins of the horse. Above and to the right, a circular medallion depicts a nude couple embracing, rendered in a golden halo, suggesting a spiritual or idealized union. The background is filled with stylized trees and rocky ground, with a hint of clouds in the upper right.",
+    "scene_interpretation": "The scene likely depicts a royal marriage or a representation of marital love, possibly referencing the union of Adam and Eve in the medallion, symbolizing the ideal of conjugal bliss or the sacrament of marriage. The presence of the king and queen suggests a theme of earthly royalty mirroring divine order or a devotional contemplation of love within marriage.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King",
+        "Queen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1059732/2367,377,972,906/full/0/default.jpg"
+}

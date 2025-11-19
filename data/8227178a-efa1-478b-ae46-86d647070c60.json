@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, accompanied by two other female figures, standing on a patterned floor. In the background, a building with arched windows and a tower is visible. To the right, a man points towards a bed or altar-like structure, where another figure, possibly a king or bishop, is lying down. The sky above is filled with stars. This scene is likely an interpretation of the Nativity or a related event, possibly the Adoration of the Magi, given the presence of figures and the architectural setting.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9061586h/f45/769,313,1461,1742/full/0/default.jpg"
+}

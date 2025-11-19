@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Christ or a saint, is seated on a raised wooden throne, holding an open book and gesturing with one hand. The figure wears a blue robe. Around the throne, several individuals are gathered, some seated and others standing. To the left, a figure in a red robe and white wimple is seated, with hands clasped. Behind them, two men are visible, one in a red cap and green tunic, the other in a grey cap. To the right, a man in a blue robe and a fur-trimmed crown is seated. The scene takes place indoors, with a checkered floor and a backdrop featuring a window with tracery. The overall setting suggests a teaching or discourse.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "tracery",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f159/1677,1596,593,702/full/0/default.jpg"
+}

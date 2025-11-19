@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A young man, depicted with a halo, stands within an arched opening, holding a red book and a pair of spectacles. He wears a simple, earth-toned robe over a white tunic. The background suggests an outdoor setting with a brown wall and sparse greenery. The image is framed by a decorative border featuring roses and butterflies.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/15763585/1682,1876,1189,1762/full/0/default.jpg"
+}

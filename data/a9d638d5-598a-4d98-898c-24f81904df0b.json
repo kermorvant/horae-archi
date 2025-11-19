@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a profile view of a person, likely a woman, wearing an elaborate headdress with flowing hair and a patterned garment. She is holding a shallow bowl or dish in her hands. The scene is framed by an architectural element resembling a pointed arch with decorative tracery, suggesting an interior or a niche within a larger structure. The overall style is characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "This image likely represents a devotional scene, possibly a saint or a figure associated with a specific religious narrative. The act of holding a bowl could allude to offering, receiving, or a symbolic gesture within a religious context. Without further iconographic clues, a precise interpretation is difficult, but it aligns with the typical imagery found in Books of Hours for personal devotion.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "ornamental_tracery",
+        "microarchitecture"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0049/5098,447,451,586/full/0/default.jpg"
+}

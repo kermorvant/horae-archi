@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with two thieves crucified on either side. Christ is shown with a crown of thorns and a wound in his side, a scroll with Latin text \"VERE FILIVS DEI EST\" (Truly this was the Son of God) is draped across his cross. Below, the Virgin Mary, clad in a blue mantle, is comforted by other women, one of whom kneels at the base of Christ's cross. To the right, a figure in ornate golden armor, possibly Longinus, the Roman soldier, gazes at Christ, holding a spear. Behind him, a group of soldiers in helmets are visible. In the background, a city with towers and walls is depicted, set against a green landscape and a blue sky with decorative elements at the top border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0242.jp2/440,547,1500,2523/full/0/default.jpg"
+}

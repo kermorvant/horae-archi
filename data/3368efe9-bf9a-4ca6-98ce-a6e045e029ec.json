@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two male figures, identified as Saint Peter and Saint Paul, standing in an outdoor landscape. Saint Peter, on the left, is depicted with a halo, wearing a pink robe over a blue tunic, and holding a large book and a set of keys. Saint Paul, on the right, also with a halo, wears a purple robe and holds a large sword. Behind them, to the right, is a stone castle with towers and windows. The background features rolling hills, a body of water, and a blue sky with clouds. The figures are presented in a devotional context, representing the two principal apostles of Christianity.",
+    "scene_interpretation": "Apostles Peter and Paul",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "tower"
+    ],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008564m/f208/818,300,1272,1193/full/0/default.jpg"
+}

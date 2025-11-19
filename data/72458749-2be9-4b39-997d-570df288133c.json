@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel, adorned in a red and gold robe, appearing before the Virgin Mary, who is dressed in blue and seated with her hands clasped over her chest. Rays of golden light emanate from the heavens, carrying a dove, symbolizing the Holy Spirit, towards Mary. The angel gestures towards Mary, and a scroll with text is visible. Behind Mary, an older man in a red and green robe stands in an arched doorway. The scene is framed by architectural elements, with an arched opening revealing an interior space. To the left, a castle with towers and battlements is visible in the background, set against a landscape with trees and a bright sun. A red and green draped cloth lies on the ground in the foreground, possibly representing a fallen tapestry or drapery.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower",
+        "battlement",
+        "door",
+        "column"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009437p/f112/591,396,845,1361/full/0/default.jpg"
+}

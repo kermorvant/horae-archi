@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Christ seated on a raised platform, holding a golden orb and gesturing with his right hand. To his left, the Virgin Mary kneels with her hands clasped in prayer, her head bowed. Above them, two angels are shown in the act of presenting a crown. The background features a blue sky dotted with golden stars, and architectural elements suggesting an interior space with ornate columns and arches. The floor is tiled, and a richly patterned tapestry hangs behind the figures.",
+    "scene_interpretation": "The Coronation of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "canopy",
+        "dais"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_126%2Flewis_e_126_jp2.zip%2Flewis_e_126_jp2%2Flewis_e_126_0082.jp2/1050,1130,3115,4620/full/0/default.jpg"
+}

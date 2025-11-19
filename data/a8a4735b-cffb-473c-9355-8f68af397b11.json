@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in clerical attire within an interior architectural space. On the left, a large, ornate structure, possibly an altar or a tomb, is draped with a blue cloth adorned with gold patterns. Behind it, a relief carving of figures is visible. In the center, a lectern holds an open book with musical notation. Two men, one in a white alb and chasuble, and another in a blue mantle, stand near the lectern. The man in the chasuble gestures with his right hand, as if speaking or leading a chant. The background reveals architectural elements such as pointed arches, windows with tracery, and columns, suggesting a church or chapel setting. The overall impression is one of a liturgical service or a devotional scene.",
+    "scene_interpretation": "Liturgical Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "window",
+        "tracery_window",
+        "column",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Cleric",
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.67/Ross.67_0209_fa_0099r.jp2/310,238,348,582/full/0/default.jpg"
+}

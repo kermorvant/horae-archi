@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Two haloed male figures stand facing each other. The figure on the left, with a long white beard, wears a dark robe and gestures with his left hand towards a book held by the figure on the right. The figure on the right, also bearded, wears a reddish-brown robe and holds an open book in his left hand, with his right hand resting on a staff or cross. Both figures are depicted against a dark background adorned with ornate, swirling foliate motifs. The ground beneath them is tiled in a checkerboard pattern. The scene is framed by a decorative archway.",
+    "scene_interpretation": "Saints discussing scripture",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f254/999,334,823,1316/full/0/default.jpg"
+}

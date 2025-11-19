@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Sebastian, a martyr, tied to a tree and pierced by arrows. He is shown with a halo, indicating his sainthood, and his body is marked with blood. Two figures, dressed in medieval attire, are shown aiming bows and arrows at him. One figure wears an orange tunic and a green turban, while the other wears a blue tunic. The background is a richly patterned tapestry of gold, blue, and brown squares, suggesting an indoor or richly decorated setting. A tree trunk is visible behind the saint, and the ground is rendered in green with hints of grass and fallen leaves. The entire scene is framed by an arched border, typical of manuscript illumination.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0067/DEPOT/M601415401_MS0067_0174/4049,629,1447,2283/full/0/default.jpg"
+}

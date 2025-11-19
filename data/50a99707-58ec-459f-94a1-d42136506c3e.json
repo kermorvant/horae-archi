@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Four figures, likely male, are depicted in a devotional scene. They are shown from the chest up, with long hair and wearing robes. One figure on the right has his hands clasped in prayer. Rays of light emanate from above, suggesting divine presence. The figures are framed by architectural elements that appear to be part of an archway or niche, with decorative vertical lines suggesting columns or pilasters.",
+    "scene_interpretation": "Devotional Scene",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00030/1210,2653,768,729/full/0/default.jpg"
+}

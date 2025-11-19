@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A gathering of men, all depicted with halos, are shown in a landscape under a blue sky. The central figure, likely Christ, has long brown hair and a beard, and is gesturing with his hands. To his left, a man with a white beard kneels, his hands clasped in prayer, and his gaze directed upwards. Other figures surround them, some with hands clasped, others looking towards the central figure. The ground is depicted as earthy with sparse green vegetation and small stones. In the distance, faint outlines of buildings and hills are visible, suggesting a distant settlement or landscape.",
+    "scene_interpretation": "The scene depicts a gathering of saints or holy figures, possibly representing the communion of saints or a moment of divine revelation. The central figure with a halo and gestures could be Christ, and the kneeling figure in prayer might be a supplicant or a saint in adoration. The overall composition suggests a spiritual or heavenly gathering.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84328965/f82/309,207,1345,2304/full/0/default.jpg"
+}

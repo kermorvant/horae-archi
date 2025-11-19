@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A solitary figure, likely Saint Andrew, stands draped in a golden robe and a blue mantle, holding a large, X-shaped cross. The figure has a halo and a sorrowful expression, looking down. In their other hand, they hold a small red book. The scene is set within an architectural structure featuring arched openings and columns, suggesting a loggia or cloister. Beyond the architecture, a landscape with hills and distant buildings is visible under a blue sky. The floor is tiled with a geometric pattern. The overall impression is one of contemplation and devotion, with the cross symbolizing martyrdom and the book representing scripture or theological study.",
+    "scene_interpretation": "Saint Andrew",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Andrew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55007801k/f531/187,435,602,707/full/0/default.jpg"
+}

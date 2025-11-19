@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two men engaged in agricultural labor in a rural landscape. The foreground shows a man on the left digging with a shovel and another man on the right using a hoe. Both are dressed in medieval attire, with blue tunics adorned with gold patterns, red caps, and patterned stockings. The background features a hilly terrain with bare trees, suggesting a colder season, and a distant village with houses. A body of water with a small boat is also visible. The overall impression is one of seasonal work and rural life.",
+    "scene_interpretation": "Labor",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509697k/f14/1001,801,3524,7106/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Flagellation of Christ, with Christ tied to a column in the center. Two figures, likely Roman soldiers or tormentors, are shown administering the punishment. One on the left holds a bundle of rods, poised to strike, while the other on the right grabs Christ's arm. Christ is depicted with a loincloth and a green cloth draped over his head. The setting appears to be an interior courtyard or a loggia, with architectural elements such as arches, columns, and walls visible. The background suggests an outdoor landscape with distant buildings.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_008%2Fwidener_008_jp2.zip%2Fwidener_008_jp2%2Fwidener_008_0374.jp2/1143,1435,2080,2398/full/0/default.jpg"
+}

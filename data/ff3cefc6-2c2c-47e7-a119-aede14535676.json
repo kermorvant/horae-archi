@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Saint John the Evangelist, is depicted seated outdoors, writing on a scroll. The figure is dressed in a dark robe and cloak, with long hair. To the right, a large bird, possibly an eagle, is shown with its beak near the scroll, perhaps dictating or inspiring the writing. In the background, a stylized landscape features rolling hills, trees, and a distant town with buildings and spires. Rays of light emanate from above, suggesting divine inspiration.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS0358/DEPOT/B514546101_MS0358_0022/1993,367,635,915/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts two nude figures, a man and a woman, standing close together. The man, on the left, has his left hand on the woman's shoulder and his right hand touching her abdomen. The woman, on the right, has her left hand on the man's chest and her right hand touching his abdomen. Both figures are rendered in a stylized, somewhat awkward manner, with elongated limbs and simplified features. The background is dark and indistinct, with some scattered white marks that could represent stars or a celestial void. The scene is framed by a decorative border at the bottom, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9068094h/f13/1144,1688,509,658/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior space. On the left, the Angel Gabriel, with large red wings and a halo, enters through an opening in a brick wall, holding a scroll with the inscription \"AVE MARIA\". Rays of golden light emanate from the dove of the Holy Spirit descending from a blue sky. In the center, a vase with lilies stands on a tiled floor. On the right, the Virgin Mary, also with a halo, is seated on a red cushioned chair, her hands clasped in prayer, facing the angel. She is dressed in a pink robe and a blue mantle. Behind her, a green curtain hangs, and a wooden piece of furniture is visible.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch",
+        "window",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10023799q/f17/637,696,1958,3092/full/0/default.jpg"
+}

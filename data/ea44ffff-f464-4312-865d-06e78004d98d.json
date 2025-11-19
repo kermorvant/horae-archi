@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures lying down, seemingly asleep or deceased, in what appears to be an interior space. Their eyes are closed, and they are dressed in richly colored garments, some with gold detailing. To the left, a large window opens to a blue sky and a dark, indistinct landscape. To the right, a classical architectural element, possibly a portico or a shrine, is visible, featuring a column and a pediment-like structure adorned with gold. The overall impression is one of repose or death within a structured, possibly sacred, setting.",
+    "scene_interpretation": "Resurrection of the Dead",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "window",
+        "column",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f391/2922,1785,769,2396/full/0/default.jpg"
+}

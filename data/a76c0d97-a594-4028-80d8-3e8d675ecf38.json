@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A woman with blonde hair, wearing a blue robe adorned with gold trim, stands in an arched doorway, raising her hand as if in greeting or farewell. To her left, another figure, also in a blue robe, leans out of a window in a brick building, their hand raised. To the right, a man in a similar blue robe, with red boots, walks away, his hands clasped in prayer or supplication. The background is a richly patterned tapestry or mosaic of small squares in red, blue, and gold. The architecture suggests a domestic setting with a prominent building featuring a timber-framed upper story and a brick lower story with arched openings.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f283/1855,894,973,1576/full/0/default.jpg"
+}

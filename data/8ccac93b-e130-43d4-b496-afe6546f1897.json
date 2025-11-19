@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a dramatic interior setting, likely a palace or hall, with tiled flooring and arched architectural elements. On the left, a regal figure, presumably King Herod, sits on a throne, adorned with a crown and a fur-trimmed blue mantle. He gestures with his hand. Facing him, a woman in a red robe stands, holding a staff. In the center, a soldier in red armor and a helmet raises a sword over a naked infant. A woman in a blue robe and white head covering kneels before the infant, reaching out in distress. To the right, a woman in a blue robe and a yellow headdress holds another infant, looking on with concern. The scene is framed by decorative borders typical of illuminated manuscripts.",
+    "scene_interpretation": "The Massacre of the Innocents",
+    "spatial_context": "indoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "palace"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "King Herod",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/47957862/548,453,1619,2299/full/0/default.jpg"
+}

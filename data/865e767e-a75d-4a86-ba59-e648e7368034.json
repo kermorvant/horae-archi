@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered together. One central figure, wearing a hat, appears to be speaking or gesturing. He is surrounded by several other men, some of whom are kneeling. The figures are rendered in a stylized, woodcut-like manner. Above them, an arched architectural element frames the scene, suggesting an interior or a structured setting. The background behind the figures is filled with a dense pattern of dots, possibly representing a tapestry or a decorative wall.",
+    "scene_interpretation": "This scene is too generic to definitively interpret as a specific biblical, liturgical, or devotional event without further context. It could represent a council, a gathering of disciples, or a scene from a saint's life. However, the presence of multiple figures in discussion or supplication is common in various narrative cycles.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0101/5083,1803,483,628/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded male figure, likely Christ, wearing a red robe with gold trim and a golden halo. He holds a lamb, also with a halo, in his left arm. The lamb carries a cross with a banner. The background is a lush green landscape with trees and foliage, suggesting an outdoor setting. The figure's posture and the presence of the lamb are indicative of the iconography of Christ as the Lamb of God.",
+    "scene_interpretation": "Christ as the Lamb of God",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/15963906/386,1056,696,788/full/0/default.jpg"
+}

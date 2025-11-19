@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A procession is depicted, with several men carrying a golden, ornate shrine or reliquary on their shoulders, draped with a richly patterned red cloth. The men are dressed in elaborate, colorful robes and turbans. They are moving towards an arched doorway or entrance, which is part of a larger architectural structure. The background on the left is a deep blue with a swirling pattern, possibly representing fabric or a decorative wall. The architecture features arches and columns, suggesting a religious or ceremonial building. The scene likely depicts a religious procession, possibly the transport of a sacred relic or an important religious artifact.",
+    "scene_interpretation": "Religious Procession",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "door",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0033/4942,1012,714,1202/full/0/default.jpg"
+}

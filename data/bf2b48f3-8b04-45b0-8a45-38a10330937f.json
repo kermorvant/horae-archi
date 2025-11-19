@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated, holding the Christ Child. She wears a blue mantle over a white robe and a golden halo. The Christ Child, also with a golden halo, is held in her left arm and reaches towards a golden object she holds. To the right, a young boy kneels in prayer, dressed in a red robe adorned with gold crosses and blue hose, with a sword at his side. He is positioned before a lectern covered with a richly decorated cloth, upon which rests an open book. Behind the Virgin, a red curtain with gold patterns hangs, framing the scene. On the left, an angel plays a lute, and on the right, another angel plays a harp. The background is a starry blue sky, suggesting a divine or celestial setting, with architectural elements of columns and what appears to be a canopy above.",
+    "scene_interpretation": "Madonna and Child with a kneeling donor and angels",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:41:5:wdl_14415:009_74G37_001r/674,301,1058,1642/full/0/default.jpg"
+}

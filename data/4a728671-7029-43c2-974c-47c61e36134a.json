@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, wearing a crown of thorns and a loincloth. To the left stands the Virgin Mary, draped in a blue mantle, her hands clasped in sorrow. To the right is Saint John the Evangelist, clad in a red robe, also with hands joined in grief. The figures are set against a landscape with rolling hills and mountains in the background. The scene is framed by an arched border decorated with floral motifs and gold leaf.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010380f/f196/926,109,1078,1582/full/0/default.jpg"
+}

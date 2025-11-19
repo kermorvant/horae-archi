@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The Virgin Mary, seated and holding the Christ Child, is presented with a sprig of flowers by an angel. The scene takes place within a room that opens to an exterior landscape. Above the figures, a celestial sky with stars and a radiant sunburst is depicted, suggesting a divine setting. The Virgin wears a blue mantle over a red garment, and the Christ Child is in a brown tunic. The angel, with blue wings, is robed in brown and kneels before them. The room features a patterned wall and a tiled floor, with a bed canopy visible in the background. The overall scene evokes a sense of divine grace and the presentation of innocence.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Musee_Saint_Raymond/315555247_PM31000783/DEPOT/315555247_PM31000783_0096/4030,667,1635,2292/full/0/default.jpg"
+}

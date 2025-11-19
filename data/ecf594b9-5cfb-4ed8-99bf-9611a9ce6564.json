@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family in a landscape setting, framed by an arched architectural element. On the left, the Virgin Mary, wearing a dark hooded garment, cradles the Christ Child, who is swaddled in white. Her expression is somber. To the right of Mary stands Saint Joseph, identifiable by his halo and beard, wearing a dark cloak and a cap. He holds a staff. The ground beneath them is uneven, with some scattered objects that might represent stones or discarded items. In the background, a dark mass suggests foliage or a hill. The overall impression is one of a journey or a moment of quiet contemplation.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS0358/DEPOT/B514546101_MS0358_0084/2009,306,665,927/full/0/default.jpg"
+}

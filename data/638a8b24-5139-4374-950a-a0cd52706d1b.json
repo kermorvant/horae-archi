@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a flock of sheep grazing on a green hillside. In the foreground, two men are engaged in a struggle. One man, dressed in blue, stands over another man who lies on the ground, seemingly injured or defeated. A dog stands alert beside the standing man. In the upper part of the image, two angels descend from a radiant sky, holding a scroll and bestowing blessings or divine pronouncements. Behind them, a walled city or fortress is visible across a body of water. The overall scene is framed by an ornate border with floral motifs.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_072/DEPOT/M490075203_MS2003_1_072_0081/3908,958,1281,2011/full/0/default.jpg"
+}

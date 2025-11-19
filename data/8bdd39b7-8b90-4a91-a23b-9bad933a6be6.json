@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Adam and Eve in the Garden of Eden. Eve, on the left, with long flowing hair, is reaching towards a tree laden with fruit. Adam, on the right, also with long hair, stands beside her, looking towards her. A serpent, entwined around the tree, appears to be offering fruit to Eve. The background features stylized foliage and architectural elements suggesting a structured, perhaps divine, setting. This scene represents the Fall of Man, a pivotal moment in Christian theology.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0018/5688,434,664,1253/full/0/default.jpg"
+}

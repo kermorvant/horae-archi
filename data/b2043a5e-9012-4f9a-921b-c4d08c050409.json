@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her golden halo and blue mantle, meeting Elizabeth, who is older and wears a white veil and a dark robe. Their hands are clasped in a gesture of greeting and recognition. Behind them, a lush, rolling landscape unfolds, dotted with trees and leading to a body of water with a sailboat. In the distance, a prominent castle with multiple towers and red roofs stands against a blue sky, suggesting a secular setting for this sacred encounter. Another, more distant city or fortress is visible on a hill across the water.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-cl0124/bge-cl0124_028r.jp2/558,526,3327,4931/full/0/default.jpg"
+}

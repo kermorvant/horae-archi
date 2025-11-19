@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man with his hands clasped in prayer, looking upwards. He is surrounded by two winged figures, likely angels, who appear to be interacting with him. The man is dressed in a blue robe with a dark cloak. In front of him, on a rocky, uneven terrain dotted with small bushes, lies a lyre. The background shows rolling hills and a cloudy sky. The entire scene is framed by an architectural arch decorated with garlands and ribbons, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.9490/Vat.lat.9490_0224_fa_0109v.jp2/230,221,500,846/full/0/default.jpg"
+}

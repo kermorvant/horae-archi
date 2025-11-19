@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a hat and a robe, is depicted in a seated or kneeling posture, with his hands clasped or resting on his lap. He is framed by architectural elements that suggest an interior setting. The scene is rendered in a woodcut style with stippling for shading. The man's gaze is directed upwards and to the right, and his gesture with his right hand could be interpreted as prayer or contemplation. The architectural elements include a decorative arch above and a column to the right, suggesting a niche or a part of a larger structure.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0021/3825,4004,458,709/full/0/default.jpg"
+}

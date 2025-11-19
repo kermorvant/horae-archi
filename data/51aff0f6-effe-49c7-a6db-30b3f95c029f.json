@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. He is wearing a loincloth and a crown of thorns. Blood drips from his wounds. To the left stands the Virgin Mary, draped in a blue mantle over an inner garment, her head covered by a white veil, and her halo gilded. To the right stands Saint John the Evangelist, wearing a purple mantle over an orange tunic, also with a gilded halo. Behind them, a rocky landscape rises to a background featuring a golden sky with stylized clouds. In the distance, a city with towers and spires is visible, nestled amongst green hills and trees. The base of the cross rests on the ground, with two small blocks supporting it, and scattered red elements suggesting blood or fallen leaves.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/wn505gm7074%2FW262_000155_1200/827,659,3295,4580/full/0/default.jpg"
+}

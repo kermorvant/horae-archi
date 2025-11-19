@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a skeletal figure, personifying Death, holding a scythe. To its right stands a woman in prayer, her hands clasped and her head bowed, wearing a wimple and veil. They are framed by an architectural element resembling a Gothic arch with decorative tracery. The background is stippled, suggesting a void or a stylized representation of space.",
+    "scene_interpretation": "Dance of Death",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0067/948,275,530,925/full/0/default.jpg"
+}

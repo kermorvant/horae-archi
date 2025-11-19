@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. In the foreground, the Virgin Mary kneels with her hands clasped in prayer, looking down at the Christ Child lying in a golden manger. To the left, Saint Joseph, with a grey beard and wearing a monastic-like robe, also kneels in prayer. Behind them, an angel with blue wings and a pink robe stands with hands clasped. In the background, a simple wooden stable structure is visible, with a thatched roof. The setting is an outdoor landscape with rolling hills and stylized trees under a blue sky from which golden rays of divine light emanate.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/qx197gr5341%2FW180_000129_1200/3583,2365,1735,2943/full/0/default.jpg"
+}

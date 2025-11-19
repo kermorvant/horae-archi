@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a macabre procession, likely representing the Dance of Death or a similar allegorical theme. On the left, a skeletal figure, personifying Death, stands holding a spear. To its right, a group of living individuals are ascending a ladder. These figures appear to be of varying ages and social standings, suggested by their attire and postures. The ladder itself is constructed of wooden planks and is positioned within a rudimentary architectural frame. The lower portion of the image shows glimpses of other figures, some appearing distressed or reaching out. The overall impression is one of mortality and the inevitability of death, with Death leading or overseeing the ascent of the living.",
+    "scene_interpretation": "Dance of Death",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "stairs",
+        "undefined_element"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0078/5270,693,564,1196/full/0/default.jpg"
+}

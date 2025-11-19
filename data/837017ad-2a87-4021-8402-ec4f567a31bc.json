@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with two thieves crucified on either side. Christ is shown on the central cross, pierced by a lance. Below, a group of figures mourns. On the left, three women, one kneeling and reaching towards the cross, are dressed in white veils and robes, suggesting they are the Virgin Mary and other mourners. On the right, several men, some wearing crowns, observe the scene. One man points upwards, possibly a soldier or a bystander. The background is a stylized representation of a city with buildings and walls.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f55/2408,471,745,1177/full/0/default.jpg"
+}

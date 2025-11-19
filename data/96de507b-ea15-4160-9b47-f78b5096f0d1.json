@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in a pastoral landscape, with sheep scattered around them. In the foreground, an older man with a long grey beard, wearing a dark robe and distinctive orange boots, holds a spear. He is gesturing towards two younger men, also in dark robes. The younger man in the center looks towards the older man with his hands raised, while the man on the right gestures towards the center figure. In the background, a city with numerous towers topped with blue domes is visible, nestled amongst rolling hills. Above the city, an angel with outstretched wings flies, holding a banner that reads \"Gloria in excelsis Deo\" (Glory to God in the highest). The overall impression is one of a biblical or devotional scene set in a somewhat stylized medieval world.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550092764/f154/609,400,1076,1806/full/0/default.jpg"
+}

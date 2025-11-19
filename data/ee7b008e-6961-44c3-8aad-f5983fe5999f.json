@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A woman, dressed in a golden-orange gown and a white headdress, is depicted kneeling on a patterned floor. She is seated on an ornate, carved wooden throne or chair. To her right, a large wooden cross is prominently displayed. The background features architectural elements, including niches with sculpted figures and a vaulted ceiling with decorative patterns. The overall scene suggests a devotional or religious context, possibly representing a saint or a figure in prayer, with the cross symbolizing Christian faith.",
+    "scene_interpretation": "Penitent Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "vault",
+        "niche",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f62/1237,1330,2983,3925/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts three individuals engaged in the process of skinning an animal, likely a sheep or lamb, in an outdoor setting. Two men are actively working on the carcass, one holding a knife and the other assisting with the skinning. A woman stands to the left, holding a tool and observing the process, with a jug nearby. In the background, a walled garden or courtyard is visible, with trees and a building that appears to be a tower or part of a castle. The overall impression is one of domestic or agricultural activity.",
+    "scene_interpretation": "This scene likely represents a domestic or agricultural task, possibly related to the preparation of food or materials. In the context of a Book of Hours, it could be an illustration for a calendar page, depicting the activities of a particular month, or it might symbolize a virtue like diligence or provision.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "tower",
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509697k/f34/900,600,4720,7607/full/0/default.jpg"
+}

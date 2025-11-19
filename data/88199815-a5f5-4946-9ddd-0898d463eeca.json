@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an interior space with a patterned wall and a checkered floor. On the left, a woman in a blue robe and white headdress holds a nude infant. To her right, a knight in green armor and a helmet stands, holding a sword raised as if to strike. Facing the knight and slightly to the right is an older man with a long white beard, wearing a red and gold robe and a tall, ornate red hat, holding a staff. Above the figures, architectural elements resembling quatrefoil windows are visible against a blue background. The checkered floor suggests an indoor setting, possibly a hall or a room within a building.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jb119rn7623%2FW208_000193_1200/684,2295,1688,2583/full/0/default.jpg"
+}

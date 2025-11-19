@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary, with Christ crowning her with a halo. To the left, a figure in a bishop's mitre and robes places a crown on Mary's head, while a dove, representing the Holy Spirit, hovers above. To the right, a bearded figure, likely Christ, also places a hand on the crown. Behind them, a group of angels are depicted, some playing musical instruments like a lute and a flute, while others hold symbolic objects. The figures are set against a backdrop of architectural elements suggesting a divine or heavenly setting, with decorative arches and microarchitecture.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "microarchitecture",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9068094h/f41/1991,629,1113,1718/full/0/default.jpg"
+}

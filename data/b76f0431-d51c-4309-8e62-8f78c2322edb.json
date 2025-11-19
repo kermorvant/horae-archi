@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The Virgin Mary, crowned and with a halo, is seated and cradles the Christ Child on her lap. She wears a rich blue robe adorned with gold embroidery. The Christ Child, also with a halo, is dressed in gold and reaches out to take a flower from his mother's hand. The scene is set outdoors, with a rocky landscape and trees in the background, under a blue sky with scattered clouds. To the right, a golden, ornate structure resembling a small altar or tabernacle is visible. Behind the figures, a decorative parapet with circular medallions depicting figures in prayer or contemplation separates the immediate foreground from the landscape.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55011051v/f46/986,267,1244,1774/full/0/default.jpg"
+}

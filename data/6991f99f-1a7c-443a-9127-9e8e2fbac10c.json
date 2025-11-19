@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bishop, clad in a blue cope and a red mitre, kneels in prayer before an altar. Above the altar, Christ stands with arms outstretched, displaying the stigmata on his hands and feet. A chalice is placed on the altar, and a book lies open before it. The background is a red tapestry adorned with a gold grid pattern and circular motifs. The floor is tiled in a red and black diamond pattern. The scene likely depicts the bishop's devotion to Christ's sacrifice, possibly during Mass or a private devotional moment.",
+    "scene_interpretation": "The Mass of Saint Gregory",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "altar",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Christ",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/62939059/63503401.tif/1021,921,1849,2832/full/0/default.jpg"
+}

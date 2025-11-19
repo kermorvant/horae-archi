@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of women, each holding a chalice-like vessel, standing within an architectural setting that features arched openings and decorative elements. Behind them, a grotesque, beast-like figure with a human-like face and fur is visible, seemingly interacting with the architecture. The women are dressed in long robes, and their expressions are varied, suggesting a narrative moment. The overall impression is one of a devotional or allegorical scene, possibly related to a parable or a moralizing tale, given the presence of the monstrous figure.",
+    "scene_interpretation": "Parable of the Ten Virgins",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0061/777,494,652,1203/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a grand, vaulted interior that resembles a cathedral or large church. On the left, the Angel Gabriel, with large, red-lined wings and a golden staff, appears to be delivering a message to the Virgin Mary. He is dressed in a white robe with a red cloak. On the right, the Virgin Mary kneels, her hands crossed over her chest, her head bowed, and a book open before her. Above them, a cherubic figure descends from the upper part of the scene, and a dove, symbolizing the Holy Spirit, is depicted within a golden disc. The architecture features tall columns, arches, and windows, suggesting a sacred and imposing space.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "vault"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_102%2Flewis_e_102_jp2.zip%2Flewis_e_102_jp2%2Flewis_e_102_0071.jp2/2775,1249,2472,3812/full/0/default.jpg"
+}

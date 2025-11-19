@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures engaged in an activity centered around a richly decorated, tabernacle-like structure. Two figures in pink robes are positioned above and to the sides of this structure, holding ropes that appear to be attached to it, suggesting a lifting or lowering action. Below, in the foreground, three figures are gathered. One figure in a blue robe is holding a red garment, possibly a vestment, while another figure in a gold robe holds a long wooden pole. To the right, an older figure with a white beard, wearing a blue cap, is seated at a table, handling coins and a pouch. The background is a dense, tessellated pattern of blue, red, and gold squares, with a red carpet-like ground covering in the mid-ground. The overall impression is one of ritualistic activity, possibly related to the handling of sacred objects or vestments within a devotional context.",
+    "scene_interpretation": "The scene likely depicts a ritualistic act related to the preparation or handling of sacred vestments or relics, possibly within a church or chapel setting. The tabernacle-like structure could represent an altar or a reliquary. The figures holding ropes might be involved in raising or lowering a sacred object, while the figures in the foreground could be preparing vestments or counting offerings. The presence of coins suggests a connection to church finances or charitable donations.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "older figure with white beard"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f17/1874,956,856,1622/full/0/default.jpg"
+}

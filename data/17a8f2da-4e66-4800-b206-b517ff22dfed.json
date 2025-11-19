@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts Christ in prayer, kneeling with clasped hands in a garden enclosed by a wooden fence. Three disciples, identified by their halos, are seated behind him, one appearing to sleep. In the background, a hilly landscape is dotted with trees and a walled city with domed buildings. Above, in a blue oval, a bust of God the Father is shown, with a chalice and host on a rocky outcrop to the right, symbolizing the divine presence and the Eucharist. The overall scene represents the Agony in the Garden, a moment of intense prayer and foreboding before Christ's arrest.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "door",
+        "fence"
+    ],
+    "persons": [
+        "Christ",
+        "Disciple",
+        "Disciple",
+        "Disciple",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10509406b/f20/640,409,1159,1857/full/0/default.jpg"
+}

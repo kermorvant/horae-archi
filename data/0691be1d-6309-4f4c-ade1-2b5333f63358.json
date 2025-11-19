@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A group of figures stands on a green, grassy ground. On the left, three women are depicted, one in a pink robe and veil, another in a blue robe with gold trim, and a third partially obscured. They appear to be looking towards the right. On the right, a bearded man, identified as Christ by his halo, is shown in a blue robe and a dark undergarment. He is holding a red, ornate book and is reaching out to touch the arm of the woman in the blue robe. The background is a dark blue textile with a repeating gold geometric pattern. The scene is framed by a decorative border.",
+    "scene_interpretation": "Christ and the Women",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0035/4008,918,831,1238/full/0/default.jpg"
+}

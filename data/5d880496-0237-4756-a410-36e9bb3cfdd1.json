@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the central cross and two thieves on either side. Christ is shown with a crown of thorns and a wound in his side. Below the cross, the Virgin Mary, draped in a blue mantle, kneels with her hands clasped in prayer, accompanied by other grieving figures. To the right, a man on horseback, possibly a Roman soldier or official, points towards Christ, with other figures and soldiers present. The scene is framed by an architectural element that suggests an interior view looking out onto the exterior event, with a golden arcade and a niche containing a sculpted figure visible on the left. In the foreground, an altar-like structure with a book and chalices is depicted, suggesting a liturgical context.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "wall",
+        "door",
+        "column",
+        "capital",
+        "arcade",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vc281hf3102%2FW427_000040_1200/2796,1989,2682,3833/full/0/default.jpg"
+}

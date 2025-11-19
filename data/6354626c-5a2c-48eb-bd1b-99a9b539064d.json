@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a jeweled crown and a bishop's miter, indicating he is a high-ranking religious figure, possibly a king or a saintly bishop. He holds a globus cruciger (orb and cross) in his left hand, symbolizing dominion over the world. His right hand is raised, possibly in blessing or teaching. He is surrounded by four eight-pointed stars, set against a plain background. The figure's attire includes a richly decorated collar and a cape. The overall impression is one of authority and divine representation.",
+    "scene_interpretation": "Christ Enthroned",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00034/301,280,633,762/full/0/default.jpg"
+}

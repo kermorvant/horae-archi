@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, a bearded king, crowned and robed, holds a golden orb and points. Above him, a red, ornate canopy frames him against a blue background. In the center, the Angel Gabriel, with large blue wings and wearing a patterned yellow robe, kneels and gestures with a scepter towards the Virgin Mary. The Virgin Mary, on the right, is depicted with a halo, hands clasped in prayer, and looking down at an open book on a wooden table. Behind her, a red curtain hangs, and a dove, representing the Holy Spirit, descends with rays of light. The background features architectural elements suggesting an interior space with arched openings and decorative friezes.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_112%2Flewis_e_112_jp2.zip%2Flewis_e_112_jp2%2Flewis_e_112_0202.jp2/712,880,2667,3111/full/0/default.jpg"
+}

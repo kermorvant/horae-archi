@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The Virgin Mary, crowned and robed in blue, sits on a golden throne beneath a golden canopy. She holds the Christ Child, who is naked. To her left, an angel plays a harp, and another figure in white robes stands holding a book. To her right, another angel plays a flute. In the background, a castle with a tower is visible, along with trees and a blue sky. The scene is framed by a decorative border.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000005/MAA_00005_027.jpg/892,400,794,1369/full/0/default.jpg"
+}

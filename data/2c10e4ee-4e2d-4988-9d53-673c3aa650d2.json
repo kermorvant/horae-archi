@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. A woman in a blue robe and white veil kneels before a stone pedestal, her hands outstretched. On the pedestal lies a swaddled infant, held by a bearded man in a gold and blue robe. Behind them, several figures are gathered: a man in a purple robe and red hat, a woman in a green robe holding a staff, another woman in a red robe, and a man in a purple robe holding a basket containing birds. The background features architectural elements, including a large window with tracery and a golden, ornate canopy above. The overall setting suggests an interior space within a religious building.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515740c/f128/469,74,1128,1747/full/0/default.jpg"
+}

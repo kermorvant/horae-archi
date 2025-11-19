@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The upper register depicts the Virgin Mary seated and holding the Christ Child, who looks upwards. They are framed by an architectural structure with columns and arches, suggesting a divine or regal setting. Three angels with folded hands stand to the right, their faces turned towards the Virgin and Child. Below, a scroll with Gothic script is displayed. The lower register shows a domestic or workshop scene. On the left, a woman in a blue dress is seated and appears to be spinning. To her right, another woman in a blue dress is standing, holding a small white object, possibly a lamb. A man in a red tunic and blue cap is seated at a workbench, engaged in some craft, possibly carpentry or metalwork. The background of this lower scene is a blue brick wall.",
+    "scene_interpretation": "The upper scene is a representation of the Madonna and Child, a central theme in Christian devotion. The presence of angels reinforces the divine nature of the scene. The lower scene likely depicts the Holy Family engaged in everyday activities, possibly illustrating the virtues of labor and domesticity, or perhaps a specific devotional narrative related to their lives.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0078/DEPOT/M601415401_MS0078_0035/2606,332,1991,3093/full/0/default.jpg"
+}

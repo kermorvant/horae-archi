@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, resurrected and triumphant, emerging from a tomb. He holds a cross aloft and blesses with his right hand, while his left hand points to the stigmata on his chest. Below him, several women, identifiable by their wimples and blue robes, are shown in various states of awe and grief, some with hands clasped in prayer or reaching out. One woman appears to be weeping. In the upper right, an angel emerges from clouds, also with hands clasped in prayer. The background is a rich red with a diamond pattern, and the figures are set against a green, textured ground, possibly representing earth or foliage. A large, stylized tree trunk or pillar is visible on the left.",
+    "scene_interpretation": "The Resurrection of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Metz/Bibliotheque_municipale/574636101_MS1588/DEPOT/574636101_MS1588_0216A/667,3631,1538,906/full/0/default.jpg"
+}

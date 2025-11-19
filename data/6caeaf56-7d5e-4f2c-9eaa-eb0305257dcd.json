@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a domestic interior, framed by an archway adorned with floral motifs. In the foreground, the Virgin Mary, wearing a blue mantle and head covering, kneels and holds the Christ Child, who is naked and has a halo. She looks up at the child with devotion. To the left, a woman in a pink dress, also with a halo, stands holding a basket. In the background, a man with a red hat and green tunic sits on a bed, looking down at the child. The room features a patterned red tapestry, a bed with a canopy, and windows with diamond-shaped panes. The overall scene suggests a moment of tenderness and religious significance within a domestic setting.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010392r/f180/1057,296,1081,1648/full/0/default.jpg"
+}

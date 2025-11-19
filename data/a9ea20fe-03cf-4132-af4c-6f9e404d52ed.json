@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a man in prayer, kneeling with his hands clasped, facing a monstrous, multi-headed serpent or dragon. The creature is depicted with numerous heads, each with a distinct face and open mouth, suggesting aggression or torment. In the background, a town with buildings and a prominent church tower is visible, set against a landscape. To the right of the praying man, a large, indistinct form, possibly a rock or a tomb, is present, with foliage suggesting a natural setting. The overall composition suggests a struggle between good and evil, with the man's piety confronting the demonic entity.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0051/3791,3412,1095,440/full/0/default.jpg"
+}

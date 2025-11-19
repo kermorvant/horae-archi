@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bearded man, likely a saint, kneels with his arms outstretched and head tilted upwards, gazing towards the sky. He wears a simple, earth-toned robe with a fur collar. In the background, a fortified castle with towers and crenellations sits atop a green, rolling hill. To the right, a winged angelic figure, possibly an angel, hovers in the sky, holding a palm frond or branch. The scene is set outdoors with a blue sky above.",
+    "scene_interpretation": "Saint in Ecstasy",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "battlement",
+        "crenellation",
+        "wall"
+    ],
+    "persons": [
+        "Saint",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_107%2Flewis_e_107_jp2.zip%2Flewis_e_107_jp2%2Flewis_e_107_0230.jp2/1328,6256,2715,4243/full/0/default.jpg"
+}

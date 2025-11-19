@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony, likely a Mass, taking place indoors. A priest, adorned in a richly decorated chasuble, kneels with hands clasped in prayer before an altar. On the altar, a chalice is prominently displayed, and an open book, possibly a missal, lies beside it. To the left, a depiction of Christ, showing the wounds of the crucifixion, stands behind a blue curtain adorned with gold motifs. Behind the priest and altar, a group of young boys, possibly choirboys or acolytes, stand in attendance, some wearing ornate vestments. The background features architectural elements suggesting an ecclesiastical setting, with windows visible in the upper section.",
+    "scene_interpretation": "Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof",
+        "altar"
+    ],
+    "persons": [
+        "Christ",
+        "Priest",
+        "Acolyte"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025266x/f31/275,2112,1083,1106/full/0/default.jpg"
+}

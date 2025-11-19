@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. In the foreground, a man with a halo, dressed in a blue robe, is embraced by another man wearing a green hat and an orange collar. Behind them, two guards in armor, one in blue and green, stand by an arched doorway. To the right, an older man in a blue robe and a turban gestures with his hand while seated, facing a figure partially obscured. The background shows a brick wall and a tiled roof with spires, under a starry blue sky. The scene is framed by a decorative border. This likely represents the Kiss of Judas, a moment from the Passion of Christ where Judas Iscariot betrays Jesus by identifying him with a kiss to the soldiers.",
+    "scene_interpretation": "Kiss of Judas",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "spire"
+    ],
+    "persons": [
+        "Christ",
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yz920mm4360%2FW172_000062_1200/4554,1997,4085,5977/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the arrest of Christ in the Garden of Gethsemane. Christ, identifiable by his halo and serene expression, is being apprehended by soldiers in armor. One soldier, dressed in red and black armor, holds Christ's arm, while another in blue armor raises a sword. A figure in a red robe stands behind Christ, and another man in red clothing sits on the ground, looking up at the scene. In the foreground, more soldiers in similar armor are shown, some gesturing. In the background, a city with towers and spires is visible, set against a landscape of hills and water. The sky above is blue with clouds and a small depiction of a divine figure in the upper right. The text in the manuscript suggests a prayer or psalm related to divine aid.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000005/MAA_00005_006.jpg/416,373,1317,1836/full/0/default.jpg"
+}

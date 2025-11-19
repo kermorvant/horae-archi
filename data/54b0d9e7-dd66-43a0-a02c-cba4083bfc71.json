@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left, kneeling and holding a scroll, addressing the Virgin Mary on the right. The Virgin Mary, seated and holding an open book, looks towards the angel with a gesture of acceptance. Both figures are haloed. Behind them is a decorative screen with a geometric pattern of gold, blue, and red diamonds, surmounted by elaborate gold tracery. A column separates the two figures, and a scroll with Latin text unfurls from it. The setting appears to be an interior space with a green floor suggesting a garden or courtyard visible through an opening.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_071/DEPOT/M490075203_MS2003_1_071_0021/4067,1345,1251,1428/full/0/default.jpg"
+}

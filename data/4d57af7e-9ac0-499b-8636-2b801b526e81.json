@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a prophet, identified as Elijah, kneeling in a verdant landscape. He holds a leafy branch in his left hand and gestures with his right, looking upwards. Above him, in a celestial realm depicted with swirling clouds and golden light, a crowned figure, likely God, with a long white beard, points downwards. God is surrounded by a multitude of faces, suggesting heavenly hosts. In the foreground, a blue bowl overflows with golden objects, possibly representing manna or a divine provision, and a red feathered cap rests beside it. In the background, a body of water is visible with distant buildings and mountainous terrain, hinting at a worldly setting contrasted with the divine.",
+    "scene_interpretation": "Elijah Fed by Ravens",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Elijah",
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/84979285-0250-4c2b-96e3-88136c035e56/2385,792,2205,3365/full/0/default.jpg"
+}

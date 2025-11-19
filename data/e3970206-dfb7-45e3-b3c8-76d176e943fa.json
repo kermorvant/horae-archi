@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a brutal act of violence, likely the Massacre of the Innocents. A soldier, clad in ornate golden armor, is shown with a sword raised, about to strike a baby held by a woman. The baby is swaddled in white cloth, and blood is visible on its body. Another woman behind them is shown in distress, with her hands clasped and her head thrown back in anguish. A second soldier stands behind the first, also armored. In the background, a timber-framed building with small windows is visible, suggesting an urban or domestic setting. The overall impression is one of horror and suffering.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Soldier",
+        "Woman",
+        "Baby"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-cl0124/bge-cl0124_044r.jp2/834,605,2617,4655/full/0/default.jpg"
+}

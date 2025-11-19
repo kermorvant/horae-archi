@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a young man, possibly a saint or prophet, seated on a grassy island surrounded by water. He is dressed in a blue tunic and a red cloak, with a halo around his head, indicating his sanctity. He is writing on a scroll, with a large bird, possibly an eagle, perched beside him and holding a quill in its beak, assisting him. In the background, a city with towers and spires is visible on rolling hills, with a body of water in the foreground. The entire scene is framed by an arched architectural element with decorative columns and foliage. This imagery is likely a representation of Saint John the Evangelist, traditionally associated with an eagle as his symbol and the writing of his Gospel.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/nm106gm5236%2FW277_000037_1200/1101,793,3777,5054/full/0/default.jpg"
+}

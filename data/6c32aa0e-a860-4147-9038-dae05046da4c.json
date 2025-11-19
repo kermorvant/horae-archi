@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within a circular frame. On the left, a bearded male figure with a halo holds a staff and gestures towards the right. He is robed and appears to be speaking. On the right, a female figure with a veiled head and clasped hands in prayer looks towards the male figure. She is also robed. Behind them, a curtain or drapery is visible, suggesting an interior setting. The background is filled with a stippled pattern, possibly representing a starry sky or a divine presence. The overall composition suggests a significant religious encounter.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0055/5229,693,602,712/full/0/default.jpg"
+}

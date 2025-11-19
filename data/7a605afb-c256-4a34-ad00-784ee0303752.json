@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered under an architectural arch. On the right, a figure with a halo, presumably Christ, is shown in profile, gesturing with his right hand. He is surrounded by other figures, some of whom are looking towards him. In the foreground on the left, a kneeling figure is visible. In the background, rudimentary architectural elements suggest a building or cityscape. The overall composition suggests a religious narrative, likely a moment of teaching or discourse.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0042/1089,3376,612,989/full/0/default.jpg"
+}

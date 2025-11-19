@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene is divided into two sections by an ornate architectural frame. On the left, a figure, likely the Virgin Mary, is depicted seated beneath a tree, with her hands raised in a gesture of surprise or contemplation. An angel, possibly Gabriel, hovers above her, holding an open book. The background is a starry sky. On the right, another angel, also with wings and holding a book, appears to be descending or speaking. The overall impression is one of a divine visitation or revelation, set against a celestial backdrop.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0065/3628,3277,1534,726/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A female figure, identified as a saint by her halo, stands within an architectural setting. She wears a red gown, a green tunic, and a blue mantle. Her hair is blonde and styled in curls. She holds a book in her left arm and a quill in her right hand, suggesting she is a scribe or a scholar. Behind her, a red tapestry with gold floral motifs is visible. Above the tapestry, an arched opening reveals a glimpse of a building interior with tall, narrow windows, possibly indicating a church or a grand hall. The floor is depicted as a green checkered pattern.",
+    "scene_interpretation": "Saint writing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501939c/f344/917,308,911,1333/full/0/default.jpg"
+}

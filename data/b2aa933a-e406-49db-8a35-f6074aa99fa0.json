@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Betrayal of Christ in a garden setting. Christ, identifiable by his halo, is embraced by Judas, while soldiers with spears and torches surround them. One soldier, possibly Peter, is shown cutting off the ear of a servant, who is falling to the ground. In the background, a walled city with towers is visible under a starry blue sky, and a golden chalice sits on a mound. The overall atmosphere is one of conflict and impending doom.",
+    "scene_interpretation": "Betrayal of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Judas",
+        "Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_4%2F1945_65_4_jp2.zip%2F1945_65_4_jp2%2F1945_65_4_0029.jp2/5371,1758,4571,8207/full/0/default.jpg"
+}

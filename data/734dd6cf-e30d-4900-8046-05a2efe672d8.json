@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A male figure, likely a saint or cleric, stands in an interior space. He wears a blue robe over a white garment and a golden halo. He holds a red book in his left arm and a staff with a cross-like finial in his right hand. Behind him, a patterned tapestry hangs, and architectural elements suggest a building with columns, arches, and windows. The floor is tiled in a checkered pattern. The scene appears to be a devotional depiction, possibly of a saint in prayer or contemplation.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55005731r/f81/236,469,373,495/full/0/default.jpg"
+}

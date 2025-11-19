@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A group of men, some with beards and long hair, are gathered around a golden altar. On the altar lies a white animal, possibly a lamb, which is being sacrificed. Blood is depicted flowing from the animal onto the altar and the ground below. The background features a dense, tessellated pattern of red and blue squares, with golden rays emanating from the top, suggesting a divine or celestial presence. The scene appears to be set outdoors, with a hint of green grass at the bottom.",
+    "scene_interpretation": "Sacrifice",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f341/1967,1084,831,1744/full/0/default.jpg"
+}

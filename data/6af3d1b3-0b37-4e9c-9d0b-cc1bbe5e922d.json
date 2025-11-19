@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his head bowed and haloed. To the left, the Virgin Mary, draped in blue and with hands clasped in prayer, stands beside Saint John the Evangelist, who is also haloed and wears a red and gold robe. To the right, a group of soldiers and onlookers are present. One soldier, clad in armor and a yellow helmet, stands near the cross, while another, wearing a blue robe and a red hat, holds a scroll or document. In the background, a walled city with towers and spires is visible, set against a blue sky with a crescent moon and a star. The foreground features a green, hilly landscape with patches of yellow fields.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10614737/505,335,1378,1998/full/0/default.jpg"
+}

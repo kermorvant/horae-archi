@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. On the left, a crowned woman with long hair wears a flowing gown. To her right, a man in armor, possibly a soldier or guard, holds a sword aloft. To the right of the armored man, a bearded man with long hair, possibly a religious figure, holds a round object in his hands. The background features architectural elements suggesting a building with arched openings and decorative pinnacles. The overall composition suggests a narrative scene, possibly related to a biblical or historical event.",
+    "scene_interpretation": "The scene likely depicts the Presentation of Christ Child in the Temple, with the crowned woman representing Mary, the bearded man representing Simeon, and the armored figure potentially a temple guard or a representation of Herod's soldiers. The round object held by Simeon could be the infant Christ, or a symbolic representation of him. The architectural setting is consistent with depictions of the Temple.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pinnacle",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0093/1116,531,651,1216/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts an angel with feathered wings, holding a bow and arrow, reaching towards a seated figure. The seated figure, possibly a woman, is wearing a halo and appears to be holding something in their hands. Behind the seated figure is a tree with leaves. The background is filled with small dots, suggesting a starry or celestial setting. The overall composition is framed by decorative elements, possibly part of a larger manuscript illumination.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0055/577,404,594,637/full/0/default.jpg"
+}

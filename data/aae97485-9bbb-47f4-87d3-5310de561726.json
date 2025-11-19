@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures surrounding a central figure who is blindfolded and seated. This central figure, identifiable as Christ, has a beard and long hair, and is wearing a simple tunic. He is being mocked and struck by the surrounding figures, who are depicted with varied expressions and gestures. One figure to the left is holding a stick and appears to be speaking to Christ, while others are gesturing towards him or touching him. Above the figures, architectural elements suggestive of a building's facade are visible, with decorative arches and pinnacles. The overall impression is one of torment and humiliation.",
+    "scene_interpretation": "Mocking of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pinnacle",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0091/5942,1985,614,1166/full/0/default.jpg"
+}

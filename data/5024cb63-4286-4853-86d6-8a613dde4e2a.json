@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A woman, possibly Saint Margaret of Antioch, is depicted seated, holding a book or cloth in her lap. She is dressed in a long, flowing gown and a head covering. Her gaze is directed downwards. In her lap, a small, horned creature, likely a dragon, is being held. The scene is framed by foliage on the right and a vertical element on the left, suggesting an outdoor setting. The presence of the dragon strongly suggests the iconography of Saint Margaret, who is often depicted overcoming or being swallowed by a dragon.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0069/2571,3492,331,408/full/0/default.jpg"
+}

@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a royal court setting. On the left, a bearded king, adorned in a golden robe and ermine collar, is seated on a throne draped in blue and gold. Before him, a kneeling figure, likely a queen or princess, wearing a blue headdress and a rose-colored robe over a golden garment, offers him a scepter. Behind the king, a crowd of courtiers in various colored robes and hats observe the scene. To the right, three women in long dresses stand near a large window that looks out onto a landscape with rolling hills and a distant tower. The interior features a checkered floor and ornate architectural details, including columns and decorative friezes.",
+    "scene_interpretation": "Presentation of the Scepter",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "window",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "King",
+        "Queen",
+        "Courtiers"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f660/1005,4222,3190,1529/full/0/default.jpg"
+}

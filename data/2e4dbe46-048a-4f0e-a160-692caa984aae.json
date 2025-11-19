@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling in prayer, looking upwards. He is dressed in a dark cloak with a fur-lined collar and wears a crown, suggesting he is a king or a nobleman of high status. He is positioned in an interior space, with a patterned tapestry behind him and a harp-like musical instrument to his left. Through an arched opening, two figures are visible: a child with a halo, possibly Christ Child, and an angel, both appearing to descend from a heavenly realm. The architectural framing of the scene, with its decorative arches and columns, suggests a refined interior setting, possibly a private chapel or a chamber within a palace.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037191j/f61/2035,283,1013,1594/full/0/default.jpg"
+}

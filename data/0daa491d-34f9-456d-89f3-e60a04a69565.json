@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an outdoor setting, possibly a landscape with trees and clouds. A central female figure, likely the Virgin Mary, is shown kneeling or seated, holding an object in her hands. She is being approached by several male figures, one of whom is placing a hand on her shoulder. The figures are rendered in a woodcut style with strong outlines and hatching for shading. The overall impression is one of a narrative moment, possibly from a biblical or devotional text.",
+    "scene_interpretation": "The scene is likely an episode from the life of the Virgin Mary, possibly the Visitation or a scene of her presentation or betrothal, given the presence of multiple figures interacting with her. The gesture of the man touching her shoulder could signify a blessing, a greeting, or an indication of a significant event.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0024/5124,2864,467,908/full/0/default.jpg"
+}

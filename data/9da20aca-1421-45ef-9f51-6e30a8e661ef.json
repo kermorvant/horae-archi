@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue robe, meeting Elizabeth, who wears a pink mantle over a white head covering. They are shown in a verdant landscape with stylized trees and foliage. In the background, a walled city with towers and spires is visible, along with several smaller buildings. The figures are rendered with golden halos, indicating their saintly status. The interaction between Mary and Elizabeth, with their hands touching, suggests a moment of profound spiritual connection and recognition.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zs503zt2162%2FW240_000368_1200/4709,1149,2809,4723/full/0/default.jpg"
+}

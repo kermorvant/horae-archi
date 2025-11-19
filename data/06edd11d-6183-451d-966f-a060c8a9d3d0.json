@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A female saint, identified by her halo and holding a staff topped with a flame, is depicted reading a book. She wears a golden robe and a head covering. In the background, a landscape unfolds with rolling hills, trees, and distant architectural structures resembling castles or fortified cities. Above and to the right, a winged demon-like figure is visible, and a smaller, darker winged creature is seen in the upper sky. The scene is framed by an ornamental border.",
+    "scene_interpretation": "The presence of a halo and the staff with a flame suggest the figure is a saint, possibly a martyr or a prophetess. The demon-like figure could represent temptation or the forces of evil being overcome by faith, as symbolized by the saint's devotion to reading scripture. The overall scene likely alludes to the triumph of faith and divine protection.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house",
+        "fortress"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0136/DEPOT/315556101_MS0136_0160/4387,422,1861,2838/full/0/default.jpg"
+}

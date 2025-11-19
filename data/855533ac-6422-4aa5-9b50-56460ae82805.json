@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue mantle, standing and reaching out to Elizabeth, who is kneeling. Elizabeth, wearing a dark habit and a white veil, is shown with her hands clasped. Both figures have golden halos, indicating their sanctity. The background features a rocky outcrop and a distant cityscape with towers and walls, under a starry blue sky from which rays emanate from a sun-like source. The landscape is sparsely populated with stylized trees.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/24625846/25081951.tif/272,142,708,1099/full/0/default.jpg"
+}

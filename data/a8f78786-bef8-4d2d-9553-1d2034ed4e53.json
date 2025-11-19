@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with Christ's body being held by a man, likely Joseph of Arimathea, while another man stands behind them. A woman, likely the Virgin Mary, kneels in supplication, her hands clasped. The figures are rendered in a woodcut style, with strong outlines and hatching to indicate form and shadow. The scene is framed by an arched architectural element, suggesting a setting within a building or a symbolic representation of a sacred space. The overall composition conveys a sense of sorrow and reverence.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Joseph of Arimathea",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0020/634,1830,396,640/full/0/default.jpg"
+}

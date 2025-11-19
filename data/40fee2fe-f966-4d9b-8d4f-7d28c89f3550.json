@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and beard, interacting with a kneeling figure. Christ is gesturing with his right hand, while his left hand is placed over his chest. The kneeling figure, possibly a woman based on her attire and head covering, is looking up at Christ with hands clasped in supplication. Behind Christ, two other figures are visible, one with a beard and wearing a head covering, and another partially obscured. The background suggests an architectural setting with an arched opening and decorative elements, possibly representing a doorway or a niche within a building. The overall composition suggests a moment of healing or intercession.",
+    "scene_interpretation": "Healing of the Woman with an Issue of Blood",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0024/5788,2059,585,1046/full/0/default.jpg"
+}

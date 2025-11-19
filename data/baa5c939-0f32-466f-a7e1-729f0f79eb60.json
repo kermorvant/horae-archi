@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a king, adorned with a golden crown and a fur-trimmed mantle over a blue tunic and golden robe, gesturing with his hands. He is accompanied by a group of men in colorful attire, some wearing red and blue hats. Facing the king is a bearded man in a white hooded robe, also gesturing. The setting is outdoors, with rolling hills and a distant city with towers and spires visible on the right. Lush green trees with gold accents dot the landscape. The ground is a sandy path with faint markings that could represent footprints or debris.",
+    "scene_interpretation": "This scene likely represents a biblical or historical encounter, possibly a king receiving counsel or a prophecy. The presence of a king and a robed figure suggests a moment of importance, perhaps a king consulting a prophet or a wise elder. The distant city could symbolize a kingdom or a significant location.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "palace",
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "spire",
+        "tower"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f440/1072,4330,3230,1553/full/0/default.jpg"
+}

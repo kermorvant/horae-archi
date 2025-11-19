@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary, identifiable by her blue mantle and halo, cradling the lifeless body of Christ. Christ's body is pale and shows wounds, indicating his crucifixion. They are positioned outdoors in a landscape with rolling blue hills in the background and a rocky outcrop to the left. A wooden cross stands behind them, with the inscription \"INRI\" visible at the top. The sky is a pale blue with scattered clouds. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/SJRB/SJRB%2000001/SJRB_00001_IMG_125r.JPG/1177,1096,1638,2370/full/0/default.jpg"
+}

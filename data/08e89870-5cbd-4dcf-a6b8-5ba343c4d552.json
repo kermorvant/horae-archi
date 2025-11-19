@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two women in conversation, framed by an arched border with decorative elements. The woman on the left, dressed in a flowing blue robe, has long blonde hair and appears to be kneeling or in a humble posture. The woman on the right, wearing a golden-brown garment and a white headdress, is reaching out to her. Behind them, a rolling landscape unfolds with a distant town or village nestled in the hills. Dominating the background is a fortified castle with multiple towers and crenellated walls, perched on a hill. The overall impression is one of a significant encounter set against a backdrop of medieval architecture and landscape.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421097/1285,277,893,1448/full/0/default.jpg"
+}

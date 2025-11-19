@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a throne, holding the Christ Child. She is dressed in a blue mantle over a pink gown, and the Christ Child is nude. Surrounding them are several small, red, winged figures, possibly representing cherubim or demons, and above them, a group of blue and pink winged figures, likely angels, are depicted with scrolls. To the right, a man in a red, gold-patterned tunic and red hose kneels in prayer, his hands clasped. The background is a rich gold, textured with a diamond pattern. The figures are positioned in a garden setting with lush green foliage and small flowers. The throne is elaborate, with architectural details suggesting a Gothic style, and a crescent moon is visible beneath it.",
+    "scene_interpretation": "Madonna and Child with a Donor",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f222/793,947,1845,2325/full/0/default.jpg"
+}

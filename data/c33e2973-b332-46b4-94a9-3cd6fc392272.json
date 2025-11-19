@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a burial ritual taking place outdoors. In the foreground, two figures are tending to a body wrapped in white cloth, possibly preparing it for burial. Behind them, a group of clerics in religious attire are gathered, one holding a book and gesturing towards a processional cross. To the left, an angel, guided by a divine figure in a halo and surrounded by red, flame-like forms, appears to be lowering a naked child, possibly representing a soul, towards the scene. A devilish figure lurks to the left of the angel. In the background, a small building, possibly a charnel house, is visible, filled with skulls in its upper windows. Adjacent to it is a larger, pale stone building with arched openings, suggesting a religious or civic structure. The overall scene appears to be a representation of a soul's journey to the afterlife, possibly involving a burial and divine intervention.",
+    "scene_interpretation": "The scene likely represents the Burial of the Dead and the Commendation of Souls, a liturgical service. The presence of the angel lowering a soul, the clerics performing rites, and the charnel house filled with skulls all point to themes of death, judgment, and the passage of the soul to the afterlife. The divine figure at the top could represent God or a saint overseeing the process.",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "cross"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0132/3258,462,1113,1788/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A man, depicted with a sorrowful expression, leans on a staff. He wears a yellow tunic and a red scarf around his neck. His right hand rests on his cheek, and his left hand grips the staff. The background features stylized foliage and small, dark, star-like motifs. To the left, a decorative red and gold element, possibly part of a larger border or architectural feature, is visible. The scene appears to be set outdoors, with a hint of green foliage at the bottom suggesting a natural environment. The overall impression is one of grief or contemplation.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0125/4914,3138,643,575/full/0/default.jpg"
+}

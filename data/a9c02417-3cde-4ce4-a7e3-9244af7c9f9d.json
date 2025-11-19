@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A crowned, bearded man in a blue robe adorned with gold patterns sits on a stone block. He holds a young child, dressed in a gold tunic, on his lap. The child raises a hand. To the right, a winged ox with a halo rests its head on an open book. Above and to the right, a winged bird, also with a halo, hovers over another open book. The background is a red tapestry with gold cloud-like motifs, and a blue section with golden stars. The scene is set on a green grassy ground.",
+    "scene_interpretation": "The scene likely depicts Saint Luke, the Evangelist, as indicated by the winged ox (his traditional symbol) and the open book. The crowned figure could represent King David, or a symbolic representation of royalty, perhaps alluding to the lineage of Christ. The child could be a representation of Christ, or a symbolic child figure. The presence of open books and winged creatures suggests a theme of divine inspiration and the Gospels.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Luke",
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f405/1937,1386,843,1569/full/0/default.jpg"
+}

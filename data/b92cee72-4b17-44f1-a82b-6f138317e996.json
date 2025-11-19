@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity, with the Virgin Mary kneeling in prayer to the left, her hands clasped. Before her, the Christ Child lies on the ground, with a golden halo. Joseph, holding a lantern, stands behind the child, looking towards him. Another figure, possibly a shepherd or a midwife, kneels beside the child, also in prayer. In the background, a simple structure with a wooden roof is visible, suggesting a stable. The overall setting is humble, with a basket containing swaddling clothes and a candle on a candlestick adding to the domestic atmosphere. The scene is framed by an illuminated border with foliate motifs.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/tc762gc0596%2FW719_000088_1200/4423,925,2694,3367/full/0/default.jpg"
+}

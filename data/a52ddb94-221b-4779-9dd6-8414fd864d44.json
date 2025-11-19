@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and cloaked in blue, holds the Christ Child on her lap. The Child reaches out towards a golden chalice presented by one of the three Magi, who are kneeling and offering gifts. The Magi are richly dressed, one wearing a crown and a green cloak, another a red cloak, and the third, who is kneeling, wears a blue garment and a yellow cloak. Behind them, a figure in a red cloak and blue tunic holds a candle. The background features dark, rough-hewn architecture with arched openings and a starry night sky with a radiant star above. The overall setting suggests a humble dwelling or stable.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14936/Vat.lat.14936_0137_fa_0065r.jp2/205,165,569,728/full/0/default.jpg"
+}

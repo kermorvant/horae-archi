@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, in a blue robe and with a golden halo, holds the Christ Child, who is also haloed and appears to be blessing. They are presented to an elderly man, likely Simeon, dressed in an orange robe. Behind Mary, a woman in a green robe carries a basket containing two doves, representing the offering. Another figure in a green robe stands to the right, holding a golden vessel. Above the figures, a green, decorative canopy is visible, suggesting an interior setting. The floor is tiled in a green and white checkered pattern. The overall scene is framed by an arched border with floral motifs and gold leaf.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/tc762gc0596%2FW719_000104_1200/4457,1199,2606,3095/full/0/default.jpg"
+}

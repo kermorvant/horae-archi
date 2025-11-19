@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, identified as Saint Luke, wearing a blue robe with gold trim and a green hat, writing in an open book with a quill. To his left, a winged bull, the symbol of Saint Luke, is depicted. The background features a patterned textile, suggesting an interior setting. The overall composition is characteristic of medieval manuscript illumination, likely illustrating the Gospel of Luke.",
+    "scene_interpretation": "Evangelist Luke",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lehigh_codex_017%2Flehigh_codex_017_jp2.zip%2Flehigh_codex_017_jp2%2Flehigh_codex_017_0023.jp2/3847,4910,3067,3306/full/0/default.jpg"
+}

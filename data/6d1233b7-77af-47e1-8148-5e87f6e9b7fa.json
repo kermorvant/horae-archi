@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Entombment of Christ. Christ's body, pale and marked with wounds, lies on a stone sarcophagus, draped in a white loincloth. A crown of thorns encircles his head. Around the sarcophagus, several figures with halos mourn his death. To the left, a man in blue and green gazes down, while another in orange and blue looks on. In the center, a woman in blue, likely the Virgin Mary, is overcome with grief, her head bowed. Beside her, another figure in pink holds a vessel, possibly for anointing. To the right, a man in red and blue with a beard looks towards Christ. The background is a decorative tapestry of gold and blue diamonds. The scene is framed by a decorative border with floral motifs.",
+    "scene_interpretation": "Entombment of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/47899931/1713,679,1328,1653/full/0/default.jpg"
+}

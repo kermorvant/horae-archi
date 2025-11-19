@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A king, adorned with a golden crown and a fur-trimmed robe of orange, sits on a throne draped with a blue cloth. He is receiving a document from an older man in ornate golden armor. Behind the king, several figures stand, some wearing hats, and further back, guards with spears are visible. The scene takes place in an interior space with a vaulted ceiling and decorative frieze. Through an arched opening in the background, a cityscape with towers and spires can be seen under a blue sky.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f220/930,942,977,1729/full/0/default.jpg"
+}

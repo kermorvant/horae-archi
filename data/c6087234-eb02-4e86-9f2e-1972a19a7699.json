@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting framed by a pointed arch. On the left, a woman, likely the Virgin Mary, is seated, her hands clasped in prayer, wearing a blue mantle over a red tunic. She has a halo. On the right, a man, possibly Saint Joseph, stands, holding an open book and placing his hand on the woman's head. He also has a halo. The background is a golden, diamond-patterned tapestry. Flanking the figures are two architectural elements resembling miniature towers or candelabra, with red bases and shafts, topped by conical roofs and crosses. The overall composition suggests a religious narrative within a stylized, possibly divine, space.",
+    "scene_interpretation": "The Visitation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "roof",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511790c/f261/457,372,1240,1311/full/0/default.jpg"
+}

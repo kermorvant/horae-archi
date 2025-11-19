@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, clad in a blue robe and white veil, cradles the Christ Child in her arms. Before them, one of the Magi kneels in adoration, his hand extended. Another Magus, wearing a pink hat and blue robe, holds a golden chalice and points upwards, seemingly guided by the star of Bethlehem, which radiates golden light from the upper right. A third Magus, with dark skin and a golden crown, also looks upwards, holding a golden vessel. In the background, a rustic stable structure with a thatched roof is visible. Beyond this, a walled city with towers and spires is depicted, with a procession of figures and horses approaching from the right. The overall setting is a landscape with rolling hills and trees.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0082/DEPOT/M601415401_MS0082_0083/3786,544,1738,2556/full/0/default.jpg"
+}

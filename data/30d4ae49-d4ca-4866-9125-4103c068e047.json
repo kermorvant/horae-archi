@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, with a halo, is seated on the left, leaning back against a draped curtain. The Christ Child, also with a halo, lies in a manger-like structure. To the right of the manger, a donkey and an ox are visible, their heads turned towards the child. Joseph, with a halo, is seated on the right, his hands clasped. The background features a decorative, swirling pattern resembling foliage, and a patterned border frames the entire scene.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036640k/f69/2323,626,711,824/full/0/default.jpg"
+}

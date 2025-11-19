@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a domestic interior, likely a bedroom, with rich pink drapery framing the upper portion. In the foreground, the Virgin Mary, dressed in blue and with a halo, holds the Christ Child. She is accompanied by two other figures: one on her left, a man in a red and green robe holding a staff, and another woman behind her, holding a spindle. Facing them is an older man with a beard, wearing a patterned robe, gesturing with his hands as if speaking. A white tablecloth covers a table, and behind it, a window reveals a glimpse of architectural elements, possibly a church facade with arched windows and a candle on a stand. The floor is made of wooden planks. The scene likely represents the Presentation of Christ in the Temple, with Mary and Joseph presenting the infant Jesus to Simeon, and possibly Anna.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/16032494/1835,414,1145,1965/full/0/default.jpg"
+}

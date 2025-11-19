@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bust of a male figure is depicted in profile, facing left. He has a halo, indicating sainthood or divine status. His hair is dark and appears to be tied back. He wears a blue garment underneath a red robe adorned with gold stripes. The background is a textured blue, possibly representing sky or a celestial realm, and is framed by a golden border.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0084/DEPOT/M601415401_MS0084_0020/3358,3895,234,623/full/0/default.jpg"
+}

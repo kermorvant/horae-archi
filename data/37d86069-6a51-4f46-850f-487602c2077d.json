@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with shepherds tending to a flock of sheep. Above them, three winged figures, likely angels, descend from a golden, sun-like emanation, unfurling scrolls. One angel, in pink, is positioned on the left, another in blue in the center, and a third in light blue on the right. The landscape features rolling green hills, a body of water with a boat, and in the distance, a red building with towers, possibly a castle or fortified town. The shepherds, dressed in medieval attire, are engaged in their task, with one pointing upwards towards the celestial figures. A dog rests near the sheep. The entire scene is framed by an ornate, gilded border with floral motifs.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326055/f107/505,343,1505,2252/full/0/default.jpg"
+}

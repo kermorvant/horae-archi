@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a simple wooden stable structure, open to a landscape. The Virgin Mary, in a blue robe and pink undergarment, stands with a halo, her hands clasped. Beside her, Saint Joseph, in a dark robe with a pink mantle, kneels. The Christ Child lies naked on the green ground, also with a halo. Rays of light descend from the upper part of the stable, suggesting divine intervention. The background shows a rolling landscape with trees and a distant body of water under a blue sky with stylized clouds.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024149q/f76/709,458,1225,1932/full/0/default.jpg"
+}

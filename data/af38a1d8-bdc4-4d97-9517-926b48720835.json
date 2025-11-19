@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the lifeless body of Christ after his crucifixion. Christ, with wounds visible, is laid across Mary's lap. Mary, wearing a white veil and a blue mantle over a golden robe, gazes down at her son with sorrow. Behind them, a golden cross stands against a landscape of rolling hills, a body of water, and stylized trees. The entire scene is framed by an architectural element resembling a golden archway with decorative columns on either side.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550130827/f225/189,216,1125,1242/full/0/default.jpg"
+}

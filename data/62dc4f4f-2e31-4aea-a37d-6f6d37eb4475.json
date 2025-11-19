@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts two figures kneeling on a green ground, with a richly patterned gold and checkered background suggesting an interior space. On the left, a figure in a brown robe with a white undergarment is shown from the back, with hands clasped in prayer. Above and behind this figure, a smaller figure also with hands clasped in prayer is visible within an arched recess. On the right, a figure in a blue and brown robe, with a halo, kneels with hands clasped. A scroll with red lettering emerges from behind the checkered background and curves towards the left figure. A decorative element resembling foliage frames the top of the scene. The overall impression is one of devotion and prayer within a richly decorated, possibly sacred, setting.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "arch",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_MS0186/DEPOT/B721816101_MS0186_0004/3882,871,1539,1979/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, adorned with a blue mantle and a golden halo, cradling the Christ Child. To the right, a tonsured monk, wearing a white habit and a golden halo, clasps his hands in prayer, holding a staff. The background is a rich gold, suggesting a divine or spiritual setting, with red and blue drapery behind the figures. The entire scene is framed by an ornate, gilded architectural border with decorative elements.",
+    "scene_interpretation": "Madonna and Child with a Devotee",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55007801k/f759/313,411,621,719/full/0/default.jpg"
+}

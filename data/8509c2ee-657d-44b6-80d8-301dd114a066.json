@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two haloed male figures stand in a landscape. The figure on the left, with a long grey beard and hair, wears a white robe with purple drapery and holds a saw. The figure on the right, with blonde hair and a beard, wears a white robe and holds a golden symbol resembling the letter 'L' or a carpenter's square. The background depicts rolling hills with distant architectural structures and trees. The scene is rendered with meticulous detail, suggesting a devotional or allegorical representation.",
+    "scene_interpretation": "Martyrdom of Saints Simon and Jude",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Simon",
+        "Saint Jude"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f150/233,244,1984,3180/full/0/default.jpg"
+}

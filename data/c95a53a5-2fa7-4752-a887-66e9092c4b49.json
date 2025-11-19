@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint George in combat with a dragon. Saint George, clad in armor and mounted on a horse, wields a sword to strike the beast. The dragon, a monstrous creature, is shown in a dynamic pose, seemingly defeated or in its final struggle. The background is a landscape with hills and possibly some structures, suggesting an outdoor setting. The overall composition is framed by an ornamental arch, typical of manuscript illumination.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9068094h/f115/3577,813,1199,1722/full/0/default.jpg"
+}

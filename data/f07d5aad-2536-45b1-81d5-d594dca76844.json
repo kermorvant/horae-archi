@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Stephen, shown kneeling and looking upwards with his arms outstretched, bleeding from wounds on his head. He is dressed in a golden robe over a white tunic. Around him, several figures are engaged in stoning him. One figure, seated on a rock in the background, holds a sword and appears to be directing the action. Others are throwing stones, some of which are visible on the ground. In the distance, a rocky landscape features a castle perched on a hilltop. The entire scene is framed by an ornate, gilded architectural border with Gothic tracery and grotesque figures. The inscription at the bottom reads 'Stephanus feriuit de lapida', referring to Stephen being stoned.",
+    "scene_interpretation": "The Martyrdom of Saint Stephen",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "pinnacle",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Saint Stephen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f549/910,677,3148,4437/full/0/default.jpg"
+}

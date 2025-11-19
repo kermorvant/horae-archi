@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an architectural setting. In the foreground, a bishop, clad in a blue chasuble and white alb, holds a chalice and appears to be officiating. Two acolytes in golden robes kneel beside him, one holding a processional cross or standard with a red flame-like element, and the other assisting with a book. Behind them, a tomb-like structure contains the figure of Christ, depicted with wounds from the Passion, rising from the tomb. In the background, a group of onlookers, some with hands clasped in prayer, observe the event. The architecture suggests an interior space with columns and arches, possibly a church or chapel.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Christ",
+        "Bishop",
+        "Acolyte"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326038/f271/535,319,900,1456/full/0/default.jpg"
+}

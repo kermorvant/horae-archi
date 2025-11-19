@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Catherine of Alexandria kneeling in prayer, her hands clasped. She is surrounded by the instruments of her martyrdom: two large breaking wheels, each with spokes and metal projections. To her left, an angel in a red tunic and blue wings hovers, holding a sword aloft, seemingly poised to strike. To her right, another angel, in a pink tunic and red wings, also hovers, holding a sword. Below the wheels, two figures are depicted in distress. On the left, an older man with a red cap and beard is shown kneeling, his face contorted in pain or fear. On the right, a younger man in a red tunic lies on his back, his head tilted upwards, also appearing to suffer. The background is a rich red tapestry with gold foliate patterns, and the ground is green and hilly. The presence of the breaking wheels and the angels with swords strongly suggests the martyrdom of Saint Catherine.",
+    "scene_interpretation": "Martyrdom of Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Catherine of Alexandria",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.7%2F036_B.11.7_f029v-f030r.jpg/2803,1637,958,744/full/0/default.jpg"
+}

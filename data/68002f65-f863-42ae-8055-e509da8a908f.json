@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic event, possibly a battle or a disaster, with figures submerged in an orange, watery expanse. Several individuals are shown with their heads and arms above the surface, some wearing helmets. A blue, tent-like structure with gold lettering is visible, containing a figure in armor. To the right, a group of onlookers stands on a green, grassy incline. One man in a blue tunic and yellow head covering gestures towards the scene, while a child in a yellow robe stands beside him. Another figure in a pink robe holds a book. The overall impression is one of turmoil and observation.",
+    "scene_interpretation": "The scene likely represents a biblical event involving water and conflict, possibly the drowning of Pharaoh's army in the Red Sea during the Exodus. The figures in the water, some with helmets, suggest soldiers, and the tent could be a royal pavilion. The onlookers on the hill might represent the Israelites witnessing the event. The text above the onlookers, 'Ely Ysrael', further supports this interpretation, meaning 'The Israelites'.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Israelites"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0415.jp2/2578,3473,1425,1407/full/0/default.jpg"
+}

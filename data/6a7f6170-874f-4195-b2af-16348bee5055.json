@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "Three men are depicted in a scene framed by an arched architectural element and foliage. The man on the left wears a cap and a tunic with decorative buttons, holding his hands clasped. The man in the center wears a hood, and the man on the right wears a tunic and a bag slung over his shoulder, facing the other two. Below them, the heads of several animals, possibly dogs or wolves, are visible. The scene is rendered in a woodcut style with hatching to create shading and texture. The overall impression is of a narrative scene, possibly from a secular story or a biblical episode involving animals.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0062/5214,2104,468,720/full/0/default.jpg"
+}

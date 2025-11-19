@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Virgin Mary, with a halo, is shown with her hands clasped in prayer before an open book. She is dressed in a blue mantle over a golden tunic. Behind her, a red canopy with gold ornamentation suggests a bed or a private chamber. On the right, the Angel Gabriel, with wings and a halo, kneels and addresses the Virgin Mary. He holds a scroll with the inscription \"Ave gratia plena\". Above and behind Gabriel, a small vignette shows a bearded head, possibly God the Father, within a blue cloud-like formation, radiating light. The architectural elements include columns and arches, framing the figures and suggesting an interior space. The overall scene is rich with decorative elements, including patterned fabrics and ornamental borders.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS1480/DEPOT/M601415401_MS1480_0027/4162,591,1635,2180/full/0/default.jpg"
+}

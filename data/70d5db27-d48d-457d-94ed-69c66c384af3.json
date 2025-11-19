@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a halo and wearing a blue robe adorned with gold stars, is seated on a red cushion. She holds the Christ Child, who is naked and also has a halo. To the left, an angel with white wings and a white robe kneels, with hands clasped in prayer. To the right, another angel, also with white wings, wears a red robe and plays a violin. The background is a patterned tapestry of red, blue, and gold squares, framed by an arched architectural element. The figures are set against a green ground with decorative yellow foliage. The scene is bordered by decorative elements typical of a manuscript illumination.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/HMML/HMML%2000018/HMML_00018_IMG_198r.JPG/1009,570,1469,2150/full/0/default.jpg"
+}

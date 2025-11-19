@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue robe, meeting Elizabeth, who is wearing a red mantle and a white veil. They are holding hands, suggesting a moment of greeting and recognition. Behind them, a rocky landscape with bare trees is visible, and to the right, a building with a red roof and stone walls stands. In the background, a figure in an orange robe is seated near the building. The overall setting appears to be outdoors, with architectural elements suggesting a nearby settlement or dwelling.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Cappon.218/Cappon.218_0171_fr_0071r.jp2/281,196,543,724/full/0/default.jpg"
+}

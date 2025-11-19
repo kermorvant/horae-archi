@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the central cross, flanked by two thieves on crosses. Soldiers are present, one on horseback holding a spear, and others are involved in the crucifixion process, including one who appears to be offering vinegar to Christ. Below the crosses, a group of mourners is gathered, including the Virgin Mary, who is being comforted by John the Evangelist, and other women. The sky is dark and cloudy, with a crescent moon visible. The setting is an outdoor landscape with a distant city.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105380373/f354/371,236,1730,2440/full/0/default.jpg"
+}

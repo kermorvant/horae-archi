@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A female saint, identified by her halo and monastic habit, stands in a landscape. She is clad in a voluminous white robe with a cowl, and holds a golden crozier in her left hand and a jeweled book in her right. The background depicts rolling hills, trees, and a small building with a pitched roof. The scene is rendered with delicate brushwork and gold accents, typical of medieval manuscript illumination.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f171/324,296,1969,3151/full/0/default.jpg"
+}

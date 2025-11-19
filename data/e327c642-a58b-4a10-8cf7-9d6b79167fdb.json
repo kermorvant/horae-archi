@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, depicted as a pilgrim or traveler, carries a staff and wears a tunic and hose. He is accompanied by a younger figure, possibly a child or an angel, who is seated on his shoulders. This figure holds a cross and a globe, symbolizing Christ's dominion. The scene is framed by an arched architectural element, suggesting a sacred or symbolic space. The background is filled with a stippled pattern, possibly representing a divine or celestial realm. The overall composition evokes a sense of journey and divine guidance.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0086/1103,735,407,619/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, seated on a donkey, cradles the Christ Child in her arms. Saint Joseph walks beside them, guiding the donkey and carrying a staff. The figures are rendered with halos, indicating their sacred status. The background is a grid pattern, suggesting a stylized or abstract setting, possibly representing a woven tapestry or a symbolic representation of space. The overall composition evokes a sense of peaceful travel and divine protection.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_Jacquemart_Andre/751085428_MS0001(254)/DEPOT/751085428_MS0001(254)_0061/1025,699,1162,1127/full/0/default.jpg"
+}

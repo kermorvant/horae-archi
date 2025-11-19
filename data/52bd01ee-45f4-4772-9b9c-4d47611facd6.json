@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, with a halo, rides a donkey, holding the Christ Child. Saint Joseph, with a halo and a long beard, walks beside them, leading the donkey. In the background, a walled city with towers and crenellations is visible, suggesting their destination or a place of refuge. A bare tree stands in the middle ground, and the landscape is dotted with bushes. A figure, possibly an angel or a demon, is perched atop a tower in the far left, observing the scene. The ground beneath the donkey's hooves is littered with small objects, possibly provisions or debris from their journey.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "battlement",
+        "crenellation",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_MS0091/DEPOT/330636101_MS0091_0062/858,570,1655,2334/full/0/default.jpg"
+}

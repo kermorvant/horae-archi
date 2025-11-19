@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. He is shown with a halo, wounds from the crucifixion, and a loincloth. To the left of the cross, the Virgin Mary, dressed in blue, is shown with a halo, looking sorrowful, and is supported by another figure. To the right of the cross, a bearded man in blue and red robes gestures, possibly addressing the scene, with another figure behind him. In the background, a stylized cityscape with towers and red walls is visible under a blue sky dotted with stars. The ground is depicted as brown earth with some green foliage.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS21%2FBMC_MS21_jp2.zip%2FBMC_MS21_jp2%2FBMC_MS21_0137.jp2/2500,1379,2295,3432/full/0/default.jpg"
+}

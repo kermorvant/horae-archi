@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A nude woman with long hair stands beside a fountain, holding a cup. She appears to be drawing water from the fountain. To the right, a bearded man wearing a crown and ermine-trimmed robe looks out from a window, gesturing with his hands. Behind the woman, a pile of folded cloth is visible. The scene is framed by decorative text and architectural elements.",
+    "scene_interpretation": "This scene likely depicts a moment from the Book of Psalms, possibly related to David's lament or prayer, given the Latin inscription visible in the upper portion of the image. The woman at the fountain could symbolize purity or a moment of personal reflection, while the man in the window might represent a figure of authority or divine observation.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f94/4831,3504,2467,1281/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on their journey, likely the Flight into Egypt or the Nativity. The Virgin Mary, with a halo, is seated on a donkey, cradling the Christ Child. She is wrapped in a blue mantle. Leading the donkey is Saint Joseph, depicted as an older man with a beard, wearing a dark hat and a red robe over a yellow tunic. He holds a staff. In the background, a moon hangs in a twilight sky with clouds. A rural landscape unfolds with trees and a village with thatched-roof houses. To the right, a stone building with arched windows and a tiled roof is visible, suggesting a town or settlement.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525011578/f206/264,148,403,620/full/0/default.jpg"
+}

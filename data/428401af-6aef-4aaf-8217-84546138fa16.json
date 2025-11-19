@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed woman, likely a saint, stands in a rocky, outdoor landscape. She wears a long, draped gown and a mantle. To her right, a stylized architectural element resembling a reliquary or a small shrine is depicted. The background features rough, textured rocks and a suggestion of foliage or trees on the left. The overall scene is rendered in a simplified, illustrative style typical of medieval manuscripts.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034543v/f203/810,1073,521,672/full/0/default.jpg"
+}

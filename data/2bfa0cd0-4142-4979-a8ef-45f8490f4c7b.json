@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "A crowned king, adorned in a fur-lined robe and a red mantle, sits on a cushion, looking upwards with his hand to his forehead, seemingly in contemplation or prayer. Before him, on a wooden lectern, lies an open book with musical notation. To his left, a harp stands nearby, and a Gothic-style window reveals a landscape with trees and distant castles. To the right, a blue tapestry with golden crowns and rays hangs behind him, suggesting royalty. The scene is framed by architectural elements, including arches and columns, and the overall setting appears to be an interior space opening onto an exterior view.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel",
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "roof",
+        "wall",
+        "arcade",
+        "capital",
+        "microarchitecture"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0032/bge-lat0032_068r.jp2/681,500,3013,4120/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a woman, likely Saint Anne, seated and holding a book or psalter, with an open book and a closed book on a round table beside her. To her right, a younger woman, possibly the Virgin Mary, approaches with a gesture of reverence or inquiry. Behind Saint Anne is a structure resembling a hearth or a small building with a chimney. The background is rendered as a draped fabric or tapestry, suggesting an indoor setting. The overall scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Annunciation to Saint Anne",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Saint Anne",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032335w/f22/1282,148,530,791/full/0/default.jpg"
+}

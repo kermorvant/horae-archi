@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a Last Supper, with Christ seated at a table surrounded by his disciples. Christ, with a halo, is in the center, leaning towards a disciple who rests his head on Christ's shoulder. The disciples, also with halos, are seated around the table, some gesturing or in conversation. The setting appears to be an interior space with wooden beams and columns, and a green curtain on the left. A dog lies on the tiled floor in the foreground, gnawing on a bone. A small table with a ewer and basin is placed to the right.",
+    "scene_interpretation": "Last Supper",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Disciple"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xw613th3364%2FW441_000074_1200/4436,782,2766,4683/full/0/default.jpg"
+}

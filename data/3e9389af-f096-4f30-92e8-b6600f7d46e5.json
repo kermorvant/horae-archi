@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a crowned king, identified as David, kneeling in prayer with his hands clasped. He is richly attired in a blue robe with a red mantle lined with ermine, and wears a golden crown. To his left lies a golden harp. The background features a rocky landscape with trees and birds, including cranes and swans. Above, in a celestial vision framed by fiery red seraphim, a bearded figure, likely God the Father, is depicted. In the distance, a walled city with numerous towers and spires is visible, with a procession of figures and horse-drawn carts moving towards it. The overall scene is set within an arched frame decorated with floral motifs and gold leaf.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502614h/f369/696,272,1297,2085/full/0/default.jpg"
+}

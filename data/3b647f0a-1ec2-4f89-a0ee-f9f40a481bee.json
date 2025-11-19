@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts Saint Sebastian, a male figure with blond hair and a halo, pierced by numerous arrows. His torso is visibly wounded, with blood flowing from the wounds. He is draped in a white cloth around his lower body. The scene is framed by an architectural element resembling an archway, with a golden border. Behind the figure, a landscape with green fields and a blue sky with clouds is visible. The figure's posture and the arrows suggest martyrdom.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000009/MAA_00009_119.jpg/2168,509,489,610/full/0/default.jpg"
+}

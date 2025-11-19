@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity in a symbolic representation. God the Father, crowned and bearded, holds the crucified Christ, whose body is depicted in a stylized manner. The Holy Spirit is suggested by a dove-like form above Christ's head, though not explicitly rendered as a distinct figure. Below, a seated figure, likely a prophet or saint, is shown in prayer or contemplation, holding a scroll with the inscription \"Et deus erat\". The background is a dark, starry sky, with a stylized landscape featuring trees and a small building in the distance. A band with Latin inscriptions encircles the scene, reading \"GLORIA PATRI ET FILIO ET SPIRITUI SANCTO\" and \"VERBVM CARO FACTVM EST\".",
+    "scene_interpretation": "The Holy Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "Christ",
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/16929149/386,401,1434,2201/full/0/default.jpg"
+}

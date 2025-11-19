@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts Christ, crowned with thorns and bearing wounds on his body, likely from scourging. He is shown seated, with his hands bound by chains. To his left, a column is visible, to which a rope is tied, suggesting his binding. To his right, a whip or flagellum hangs from a pole. The scene is framed by architectural elements, suggesting an interior setting or a symbolic representation of his Passion.",
+    "scene_interpretation": "The Flagellation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00052/320,259,622,675/full/0/default.jpg"
+}

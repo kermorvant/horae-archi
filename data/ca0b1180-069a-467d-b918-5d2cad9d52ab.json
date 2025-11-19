@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, in a blue mantle, holds the Christ Child, who is reaching towards a figure identified as Simeon, an elderly man in an orange robe wearing a crown. To the left, a woman in a yellow robe carries a basket containing three doves, likely an offering. Behind them stand two other figures, one with a beard and a blue cap, and another with a white headdress. The figures are positioned within an architectural setting characterized by a colonnade with pointed arches and blue vaulted ceilings, suggesting a sacred or ceremonial space. The floor is tiled in a checkerboard pattern. A hanging lamp is suspended from the ceiling.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "vault",
+        "roof",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84496839/f74/883,633,1927,2216/full/0/default.jpg"
+}

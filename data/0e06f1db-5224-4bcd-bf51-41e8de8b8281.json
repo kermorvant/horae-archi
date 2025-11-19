@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary and the Apostles gathered in a room. The Virgin Mary, dressed in blue, is at the center, with her hands clasped. Around her are figures in various colored robes, all with halos, suggesting they are saints or apostles. One figure, an older man with a beard, kneels before Mary with his hands raised in supplication or awe. Above them, through a large arched window, the Holy Spirit is depicted as a dove descending with rays of light, symbolizing divine inspiration. The architecture suggests an interior space, possibly a church or a hall, with arched windows and decorative elements.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "column"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0019/DEPOT/B441096101_MS0019_0102/3882,566,1429,2182/full/0/default.jpg"
+}

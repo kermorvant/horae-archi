@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene is divided into two parts by decorative architectural elements. On the left, a figure with a halo, possibly the Virgin Mary, is seated beneath a tree, gesturing with open hands. An angel with wings is shown in mid-air, reaching towards her. On the right, another winged angel is depicted, holding an open book and looking downwards. Both figures are seated on what appear to be clouds or rocky outcrops, set against a stippled background suggesting a celestial or ethereal space. The overall composition is framed by stylized, curved architectural motifs.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0055/1282,3357,1544,696/full/0/default.jpg"
+}

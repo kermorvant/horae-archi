@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body showing wounds and blood. To the left stands the Virgin Mary, draped in a blue mantle, her face etched with sorrow. To the right is Saint John the Evangelist, his hands clasped in prayer, wearing a red cloak over a purple tunic. The background features a stylized landscape with rocky outcrops and distant buildings, suggesting a setting outside a city. The overall composition conveys the solemnity and tragedy of the event.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.11%2F010_B.13.11_f007v-f008r.jpg/542,215,897,1350/full/0/default.jpg"
+}

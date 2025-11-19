@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A tonsured cleric, wearing a chasuble and stole, kneels and drinks from a chalice, his head tilted back in an act of devotion. To his left, another figure, possibly a monk, looks on. In the background, behind a railing, stand three women, one of whom appears to be holding a book. The scene is set within an architectural space, suggested by columns and a wall on the left, and a draped table with a lamp on the right. The overall impression is one of a religious ritual or devotional practice.",
+    "scene_interpretation": "Communion",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00338/111,602,290,342/full/0/default.jpg"
+}

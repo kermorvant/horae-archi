@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures, including the Virgin Mary and the Apostles, gathered together in prayer. Above them, a dove, representing the Holy Spirit, descends amidst rays of golden light and tongues of fire. The figures are shown with their hands clasped in devotion, looking upwards towards the divine manifestation. The architectural setting is suggested by a canopy-like structure above, with decorative elements and what appear to be hanging lamps or reliquaries. The overall atmosphere is one of spiritual fervor and divine inspiration, characteristic of the Pentecost event.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000011/MAA_00011_077.jpg/1144,307,1000,1273/full/0/default.jpg"
+}

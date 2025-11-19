@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, draped in a blue mantle, presents the Christ Child, swaddled in white cloth, to an elderly man wearing a bishop's mitre and ornate robes. Behind the Virgin Mary stand two women, one holding a basket with two doves. Behind the bishop, a man in a green tunic holds a candle. The figures are positioned within an architectural setting characterized by golden columns supporting arches, with circular windows featuring intricate tracery above. The overall impression is one of solemnity and religious observance.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_131/1092,664,1369,1888/full/0/default.jpg"
+}

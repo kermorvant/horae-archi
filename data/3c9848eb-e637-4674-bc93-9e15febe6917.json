@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, surrounded by a group of men. The Virgin Mary wears a crown and is seated on a decorative cushion. The Christ Child is held in her arms. The men are gathered around them, some looking towards the Virgin and Child, others engaged in conversation or contemplation. In the foreground, a bearded man reclines, his head supported by his hand, appearing to be in deep thought. Behind the figures, architectural elements suggestive of buildings and a tree are visible. The overall composition suggests a devotional scene, possibly representing a moment of contemplation or prayer related to the Virgin and Child.",
+    "scene_interpretation": "Adoration of the Virgin and Child",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0078/1054,451,647,1192/full/0/default.jpg"
+}

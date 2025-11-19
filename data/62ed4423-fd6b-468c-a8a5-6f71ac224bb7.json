@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a richly decorated architectural setting. On the left, the Virgin Mary, haloed and dressed in flowing robes, is seated before a lectern with an open book. Her left hand rests on the book, while her right hand is raised in a gesture of surprise or acceptance. Behind her is a bed with a pillow. To the right, the Angel Gabriel, also haloed and winged, approaches with a staff in his left hand and points towards Mary with his right. A banner unfurls above them, inscribed with \"Ave gratia plena dominus tecum\" (Hail, full of grace, the Lord is with thee). Above the angel, a dove, representing the Holy Spirit, descends. The architecture features elaborate Gothic tracery windows, columns, and ornate pinnacles, suggesting a sacred or noble interior.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "pinnacle",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000010/MAA_00010_022.jpg/2104,219,881,1309/full/0/default.jpg"
+}

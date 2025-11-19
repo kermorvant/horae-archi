@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an oval frame, suggesting a miniature within a manuscript. In the center, a figure in green, wearing a white headdress, is embraced by another figure in red. To the left, a figure in blue holds a book. Several other figures, all with golden halos, surround the central group. The floor is tiled with a checkerboard pattern. The overall impression is one of a religious or devotional gathering, possibly representing a biblical event or a saintly encounter.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/my189pm5441%2FW202_000168_1200/3614,3916,1369,1154/full/0/default.jpg"
+}

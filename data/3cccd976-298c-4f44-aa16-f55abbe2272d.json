@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a figure with a halo, suggesting sainthood, holding a serpent coiled in its hand. To the right, a griffin-like creature with feathered wings and a bird's head is perched on the figure's arm. The figure is robed and appears to be looking to the right. Below the figures, a banner displays text in Gothic script. The overall scene is stylized and lacks detailed architectural or environmental context, focusing on the symbolic representation of the figures and their attributes.",
+    "scene_interpretation": "The figure with the halo and the serpent is likely Saint Dominic, whose attribute is often a dog or a serpent, symbolizing his triumph over heresy. The griffin can symbolize Christ or divine power. The text on the banner, \"fub chyreparatio, du grant peche et hon\", likely refers to \"under preparation, of great sin and honor\", suggesting a theme of redemption or spiritual struggle.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Dominic"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0085/925,2899,779,1252/full/0/default.jpg"
+}

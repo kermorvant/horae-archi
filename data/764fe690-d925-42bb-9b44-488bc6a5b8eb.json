@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts an interior space, likely a chapel or sacristy, where three figures are present. On the left, a golden reliquary, adorned with architectural details and figures, rests on a draped altar. A candle in a candlestick illuminates the reliquary. To the right of the altar, a monk in a black habit stands with hands clasped, observing the scene. In the foreground, a man kneels with his hands clasped in prayer, his head tilted upwards. He is dressed in a red tunic and white undergarment, with yellow leg wrappings. Beside him, another man, leaning on two crutches, also clasps his hands in prayer. He wears a purple tunic and red leggings, and his legs appear bandaged. The background features a wall with arched windows, suggesting an ecclesiastical setting. The overall scene conveys a devotional act of prayer and supplication, possibly seeking healing or intercession.",
+    "scene_interpretation": "Miracle of Healing",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "altar",
+        "canopy"
+    ],
+    "persons": [
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/550ea168-d8c9-4742-8e16-e1358479977c/1838,1097,1077,685/full/0/default.jpg"
+}

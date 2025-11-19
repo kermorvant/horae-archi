@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts a religious service within a church interior. In the foreground, a figure in a black monastic habit is seated, facing away from the viewer, towards an altar. In front of the altar, a group of four figures, likely clergy or choir members, are standing and singing from an open book. They are dressed in white albs and blue and gold vestments. Behind them, several figures in black hoods are observing. To the left, a person in a blue robe stands with hands clasped in prayer, looking towards the altar. The background reveals architectural elements of the church, including arched windows with tracery and a vaulted ceiling. The altar itself is adorned with candles and a crucifix.",
+    "scene_interpretation": "Religious Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "vault",
+        "altar",
+        "column",
+        "capital",
+        "roof"
+    ],
+    "persons": [
+        "Clergy",
+        "Monk",
+        "Choir member"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0031/bge-lat0031_0139r.jp2/724,533,2869,3680/full/0/default.jpg"
+}

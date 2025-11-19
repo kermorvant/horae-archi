@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Trinity, with God the Father and God the Son seated side-by-side, and the Holy Spirit as a dove descending between them. They are positioned above the Virgin Mary, who is shown in prayer with her hands clasped. God the Father holds a book, while God the Son holds a globe surmounted by a cross. Surrounding the central figures are rows of people, depicted in stylized orange robes, suggesting a heavenly host or congregation. Below, on the left, a group of men are gathered, one holding what appears to be the Ten Commandments tablets, and another holding a scroll or document. On the right, a king plays a harp, accompanied by other figures. The overall composition suggests a divine revelation or a scene of worship.",
+    "scene_interpretation": "The Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God the Father",
+        "God the Son",
+        "Holy Spirit",
+        "Virgin Mary",
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892325/453,242,1139,1199/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of people gathered under a large, decorative arch. In the foreground, a person kneels, holding a basket filled with what appear to be fruits or small objects. Other figures surround them, some interacting with each other, while others look on. The figures are dressed in medieval attire, including hats and tunics. The background is filled with a dense pattern of dots, suggesting a textured or perhaps celestial setting. The overall impression is one of a communal gathering or a scene of commerce or distribution.",
+    "scene_interpretation": "The scene does not depict a specific biblical or devotional event that can be definitively identified from the visual cues alone. It appears to be a genre scene, possibly representing a market, a charitable distribution, or a general gathering of people.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0076/5022,663,395,693/full/0/default.jpg"
+}

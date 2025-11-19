@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher carrying the Christ Child across a body of water. Saint Christopher, a large, bearded man wearing a red tunic and a golden cloak, is shown wading through the water, leaning on a staff. The Christ Child, with a halo, sits on his shoulders, also wearing a golden garment and raising a hand in blessing. The background features a stylized landscape with blue water, green hills, and a dark blue sky with scattered gold dots. The entire scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53000319s/f121/294,197,478,740/full/0/default.jpg"
+}

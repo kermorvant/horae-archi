@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a crowned figure, likely a king, kneeling on the ground. He has a long beard and is holding a smaller figure, possibly a child or a representation of a divine entity, against his chest. The kneeling figure is richly adorned with patterned clothing and a crown. Behind him, a tent-like structure with ornate detailing is visible. To the right, a book rests on a stand, and above it, a haloed figure with a beard is depicted, radiating light. The overall setting appears to be within an architectural frame, suggesting an indoor or partially enclosed space.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Dijon/Bibliotheque_municipale/B212316101_MS2978/DEPOT/B212316101_MS2978_0060/3203,573,1310,1827/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A skeletal figure, representing Death, wields a scythe, poised to strike down a group of fallen figures. The scene is set outdoors, with trees and a distant building visible. The fallen figures appear to be men in medieval attire, some with their heads bowed or turned away, suggesting their demise. The overall impression is one of mortality and the indiscriminate nature of death.",
+    "scene_interpretation": "Dance of Death",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0071/5064,1869,598,1275/full/0/default.jpg"
+}

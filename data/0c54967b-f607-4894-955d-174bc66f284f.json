@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an architectural setting. In the center, a figure with a beard, likely Christ, is shown with his head turned towards another figure who is whispering in his ear. Several other figures surround them, some looking on, others seemingly engaged in conversation or prayer. In the foreground, two figures are kneeling or seated, one appearing to hold a bowl. The background features architectural elements suggestive of Gothic style, with pointed arches and pinnacles, hinting at a religious or ecclesiastical space.",
+    "scene_interpretation": "Kiss of Judas",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "pinnacle",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0031/6039,2392,602,1015/full/0/default.jpg"
+}

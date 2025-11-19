@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The image depicts an interior architectural space, likely a church or chapel, characterized by Gothic architectural elements. Multiple pointed arches are visible, supporting what appears to be a vaulted ceiling. Intricate tracery adorns the upper sections of the architecture, suggesting a sophisticated design. A heavy curtain hangs centrally, obscuring a portion of the view and creating a sense of mystery or privacy. The overall impression is one of solemnity and grandeur, typical of religious edifices.",
+    "scene_interpretation": "Religious Interior",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "vault",
+        "tracery_window",
+        "arch",
+        "door"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0157/5688,2463,474,484/full/0/default.jpg"
+}

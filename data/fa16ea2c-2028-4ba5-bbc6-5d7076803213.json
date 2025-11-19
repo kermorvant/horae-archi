@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The central figure, Christ, is depicted with a halo and long hair, holding an orb topped with a cross in his left hand and raising his right hand in a gesture of blessing. He is surrounded by several figures, some appearing to be angels or saints, with distinct facial features and hairstyles. The scene is framed by an architectural element resembling an arch with decorative tracery, suggesting a sacred or elevated setting. The overall composition conveys a sense of divine authority and presence.",
+    "scene_interpretation": "Christ Pantocrator",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0088/1412,752,499,635/full/0/default.jpg"
+}

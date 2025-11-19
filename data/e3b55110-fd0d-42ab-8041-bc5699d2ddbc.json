@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Transfiguration of Christ on a rocky mountaintop. Christ, bathed in a golden halo, stands with his arms outstretched. Below him, three disciples kneel in awe and supplication, their faces turned upwards. To the left and right of Christ, two figures appear in clouds, possibly representing Moses and Elijah. The landscape is barren, with sparse vegetation and rocky outcrops, set against a pale blue sky. The overall impression is one of divine revelation and awe.",
+    "scene_interpretation": "Transfiguration",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Moses",
+        "Elijah"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3769/Vat.lat.3769_0076_fa_0037v.jp2/1056,419,1353,2339/full/0/default.jpg"
+}

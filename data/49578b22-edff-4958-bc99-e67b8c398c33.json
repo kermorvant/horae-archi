@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely a saint, stands within an architectural setting. He is dressed in a dark robe and holds a book. To his left, an ornate table or lectern is visible, topped with a patterned cloth and a staff. The background features a checkered floor and an arched opening revealing a landscape with stylized trees. To the right, a window with tracery is depicted. The overall scene suggests a devotional or contemplative moment.",
+    "scene_interpretation": "Saint in contemplation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Douai/Bibliotheque_municipale/591786101_MS0182/DEPOT/591786101_MS0182_0161/3333,747,1319,1433/full/0/default.jpg"
+}

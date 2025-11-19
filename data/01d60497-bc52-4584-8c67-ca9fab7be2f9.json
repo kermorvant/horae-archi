@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure with curly blond hair, dressed in a blue tunic and a red cloak, holds a golden chalice containing a green dragon. The figure's right hand is raised in a gesture of blessing or teaching. The background is a dark blue curtain with a pattern of horizontal lines and vertical elements, suggesting an interior setting. The scene is framed by a golden border.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0037/DEPOT/751085109_LDUT_0037_0146/1303,1797,659,659/full/0/default.jpg"
+}

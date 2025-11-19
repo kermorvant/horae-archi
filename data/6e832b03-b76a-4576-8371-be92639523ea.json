@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two women in conversation, with one, dressed in blue, reaching out to touch the hands of the other, who is clad in a pink robe and white veil. The figures are positioned in an outdoor setting with a wooden fence and some foliage to the left, and buildings to the right. The architecture includes a pink building with visible windows and a grey stone structure with a large arched opening. The overall impression is one of a tender encounter between two individuals.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421525/325,498,605,664/full/0/default.jpg"
+}

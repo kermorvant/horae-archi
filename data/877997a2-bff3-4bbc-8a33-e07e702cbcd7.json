@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts three men in prayer, set within an architectural context that suggests a religious or civic building. Two men are positioned behind a railing, one wearing a hat and the other a helmet. A third man kneels in front of the railing. The background features stylized architectural elements, including what appear to be small towers or decorative pinnacles, and arched openings. The overall impression is one of devotion or supplication within a structured environment.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "pinnacle",
+        "undefined_element"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0086/5894,528,652,1292/full/0/default.jpg"
+}

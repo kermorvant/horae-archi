@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a nude male figure, likely Christ, pierced by multiple arrows. He has a golden halo with red accents, indicating his divinity. The figure is bound by ropes and draped with a white cloth. The background is a stylized landscape with green hills and a blue sky. The figure appears to be suffering, with his head bowed. The arrows are depicted as wooden shafts with fletching, and red markings suggest wounds.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_060_059/DEPOT/210546201_S_060_059_0106/3341,1412,803,1142/full/0/default.jpg"
+}

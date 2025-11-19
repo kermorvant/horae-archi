@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. A robed figure, likely a priest, holds the Christ Child over a circular basin. Another figure, possibly Joseph, stands behind the Virgin Mary, who is cloaked in blue and looking down. A fourth figure, dressed in a hooded robe, kneels and supports the child. The background features a stone wall with arched openings and a green curtain. The floor is tiled in a diamond pattern. The overall scene is rendered with a flat, stylized aesthetic typical of medieval illumination.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_107%2Flewis_e_107_jp2.zip%2Flewis_e_107_jp2%2Flewis_e_107_0164.jp2/1523,2072,4981,6921/full/0/default.jpg"
+}

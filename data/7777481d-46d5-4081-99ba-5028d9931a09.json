@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael, an archangel with golden hair and a halo, clad in a white tunic and an orange cloak, standing over a black, dragon-like creature that lies on its back amidst flames. Saint Michael is shown in profile, with his head tilted downwards, his right foot pressing on the creature's neck. He holds a golden cross on a staff in his left hand and a white shield adorned with red fleur-de-lis in his right. His wings are spread, one red and one green, and he wears armor on his legs. The background features a lush green landscape with trees and rolling hills, and in the distance, a fortified settlement with towers and roofs is visible under a starry blue sky. The lower part of the scene shows flames licking at the base of the dragon.",
+    "scene_interpretation": "Saint Michael Slaying the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/676f8eeb-3a0a-4041-978a-cc4e65d1af8d/2303,1289,1856,2779/full/0/default.jpg"
+}

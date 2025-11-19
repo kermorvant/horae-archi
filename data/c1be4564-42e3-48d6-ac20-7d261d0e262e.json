@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body emaciated and draped in a white loincloth. He has a halo and a sorrowful expression. To the left, a group of women, including the Virgin Mary in blue, are shown in mourning, with one woman supporting another. To the right, a figure in a regal robe and headdress, possibly a Roman official or a representative of the Jewish authorities, gestures towards the cross. A skull and bones are visible at the foot of the cross, symbolizing Golgotha, the \"place of the skull.\" The background is a stylized landscape with green trees and a blue sky dotted with stars and a crescent moon, suggesting a celestial or symbolic setting.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000004/MAA_00004_044.jpg/1185,252,600,1215/full/0/default.jpg"
+}

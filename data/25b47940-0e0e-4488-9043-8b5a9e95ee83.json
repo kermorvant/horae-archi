@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and vestments, stands with a book in his left hand and his right hand raised in blessing or teaching. He is depicted with a halo, indicating sainthood. Facing him, a woman kneels with her hands raised in supplication or prayer. The figures are set against a decorative blue background with a gold diamond pattern, framed by an ornate border of red and blue. The scene is likely a devotional image, possibly depicting a saint interacting with a supplicant.",
+    "scene_interpretation": "Saint in Benediction",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/10507325/805,418,983,971/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher wading through a body of water, carrying the Christ Child on his shoulders. Saint Christopher, a large, bearded man with a halo, is dressed in a blue cloak over a golden tunic and is holding a tall staff. The Christ Child, also with a halo, is seated on his shoulders, looking upwards. The water is depicted with ripples and small fish. The background features rolling green hills, a body of water with islands, and a small building with a tower and arched windows in the distance. The overall impression is one of a perilous journey across a river.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower"
+    ],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_112%2Flewis_e_112_jp2.zip%2Flewis_e_112_jp2%2Flewis_e_112_0193.jp2/2119,1330,1553,1761/full/0/default.jpg"
+}

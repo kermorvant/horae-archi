@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable structure. The Virgin Mary, adorned with a blue mantle and golden halo, is shown reclining on an orange cloth, her hands clasped in prayer. She gazes down at the Christ Child, who is lying in a manger, reaching upwards. To the right of Mary sits Saint Joseph, depicted as an elderly man with a white beard, wearing a blue head covering and a pink robe, his arms crossed. A white horse and a golden ox are present in the foreground, with the ox wearing a small crown. The stable has a thatched roof supported by wooden beams, and the background features a rocky landscape with some sparse vegetation. The entire scene is framed by a decorative border.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84496839/f60/1042,592,1770,2129/full/0/default.jpg"
+}

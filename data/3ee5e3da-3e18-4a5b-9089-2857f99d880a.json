@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, clad in a blue mantle with gold trim, rides a donkey, holding the Christ Child who is nuzzling her cheek. Saint Joseph, wearing a red tunic and a yellow cloak, walks beside the donkey, guiding it with a stick. In the background, a rocky mountain looms, and a castle with towers and spires is visible in the distance, nestled amongst rolling hills and trees. The entire scene is framed by an arched border with decorative elements and text, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_151/567,146,819,1271/full/0/default.jpg"
+}

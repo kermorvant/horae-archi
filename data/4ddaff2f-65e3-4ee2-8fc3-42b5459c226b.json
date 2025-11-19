@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a bathing woman, likely Bathsheba, in a pool of water, attended by a servant offering a bowl of fruit. Above them, a king, possibly David, observes from a window, while in the background, a battle scene unfolds. The architecture is ornate, with Gothic tracery and decorative elements framing the different vignettes. The overall composition suggests a narrative of temptation and its consequences.",
+    "scene_interpretation": "Bathsheba bathing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "tracery_window",
+        "wall",
+        "roof",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Bathsheba",
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421870/927,253,1170,1613/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, bearing stigmata on his hands and side, standing with a processional cross. He is surrounded by three figures. Two kneeling figures in elaborate armor and blue robes are looking up at Christ. A third figure, standing and also armored, holds a spear and looks towards Christ. In the background, a rocky landscape with some vegetation is visible, and beyond that, a city with towers and spires. The overall impression is one of reverence and perhaps a moment of revelation or judgment.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0251.jp2/1931,492,1419,2569/full/0/default.jpg"
+}

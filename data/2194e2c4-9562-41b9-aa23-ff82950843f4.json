@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bishop, adorned in a mitre and ornate golden cope lined with blue, stands holding a crozier. He gestures with his right hand towards a woman who is lying down, covered by a white veil. The background depicts a dark, interior space with architectural details suggesting a room or chamber, possibly within a religious building. The bishop's gesture and the woman's posture suggest a scene of healing or absolution.",
+    "scene_interpretation": "Healing of the Sick",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537210/46200865.tif/929,2311,809,654/full/0/default.jpg"
+}

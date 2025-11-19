@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a figure lying on a bed, with their eyes covered by another figure who appears to be an angel, indicated by the presence of wings. A third figure, to the left, also reaches towards the eyes of the reclining figure. The background suggests an architectural setting with columns and what might be a wall or battlement. The reclining figure is dressed in a blue garment with gold accents, lying on a red bedspread adorned with gold motifs. The overall impression is one of distress or perhaps a spiritual vision being obscured.",
+    "scene_interpretation": "Obscuring of Vision",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_095v.jp2/978,4818,1396,2838/full/0/default.jpg"
+}

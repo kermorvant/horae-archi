@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a richly decorated architectural setting. On the left, the Virgin Mary, clad in a blue robe, is shown within a tent-like structure draped with red and green fabrics. She is looking downwards with her hands crossed over her chest, and a book lies open on a lectern before her. A dove, symbolizing the Holy Spirit, hovers near her. On the right, the Angel Gabriel, dressed in a pink robe and adorned with large blue and gold wings, approaches. He holds a scroll inscribed with text, and his gaze is directed towards Mary. The background reveals a Gothic architectural interior with pointed arches, columns, and windows, suggesting a church or chapel.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "window",
+        "roof",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550008032/f77/220,134,559,896/full/0/default.jpg"
+}

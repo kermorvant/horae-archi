@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Trinity, with God the Father holding the crucified Christ. God the Father is shown as an elderly man with a beard, wearing a blue robe over a red tunic, and a golden halo with rays emanating from it. Christ is depicted as a nude figure, arms outstretched on a wooden cross, with a crown of thorns and a golden halo. He is positioned in front of God the Father, whose large blue robe envelops the lower part of the scene. The background is a rich gold pattern of squares, each containing a stylized cross-like motif in red. Below the figures, a fragment of architectural structure is visible, suggesting a platform or altar, with a checkered pattern at its base.",
+    "scene_interpretation": "The Trinity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/qz701mh4428%2FW170_000232_1200/4714,1441,2532,3802/full/0/default.jpg"
+}

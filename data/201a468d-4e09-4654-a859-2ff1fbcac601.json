@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts two figures seated on a richly decorated red carpet. On the left, a crowned woman, likely the Virgin Mary, is shown with her hands clasped in prayer, her head bowed. She wears a blue gown beneath a white mantle. On the right, a bearded man, presumably Christ, is seated, holding a golden orb topped with a cross. He is dressed in a white robe and raises his right hand in a gesture of blessing or speech. Behind them, a red tapestry with gold ornamentation serves as a backdrop. To the far left and right, architectural elements suggest a grand setting, with columns and what appear to be seraphim or winged figures in the upper corners, rendered in red and gold.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1269564/622,1239,2040,2552/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "An elderly man with a white beard, dressed in a blue robe and a green cloak, is seated on a throne-like chair, reading an open book. The chair is ornate, with gold detailing and a blue fabric backdrop adorned with fleur-de-lis. To his left, a golden lectern holds another book. The background features a blue wall with arched decorative elements and a tiled floor. Two small, furry, monkey-like creatures are visible, one on the armrest of the chair and another standing to the right. The scene is framed by an arched border with gold embellishments.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100248249/f26/1166,133,1039,1719/full/0/default.jpg"
+}

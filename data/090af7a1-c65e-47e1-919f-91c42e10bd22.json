@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Jesus, identified by his halo and beard, interacting with a kneeling figure. Jesus is gesturing with his right hand, palm outward, and pointing with his left. The kneeling figure, likely a woman based on her attire and posture, reaches out towards Jesus. Behind Jesus, two other figures are visible, one with a halo, suggesting they are also significant religious figures. The scene is framed by an architectural element resembling an arch with decorative carving, and behind the figures, a background suggests an interior space with vertical elements that could be pillars or window mullions. The overall composition suggests a moment of divine interaction or healing.",
+    "scene_interpretation": "Healing of the Woman with the Issue of Blood",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Jesus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0040/5960,2072,528,1057/full/0/default.jpg"
+}

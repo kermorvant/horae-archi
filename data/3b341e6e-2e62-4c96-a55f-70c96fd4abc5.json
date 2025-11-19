@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an interior space. A central figure, likely a priest, stands before an altar, wearing a blue and gold chasuble, with hands raised in prayer. Two acolytes, also in blue robes, attend to him, one holding a processional cross and the other a torch. Behind them, an altar displays a crucifixion scene with the Virgin Mary and Saint John. Above the altar, a depiction of Christ's resurrected body is shown against a blue, star-patterned background, possibly representing heaven. To the left, a woman in a black habit and wimple observes the proceedings. The floor is tiled in a red and white checkered pattern, and the walls are rendered with architectural details suggesting a church or chapel.",
+    "scene_interpretation": "Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "altar"
+    ],
+    "persons": [
+        "Priest",
+        "Acolyte",
+        "Virgin Mary",
+        "Saint John"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105127516/f70/472,309,986,1615/full/0/default.jpg"
+}

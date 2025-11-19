@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts a standing nude figure, likely a male, draped with a cloth around the waist. The figure is rendered in a sketchy, dark outline with gold leaf accents, suggesting a devotional or allegorical representation. Behind the figure, architectural elements are visible, including what appears to be a patterned screen or wall with diamond shapes and decorative motifs, possibly indicating an interior setting or a symbolic representation of a sacred space. The overall impression is one of austerity and spiritual focus.",
+    "scene_interpretation": "The nude figure, possibly representing Adam before the Fall or a penitent sinner, is a common motif in medieval art. The architectural elements, though abstract, could symbolize a divine presence or a sacred enclosure. Without further context, a definitive interpretation is challenging, but it likely relates to themes of creation, sin, or redemption.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_060_059/DEPOT/210546201_S_060_059_0080/729,2348,520,1543/full/0/default.jpg"
+}

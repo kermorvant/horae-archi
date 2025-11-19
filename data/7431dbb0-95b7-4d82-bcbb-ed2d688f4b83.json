@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a maritime setting with two ships. The larger ship in the foreground is brown and has a mast with rigging. A single figure, possibly a sailor or a passenger, is visible in the center of this ship, appearing to be seated. To the right, a smaller, less detailed ship is also depicted, with a mast and what appears to be a cross-like structure at its top. The background is a vibrant blue, suggesting the sea and sky, with some golden areas on the right edge that might represent land or a decorative border. The overall style is rudimentary, characteristic of some medieval manuscript illuminations.",
+    "scene_interpretation": "Maritime Journey",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Person"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0147/bge-lat0147_0014v.jp2/1552,6068,2712,992/full/0/default.jpg"
+}

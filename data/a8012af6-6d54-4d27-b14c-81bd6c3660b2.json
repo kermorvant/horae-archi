@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, dressed in a blue robe, holds the Christ Child, who is being presented to a bearded man in an orange robe. This man, likely Simeon, is seated behind an altar-like structure covered with a patterned cloth. To the left, a woman in a green dress, possibly Anna the Prophetess, holds a lamp and a white cloth. The figures are positioned within an architectural setting characterized by pointed arches and decorative elements, suggesting an interior space. Above the main scene, two angels are depicted playing musical instruments, adding a celestial dimension.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "window",
+        "wall",
+        "roof",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Simeon",
+        "Anna the Prophetess",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/ky597ww7858/W167_000112_300/514,131,714,1063/full/0/default.jpg"
+}

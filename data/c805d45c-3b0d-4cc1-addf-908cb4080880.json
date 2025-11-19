@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, with Saint Anne standing behind them, embracing both. Mary is dressed in a blue robe and a yellow tunic, while Anne wears a red mantle and a white headdress. The Christ Child is nude and looks towards the viewer. They are positioned in front of a green tapestry with gold ornamentation. The figures are rendered with a sense of tenderness and maternal affection. This iconography represents the Holy Kinship, specifically the Virgin Mary with her mother, Saint Anne, and the Christ Child.",
+    "scene_interpretation": "Holy Kinship",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Anne"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Cappon.218/Cappon.218_0520_fr_0249v.jp2/395,903,350,342/full/0/default.jpg"
+}

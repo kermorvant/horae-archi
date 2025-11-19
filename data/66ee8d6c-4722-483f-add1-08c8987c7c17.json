@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and holding the Christ Child, is attended by Saint Joseph. Three Magi, one kneeling and offering a gift, approach them. Behind them, a procession of figures, some on horseback, and a cityscape with buildings and towers are visible. The entire scene is framed by ornate Gothic architectural elements, including pointed arches and decorative tracery, suggesting a devotional context within a stylized architectural setting.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "tracery_window",
+        "ornamental_tracery",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Sens/Societe_Archeologique/SAS89100_boite2_0001/DEPOT/SAS89100_Boite2_0001_0012/1285,321,1861,2630/full/0/default.jpg"
+}

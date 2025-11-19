@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. In the foreground, the Virgin Mary, identifiable by her halo, cradles the Christ Child, who is also haloed. They are seated, with Mary wearing a draped garment. To their right, three Magi are present. The first, kneeling, offers a chalice. The second, standing and crowned, holds a similar vessel and gestures with his finger. The third, also kneeling and crowned, presents a covered bowl. Behind them, a complex architectural backdrop is visible, featuring arches, towers, and ornate facades, suggesting a city. A star, representing the Star of Bethlehem, is prominently displayed in the upper central area, above the architecture. The overall setting appears to be a stable or shelter, indicated by the presence of a thatched roof structure on the left, juxtaposed with the elaborate city architecture in the background.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0039/1230,479,1919,3151/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary kneeling with her hands clasped in prayer, facing left. Behind her, two figures, likely Apostles, stand with their hands raised in a gesture of awe or supplication. Above them, a dove, representing the Holy Spirit, descends with rays of light. The background features a reddish-brown wall with golden leaf motifs and a blue, diamond-patterned window. The figures are positioned on a green, cracked ground. The overall composition suggests a moment of divine inspiration or revelation.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_095%2Flewis_e_095_jp2.zip%2Flewis_e_095_jp2%2Flewis_e_095_0191.jp2/2529,947,2403,3343/full/0/default.jpg"
+}

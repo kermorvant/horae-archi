@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men, some kneeling with hands clasped in prayer, and others standing behind them, looking towards a central figure identified as Christ. Christ, with a halo, stands facing the group, gesturing with his right hand. The background suggests an architectural setting with decorative elements resembling arches and windows with diamond-shaped panes. The overall impression is one of a religious discourse or teaching, with Christ addressing his followers.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0060/5888,1954,672,1223/full/0/default.jpg"
+}

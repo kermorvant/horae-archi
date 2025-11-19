@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary, with her lying on a bed, eyes closed and hands clasped in prayer. She is covered in a blue mantle. Above her, several figures with halos are present. One figure, likely Saint Peter, holds a crucifix and a candle, leaning over the Virgin. Two other figures stand behind him, also with halos. In the foreground, two bearded men with halos are depicted. One is reading from an open book, while the other has his hands clasped in prayer. The setting appears to be an interior space, suggested by the draped red curtains and the architectural elements in the background, though these are partially obscured. The overall atmosphere is one of solemnity and devotion.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-cl0124/bge-cl0124_047v.jp2/930,930,3231,4500/full/0/default.jpg"
+}

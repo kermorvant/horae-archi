@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a Gothic architectural framework. In the foreground, the Virgin Mary, with hands clasped in prayer and a halo, kneels beside a manger containing the Christ Child. Saint Joseph, bearded and also with a halo, stands to the right, holding a staff. An ox and a donkey are present. Behind them, a stable structure is visible. In the background, a city with towers and buildings is depicted, suggesting Bethlehem. Above, an angel appears to be announcing the birth to shepherds, who are shown with their flock and dogs. The entire scene is framed by elaborate Gothic microarchitecture, including pinnacles, arches, and decorative tracery, with figures of saints or prophets on pedestals on the sides.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pinnacle",
+        "microarchitecture",
+        "ornamental_tracery",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Sens/Societe_Archeologique/SAS89100_boite2_0001/DEPOT/SAS89100_Boite2_0001_0007/1133,414,1861,2563/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, is depicted holding a scythe. To the right, a multi-tiered tower with arched openings is visible. The figure's gaze is directed forward, and they wear a dark robe. The scene appears to be set outdoors, with the tower suggesting a built environment.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036304k/f83/2587,883,413,358/full/0/default.jpg"
+}

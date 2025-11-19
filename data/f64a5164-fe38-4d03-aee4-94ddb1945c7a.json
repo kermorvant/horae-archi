@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures, predominantly men, with one central female figure in a vibrant blue mantle adorned with gold. The figures are gathered, many with hands clasped in prayer, looking upwards. Behind them, a dark, architectural structure with gold detailing is visible. Above, a blue cloud formation is depicted, from which rays of light descend, and a white dove, symbolizing the Holy Spirit, is shown. The central female figure, likely the Virgin Mary, is kneeling, her face turned upwards in devotion. The overall atmosphere suggests a moment of divine revelation or spiritual communion.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/492749/573,290,1647,2473/full/0/default.jpg"
+}

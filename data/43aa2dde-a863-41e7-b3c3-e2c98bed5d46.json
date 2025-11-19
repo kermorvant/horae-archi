@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts an outdoor pastoral setting with two shepherds and a flying angel. One shepherd, kneeling, looks upwards with hands raised in awe. The other shepherd stands, also looking up, with one arm extended. Between them, a flock of sheep grazes. Above, an angel descends, holding a glowing, serpentine light in its hands, directed towards the shepherds. The landscape is dotted with trees and large, upright stones, suggesting a somewhat wild or ancient terrain. The overall composition is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel",
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511236p/f41/1851,387,736,993/full/0/default.jpg"
+}

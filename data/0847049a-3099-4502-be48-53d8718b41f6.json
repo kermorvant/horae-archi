@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael the Archangel in full armor, with wings outstretched, standing over a defeated dragon. He holds a sword aloft in his right hand, poised to strike, and a shield in his left. Below him, a fallen figure, possibly representing humanity or a defeated foe, lies prostrate. The background features architectural elements that suggest a stylized, perhaps heavenly, setting, with decorative arches and pinnacles.",
+    "scene_interpretation": "Saint Michael the Archangel",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pinnacle"
+    ],
+    "persons": [
+        "Saint Michael the Archangel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0079/4087,1550,667,930/full/0/default.jpg"
+}

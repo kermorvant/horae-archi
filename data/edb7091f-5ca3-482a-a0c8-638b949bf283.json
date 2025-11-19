@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A single figure, likely a woman, is depicted in profile, facing left. She wears a headdress that covers her hair and neck, and her hands are clasped together in prayer. Her garment is long and flowing, with visible folds. The background is partially obscured by decorative elements on the left and vertical lines on the right, suggesting an architectural setting or a border. The figure's posture and expression convey piety and devotion.",
+    "scene_interpretation": "Devotional Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0052/3861,3226,238,1467/full/0/default.jpg"
+}

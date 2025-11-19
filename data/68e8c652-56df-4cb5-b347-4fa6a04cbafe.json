@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a richly decorated architectural setting, likely a chamber. On the left, the Angel Gabriel, identifiable by his wings and halo, is shown gesturing towards the Virgin Mary. He wears a red robe adorned with blue gems and a distinctive headdress. He holds a staff topped with a fleur-de-lis. Before him is an open book on a lectern. Above Gabriel, the Holy Spirit descends in the form of a dove, radiating golden light. The inscription 'AVE G.P.D.T.' is visible. On the right, the Virgin Mary, also with a halo, kneels with her hands crossed over her chest, signifying her acceptance. She is dressed in a blue robe. Two figures in golden robes stand as attendants on either side of the main scene, partially visible. The architectural elements are elaborate, featuring Gothic tracery and ornate columns, suggesting a refined interior. A scroll with Latin text, 'Omniute labia', is unfurled at the bottom.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "canopy",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0135/DEPOT/315556101_MS0135_0020/3523,432,3138,3382/full/0/default.jpg"
+}

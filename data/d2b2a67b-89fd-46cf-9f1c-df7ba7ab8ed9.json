@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. Christ, crowned with thorns and bearing wounds, is shown kneeling, his body limp. The Virgin Mary, draped in a blue mantle, cradles his head with her left hand and touches his chest with her right. To Christ's right, a young man, likely John the Evangelist, clasps his hands in prayer and gazes at Christ with a sorrowful expression. Behind them, a wooden cross is visible, and the background is a deep blue adorned with golden stars. The figures are enclosed within an ornate, illuminated initial 'O'.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/422676385/635,1134,1397,1234/full/0/default.jpg"
+}

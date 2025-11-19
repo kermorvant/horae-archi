@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, likely a scholar or prophet, seated in a room filled with books. He wears a blue robe over a patterned pink garment and a dark cap. A halo surrounds his head, indicating sanctity. He is holding an open book and a small inkwell. To his left, a winged figure, possibly an angel, stands and gestures towards the seated man, also holding a book. The room features a window with arched panes looking out onto a landscape with trees and buildings, and another window with rectangular panes. Sunlight streams in from the left. Books are stacked on shelves and a circular lectern. The floor is tiled in a black and green checkerboard pattern. The entire scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Saint Jerome in his Study",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_4%2F1945_65_4_jp2.zip%2F1945_65_4_jp2%2F1945_65_4_0067.jp2/5132,1840,4836,8368/full/0/default.jpg"
+}

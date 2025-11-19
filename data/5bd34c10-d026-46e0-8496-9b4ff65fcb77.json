@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts an interior space with two figures. On the left, a man wearing a cap walks, carrying a bundle of wood or similar material over his shoulder and in his arms. He is dressed in a tunic and trousers. On the right, another man, also wearing a cap and a draped robe, is seated on a bench. He is holding an object in his hands, possibly a book or a scroll, and appears to be reading or contemplating. Behind him, a fireplace is visible with flames, suggesting a domestic setting. The architecture includes wooden beams and walls, with decorative elements above the figures.",
+    "scene_interpretation": "This scene likely represents a domestic interior, possibly illustrating a moment of daily life or a specific devotional practice within a home. The presence of a fireplace and the act of reading suggest a scene of comfort and contemplation. Without further iconographic clues, a specific biblical or liturgical event cannot be definitively identified, but it could relate to a saint's life or a general theme of piety and study.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107213516/f16/2227,689,1864,784/full/0/default.jpg"
+}

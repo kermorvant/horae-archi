@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo, rides a donkey, holding the Christ Child who is also haloed. She wears a blue mantle over a brown garment. Joseph, with a grey beard and wearing a dark hat and blue tunic, walks beside the donkey, carrying a staff over his shoulder with a bag and flask attached. He is cloaked in a pink garment. The scene unfolds in a verdant landscape with trees and rolling hills. In the background, a fortified castle with towers and spires is visible under a cloudy sky. The entire scene is framed by an ornate border with floral motifs.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0086/3187,530,1034,1692/full/0/default.jpg"
+}

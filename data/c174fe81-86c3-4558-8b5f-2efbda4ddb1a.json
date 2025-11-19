@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a man in prayer on the left, kneeling on a brown ground with a gold patterned background. He wears a dark robe and a gold chain, and his hands are clasped in supplication. Above him, a scroll unfurls with Latin text. In the center, within a blue, ornate, circular frame, two figures are seated. The figure on the left, with a long beard and wearing a red robe, holds an open book. The figure on the right, wearing a bishop's mitre and a crown, also appears to be reading or gesturing towards the book. A white dove, representing the Holy Spirit, hovers above them. The background within the circle is gold. Below the circular frame, a blue band depicts a distant cityscape with buildings and a body of water. At the bottom, a coat of arms with a helmet and red drapery is displayed on a green background. The overall composition is framed by decorative floral elements on the left and right.",
+    "scene_interpretation": "The central image likely represents a theological or religious council, possibly depicting figures of authority within the Church, such as saints or church fathers, in discussion or contemplation, guided by the Holy Spirit. The presence of the dove signifies divine inspiration. The kneeling figure on the left is a supplicant, perhaps a patron or a devotee, seeking divine guidance or intercession. The coat of arms suggests a connection to a noble family or a specific institution.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Bishop",
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lcp_ms024%2Flcp_ms024_jp2.zip%2Flcp_ms024_jp2%2Flcp_ms024_0269.jp2/2249,1384,8216,11449/full/0/default.jpg"
+}

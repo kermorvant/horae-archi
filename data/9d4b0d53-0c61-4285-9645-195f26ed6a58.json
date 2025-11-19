@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Moses kneeling and receiving the Ten Commandments from Christ, who is shown standing and holding the tablets. Moses is bearded and wears a draped garment, with his head tilted upwards. Christ is also bearded and wears a tunic and mantle, with a halo. Behind Christ, a group of figures, possibly representing the Israelites, are visible. The scene is framed by architectural elements resembling Gothic tabernacles or niches, with pointed arches and pinnacles. The ground is indicated by stylized foliage.",
+    "scene_interpretation": "Moses Receiving the Law",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "pointed_arch",
+        "pinnacle",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Moses",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0070/5851,459,690,1203/full/0/default.jpg"
+}

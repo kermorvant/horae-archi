@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A man with a beard, wearing a hat, a pink tunic, and patterned leggings, is depicted in an outdoor setting. He is holding a long yellow stick and a woven basket. He appears to be engaged in some form of harvesting or gathering, possibly from a tree with round, orange fruits and green leaves. Small, dark, spiky figures are scattered around the ground, and a body of water is visible in the lower part of the image. The scene likely represents a month from a calendar cycle, depicting agricultural labor.",
+    "scene_interpretation": "Agricultural Labor",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0050/5024,3180,676,583/full/0/default.jpg"
+}

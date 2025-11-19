@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the lifeless body of Christ after his crucifixion. Christ's body, bearing wounds from the crucifixion, is draped across his mother's lap. Mary, with a sorrowful expression and tears streaming down her face, is enveloped in a blue mantle. Behind them, a rocky hill rises, with a fragment of the cross visible. In the background, a city with towers and spires is depicted under a blue sky with clouds. The overall setting is outdoors, on a grassy, uneven terrain.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "spire",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xb915nd9363%2FW439_000048_1200/4772,775,2583,5092/full/0/default.jpg"
+}

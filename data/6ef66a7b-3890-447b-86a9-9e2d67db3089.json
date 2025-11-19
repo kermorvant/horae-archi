@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his head bowed and body showing signs of suffering. A halo surrounds his head, and the inscription 'INRI' is visible above. To the left of the cross, a winged angel in an orange robe hovers, reaching towards Christ. Below the cross, a group of mourners is gathered. The Virgin Mary, draped in a blue mantle, is supported by another woman in green, while a third figure in red stands behind them. To the right of the cross, several figures are present, including a man in a green hat and blue tunic, another in a blue and white patterned garment, and a soldier in an orange tunic and blue armor holding a bow. The ground beneath them is green, with a skull and bone visible, symbolizing Golgotha. The background is a vibrant red with an ornate pattern, and the entire scene is framed by an arched border with gold illumination.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550058850/f120/503,266,686,1154/full/0/default.jpg"
+}

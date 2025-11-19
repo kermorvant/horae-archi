@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a halo, is seated on a throne, holding the Christ Child on her lap. She wears a blue robe, and the throne is adorned with a red, gold-patterned canopy and decorative elements. The scene is framed by arched architectural elements, revealing a landscape with mountains and sky through openings on either side. The overall impression is one of regal dignity and maternal tenderness, set within a stylized, somewhat abstract architectural space.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/SJRB/SJRB%2000001/SJRB_00001_IMG_021r.JPG/745,914,1792,2574/full/0/default.jpg"
+}

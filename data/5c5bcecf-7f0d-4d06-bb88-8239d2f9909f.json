@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue robe, kneeling and reaching out to Elizabeth, who is also kneeling and appears to be in a state of awe or reverence. Elizabeth wears a white veil and a green tunic over a golden robe. Behind them, a stone building with a tower and red-tiled roofs is visible, suggesting an architectural setting. The ground is green and grassy, with some rocky formations in the background. The overall scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dt765nv8976%2FW206_000105_1200/366,2643,1896,2078/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a central figure, presumably Christ, who is shown with a beard and long hair, wearing a tunic. He is surrounded by several men, some of whom appear to be listening intently. In the foreground, two figures are prostrate on the ground, one with hands clasped in prayer or supplication, and the other appearing to be bound or injured. The background suggests an architectural setting with arched elements and what might be a building facade with a niche. The overall composition conveys a sense of interaction and possibly a moment of healing or teaching.",
+    "scene_interpretation": "Healing of the Blind Man",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "niche"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0031/702,2035,639,1204/full/0/default.jpg"
+}

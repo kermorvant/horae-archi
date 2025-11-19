@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, veiled and in a blue mantle, holds the Christ Child. To her left stands a bearded man in a red robe, likely Joseph. To the right of Mary, a man in a blue tunic and red cross-strap, possibly a priest, examines a scroll. Another bearded man in a red robe stands to the far right, his hands clasped. They are gathered around a draped table, with a green curtain forming the backdrop. The figures are rendered with halos, indicating their sanctity. The scene is set within an architectural space, suggested by the draped curtain and the presence of columns supporting the table.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kz860yq2596%2FW428_000206_1200/3988,2521,1462,2504/full/0/default.jpg"
+}

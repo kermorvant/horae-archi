@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bishop, adorned in a jeweled mitre and ornate cope, stands over a wooden tub filled with water. He holds a crozier in his left hand and points with his right index finger, wearing a white glove and a ring, towards three nude children partially submerged in the tub. The children appear to be looking up at the bishop with reverence. In the background, through an open doorway, a man in a green tunic and red cap is visible, looking towards the scene. The architectural setting is suggested by a dark, tiled wall and a decorative frieze above, implying an indoor, possibly ecclesiastical, space.",
+    "scene_interpretation": "Miracle of Saint Nicholas",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "arch",
+        "capital",
+        "door",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550093038/f372/603,494,2046,3598/full/0/default.jpg"
+}

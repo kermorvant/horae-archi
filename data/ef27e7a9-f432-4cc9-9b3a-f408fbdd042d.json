@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Angel Gabriel, with red wings and a pink robe, kneels and gestures towards the Virgin Mary. He holds a scroll with text. The Virgin Mary, seated on the right in a purple robe, holds a red book and raises her hand in a gesture of surprise or acceptance. She is positioned within a structure that appears to be a room or a niche, with decorative carvings on the wall. Above the main scene, a frieze of four angels is visible, leaning over a ledge. The overall scene is framed by decorative borders.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy",
+        "niche"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f292/697,1193,729,866/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary and the Apostles gathered in a richly decorated interior. The Virgin Mary stands centrally, her hands clasped over her chest, while the Apostles are arranged around her, some looking upwards with expressions of awe and wonder. Above them, the Holy Spirit descends in the form of a dove, radiating golden light and flames, symbolizing divine inspiration. The architectural setting is elaborate, featuring gilded columns, arched windows, and a vaulted ceiling, suggesting a sacred space like a church or chapel. The floor is tiled in a checkered pattern. The figures are clad in white robes, emphasizing their purity and spiritual state.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "vault",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:41:4:wdl_14414:069_74G37a_029r/614,184,1070,1728/full/0/default.jpg"
+}

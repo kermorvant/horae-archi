@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An angel, with golden wings and dressed in a white robe, kneels before a bearded man wearing a red cap and a pink tunic with gold embellishments, draped in a blue robe. The angel holds a quill and inkwell, appearing to be in the act of writing or transcribing. The man is seated, holding an open book on his lap, with his gaze directed towards the angel. Behind the man, a golden, ornate lamp or reliquary is visible. The background suggests an interior space with a window featuring diamond-shaped panes and a column.",
+    "scene_interpretation": "The scene likely depicts the Annunciation to Saint Anne, where an angel informs her of her future motherhood, or a similar annunciation to a prophet or evangelist, such as Saint Matthew, who is often depicted with an angel. The presence of the book and writing implements further supports this interpretation, suggesting divine inspiration or dictation.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Angel",
+        "Saint Anne"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515740c/f39/319,560,707,759/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A person, likely a monk or nun given the habit and coif, is seated at a table laden with food and drink. The individual holds a bowl and appears to be eating. Behind the person, a jug and a cluster of grapes are visible, suggesting a meal. The scene is framed by architectural elements, including a table with a draped cloth, a chair, and a background structure with arched openings.",
+    "scene_interpretation": "This scene likely depicts a monastic meal, possibly representing a daily observance or a specific devotional practice related to temperance or sustenance within a religious community.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0038/2685,3377,340,429/full/0/default.jpg"
+}

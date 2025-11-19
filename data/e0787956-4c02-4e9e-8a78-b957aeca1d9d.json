@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A group of figures, some in clerical attire with blue and red robes and gold clasps, are gathered around a lectern holding an open book. They appear to be reading or listening intently. To the right, a group of figures in dark, hooded robes, possibly monks or nuns, are also present, their faces visible. In the foreground, a draped table or altar covered in a blue cloth with gold patterns is depicted. The background features a decorative, tiled pattern above a reddish-brown surface, suggesting an interior setting.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Caen/Musee_des_Beaux_Arts/141185204_coll_mancel_ms0273/DEPOT/141185204_coll_mancel_ms0273_0107/3831,465,1582,2190/full/0/default.jpg"
+}

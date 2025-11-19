@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A group of men, dressed in medieval attire, are looking upwards with expressions of awe and devotion. In the background, a fortified city with a prominent tower and various buildings with red-tiled roofs is depicted. The scene is framed by an ornate, gilded archway, suggesting a devotional context. The overall impression is one of a spiritual vision or a significant event being witnessed by the populace.",
+    "scene_interpretation": "Vision of a City",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f179/2955,1694,868,2438/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered in prayer under a golden archway. In the foreground, the Virgin Mary kneels with her hands clasped in prayer, draped in a blue mantle over a pink gown. To her right, an older man with a beard, likely Saint Peter, also prays. Behind them, several other figures, presumably apostles, are shown with halos, their hands in prayer. Above them, a dove, representing the Holy Spirit, descends from a radiant light, with golden rays emanating downwards. The background suggests an interior space with a red, ornate canopy on the left and architectural elements on the right, possibly indicating a room or a chapel.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025450k/f59/254,187,1154,1637/full/0/default.jpg"
+}

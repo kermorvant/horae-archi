@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two crowned figures seated side-by-side against a decorative background of gold squares interspersed with blue diamonds. The figure on the left, presumably the Virgin Mary, is shown with her hands clasped in prayer and her head bowed. She wears a blue robe and a golden crown. The figure on the right, likely Christ, is depicted with a golden sunburst emblem on his chest, a blue robe, and a golden crown. He holds a globe in his left hand and raises his right hand in a gesture of blessing or teaching. The figures are seated on a patterned surface that transitions into a decorative band below, featuring a geometric pattern of red and blue motifs on a white background. The overall impression is one of solemnity and divine authority.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vs511jt0099%2FW96_000178_1200/4341,1791,2464,2765/full/0/default.jpg"
+}

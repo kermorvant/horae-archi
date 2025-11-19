@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on their journey, likely the Flight into Egypt. The Virgin Mary, with a halo, rides a donkey, cradling the Christ Child, who also has a halo. Saint Joseph, also with a halo, walks beside the donkey, holding its reins. They are traveling through a landscape with rolling green hills and a path. In the background, there are buildings with towers and roofs, suggesting a town or city. A prominent golden column with a figure balancing on top stands in the middle ground. The overall impression is one of a sacred journey through a somewhat stylized, medieval setting.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537191/46161188.tif/832,171,1912,3110/full/0/default.jpg"
+}

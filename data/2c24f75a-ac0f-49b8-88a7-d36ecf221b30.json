@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a king, identified by his crown, standing in the center, gesturing with his hands. He is surrounded by a group of men, some wearing crowns or elaborate headwear, and others with beards. To the left, a group of women, all with white head coverings, stand facing the king. The setting appears to be an interior space with a tiled floor and a backdrop of columns and a blue sky suggesting an open, perhaps porticoed, area. The architectural elements are minimal, focusing on the figures and their interaction. The scene likely represents a royal audience or a significant event involving the king and his subjects, possibly with a religious undertone given the context of a Book of Hours.",
+    "scene_interpretation": "Royal Audience",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f370/1154,4181,3181,1562/full/0/default.jpg"
+}

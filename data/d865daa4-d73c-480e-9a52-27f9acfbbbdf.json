@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two women, one holding a nude infant, stand in a barren landscape. The woman on the left, with long flowing hair, cradles the child. The woman on the right wears a wimple and veil, her hands clasped. The background is a muted wash of grey and white, suggesting a sky or distant hills, with no architectural elements present. The scene evokes a sense of quiet tenderness and maternal care, likely depicting a moment from the life of the Virgin Mary and the Christ Child, possibly the Visitation or a similar devotional scene.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0033/DEPOT/M441095203_MS0033_0134/3560,2030,770,786/full/0/default.jpg"
+}

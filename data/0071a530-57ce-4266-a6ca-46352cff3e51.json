@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. To his left stands the Virgin Mary, draped in a blue mantle, with her hands clasped in prayer and her head bowed in sorrow. To his right stands a figure, likely Saint John the Evangelist, also with hands clasped in prayer and looking towards Christ. The background features a stylized landscape with rolling hills and a blue sky. A banner with the inscription \"INRI\" is affixed to the cross above Christ's head. The figures are rendered in a simplified, somewhat flat style typical of some medieval manuscript illuminations.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0273/DEPOT/B522696201_MS0273_0076/3013,598,1177,1560/full/0/default.jpg"
+}

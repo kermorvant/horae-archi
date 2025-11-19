@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures kneeling. One figure, dressed in a blue robe adorned with gold trim, has feathered wings and appears to be an angel. The other figure, wearing a pinkish-red robe, is looking upwards with hands clasped in prayer. They are positioned against a decorative gold background with a grid pattern of blue and orange circular motifs. The ground beneath them is rendered in green and grey.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55005889s/f140/1556,835,298,688/full/0/default.jpg"
+}

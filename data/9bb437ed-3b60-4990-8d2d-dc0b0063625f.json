@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary on the left, kneeling before a lectern with a book and a checkerboard pattern on the floor. She is dressed in a blue robe and has a halo. To her right, the Angel Gabriel, also with a halo and wings, kneels and presents a scroll. Behind them, an ornate architectural structure with columns and arches is visible, suggesting an interior setting. Above, in a celestial realm, a figure representing God the Father is depicted, with rays of light descending towards the scene. The overall composition is framed by decorative floral elements.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "pillar",
+        "wall",
+        "roof",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lcp_ms5%2Flcp_ms5_jp2.zip%2Flcp_ms5_jp2%2Flcp_ms5_0060.jp2/1933,1250,4532,6997/full/0/default.jpg"
+}

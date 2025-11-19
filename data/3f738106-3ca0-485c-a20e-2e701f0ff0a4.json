@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A crowned figure, likely a bishop or saint, stands holding a book open and a processional cross. The figure wears elaborate vestments, including a blue tunic, a red cloak lined with green, and a jeweled crown. Behind the crowned figure, a tonsured monk in a white habit and green scarf holds a staff topped with a cross. To the left, a white sarcophagus or tomb is visible, draped with a white cloth and adorned with green and gold patterns. To the right, a richly decorated chair or throne with golden accents stands against a blue background with gold floral motifs. In the background, shelves hold several books. The scene appears to be set within an interior space, possibly a chapel or a study, indicated by the architectural elements and furnishings.",
+    "scene_interpretation": "The scene likely depicts a saintly bishop or a figure of authority in the church, possibly engaged in prayer or study, as suggested by the open book and the presence of a tomb. The cross indicates religious authority. The monk's presence might suggest a monastic setting or a follower.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy",
+        "niche",
+        "roof",
+        "undefined_element"
+    ],
+    "persons": [
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F387_B.11.32_f202r.jp2/827,835,1811,2279/full/0/default.jpg"
+}

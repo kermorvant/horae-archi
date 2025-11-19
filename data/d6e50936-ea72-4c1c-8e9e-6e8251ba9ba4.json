@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with several shepherds and a flock of sheep. In the foreground, a shepherd kneels with his hands raised, looking upwards. To his left, another shepherd stands, holding a staff and looking towards the sky. Other shepherds are visible behind them. In the middle ground, a shepherd lies on the ground, seemingly reacting to something above. In the sky, a golden angelic figure appears amidst clouds and golden rays, suggesting a divine revelation. In the background, a distant city with towers and spires is visible, nestled amongst rolling hills and trees. The overall scene is bathed in a soft, ethereal light.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022331s/f131/163,85,1049,1383/full/0/default.jpg"
+}

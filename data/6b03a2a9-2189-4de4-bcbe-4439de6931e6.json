@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, with a golden halo, rides a donkey, holding the Christ Child, also with a halo. Saint Joseph, with a grey beard and wearing a blue cap and a pinkish robe over a yellow tunic, walks beside the donkey, carrying a staff over his shoulder. They are in an outdoor setting with rolling green hills, rocky outcrops, and scattered trees. In the background, a city with towers and spires is visible. Golden rays descend from a blue sky with wavy patterns, suggesting divine presence. The scene is framed by an ornamental border with floral motifs.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0143/DEPOT/315556101_MS0143_0058/4322,394,1719,2556/full/0/default.jpg"
+}

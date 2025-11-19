@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in a landscape setting. On the left, a person wearing a white habit and a grey hood holds open a red-bound book. This figure has a halo, indicating sainthood. On the right, a figure dressed in episcopal vestments, including a mitre and a red cope, holds a crosier. This figure also has a halo. The background features stylized trees with red fruit on the left and right, and a blue, somewhat abstract landscape with distant, pointed structures in the center. The overall impression is a devotional scene, possibly illustrating an encounter between two saints.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892311/422,2420,1598,591/full/0/default.jpg"
+}

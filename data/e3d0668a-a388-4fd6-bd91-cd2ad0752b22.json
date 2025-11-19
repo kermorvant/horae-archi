@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely Saint Margaret of Antioch, stands in a landscape, holding a long staff with a red finial. She is dressed in a pink robe and a purple undergarment. To her left, a winged demon with claws and a tail lunges forward, holding a round object with holes. To her right, an angel with orange wings descends, reaching towards the staff. The background is a blue sky dotted with gold stars, and the ground is green with scattered rocks and trees. The scene depicts the temptation and torment of a saint, with the demon representing worldly temptations and the angel offering divine aid.",
+    "scene_interpretation": "Saint Margaret of Antioch and the Dragon",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Margaret of Antioch",
+        "Angel",
+        "Demon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0013/DEPOT/M441095203_MS0013_0216/1433,1076,914,1084/full/0/default.jpg"
+}

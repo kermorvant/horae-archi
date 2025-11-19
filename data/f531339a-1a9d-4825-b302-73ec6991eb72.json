@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary on the left and the Angel Gabriel on the right. The Virgin Mary, with a halo, is shown with her hands crossed over her chest, her gaze directed downwards. The Angel Gabriel, also with a halo and wings, is gesturing with his right hand, pointing upwards, and holding a staff or scepter in his left. Rays of light emanate from above, suggesting divine intervention. Above them, a bird is depicted within a decorative border, and a banner with Latin text \"ignite. Xinsi quit\" is visible.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0038/5127,419,756,1264/full/0/default.jpg"
+}

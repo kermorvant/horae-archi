@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a group of four men, each wearing a halo, suggesting they are saints or holy figures. They are dressed in ornate robes with patterned designs. The two men on the right are shown with their hands clasped in prayer, looking upwards. The man on the far left is gesturing with his hands, while the man next to him looks towards the left. The background is a decorative border, and the figures are presented in a frontal, slightly stylized manner typical of medieval woodcuts or manuscript illuminations.",
+    "scene_interpretation": "Saints in Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00021/787,2651,681,720/full/0/default.jpg"
+}

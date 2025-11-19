@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in an outdoor setting, framed by an archway adorned with foliage. In the foreground, two men are engaged in conversation, with one gesturing towards the other. The man on the left wears a cap and a tunic, holding a sheaf of wheat. The man on the right wears a similar tunic and belt, with his hands clasped. Behind them, a third figure, possibly a woman, is partially visible, wearing a head covering. To the left, two pigs are present, one appearing to be a sow with piglets. The overall impression is of a pastoral or agricultural scene, possibly related to harvest or daily life.",
+    "scene_interpretation": "This scene likely represents a biblical or devotional theme related to agriculture and sustenance, possibly alluding to the parable of the sower or the bounty of the harvest. The presence of pigs could symbolize various aspects depending on the specific context, but in a general devotional sense, they might represent the earth's produce or even the humble aspects of life.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0091/1128,693,418,620/full/0/default.jpg"
+}

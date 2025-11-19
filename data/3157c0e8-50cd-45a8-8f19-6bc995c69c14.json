@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a somber outdoor landscape with a river in the background and a distant city on a hill. In the foreground, several figures are engaged in carrying the bodies of fallen men. Two men in red and blue tunics are carrying a body draped in blue. Another body lies on the ground, partially clothed in yellow and blue. To the right, a crowned king, adorned in a golden robe and ermine collar, stands with a group of onlookers, his hands raised in a gesture of lament or prayer. A sword lies on the ground near the king. The overall atmosphere is one of grief and defeat.",
+    "scene_interpretation": "The scene likely represents a biblical or historical event involving a battle and its aftermath, possibly the death of a king or important figure. The presence of a crowned king and fallen soldiers suggests a narrative of conflict and loss. Without further context, a specific interpretation is difficult, but it evokes themes of mortality, the consequences of war, and perhaps divine judgment or lamentation.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f446/1096,4346,3239,1521/full/0/default.jpg"
+}

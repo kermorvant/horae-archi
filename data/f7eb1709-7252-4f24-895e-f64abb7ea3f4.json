@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an interior setting. On the left, the Virgin Mary is seated, her hands clasped in prayer, with an open book before her. She is dressed in a dark robe. To her right stands the Angel Gabriel, gesturing with his right hand and holding a staff or scepter in his left. He wears a dark outer garment over a white tunic with striped sleeves. The background suggests an indoor space with draped fabric or curtains and some architectural elements, possibly a room within a house or a chapel. The overall composition is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0026/2832,385,1318,1625/full/0/default.jpg"
+}

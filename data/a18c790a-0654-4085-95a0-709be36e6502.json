@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "An elderly man with a red cap and a long grey beard, dressed in a blue robe and a red mantle, is seated in a richly decorated chair, writing in an open book placed on a lectern. Beside him, a lion sits attentively. The scene is set indoors, with a window showing a diamond-patterned glass in the background. Shelves filled with books are visible behind the man, suggesting a study or library. The overall impression is one of scholarly activity and contemplation.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0082/DEPOT/M601415401_MS0082_0035/1785,2433,1043,1062/full/0/default.jpg"
+}

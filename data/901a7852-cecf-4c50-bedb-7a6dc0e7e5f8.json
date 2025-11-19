@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a rustic stable. The Virgin Mary, with a halo, holds the Christ Child on her lap, both also with halos. They are seated within a wooden structure. Three Magi, identified by their crowns and rich attire, approach them. The first two Magi are standing, one holding a vessel and the other pointing. The third Magi is kneeling, offering a gift. In the lower left, a man in blue robes with a long beard, possibly Saint Joseph, is shown holding tools, near a cow and a donkey. The background shows architectural elements and a starry sky with a comet, suggesting a nighttime setting. The overall scene is a representation of the Nativity and the subsequent visit of the Magi.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "column",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0038/1573,693,1472,2115/full/0/default.jpg"
+}

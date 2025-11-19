@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "This image is a decorative border from a medieval manuscript, featuring a series of small, framed vignettes. The vignettes depict figures, some with beards and wearing headdresses, within architectural frames that suggest pointed arches and decorative elements. One vignette shows a figure with a beard and flowing hair, possibly a prophet or saint, looking upwards. Another shows a figure with a similar beard and a cap, pointing with their finger. The overall impression is of a series of devotional or narrative scenes, likely representing biblical figures or saints, framed by Gothic architectural motifs.",
+    "scene_interpretation": "Prophets and Saints",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "microarchitecture"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0041/3267,345,270,3589/full/0/default.jpg"
+}

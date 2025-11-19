@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. Christ's body, marked by wounds and wearing a crown of thorns, lies on a bier. The Virgin Mary, dressed in blue, mourns beside him, supported by other grieving women. Two figures, possibly Joseph of Arimathea and Nicodemus, are shown preparing to wrap Christ's body in a shroud. The background is a dark, brick-like wall, suggesting an indoor setting, possibly a tomb or a preparation area. A crown of thorns lies on the ground in the foreground.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537191/46160152.tif/579,290,2003,2591/full/0/default.jpg"
+}

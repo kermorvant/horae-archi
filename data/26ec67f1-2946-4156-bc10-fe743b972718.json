@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A kneeling figure, clad in blue and red robes, with hands clasped in prayer, is depicted before an open book or lectern. Above and behind this figure, a haloed individual, likely Christ, is visible, also in red robes, with hands held in a gesture of blessing or teaching. The background features a decorative pattern of gold diamonds on a dark blue and red checkered field, suggesting a divine or celestial setting. The architectural elements are minimal, with a suggestion of a structure framing the kneeling figure and the lectern.",
+    "scene_interpretation": "The scene likely depicts a moment of prayer or contemplation, possibly a representation of a devout individual receiving divine inspiration or instruction from Christ. This could be interpreted as a scene from the life of a saint, a devotional image for personal prayer, or a representation of the efficacy of prayer.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/jd913tp1831%252F540_091_R_TC_46/347,693,1617,1894/full/0/default.jpg"
+}

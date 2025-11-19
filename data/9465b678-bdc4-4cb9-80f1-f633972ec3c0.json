@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The image depicts a figure, likely a saint or prophet, with flowing hair and a beard, draped in robes. The figure is positioned within an architectural framework that suggests a niche or a decorative border. The overall style is that of a woodcut or engraving, characterized by strong lines and hatching for shading. The scene is framed by decorative elements that resemble foliage or architectural motifs, possibly indicating a sacred or important context.",
+    "scene_interpretation": "This image likely represents a figure from the Old Testament or a saint, possibly depicted in a devotional context within a Book of Hours. The presence of decorative architectural elements suggests it might be a marginal illustration or a historiated initial, common in medieval manuscripts.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "niche",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0071/3450,2944,166,1722/full/0/default.jpg"
+}

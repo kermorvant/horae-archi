@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body pale and marked by wounds. A scroll above his head bears the inscription 'IHS NR'. To the left of the cross stands the Virgin Mary, draped in a blue mantle over a golden robe, her hands clasped in prayer. To the right, another figure, likely Saint John the Evangelist, also in a blue mantle over a golden robe, holds an open book. The setting is a barren landscape with rocky outcrops and distant, stylized buildings. A skull is visible at the base of the cross on the left, symbolizing Golgotha. The sky is a vibrant blue with scattered gold flecks.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0004/DEPOT/210545209_004_0050/3780,490,1633,2157/full/0/default.jpg"
+}

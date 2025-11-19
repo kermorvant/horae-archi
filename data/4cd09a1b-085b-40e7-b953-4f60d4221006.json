@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A dark-colored bull with horns stands in a rocky, uneven landscape. In the background, a city with numerous spires and towers is depicted, situated on a hill and connected by a bridge. The scene is framed by a decorative border with floral motifs and gold leaf. The bull's presence in this context, with a distant city, could symbolize various interpretations, possibly related to Old Testament narratives or astrological signs.",
+    "scene_interpretation": "Taurus (Astrology)",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "bridge",
+        "tower",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000424g/f14/689,1518,477,454/full/0/default.jpg"
+}

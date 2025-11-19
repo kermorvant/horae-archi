@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Betrayal of Christ, with Judas Iscariot kissing Jesus, identifying him to the soldiers who are apprehending him. Jesus, in a dark robe, is surrounded by armed men in armor and helmets. One soldier, in red armor, grasps Jesus's arm. Another soldier, in golden armor, embraces Jesus. In the foreground, a man in a blue tunic kneels, reaching out towards Jesus, possibly representing a follower or a witness. The background is a starry night sky, suggesting the event takes place at night. The overall impression is one of chaos and violence.",
+    "scene_interpretation": "Betrayal of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Jesus",
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154676/f31/307,327,1442,2498/full/0/default.jpg"
+}

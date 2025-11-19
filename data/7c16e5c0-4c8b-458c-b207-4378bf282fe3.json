@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a man lying down, seemingly asleep or unwell, on a red cushion covered by a blue and gold patterned cloth. He has a grey beard and is wearing a gold tunic. Two other men are attending to him. One man, in a gold tunic and red hose, is leaning over him, touching his hand. Another man, in a pink tunic, stands behind them, looking upwards. To the left, a figure in a gold tunic and blue hose walks away, with a winding path and rolling hills in the background. The right side of the scene features a richly decorated architectural structure with large columns and ornate capitals, suggesting a grand building.",
+    "scene_interpretation": "The scene likely depicts a biblical event, possibly the healing of a sick person or a moment of spiritual contemplation. The presence of multiple figures and the architectural setting could allude to a narrative from the Old or New Testament, or a hagiographical account.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f76/1501,4214,2975,1413/full/0/default.jpg"
+}

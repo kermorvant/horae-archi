@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, draped in a purple robe, carrying the cross. He is being assisted by a figure in a red tunic and helmet, who appears to be a soldier or guard, holding a whip or rod. Another figure, possibly Simon of Cyrene, is shown struggling to help carry the cross, his face contorted in effort. The background is a stylized landscape with hints of blue and green, suggesting an outdoor setting. The overall composition emphasizes the burden and suffering of Christ.",
+    "scene_interpretation": "Christ Carrying the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Simon of Cyrene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.65/Ross.65_0203_fa_0096r.jp2/506,1163,252,235/full/0/default.jpg"
+}

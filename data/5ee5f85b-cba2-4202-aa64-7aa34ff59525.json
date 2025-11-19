@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A figure, likely a man, is depicted with curly hair and a solemn expression, looking upwards with hands clasped in prayer or supplication. The figure is positioned within an architectural frame featuring decorative arches and what appear to be columns or pillars. The background behind the figure is rendered with hatching, suggesting a textured or perhaps celestial space. The overall scene evokes a sense of devotion and spiritual contemplation.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "pillar"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0045/4615,3412,384,519/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, with a halo, rides a donkey, holding the Christ Child. Saint Joseph walks beside them, carrying a staff. The background is a patterned textile, suggesting an indoor setting or a stylized representation of a journey. The figures are rendered in a simplified, iconic style typical of medieval manuscript illumination.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Besançon/Bibliotheque_municipale/B250566101_MS0154/DEPOT/B250566101_MS0154_0097/3782,1046,1038,1132/full/0/default.jpg"
+}

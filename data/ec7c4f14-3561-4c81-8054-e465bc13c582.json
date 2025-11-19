@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Last Judgment, with Christ enthroned in glory at the top, surrounded by a radiant golden light and a blue, wavy celestial realm. To his left sits the Virgin Mary, crowned and looking down. Below them, an angel blows a trumpet, signaling the resurrection of the dead. In the lower register, figures emerge from open graves, some with hands clasped in prayer, while others are already being judged. An angel on the left assists a resurrected soul, while on the right, souls ascend towards heaven. The scene is framed by an ornate, gilded arch with floral motifs.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f197/560,384,970,1744/full/0/default.jpg"
+}

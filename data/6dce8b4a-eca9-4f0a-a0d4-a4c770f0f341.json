@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A kneeling figure in an orange robe, with hands clasped in prayer, faces a seated king in blue robes and a crown. The king holds a scepter and gestures towards the kneeling figure. Behind the king is a bed with blue hangings. The scene appears to be set within an interior space, suggested by the architectural elements and the presence of furniture. The background is decorated with a patterned textile and features celestial or allegorical elements, including a large, stylized creature or cloud formation with eyes and a mouth, and scattered insects or stars. The overall composition suggests a narrative or devotional scene, possibly depicting a plea or a divine message.",
+    "scene_interpretation": "The scene likely represents a moment of supplication or divine revelation. The king could be a biblical figure like King David, known for his prayers and psalms, or a symbolic representation of earthly authority receiving spiritual guidance. The kneeling figure might be a petitioner or a prophet. The celestial elements and the unusual creature could symbolize divine intervention or the spiritual realm influencing the earthly one.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ott.lat.2919/Ott.lat.2919_0565_fa_0278r.jp2/287,253,291,471/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within a decorative, quatrefoil frame. On the left, a person in a white monastic habit with a cowl kneels, gesturing with their right hand and looking towards the other figure. Before them is an open book resting on a green cloth. On the right, a bearded man, also in monastic attire, stands holding an open book in his left hand and a staff in his right. He is surrounded by flames, suggesting martyrdom or divine trial. The background is a blue grid pattern with gold accents, and above the kneeling figure is an orange, conical object. The overall setting appears to be a stylized, possibly metaphysical space, indicated by the lack of conventional architecture and the symbolic elements.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/10507300/364,325,962,983/full/0/default.jpg"
+}

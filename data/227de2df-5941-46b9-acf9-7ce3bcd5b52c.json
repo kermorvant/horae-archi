@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, dressed in a blue robe, holds the Christ Child on her lap. Behind her, Saint Joseph stands with a staff. Three Magi, identified by their crowns and rich attire, approach the Virgin and Child. The first Magus, kneeling, offers a golden chalice. The second Magus, in green, holds a similar vessel, and the third, in blue, carries a golden dish. They are accompanied by a retinue of figures in the background. The setting appears to be a humble dwelling, suggested by the draped red fabric and the dark, tiled roof of a simple structure visible behind the figures. A star shines in the blue sky above.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010385p/f167/235,150,923,1381/full/0/default.jpg"
+}

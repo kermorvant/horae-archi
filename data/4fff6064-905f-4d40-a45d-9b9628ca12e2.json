@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the central cross, bearing the inscription \"INRI\" above his head. To his left, the Virgin Mary, veiled and with hands clasped in sorrow, stands beside another grieving woman. To Christ's right, a soldier in armor looks towards the cross, accompanied by other soldiers and figures. Another cross with a figure is visible to the far left. The setting is stark, with no discernible architectural structures or detailed landscape, suggesting a focus on the central event.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00140/270,251,639,963/full/0/default.jpg"
+}

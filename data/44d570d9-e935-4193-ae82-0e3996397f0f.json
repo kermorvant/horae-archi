@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "In a rocky, outdoor setting, Christ kneels in prayer, looking upwards towards a chalice bathed in divine light descending from above. His hands are clasped in supplication. In the foreground, three disciples sleep: Peter rests his head on his hand, while two others, one with a red halo and the other with a golden halo, also appear to be asleep. The landscape is barren and rocky, with sparse vegetation and a distant castle on a hill. The scene depicts the Agony in the Garden, a moment of intense prayer and suffering for Christ before his arrest.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f34/219,250,1977,3028/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts two haloed women, identified as the Virgin Mary and Saint Elizabeth, embracing. The Virgin Mary, on the left, wears a vibrant blue robe and has long, golden, curly hair. Saint Elizabeth, on the right, is dressed in a red robe over a patterned gold and black garment, and wears a white veil covering her head. They are positioned in a landscape setting with rolling green hills and trees in the background. Behind them, two imposing, dark, cylindrical towers rise against a blue sky with scattered golden clouds. The embrace between the two women signifies their meeting after the Annunciation and the conception of Christ and John the Baptist, respectively.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_269/DEPOT/710146101_269_0039/1488,566,1438,2098/full/0/default.jpg"
+}

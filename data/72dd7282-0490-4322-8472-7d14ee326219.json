@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A skeletal figure, personifying Death, lunges towards a kneeling man. Death is depicted as a gaunt, emaciated skeleton with a menacing grin, wielding a club and draped in a white and pink cloth. The man, dressed in a richly decorated red and blue robe, recoils in fear, raising his hands in a gesture of supplication or defense. The scene takes place in an outdoor setting with a green grassy ground and a blue sky in the background, suggesting a moment of confrontation with mortality.",
+    "scene_interpretation": "The Triumph of Death",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Borgh.183/Borgh.183_0095_fa_0046r.jp2/296,260,766,983/full/0/default.jpg"
+}

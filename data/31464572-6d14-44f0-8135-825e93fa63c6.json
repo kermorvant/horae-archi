@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts two figures standing within an architectural frame. On the left, a younger figure, possibly a saint or an angel, wears a brown tunic and a white mantle, holding a processional cross aloft. To the right, an older, bearded man, likely a saint, is dressed in a grey robe and a yellow cloak, carrying a staff and a satchel. They are positioned in front of a landscape with mountains and trees, suggesting an outdoor setting. The figures appear to be in procession or engaged in a devotional act. The architectural frame is ornate, with decorative arches and columns, suggesting a stylized representation of a sacred space or a portal.",
+    "scene_interpretation": "Pilgrimage",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_011/121,166,432,912/full/0/default.jpg"
+}

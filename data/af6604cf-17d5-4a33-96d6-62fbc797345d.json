@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bust portrait of an elderly man with white hair and a white beard is depicted within a circular frame. The man's head is slightly turned to the right, and he appears to be looking forward. His skin is rendered in pale tones, and his facial features are delicately painted. The background is dark, creating a strong contrast with the illuminated face.",
+    "scene_interpretation": "Portrait of a Saint",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.19%2F016_B.13.19_f001v-f002r.jpg/280,656,132,156/full/0/default.jpg"
+}

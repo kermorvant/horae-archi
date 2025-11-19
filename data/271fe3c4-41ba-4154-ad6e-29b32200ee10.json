@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel on the left, kneeling and holding a scroll inscribed with Hebrew text, addressing the Virgin Mary on the right. The Virgin Mary, with a halo, is shown with her hands clasped in prayer, looking towards the angel. She is positioned near a lectern with an open book and a red book placed on a shelf. The setting appears to be an interior space, suggested by a brick wall and a diamond-paned window in the background. A vase with white lilies, a symbol of purity, is placed between the two figures. The background is richly decorated with gold patterns on a pinkish-red fabric.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537214/46194920.tif/713,630,1779,2107/full/0/default.jpg"
+}

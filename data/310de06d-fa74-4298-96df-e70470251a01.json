@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A robed monk stands behind a crowned woman who is seated and reading from an open book placed on a lectern. The monk, wearing a blue habit and a tonsure, has his hand on the woman's shoulder. The woman, adorned with a crown, wears a pink and white garment and a dark patterned skirt. Behind them, a dark curtain hangs, and a patterned textile is visible. The scene is framed by an arched border decorated with floral motifs. The presence of the monk and the crowned woman suggests a devotional scene, possibly depicting a queen receiving spiritual guidance or instruction.",
+    "scene_interpretation": "Devotional Scene",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Monk",
+        "Queen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8555843r/f72/688,218,1160,1802/full/0/default.jpg"
+}

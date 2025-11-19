@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The Virgin Mary, adorned in a blue mantle with gold trim, rides a donkey, cradling the Christ Child. Saint Joseph, wearing a red robe and blue hat, walks behind them, looking weary. In the background, a procession of figures follows, some on horseback. A windmill and buildings are visible in the distance, suggesting a journey through a rural landscape. The scene is framed by an ornate border with floral motifs.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "windmill"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550008032/f173/205,176,556,783/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A figure, likely a queen or noblewoman, is depicted in profile, wearing an elaborate headdress and a richly decorated garment. She holds a shallow bowl or dish in her hands. The scene is framed by an architectural element resembling an arch with decorative foliage. The overall style suggests a medieval manuscript illumination.",
+    "scene_interpretation": "The image does not contain enough elements to definitively interpret a specific religious, biblical, liturgical, or devotional meaning. It appears to be a portrait or a scene from a secular narrative, or a symbolic representation not immediately recognizable without further context.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0039/575,485,382,475/full/0/default.jpg"
+}

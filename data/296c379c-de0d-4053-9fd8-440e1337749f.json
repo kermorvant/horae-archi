@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ standing centrally, with his hands raised in a gesture of blessing or teaching. He is surrounded by several figures. Above and to the sides of Christ are two bearded men, each wearing a cap and standing near architectural structures that resemble small towers or shrines. Below Christ, on either side, are two more bearded men, one on the left looking upwards towards Christ with hands clasped in prayer, and another on the right also with hands clasped in prayer. The overall setting appears to be outdoors, with stylized clouds or architectural elements forming the background.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0086/1028,2035,664,1216/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a close-up of Christ on the cross. His body is emaciated and marked with wounds, including the stigmata on his hands and feet (partially visible) and a significant wound in his side from which blood flows. A golden halo surrounds his head, and golden rays emanate from it. The cross itself is wooden, and there is an inscription in gold lettering on the crossbeam. The background is a dark, textured void, suggesting a metaphysical or spiritual setting.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_314/1820,947,555,589/full/0/default.jpg"
+}

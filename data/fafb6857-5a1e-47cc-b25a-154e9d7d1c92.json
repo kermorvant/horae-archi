@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a helmet or crown with decorative elements. He is dressed in a tunic with two prominent buttons. The background is filled with a dotted pattern, suggesting a stylized representation of foliage or a celestial sphere. The figure is framed by architectural elements that appear to be columns or pilasters, topped with an ornate arch. The overall style is that of a woodcut or engraving, common in medieval manuscripts.",
+    "scene_interpretation": "This image is likely a portrait of a biblical or historical figure, possibly a king or a prophet, given the regal headwear and beard. Without further context or identifying attributes, a specific scene interpretation is not possible. It could represent a figure from the Old Testament, a saint, or even a symbolic representation of a virtue or concept.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0060/2795,4054,464,626/full/0/default.jpg"
+}

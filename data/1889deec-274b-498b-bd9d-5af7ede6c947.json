@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures, including the Virgin Mary, praying with their hands clasped and looking upwards. They are seated or kneeling around a red-draped altar or lectern, upon which rests an open book. Above them, a dove, representing the Holy Spirit, descends with rays of light and flames, symbolizing divine inspiration. To the right, a figure in a monastic habit stands within an architectural niche, gesturing as if preaching or speaking. The background features a decorative red tapestry with gold foliage and a glimpse of architectural elements, including columns and windows, suggesting an interior setting.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "niche",
+        "window",
+        "arch",
+        "wall",
+        "capital"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010383s/f193/421,231,1119,1632/full/0/default.jpg"
+}

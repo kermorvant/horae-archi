@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with two thieves crucified on either side. Christ is shown with a crown of thorns and wounds from the crucifixion. Below, the Virgin Mary, dressed in blue, is depicted in grief, supported by other mourners. To the right, a figure on horseback, possibly a soldier or dignitary, observes the scene, accompanied by other figures. In the background, a city with spires and towers is visible. At the foot of the cross, a skull and bones are depicted, symbolizing Golgotha, the place of the skull.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00095049_00193/152,44,482,713/full/0/default.jpg"
+}

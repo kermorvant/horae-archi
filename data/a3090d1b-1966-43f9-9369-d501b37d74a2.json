@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an outdoor setting, suggested by the presence of foliage and a patterned background that could represent a garden or courtyard. In the center, a woman with a halo, possibly representing a saint or a significant biblical figure, is engaged in conversation with two other women. One of these women holds a basket, and the other appears to be gesturing. To the right, another figure, also possibly female, carries a chest. Behind the central figures, architectural elements are visible, including a column with a decorative capital and what seems to be a large urn or vessel. The overall composition suggests a narrative scene, possibly from a biblical story or a devotional text.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0064/871,1114,459,724/full/0/default.jpg"
+}

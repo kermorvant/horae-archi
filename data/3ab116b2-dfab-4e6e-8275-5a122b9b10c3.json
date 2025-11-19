@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. Three crowned figures, presumably the Magi, are present. One kneels before a seated Virgin Mary, who cradles the Christ Child. The Virgin Mary is dressed in a blue robe adorned with gold patterns, and the Christ Child is also depicted with a halo. The kneeling figure, dressed in pink, offers a golden chalice. Another figure, a king in a green robe, stands behind the kneeling figure, looking towards the Virgin and Child. A third king, dressed in blue and holding a similar golden chalice, stands to the left. The background is highly decorative, featuring a blue and gold diamond pattern and architectural elements suggesting a stylized interior or canopy.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Versailles/Bibliotheque_municipale/786466101_MS0845/DEPOT/786466101_MS0845_0059/1343,1353,1748,2010/full/0/default.jpg"
+}

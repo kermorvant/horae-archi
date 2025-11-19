@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a dramatic moment where a figure, identified as Christ, is being apprehended. He is surrounded by a crowd of men, some of whom are soldiers in armor and helmets, holding spears. One man, wearing a blue tunic and armor, is kneeling and appears to be striking Christ's head, causing blood to flow. Another figure in a red cloak is reaching out, possibly to restrain Christ or to strike him. Christ himself has a sorrowful expression, with his head slightly bowed. The setting appears to be outdoors, with a hint of architectural structure on the right, possibly a wooden beam or part of a building, and a ground with sparse vegetation. The overall atmosphere is one of violence and betrayal.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550098895/f32/388,292,1503,1838/full/0/default.jpg"
+}

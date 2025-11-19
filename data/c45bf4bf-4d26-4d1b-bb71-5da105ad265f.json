@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a brutal martyrdom. A man in a green tunic and red cap is shown raising a large axe to behead a kneeling figure in a blue tunic. The victim's head is already severed and lies on the ground, along with two other severed heads. Several other figures, identified by halos, are shown praying or witnessing the event. To the right, a multi-story building with arched windows and a tiled roof is depicted. An angel with red wings descends from the upper left, holding a smaller figure, possibly a soul, and observing the scene. The background is a rich blue tapestry with a gold diamond pattern.",
+    "scene_interpretation": "Martyrdom of Saint Denis and his companions",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Saint Denis",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f747/406,835,2025,2514/full/0/default.jpg"
+}

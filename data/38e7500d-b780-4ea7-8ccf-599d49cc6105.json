@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a military encampment with soldiers preparing cannons in the foreground, positioned in front of a large, golden tent. Behind them, a fortified city with tall towers and crenellated walls stretches across the horizon. The soldiers are dressed in armor and tunics, actively engaged in aiming and loading the artillery. The overall impression is one of preparation for or engagement in a siege.",
+    "scene_interpretation": "Siege",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "battlement",
+        "tent"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f594/1038,4239,3273,1438/full/0/default.jpg"
+}

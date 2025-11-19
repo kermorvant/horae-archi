@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Betrayal of Christ, with Jesus at the center being embraced by Judas. Jesus, identified by a golden halo with radiating lines, wears a blue robe. Judas, in a red and white striped robe, embraces Jesus. They are surrounded by armed soldiers in blue and green armor, some wearing helmets. In the background, there are stylized representations of torches or standards. The scene is set against a dark, undefined background, suggesting a night-time or dramatic setting.",
+    "scene_interpretation": "Betrayal of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Jesus",
+        "Judas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_115%2Flewis_e_115_jp2.zip%2Flewis_e_115_jp2%2Flewis_e_115_0269.jp2/3428,1563,2236,2894/full/0/default.jpg"
+}

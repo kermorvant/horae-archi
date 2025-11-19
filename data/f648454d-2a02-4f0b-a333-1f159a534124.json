@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A man, identified as David, kneels in prayer outdoors, facing a distant landscape dotted with buildings. He wears a red tunic with a fur-lined collar and a blue cloak. His hands are clasped, and his head is tilted upwards. Beside him lies a blue hat adorned with a feather. In the sky above, an angel descends, radiating light, holding a skull and a branch. In the background, a tall, conical monument stands to the left, and rolling hills recede into the distance, featuring scattered settlements and a prominent church spire. This scene depicts David in prayer, receiving a divine message or vision from an angel, likely representing a moment of repentance or prophecy.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "David",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14936/Vat.lat.14936_0214_fa_0103v.jp2/215,198,579,707/full/0/default.jpg"
+}

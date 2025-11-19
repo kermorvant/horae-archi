@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure, likely Christ, with a halo and beard, holding a globe in his left hand and a cross in his right. He is surrounded by several other figures, some appearing to be in distress or awe. Below the central figure, a warrior saint, possibly Saint George, is shown in armor, holding a spear and a shield, triumphing over a dragon-like creature. The background features architectural elements that suggest a stylized, possibly divine, setting with decorative arches and towers.",
+    "scene_interpretation": "The central figure with the globe and cross represents Christ as the Pantocrator or Savior of the World. The warrior saint subduing a dragon is a common iconography for saints like Saint George, symbolizing the triumph of good over evil or Christ's victory over Satan. The overall scene likely conveys a message of divine power, salvation, and the ultimate victory of righteousness.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tower"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0061/802,3515,665,1178/full/0/default.jpg"
+}

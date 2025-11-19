@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a figure, likely a king, wearing a crown adorned with a floral motif and a richly decorated collar featuring diamond shapes and circles. The figure's beard is long and wavy, and his gaze is directed to the left. He is holding an object in his left hand, possibly a scepter or a flower, and his right hand is positioned near his chest, adorned with a decorative element resembling a flower or a brooch. The overall style suggests a woodcut illustration, possibly from a devotional text or a historical chronicle.",
+    "scene_interpretation": "Royal Figure",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00140/2244,1001,235,1321/full/0/default.jpg"
+}

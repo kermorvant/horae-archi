@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a flock of sheep grazing in a green field. Two shepherds are present: one seated and playing a pipe, dressed in red and blue robes with a yellow hood, and another standing, holding a staff and wearing a red and gold cloak over a gold tunic. Above them, in the sky, a winged angelic figure with multiple faces, possibly representing a choir of angels or a divine messenger, holds a scroll. In the background, rolling hills, trees, and distant structures, including a castle-like building, are visible under a blue sky. The overall impression is one of a peaceful, idyllic rural setting imbued with a divine presence.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd",
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fx508wc9951%252FW420_000134_300/476,339,903,1441/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ in the Sepulchre, shown with wounds from his crucifixion. He is seated within a sarcophagus, draped in a white cloth. Above and behind him, the instruments of the Passion are displayed against a red, patterned background. These include dice, a lantern, a hammer, tongs, a lance, a scourge, and a sponge on a reed. A column with a rope is also visible. The sarcophagus rests on a patch of green ground with sparse vegetation, and a dark shroud lies at its base.",
+    "scene_interpretation": "Christ in the Sepulchre",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "column",
+        "roof"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550094367/f162/350,259,855,1430/full/0/default.jpg"
+}

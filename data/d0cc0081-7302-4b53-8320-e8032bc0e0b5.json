@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a saintly figure, identifiable by his halo and episcopal vestments, standing in an interior space. He wears a pink cope over a green dalmatic and holds a book and a cleaver. The room is furnished with a bed, draped with rich textiles, and a wooden structure that might be a chest or another piece of furniture. The background features a wall with three arched windows and a wooden ceiling structure. The overall impression is of a domestic or monastic chamber, possibly representing a moment in the life of a martyr.",
+    "scene_interpretation": "Martyrdom of a Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f10/481,442,699,840/full/0/default.jpg"
+}

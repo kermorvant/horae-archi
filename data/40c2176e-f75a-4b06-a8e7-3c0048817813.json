@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary seated centrally, hands clasped in prayer over an open book. Around her, the Apostles are gathered, some looking upwards with expressions of awe and wonder, others with hands raised in supplication. Above them, the Holy Spirit descends in the form of a dove, radiating golden light and surrounded by tongues of fire, symbolizing the divine inspiration. The setting is an interior space characterized by classical columns and arches, suggesting a place of worship or gathering. The tiled floor and the ornate architectural elements contribute to a sense of solemnity and divine presence.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0037/DEPOT/751085109_LDUT_0037_0090/1048,523,1417,2563/full/0/default.jpg"
+}

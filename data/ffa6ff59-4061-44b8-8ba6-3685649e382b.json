@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded male figure, likely a saint or prophet, is depicted frontally. He wears a green tunic and a blue mantle adorned with gold patterns. His right hand is raised, index finger pointing upwards, while his left hand grips a staff topped with a blue, cross-like finial. A golden halo surrounds his head. Behind him, vertical lines suggest a rudimentary architectural setting, possibly a wall or columns, rendered in muted tones.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_006v.jp2/4244,6107,1092,1572/full/0/default.jpg"
+}

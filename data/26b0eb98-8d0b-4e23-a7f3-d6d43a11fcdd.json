@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A group of men, some with beards and wearing robes in blue, green, and red, are depicted in conversation. One man, distinguished by a golden halo, stands facing them, holding a red book and gesturing with his right hand. The background is a deep blue with stylized clouds. The foreground is a green field dotted with yellow, stylized vegetation. The scene appears to be an outdoor setting, possibly a pastoral landscape, with no discernible architectural structures.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f356/492,1413,949,1541/full/0/default.jpg"
+}

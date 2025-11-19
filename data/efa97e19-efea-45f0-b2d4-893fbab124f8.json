@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of people gathered around a wooden chest with open books on top. A dove, representing the Holy Spirit, descends from above, radiating light. The figures, including a kneeling person in white, are looking upwards with expressions of awe and devotion. Behind them, architectural elements suggest an interior space with arched windows. The floor is tiled in a green checkered pattern. This scene is interpreted as the Descent of the Holy Spirit upon the Virgin Mary and the Apostles.",
+    "scene_interpretation": "Descent of the Holy Spirit",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_14%2F1945_65_14_jp2.zip%2F1945_65_14_jp2%2F1945_65_14_0077.jp2/3828,2933,3106,3539/full/0/default.jpg"
+}

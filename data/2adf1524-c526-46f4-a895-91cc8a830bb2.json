@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a lush, verdant landscape, possibly a garden or orchard, with trees and foliage surrounding them. In the center, a woman, likely the Virgin Mary, is seated and holding a child, presumably Christ. Another female figure, possibly Saint Anne, is seated beside her, looking towards the child. The figures are rendered with soft outlines and appear to be engaged in a tender, familial interaction. The overall impression is one of pastoral serenity and maternal devotion.",
+    "scene_interpretation": "Madonna and Child with Saint Anne",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Anne"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036821z/f15/880,1854,618,550/full/0/default.jpg"
+}

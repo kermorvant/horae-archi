@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a verdant landscape, possibly a garden or courtyard, with architectural elements suggesting a classical setting. On the left, a standing male figure, possibly a statue or a living person, holds a staff and stands beside a pedestal with a vase-like object. In the center, a group of figures appears to be in distress or engaged in a dramatic event, with one figure raising their arms. To the right, two figures are in motion, one appearing to embrace or restrain the other. In the foreground, a figure lies prostrate on the ground. The overall color palette is dominated by shades of green and yellow, with hints of red and gold in the decorative border at the top. The style suggests a classical or mythological theme, possibly depicting a scene of martyrdom or a dramatic narrative from antiquity.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "pillar",
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510074b/f155/1633,601,1515,1174/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "Four angels, depicted with light pink robes and blue wings, are arranged in a row. The leftmost angel plays a long, dark flute. The second angel from the left plays a lute. The third angel plays a stringed instrument resembling a viol or rebec. The rightmost angel holds a book. They are positioned in front of a richly decorated architectural structure featuring columns and arches, suggesting a divine or celestial setting. The overall scene evokes a heavenly choir or a celestial celebration.",
+    "scene_interpretation": "Celestial Choir",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f141/202,2078,1242,483/full/0/default.jpg"
+}

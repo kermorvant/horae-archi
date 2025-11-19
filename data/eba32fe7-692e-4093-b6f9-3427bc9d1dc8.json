@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable structure. The Virgin Mary, wearing a blue robe and white veil, is shown reclining on a bed covered with a vibrant orange cloth, reaching towards the Christ Child swaddled in white and lying in a manger. To the left, Saint Joseph, an elderly man with a long beard, is seated, leaning on a staff. Above the stable, two angels with red wings are depicted, their mouths open as if singing or proclaiming. Two donkeys are visible in the background, one grey and one yellow, their heads turned towards the manger. The setting is a dark, starry night, with a hint of a distant cityscape. The ground is green, and a few pottery vessels are placed near the bed.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828220/1829,1154,734,1211/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus centrally positioned on the cross, bleeding and wearing a loincloth. To his left and right are two thieves, also crucified. Below, a group of mourners, including the Virgin Mary in a blue mantle and another woman in a pink garment, are gathered on the left. On the right, soldiers in armor and a man in an orange robe observe the scene. In the background, a skull lies on the ground, and a distant city with a prominent spire is visible under a dark sky. The overall atmosphere is somber and dramatic, emphasizing the suffering and death of Christ.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3769/Vat.lat.3769_0243_fa_0117r.jp2/610,671,941,1068/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with Saint Elizabeth, dressed in green and yellow, embracing the Virgin Mary, who is adorned in blue and gold. Saint Elizabeth appears to be speaking to Mary, while an older man, likely Saint Joseph, stands to the left, holding a scroll. Behind them, a complex architectural structure resembling a castle or fortified palace rises, with towers and crenellations. The background features a hilly landscape with trees and a body of water. The entire scene is framed by an ornate golden border with inscribed text, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "battlement",
+        "crenellation"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_084/336,75,840,1343/full/0/default.jpg"
+}

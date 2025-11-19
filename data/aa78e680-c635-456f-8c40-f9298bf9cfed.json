@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identified by her halo, embracing Elizabeth, who is also haloed. Mary wears a blue mantle over a red dress, while Elizabeth is in a red dress and a white head covering. To the left, a bearded man in a blue mantle and red robe, holding a staff, likely represents Saint Joseph or a religious figure accompanying Mary. To the right, a woman in a blue dress and red cap, holding a bouquet of white flowers, is likely a companion or attendant. The figures are set against a landscape with a body of water, rolling hills, and in the background, a city with towers and spires. The sky above is a deep blue with radiating golden light, suggesting divine presence.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60004499/f75/278,156,769,1066/full/0/default.jpg"
+}

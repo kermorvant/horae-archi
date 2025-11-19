@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo, cradles the Christ Child, who is swaddled in white. She wears a vibrant blue robe. To her right stands a male figure, also with a golden halo, dressed in a pink outer garment over a gold-lined tunic. He holds a golden chalice and touches his chin thoughtfully. The figures are positioned within an architectural space characterized by tall, fluted columns and arched windows with tracery. The floor is tiled in yellow, and green draped forms, possibly beds or benches, are visible on either side. The scene is framed by an arched architectural element adorned with decorative foliage.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "window",
+        "tracery_window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008564m/f175/384,255,1127,1261/full/0/default.jpg"
+}

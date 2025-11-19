@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bearded man, likely a scribe or prophet, sits on an ornate chair, dressed in dark robes and a turban. He is shown writing on a scroll, with a quill in his hand. Beside him, a winged ox, a symbol of Saint Luke, lies down, also adorned with a halo and a decorative cloth. The scene is set against a dark, patterned background, with architectural elements suggesting an interior space. A potted plant sits on a pedestal in the background. The overall composition evokes a sense of divine inspiration or scholarly endeavor.",
+    "scene_interpretation": "Evangelist Portrait (Saint Luke)",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100386783/f34/814,285,1089,1360/full/0/default.jpg"
+}

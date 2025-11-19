@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable, indicated by the presence of a manger-like structure and animals. A haloed Virgin Mary, dressed in dark robes, kneels with hands clasped in prayer. Beside her, a haloed infant Christ lies on the ground, with a wound on his chest. To the left, a haloed man, likely Saint Joseph, dressed in a monk's habit, stands holding a staff. Behind them, a donkey is visible. In the background, a town with buildings and a church tower is depicted under a dark sky with celestial bodies. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037130m/f54/2341,223,996,1447/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ's body, pale and marked with wounds, is being lowered by several figures using ladders and a white shroud. One figure supports Christ's head, while others carefully maneuver the body. Below, a group of mourners, including the Virgin Mary in blue and a woman in gold, gaze upwards with expressions of grief. The setting is outdoors, with a green landscape dotted with trees and a distant castle on a hill. The scene is framed by architectural elements on the left, suggesting a view from within a building or a decorative border.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "column"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f296/1647,1198,2550,3812/full/0/default.jpg"
+}

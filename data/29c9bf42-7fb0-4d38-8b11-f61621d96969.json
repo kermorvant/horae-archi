@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a procession of figures, likely soldiers or guards, marching in what appears to be an urban or fortified setting. The foreground is dominated by three individuals, two in the center and one to the left, all holding long staffs or spears. They are clad in armor and tunics, with elaborate hairstyles. Behind them, a row of buildings with arched windows and crenellated rooftops is visible, suggesting a city or castle. The overall impression is one of organized movement and perhaps a ceremonial or military event.",
+    "scene_interpretation": "This scene does not depict a specific biblical, liturgical, or devotional event recognizable from standard iconography. It appears to be a secular or historical representation, possibly illustrating a procession, a military parade, or a scene from a historical narrative.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "battlement",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0078/5241,1964,458,1029/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ Child in the Temple. A woman in a blue mantle, likely the Virgin Mary, presents the infant Christ to an elderly man, possibly Simeon, who holds the child. Behind the Virgin Mary stands a woman in a white veil and green garment, with hands clasped in prayer, perhaps representing Anna or another devout figure. Two other men, one in a red robe and black hood holding a torch, and another in a yellow cap, are also present. The figures are positioned within a grand architectural setting characterized by stone walls, columns, and arched doorways, suggesting a temple or church interior. A decorative emblem is visible above an arched window in the background.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0077/DEPOT/M601415401_MS0077_0079/1606,714,1795,3185/full/0/default.jpg"
+}

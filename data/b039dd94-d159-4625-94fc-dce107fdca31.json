@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a wooden cross standing on a mound of earth, with the inscription 'INRI' visible at the top. The cross is rendered with a rough texture, suggesting it is made of wood. The mound beneath it is depicted with swirling lines, possibly representing rocks or soil. The entire image is framed by a decorative border featuring repeating geometric motifs and small architectural elements. The background consists of text, indicating this is an illustration from a manuscript.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f220/768,560,989,1304/full/0/default.jpg"
+}

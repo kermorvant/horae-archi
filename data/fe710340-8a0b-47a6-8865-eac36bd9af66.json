@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, with a halo, is kneeling and praying, her hands clasped. Beside her, Joseph, also with a halo, holds a candle. In the foreground, the Christ Child lies on the ground, and to the left, an ox is visible. The figures are situated within a rudimentary architectural structure, possibly a stable, suggested by the presence of animals and the shelter-like construction above. The overall impression is one of humble reverence and the divine birth.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0019/5829,1960,551,1229/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bust portrait of a bearded man with grey hair and a halo, depicted within a blue oval frame. The man is looking slightly to the left, with a serious expression. He wears a golden garment around his neck. The background is a textured, light brown, suggesting parchment. The halo is rendered with radiating lines and a golden hue, indicating sanctity.",
+    "scene_interpretation": "Portrait of a Saint",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00092/1249,1781,257,325/full/0/default.jpg"
+}

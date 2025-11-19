@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on their journey, likely the Flight into Egypt or the Nativity. The Virgin Mary, with a halo, rides a donkey, holding the Christ Child, also with a halo. She is dressed in a blue mantle over a red garment. Joseph, with a red hat and beard, walks beside the donkey, leaning on a staff and carrying a bundle on his back. They are traversing a hilly, green landscape with sparse trees. In the background, a windmill stands on a hill, and a small figure is visible on a distant path. Above the scene, within an arched frame decorated with gold and blue patterns, a bearded figure, possibly God the Father, is depicted with a radiant halo, emerging from blue clouds.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.31%2F119_B.11.31_f054r.jp2/861,591,1845,2556/full/0/default.jpg"
+}

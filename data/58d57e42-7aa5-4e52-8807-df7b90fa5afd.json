@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a central, cylindrical altar or brazier, rendered in grey stone with vertical fluting and layered base. From this altar erupts a large, vibrant flame. Flanking the central structure are two smaller, basket-like containers also filled with flames. Above the altar, a golden, open-air pavilion is supported by four twisted columns. The pavilion's roof is decorated with a series of small, rounded arches. The background is a dark, speckled void, suggesting a non-terrestrial setting. The entire composition is framed by a golden, scalloped border.",
+    "scene_interpretation": "Sacrifice",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8427228j/f392/1756,3054,573,617/full/0/default.jpg"
+}

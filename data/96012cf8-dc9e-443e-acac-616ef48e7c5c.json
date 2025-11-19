@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a bust of Christ, rendered with a serene expression, eyes closed, and head slightly bowed. He has long, flowing brown hair and a beard. A golden halo surrounds his head, and his body is clad in a dark blue robe with gold detailing. The background is a rich, textured gold leaf, adorned with a repeating pattern of stylized floral or foliate motifs in reddish-brown. Christ's hands are visible, one gesturing slightly upwards, the other resting. The overall impression is one of contemplative devotion.",
+    "scene_interpretation": "Christ in contemplation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f269/1559,2892,1611,1165/full/0/default.jpg"
+}

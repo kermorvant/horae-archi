@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated, holding the Christ Child on her lap. They are surrounded by several figures, including two winged angels. One angel on the left appears to be presenting something to the Christ Child, while another on the right holds a large, indistinct object. Two kneeling figures, likely donors or saints, are positioned in front of the Virgin and Child. The figures are set within an architectural framework that includes a throne-like seat for the Virgin and a decorative, arched canopy above. The background is filled with intricate floral ornamentation. The overall impression is one of a devotional scene, likely the Madonna and Child with attendants or adorers.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f388/312,44,1229,1684/full/0/default.jpg"
+}

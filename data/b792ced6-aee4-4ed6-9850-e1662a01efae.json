@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the lifeless body of Christ in her lap. Christ's body is limp, with wounds visible on his hands and feet. Mary, draped in a blue mantle, looks down at her son with a sorrowful expression. Behind them, a mountainous landscape unfolds under a starry blue sky, with a golden sun or halo above Mary. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550085652/f271/306,55,1182,1571/full/0/default.jpg"
+}

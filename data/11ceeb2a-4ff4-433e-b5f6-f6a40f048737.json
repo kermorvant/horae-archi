@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene is a complex composition featuring multiple vignettes. At the top, the Virgin Mary is depicted nursing the Christ Child, surrounded by a radiant halo and stars, with angels playing musical instruments on either side. Below this, a central blue cartouche contains gilded text. To the left of the cartouche stands a bearded man in armor, holding a book and a staff, identified as Saint Wilhelm. To the right, Christ is shown crucified, with a figure below him, possibly Mary Magdalene, supporting his feet. The scene is framed by architectural elements and decorative motifs, including putti, coats of arms, and floral elements. At the bottom, two more angels flank a detailed coat of arms.",
+    "scene_interpretation": "The overall composition appears to be the title page or frontispiece of a Book of Hours dedicated to the Virgin Mary. The central text \"OFFICIVM B. MARIA VIRGINIS, PIIV. PONT. MAX. iussu editum.\" indicates it is the Office of the Blessed Virgin Mary, published by papal command. The vignettes represent key figures and events related to Christian devotion: the Virgin and Child, the Crucifixion, and saints. The presence of musical angels suggests praise and devotion, while the coats of arms likely indicate the patron or owner of the book.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Wilhelm"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105380373/f7/185,198,1888,3022/full/0/default.jpg"
+}

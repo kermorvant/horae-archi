@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony, likely the Circumcision of Christ, within an interior setting. A bishop, identifiable by his mitre and robes, holds the Christ Child, who is presented on a white cloth draped over a table. A man in a green tunic and a distinctive hat stands behind the table, gesturing with his finger as if speaking or explaining. To the right, a woman in a blue headdress and grey dress holds a basket, and another woman, possibly the Virgin Mary, kneels with her hands clasped in prayer. A tall candle burns brightly beside the figures. The background features draped red and blue fabrics, suggesting a domestic or ceremonial space, with a glimpse of a window with diamond-shaped panes. The entire scene is framed by an elaborate border of green, gold, and red elements, with letters visible on the gold scrolls.",
+    "scene_interpretation": "Circumcision of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window"
+    ],
+    "persons": [
+        "Christ Child",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/68534352/68570168.tif/608,225,1905,2409/full/0/default.jpg"
+}

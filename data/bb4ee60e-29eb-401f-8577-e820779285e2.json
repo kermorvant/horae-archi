@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, possibly a king or prophet, is depicted wearing a turban with a crown-like element. He is seated and holds a book in his left hand, with his right hand raised to his chin in a contemplative gesture. The scene is framed by architectural elements, including decorative arches and columns, suggesting an interior or a stylized architectural setting. The background is filled with a stippled pattern.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0096/1792,3978,464,715/full/0/default.jpg"
+}

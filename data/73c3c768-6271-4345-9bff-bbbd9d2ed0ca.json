@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a richly decorated architectural setting. On the left, the Angel Gabriel, with large blue wings and an orange robe, kneels with hands crossed over his chest, facing the Virgin Mary. The Virgin Mary, dressed in a blue robe, is seated on the right, her hands clasped in prayer over an open book resting on a red, gold-patterned cloth. The floor is a checkered pattern of green and gold. Behind them, an arched portal opens to a landscape with trees and a distant fountain, where Adam and Eve are depicted with Christ. The surrounding architecture is elaborate, featuring niches with figures of saints and prophets, and ornate arches.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "wall",
+        "portal"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f111/807,727,3413,4966/full/0/default.jpg"
+}

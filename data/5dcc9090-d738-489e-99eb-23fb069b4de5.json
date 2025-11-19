@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Adam and Eve standing within a large, oval-shaped vessel, possibly representing the womb or a symbolic enclosure. They are nude, with Adam on the left and Eve on the right. Behind them, a lush landscape unfolds with trees and bushes. In the background, a fortified structure, possibly a castle or a walled city, is visible on a hill. The overall impression is of a primordial or allegorical setting.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511766t/f10/728,1214,487,465/full/0/default.jpg"
+}

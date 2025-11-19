@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a young person, possibly a boy, wearing a blue cap and a white tunic with blue sleeves, engaged in sowing seeds. The figure is shown in profile, looking downwards, with one hand holding a pouch of seeds and the other scattering them onto the ground. To the left, a large, white basket or container holds a mound of what appears to be grain or seeds. In the background, a stylized landscape features green hills dotted with gold leaf, and a cluster of red flowers. Behind the landscape, a fortified building complex with towers and crenellations is visible, suggesting a town or castle. The overall scene evokes a sense of agricultural labor and the bounty of the earth, likely representing a month or a season associated with sowing.",
+    "scene_interpretation": "Sowing",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "battlement",
+        "crenellation",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_006r.jp2/836,516,1248,1734/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Sebastian, bound to a tree trunk, pierced by arrows. He is shown with a halo, indicating his sainthood. To his left, a man in a red tunic and orange hat draws a bow, aiming an arrow at Sebastian. The background is a lush green landscape with trees and foliage under a blue sky. This imagery represents the martyrdom of Saint Sebastian, a Roman soldier who was condemned to death by Emperor Diocletian and shot with arrows.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_095%2Flewis_e_095_jp2.zip%2Flewis_e_095_jp2%2Flewis_e_095_0277.jp2/2373,2638,1572,1495/full/0/default.jpg"
+}

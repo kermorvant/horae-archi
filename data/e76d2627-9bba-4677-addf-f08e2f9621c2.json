@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, possibly a scholar or prophet, is depicted seated and reading from a large, open book. He wears a distinctive hat and robes. To his right, a creature resembling a dragon or a mythical beast with a long neck and horns looks towards him. Behind the man, architectural elements suggest an interior space with shelves filled with objects, possibly books or religious artifacts. The scene is rendered in a woodcut style, with strong lines and hatching.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0081/4938,2991,500,764/full/0/default.jpg"
+}

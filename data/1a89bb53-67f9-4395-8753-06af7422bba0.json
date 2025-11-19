@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Baptist in a rocky, wooded landscape, seated and holding an open book. He is dressed in a purple tunic and a red cloak lined with gold. His right hand is raised, holding a thin stick or reed, and he looks upwards. To the left, a monstrous, seven-headed beast emerges from the water, its body resembling a lion. In the foreground, two books lie on the ground, and a decorative red border with gold ornamentation runs across the bottom of the image. The overall setting is outdoors, with a body of water and trees visible.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f13/394,384,1552,2756/full/0/default.jpg"
+}

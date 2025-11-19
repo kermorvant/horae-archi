@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A man, richly dressed in a blue tunic and a pink robe trimmed with white fur and gold, sits on a wooden chair near a fireplace. He wears a blue and gold crown and red shoes. His left hand is raised in a gesture of speech or explanation. To his right, a woman in a blue dress and white head covering carries a bundle of firewood. Behind her, a wooden cabinet holds a bowl and a jug. The scene takes place indoors, with a window showing a diamond-patterned grid, suggesting a domestic setting. The presence of a fire and firewood implies a need for warmth and sustenance.",
+    "scene_interpretation": "This scene likely depicts a domestic moment, possibly illustrating a moral or didactic tale, or a scene from daily life that serves as a backdrop for a devotional text. The man's regal attire and gesture might suggest a figure of authority or wisdom, while the woman's task of gathering firewood could represent labor or humility. Without further context, a specific biblical or liturgical interpretation is not possible, but it evokes themes of domesticity, provision, and social roles.",
+    "spatial_context": "indoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "man",
+        "woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0081/DEPOT/M601415401_MS0081_0007/1492,2928,736,623/full/0/default.jpg"
+}

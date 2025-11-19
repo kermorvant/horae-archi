@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a table, with the Virgin Mary seated in the center. Above them, a dove, representing the Holy Spirit, descends from a golden halo. The figures are shown with their hands clasped or raised in prayer and awe. The architectural setting features a series of arches supported by columns, suggesting an interior space. The overall composition conveys a moment of divine inspiration and spiritual communion.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421463/942,320,1090,1814/full/0/default.jpg"
+}

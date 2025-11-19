@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a crown and a richly decorated garment. He is shown in profile, looking to the right. The background is textured, and the scene is framed by an architectural border with decorative elements. The man's hands are clasped in front of him. The overall style suggests a medieval woodcut or engraving.",
+    "scene_interpretation": "This is likely a depiction of a king or a royal figure, possibly from a historical or biblical narrative. Without further context, a specific scene interpretation is not possible, but the regalia suggests a figure of authority.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0066/4505,4181,425,594/full/0/default.jpg"
+}

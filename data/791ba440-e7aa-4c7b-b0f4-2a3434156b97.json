@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint, is depicted with a golden halo and long, flowing hair. She wears a blue tunic with a grid pattern and a red mantle lined with gold. In her left hand, she holds a slender, golden rod or staff, and in her right, she holds an open book. The background is a bright blue sky with hints of distant landscape elements, suggesting an outdoor setting. The figure's gaze is directed to the right, and her lips are slightly parted. The overall impression is one of piety and contemplation, possibly representing a saint known for her wisdom or martyrdom.",
+    "scene_interpretation": "Saint holding a book and a martyr's palm/staff",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0138/DEPOT/315556101_MS0138_0072/4049,1001,965,965/full/0/default.jpg"
+}

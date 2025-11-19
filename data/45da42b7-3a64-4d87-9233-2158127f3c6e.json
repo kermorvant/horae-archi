@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a lone male figure, likely a saint or prophet, standing in prayer. He is dressed in a simple pink robe and has a halo around his head, indicating his sanctity. His hands are clasped together in supplication, and his gaze is directed upwards. He stands before a stylized representation of a tree with large, green leaves. The background is a rich gold, suggesting a divine or spiritual setting. The figure is framed by architectural elements that resemble Gothic tabernacles, complete with spires and decorative tracery, rendered in blues, reds, and gold.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "spire",
+        "tracery_window",
+        "arch",
+        "column",
+        "wall",
+        "pinnacle"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dk442xf9851%2FW90_000035_1200/515,1743,2379,3528/full/0/default.jpg"
+}

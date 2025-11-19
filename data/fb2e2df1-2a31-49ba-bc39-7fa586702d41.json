@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a martyrdom. A haloed figure, likely a saint, stands naked and bound, pierced by numerous arrows. Several figures surround him, some holding bows and arrows, suggesting they are the executioners. One figure wears a crown, indicating a person of authority. In the background, stylized architectural elements and foliage are visible. The overall composition suggests a violent act of persecution and death, interpreted as the martyrdom of Saint Sebastian.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0080/1402,2488,576,926/full/0/default.jpg"
+}

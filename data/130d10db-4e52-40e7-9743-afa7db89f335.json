@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A bearded man, dressed in a red robe and a green turban-like hat, stands behind a table covered with a yellow cloth. He holds a sword in his right hand, pointing it towards a circular medallion on the table. The medallion depicts a figure, likely Christ, with arms outstretched, surrounded by stars and what appear to be wounds. The background features a blue starry sky and glimpses of a landscape through architectural openings. The floor is tiled in a diamond pattern. The scene is framed by architectural elements suggesting an indoor setting with views to the outside.",
+    "scene_interpretation": "The scene likely depicts a devotional image related to Christ's Passion or the wounds of Christ, possibly within a context of prayer or contemplation. The man holding the sword could represent a figure of authority or a devotee engaging with the sacred image.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013837f/f24/208,288,1526,2284/full/0/default.jpg"
+}

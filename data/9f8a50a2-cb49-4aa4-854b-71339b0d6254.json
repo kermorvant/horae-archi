@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with rolling hills and scattered buildings. In the foreground, three men are present, along with several sheep and horses. One man, dressed in blue and gold, looks upwards with his arm raised, seemingly in awe or supplication. Another man, in yellow and blue, places a hand on his shoulder, also looking upwards. A third man, in yellow and blue, is positioned in front, his arms crossed, with a somber expression. Above them, an angel with golden wings descends from a radiant sky, holding a banner inscribed with \"GLORIA IN ALTISSIMIS DEO\" (Glory to God in the Highest). In the background, a fortified town or castle with towers and spires is visible, nestled amongst the hills. The overall scene suggests a divine revelation or a moment of spiritual significance occurring in a rural setting.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "fortress"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10026758n/f107/325,98,1498,1905/full/0/default.jpg"
+}

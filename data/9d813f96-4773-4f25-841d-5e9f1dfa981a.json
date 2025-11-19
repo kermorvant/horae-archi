@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Christ being held by a figure, possibly Joseph of Arimathea, while another figure, likely the Virgin Mary, kneels in sorrow. Other figures are present, including one standing behind Christ and another to the right, possibly a disciple or follower. The figures are rendered in a stylized, woodcut-like manner. The scene is framed by an architectural element resembling an archway, suggesting an interior or a symbolic architectural setting. The overall composition conveys a sense of grief and reverence.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0031/722,1663,598,1038/full/0/default.jpg"
+}

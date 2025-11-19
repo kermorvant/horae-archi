@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and bleeding, being presented to a crowd. He is clad in a purple cloak and a loincloth, with his hands bound. He bears the marks of scourging on his body. He is led by a figure in a blue robe and a distinctive red and white hat, holding a spear. Behind Christ, several other figures are visible, some looking on with somber expressions. The background suggests an architectural setting with arches and decorative elements, possibly a palace or a hall of judgment. The inscription \"ECCE HOMO\" (Behold the Man) is prominently displayed, identifying the moment of Christ's presentation to the people before his crucifixion.",
+    "scene_interpretation": "Ecce Homo",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "column",
+        "capital",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ",
+        "Pontius Pilate"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84328965/f88/302,140,1501,2206/full/0/default.jpg"
+}

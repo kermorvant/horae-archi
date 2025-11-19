@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "Two female saints, identified by their halos, stand in a verdant landscape. The saint on the left, dressed in a pink gown and blue mantle, gently touches a white lamb. The saint on the right, in a golden gown and purple mantle, holds a model of a tower with a red conical roof. In the background, rolling hills are dotted with trees and crowned with fortified castles. A shepherd tends to his flock on one hill, while another figure stands near a castle on a distant ridge. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "The presence of the lamb strongly suggests the saint is Agnes of Rome, a virgin martyr often depicted with this attribute. The tower held by the other saint could symbolize a place of refuge or imprisonment, or perhaps a church dedicated to her. The overall scene likely represents the martyrdom or life of Saint Agnes.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Saint Agnes"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100254479/f510/1111,281,1073,1595/full/0/default.jpg"
+}

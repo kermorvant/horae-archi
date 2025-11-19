@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Dormition of the Virgin Mary, with the Virgin lying on a bed, her eyes closed, and a halo around her head. She holds a cross in her hands. Around her bed stand several figures, some with halos, appearing to be apostles or disciples, with expressions of sorrow and reverence. One figure, seated on the floor in the foreground, also with a halo, reads from a book. Above, in a celestial arc, a representation of Christ or God is visible, radiating light. The setting appears to be an interior space, suggested by the bed and the tiled floor, though the background is a patterned tapestry and an arched frame with floral motifs.",
+    "scene_interpretation": "Dormition of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.19%2F096_B.11.19_f080v-f081r.jpg/2386,210,785,1159/full/0/default.jpg"
+}

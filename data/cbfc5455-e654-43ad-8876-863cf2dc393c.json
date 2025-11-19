@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two shepherds in simple tunics, one holding a staff and looking upwards, the other standing beside him. A flock of sheep is gathered behind them. Above, a blue angelic figure with outstretched arms appears amidst a decorative background of gold quatrefoils on a white ground. The overall impression is one of a pastoral setting, possibly representing the Annunciation to the Shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8453974s/f171/414,309,1861,2284/full/0/default.jpg"
+}

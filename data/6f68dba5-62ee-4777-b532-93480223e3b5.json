@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a man and a woman in an outdoor setting. The man, dressed in a long dark robe and a hat, stands and offers something to the woman. The woman is seated on a basket, wearing a pink dress and a black head covering. She holds a small white animal, possibly a cat or a lamb, in her lap. In the background, a building with a pitched roof and a doorway is visible, along with trees and a field. Above them, a golden-brown animal, likely a cow, is depicted in the sky, seemingly in motion or falling. The overall scene is framed by decorative borders.",
+    "scene_interpretation": "The scene is likely an illustration from a Book of Hours, possibly depicting a secular scene or a biblical narrative. The presence of the cow in the sky is unusual and could be symbolic, perhaps related to a specific astrological sign (Taurus) or a less common biblical event. Without further context, a definitive interpretation is difficult, but it could represent a pastoral scene or a moment of divine intervention.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "door"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/49314636/728,2152,803,790/full/0/default.jpg"
+}

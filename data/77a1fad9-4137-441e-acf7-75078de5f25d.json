@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross at the center. To the left, the Virgin Mary, clad in a blue mantle, is shown with hands clasped in prayer, surrounded by other grieving figures. To the right, a man on a white horse, adorned with a red and gold saddlecloth, observes the scene, accompanied by other figures. In the background, a city with towers and buildings is visible. The ground is rendered with green hills and foliage. The overall scene is set outdoors, under a blue sky.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_INCRIA063/DEPOT/B721816101_INCRIA063_0026/3467,363,2259,3062/full/0/default.jpg"
+}

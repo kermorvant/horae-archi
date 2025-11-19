@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The image depicts a male figure, likely Christ, wearing a crown of thorns and holding a reed in his left hand and a bundle of cords in his right. He is shown from the waist up, with a halo behind his head. The figure is framed by architectural elements that suggest an interior setting, possibly a niche or a stylized architectural opening with columns and arches. The background is filled with decorative elements and clouds.",
+    "scene_interpretation": "Passion of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "halo",
+        "niche"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00013/1731,245,621,841/full/0/default.jpg"
+}

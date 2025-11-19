@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures with halos, including the Virgin Mary, gathered on an elevated platform or balcony, illuminated by rays of light emanating from a dove, symbolizing the Holy Spirit. Below them, a woman wearing a blue head covering and a pink and green striped robe is shown opening a richly decorated door. The architectural setting features a stone wall with a decorative frieze above the door. The overall composition suggests a divine event occurring within a structured, possibly sacred, space.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "door",
+        "arcade",
+        "capital",
+        "roof",
+        "gable"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_115%2Flewis_e_115_jp2.zip%2Flewis_e_115_jp2%2Flewis_e_115_0369.jp2/3389,1436,2383,3167/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a partially enclosed architectural setting. On the left, the Virgin Mary, adorned with a golden crown and halo, holds the Christ Child. She wears a blue mantle and holds a small pear-like object. Behind her, a richly patterned textile hangs. To the right, three Magi are present. One kneels, offering a golden vessel, while another stands, holding a similar offering and gesturing with his hand. A third figure, also crowned, stands behind them. The architecture includes a wooden structure with a pitched roof and visible beams, suggesting a stable or humble dwelling. Rays of light emanate from the upper right, illuminating the scene and a star above. In the background, hints of animals and a landscape are visible.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/HMML/HMML%2000004/HMML_00004_Bean_2_082r.JPG/452,476,744,1120/full/0/default.jpg"
+}

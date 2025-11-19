@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, clad in a blue mantle and white veil, looking towards the viewer with a serene expression. Beside her, the Christ Child, with a halo, is reaching up to grasp a wooden cross. Above the cross, an angel with wings and a halo is depicted, looking downwards. The background features a stylized landscape with rolling hills and a blue sky, suggesting an outdoor setting. The figures are placed within an architectural context suggested by a richly decorated red curtain on the left and a golden border with decorative motifs on the right. The overall scene evokes a devotional moment, possibly related to the Passion of Christ or the Virgin's contemplation of her son's destiny.",
+    "scene_interpretation": "The scene likely represents the Virgin Mary and the Christ Child, with an angel. The presence of the cross strongly suggests a connection to the Passion of Christ. The angel might be a messenger or a witness to this moment. The scene could be interpreted as a prefiguration of the Crucifixion or a devotional image for contemplation of Christ's sacrifice and Mary's role in it.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS2842/DEPOT/315556101_MS2842_0148/1700,535,1795,2734/full/0/default.jpg"
+}

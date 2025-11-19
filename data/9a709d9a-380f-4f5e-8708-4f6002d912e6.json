@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary, a significant event in Christian iconography. The Virgin Mary, depicted kneeling with clasped hands in prayer, is being crowned by both God the Father (on the left, wearing a bishop's mitre and robes) and Christ (on the right, depicted as a beardless youth). Above them, the Holy Spirit is represented by a dove descending, radiating golden light. The figures are seated or kneeling on clouds, surrounded by smaller cherubic figures with wings. The background is a radiant gold, suggesting a divine and heavenly setting. The overall composition emphasizes the divine investiture of Mary as Queen of Heaven.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "God the Father",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_109%2Flewis_e_109_jp2.zip%2Flewis_e_109_jp2%2Flewis_e_109_0128.jp2/908,1505,2725,3755/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "In a forest setting, a man in hunting attire, including a red tunic, yellow breeches, and black hose, kneels with his hands clasped in prayer. He is accompanied by a horse laden with hunting gear. Before him stands a stag, and miraculously, a depiction of Christ on the cross is affixed to the stag's antlers, appearing as if crucified upon the branches of a tree. The background is filled with dense foliage and trees, suggesting a deep woodland.",
+    "scene_interpretation": "The Legend of Saint Eustace",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Eustace",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008564m/f215/412,370,1153,1097/full/0/default.jpg"
+}

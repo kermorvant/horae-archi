@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and ornate cope, stands in profile, hands clasped in prayer. He is dressed in a blue tunic beneath the red cope, which is richly decorated with gold patterns. Behind him, two figures, likely attendants or devotees, also with hands clasped in prayer, are depicted. The background features rolling green hills and a distant city with towers and domed structures. The scene is set outdoors, with a clear blue sky above.",
+    "scene_interpretation": "Saint in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_107v.jp2/1020,4791,1307,2717/full/0/default.jpg"
+}

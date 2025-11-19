@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an architectural setting. On the left, two figures in clerical attire, one in a red and gold cope and the other in a pink garment, are reading from a book placed on a wooden lectern. In the center, a figure draped in a blue, star-patterned robe stands before an altar, flanked by lit candles. Behind this central figure, a golden canopy is visible. To the right, a group of four figures in black monastic habits, with hoods obscuring their faces, are also engaged in reading from books. The background features a vaulted ceiling with blue and gold decoration, supported by columns, and arched windows. The floor is tiled in a green and white checkered pattern. The overall scene suggests a liturgical service or a devotional rite.",
+    "scene_interpretation": "Funeral Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "vault",
+        "window",
+        "roof",
+        "altar",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Cleric",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Caen/Musee_des_Beaux_Arts/141185204_coll_mancel_ms0239/DEPOT/141185204_coll_mancel_ms0239_0110/3560,499,1210,1920/full/0/default.jpg"
+}

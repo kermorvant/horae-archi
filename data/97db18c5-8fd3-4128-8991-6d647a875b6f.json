@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a close-up of three figures. On the left, a man with a golden halo, long brown hair, and a beard, wearing a blue robe, is shown in profile, looking to the right. Behind him, another figure is partially visible. To the right of the haloed figure, two men are engaged in conversation. One man, wearing a red cap and orange robe, gestures with his right hand. The other man, wearing a blue cap and blue robe, looks intently at the gesturing man. The background suggests an interior architectural setting with dark walls and decorative elements. Below the figures, a decorative border frames a section of text in Gothic script.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0147/bge-lat0147_0162v.jp2/1089,513,3374,5059/full/0/default.jpg"
+}

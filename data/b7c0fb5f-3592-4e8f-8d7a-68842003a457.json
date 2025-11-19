@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and seated, holding the Christ Child on her lap. She wears a red undergarment and a blue mantle lined with ermine, and holds a scepter. The Christ Child is nimbled and looks towards the viewer. Two angels, one on each side, hold golden drapery behind the Virgin and Child, their wings spread. The figures are set against a dark background with ornate gold patterns, framed by architectural elements that suggest an interior space. The overall impression is one of regal majesty and divine presence, likely representing the Madonna and Child in glory.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0822_0513/DEPOT/620416201_MS0822_0513_0094/4804,1121,1889,2221/full/0/default.jpg"
+}

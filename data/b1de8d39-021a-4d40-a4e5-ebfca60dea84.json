@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ on the cross, his body rendered with a pale, wounded skin, draped with a white loincloth. Bloodstains are visible on his legs and torso, indicating the suffering of the crucifixion. He is affixed to a rough wooden cross, which stands against a vibrant red background adorned with a repeating pattern of stylized golden foliage. The ground beneath the cross is depicted as dark and uneven. The overall impression is one of intense suffering and religious devotion.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828294/640,2766,792,1078/full/0/default.jpg"
+}

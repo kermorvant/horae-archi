@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, likely a prophet or saint, is depicted in a seated, contemplative pose, leaning forward with eyes closed and head bowed. They are draped in a blue mantle over a red garment, and their arms are wrapped around a scroll inscribed with text. The scene is framed by an architectural element resembling an archway, with golden decorative elements suggesting a divine or sacred context. Behind the figure, a textured, reddish-brown background is visible, possibly representing a wall or rock face, and a patch of green, suggesting foliage or ground cover. The overall impression is one of deep spiritual introspection or divine revelation.",
+    "scene_interpretation": "Prophet",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Prophet"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550085652/f73/974,2454,404,471/full/0/default.jpg"
+}

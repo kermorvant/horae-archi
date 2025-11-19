@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A ram stands in a natural setting, surrounded by foliage and flowers. The ram has large, curled horns and is depicted in profile. Above the ram, a decorative arch frames the scene, filled with a pattern of dots and leaves. The overall composition suggests a pastoral or allegorical representation.",
+    "scene_interpretation": "Ram",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0081/2579,3390,297,467/full/0/default.jpg"
+}

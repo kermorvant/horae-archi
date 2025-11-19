@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and holding the Christ Child, who is reaching out. They are surrounded by three winged figures, likely angels, one of whom holds a scroll with musical notation. To the right, a kneeling woman in a dark, fur-lined robe with a gold necklace and red-dotted sleeves gestures with clasped hands. Behind them, an arched architectural structure frames a view of a building with a patterned roof and a courtyard with a fence and greenery. The overall setting suggests a devotional or religious gathering, possibly within a courtyard or garden adjacent to a building.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550008032/f381/260,190,544,781/full/0/default.jpg"
+}

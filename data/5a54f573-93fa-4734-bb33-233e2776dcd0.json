@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, depicted in profile facing left, wears a crown and a richly patterned robe. His right hand is raised in a gesture of speaking or blessing. He is framed by decorative architectural elements, including what appear to be stylized arches and foliage, set against a background of stippling. The overall impression is of a regal or significant figure within a decorative, possibly architectural, context.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0064/2833,3965,463,752/full/0/default.jpg"
+}

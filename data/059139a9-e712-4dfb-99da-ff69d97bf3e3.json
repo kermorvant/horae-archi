@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and wearing a blue mantle, holds the Christ Child on her lap. The Christ Child, in a red tunic, reaches towards a golden chalice offered by one of the Magi who is kneeling. Two other Magi stand behind, one in a red robe holding a golden vessel, and another in a red and blue tunic holding a reliquary. The figures are positioned within a simple wooden stable structure, with a red patterned cloth visible behind the Virgin. In the background, a landscape unfolds with rolling hills, trees, and a fortified city with towers and crenellated walls under a starry blue sky. The overall scene is framed by a decorative border with floral motifs.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower",
+        "battlement",
+        "gable"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.118/Ross.118_0133_fa_0058r.jp2/330,270,456,714/full/0/default.jpg"
+}

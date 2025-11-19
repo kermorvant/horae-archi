@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with shepherds tending to their flock of sheep. In the foreground, two shepherds are looking upwards with awe and surprise, their arms outstretched. One shepherd, dressed in blue and orange, kneels on a rocky outcrop, while another, in red and blue, is on one knee. A dog stands attentively beside the latter. In the middle ground, other shepherds are visible, some guiding sheep over a wooden fence. In the background, a large, dark structure resembling a crane or a winch stands on a hill. Above, in the sky, an angelic figure with outstretched wings descends, seemingly announcing something to the shepherds. Distant buildings, including towers and spires, suggest a town or city on the horizon. The overall scene captures the moment of the Annunciation to the Shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "bridge"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0036/DEPOT/751085109_LDUT_0036_0088/1430,707,1084,1926/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a golden reliquary, possibly containing a saint's remains, displayed on a draped table. To the left, a figure in a dark habit stands with hands clasped. In the foreground, a woman in a pink gown clutches her chest, where a small red heart-like object is visible, suggesting martyrdom or intense devotion. She is supported by two other women, one in gold and another in lavender, who appear concerned. The background shows architectural elements, including a window with tracery and columns, indicating an indoor setting, likely a church or chapel.",
+    "scene_interpretation": "Martyrdom of a Female Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Nun"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/028f2448-560e-45ec-9e3f-b03e2d90d1f4/340,1762,979,627/full/0/default.jpg"
+}

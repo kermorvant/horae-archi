@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Jesus, wounded and wrapped in a white loincloth, resting on the lap of the Virgin Mary, who is dressed in a blue mantle and white veil. To the left, a figure with curly hair, likely Saint John the Evangelist, leans in with a sorrowful expression. To the right, a woman, possibly Mary Magdalene, is shown with clasped hands in prayer. In the background, the crucifixion is taking place with two figures on crosses, and other figures are present, including one carrying a ladder. A distant view shows a town with a prominent church spire. The ground is rendered with green grass and rocky outcrops, and a crown of thorns lies in the foreground.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "spire",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3770/Vat.lat.3770_0364_fa_0179v.jp2/890,409,1256,2138/full/0/default.jpg"
+}

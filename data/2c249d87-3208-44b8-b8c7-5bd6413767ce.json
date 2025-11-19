@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a brutal act of violence set within a town square. A woman in a red gown kneels, cradling an infant. To her right, a man in a blue tunic and hat raises a sword, poised to strike. Another man, dressed in armor and green leggings, stands to the left, holding a knife and appearing to threaten the woman. To the right of the sword-wielding man, another figure holds a second infant. In the background, buildings with tiled roofs and a church tower suggest an urban setting. The sky is populated with birds and clouds. This scene is an illustration of the Massacre of the Innocents, a biblical event where King Herod ordered the killing of all male infants in Bethlehem in an attempt to kill the newborn Jesus.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "church",
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Infant",
+        "Infant"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.94/Ross.94_0220_fa_0107v.jp2/331,169,242,413/full/0/default.jpg"
+}

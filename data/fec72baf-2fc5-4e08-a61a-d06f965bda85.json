@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Two male figures, identified by their halos as saints, are depicted standing. The figure on the left holds a large key and an open book. The figure on the right holds a sword and another open book. Both figures have beards and wear robes. Behind them, an architectural element suggestive of an archway is visible, with decorative elements above. The scene is rendered in a woodcut style, with strong outlines and hatching for shading. The overall impression is one of solemnity and religious significance, likely representing two prominent apostles or saints.",
+    "scene_interpretation": "Saints Peter and Paul",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0011/5688,3692,634,1004/full/0/default.jpg"
+}

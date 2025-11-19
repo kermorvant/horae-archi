@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and wearing a blue mantle, holds the Christ Child on her lap. To her right stands a bearded man, likely Saint Joseph, holding a golden vessel. To the left, three kings approach. One king, kneeling, offers a gift. Two other kings stand behind him, also bearing gifts. The figures are set against a gold background, suggesting a divine or heavenly setting, with a simple architectural structure, possibly a stable or shelter, visible behind the Virgin and Child.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515833p/f65/277,281,1016,1067/full/0/default.jpg"
+}

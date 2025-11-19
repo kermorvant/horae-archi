@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A bearded male figure, identified as Saint Jude Thaddeus by his attributes, stands centrally, holding an open book in his left hand and a long spear in his right. He wears a halo, indicating his sainthood, and is draped in a flowing robe. Behind him, a landscape unfolds with stylized trees and a distant town featuring buildings with towers and spires, suggesting a medieval urban setting. The scene is framed by an architectural element resembling a decorative archway supported by columns, with ornamental spheres at the top. The overall depiction is characteristic of medieval manuscript illumination, likely illustrating a devotional text or a saint's life.",
+    "scene_interpretation": "Saint Jude Thaddeus",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "spire",
+        "tower"
+    ],
+    "persons": [
+        "Saint Jude Thaddeus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Douai/Bibliotheque_municipale/591786101_MS0182/DEPOT/591786101_MS0182_0166/3104,472,1586,1823/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony, likely the Presentation of Christ in the Temple, within an ornate architectural setting. A bishop, adorned with a jeweled mitre and blue robes, officiates the ritual, holding a swaddled infant. A woman in a blue mantle kneels before him, presenting the child. To the left, a man in a red cloak and green tunic observes, while behind him, two other figures are visible. To the right, three women in elaborate attire look on. The background features a golden altarpiece with sculpted figures, possibly representing Moses and other prophets, and a rich red curtain. The floor is tiled, and the entire scene is framed by golden architectural elements, suggesting a sacred space.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550106099/f128/228,303,1033,1491/full/0/default.jpg"
+}

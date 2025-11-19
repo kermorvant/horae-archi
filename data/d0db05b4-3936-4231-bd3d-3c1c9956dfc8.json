@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Betrayal of Christ, with Jesus at the center being embraced and apprehended by Judas Iscariot, who is identifiable by his kiss. Jesus, with a halo, looks resigned. He is surrounded by a group of soldiers, some of whom are holding spears and clubs. One soldier is grasping Jesus's arm, while another appears to be restraining him. The figures are depicted in a stylized manner, with flowing robes and expressive faces. In the background, there are architectural elements that suggest a city or a building, including what appears to be a tower or a fortified structure with pointed elements, and a torch held aloft. The overall composition is dynamic, conveying the drama and violence of the moment.",
+    "scene_interpretation": "Betrayal of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "tower",
+        "undefined_element"
+    ],
+    "persons": [
+        "Jesus",
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90665847/f10/3155,405,1533,2558/full/0/default.jpg"
+}

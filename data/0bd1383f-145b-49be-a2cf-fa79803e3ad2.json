@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, crowned with thorns and bearing a large wooden cross on his shoulder, walking through a green landscape. He is dressed in a blue robe and is surrounded by a group of figures. To his left, the Virgin Mary, in a blue mantle, looks down with sorrow. Behind her, other figures, some with halos, are present. To Christ's right, a soldier in red and armor pushes him forward. In the background, a fortified castle with towers and battlements is visible, suggesting the procession is moving towards or away from a city. The overall scene captures the solemnity and suffering of the Passion of Christ.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "battlement",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0104/utp-0104_081v.jp2/2565,1140,2566,4188/full/0/default.jpg"
+}

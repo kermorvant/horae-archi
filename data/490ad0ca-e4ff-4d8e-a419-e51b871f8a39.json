@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Resurrection of Christ. Christ, with a halo and wounds visible on his chest and feet, emerges from a stone sarcophagus. He holds a cross with a banner. Around the sarcophagus, soldiers in armor lie stunned or are in the process of falling. In the background, a walled city with towers and buildings is visible, along with trees and birds in the sky. To the right, several figures, likely mourners or witnesses, are observing the event.",
+    "scene_interpretation": "Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/63047466/68634783.tif/1214,1122,2086,2631/full/0/default.jpg"
+}

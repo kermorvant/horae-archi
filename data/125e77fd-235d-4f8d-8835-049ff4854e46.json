@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Christ, stands in a field, holding a lamb and gesturing towards it. He wears a simple brown tunic and has a beard. To his right, a woman kneels in prayer, dressed in a green gown and a red headdress. The background depicts a stylized landscape with green fields and a pale blue sky. The scene is framed by a decorative border.",
+    "scene_interpretation": "The Lamb of God",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446945q/f30/830,758,778,694/full/0/default.jpg"
+}

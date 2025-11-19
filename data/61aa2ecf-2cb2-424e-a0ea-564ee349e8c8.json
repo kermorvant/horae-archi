@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, depicted in profile, wears a richly decorated tunic with circular motifs and a headdress. He is gesturing with his right hand, holding a staff or scepter, while his left hand is raised towards his face. The background features architectural elements, including what appears to be a column and decorative tracery, suggesting an indoor or perhaps a stylized architectural setting. The overall style is that of a woodcut or engraving, typical of medieval manuscript illumination.",
+    "scene_interpretation": "This image likely depicts a biblical or historical figure, possibly a king or prophet, given the regal attire and gesture of contemplation or pronouncement. Without further context or identifying attributes, a specific scene interpretation is not possible, but it evokes themes of authority, wisdom, or prophecy.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "bearded man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0051/4086,3991,427,652/full/0/default.jpg"
+}

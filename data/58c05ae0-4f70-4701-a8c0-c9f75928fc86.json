@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary tenderly holding the Christ Child. Mary, dressed in a vibrant blue mantle with gold trim and a pink undergarment, cradles the infant, who is swaddled in white. Both figures have golden halos, indicating their divine status. They are set against a richly patterned background of interlocking red and blue squares with gold accents, reminiscent of textile or mosaic work. The lower portion of the image shows a green ground, suggesting an outdoor setting, though the background pattern dominates the visual field.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828432/1662,1137,738,1233/full/0/default.jpg"
+}

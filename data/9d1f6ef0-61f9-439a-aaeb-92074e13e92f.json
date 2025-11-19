@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Stephen, shown kneeling and looking upwards with his hands raised, as two figures above him strike him with stones. A radiant light emanates from above, suggesting divine intervention or heavenly glory. The figures are set against a textured ground, with a sword standing upright to the right. The scene is framed by an arched architectural element and decorative foliate motifs.",
+    "scene_interpretation": "Martyrdom of Saint Stephen",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Stephen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f418/713,225,1227,1660/full/0/default.jpg"
+}

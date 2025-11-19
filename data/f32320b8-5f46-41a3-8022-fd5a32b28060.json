@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A man, identified as Saint Luke by his traditional attribute of writing, is seated at a wooden desk, diligently penning text onto a scroll. He wears a blue headdress and a red robe. Beside him stands an angel, likely the Angel Gabriel, dressed in a white robe and holding an open book. The angel's wings are vibrantly colored in shades of blue and pink. The scene unfolds within an interior space that opens to an exterior landscape visible through an arched opening. The interior features a green curtain on the left and architectural elements suggesting a room with wooden beams and a tiled floor. The exterior depicts rolling hills under a bright blue sky.",
+    "scene_interpretation": "The Annunciation to Saint Luke",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Saint Luke",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0367/bge-lat0367_018r.jp2/447,809,2980,4854/full/0/default.jpg"
+}

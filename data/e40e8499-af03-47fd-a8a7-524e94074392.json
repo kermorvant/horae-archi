@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo, gesturing towards a man bound with ropes and emerging from a tomb-like structure. This man, partially draped in white, appears to be Lazarus. To Christ's left, a group of onlookers watches, some with hands clasped in prayer. To Christ's right, Mary, identifiable by her blue mantle, and another woman, possibly Mary Magdalene, look on with concern, their hands raised in supplication or astonishment. Behind them, a crowd of people observe the miracle, and in the background, a city with towers and buildings is visible, set against a backdrop of trees and a blue sky. The scene is set outdoors on a grassy area, with a tomb in the foreground and architectural structures in the distance.",
+    "scene_interpretation": "Raising of Lazarus",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Lazarus",
+        "Mary",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f136/598,485,1140,1956/full/0/default.jpg"
+}

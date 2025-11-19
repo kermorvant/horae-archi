@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a king kneeling before a bishop who is holding a large key and raising his hand in blessing. The bishop wears a richly decorated blue cope with gold patterns and a papal tiara. Beside the bishop stands another figure in an orange robe and hood, also with hands clasped. To the left, a man in a green tunic and grey robe stands with his hands clasped in prayer, partially obscured by a patterned red wall. The background features an arched architectural element with a blue, star-studded ceiling and a patterned screen behind the bishop. The floor is tiled in a green checkerboard pattern. This scene likely represents a king receiving a blessing or absolution from a high-ranking church official, possibly a pope or cardinal, symbolizing the submission of temporal power to spiritual authority.",
+    "scene_interpretation": "King receiving blessing from a Pope/Cardinal",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "King",
+        "Bishop",
+        "Cardinal",
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F383_B.11.32_f200r.jp2/902,639,1842,2460/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ carrying the cross, accompanied by several figures. Christ, wearing a purple robe and a crown of thorns, struggles under the weight of a large wooden cross. Two figures, one in a red tunic and the other in blue armor, appear to be assisting or forcing him along. Behind Christ, a woman in a red garment holds a white cloth displaying the face of Christ, possibly representing Veronica's Veil. In the background, a fortified structure with a round tower and battlements is visible, suggesting a city or castle setting. The overall scene is set outdoors on a grassy, hilly terrain.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "battlement"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0022/DEPOT/B441096101_MS0022_0107/3603,609,1302,1928/full/0/default.jpg"
+}

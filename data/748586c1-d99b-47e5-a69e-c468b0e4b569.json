@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely Saint John the Evangelist, is depicted seated on a grassy knoll, dressed in a blue robe and a red cloak lined with gold. She holds a scroll with text and is looking down at it. To her left, a golden eagle stands, also looking towards the scroll. The background features rolling green hills dotted with trees, a body of water, and distant architectural structures that suggest a city or town. To the right, a rocky outcrop and more vegetation are visible. The scene is framed by an arched border decorated with floral motifs.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021262r/f39/255,149,956,1401/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Saint Luke, is depicted seated at a desk, diligently writing on a scroll. The figure wears a cap and a cloak. To the left of the desk, a stack of books rests. To the right, a winged ox, a symbol of Saint Luke, is shown kneeling. The scene takes place indoors, within a room featuring a window with tracery and a tiled floor. The background suggests an interior architectural setting with wooden panels.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525111670/f90/834,972,474,556/full/0/default.jpg"
+}

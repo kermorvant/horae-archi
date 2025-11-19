@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded figure, likely Christ, holding a globe in his left hand and raising his right hand in a gesture of blessing. He is depicted with a halo. Below him, a kneeling figure, possibly a king or a saint, with a beard and wearing a crown and ornate robes, clasps his hands in prayer. The kneeling figure is also depicted with a halo. The background is filled with decorative elements, suggesting a divine or celestial setting.",
+    "scene_interpretation": "Christ Blessing",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0023/5829,3527,489,1040/full/0/default.jpg"
+}

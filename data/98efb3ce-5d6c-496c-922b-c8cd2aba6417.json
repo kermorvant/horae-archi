@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A hunter, dressed in a red tunic and blue hose, aims a crossbow at a rabbit in a wooded landscape. A dog accompanies the hunter, sniffing the ground. Above the scene, within a circular medallion, is an image of a ram, possibly representing the zodiac sign Aries. The entire scene is framed by decorative architectural elements, including columns and a gilded frieze, suggesting it is part of a larger illuminated manuscript.",
+    "scene_interpretation": "Zodiac sign Aries",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008174h/f7/85,161,1912,930/full/0/default.jpg"
+}

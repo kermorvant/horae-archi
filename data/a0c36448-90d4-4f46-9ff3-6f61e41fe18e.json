@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts Adam and Eve standing on either side of a tree bearing red fruit. A serpent, entwined around the tree, offers a fruit to Eve. Behind them, a stylized architectural structure with spires and arches suggests a divine or idealized setting. The figures are nude, signifying their state before the Fall. The overall composition, with its gold leaf background and intricate architectural elements, points to a significant biblical event.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "spire",
+        "wall",
+        "roof",
+        "pinnacle"
+    ],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dk442xf9851%2FW90_000043_1200/599,1800,2193,3538/full/0/default.jpg"
+}

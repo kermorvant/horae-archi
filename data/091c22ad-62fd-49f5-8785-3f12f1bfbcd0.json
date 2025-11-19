@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a man in full armor, kneeling with his hands clasped in prayer. He has a long beard and wears a helmet. Behind him, a blue cloak is draped. In the background, a group of soldiers and horses are visible approaching a fortified structure. The landscape is hilly with some trees. A harp lies on the ground in the foreground, and a red cap or crown rests on a white cloth. The text below the figure reads 'Vv Pfalm. mit. Ne reminiscaris'. This scene is interpreted as David in prayer, likely before a battle or during a time of tribulation, as indicated by the presence of soldiers and the psalm incipit 'Ne reminiscaris' (Do not remember).",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "fortress"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3780/Vat.lat.3780_0183_fa_0086r.%5B01.fx.0000%5D.jp2/143,210,428,616/full/0/default.jpg"
+}

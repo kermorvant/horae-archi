@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a formal gathering, likely a wedding ceremony, with a central figure in a bishop's mitre officiating. To his left stands a woman with long flowing hair and a headdress, and to his right, a man with a similar headdress. Their hands are clasped together, suggesting a union. Several other faces are visible in the background, observing the event. The architectural setting is suggested by decorative elements at the top, including what appears to be a stylized building with a pointed arch and a small tower or pinnacle, implying an ecclesiastical or noble context.",
+    "scene_interpretation": "Marriage Ceremony",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "pinnacle",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0018/639,519,640,1228/full/0/default.jpg"
+}

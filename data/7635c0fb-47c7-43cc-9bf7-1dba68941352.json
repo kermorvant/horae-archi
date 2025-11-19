@@ -1,0 +1,5 @@
+{
+    "error_type": "image_download_error",
+    "error_message": "Failed to download image",
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8447775g/f428/1100,332,1120,1666/full/0/default.jpg"
+}

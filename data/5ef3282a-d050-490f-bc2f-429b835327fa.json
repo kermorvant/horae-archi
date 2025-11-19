@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A young man, depicted with fair skin, rosy cheeks, and short blond hair, stands within an architectural niche. He wears a reddish-pink tunic cinched at the waist with a dark belt, and dark hose. His left arm is extended, and his hands appear to be interacting with an unseen object or figure to his right. The background is a shimmering gold, suggesting a divine or important setting. The architectural frame surrounding him is rendered in blue with black outlines, featuring pointed arches and decorative elements resembling trefoils, with small orange dots. To the right, a portion of another figure, possibly robed and holding a staff or crosier, is visible.",
+    "scene_interpretation": "The scene likely depicts a devotional or biblical narrative, possibly a saint or a figure from the Old Testament. The architectural setting and gold background are common in medieval manuscripts to elevate the significance of the depicted figures and events. Without further context or clearer depiction of the second figure, a precise interpretation is difficult, but it could represent a moment of interaction or presentation.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "niche",
+        "microarchitecture"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/ww852nx4077%2FW39_000014_1200/4245,3151,733,1570/full/0/default.jpg"
+}

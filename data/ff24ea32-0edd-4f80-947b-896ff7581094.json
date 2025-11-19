@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures on the left, including a bishop in full regalia, a nun, and two other individuals, seemingly in distress. They are positioned in front of an arched doorway leading into a building. On the right, three skeletal figures, personifications of Death, are advancing. One skeleton is in the foreground, crouched and menacing, while two others are depicted in mid-leap or stride, one reaching towards the group of humans. A small building with a pitched roof and a wall are visible behind the skeletal figures. The overall atmosphere is one of confrontation between the living and the forces of death.",
+    "scene_interpretation": "Dance of Death",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Bishop",
+        "Nun"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS0359/DEPOT/B514546101_MS0359_0089/2142,271,769,1086/full/0/default.jpg"
+}

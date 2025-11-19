@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A fox, dressed in a dark hooded robe, stands behind a golden lectern, holding a tablet with writing. In front of the lectern, a group of chickens and a rooster are gathered, seemingly listening. Another fox is positioned at the base of the lectern, sniffing the ground. The scene is set against a background of stylized foliage and small, decorative elements, suggesting an outdoor or garden setting. This imagery likely represents a fable or a moralizing tale, possibly a 'sermon' of the fox to the chickens, a common motif in medieval bestiaries and literature, often satirizing religious hypocrisy or the gullibility of the flock.",
+    "scene_interpretation": "Fox preaching to chickens",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0060/4432,3099,1246,740/full/0/default.jpg"
+}

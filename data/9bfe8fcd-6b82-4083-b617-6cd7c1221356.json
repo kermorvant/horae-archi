@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a priest in ornate vestments, likely a chasuble and stole, holding a white host aloft during a Mass. He is assisted by a tonsured cleric holding a candle. To the left, within a sarcophagus-like structure, lies the scourged Christ, crowned with thorns, with wounds visible. Above Christ are symbols of the Passion: three large nails and a whip. To the right, above a basin and pitcher, are a severed head with a halo and a hammer, also symbols of the Passion. The background is a vibrant blue, suggesting a divine or spiritual setting, with scattered gold flecks. The overall scene represents the sacrament of the Eucharist, linking the sacrifice of Christ on the cross to the ritual of the Mass.",
+    "scene_interpretation": "Mass of Saint Gregory",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Priest",
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0367/bge-lat0367_192r.jp2/532,670,3055,4844/full/0/default.jpg"
+}

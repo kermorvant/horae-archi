@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The body of Christ, with visible wounds from crucifixion, is laid across the lap of the Virgin Mary, who is dressed in blue and white. To Christ's left (viewer's right), a figure in yellow and purple, possibly Mary Magdalene or another mourner, clasps her hands in prayer. To Christ's right (viewer's left), a figure in orange and white, likely Saint John the Evangelist, looks on with sorrow. Behind them, a large cross with the inscription 'INRI' is prominently displayed against a red, gold-patterned background. The figures are positioned on a green ground, and a small golden vessel is visible to the right. The overall composition evokes a profound sense of grief and devotion.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550058850/f28/500,232,664,1126/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a group of clerics engaged in a religious service within an interior architectural space. On the left, several figures in clerical robes, some wearing blue and gold vestments, stand and appear to be chanting or singing from a lectern holding an open book. To the right, two figures in black monastic habits are seated, one intently reading from a book. The setting is richly decorated with ornate textiles, including a red tapestry with gold floral motifs and green curtains. Architectural elements such as arched windows with tracery and columns are visible in the background, suggesting a church or chapel interior. The overall impression is one of solemn devotion and liturgical practice.",
+    "scene_interpretation": "Religious Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "column",
+        "lectern",
+        "wall"
+    ],
+    "persons": [
+        "Cleric",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Bibliotheque_municipale/210546201_S_053_052/DEPOT/210546201_S_053_052_0151/1598,566,1150,1844/full/0/default.jpg"
+}

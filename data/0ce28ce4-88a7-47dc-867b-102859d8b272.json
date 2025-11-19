@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Virgin Mary, adorned in a blue robe and halo, stands before a wooden lectern with an open book. Her hands are clasped in a gesture of piety or surprise. To the right, the Angel Gabriel, with large blue wings and wearing a red cloak over a white tunic, kneels and holds a scroll inscribed with Latin text. Above and behind Gabriel, a depiction of God the Father is visible in a celestial setting, blessing the scene. The architecture includes an arched opening with decorative elements, suggesting an interior space with a view into another chamber or a more distant scene. The background features rich drapery and patterned walls, contributing to a sense of domestic or sacred interior.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_BERNIER_I-C-028/DEPOT/M601415401_BERNIER_I-C-028_0030/3955,751,1466,2481/full/0/default.jpg"
+}

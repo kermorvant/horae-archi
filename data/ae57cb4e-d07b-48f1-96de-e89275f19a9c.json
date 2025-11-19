@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. He is depicted with a halo and a loincloth. Below the cross, a crowd of figures in medieval attire are gathered, some looking up at Christ. The setting is an outdoor landscape with rolling green hills and trees in the background, under a blue sky with clouds. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f91/3187,1504,752,2504/full/0/default.jpg"
+}

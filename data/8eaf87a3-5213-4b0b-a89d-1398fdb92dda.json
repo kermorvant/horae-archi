@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. On the left, a man with a distinctive horned hat and beard gestures outwards. In the center, a man with a beard, likely representing Christ, is speaking to a woman with long hair who is clasping her hands in prayer. They are surrounded by other men. On the right, a figure in a conical hat and robes, possibly a bishop or religious figure, points. The scene is framed by an arched structure supported by columns, suggesting an interior space, possibly a church or a hall.",
+    "scene_interpretation": "The scene likely depicts Christ and the Woman of Samaria at the well, a common theme in Christian art. The woman's clasped hands indicate prayer or supplication, and Christ's gesture suggests teaching or discourse. The presence of other figures, including a man in a bishop's attire, could represent disciples or witnesses to the event.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Woman of Samaria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0043/3464,3288,1501,587/full/0/default.jpg"
+}

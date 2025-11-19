@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and seated, holding the Christ Child on her lap. She wears a blue robe adorned with gold patterns. To her right, an angel with green wings plays a pipe. Behind them, a pink curtain is drawn, revealing a grey architectural structure with vertical elements, possibly representing a building or a backdrop. The overall impression is one of regal serenity and divine presence.",
+    "scene_interpretation": "Madonna and Child with an Angel",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_MS023/DEPOT/773796202_MS0023_0016/1822,1587,949,968/full/0/default.jpg"
+}

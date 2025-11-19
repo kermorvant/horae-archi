@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary in the center, with her hands clasped in prayer, surrounded by several figures, likely the Apostles, also in prayer or contemplation. Above them, a dove descends, radiating light, symbolizing the Holy Spirit. The figures are seated on raised platforms within an architectural setting that includes arched structures and decorative elements. The overall composition suggests a moment of divine inspiration or descent.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036619c/f125/2277,325,992,1589/full/0/default.jpg"
+}

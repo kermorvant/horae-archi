@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a gathering of figures, predominantly men, with the Virgin Mary seated centrally. All figures are adorned with halos, indicating their sanctity. Above them, a dove, representing the Holy Spirit, descends. The figures are arranged in a somewhat crowded, interior setting, with a simple wooden bench or table visible beneath the Virgin Mary. The overall composition suggests a moment of divine inspiration or revelation.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Chig.D.V.71/Chig.D.V.71_0159_fa_0076r.jp2/254,314,399,382/full/0/default.jpg"
+}

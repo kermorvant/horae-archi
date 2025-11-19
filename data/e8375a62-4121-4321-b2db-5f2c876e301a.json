@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A scene depicts two figures within an architectural setting. On the left, a person dressed in white, possibly a cleric or a scholar, holds a book and gestures towards another figure. This second figure, seated on the right, wears a blue robe and a red cap, and is also engaged with a book placed on a yellow-covered lectern. Behind the seated figure, an architectural element with arched openings and decorative patterns is visible, suggesting an interior space. The overall scene appears to be an illustration from a devotional text, possibly depicting a moment of teaching or scholarly discussion.",
+    "scene_interpretation": "religious_teaching",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_214%2Flewis_e_214_jp2.zip%2Flewis_e_214_jp2%2Flewis_e_214_0033.jp2/4669,5684,3304,3920/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic and destructive event, likely an earthquake or the collapse of buildings. Figures are shown trapped, falling, or struggling amidst rubble. Architectural elements such as columns and fragments of walls are scattered, indicating the destruction of structures. One figure in the center is shown straining to support a fallen column, while others are seen in various states of distress and entrapment. The monochromatic red palette emphasizes the drama and violence of the event.",
+    "scene_interpretation": "Destruction of Jerusalem",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510074b/f92/1947,592,1694,1237/full/0/default.jpg"
+}

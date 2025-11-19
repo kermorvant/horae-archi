@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist in a pastoral landscape, seated and writing in a book. He is dressed in a blue robe adorned with gold patterns and a pink mantle. To his right, a golden eagle, his traditional symbol, holds a quill in its beak, poised to assist him. In the background, a body of water is visible, with a city featuring numerous towers and spires on the horizon. A small flock of sheep is depicted on the left, and a swan swims in the foreground water. The overall scene is framed by decorative borders with floral motifs and gold leaf.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8571085n/f39/861,187,1513,2678/full/0/default.jpg"
+}

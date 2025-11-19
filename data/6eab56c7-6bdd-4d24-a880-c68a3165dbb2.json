@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with several figures and sheep. In the foreground, a man plays bagpipes, a woman in a pink dress sits with her hand raised, and a hooded figure stands with a stick. Two sheep are near the woman, and more sheep graze in the background. A man in a blue tunic and red cape dances or gestures with his arms raised. In the distance, a river flows past a rocky hill, and a walled city with towers and red-roofed buildings is visible. Above, an angel descends from a golden sky, holding a scroll with Latin text that reads 'Gloria in excelsis Deo' (Glory to God in the highest). The overall scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f111/437,117,1128,1654/full/0/default.jpg"
+}

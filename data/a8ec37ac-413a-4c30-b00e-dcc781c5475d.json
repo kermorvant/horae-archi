@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity, with the Virgin Mary reclining on a bed, her head propped up and her hand reaching out. She is swaddled in a blue robe and wears a white veil. Beside her, a cradle contains the Christ Child, also swaddled and with a halo. A woman in an orange dress stands behind the cradle, attending to the child. To the left of the Virgin, an elderly man with a beard sits, holding a white cloth. In the background, a cow and a donkey are visible, their heads peering over the manger. The setting appears to be a stable, indicated by the presence of animals and a rudimentary shelter with a thatched roof. A fire burns in a small brazier on the left, and a vessel with cups is on the right, suggesting domestic elements within the stable.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f295/306,899,613,846/full/0/default.jpg"
+}

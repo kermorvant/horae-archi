@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit, with the Virgin Mary kneeling in the center, surrounded by the Apostles. The Holy Spirit is shown as a dove descending from a radiant sky, with tongues of fire emanating from it towards the figures below. The figures are all depicted with golden halos, indicating their sanctity. The background is a rich red, and the scene is framed by an arched border with decorative elements. The figures are gathered in a somewhat confined space, suggesting an indoor setting, possibly a room where the disciples were assembled.",
+    "scene_interpretation": "Descent of the Holy Spirit",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000424g/f152/544,141,748,1066/full/0/default.jpg"
+}

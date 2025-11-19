@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "In a nocturnal scene under a starry sky, Christ kneels in prayer on a grassy hill, his hands clasped and his gaze directed upwards towards a golden chalice bathed in divine light. Around him, his disciples sleep, some resting their heads on their arms, others curled up. In the background, a wooden structure, possibly a shelter or part of a garden, stands beside a simple wooden fence. The overall atmosphere is one of solemnity and divine communion amidst the slumber of his followers.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0078/DEPOT/M601415401_MS0078_0023/2953,786,926,1029/full/0/default.jpg"
+}

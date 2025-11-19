@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a conical hat with a circular emblem, is depicted in a seated or kneeling posture. He is dressed in a robe and a mantle. His right hand is raised, with two fingers extended, as if in blessing or teaching. He holds a book or scroll in his left hand. Behind him, architectural elements suggest an interior setting, with what appears to be a column and decorative stonework. The overall style is that of a medieval manuscript illumination.",
+    "scene_interpretation": "Saint Jerome",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0041/3162,3911,330,594/full/0/default.jpg"
+}

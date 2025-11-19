@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts a religious gathering with several figures. In the foreground, a young woman in a red dress kneels with her hands clasped in prayer, looking upwards. She is accompanied by the Virgin Mary, who places a comforting hand on her shoulder. To the left, a bishop in red robes and a mitre stands on a raised platform, gesturing towards the kneeling woman. Behind the bishop, two men observe the scene. To the right, a bearded man in an orange robe stands with his arms crossed. In the background, a classical rotunda with a dome is visible, suggesting an architectural setting. The overall scene appears to be an act of supplication or divine intervention.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "door",
+        "roof",
+        "wall",
+        "stairs",
+        "dome"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10538047h/f19/185,372,2066,3165/full/0/default.jpg"
+}

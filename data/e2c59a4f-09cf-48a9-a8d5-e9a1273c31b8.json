@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, bound and wearing a purple robe and a crown of thorns, being presented to a seated figure in red robes and a red hat. Two figures, one in green and blue, and another in orange, are shown tormenting Christ. The seated figure, likely Pontius Pilate, is depicted with his hands over a golden basin, possibly indicating his washing of hands. The background is a rich gold leaf, typical of illuminated manuscripts, suggesting a divine or significant setting. The floor is a checkered pattern, and a wooden platform is visible.",
+    "scene_interpretation": "Christ before Pilate",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "stairs",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ",
+        "Pontius Pilate"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/by397hw6027%252FW185_000102_300/418,347,579,793/full/0/default.jpg"
+}

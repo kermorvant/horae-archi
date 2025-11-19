@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, dressed in a blue robe over a red garment, seated and reading from a book. To her right, an angel, identifiable by its wings and halo, kneels and gestures with its right hand, its index finger raised. The figures are positioned within an architectural setting that includes a large, draped canopy behind the Virgin and an arched structure with decorative elements above. The background suggests an interior space with a window-like opening.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_13%2F1945_65_13_jp2.zip%2F1945_65_13_jp2%2F1945_65_13_0021.jp2/1057,1640,619,1187/full/0/default.jpg"
+}

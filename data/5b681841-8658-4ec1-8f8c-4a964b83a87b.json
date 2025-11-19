@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Matthew seated on a tiered structure, possibly a bench or a low altar, with his legs crossed and bare feet visible. He is dressed in flowing robes and has a halo, indicating his saintly status. Before him is a lectern supporting an open book with text that reads ': geandium matheum'. His left hand rests on the book, while his right hand is extended upwards. To the right, an angel, also with a halo, descends from a dark, leafy background, reaching towards Saint Matthew. The angel appears to be in the act of inspiration or dictation, suggesting the divine origin of Matthew's Gospel.",
+    "scene_interpretation": "The Inspiration of Saint Matthew",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Matthew",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036640k/f24/2167,607,728,756/full/0/default.jpg"
+}

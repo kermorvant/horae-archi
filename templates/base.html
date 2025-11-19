@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Medieval Image Search</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+    <style>
+        .result-card img {
+            max-width: 100%;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+        }
+        .tag + .tag { margin-left: 4px; }
+
+        /* Custom Bulma column: 1/8 width */
+        .column.is-one-eighth {
+            flex: none;
+            width: 12.5%;
+        }
+          /* Custom Bulma column: 1/6 width (≈16.66%) */
+        .column.is-one-sixth {
+            flex: none;
+            width: 16.666%;
+        }
+    </style>
+</head>
+<body style="padding: 20px;">
+    {% block content %}{% endblock %}
+</body>
+
+</html>

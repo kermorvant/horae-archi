@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and seated, holding the Christ Child on her lap. The Christ Child is looking at an open book. They are surrounded by four figures, three of whom appear to be singing from books, and one angel playing a lute. The figures are positioned within an architectural setting that includes a draped green canopy and a backdrop of arched windows with starry blue vaults above. The overall impression is one of a divine concert or devotional gathering.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "vault",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f46/1468,407,963,1733/full/0/default.jpg"
+}

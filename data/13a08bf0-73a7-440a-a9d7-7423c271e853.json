@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man, identified by a halo as a significant religious figure, stands behind a wooden lectern draped with a blue cloth decorated with circular motifs. He gestures with his hands as if teaching or preaching to a group of men seated before him. The men are dressed in rich robes and turbans, with one wearing a crown, suggesting they are important figures or possibly royalty. The scene is set outdoors, with a stone wall and trees in the background, under a sky dotted with stars. The overall composition is framed by an ornate border with floral and foliate motifs.",
+    "scene_interpretation": "Christ Teaching",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f251/1648,1618,713,763/full/0/default.jpg"
+}

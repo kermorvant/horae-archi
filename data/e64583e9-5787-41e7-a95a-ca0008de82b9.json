@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The Virgin Mary, seated on a throne, nurses the Christ Child. She is surrounded by four angels. Two angels on the left play harps, one larger and one smaller. Two angels on the right play a tambourine and a lute, respectively. The scene is set outdoors with a green landscape and trees under a blue sky. Above the Virgin and Child is an ornate golden canopy with intricate tracery. The entire scene is framed by a decorative border with floral motifs.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326055/f285/509,303,1475,2282/full/0/default.jpg"
+}

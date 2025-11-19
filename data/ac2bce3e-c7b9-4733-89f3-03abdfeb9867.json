@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A group of figures, many in monastic robes, are gathered outdoors. In the foreground, several individuals are actively engaged in lowering a coffin into a grave. One figure reads from an open book, possibly a priest or monk leading a funeral rite. Others hold processional crosses and staffs. Behind them, a walled structure with battlements and an arched doorway suggests a fortified building or a section of a city wall. The scene depicts a funeral procession and burial, likely a religious ceremony.",
+    "scene_interpretation": "Funeral",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "battlement",
+        "door",
+        "cross"
+    ],
+    "persons": [
+        "Priest"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0085/DEPOT/M601415401_MS0085_0029/1550,761,1766,2339/full/0/default.jpg"
+}

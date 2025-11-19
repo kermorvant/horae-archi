@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A group of figures, some looking upwards with awe, are gathered in a rocky, mountainous landscape. In the foreground, a man in a blue robe with an orange collar stands facing away from the viewer, his gaze directed towards the right. To his right, a man on horseback, adorned in armor and a blue and gold patterned tunic, is accompanied by several other figures wearing turbans. In the upper right quadrant, a bearded figure, possibly divine, emerges from clouds, holding a lantern. In the background, a fortified castle or city is perched atop a distant, blue-hued mountain.",
+    "scene_interpretation": "The scene likely depicts a biblical event, possibly related to a journey or a divine revelation. The figure emerging from the clouds with a lantern could represent God or a divine messenger, illuminating the path or revealing a truth to the earthly figures. The presence of a castle in the distance might symbolize a destination, a place of power, or a spiritual goal.",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0065/4006,2182,738,952/full/0/default.jpg"
+}

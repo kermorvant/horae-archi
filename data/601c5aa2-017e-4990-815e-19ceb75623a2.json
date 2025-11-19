@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely a saint, is depicted seated. He wears a tunic and cloak, with his left hand holding a chalice from which a bird emerges, and his right hand pointing upwards. The background features stylized foliage and an architectural element resembling a decorative arch with tracery. The scene is rendered in a woodcut style with stippling and hatching.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tracery"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0087/3683,1275,398,605/full/0/default.jpg"
+}

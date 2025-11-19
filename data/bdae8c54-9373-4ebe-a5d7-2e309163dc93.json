@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural setting. On the left, a woman wearing a veil and a long robe is shown holding a bundle or object in her arms. Her expression is somber. To her right, a bearded man in monastic attire, with his hands raised in a gesture of speaking or supplication, faces her. Behind them, a stylized representation of buildings with arched windows and roofs suggests an urban or ecclesiastical environment. The overall composition is framed by an ornamental arch.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0022/1238,632,537,980/full/0/default.jpg"
+}

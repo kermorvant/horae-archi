@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a blue robe, meeting Elizabeth, who is dressed in a purple gown and a yellow headdress. Elizabeth gestures with her hands towards Mary, who also extends a hand. Behind Mary, two figures, possibly attendants or angels, are visible. The background features a lush green landscape with trees and a distant cityscape characterized by towers and fortified walls, suggesting an urban setting. The entire scene is framed by an ornate golden decorative element at the top.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515740c/f84/487,249,1110,1586/full/0/default.jpg"
+}

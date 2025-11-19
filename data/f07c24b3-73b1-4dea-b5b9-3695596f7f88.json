@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a burial service taking place outdoors. A cleric, wearing a blue and gold cope over a white alb and holding a book and a processional cross, presides over the ceremony. Two men are actively lowering a shrouded body into a grave, while another cleric, dressed in a white alb and red collar, stands nearby holding a processional cross. Behind them, a walled garden with trees and grave markers is visible. The architectural elements suggest a religious setting, possibly a churchyard or monastery grounds.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door",
+        "roof",
+        "cross"
+    ],
+    "persons": [
+        "Cleric",
+        "Man",
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/zv762vd8005%2FW220_000390_1200/592,999,2416,2705/full/0/default.jpg"
+}

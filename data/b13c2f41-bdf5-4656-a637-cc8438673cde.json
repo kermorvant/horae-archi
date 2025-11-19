@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A solitary female figure, likely the Virgin Mary, stands in a landscape. She is depicted with long, flowing auburn hair and wears a long, blue robe adorned with gold leaf accents that suggest rich fabric. Her left hand is raised towards her chest, and her right hand is held lower, with fingers slightly curled. The background is a stylized representation of rolling hills and scattered, dark, rounded forms that could be trees or bushes, some highlighted with gold. The sky is a pale blue, and the overall impression is one of serene contemplation in an open, natural setting.",
+    "scene_interpretation": "Virgin Mary",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509697k/f27/1137,6641,4295,1987/full/0/default.jpg"
+}

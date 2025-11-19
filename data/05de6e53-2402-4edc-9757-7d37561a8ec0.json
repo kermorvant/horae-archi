@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "Three men are depicted in a room with a patterned green tapestry behind them. The central figure, an older man with a long white beard and a black cap, is seated on a throne-like chair and gestures with both hands, one open and the other pointing. To his left stands a younger man wearing a pink robe and a colorful turban, his hands clasped. To the seated man's right stands another man in a blue robe with orange sleeves and a similar colorful turban, holding a dagger or knife in his right hand and pointing with his left. The scene appears to be an interior setting, possibly a court or audience chamber, suggested by the presence of the seated figure and the tapestry.",
+    "scene_interpretation": "The scene likely depicts a moment of judgment, counsel, or presentation, possibly related to a biblical or historical narrative. The gestures of the central figure suggest he is speaking or making a pronouncement, while the other two figures appear to be petitioners or advisors. Without further context, a specific interpretation is difficult, but the attire and gestures suggest a formal or significant interaction.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892315/440,216,1121,1143/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely God the Father, adorned with a crown and a beard, gesturing with his right hand. He is seated on a throne draped with golden fabric patterned with red floral motifs. Before him, a woman, presumably the Virgin Mary, stands with her hands clasped in prayer. She is dressed in a blue robe with gold accents. Behind her, several angels are visible, one of whom holds a crown. The background is a vibrant red, filled with stylized representations of angelic faces. The overall setting suggests a divine or celestial realm, indicated by the presence of God, angels, and the lack of earthly architecture.",
+    "scene_interpretation": "The Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "God the Father",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/3093339/288,194,2281,3739/full/0/default.jpg"
+}

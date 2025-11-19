@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed figure, likely Saint John the Evangelist, is seated on a rocky, grassy island, writing in a book. A brown bird, holding a scroll or document in its beak, stands before him. The background depicts a serene landscape with a body of water, distant mountains, and a city with a prominent spire in the middle ground. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008559f/f32/798,280,1246,1117/full/0/default.jpg"
+}

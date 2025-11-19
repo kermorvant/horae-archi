@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity of Christ. The Virgin Mary, seated and holding a book, is shown reclining on a bed. Beside her, Joseph leans on a staff, looking towards her. Above them, an ox and a donkey are depicted, with the ox's head resting near the Virgin's head. A swaddled infant is visible between the Virgin and the ox. The background is a rich gold leaf, suggesting a divine or sacred setting. The figures are rendered in a stylized, medieval manner, with halos indicating their sanctity. The scene is framed by decorative borders with foliate motifs and text.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dg026mz7261%2FW86_000140_1200/2860,2358,1698,2534/full/0/default.jpg"
+}

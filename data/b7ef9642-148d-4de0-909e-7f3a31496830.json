@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a man, identified by his halo as a saint, seated on a raised platform. He is dressed in a blue robe and holds a scroll that unfurls to reveal Latin text. To his right, a winged ox, a symbol of Saint Luke, is depicted. The background shows a brick wall with two windows, suggesting an interior setting. Above, a wooden beamed ceiling is visible, and a richly patterned tapestry hangs on the right wall. The ground is rendered in a green, scaled pattern. A book lies open on the ground in front of the saint. The text on the scroll, \"Gloria tibi,\" translates to \"Glory to you,\" and likely refers to divine glory.",
+    "scene_interpretation": "Saint Luke Dictating",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Saint Luke"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/cea/cea-0006/cea-0006_017r.jp2/820,380,2199,3121/full/0/default.jpg"
+}

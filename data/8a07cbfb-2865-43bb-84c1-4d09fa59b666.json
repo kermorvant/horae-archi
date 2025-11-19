@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ's body, pale and lifeless, is being lowered from the cross by two figures. One figure, wearing a red cap and robe, supports Christ's head and upper body, while another, in a red robe, assists from a ladder. Christ's halo is visible. Below, a group of mourners, including the Virgin Mary in blue, dressed in mourning attire, and other women, express their grief. On the right, a group of men, some with beards and wearing turbans or caps, observe the scene. In the upper part of the frame, a divine figure, possibly God the Father, is depicted with a golden halo and rays, overseeing the event. The setting is a grassy landscape with hills in the background, under a blue sky with golden rays emanating from a sun-like symbol. The entire scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.31%2F156_B.11.31_f072v.jp2/2300,567,1844,2476/full/0/default.jpg"
+}

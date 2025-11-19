@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts two groups of figures interacting within an architectural setting. In the foreground, a younger man, possibly a traveler or pilgrim, sits and plays a pipe, while an older, bearded man in a hooded robe gestures with his hand, holding a staff. Behind them, in an upper register, two figures converse, one pointing. Architectural elements such as arched openings and building facades with pitched roofs are visible, framing the figures and suggesting an urban or semi-urban environment. The overall composition suggests a narrative scene, possibly a parable or a moment from a story.",
+    "scene_interpretation": "The scene is not clearly identifiable as a specific biblical or devotional event. It appears to be a genre scene or an illustration of a moralizing tale, possibly depicting a dialogue or a lesson being imparted.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0052/5841,519,640,1153/full/0/default.jpg"
+}

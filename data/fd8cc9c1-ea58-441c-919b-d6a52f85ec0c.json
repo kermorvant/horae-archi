@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Entombment of Christ. Christ's body, marked by wounds from crucifixion, lies on a white shroud atop a stone sarcophagus. He is surrounded by mourners, including the Virgin Mary, identifiable by her blue mantle, and other figures with halos, suggesting they are saints or disciples. One figure, possibly Joseph of Arimathea, is shown carefully placing Christ's body into the tomb, while another figure holds a vessel, perhaps for anointing or spices. In the background, a barren landscape is visible with a stylized tree and a ladder-like structure against a starry blue sky, possibly representing Golgotha or the instruments of the Passion.",
+    "scene_interpretation": "Entombment of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14935/Vat.lat.14935_0311_fa_0152r.jp2/287,244,466,743/full/0/default.jpg"
+}

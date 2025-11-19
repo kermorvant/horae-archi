@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a bishop, identified by his mitre and halo, being martyred. He is bound to a chair or structure, with two figures on either side. The figure on the left, wearing a cap and tunic, appears to be holding a tool or rope. The figure on the right, dressed in darker robes and a hat, also seems to be involved in the torment. Arrows are depicted piercing the bishop's torso. The background shows a landscape visible through an arched opening, suggesting an indoor setting with a view to the outside. The floor is tiled in a checkerboard pattern. This scene is likely the martyrdom of Saint Erasmus of Formia, who was traditionally martyred by evisceration, often depicted with arrows.",
+    "scene_interpretation": "Martyrdom of Saint Erasmus",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Erasmus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Douai/Bibliotheque_municipale/591786101_MS0182/DEPOT/591786101_MS0182_0185/3394,785,1258,1563/full/0/default.jpg"
+}

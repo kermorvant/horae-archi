@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, who is reaching out with his right hand. They are seated on a patterned floor, likely within an architectural setting. To the left, a woman in a red gown and black headdress kneels with her hands clasped in prayer. Behind them, an open loggia reveals a landscape with rolling hills, trees, and a winding path. The architecture features large columns supporting arches, and a circular opening is visible in the wall behind the figures.",
+    "scene_interpretation": "Madonna and Child with a Devotee",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326038/f276/206,334,928,1451/full/0/default.jpg"
+}

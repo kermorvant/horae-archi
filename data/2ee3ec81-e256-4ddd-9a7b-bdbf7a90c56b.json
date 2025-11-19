@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, with a halo, kneels with her hands clasped in prayer, looking down. To her left stands a bearded man, likely Joseph, also looking towards the scene. In the foreground, the Christ Child lies on the ground. Behind the Virgin Mary are the ox and the ass, traditional figures in Nativity scenes, their heads positioned above the child. The setting appears to be a stable, suggested by the wooden structure and beams above, with a thatched or planked roof indicated by diagonal lines.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0092/959,777,767,1038/full/0/default.jpg"
+}

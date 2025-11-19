@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo, is seated and breastfeeding the Christ Child, who also has a halo. They are within a garden enclosure formed by a trellis covered in roses. Two angels, one on the left and one on the right, stand and offer bowls. The angel on the left wears a purple robe and has white wings, while the angel on the right wears a similar robe and also has white wings. The garden setting includes stylized trees in pots and is bordered by a red brick wall at the base. The entire scene is framed by an arched border decorated with floral motifs and birds.",
+    "scene_interpretation": "Madonna Lactans",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_4%2F1945_65_4_jp2.zip%2F1945_65_4_jp2%2F1945_65_4_0077.jp2/5215,2071,4473,8050/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A male figure, identified as a bishop by his mitre and crozier, stands in a frontal pose. He wears a red chasuble adorned with gold patterns over a white alb and a green dalmatic. His left hand is raised in a gesture of blessing, while his right hand holds a golden crozier. Behind him, a blue tapestry with gold foliate motifs is visible, and beyond that, a grey architectural element. In the background, a distant landscape with buildings and spires can be seen. The scene is framed by a golden arch.",
+    "scene_interpretation": "Portrait of a Bishop",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "spire"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0105/utp-0105_044r.jp2/1192,724,2065,3368/full/0/default.jpg"
+}

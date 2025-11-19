@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Daniel in the lions' den, a biblical narrative. Daniel, a young man with curly hair, is seated with his hands clasped in prayer, looking upwards with a pensive expression. He is surrounded by several lions, some lying down and others standing, all appearing calm and submissive. Above Daniel, a figure, likely an angel, descends from the clouds, holding a vessel. In the background, elaborate classical architecture is visible, including arches, columns, and a domed structure, suggesting an outdoor setting within a grand courtyard or palace complex. The overall composition emphasizes Daniel's faith and divine protection.",
+    "scene_interpretation": "Daniel in the Lions' Den",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "dome",
+        "wall",
+        "stairs"
+    ],
+    "persons": [
+        "Daniel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8447767x/f176/298,419,1294,2150/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The image depicts a female saint, identifiable by her halo, standing and holding a book in her left hand and a pair of tongs in her right. She is dressed in a long, flowing robe and a cloak. Behind her, a dotted pattern suggests a background, and to her right, a stylized representation of a building with a tower is visible. The scene is framed by an arched element at the top and decorative elements on the sides, suggesting an architectural setting. The saint's attributes, the book and the tongs, are indicative of her martyrdom, likely Saint Apollonia, who is traditionally depicted with her teeth being extracted by tongs.",
+    "scene_interpretation": "Saint Apollonia",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Apollonia"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0074/1052,701,399,619/full/0/default.jpg"
+}

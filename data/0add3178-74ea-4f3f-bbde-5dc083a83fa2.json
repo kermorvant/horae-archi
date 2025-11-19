@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "The scene depicts a religious service within an interior space. Four clerics are present. Three are gathered around a large lectern, one of whom appears to be reading from a book, while the other two look on attentively. A fourth cleric, dressed in more ornate vestments and a mitre, stands separately with his hands clasped in prayer. To the right, an altar is visible, adorned with a chalice and an open book. Above the altar, a niche contains a statue of the Virgin Mary holding the Christ Child. The architecture features ribbed vaults, brick walls, and a large window with tracery. The floor is tiled in a geometric pattern. The overall impression is one of solemn devotion and liturgical practice.",
+    "scene_interpretation": "Liturgy",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "vault",
+        "window",
+        "tracery_window",
+        "arch",
+        "wall",
+        "niche",
+        "altar",
+        "column"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032954j/f240/2977,285,899,1390/full/0/default.jpg"
+}

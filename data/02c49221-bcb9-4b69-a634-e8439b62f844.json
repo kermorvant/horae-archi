@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the Virgin Mary cradling the lifeless body of Jesus in her lap. Christ's body is marked with wounds and blood, draped in a white loincloth. Around them, four women grieve, their faces etched with sorrow. The Virgin Mary wears a blue mantle over a white habit, her head bowed. Behind the figures, a wooden cross stands prominently. The background reveals a rolling landscape with a village nestled in the valley and distant hills, suggesting an outdoor setting at Golgotha. The overall composition conveys profound grief and the pathos of the Passion.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100248249/f59/348,139,1060,1718/full/0/default.jpg"
+}

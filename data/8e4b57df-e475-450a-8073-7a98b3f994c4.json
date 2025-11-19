@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his head bowed and bleeding. To the left, the Virgin Mary, dressed in blue and gold, is seated and grieving, supported by other women, including one in green. To the right, a group of soldiers and onlookers stand, some in armor and elaborate hats. In the background, stylized buildings with towers and spires are visible, suggesting a city or fortified settlement. Above the cross, a banner with the inscription 'INRI' is displayed, and a figure representing God the Father is depicted in a celestial realm with stars. The overall setting is an open landscape with rolling hills.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0125.jp2/2687,1293,3002,4243/full/0/default.jpg"
+}

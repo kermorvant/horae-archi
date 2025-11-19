@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Sebastian tied to a tree, his body pierced by arrows. He is nude except for a loincloth. His arms are raised and bound above his head to the tree trunk. The background features a landscape with blue mountains and green trees, suggesting an outdoor setting. The overall impression is one of martyrdom and suffering.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326038/f317/564,685,374,549/full/0/default.jpg"
+}

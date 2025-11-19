@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, holding the Christ Child, is attended by two figures, possibly Joseph and another woman. Facing them is an elderly man, likely a priest, wearing a mitre and ornate robes, who is about to receive the child. The child is reaching towards a white swaddling cloth laid out on a decorative green cloth atop a golden, wheeled pedestal. The background suggests an interior space with architectural elements like columns and a doorway. Below the scene, a scroll displays Latin text, indicating a liturgical or devotional context.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "door",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022329z/f110/503,388,1692,2352/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A young man, likely a noble or saint, is depicted on horseback, wearing a red cloak over a brown tunic and a blue headband. He is looking down towards a smaller, older man who is gesturing upwards. Behind the rider, a fortified building with towers and crenellations is visible, suggesting a castle or city. The scene appears to be outdoors, with a hint of a blue sky and possibly rain or mist in the upper left corner. The interaction between the two figures, with the rider appearing to bestow a gesture or blessing upon the supplicant, suggests a scene of patronage, charity, or a saintly act.",
+    "scene_interpretation": "Saint Martin Dividing His Cloak",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "battlement",
+        "crenellation",
+        "wall"
+    ],
+    "persons": [
+        "Saint Martin"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.107/Ross.107_0360_fa_0173v.jp2/343,512,263,288/full/0/default.jpg"
+}

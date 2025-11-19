@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross in the center. To the left, the Virgin Mary, clad in blue, kneels with her hands clasped in prayer, accompanied by another woman in red. To the right, a man in blue and a soldier in red armor look up at Christ. The background is a stylized landscape with rolling green hills and a blue sky, suggesting an outdoor setting. The inscription above Christ's head reads 'I.N.R.I.'",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/my189pm5441%2FW202_000206_1200/3837,1687,1770,3004/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A procession carries a deceased, crowned figure on a richly decorated bier through a landscape. The bier is draped with a dark cloth adorned with gold floral motifs, and the deceased wears a crown and regal attire. Several figures in long, flowing robes, some with hoods, bear the bier and walk alongside. In the background, a walled city with towers and spires, including a prominent church with a rose window, is depicted against a blue sky with distant mountains. The scene is framed by an ornate, gilded border, suggesting a manuscript illumination.",
+    "scene_interpretation": "Funeral Procession",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "roof",
+        "spire",
+        "tower",
+        "rose_window",
+        "wall",
+        "fortification_wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f576/1066,616,2706,3777/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony taking place within a church or chapel. In the foreground, three figures in dark, hooded habits stand to the right, their faces visible. To the left, two figures in clerical attire, one in blue and gold robes and another in white and red, are engaged in a liturgical act, possibly at an altar or lectern. Behind them, a richly decorated blue cloth, possibly a funerary pall or altar cloth, is draped over a structure. In the background, architectural elements suggest a church interior, with columns, windows, and what appears to be a vaulted ceiling or upper story. The overall atmosphere is solemn and devotional, suggesting a funeral service or a prayer for the deceased.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "window",
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sw741tz6027%2FW177_000282_1200/3363,2539,1403,2107/full/0/default.jpg"
+}

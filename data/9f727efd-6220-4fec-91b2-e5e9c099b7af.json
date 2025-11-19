@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A procession of figures on horseback moves across a green landscape under a blue sky. In the foreground, an elderly man with a long white beard, wearing a crown and a richly patterned golden robe over a white garment, points with his right hand. He is followed by two other men, also crowned, one in a blue tunic and the other in a green garment. Behind them, a group of men in darker attire and helmets are visible. The horses are adorned with decorative blue and gold trappings. The scene is framed by architectural elements at the top and right, suggesting a narrative context within a larger illuminated manuscript.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Magi"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_086%2Flewis_e_086_jp2.zip%2Flewis_e_086_jp2%2Flewis_e_086_0156.jp2/732,4769,2570,1411/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ Child in the Temple. A bishop, identified by his mitre, stands to the left, holding the infant Christ who is seated on a draped table. The Virgin Mary, with a halo, is to the right of the child, her hands clasped in prayer. Behind the bishop is an older man with a beard, also with hands clasped. To the far left, a figure in a blue cap and red robe stands, and to the far right, a woman in a blue headdress and pink robe holds a basket. The figures are within an architectural setting suggested by a draped canopy and patterned walls. The overall scene is rendered with gold accents on the halos, garments, and architectural details.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_BERNIER_I-D-041/DEPOT/M601415401_BERNIER_I-D-041_0072/4002,563,1673,2406/full/0/default.jpg"
+}

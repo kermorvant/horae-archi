@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely a saint or prophet, in a state of divine inspiration or contemplation, with their head tilted back and one arm raised. They are seated next to a wooden lectern with a book open, suggesting study or prayer. To the left, a lion rests on a tiled floor, its gaze directed towards the seated figure. The background features architectural elements, including a large, textured wall with what appears to be a column and an arch, suggesting an interior or a partially enclosed space. The overall atmosphere is one of spiritual reflection and divine encounter.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525011578/f87/118,151,276,311/full/0/default.jpg"
+}

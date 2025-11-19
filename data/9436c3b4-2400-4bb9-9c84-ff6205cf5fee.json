@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures, including the Virgin Mary, kneeling and looking upwards. Behind her, a crowd of men, some with beards and halos, are also looking up. Rays of golden light descend from above, illuminating the scene and converging on the figures. A dove, representing the Holy Spirit, is visible at the top right, emitting these rays. In the foreground, to the right, a table covered with a red and gold cloth holds an open book. The figures are positioned within an architectural space suggested by a dark, patterned background and a vaulted ceiling indicated by the arched frame of the illumination. The floor is tiled in a checkered pattern.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "table"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022331s/f121/173,124,982,1281/full/0/default.jpg"
+}

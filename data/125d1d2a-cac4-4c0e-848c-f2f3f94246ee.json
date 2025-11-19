@@ -1,0 +1,12 @@
+{
+    "scene_description_enriched": "Three figures are depicted, all with long, wavy hair and wearing draped robes. The central figure is looking upwards with clasped hands, while the figure to their left is also looking upwards with hands clasped in prayer. The figure on the far right is also looking upwards. The scene appears to be set outdoors, with a hint of architectural elements or objects in the background, possibly a rounded form resembling a fruit or a small building. The overall impression is one of supplication or contemplation.",
+    "scene_interpretation": "Supplication",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00021/1748,2322,665,801/full/0/default.jpg"
+}

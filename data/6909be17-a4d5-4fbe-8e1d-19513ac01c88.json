@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, centrally positioned and adorned with a golden halo, her hands clasped in prayer. She wears a blue mantle over a white veil. To her left, a bearded man in a red robe and cowl plays a harp. To her right, another figure, possibly a monk, kneels in a golden robe and blue tunic, also playing a harp. In front of the Virgin Mary lies an open book. The figures are set against a backdrop of a green-framed doorway or niche, with brick-like walls on either side. The floor is tiled.",
+    "scene_interpretation": "Lamentation of the Virgin Mary",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537191/46160600.tif/631,478,1175,1470/full/0/default.jpg"
+}

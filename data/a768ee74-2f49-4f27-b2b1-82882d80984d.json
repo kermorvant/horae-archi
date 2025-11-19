@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and seated on a golden crescent moon, holding the Christ Child. She is surrounded by a celestial host of blue-hued figures, possibly angels or souls, in a radiant blue sky. Below, a kneeling figure in a black habit, likely a monk or devotee, prays with clasped hands. The lower portion of the image shows a green, rolling landscape with scattered trees. The entire scene is framed by an ornate border with floral motifs.",
+    "scene_interpretation": "The Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509693s/f50/1906,280,2093,3366/full/0/default.jpg"
+}

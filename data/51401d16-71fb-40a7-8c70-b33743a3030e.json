@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Virgin Mary, with a halo and green wings, is shown with her hands clasped in prayer. She is dressed in a blue robe. Before her is a lectern covered with a golden cloth, upon which rests an open book with text. To the right, the Angel Gabriel, also with green wings, kneels and gestures towards Mary. He is dressed in a peach-colored robe over a white garment. Above Gabriel, a dove, representing the Holy Spirit, descends with rays of light emanating from it. The background features a window looking out onto a cityscape. The entire scene is framed by an arched architectural element with decorative motifs.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_098%2Flewis_e_098_jp2.zip%2Flewis_e_098_jp2%2Flewis_e_098_0050.jp2/859,674,2657,3702/full/0/default.jpg"
+}

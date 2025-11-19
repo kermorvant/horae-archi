@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher wading through a body of water, carrying the Christ Child on his shoulders. Saint Christopher, a large bearded man with long hair, wears a blue tunic with gold trim and a red cloak draped over his shoulders. He holds a long staff to steady himself as he crosses the water. The Christ Child, depicted as a small boy with a halo, sits on Christopher's shoulders, holding a golden orb. The background shows a landscape with trees and distant buildings, suggesting an outdoor setting. The water is rendered with wavy lines and small figures of people struggling within it, emphasizing the perilous journey. The entire scene is framed by a decorative gold border.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0079/DEPOT/M601415401_MS0079_0136/4007,1240,1072,1090/full/0/default.jpg"
+}

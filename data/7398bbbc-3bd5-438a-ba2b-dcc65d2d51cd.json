@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Sebastian. A central figure, identified as Saint Sebastian by his wounds and haloed mitre, stands bound and pierced with arrows. His body is covered in blood, indicating severe injury. Two tormentors flank him: one on the left, dressed in green and red, holds a whip or flail, poised to strike; the other on the right, in purple and blue, raises a club or hammer, also ready to inflict pain. The background is a plain, dark wall, suggesting an interior setting. The floor is rendered with gold leaf, adding a decorative element.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0079/DEPOT/M601415401_MS0079_0151/1665,2139,1099,1076/full/0/default.jpg"
+}

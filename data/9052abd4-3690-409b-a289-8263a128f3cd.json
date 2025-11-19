@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo and flowing red hair, tenderly holds the Christ Child, who also has a golden halo. They are seated on a richly patterned floor. Behind them, a wooden structure with circular openings and a pink cushion suggests a domestic setting. To the right, a blue brick wall rises, with a tall, arched window featuring diamond-shaped tracery. A blue staircase ascends along the wall. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "tracery_window",
+        "stairs",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0104/utp-0104_028v.jp2/2863,1012,2534,4455/full/0/default.jpg"
+}

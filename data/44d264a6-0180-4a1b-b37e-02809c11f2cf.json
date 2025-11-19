@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a halo and a crown-like headdress, is seated and holding the Christ Child, who is also haloed. The Child reaches towards the Virgin's face. They are positioned on a stone bench or altar-like structure. Behind them is a dark background with a grid pattern and floral motifs. The scene is framed by decorative borders.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f324/845,625,893,1110/full/0/default.jpg"
+}

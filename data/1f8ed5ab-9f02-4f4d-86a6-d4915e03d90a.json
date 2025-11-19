@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary seated and reading a book, while the Angel Gabriel kneels before her, holding a scroll. A dove, representing the Holy Spirit, descends from above. The background features architectural elements, including arches and windows, suggesting an interior setting. In the upper right, a depiction of God the Father is visible in a celestial realm. The overall composition is framed by decorative borders characteristic of medieval manuscripts.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "vault",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Petit_Palais_Musee_des_Beaux_Arts_de_la_ville_de_Paris/751085109_LDUT_0035/DEPOT/751085109_LDUT_0035_0034/3130,527,1082,1688/full/0/default.jpg"
+}

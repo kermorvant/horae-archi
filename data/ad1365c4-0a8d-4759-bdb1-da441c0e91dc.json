@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within a framed illustration. At the center, a figure wearing a crown of thorns and a halo is being mocked and struck by others. To the left, a figure in armor, possibly a soldier, holds a stick. Behind him, two other figures, one with a beard, also appear to be involved in the torment. To the right, another figure, also holding a stick, strikes the central figure. The figures are rendered in a linear style with hatching to suggest form and shadow. The background is a plain gold surface, typical of manuscript illumination, with horizontal lines indicating the page structure.",
+    "scene_interpretation": "Mocking of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f38/558,1583,884,743/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a hat and a draped garment, stands with his hands clasped over his chest, in a gesture of prayer or supplication. He is depicted within an architectural frame featuring decorative elements and a column. The style suggests a religious or devotional context, possibly representing a prophet or a saint.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "undefined_element"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0061/4086,4028,439,778/full/0/default.jpg"
+}

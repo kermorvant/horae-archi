@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Sebastian, who is shown standing, pierced by numerous arrows, with a halo indicating his sainthood. To the left, two archers are in the process of shooting arrows at him. Behind the archers, a stone structure with arched openings reveals onlookers. The setting is an outdoor landscape with rolling hills and trees. Below the main scene, two figures, a man and a woman, are shown in prayer, framed by architectural elements. The inscription above the praying figures reads 'sancte sebastiane semper uox tua' (Saint Sebastian, may your voice always be).",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010116g/f278/241,277,1831,2730/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The upper register depicts a bearded figure, likely God the Father, wearing a crown and holding a globe in his left hand and the Ten Commandments in his right. He is seated on a throne or cloud-like structure from which rays emanate downwards. Below him, a haloed figure, presumably Christ, is depicted with a beard and long hair, wearing a robe and a jeweled collar. He raises his right hand in a gesture of blessing and holds a cross in his left hand. The scene is framed by architectural elements suggesting a decorative canopy or microarchitecture, with pointed arches and ornamental tracery. The overall composition suggests a divine or celestial representation.",
+    "scene_interpretation": "The Trinity or Divine Authority",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "canopy",
+        "microarchitecture",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "God the Father",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0018/6054,1531,576,3196/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "An angel with golden wings and a halo descends from a blue sky, radiating golden light. The angel holds a scroll inscribed with \"Gloria in exelsis Deo.\" Below, two shepherds are tending their flock of sheep and a goat in a green, hilly landscape. One shepherd, wearing a blue hood and pink tunic, stands and looks up at the angel, holding a staff. The other shepherd, in a blue robe, sits and also gazes upwards. In the background, a pink building with spires, possibly a church, is visible amidst trees.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0143/DEPOT/315556101_MS0143_0047/4143,394,1644,2518/full/0/default.jpg"
+}

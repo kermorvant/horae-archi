@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a frail, elderly man with a long white beard, partially undressed and lying on a textured surface, possibly straw or hay. He is looking upwards with a pained or contemplative expression. Around him stand several figures, some appearing concerned or judgmental. One man, wearing a golden robe and a green hat, gestures with his finger, seemingly addressing the reclining figure. Another man in a blue tunic with crossed arms looks down with a somber expression. The background suggests an outdoor setting with wooden structures and foliage, framed by an arched border adorned with floral motifs.",
+    "scene_interpretation": "Job and His Friends",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Job",
+        "Friend of Job"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010385p/f277/234,162,914,1365/full/0/default.jpg"
+}

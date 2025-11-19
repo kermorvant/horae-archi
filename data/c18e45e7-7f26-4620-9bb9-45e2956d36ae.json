@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Sacrifice of Isaac, with Abraham, guided by an angel, about to sacrifice his son. Abraham, a bearded man in a blue tunic and pink cloak, holds a sword raised to strike Isaac, who is kneeling on a stone altar. An angel with colorful wings hovers above, placing a hand on Abraham's arm to stay his hand. Isaac is bound and positioned on a pyre of wood. To the right, smoke rises from a golden censer with flames, suggesting a ritualistic element. In the background, a lush green landscape unfolds with trees and rocky outcrops. Further in the distance, a city with domed buildings is visible. In the lower part of the scene, a ram is caught in the branches of a tree, a common motif in this narrative. Below the altar, two figures are seated near a donkey, possibly travelers or onlookers.",
+    "scene_interpretation": "Sacrifice of Isaac",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Abraham",
+        "Isaac",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8447764p/f33/423,470,1484,2487/full/0/default.jpg"
+}

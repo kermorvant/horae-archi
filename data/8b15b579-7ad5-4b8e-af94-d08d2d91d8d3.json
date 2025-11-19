@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable. The Virgin Mary, clad in a blue mantle, kneels before the Christ Child, who lies on the ground radiating divine light. Joseph, an elderly figure with a white beard, stands to the right, leaning on a staff and shielding his eyes, perhaps in awe or contemplation. Behind them, a cow and an ox are visible. The stable itself is constructed of rough wooden planks and has a thatched roof. In the background, a woven fence separates the stable area from a green hillside dotted with trees. Beyond the hill, a walled city with towers and spires is depicted under a starry blue sky. A figure in a brown robe stands near the fence, looking towards the stable.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "tower",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314754601/files/images/00000112.tif/621,443,1053,1383/full/0/default.jpg"
+}

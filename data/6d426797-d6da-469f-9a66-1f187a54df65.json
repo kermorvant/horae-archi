@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a central figure, likely Christ, standing with a halo and holding a globe in his left hand and a cross in his right. He is draped in a robe. To his sides, partially visible, are other figures, possibly saints or angels, suggested by their halos and flowing garments. The scene is framed by an architectural element resembling an archway with decorative tracery, suggesting a sacred or monumental setting. The overall style is that of a woodcut or engraving, with strong outlines and hatching for shading.",
+    "scene_interpretation": "Christ Pantocrator",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0066/1329,914,514,1015/full/0/default.jpg"
+}

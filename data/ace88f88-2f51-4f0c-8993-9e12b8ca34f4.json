@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a solitary figure, identified as Christ, wearing a crown of thorns and a halo, suggesting a sacred context. He is shown from the chest up, with his torso bare, revealing wounds and marks of suffering. His hands are bound together with a rope. The figure is positioned between two architectural elements: on the left, a column with a rope tied around it, and on the right, another column. The background is plain, with a horizontal line suggesting a surface or platform.",
+    "scene_interpretation": "Ecce Homo",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0081/937,381,729,818/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in an outdoor setting with stylized clouds and a landscape. On the left, a figure, likely the Virgin Mary, is shown with a radiant halo and a ruffled collar, her hands outstretched in a gesture of surprise or reception. Rays emanate from her head. To the right, another figure, possibly an angel, is shown with curly hair and hands clasped, appearing to be in conversation or delivering a message. The background suggests a natural environment with trees and undulating ground.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0078/3877,3314,1095,433/full/0/default.jpg"
+}

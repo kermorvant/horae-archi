@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a gathering of three figures in a garden setting, framed by architectural elements. On the left, a woman in a pink gown sits beside a table laden with food and drink. In the center, a man in a red robe plays a lute. To his right, a woman in a blue gown holds a bouquet of flowers. Above them, a circular medallion displays a depiction of Adam and Eve. The background is a dark, stylized representation of foliage with scattered red and white blossoms. The entire scene is bordered by a golden band with decorative floral motifs and supported by ornate architectural columns.",
+    "scene_interpretation": "The presence of Adam and Eve in the medallion, coupled with the garden setting and the figures engaged in leisure (music, food, flowers), suggests a representation of the Fall of Man or a scene related to earthly pleasures and their potential consequences. The figures themselves, while not explicitly identified, could represent humanity or specific individuals contemplating their state.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008174h/f9/106,110,1925,1017/full/0/default.jpg"
+}

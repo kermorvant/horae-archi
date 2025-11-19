@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, likely a king or prophet, is depicted in profile, looking upwards. He wears a crown and a richly draped garment. His right hand is raised, with fingers extended in a gesture of speech or blessing. The scene is framed by decorative architectural elements, including what appears to be a column on the right and an ornate border with foliage and circular motifs above. The background is filled with a dense pattern of small circles, suggesting a stylized representation of foliage or perhaps a celestial setting.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "undefined_element"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0087/1667,4079,464,651/full/0/default.jpg"
+}

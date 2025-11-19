@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a rural harvest with figures engaged in agricultural labor. In the foreground, a person in a red tunic and dark hat carries sheaves of wheat towards a team of two donkeys laden with sacks. Behind them, a cart filled with hay is being loaded by a figure in a blue tunic and red cap, holding a pitchfork. The background shows a rolling landscape with trees and a building with a tiled roof and a tall chimney. Above the scene, a calendar page is visible with Latin text, indicating a specific month and liturgical entries. The sun is depicted in the upper sky as a brown orb within a golden halo.",
+    "scene_interpretation": "Calendar Page",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Cappon.218/Cappon.218_0027_fr_0011r.jp2/224,170,846,1289/full/0/default.jpg"
+}

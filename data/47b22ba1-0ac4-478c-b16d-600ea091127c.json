@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, the Angel Gabriel, with wings and a halo, kneels and presents a scroll to the Virgin Mary on the right. The scroll bears the inscription \"Ave Maria, plena gratia\". The Virgin Mary, also with a halo, stands with her hands raised in a gesture of surprise or acceptance, holding an open book. Above and to the left, a bearded figure, likely God the Father or a prophet, is depicted in prayer. The background is filled with ornate, swirling foliage, suggesting a decorative rather than a specific architectural setting.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036640k/f35/2259,610,717,755/full/0/default.jpg"
+}

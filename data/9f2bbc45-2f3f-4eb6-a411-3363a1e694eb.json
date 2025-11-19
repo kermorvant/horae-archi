@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two women in a verdant landscape. The woman on the left, with long auburn hair and a blue mantle, gently holds the hands of the woman on the right. The second woman, wearing a red cloak over a dark garment and a white and red striped head covering, looks towards the first. Behind them, rolling green hills are dotted with trees, and in the distance, a body of water and mountains are visible. A small, simple building with a red roof is nestled among the trees. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10840766/1985,417,1139,1718/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered together, with the Virgin Mary centrally positioned. Above them, a dove, representing the Holy Spirit, descends from a blue, sky-like expanse, radiating golden light. The figures, all with halos, appear to be in prayer or contemplation, with some holding hands or looking upwards. One figure on the left is reading from an open book. The setting is simple, with the figures seated on what appear to be benches or the ground, against a plain background that transitions to an arched, decorative border at the top. This scene is interpreted as the Pentecost, the descent of the Holy Spirit upon the Apostles and the Virgin Mary.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8555843r/f124/849,138,1036,1433/full/0/default.jpg"
+}

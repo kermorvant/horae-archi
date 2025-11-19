@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bishop, adorned in a mitre and rich vestments, stands in an interior space with a stone-block wall. He holds a crozier in his right hand and extends his left hand, wearing a ring, towards two unclothed children who are looking up at him with hopeful expressions. Behind the bishop, a window reveals a pastoral landscape. The scene likely depicts a bishop performing an act of charity or blessing, possibly related to the legend of Saint Nicholas, who is often associated with protecting children and providing dowries.",
+    "scene_interpretation": "Saint Nicholas",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Bishop",
+        "Child",
+        "Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0031/bge-lat0031_0209r.jp2/1086,2417,1837,1839/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "Two male figures, identified as saints by their halos, stand beneath an arched architectural element. The figure on the left holds a book in his left hand and a sword upright in his right. The figure on the right holds a book in his left hand and a cross in his right. Both figures are bearded and wear simple robes. The background is filled with a dotted pattern, suggesting a stylized or abstract setting. The scene is framed by an ornamental border. This imagery likely represents Saints Peter and Paul, prominent apostles often depicted with their respective symbols: Peter with the keys (represented here by the cross) and Paul with the sword, symbolizing his martyrdom.",
+    "scene_interpretation": "Saints Peter and Paul",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0087/3631,2454,443,627/full/0/default.jpg"
+}

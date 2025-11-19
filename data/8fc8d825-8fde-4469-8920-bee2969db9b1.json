@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An elderly man with a long white beard and wearing a blue cloak over a brown tunic kneels on the ground, holding a scroll. Facing him, a winged figure in a golden robe, likely an angel, also kneels and extends its hands towards the man. Behind them, a brick building with two diamond-paned windows is visible. The scene is set against a red, patterned wall on the left and a green ground.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_105%2Flewis_e_105_jp2.zip%2Flewis_e_105_jp2%2Flewis_e_105_0072.jp2/1347,3068,1563,1622/full/0/default.jpg"
+}

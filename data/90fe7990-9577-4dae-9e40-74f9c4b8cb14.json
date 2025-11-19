@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, stands in the foreground holding a staff in her left hand and a blue, gold-embossed book in her right. She wears a golden gown with a white mantle draped over her shoulders. Above and behind her, a winged demon with dark scales and red eyes hovers menacingly. To the left, a building with red roofs and white walls is nestled in a landscape with rolling blue hills. To the right, a more elaborate stone structure, possibly a castle or fortified building, is depicted with crenellated walls and towers. The scene appears to be set outdoors, with a path leading into the distance.",
+    "scene_interpretation": "Saint Margaret of Antioch",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "battlement",
+        "tower"
+    ],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_317/566,900,484,605/full/0/default.jpg"
+}

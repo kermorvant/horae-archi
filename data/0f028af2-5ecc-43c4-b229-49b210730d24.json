@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the central cross, his body emaciated and head bowed. To his left, another figure is crucified, and to his right, a soldier stands guard. Below the cross, on the left, stand the Virgin Mary, veiled and with hands clasped in sorrow, and another grieving woman. On the right, a group of soldiers in armor are present, one with hands clasped in prayer or contemplation. The setting is outdoors, with a stylized sun or flower motif visible at the base of the right cross. The inscription above Christ's head reads 'I.N.R.I.'",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00188/307,181,639,1020/full/0/default.jpg"
+}

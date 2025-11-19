@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Luke, identifiable by his halo and monk-like attire, painting a portrait of the Christ Child. He is seated on the right, holding a brush and palette, and is focused on a framed image of the child displayed on an easel. The setting appears to be an interior space, possibly a studio or a room within a monastery. To the left, a window reveals a glimpse of an outdoor landscape. A cow, a traditional symbol associated with Saint Luke, is positioned in the foreground. The background includes shelves stocked with various vessels and a red canopy or curtain.",
+    "scene_interpretation": "The painting represents Saint Luke the Evangelist, traditionally credited with painting the first icons of the Virgin Mary and Christ Child. This scene is a devotional depiction of the saint's artistic endeavor, highlighting his role in preserving and disseminating sacred imagery.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Luke",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550008032/f42/512,141,566,850/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Entombment of Christ. Christ's body, pale and lifeless, is laid out on a stone slab, covered by a white shroud. Several figures surround him in mourning. To the left, a man with a beard, likely Joseph of Arimathea, supports Christ's head. To the right, the Virgin Mary, with hands clasped in prayer, grieves deeply, her face turned towards her son. Other figures, including women and men, are also present, their expressions conveying sorrow and reverence. The background is a dark, grid-like pattern, suggesting a confined space, possibly a tomb or a symbolic representation of the underworld. The overall composition is somber and emphasizes the grief of the mourners and the finality of Christ's death.",
+    "scene_interpretation": "Entombment of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Joseph of Arimathea"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_Jacquemart_Andre/751085428_MS0001(254)/DEPOT/751085428_MS0001(254)_0105/3186,706,1053,1202/full/0/default.jpg"
+}

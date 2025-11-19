@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable structure. The Virgin Mary, clad in a blue mantle, kneels with hands clasped in prayer before the Christ Child, who lies swaddled on a blue cloth in a manger. To the right, Saint Joseph kneels, holding a circular object and a staff, his gaze directed towards the infant. The stable is constructed of wooden beams and has a thatched roof. Behind the figures, a woven wattle fence is visible, and beyond that, a green landscape under a blue sky. The scene is framed by an illuminated border with foliate motifs.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1421126/189,185,1078,1495/full/0/default.jpg"
+}

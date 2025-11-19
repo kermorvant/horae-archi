@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ's body, pale and lifeless, is being lowered by several figures. One man, dressed in yellow, supports Christ from behind, while another, in blue, holds his arm. A figure in pink, likely the Virgin Mary, reaches out with a sorrowful expression, her hand touching Christ's side. Another figure, in blue robes and a blue hood, also appears to be mourning. A man in an orange robe, wearing a crown, kneels and uses tongs to remove nails from Christ's feet. A ladder leans against the cross, facilitating the descent. The background is a rich blue tapestry adorned with sculpted angels. The ground below is barren, with a skull and bones scattered, symbolizing Golgotha. The inscription \"I.N.R.I.\" is visible on a plaque above Christ's head.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84496839/f234/963,667,1808,2162/full/0/default.jpg"
+}

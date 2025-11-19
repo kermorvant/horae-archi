@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and vestments, stands on the right, raising his right hand in a gesture of blessing or teaching. He wears a red cope lined with gold over a white alb. On the left, three young boys are depicted. One boy sits in a wooden barrel, while the other two stand behind him, their hands clasped in prayer. The background is a plain blue wall, suggesting an interior setting. The floor is rendered with a textured pattern of wavy lines. This scene likely depicts Saint Nicholas of Myra, known for his miracles involving children, particularly the legend of saving three girls from prostitution by secretly providing dowries, or the story of resurrecting three boys murdered and pickled by an innkeeper.",
+    "scene_interpretation": "Saint Nicholas and the pickled boys",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_BERNIER_I-D-041/DEPOT/M601415401_BERNIER_I-D-041_0160/4036,1258,1053,1053/full/0/default.jpg"
+}

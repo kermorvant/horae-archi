@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "In a pastoral landscape, two shepherds tend to their flock of sheep, accompanied by a dog. One shepherd, kneeling, gestures upwards, while the other stands, holding a staff and looking towards the sky. Above them, an angel descends from a radiant sky, holding a banner with the inscription \"Gloria in excelsis Deo et in terra pax hominibus bonae voluntatis.\" In the background, a town with a prominent tower and a fortified castle are visible by a body of water. The scene likely depicts the Annunciation to the Shepherds, a key event in the Nativity narrative.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10614692/469,249,1349,2042/full/0/default.jpg"
+}

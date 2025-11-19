@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue robe and a brown veil, standing and looking down. Facing her, Saint Elizabeth, in a golden gown and white veil, kneels with her hands outstretched towards Mary. They are in an outdoor setting with lush green foliage and a prominent rocky outcrop behind them. In the background, a town with buildings and a tower is visible, situated near a body of water. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010385p/f122/713,201,897,1340/full/0/default.jpg"
+}

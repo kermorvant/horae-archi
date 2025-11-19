@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A male saint, depicted with a halo, stands within an architectural setting. He is clad in full armor and wears a blue mantle lined with red and trimmed with gold. In his right hand, he holds a processional cross, and in his left, a sword. The background reveals an arched structure with columns, suggesting a loggia or arcade, with glimpses of a landscape through the openings. The architectural elements include columns, arches, and windows with tracery, all rendered in a stylized, somewhat flattened perspective typical of manuscript illumination. The overall scene is framed by an ornamental border.",
+    "scene_interpretation": "Saint George",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1241780/823,261,681,1084/full/0/default.jpg"
+}

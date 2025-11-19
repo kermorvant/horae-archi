@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Two male figures, identified as saints by their halos, are depicted standing. The figure on the left wears a blue robe over a lighter garment adorned with floral motifs and holds a book and a staff. The figure on the right wears a blue robe and holds a book. Both figures have beards and are depicted within an architectural setting suggested by decorative elements that resemble canopies and spires, rendered with gold leaf and intricate patterns. The background features a diamond-shaped pattern in gold, blue, and red, with smaller decorative motifs. The overall impression is one of solemnity and religious devotion, likely representing apostles or other significant biblical figures.",
+    "scene_interpretation": "Apostles",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sr994pm0975%2FW105_000009_1200/835,759,5971,9431/full/0/default.jpg"
+}

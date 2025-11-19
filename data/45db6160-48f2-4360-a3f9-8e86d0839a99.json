@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a busy agricultural setting, likely a granary or marketplace, with three men engaged in work. In the foreground, two men are shown tending to sacks of grain. One man, wearing a blue tunic, is actively working with a large container, possibly grinding or sifting grain. Another man, in a red tunic and white apron, is shown with a sieve or basket, handling grain. A third man, also in a red tunic, carries a large sack of grain over his shoulder, entering or exiting a building. The background features a partially visible timber-framed building with a thatched roof, suggesting a rural or domestic architectural context. Above the building, a blue sky with stylized birds is depicted. To the upper right, a female figure, possibly a saint or allegorical representation, is seated within a golden aureole, holding a quill and a feather, suggesting a connection to writing or divine inspiration.",
+    "scene_interpretation": "This scene likely represents the month of August, associated with the harvest and the labor of gathering crops. The figure in the aureole could represent a saint associated with this month or an allegorical figure of the season. The text in the manuscript, partially visible, lists names and dates, further supporting its function as a calendar or devotional text.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "door",
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0068/DEPOT/M601415401_MS0068_0016/3942,900,2535,3298/full/0/default.jpg"
+}

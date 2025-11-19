@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the lifeless body of Christ. Mary, wearing a blue mantle and white veil, gazes down with a sorrowful expression. Christ's body, pale and marked, is held in her lap, his head resting on her shoulder. Both figures are adorned with golden halos, indicating their divine status. The background is a stylized landscape with rolling green hills and a patch of golden field, suggesting an outdoor setting. The entire image is framed by an ornate, gilded foliate border.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xz419dn0625%2FW429_000371_1200/485,2879,1201,1091/full/0/default.jpg"
+}

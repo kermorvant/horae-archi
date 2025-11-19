@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated, holding the Christ Child on her lap. The Christ Child, wearing a crown, points outwards. Behind them, a rich blue curtain is drawn back, revealing a glimpse of architectural elements. To the right, two angels are present: one plays a lute, and the other plays a flute. The angel with the lute has red wings, while the other angel's wings are blue. The figures are positioned on a tiled floor within an interior space, suggested by the curtain and the background architecture.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f23/222,147,1250,1879/full/0/default.jpg"
+}

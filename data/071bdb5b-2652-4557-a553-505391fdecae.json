@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts an outdoor pastoral setting with rolling green hills and scattered trees. Three figures are present: one on the left, dressed in blue and orange, holds a stone object and gestures upwards; a second figure in the center, cloaked in blue, faces away from the viewer; and a third figure on the right, clad in orange, stands with hands clasped in prayer. Above them, an angel with a halo descends from a blue sky filled with golden rays, holding a scroll with Latin text. Several sheep are visible grazing on the hillsides. The overall impression is one of divine intervention or revelation in a humble, earthly environment.",
+    "scene_interpretation": "The Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel Gabriel",
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/bs390xv5099%2FW270_000148_1200/4451,1444,3842,5365/full/0/default.jpg"
+}

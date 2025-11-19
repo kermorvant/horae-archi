@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation. On the left, an angel, identified as Angel Gabriel by his wings and halo, holds a staff with lilies and directs a dove, representing the Holy Spirit, towards a woman on the right. The woman, identified as the Virgin Mary, is seated and reading from a book, with her hand on her chest. She wears a hennin and a mantle. The setting appears to be an interior space, suggested by the tiled floor and the presence of a draped curtain behind Mary. A vase with lilies stands between the two figures.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036620r/f16/2312,521,1006,1179/full/0/default.jpg"
+}

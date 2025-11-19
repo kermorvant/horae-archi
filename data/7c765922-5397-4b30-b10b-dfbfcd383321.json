@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered within an interior space, characterized by arched windows with tracery. At the center, a woman in a veil stands with her hands clasped, while a radiant dove, symbolizing the Holy Spirit, hovers above her within a halo of light. Surrounding her are several other figures, some with halos, suggesting they are saints or apostles. In the foreground, a figure kneels, possibly representing a supplicant or a witness. The architectural setting includes arched windows and a tiled floor, creating a solemn and devotional atmosphere. This scene is interpreted as the Descent of the Holy Spirit upon the Virgin Mary and the Apostles, a pivotal event in Christian theology.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_MS0091/DEPOT/330636101_MS0091_0021/925,336,1499,2449/full/0/default.jpg"
+}

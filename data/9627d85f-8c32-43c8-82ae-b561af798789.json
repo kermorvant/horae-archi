@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a decorative border with foliate motifs and a central figure. The figure appears to be a person wearing a crown or elaborate headdress, with a patterned garment and hands clasped. The surrounding elements are stylized vegetal forms, possibly representing vines or leaves, rendered in black ink on a light background. There is no discernible architectural setting or specific action beyond the figure's posture.",
+    "scene_interpretation": "This image is likely a decorative element from a manuscript, possibly a historiated initial or a border. The figure's regal attire suggests it could represent a king or a saintly figure of high status. Without further context or accompanying text, a specific religious or biblical interpretation is not possible. The foliate motifs are common decorative elements in medieval art.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "crowned figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0024/3760,456,226,1930/full/0/default.jpg"
+}

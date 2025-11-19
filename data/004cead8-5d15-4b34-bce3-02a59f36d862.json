@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, presenting him to a man reclining in a bed. The Virgin Mary, dressed in a blue mantle over a golden tunic, cradles the infant. The man, presumably Saint Joseph, is shown with a long beard and blue hair, propped up in a bed with a red headboard. The background features a decorative tapestry-like pattern of gold, blue, and red diamonds. Above the scene, a stylized architectural element resembling a blue and white striped tower or canopy is visible, adorned with gold at its peak. The overall setting appears to be an interior space, possibly a domestic room, with decorative elements suggesting a rich setting.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537230/46244952.tif/992,642,1415,1988/full/0/default.jpg"
+}

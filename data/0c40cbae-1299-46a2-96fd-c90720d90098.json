@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the central cross, flanked by two thieves on crosses. Christ is shown with a halo, wearing a loincloth, and bleeding from his wounds. Below the central cross, the Virgin Mary, cloaked in blue, kneels with her hands clasped in prayer, accompanied by another figure, likely John the Evangelist, also in prayer. To the right of Christ, a figure in an orange tunic, possibly a soldier, holds a bucket and sponge, while another figure, also in prayer, is seated. The background is a rich red with blue floral motifs. The entire scene is framed within a decorative border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/f231/509,503,1740,1803/full/0/default.jpg"
+}

@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The image is divided into four panels, each depicting a saint in an architectural setting. The top left panel shows a winged figure, possibly an evangelist symbol, next to a seated saint writing on a scroll, with a devil figure standing behind them. In the top right panel, a bearded saint is seated, writing on a scroll placed on a lectern, with a small angelic figure in the background. The bottom left panel features a seated saint reading a book, with a lion beside them. The bottom right panel depicts a saint in a mitre, writing on a scroll, with a bull at their side. The architectural elements are varied, including arches, columns, and ornate furniture, suggesting interior spaces within buildings.",
+    "scene_interpretation": "The four panels likely represent the four Evangelists (Matthew, Mark, Luke, and John), each accompanied by their traditional symbol (eagle for John, lion for Mark, ox for Luke, and an angel for Matthew, though the angel is not clearly depicted in the top left panel). The presence of the devil in the top left panel could symbolize temptation or the struggle against evil, often associated with the writing of scripture. The other panels depict the saints engaged in the act of writing their Gospels.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "window",
+        "door",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint John",
+        "Saint Mark",
+        "Saint Luke",
+        "Saint Matthew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038638f/f21/2306,155,1028,1449/full/0/default.jpg"
+}

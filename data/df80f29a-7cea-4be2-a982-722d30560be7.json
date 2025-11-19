@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a heavenly vision above a crowd of earthly figures. In the upper register, Christ, identifiable by his halo and seated posture, is flanked by God the Father (also enthroned) and the Virgin Mary, who kneels in prayer. The Holy Spirit is represented as a dove descending between Christ and God. An angel kneels to the right, also in prayer. The lower register shows a gathering of people, including figures wearing crowns and episcopal mitres, suggesting royalty and clergy. They are looking upwards towards the divine vision. The overall composition suggests a moment of divine revelation or intercession.",
+    "scene_interpretation": "The Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "God the Father",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0117/DEPOT/M601415401_MS0117_0078/4209,1383,1065,1366/full/0/default.jpg"
+}

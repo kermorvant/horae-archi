@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An angel with blonde hair and large wings, wearing a red robe, flies in a blue sky. Below, two men stand in a landscape dotted with stylized trees. The man on the left wears a blue cloak over a green robe and holds a staff. The man on the right wears a blue tunic, hat, and red hose, gesturing with his hands. In the background, a red walled city with towers and domes is visible, set against a brown, hilly landscape.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS21%2FBMC_MS21_jp2.zip%2FBMC_MS21_jp2%2FBMC_MS21_0069.jp2/2812,1300,2432,3374/full/0/default.jpg"
+}

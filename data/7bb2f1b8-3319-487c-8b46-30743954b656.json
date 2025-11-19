@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A woman, likely Saint Mary Magdalene, is depicted holding a cylindrical vessel, possibly an alabastron, in her left hand and a dark object, perhaps a skull or a book, in her right hand. She is dressed in dark, flowing robes. The background suggests an outdoor setting with rolling hills rendered in horizontal stripes. The overall style is characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "Saint Mary Magdalene",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036304k/f83/762,641,419,428/full/0/default.jpg"
+}

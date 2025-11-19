@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a divine encounter set against a vibrant blue background with radiating golden lines, suggesting a celestial realm. On the left, a kneeling figure, likely the Virgin Mary, is shown with her hands clasped in prayer, wearing a blue gown and a pink mantle. She looks upwards towards a seated figure on the right, who is depicted as an elderly man with a long grey beard, wearing a green robe and a pink mantle, and a golden crown. This figure, representing God the Father, is shown touching his forehead with his right hand and holding a wooden cross-like staff with his left. Surrounding them are several winged figures with orange wings, appearing as seraphim or angels, some of whom are positioned above and around the central figures. The overall impression is one of divine revelation or communication.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/9828280/383,324,1440,2022/full/0/default.jpg"
+}

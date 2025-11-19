@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A man in a blue robe kneels with his hands clasped in prayer before a golden altar. On the altar, a lamb is depicted engulfed in flames, suggesting a sacrifice. To the left, a figure in a white robe holds a censer over the altar. To the right, another figure in a red robe holds a basket containing three white birds. The scene takes place within an architectural setting characterized by ornate columns and arched windows, with decorative banners bearing Latin inscriptions hanging above. The overall scene likely depicts a penitential act or a plea for divine intervention, possibly related to the concept of sacrifice and atonement.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008174h/f129/224,334,1671,2024/full/0/default.jpg"
+}

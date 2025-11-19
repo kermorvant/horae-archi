@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Fall of Man in the Garden of Eden. Adam and Eve stand naked, each holding a fig leaf to cover themselves. A serpent, depicted with human-like wings and a woman's upper body, coils around a tree, offering an apple to Eve. The background features a body of water and a distant castle, suggesting a pastoral landscape. This illustration represents the moment of temptation and the subsequent sin that led to humanity's expulsion from paradise.",
+    "scene_interpretation": "The Fall of Man",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Borgh.183/Borgh.183_0022_fa_0009v.jp2/425,248,759,1314/full/0/default.jpg"
+}

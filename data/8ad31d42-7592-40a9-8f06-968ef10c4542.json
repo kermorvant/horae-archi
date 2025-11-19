@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A man wearing a straw hat, an orange vest, white shirt, and blue stockings is depicted in a field, actively engaged in scything the grass. He holds a scythe with a long handle, its blade curved and sharp. Behind him, a rustic wooden fence encloses the field, and beyond that, a village or townscape unfolds with several buildings featuring pitched roofs and spires. Small, stylized trees dot the landscape. The scene is framed within an ornate border with foliate motifs.",
+    "scene_interpretation": "This scene likely represents the month of June or July, depicting agricultural labor, specifically harvesting or mowing, which is a common theme in Books of Hours illustrating the labors of the months. It evokes the cyclical nature of the agricultural year and the importance of this work for sustenance.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "spire"
+    ],
+    "persons": [
+        "farmer"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.62/Ross.62_0025_fa_0006r.jp2/333,1048,316,251/full/0/default.jpg"
+}

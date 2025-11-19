@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation of a child, likely the Christ Child, on a draped surface. An older man with a long beard, wearing a turban, holds the child and appears to be presenting it. To the left, another man with a beard and a cap stands observing. To the right, a woman with clasped hands, likely the Virgin Mary, looks towards the child. Behind the figures, architectural elements suggest an interior space with arches and columns.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007441s/f42/1793,613,1089,1013/full/0/default.jpg"
+}

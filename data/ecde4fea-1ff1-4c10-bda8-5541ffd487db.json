@@ -1,0 +1,25 @@
+{
+    "scene_description_enriched": "The scene depicts an interior domestic setting with several figures engaged in various activities. On the left, a woman in a blue dress and white head covering tends to a large pot over a fire within an open hearth. Two men stand in the center; one, wearing a red hat and blue tunic with pink hose, carries a jug and gestures towards a table laden with food. The other man, in a gold robe and black hat, holds a white cloth. To the right, two women are seated at the table, one in a pink and black gown, the other in a black dress. The woman on the far right is drinking from a bowl. A white dog lies on the floor beneath the table. The room features a tiled floor and windows with diamond-shaped panes.",
+    "scene_interpretation": "domestic_scene",
+    "spatial_context": "indoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "woman",
+        "man",
+        "woman",
+        "woman",
+        "woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502694t/f11/579,4030,2406,940/full/0/default.jpg"
+}

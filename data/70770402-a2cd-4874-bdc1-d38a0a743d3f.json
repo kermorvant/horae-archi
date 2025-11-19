@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crosier, stands on the left, gesturing with his right hand towards a group of naked children in a tub on the right. The bishop is richly robed in a red and gold chasuble and wears white gloves. The children, one of whom is prominently featured with hands clasped, appear to be emerging from or submerged in the tub. Behind the bishop, a blue background with gold stars suggests a celestial or symbolic setting. To the right, a grey architectural niche contains a sculpted figure, possibly a saint or historical figure, adding a layer of architectural context within the scene.",
+    "scene_interpretation": "The Miracle of Saint Nicholas",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "niche",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Bishop",
+        "Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_018/DEPOT/890245409_n_018_0048/3611,2182,905,922/full/0/default.jpg"
+}

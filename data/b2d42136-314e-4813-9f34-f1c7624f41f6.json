@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts two women in a verdant, rocky landscape. The woman on the left wears a blue mantle over a golden robe, while the woman on the right is clad in a white veil and a pinkish-blue robe. They are shown in close proximity, with their hands touching. Above them, a divine light descends from a red, ribbed form in the sky, represented by golden rays. In the background, a body of water is visible, with a small boat sailing on it, and on the left, a fortified castle with towers stands on a rocky outcrop. The overall setting suggests a significant event occurring outdoors.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0004/DEPOT/210545209_004_0017/3594,583,1768,2208/full/0/default.jpg"
+}

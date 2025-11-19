@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, kneeling and adorned with a golden halo and blue robe, receiving Elizabeth, who is dressed in a white wimple and a dark cloak over a pink gown. Elizabeth is holding a red object, possibly a book or a gift, towards Mary. They are positioned in a verdant outdoor setting with stylized trees and small flowers. Behind them, to the right, is a brick building with a stone arched doorway leading to an interior with a checkered floor and stairs. In the background, a large castle with towers and crenellations is visible.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower",
+        "battlement",
+        "door",
+        "stairs",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10549444b/f128/1127,597,1426,1749/full/0/default.jpg"
+}

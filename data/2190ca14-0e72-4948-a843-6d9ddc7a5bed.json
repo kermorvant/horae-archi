@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, bound by a rope around his neck and hands, being led by soldiers. Christ wears a blue robe and has a beard and long hair. The soldiers are clad in golden armor and helmets, some with red tunics and others with blue. Behind them, a building with arched windows and a crenellated roofline is visible. The sky is a bright blue.",
+    "scene_interpretation": "The Passion of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "battlement"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f41/273,403,1269,1368/full/0/default.jpg"
+}

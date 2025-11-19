@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the biblical story of David and Goliath. A young David, clad in a blue tunic and a brown cloak, stands to the left, preparing to throw a stone from a sling. He holds a staff in his other hand. Facing him, the giant Goliath, armored in ornate gold and blue attire with a feathered helmet, is struck in the forehead by a stone and recoils in pain, his hand raised to his wound. A red shield lies on the ground near David. In the background, a landscape unfolds with rolling hills and a distant castle, suggesting an outdoor setting for this epic confrontation.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [],
+    "persons": [
+        "David",
+        "Goliath"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Borgh.183/Borgh.183_0081_fa_0039r.jp2/310,274,748,983/full/0/default.jpg"
+}

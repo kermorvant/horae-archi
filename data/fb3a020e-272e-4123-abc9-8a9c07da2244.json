@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "Three figures are depicted, two kneeling and one standing behind them. The figure on the right, an angel with large feathered wings, is kneeling with hands clasped in prayer, looking upwards. The figure to the left of the angel, a woman, is also kneeling with hands clasped in prayer, looking towards the angel. Between the woman and the angel, a third figure, possibly a man, stands behind them, also with hands clasped in prayer, looking upwards. The scene is rendered in a woodcut style with bold outlines and hatching to indicate drapery and form. No architectural elements or specific setting are visible, suggesting a focus on the figures and their devotional posture.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00126/378,1281,599,783/full/0/default.jpg"
+}

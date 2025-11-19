@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The Virgin Mary, depicted with a golden halo, is seated on a red cushion adorned with gold dots and tassels. She cradles the Christ Child, who is also haloed and leans against her. Mary gently touches the Child's head. The scene is set outdoors, within an arched frame, with a vibrant blue sky above from which golden rays emanate. In the background, rolling hills are visible, separated by a rustic wooden fence. Several trees with green foliage are scattered across the landscape. The overall impression is one of tender maternal affection and divine presence.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1335/DEPOT/352386106_MS1335_0164/3789,380,1463,2132/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Jesus laid out in a sarcophagus. He is shown with wounds from the crucifixion. The Virgin Mary, draped in blue, gently touches Christ's arm, her face conveying sorrow. She is flanked by two other women, also with halos, who appear to be mourning. To the left, a man in a red robe and white undergarments kneels, looking towards Christ. To the right, a man with a beard, wearing a green robe and a blue cap, stands and appears to be supporting Christ's body. The background shows a stylized landscape with rolling hills, trees, and a blue sky. A small, ornate architectural element, possibly a reliquary or a miniature tomb, is visible in the lower right corner. The entire scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_099%2Flewis_e_099_jp2.zip%2Flewis_e_099_jp2%2Flewis_e_099_0141.jp2/2705,1046,2412,3978/full/0/default.jpg"
+}

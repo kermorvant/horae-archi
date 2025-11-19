@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an arched frame. On the left, the Virgin Mary, wearing a blue mantle over a gold-patterned dress and a halo, is seated and engrossed in reading a book, holding a quill. To her right, the Angel Gabriel, clad in a yellow robe and also with a halo, kneels and gestures towards Mary with his right hand, holding a golden staff. Above and between them, a dove, representing the Holy Spirit, descends with rays of light emanating from it. The background features red drapery and blue fabric, suggesting an interior setting, possibly a room or a celestial space.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_des_Arts_decoratifs/Musee_des_Arts_decoratifs_INV_40343/DEPOT/Musee_des_Arts_decoratifs_INV40343_0023/3244,240,1246,1784/full/0/default.jpg"
+}

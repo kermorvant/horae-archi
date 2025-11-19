@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A female saint, identified by her halo and palm frond, stands in a verdant landscape. She is dressed in a blue undergarment and a reddish-brown cloak lined with green, holding a red book with gold clasps. The background depicts rolling hills, scattered trees, and a distant view of a white building with golden spires, possibly a church or castle, under a blue sky with stylized stars. The scene is framed by an ornate, gilded arch decorated with floral motifs.",
+    "scene_interpretation": "Martyrdom",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "spire"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F421_B.11.32_f219r.jp2/817,573,1659,2279/full/0/default.jpg"
+}

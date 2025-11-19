@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A nude woman with long, auburn hair stands in a body of water, holding a white cloth in each hand, from which water is being wrung out. Her eyes are closed, and she wears a dark necklace with a pendant. To her right, a blue garment is draped over the bank. In the background, a king wearing a crown and royal attire observes the scene from an arched loggia supported by columns. The setting is an outdoor garden with lush green foliage, a fountain on the left, and a brick wall behind the trees.",
+    "scene_interpretation": "Bath of Bathsheba",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "King David",
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0050/3908,1041,2177,3108/full/0/default.jpg"
+}

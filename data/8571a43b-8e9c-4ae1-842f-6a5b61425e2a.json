@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "Three young men are depicted gathered around a table, engaged in a game of dice. The man on the left, wearing a red tunic and blue hose, is in the process of rolling the dice. The central figure, in a blue tunic and red hat adorned with gold, looks intently at the dice. To the right, another young man in a red tunic and blue hat observes the game. The background suggests an indoor setting with architectural elements resembling columns and arches, though rendered schematically. A draped garment hangs over the back of a chair on the right side of the scene. The overall impression is one of casual leisure and perhaps a touch of anxiety or anticipation associated with gambling.",
+    "scene_interpretation": "Gambling",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0111/utp-0111_012v.jp2/1300,475,1191,2194/full/0/default.jpg"
+}

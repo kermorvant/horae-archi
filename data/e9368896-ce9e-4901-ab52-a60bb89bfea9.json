@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "An angel, with large red and orange wings and a golden halo, is depicted placing a hand on the shoulder of a kneeling woman. The woman, wearing a blue gown and a white hennin, has her hands clasped in prayer over an open book resting on a richly decorated lectern. The background features architectural elements, including a green wall with a window and a patterned wall, suggesting an interior setting. A scroll with Latin text, \"Ave Maria, gratia plena, Dominus tecum,\" is held by the angel, further identifying the scene.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/qr056bk8287%2FW267_000034_1200/4834,1144,3060,4024/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The Virgin Mary, crowned and seated on a wooden throne, nurses the Christ Child. She wears a blue robe and a crown, while the child is dressed in a patterned yellow garment and also wears a small crown. The background is a deep blue with gold stars, suggesting a celestial setting. To the right and left of the throne are decorative panels with gold patterns on a red background. The floor is tiled in a green and white checkerboard pattern. The scene is framed by an arched border with floral and geometric motifs.",
+    "scene_interpretation": "Madonna Lactans",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Avranches/Bibliotheque_municipale/500256201_Inv.94.1.1/DEPOT/500256201_Fds_Pigeon_Inv_94_1_1_0110/4228,526,1841,2490/full/0/default.jpg"
+}

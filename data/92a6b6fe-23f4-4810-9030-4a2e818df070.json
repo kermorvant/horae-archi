@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The image depicts two figures flanking a central text block. On the left, a bearded man wearing a cap and robes points towards the text. On the right, another figure, also robed and with a halo, raises their hands in prayer or supplication towards the text. Both figures are framed by architectural elements resembling pointed arches with decorative tracery. The text itself is in Latin, suggesting a religious or scholarly context. The scene appears to be an illustration accompanying a religious text, possibly from a Book of Hours or a similar devotional work, where figures are shown in contemplation or receiving divine inspiration.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0053/3848,3356,1061,451/full/0/default.jpg"
+}

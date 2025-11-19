@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ carrying the cross, accompanied by several figures. Christ, wearing a pink robe and a halo, is shown struggling under the weight of a large wooden cross. To his left, the Virgin Mary, also with a halo, is depicted with a sorrowful expression, her hand resting on the cross. Behind her, another woman, possibly Mary Magdalene or another follower, also appears distressed. To Christ's right, two soldiers in armor, one in orange and the other in grey, are present, seemingly urging him forward. The background is a muted green, suggesting an outdoor setting. In the foreground, a rudimentary fence-like structure is visible, possibly indicating a path or enclosure.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.18%2F090_B.11.18_f036v.jpg/1372,1269,1875,2869/full/0/default.jpg"
+}

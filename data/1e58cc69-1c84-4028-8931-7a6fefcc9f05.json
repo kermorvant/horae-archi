@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Christ, bearing wounds from crucifixion, laid in a sarcophagus. He is supported by several mourners. On the left, a man in a blue robe and a distinctive red and yellow conical hat looks down at Christ. Beside him, a woman in a red robe with her arms crossed grieves. To the right of Christ, the Virgin Mary, clad in blue, cradles Christ's head and wipes away a tear. Another woman, also in blue, leans in to comfort her. On the far right, a man in a yellow robe and a white and red headdress looks towards Christ. In the background, a stylized cityscape with towers and spires is visible, set against a green, grassy landscape.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00095049_00222/514,25,475,705/full/0/default.jpg"
+}

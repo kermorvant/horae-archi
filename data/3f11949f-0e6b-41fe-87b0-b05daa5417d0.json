@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bust of a man with a beard and short hair is depicted within a blue and gold oval frame, suggesting a saint or holy figure. He has a halo, indicating his sanctity. The background is a textured, reddish-orange, possibly representing a landscape or a decorative element. The overall impression is that of a devotional image, likely part of a larger manuscript illumination.",
+    "scene_interpretation": "Portrait of a Saint",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00080/1327,1734,199,403/full/0/default.jpg"
+}

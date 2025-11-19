@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A seated female figure, likely a saint, is depicted within an architectural niche. She wears a veil and a draped garment. In her left hand, she holds a human skull, a common symbol of mortality and penance. Her right hand rests on a pedestal supporting a small, framed image, possibly a relic or a devotional icon. The figure is seated on a cushioned surface, with her feet resting on a prostrate figure, suggesting subjugation or triumph over an adversary. The background is filled with stippling, creating a textured effect. Above the figure, an ornate architectural canopy with pointed arches and microarchitecture frames the scene. A banner with Gothic lettering is visible at the very top.",
+    "scene_interpretation": "Penitent Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "canopy",
+        "microarchitecture",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0081/5064,2145,611,1620/full/0/default.jpg"
+}

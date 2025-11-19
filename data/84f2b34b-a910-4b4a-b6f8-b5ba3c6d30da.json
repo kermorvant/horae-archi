@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, cloaked in blue, rides a white donkey, holding the Christ Child. To the right, an older man, possibly Joseph, walks alongside, wearing a green hat and a golden tunic. Behind them, a large, indistinct figure, possibly another traveler or a pack animal, is visible. The setting is an outdoor landscape with rolling hills and sparse vegetation, rendered with gold leaf accents suggesting divine presence or richness.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525095563/f230/1630,1481,2283,3085/full/0/default.jpg"
+}

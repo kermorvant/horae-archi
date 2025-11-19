@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A person, likely David, is depicted kneeling and looking upwards with hands clasped in prayer. To the left, a bird, possibly an eagle or a dove, is shown with its beak open, facing the praying figure. The scene is set outdoors, amidst foliage that suggests a natural environment. The posture of the figure and the presence of the bird are suggestive of a devotional scene, possibly representing David in prayer or a moment of divine inspiration.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0086/5134,3367,361,508/full/0/default.jpg"
+}

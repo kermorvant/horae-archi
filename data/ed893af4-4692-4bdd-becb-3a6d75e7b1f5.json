@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a humble stable. The Virgin Mary, with a golden halo, kneels in prayer before the Christ Child, who lies on a blue cloth. Rays of golden light descend from above, illuminating the infant. To the left, an elderly man, likely Saint Joseph, also kneels with hands clasped in prayer. Behind them, a donkey and an ox are visible, their heads near a woven manger. In the background, two figures in hooded robes observe the scene, and a brick wall forms the rear of the stable. The setting is rustic, with wooden beams and a thatched roof structure.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_086%2Flewis_e_086_jp2.zip%2Flewis_e_086_jp2%2Flewis_e_086_0137.jp2/1738,625,2608,3606/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men gathered around a central figure, identified as Christ by his halo. A kneeling figure, possibly a woman, reaches out towards Christ. Behind Christ, a building with a tower and arched windows is visible. The figures are rendered in a woodcut style, with strong lines and hatching to indicate form and shadow. The overall composition is framed by an arched border.",
+    "scene_interpretation": "Healing of the Woman with an Issue of Blood",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0026/4300,2676,396,679/full/0/default.jpg"
+}

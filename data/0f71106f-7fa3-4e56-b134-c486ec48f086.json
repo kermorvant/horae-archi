@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross at the center. To the left, a bearded man in dark robes holds a chalice. Below him, another figure kneels before an open book. To the right of the cross, a woman in a wimple and dark robes kneels with clasped hands before an open book, and behind her stands a figure wearing a mitre, suggesting a bishop or high-ranking cleric. The background is dark and indistinct, with a suggestion of a rocky or hilly landscape behind the figures.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Saint John the Evangelist",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525115590/f184/449,512,621,703/full/0/default.jpg"
+}

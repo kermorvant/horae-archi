@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a simple wooden structure, suggesting a stable. The Virgin Mary, clad in a blue mantle, holds the Christ Child on her lap. Three Magi are present: one kneels before them, offering a chalice; another stands behind him, holding a reliquary; and the third stands to the right, also holding a vessel. The background shows rolling green hills under a pale sky. The architectural elements are rudimentary, consisting of wooden beams and a thatched roof.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Reg.lat.165/Reg.lat.165_0063_fa_0030r.jp2/261,488,526,567/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, likely Christ, stands on the left, holding a scroll inscribed with \"Vade ad Diori[s]um\". He wears a blue tunic and a pink mantle, with a sword sheathed at his side. Before him kneels a man in a brown cloak, hands clasped in prayer, with a golden amulet around his neck. Behind the kneeling man, three other figures are present: one in a yellow tunic points towards the kneeling man, another in a green tunic with a blue hat gestures with his hands, and a fourth figure is partially visible behind him. The scene appears to be set indoors, with a patterned wall and an archway visible in the background.",
+    "scene_interpretation": "The scene depicts Christ sending someone on a mission, possibly related to the biblical narrative of Christ's disciples being sent out. The inscription \"Vade ad Diori[s]um\" translates to \"Go to Diores\", suggesting a specific destination or person. The kneeling figure's posture of prayer and the presence of others indicate a moment of instruction or commissioning.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/332da7e8-5f33-4878-8388-2752e212bbb2/617,1552,843,684/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint or prophet, is depicted kneeling and reading from an open book. The figure wears a pink robe over a green garment. Behind and slightly above the reader, an angel with white wings leans in, also looking at the book. The scene takes place indoors, suggested by the presence of a richly patterned red curtain draped over a white architectural element, and a green checkered floor. A round table with a wooden base stands to the right, holding an open book, an inkwell, and a quill. Another book rests on the floor near the table. The background is a textured grid of gold, green, and orange squares, framed by an arched border with decorative floral motifs.",
+    "scene_interpretation": "The scene likely depicts a moment of divine inspiration or revelation, possibly related to the writing of scripture or prophecy. The presence of the angel suggests divine communication. Given the context of a Book of Hours, this could represent a saint or prophet receiving divine knowledge, or perhaps a scene from the life of a saint associated with writing or scholarship.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "door"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F271_B.11.32_f144r.jp2/781,662,1850,2302/full/0/default.jpg"
+}

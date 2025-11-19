@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands in the foreground, gesturing with his right hand. He is dressed in a blue dalmatic and a red cope adorned with gold trim. To his left, three cherubic, naked children are depicted within a wooden tub, their hands clasped in prayer. The background suggests an interior space with architectural elements, including a blue wall with decorative motifs and what appears to be a stone structure. The scene likely represents a saintly bishop interceding for or protecting children, possibly alluding to a specific hagiographical narrative or a general theme of spiritual guardianship.",
+    "scene_interpretation": "Saint Nicholas and the Three Youths",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_Impr_8_GR0045/DEPOT/B280856201_Impr_8_GR0045_0107/3572,499,934,1356/full/0/default.jpg"
+}

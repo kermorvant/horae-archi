@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the dead body of Christ, bearing wounds from crucifixion, resting on the lap of God the Father. Christ is shown with closed eyes, his body pale and marked by blood. God the Father, depicted as an elderly man with a long white beard and wearing a jeweled crown and ornate robes, holds Christ tenderly. Above them, a white dove, symbolizing the Holy Spirit, hovers, its wings spread.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "God the Father",
+        "Holy Spirit"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_086%2Flewis_e_086_jp2.zip%2Flewis_e_086_jp2%2Flewis_e_086_0294.jp2/837,1730,1409,1647/full/0/default.jpg"
+}

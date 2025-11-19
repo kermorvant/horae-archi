@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A crowned figure, likely a saint or king, stands with hands clasped in prayer, wearing a red robe adorned with white dots and a golden crown. Beside him, a kneeling figure in a blue tunic also has hands clasped in prayer. Both figures are depicted against a shimmering gold background, suggesting a divine or celestial setting. The scene is framed by a blue border.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint",
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0062/DEPOT/M601415401_MS0062_0203/2761,1344,536,718/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a coronation ceremony. A crowned figure, likely a queen, kneels before a bishop or high-ranking cleric who is placing a crown upon her head. The bishop wears a mitre and a rich cope, and has a halo indicating sainthood or divine favor. Behind the kneeling figure are several women, some with halos and wings, suggesting they are saints or angels, and others are attendants. The background features an elaborate architectural structure with columns, arches, and decorative elements, all rendered in gold leaf, suggesting a sacred or royal setting. The figures are richly robed, and the overall impression is one of solemnity and divine investiture.",
+    "scene_interpretation": "Coronation of a Saint",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Bishop",
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0054/3315,499,2673,3823/full/0/default.jpg"
+}

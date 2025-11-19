@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a landscape with a river in the foreground, bordered by grassy banks and trees. On a small island or promontory in the middle ground, a tall, square stone structure topped with a golden urn stands prominently. Behind this, more trees and a body of water are visible. In the background, a grand building complex with a prominent dome and classical architectural features stretches across the horizon, nestled amongst hills. The sky is a pale blue with scattered clouds, and the overall impression is one of serene, idealized nature and architecture.",
+    "scene_interpretation": "This scene does not depict a specific biblical, liturgical, or hagiographic event. It is likely a decorative landscape, possibly intended to evoke a sense of classical beauty, pastoral tranquility, or an idealized setting.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "dome",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510074b/f198/1651,5244,2061,1076/full/0/default.jpg"
+}

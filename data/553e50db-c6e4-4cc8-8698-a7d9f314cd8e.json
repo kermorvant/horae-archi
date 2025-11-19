@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in a landscape setting, framed by ornate architectural borders. In the foreground, a person in a dark, hooded robe with yellow patterned undergarments is seated on a grassy incline, with hands clasped in prayer and head tilted upwards. A red, bird-like creature with outstretched wings is suspended in the air above them, connected by thin red lines. In the background, another figure in a similar robe is seated, facing away from the viewer. The landscape features rolling green hills, distant blue mountains, and a few scattered trees. The overall impression is one of contemplation and perhaps a spiritual vision or encounter.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_021/559,1655,735,492/full/0/default.jpg"
+}

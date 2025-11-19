@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a cap and robes, is depicted with his hands clasped together in prayer. He is framed by an architectural element that suggests an archway or niche, with a textured background of small circles. The overall style is that of a woodcut or early print, common in medieval manuscripts.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0038/1517,4016,438,627/full/0/default.jpg"
+}

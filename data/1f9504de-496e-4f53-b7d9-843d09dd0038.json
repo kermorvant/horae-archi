@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, stands holding a book open in their hands and a palm frond. The figure is depicted within an architectural setting that includes a window with tracery and a column supporting an arch. To the right, a stylized tower-like structure is visible. The scene is rendered in a woodcut style with hatching to indicate shading.",
+    "scene_interpretation": "Saint with Attributes",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "column",
+        "tracery_window",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0098/1604,719,677,1041/full/0/default.jpg"
+}

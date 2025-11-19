@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded man with a halo, likely a saint or evangelist, is seated and writing in a book. He is dressed in a robe and points with his right hand to an open book before him. To his left, a kneeling figure, possibly an angel or a disciple, holds a book with circular markings. The scene is framed by architectural elements, including columns and arched structures, suggesting an interior setting. A triangular object with a circular base, possibly a symbol or an architectural feature, is visible above the seated figure's right shoulder.",
+    "scene_interpretation": "Evangelist Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0014/3493,2469,608,853/full/0/default.jpg"
+}

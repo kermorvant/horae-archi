@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "An elderly man with a long white beard and a halo sits outdoors, leaning against a building. He is dressed in a brown hooded robe and is reading an open book with illuminated text. The setting is a grassy landscape with trees and bushes. To his right is a small, gabled building with arched windows and a doorway. A woven fence is visible in the foreground.",
+    "scene_interpretation": "Saint Jerome in his study",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "gable",
+        "door",
+        "wall"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892308/933,270,1165,1013/full/0/default.jpg"
+}

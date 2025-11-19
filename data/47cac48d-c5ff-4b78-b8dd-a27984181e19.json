@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a woman, partially undressed and wearing a blue skirt, standing between two men. Both men are dressed in red tunics with gold trim and blue sleeves, and wear blue hats. They are shown in the act of striking the woman with branches or reeds. The setting appears to be an interior space with arched windows and columns, suggesting a building with architectural elements. The floor is tiled in a green and white checkered pattern. The overall scene conveys a sense of violence and torment inflicted upon the central figure.",
+    "scene_interpretation": "Martyrdom of Saint Catherine",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1509/DEPOT/352386106_MS1509_0047/1251,634,1591,2013/full/0/default.jpg"
+}

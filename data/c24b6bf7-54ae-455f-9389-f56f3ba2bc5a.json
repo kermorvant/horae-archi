@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A golden bull stands in a grassy landscape, with its left foreleg raised. Behind the bull, a rocky cliff face rises, adorned with gold leaf highlights. Beyond the cliff, a body of water is depicted, populated by several sailing ships. In the distance, rolling hills and a castle-like structure are visible under a blue sky with scattered clouds. The scene is rendered with meticulous detail, suggesting a symbolic or allegorical representation.",
+    "scene_interpretation": "Taurus",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f24/915,1405,1099,2603/full/0/default.jpg"
+}

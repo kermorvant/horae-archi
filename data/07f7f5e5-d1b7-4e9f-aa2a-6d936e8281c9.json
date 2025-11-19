@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a complex architectural setting, possibly a celestial or idealized space, with figures arranged in multiple tiers. In the foreground, a woman lies on a bed, attended by several figures. A bishop, holding the Christ Child, blesses the woman. Above them, a grand architectural structure, resembling a tower or canopy, is adorned with pinnacles and arches, surrounded by angels. Other figures, likely saints or devotees, are also present, some looking towards the central action and others in prayer. The overall impression is one of a sacred event taking place within a richly decorated, possibly heavenly, architectural framework.",
+    "scene_interpretation": "Death of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pinnacle",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511234s/f113/2496,570,911,1277/full/0/default.jpg"
+}

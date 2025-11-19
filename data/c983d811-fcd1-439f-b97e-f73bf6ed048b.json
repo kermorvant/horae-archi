@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. In the foreground, a kneeling figure holds a shallow bowl. Behind this figure, a man with a long beard and a distinctive hat stands, looking towards the viewer. To his right, two other figures are visible, one wearing a cap and the other with a halo-like headdress. The background features stylized architectural elements, including arches and what appear to be crenellated walls or battlements, suggesting a fortified or urban environment. The overall impression is one of a gathering or a moment of presentation within a structured, possibly ceremonial, context.",
+    "scene_interpretation": "This image likely represents a scene from the Old Testament, possibly King David in prayer or receiving a petition, given the presence of a kneeling figure presenting a bowl and the regal appearance of the bearded man. The architectural elements could symbolize a palace or a city, reinforcing the royal context.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0093/1103,2048,639,1141/full/0/default.jpg"
+}

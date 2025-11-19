@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a classical temple structure with Corinthian columns. On the left, a figure in elaborate religious vestments, including a mitre, stands before an altar with flames. On the right, the Virgin Mary, cloaked in blue and red, kneels and cradles the Christ Child. Behind them, a landscape unfolds with rolling hills, trees, and distant architectural ruins. In the upper portion of the image, a divine figure, possibly God the Father, emerges from clouds, with an arm extended.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "arch",
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS1476/DEPOT/M601415401_MS1476_0048/1189,1198,1907,2893/full/0/default.jpg"
+}

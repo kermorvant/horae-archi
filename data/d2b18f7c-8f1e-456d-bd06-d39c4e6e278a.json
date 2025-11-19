@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded male figure, identified as Saint Andrew by his attribute, stands with a golden halo. He wears a red tunic and a blue mantle, and holds a large X-shaped cross diagonally across his body. The background depicts a wall with two windows featuring diamond-shaped tracery. The floor is a checkered pattern of black and gold squares. The scene is framed by an ornate border.",
+    "scene_interpretation": "Saint Andrew",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "tracery_window"
+    ],
+    "persons": [
+        "Saint Andrew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kf642qf4553/W164_000309_1200/591,1495,2519,3603/full/0/default.jpg"
+}

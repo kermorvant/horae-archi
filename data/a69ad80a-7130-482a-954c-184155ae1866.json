@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A crowned man, identified as David, kneels in prayer before a golden harp-like instrument. He wears a royal blue mantle lined with ermine over a purple robe, and a golden crown. Behind him, a richly decorated red canopy with gold patterns suggests a royal chamber. To the left, a landscape with rolling green hills and stylized trees is visible, with distant blue structures that might represent buildings. Above, in a celestial blue sky, a figure, likely God or an angel, is depicted within a halo, with rays of light emanating downwards. The scene depicts David in prayer, a common motif in Books of Hours, often associated with repentance or seeking divine guidance.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Melun/Bibliotheque_municipale/772886201_MS0010/DEPOT/772886201_MS0010_0061/3687,499,1548,2393/full/0/default.jpg"
+}

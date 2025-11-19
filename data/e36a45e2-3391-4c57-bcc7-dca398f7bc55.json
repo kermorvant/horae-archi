@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A nun kneels in prayer before an altar, her hands raised and a book open before her. The altar is draped with a white cloth and supports a golden crucifix with Christ crucified, flanked by the Virgin Mary and Saint John. The background is a rich pink with a gold foliate pattern, framed by a decorative border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "altar",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/10507341/746,381,989,999/full/0/default.jpg"
+}

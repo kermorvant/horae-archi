@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary seated centrally, surrounded by the Apostles. All figures have golden halos. Above them, a dove, representing the Holy Spirit, descends with rays of light. The figures are positioned within an architectural setting that includes arched openings and columns, suggesting an interior space. The background beyond the architecture shows a green landscape with trees. The floor is depicted as a grid pattern.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0751_0780/DEPOT/620416201_MS0751_0780_0014B/3601,1081,2048,2973/full/0/default.jpg"
+}

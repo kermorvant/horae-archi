@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The image depicts a bishop standing within an arched frame. He wears a mitre and a cope, and holds a processional cross in his left hand and a book in his right. Behind him, to the left, are buildings resembling a city or town with towers and walls. To the right, a body of water with a small boat is visible. The overall scene suggests a saintly figure associated with a city and possibly a maritime setting.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0109/5791,2700,664,977/full/0/default.jpg"
+}

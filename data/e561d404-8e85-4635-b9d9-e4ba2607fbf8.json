@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Baptism of Christ, with Christ standing in wavy water, his hands clasped. John the Baptist, to the right, pours water over Christ's head. An attendant stands to Christ's left, holding a cloth. Above, a dove, representing the Holy Spirit, descends from a radiant source, framed by an arched architectural element. The setting appears to be outdoors, with hints of landscape elements.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ",
+        "John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0042/824,275,587,1106/full/0/default.jpg"
+}

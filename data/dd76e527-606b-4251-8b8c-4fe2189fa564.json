@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely a prophet or scribe, seated at a desk and reading from a scroll. He wears a cap and a robe, and has a halo, suggesting a figure of importance. To his right, a winged figure, presumably an angel, kneels with hands crossed over its chest, looking towards the man. The setting appears to be an interior space with a window in the background. The overall composition suggests a moment of divine revelation or inspiration.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f21/1104,360,894,1246/full/0/default.jpg"
+}

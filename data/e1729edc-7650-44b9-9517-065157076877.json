@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A Franciscan friar, identified by his blue habit and tonsured head, kneels in prayer outdoors. He looks upwards towards a winged figure, possibly an angel, who is depicted with a halo and holding a wooden cross. Red threads connect the figure to the friar's hands and chest, and a small arrow pierces his hand, symbolizing stigmata. The background depicts a winding path through a green landscape, with trees, a body of water, and a distant walled city with towers and red-roofed buildings. The scene is set against a blue sky with scattered clouds.",
+    "scene_interpretation": "The Stigmatization of Saint Francis",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Francis"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10509406b/f138/814,466,1084,1667/full/0/default.jpg"
+}

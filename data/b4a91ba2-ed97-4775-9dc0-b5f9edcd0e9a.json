@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of three women on the left, one of whom is pointing, and a single figure on the right with arms crossed. The figures are positioned within an architectural setting that includes a large arch overhead and what appears to be a doorway or opening to the right. The women on the left are dressed in hooded garments, suggesting a religious or modest context. The figure on the right has long, wavy hair and is also clothed in medieval attire. The overall style is that of a woodcut illustration, common in early printed books.",
+    "scene_interpretation": "The scene is likely a representation of the Visitation, where Mary visits her cousin Elizabeth. The pointing gesture of the woman on the left could signify the announcement or revelation of Elizabeth's pregnancy, a key moment in the Visitation narrative. The figures on the left could represent Mary and her companions, while the figure on the right, possibly Elizabeth, is shown in a more introspective pose.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "door"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0081/4955,2185,475,628/full/0/default.jpg"
+}

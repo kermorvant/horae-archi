@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a kneeling woman who has her hands clasped in prayer. She is dressed in a long robe and wears a headdress. To her right, two bearded men in elaborate hats and robes are seated, one gesturing with his hand. Behind them, other figures are visible, some holding staffs or sceptres. The scene is framed by an arched architectural element, suggesting an interior setting. The overall composition suggests a moment of supplication or judgment, possibly within a religious or legal context.",
+    "scene_interpretation": "The scene is likely a depiction of a supplicant before authorities, possibly related to a legal or religious trial. The kneeling figure with clasped hands suggests prayer or pleading. The bearded men could represent judges, elders, or religious figures. Without further context, a specific biblical or devotional event is difficult to pinpoint, but it evokes themes of justice, mercy, or intercession.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "kneeling woman",
+        "bearded man",
+        "figure"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0065/808,2198,474,760/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a pregnant woman, possibly Bathsheba, standing before a crowned king, likely King David, who is seated on a throne. The woman is partially undressed, revealing her pregnant belly, and holds a piece of cloth. The king, adorned with a crown and royal robes, holds a scepter and appears to be gesturing towards her. The background suggests an interior setting with architectural elements like a window with tracery and decorative hangings. A dog is visible sleeping at the king's feet. The overall composition suggests a narrative moment of royal summons or judgment.",
+    "scene_interpretation": "Bathsheba and David",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "King David",
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034545r/f92/2890,487,924,1264/full/0/default.jpg"
+}

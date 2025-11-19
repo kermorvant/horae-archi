@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher carrying the Christ Child on his shoulders across a body of water. Saint Christopher, a large, bearded man, is dressed in a red tunic and holds a staff. The Christ Child, with his arm raised, is seated on Saint Christopher's shoulders. To the right, a hermit kneels in prayer on a rocky outcrop, with a small building in the background. The landscape features water, mountains, and a blue sky.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Saint Christopher"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BookofHoursoftheRomanuse_18%2FBookofHoursoftheRomanuse_18_jp2.zip%2FBookofHoursoftheRomanuse_18_jp2%2FBookofHoursoftheRomanuse_18_0268.jp2/691,2195,1173,926/full/0/default.jpg"
+}

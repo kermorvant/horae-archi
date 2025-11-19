@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "Two shepherds are depicted in a grassy landscape with sheep. One shepherd, seated on the right, looks upwards with his hand raised. The other shepherd, seated on the left, also looks upwards with his hand raised. A bagpipe and a pouch lie on the ground near the seated shepherd on the left. In the background, a walled town or castle complex is visible on a hill, with several buildings and towers. Above the landscape, a winged figure, possibly an angel or a demon, flies across a golden sky. The scene likely depicts the Annunciation to the Shepherds, a key event in the Nativity narrative.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xb915nd9363%2FW439_000309_1200/752,915,2506,3128/full/0/default.jpg"
+}

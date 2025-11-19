@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a tower under construction, with figures falling from it and others working at its base. At the top, a divine figure, possibly God, is shown with arms outstretched, radiating golden light. Several individuals are shown in mid-air, falling from the tower, some with expressions of distress. Below, other figures are engaged in construction work, holding tools like hammers and chisels, and interacting with building materials. The tower itself is a multi-tiered structure with crenellations and windows, suggesting a fortified or important building. The background is a vibrant blue sky with golden cloud-like formations, and rays of light emanate from the divine figure.",
+    "scene_interpretation": "The Tower of Babel",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "roof",
+        "battlement",
+        "arch"
+    ],
+    "persons": [
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f56/493,236,922,2437/full/0/default.jpg"
+}

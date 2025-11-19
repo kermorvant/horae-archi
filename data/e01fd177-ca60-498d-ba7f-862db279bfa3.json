@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the Entombment of Christ, with the body of Christ lying in an open sarcophagus. Several figures, identifiable as mourners, surround the sarcophagus. The Virgin Mary, in blue, is shown with her hands clasped in grief. Other women, also with halos, express sorrow. A man in a blue cap and cloak, possibly Joseph of Arimathea, is shown assisting with the burial. The background features a rolling landscape with distant buildings and a sky filled with golden rays emanating from above, suggesting divine presence. The scene is framed by an ornamental border with floral motifs.",
+    "scene_interpretation": "Entombment of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/5981230/480,480,1499,2207/full/0/default.jpg"
+}

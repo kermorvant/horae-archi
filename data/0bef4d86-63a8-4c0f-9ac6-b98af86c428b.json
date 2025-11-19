@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Kiss of Judas, a pivotal moment in the Passion of Christ. Jesus, with a golden halo, is being embraced and kissed by Judas Iscariot, who is identifiable by his orange cloak and the act of betrayal. Jesus's face shows a serene expression, while blood trickles from a wound on his chest. Around them, a group of figures, some armed with spears, are apprehending Jesus. One figure in a blue tunic with gold patterns holds a sword or scythe-like weapon. In the background, a walled city with towers and spires is visible, set against a blue sky with stylized clouds. The foreground is a green, undulating landscape. The entire scene is framed by an arched border decorated with floral motifs and gold ornamentation.",
+    "scene_interpretation": "Kiss of Judas",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "spire"
+    ],
+    "persons": [
+        "Jesus",
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509634r/f145/709,198,1718,2613/full/0/default.jpg"
+}

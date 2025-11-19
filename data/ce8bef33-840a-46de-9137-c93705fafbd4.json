@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in what appears to be an outdoor setting, suggested by the ground texture and foliage. On the left, a figure in ornate armor and a headdress holds a spear. In the center, another armored figure, also wearing a helmet, stands with a spear. To the right, a hooded figure, representing Death, holds a scythe and is positioned behind the central figure, with a skull visible above its head. The figures are rendered in a woodcut style, with strong lines and hatching. The overall composition suggests a symbolic representation of mortality or the inevitability of death, possibly in the context of worldly power or conflict.",
+    "scene_interpretation": "Dance of Death",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0033/5349,2521,598,1388/full/0/default.jpg"
+}

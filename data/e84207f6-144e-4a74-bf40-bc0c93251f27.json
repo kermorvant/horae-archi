@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with Saint Elizabeth embracing the Virgin Mary. Both figures are rendered with gold halos, indicating their sanctity. The Virgin Mary wears a blue gown and a white veil, while Saint Elizabeth is depicted in a reddish-pink robe. They are positioned within an architectural setting that suggests a building with crenellations and an arched opening, against a backdrop of a blue sky and distant landscape. The figures' embrace is tender, highlighting the devotional significance of their meeting.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0101/utp-0101_027r.jp2/724,5125,782,2319/full/0/default.jpg"
+}

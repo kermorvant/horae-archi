@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a funeral procession taking place outdoors, with a prominent Gothic church in the background. Several figures are engaged in the burial. Two men in blue and red tunics are lowering a body, wrapped in a patterned cloth, into an open grave. A deceased individual lies on a white shroud in the grave, with a skull visible at the bottom. A cleric, dressed in a blue and red chasuble and holding a book, stands with a group of white-robed figures, one of whom carries a processional cross and a basket. Behind them, a crowd of figures in black habits, likely monks or mourners, are gathered. The church features pointed arches, a blue tiled roof, and decorative tracery windows. To the left, a building with a dark, steeply pitched roof and windows filled with skulls suggests a charnel house or ossuary.",
+    "scene_interpretation": "Funeral Rite",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "pointed_arch",
+        "tracery_window",
+        "roof",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "Cleric"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0106/utp-0106_145r.jp2/1085,639,2630,3879/full/0/default.jpg"
+}

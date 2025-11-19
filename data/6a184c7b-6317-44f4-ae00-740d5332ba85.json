@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within an architectural frame. On the left, a woman with a halo and flowing hair, likely the Virgin Mary, holds a book and gestures towards the other figure. On the right, an older woman, possibly Saint Elizabeth, with a veiled head and a more somber expression, looks towards the first woman and holds a small object, perhaps a scroll or a vial. Behind them, a stylized cityscape with towers and crenellated walls is visible. The scene is framed by an arched structure with decorative elements, suggesting an interior or a covered exterior space.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auch/Bibliotheque_municipale/320136201_IMPR1064/DEPOT/320136201_IMPR1064_0067/1556,2240,1203,1734/full/0/default.jpg"
+}

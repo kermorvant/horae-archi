@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Sebastian, pierced by arrows, standing in a grassy outdoor setting. He is depicted with his body exposed, and multiple arrows are embedded in his torso. To his right, a figure in dark robes, likely an executioner or a tormentor, is visible, holding a bow or another arrow. The background is filled with foliage and hints of architectural structures, suggesting an outdoor execution or martyrdom. The overall impression is one of suffering and religious devotion.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90680933/f173/3611,1480,812,1174/full/0/default.jpg"
+}

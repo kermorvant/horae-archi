@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a crowned man seated on a throne, with a long beard and wearing a tunic. A woman, also crowned and wearing a headdress, stands beside him and places a crown on his head. Behind her, another figure is partially visible. The background features architectural elements resembling Gothic windows and crenellations, suggesting an interior setting within a building. The act of crowning suggests a coronation or investiture ceremony, possibly related to royalty or a significant religious figure.",
+    "scene_interpretation": "Coronation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "window",
+        "gable",
+        "battlement",
+        "arch"
+    ],
+    "persons": [
+        "King",
+        "Queen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0063/903,556,689,1128/full/0/default.jpg"
+}

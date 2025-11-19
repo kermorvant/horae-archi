@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Nicholas, identifiable by his bishop's attire and crozier, standing to the left. He is gesturing towards three nude children who are seated in a barrel or tub. Above the children, a small, framed object resembling a calendar or list is affixed to the wooden wall. Below this upper scene, three women are seated on the ground. The central woman is looking down at her hands, while the woman on the right appears to be holding a small object. The overall setting is an interior space with a dark, wooden-paneled background. The inscription below the upper scene reads \"De sancto nicolao ant. pastos eterne o de mens o bone aistos qui\", which translates to \"Of Saint Nicholas, eternal shepherd, or of the good souls\". This likely refers to the legend of Saint Nicholas saving three young girls from prostitution by throwing bags of gold into their home, which allowed them to marry. The three children in the barrel are often depicted as the three daughters of a poor man, whom Saint Nicholas saved.",
+    "scene_interpretation": "Miracle of Saint Nicholas",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511766t/f189/1399,396,763,1253/full/0/default.jpg"
+}

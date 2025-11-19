@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary and the Apostles gathered together. A dove, representing the Holy Spirit, descends from a radiant halo above, with tongues of fire emanating from it and falling upon the heads of the assembled figures. The figures are shown in prayer and contemplation, with halos indicating their sanctity. The setting appears to be an interior space, possibly a room within a building, with architectural elements such as windows and doorways visible. A table with an open book is placed in front of the Virgin Mary.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "window",
+        "door",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fq804fm0409%2FW433_000058_1200/3624,1818,2423,3011/full/0/default.jpg"
+}

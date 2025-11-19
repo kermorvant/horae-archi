@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an architectural setting. On the left, a figure in clerical vestments, likely a priest, stands with hands clasped in prayer before an altar. The altar is adorned with a chalice and a decorative panel. In the background, to the right, three figures are gathered around a lectern, attentively reading from an open book. A fourth figure, cloaked in dark fabric, stands to the far right, partially obscured. The architecture features an arched opening with decorative elements and a window with visible mullions. The floor is tiled with a geometric pattern, and decorative fabric with fleur-de-lis motifs covers the ground in front of the altar and lectern. Two candlesticks with lit candles are placed on the floor.",
+    "scene_interpretation": "Mass",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "altar",
+        "column",
+        "capital",
+        "wall"
+    ],
+    "persons": [
+        "Priest"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f230/2355,328,824,1262/full/0/default.jpg"
+}

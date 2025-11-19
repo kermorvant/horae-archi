@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher carrying the Christ Child across a body of water. Saint Christopher, an elderly man with a long white beard, wears a blue robe and a crown, and carries a staff. He is wading through turbulent blue water, with waves indicated by white brushstrokes. The Christ Child, with a halo and a golden crown, sits on Saint Christopher's shoulders, looking forward. In the background, a distant city with spires and towers is visible. To the left, on a rocky outcrop, a small pink building with a blue roof and a bell tower stands amongst trees. Below this building, a tonsured monk in a dark robe is seated, reading a book. The landscape is hilly and green, with a flock of sheep visible in the distance on the right.",
+    "scene_interpretation": "The Legend of Saint Christopher",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "chapel",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Christ Child",
+        "Saint Christopher"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10549444b/f57/354,493,1435,1542/full/0/default.jpg"
+}

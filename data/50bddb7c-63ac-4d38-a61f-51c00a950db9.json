@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A group of figures are gathered within an architectural setting. At the center, a bearded man wearing a jeweled mitre and ornate robes is the focal point. He is flanked by other men, some with beards and wearing hoods or caps. The architecture consists of blue-painted columns and arches, suggesting an interior space, possibly a church or a grand hall. The figures appear to be engaged in a solemn ceremony or discussion.",
+    "scene_interpretation": "Coronation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8571085n/f83/2525,1601,869,1873/full/0/default.jpg"
+}

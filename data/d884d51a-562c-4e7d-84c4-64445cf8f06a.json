@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene is divided into two parts. On the left, a king kneels in prayer in a lush, green landscape dotted with trees and bodies of water. He wears a golden robe and a crown. In the background, a dramatic blue mountain range rises against a pale blue sky with scattered clouds. To the far left, a decorative border depicts two winged figures, possibly angels, and a standing armored figure holding a spear and shield. On the right, a group of figures, including Christ with a halo, are seated at a long table, suggesting a meal. A woman in a golden cloak kneels at the edge of the table, her head bowed, possibly in penitence or supplication. The architectural elements on the right are suggested by two large, fluted golden columns and a draped curtain, creating a sense of an interior space.",
+    "scene_interpretation": "The scene likely depicts King David in prayer, a common theme in Books of Hours, often associated with penitential psalms. The presence of Christ and the disciples at a table, possibly representing the Last Supper or a similar meal, juxtaposed with David's prayer, could allude to the sacrament of the Eucharist and the king's spiritual devotion. The woman kneeling at the table might represent Mary Magdalene or another penitent figure.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f579/716,2107,3239,3636/full/0/default.jpg"
+}

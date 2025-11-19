@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man with long, dark hair and a halo is seated behind a desk, writing on a scroll. He wears a red cloak over a blue garment. To his right, a carved wooden figure with a halo and a grotesque face is visible. The scene appears to be set within an interior space, suggested by the architectural elements behind the figures, including what looks like a patterned wall or screen. The overall impression is of a scholar or scribe at work, possibly a biblical figure or saint engaged in writing.",
+    "scene_interpretation": "Evangelist Writing",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0135/DEPOT/315556101_MS0135_0015/1409,2489,911,1100/full/0/default.jpg"
+}

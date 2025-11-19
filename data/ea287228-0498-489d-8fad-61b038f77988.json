@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a skeletal figure, personifying Death, holding a scythe and draped in a cloth, standing to the left. To the right, a man in medieval attire, wearing a hat and a long robe over a tunic, stands facing Death. The man appears to be holding something small in his hands. The figures are framed by an architectural element resembling an archway with decorative foliage. The background is filled with stippling, suggesting a dark or abstract space. This scene is a representation of the Dance of Death or a similar memento mori theme, where Death confronts a living individual, reminding them of their mortality.",
+    "scene_interpretation": "Memento Mori",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0064/812,213,598,959/full/0/default.jpg"
+}

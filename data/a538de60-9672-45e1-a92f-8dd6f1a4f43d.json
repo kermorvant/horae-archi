@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A crowned king, seated on a raised dais and holding a golden orb, gestures with his right hand. Before him, a kneeling woman, also crowned, receives a golden halo from an angel flying above. Another angel, also winged, stands behind the kneeling woman, with hands clasped. The scene is set against a blue sky with clouds, framed by architectural elements suggesting a canopy and curtains. The overall scene depicts a divine investiture or coronation, likely representing the Coronation of the Virgin or a similar royal saint's legend.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "dais"
+    ],
+    "persons": [
+        "King",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS0022/DEPOT/B441096101_MS0022_0077/1505,575,1303,1810/full/0/default.jpg"
+}

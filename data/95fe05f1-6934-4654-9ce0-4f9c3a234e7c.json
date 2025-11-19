@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a nude woman emerging from a bath or pool on the left, while a crowned man, seated within an architectural structure, gestures towards her from the right. The man wears a regal robe and a crown, and his beard is prominent. The architecture behind him appears to be a classical building with columns and an inscription that reads 'ACTIANO'. The background on the left shows a landscape with trees and a dark, textured sky. On the right, a large, rounded object, possibly a shield or a helmet, rests on the ground. The overall composition suggests a narrative scene, possibly from classical mythology or a biblical story involving temptation or judgment.",
+    "scene_interpretation": "Bathsheba and David",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "David",
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS0358/DEPOT/B514546101_MS0358_0094/2020,286,651,976/full/0/default.jpg"
+}

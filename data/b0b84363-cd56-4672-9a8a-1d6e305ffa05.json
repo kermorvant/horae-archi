@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit, also known as Pentecost. A group of figures, all with golden halos, are gathered together. One central figure, likely the Virgin Mary, is seated and holding an open book. Rays of light emanate from a white dove, representing the Holy Spirit, descending from a blue, cloud-filled sky. The figures are looking upwards towards the dove, with expressions of awe and devotion. The scene is framed by an arched architectural element, decorated with foliage on the sides. The ground is depicted with a patterned tessellation.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Musee_des_Arts_decoratifs/Musee_des_Arts_decoratifs_INV_40342/DEPOT/Musee_des_Arts_decoratifs_INV40342_0103/3222,389,935,1720/full/0/default.jpg"
+}

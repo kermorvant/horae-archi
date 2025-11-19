@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A man in clerical vestments, with his hands clasped in prayer, kneels on a grassy hill. He is being stoned by two men. The man on the left, wearing a pink tunic and yellow hose, holds a round object, possibly a stone, raised to strike. The man on the right, dressed in a blue tunic and yellow hose, also holds a stone, poised to throw. In the background, a walled city with towers and spires is visible under a blue sky with flying birds. This scene depicts the martyrdom of a saint, likely Saint Stephen, the first Christian martyr, who was stoned to death.",
+    "scene_interpretation": "Martyrdom of Saint Stephen",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Saint Stephen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_326/2996,1271,589,526/full/0/default.jpg"
+}

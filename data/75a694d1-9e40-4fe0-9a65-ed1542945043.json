@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A skeletal figure, representing Death, is shown reaching out to a woman who is dressed in a wimple and a long gown. Death's left arm is raised, pointing upwards, while its right arm is extended towards the woman, holding her hand. The woman, with her hands clasped in front of her, appears to be reacting to Death's presence. The scene is framed by an architectural element resembling a pointed arch with decorative foliage. The background is filled with hatching, suggesting a somber or perhaps otherworldly setting. This imagery likely depicts the Dance of Death or a similar memento mori theme, reminding the viewer of the inevitability of death and the transient nature of life.",
+    "scene_interpretation": "Memento Mori / Dance of Death",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Death"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0065/5799,559,566,1028/full/0/default.jpg"
+}

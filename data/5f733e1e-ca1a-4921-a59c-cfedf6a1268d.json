@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the central cross and two thieves on crosses to his sides. Christ is shown with a halo and a crown of thorns, bleeding from wounds. Below the cross, a group of figures includes the Virgin Mary, dressed in blue, and other women, some in mourning. To the right of the central cross stands a soldier in ornate golden armor, holding a shield with a black eagle emblem. In the background, a city with towers and buildings is visible under a blue sky. The overall scene is set in an outdoor landscape with green hills.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1219/DEPOT/352386106_MS1219_0023/3577,422,1870,2623/full/0/default.jpg"
+}

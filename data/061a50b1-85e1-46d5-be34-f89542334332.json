@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in what appears to be an interior setting, suggested by the patterned textile backdrop. In the foreground, a figure in a blue robe and white armor is prominent, facing left. To his left, a figure in a brown robe holds a lantern and appears to be tending to another figure kneeling, who is covered in red marks, possibly representing blood. Other figures, some with halos, are visible in the background, including one holding a sword. The overall impression is one of a dramatic or significant event, possibly related to a religious narrative.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0822_0513/DEPOT/620416201_MS0822_0513_0014/4869,1121,1889,2242/full/0/default.jpg"
+}

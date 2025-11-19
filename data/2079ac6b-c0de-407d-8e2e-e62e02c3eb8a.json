@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a baptismal font in an outdoor setting, enclosed by a low stone wall. Two figures are present: one, likely John the Baptist, is on the left, holding a long stick and appearing to direct water from a pipe into the font. The other figure, on the right, kneels and washes their hands in the water flowing from the font. Above the font, a dove, symbolizing the Holy Spirit, descends with rays of light. The overall scene suggests a baptismal ritual taking place in a garden or courtyard.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f251/184,2784,934,906/full/0/default.jpg"
+}

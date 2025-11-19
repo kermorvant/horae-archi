@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A woman in a blue gown, accompanied by two men, stands before a seated figure wearing a blue hat and a gold and blue robe. The seated figure is on a throne. The background is a pale blue, suggesting an outdoor setting. The scene likely depicts a moment of judgment or presentation, possibly related to a biblical or historical narrative.",
+    "scene_interpretation": "Judgment of Esther",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Esther",
+        "King Ahasuerus",
+        "Attendant"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN321296575/files/images/00000075.tif/478,847,594,771/full/0/default.jpg"
+}

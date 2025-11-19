@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "An angel, depicted with golden wings and a halo, descends from a radiant blue sky, holding a golden scroll inscribed with Latin text. Below, in a pastoral landscape dotted with sheep, a shepherd in a red tunic plays a bagpipe, looking upwards. Two other shepherds, one in yellow and green, the other in a purple cloak, also gaze towards the angel, one pointing. A dog lies at the feet of the bagpipe player. In the background, a fortified city or castle is visible on a rocky outcrop. The scene likely depicts the Annunciation to the Shepherds, a pivotal moment in the Nativity narrative.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_092%2Flewis_e_092_jp2.zip%2Flewis_e_092_jp2%2Flewis_e_092_0106.jp2/856,1170,2137,2434/full/0/default.jpg"
+}

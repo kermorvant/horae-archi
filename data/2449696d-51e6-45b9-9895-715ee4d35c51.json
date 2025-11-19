@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a saint, likely Saint John the Evangelist, standing in a grassy landscape with a river flowing behind him. The saint holds a golden chalice containing a dragon, and a palm frond. He wears a blue tunic and an orange cloak lined with white. A halo surrounds his head. In the background, a river flows through a verdant landscape, with trees and rocky outcrops. On the far left, a walled city with towers and crenellations is visible, with small figures engaged in various activities. On the right, another city with similar architecture is depicted. A bird with a halo stands at the saint's feet. The sky is a deep blue, adorned with golden stars.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "battlement",
+        "crenellation"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a869aa04-10eb-4801-afc6-ba4600e662f7/2390,1315,1804,2762/full/0/default.jpg"
+}

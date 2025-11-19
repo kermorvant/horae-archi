@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identifiable by her halo and dark blue mantle, standing and gently touching her abdomen. She is met by Saint Elizabeth, who is kneeling and also touching Mary's belly, her face conveying emotion. Behind them, a bearded man, likely Zechariah, stands observing. The setting is an outdoor landscape with rocky formations and trees in the background, leading to a view of a fortified building complex with towers and windows. The ground is covered with grass and small flowers.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00113507_00140/549,318,852,1404/full/0/default.jpg"
+}

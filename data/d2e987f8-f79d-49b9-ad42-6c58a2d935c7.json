@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a quatrefoil frame against a gold leaf background adorned with radiating sun motifs and blue orbs. On the left, the Angel Gabriel, with feathered wings and a golden halo, is shown in profile, gesturing towards the Virgin Mary. He holds a lily, a symbol of purity. The Virgin Mary, also with a golden halo, is depicted kneeling on the right, her arms crossed over her chest, and looking downwards. She is dressed in a blue robe and is reading from an open book placed on her lap. Behind her, two figures with golden hair are visible, their heads bowed. The architectural setting is suggested by a grey wall with decorative blue and gold motifs, and what appears to be a window or an opening with tracery. The overall composition conveys the divine moment of the Incarnation.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53000324z/f31/583,673,833,862/full/0/default.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ Child in the Temple. The Virgin Mary, with a halo, stands to the left, holding the infant Jesus. Joseph, identifiable by his halo and beard, stands behind Mary. To the right, an elderly man, likely Simeon, dressed in a golden robe, holds the infant Jesus on a white cloth atop a patterned table. Another figure, possibly Anna, stands behind Mary, and a man in a distinctive blue robe and pointed hat stands to the far right. The background features a grand architectural setting with arched openings and columns, suggesting the interior of a temple or church. A red canopy with gold trim is suspended above the scene. The figures are richly robed, and gold leaf is used extensively for halos and decorative elements.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph",
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/xz419dn0625%2FW429_000178_1200/4292,2263,1715,3102/full/0/default.jpg"
+}

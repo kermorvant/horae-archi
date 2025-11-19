@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts three figures within an arched frame, suggesting an interior setting. On the left, a man in dark robes is seated on a throne-like structure, looking towards the center. In the middle, a figure, possibly a woman, stands and holds a vessel with a lid, offering it to the seated man. To the right, a haloed man in a long robe stands, facing the seated figure. Behind him, another figure is partially visible. The background features vertical bars, reminiscent of a window or screen, and a patterned wall. The overall composition is framed by decorative foliage.",
+    "scene_interpretation": "The scene likely represents a moment of offering or presentation, possibly related to a saint or a biblical event involving a ritualistic act. The halo on the standing figure suggests sanctity, and the act of offering a vessel could allude to a sacrament, a gift, or a symbolic offering.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Ross.119/Ross.119_0048.jp2/518,26,619,780/full/0/default.jpg"
+}

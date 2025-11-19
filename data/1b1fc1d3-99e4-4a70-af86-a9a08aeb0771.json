@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a table-like structure. In the foreground, a woman, likely the Virgin Mary, cradles a baby. To her left, a bearded man wearing a conical hat with a dangling ornament holds his hands near the baby. Behind them, several other figures, including a man with a tall headdress and another woman with a veiled head, are visible. The figures are positioned within an architectural setting suggested by an arched canopy above and a decorative element resembling a small altar or pedestal in the lower left. The overall impression is one of a devotional scene, possibly the Presentation of Christ or a similar event involving the Holy Family and other significant individuals.",
+    "scene_interpretation": "Presentation in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0038/1291,613,501,1002/full/0/default.jpg"
+}

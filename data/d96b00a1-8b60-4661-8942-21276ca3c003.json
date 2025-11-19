@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a solemn moment within an interior space, characterized by a richly decorated, red and gold patterned backdrop. In the foreground, Christ, identifiable by his halo, stands bound with ropes, his head bowed. He is surrounded by several figures, some appearing to be guards in armor and elaborate headwear, and others in more regal attire. To the right, a seated figure, likely Pontius Pilate, with a long white beard and wearing a blue robe trimmed with ermine, holds a golden basin and appears to be washing his hands. The floor is tiled in a green and black checkered pattern. The overall composition suggests a scene of judgment or condemnation.",
+    "scene_interpretation": "Christ Before Pilate",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Pontius Pilate"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509634r/f148/1124,467,1865,2379/full/0/default.jpg"
+}

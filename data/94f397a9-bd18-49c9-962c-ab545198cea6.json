@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts two shepherds and a flock of sheep in a pastoral landscape. One shepherd, on the left, plays a bagpipe, looking upwards with a pensive expression. The other shepherd, on the right, kneels with hands clasped in prayer, also gazing upwards. Above them, a blue angel descends from a golden halo, holding a scroll inscribed with \"GLORIA IN ALTIS\". In the background, rolling green hills are dotted with trees and a winding river, leading to a distant castle on a hilltop. The overall scene evokes a sense of divine revelation in a humble, rural setting.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8496559r/f94/683,180,1069,1496/full/0/default.jpg"
+}

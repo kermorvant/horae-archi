@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Pietà, with the Virgin Mary cradling the lifeless body of Christ after the Crucifixion. To the left, another figure, likely Saint John the Evangelist, supports Christ's body. A large, white cross is prominently displayed behind them, symbolizing the crucifixion. The figures are rendered with soft, flowing drapery, and their faces convey sorrow and grief. The background features a dark, decorative pattern of swirling foliage. The overall composition evokes a profound sense of loss and devotion.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f222/768,634,954,1161/full/0/default.jpg"
+}

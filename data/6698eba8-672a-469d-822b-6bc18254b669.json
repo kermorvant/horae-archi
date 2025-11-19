@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The Virgin Mary, draped in a white veil and robe, sits holding the Christ Child, who is adorned with a golden halo. Two angels, also in white robes and with golden wings, kneel beside them. The angel on the left plays a harp, while the angel on the right holds a book or tablet and appears to be singing or speaking. The background features a red, gold-patterned tapestry behind the figures, and a blue sky with white clouds to the left. A low brick wall is visible behind the tapestry. The scene is framed by decorative gold elements at the top, resembling stylized shells or fans.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_151/2931,544,869,1039/full/0/default.jpg"
+}

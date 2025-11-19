@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in what appears to be an architectural setting. On the left, a woman in a headdress and draped clothing is seated, looking towards the center. In the middle, a man with a beard and a hat is holding a swaddled infant. To the right, another man with a beard and a crown or elaborate headdress is reaching towards the infant. The figures are framed by stylized architectural elements that resemble towers or canopies with pointed roofs and decorative finials. The overall impression is one of a significant event involving the presentation or care of a child, possibly within a domestic or royal context, suggested by the presence of a crowned figure.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "roof",
+        "pinnacle"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0086/5920,3549,639,1266/full/0/default.jpg"
+}

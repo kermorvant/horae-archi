@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child. Mary is seated, wearing a blue mantle over a white garment, and has a golden halo. The Christ Child, also with a halo, is held in her arms. To the right, a large, pink wing, presumably belonging to an angel, is visible. The figures are set against a background of gold leaf with a patterned grid of blue and gold squares. The foreground shows a green landscape with small white and orange flowers. The entire scene is framed by decorative elements, including a dark blue border with white foliate motifs and a twisted, dark red and blue band on the left, against a gold background.",
+    "scene_interpretation": "Madonna and Child",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kr986bn6539%2FW215_000049_1200/891,1762,2598,3328/full/0/default.jpg"
+}

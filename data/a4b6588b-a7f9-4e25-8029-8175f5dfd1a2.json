@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A woman, likely the Virgin Mary, stands in a landscape with a city in the background. She is depicted with a veil covering her head and draped over her shoulders, and she wears a long, flowing gown. Her hands are clasped or held near her chest, and her gaze is directed downwards with a somber expression. The background features stylized buildings with towers and arched windows, suggesting an urban setting. The foreground shows some foliage and rocky terrain. The overall composition evokes a sense of contemplation or sorrow, possibly related to the Passion of Christ or a moment of personal grief.",
+    "scene_interpretation": "Lamentation of the Virgin Mary",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0097/5914,3412,689,1240/full/0/default.jpg"
+}

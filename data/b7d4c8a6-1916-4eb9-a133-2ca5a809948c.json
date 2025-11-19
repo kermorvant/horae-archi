@@ -1,0 +1,26 @@
+{
+    "scene_description_enriched": "A nude woman with long blonde hair emerges from a body of water, her lower torso submerged. To the right, a king wearing a crown and ermine-trimmed robe gestures outwards from a balcony, accompanied by a richly dressed attendant. Behind them, a grand castle with towers and battlements dominates the background, situated on a hill. The scene appears to depict a narrative event, possibly a royal encounter with a mythical or supernatural being.",
+    "scene_interpretation": "Bathsheba",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "roof",
+        "wall",
+        "battlement",
+        "tower",
+        "balcony"
+    ],
+    "persons": [
+        "King David",
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.443/Barb.lat.443_0181_fa_0084r.jp2/331,317,498,707/full/0/default.jpg"
+}

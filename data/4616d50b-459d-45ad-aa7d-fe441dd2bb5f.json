@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a nighttime encounter in a rocky, hilly landscape under a starry sky. Christ, with a radiant halo, stands centrally, facing forward. To his left, a figure, likely an apostle, stands looking down. Around them, numerous soldiers lie fallen and seemingly incapacitated, some with weapons scattered. A torch burns in the foreground, illuminating some of the fallen figures. The overall impression is one of divine power overcoming earthly opposition.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Apostle"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0147/1351,897,1903,2612/full/0/default.jpg"
+}

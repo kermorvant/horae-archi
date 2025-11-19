@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed monk, dressed in a black habit, stands in a landscape. He holds a red, gold-edged book in his right hand. The background features rolling hills, stylized trees, and a decorative patterned archway above. The scene is framed by ornamental borders typical of illuminated manuscripts. The monk's contemplative posture and the book suggest a scholarly or devotional context, likely representing a saint or a figure of religious contemplation.",
+    "scene_interpretation": "Saint in contemplation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.32%2F395_B.11.32_f206r.jp2/945,678,1847,2326/full/0/default.jpg"
+}

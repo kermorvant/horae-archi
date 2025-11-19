@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts two male figures framed by an ornate, golden architectural structure. The figure on the right, bearded and wearing a red tunic and a blue mantle, holds a long staff. The figure on the left, younger and beardless, wears a yellow and orange garment and carries a palm frond. They stand in a landscape with green foliage and a blue sky. The architectural frame features decorative elements and inscriptions, including \"SIMON ET\" and \"PIVOE\" (likely part of a longer inscription). The overall impression is of a devotional image, possibly representing saints or apostles.",
+    "scene_interpretation": "Saints Simon and Jude",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Simon",
+        "Saint Jude"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_021/90,1026,463,1139/full/0/default.jpg"
+}

@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts a procession of three skeletal figures, each wearing a crown, advancing from the left. They are draped in white garments and appear to be interacting with a group of living individuals. In the center, a white horse is mounted by a young man in a blue tunic and a red cap, his legs covered by a richly patterned yellow and blue cloth. To his right, another young man in a red and green outfit, also wearing a cap, gestures towards the skeletal figures. The background features a walled enclosure, a distant castle on a hill, and a blue sky. A crucifix stands prominently to the left of the horse. The overall composition suggests a confrontation or interaction between the living and the dead, possibly representing the Dance of Death or a similar memento mori theme.",
+    "scene_interpretation": "Memento Mori / Dance of Death",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle",
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "arch",
+        "column",
+        "capital",
+        "roof",
+        "pinnacle",
+        "spire"
+    ],
+    "persons": [
+        "Skeleton",
+        "Skeleton",
+        "Skeleton"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BookofHoursoftheRomanuse_18%2FBookofHoursoftheRomanuse_18_jp2.zip%2FBookofHoursoftheRomanuse_18_jp2%2FBookofHoursoftheRomanuse_18_0187.jp2/886,632,1949,2491/full/0/default.jpg"
+}

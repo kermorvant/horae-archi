@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in a garden-like setting, possibly engaged in tending to plants. The figure on the left, wearing a hat and cloak, is bent over, holding a tool that resembles a sickle or scythe. To their right, another figure, also wearing a cap, appears to be interacting with foliage. Between the figures and a ram on the right, there is a decorative architectural element, possibly a balustrade or a section of a garden wall with pillars. The ram stands to the right, looking towards the figures. The background suggests a natural environment with trees and foliage, interspersed with architectural elements that hint at a structured outdoor space. The overall impression is one of pastoral activity within a cultivated area.",
+    "scene_interpretation": "This scene likely represents a pastoral or allegorical theme, possibly related to the months of the year or agricultural labor, common in Books of Hours. The presence of a ram could also allude to Christ as the Lamb of God or to the zodiac sign Aries, often associated with spring and renewal. Without further context, a specific biblical event is not clearly identifiable, but the imagery evokes themes of nature, cultivation, and perhaps divine providence over earthly matters.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0011/1442,3489,1210,507/full/0/default.jpg"
+}

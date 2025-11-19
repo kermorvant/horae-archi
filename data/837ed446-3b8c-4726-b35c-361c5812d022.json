@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed woman, likely the Virgin Mary, is depicted in a blue garment and an orange veil. She is shown outdoors in a landscape with green rolling hills and trees under a bright blue sky. Her hands are clasped, holding what appears to be a book or prayer leaves. The style is typical of medieval manuscript illumination.",
+    "scene_interpretation": "Virgin Mary",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f253/274,497,606,689/full/0/default.jpg"
+}

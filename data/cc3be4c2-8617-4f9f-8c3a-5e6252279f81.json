@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body showing wounds and blood. To the left, the Virgin Mary, draped in blue and pink, looks up at Christ with hands clasped in prayer. To the right, a young man, likely Saint John the Evangelist, also gazes upwards with hands pressed together in devotion. The setting is an outdoor landscape with rolling green hills and scattered trees under a blue sky filled with golden stars. The scene is framed by an arched border decorated with foliage and celestial motifs.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Bibliotheque_municipale/B490076101_MS2047/DEPOT/B490076101_MS2047_0052/3974,939,1513,2039/full/0/default.jpg"
+}

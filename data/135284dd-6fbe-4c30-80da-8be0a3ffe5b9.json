@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A man wearing a green turban and an orange tunic over a white apron is depicted in the act of striking a wild boar with an axe. The boar is lying on a green grassy ground. The scene is framed within an elaborate quatrefoil cartouche with a red, gold, and black patterned background. Decorative foliage extends from the top and sides of the frame.",
+    "scene_interpretation": "Hunting Scene",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0022/4976,2995,779,835/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, stands within an architectural frame. The figure is clad in armor and holds a bundle of arrows. The background is a textured green, suggesting an interior or a stylized representation of a space. Decorative elements frame the central figure, hinting at the illuminated manuscript context.",
+    "scene_interpretation": "Saint Sebastian",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/sh232js9131%2FW176_000321_1200/370,3138,943,964/full/0/default.jpg"
+}

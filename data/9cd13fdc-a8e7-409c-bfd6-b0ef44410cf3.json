@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a woman bathing in a stone basin, with her legs submerged in water. She is dressed in a red gown with white sleeves and a white headdress. To the left, a king with a crown and beard looks out from a window of a dark, multi-towered castle. A river flows past the castle. In the background, another king, also crowned and robed, stands with his hands clasped in prayer, facing a mountainous landscape under a blue sky. The overall composition suggests a narrative event, possibly related to a biblical or hagiographic story.",
+    "scene_interpretation": "Bathsheba",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "roof",
+        "tower",
+        "arch"
+    ],
+    "persons": [
+        "King David",
+        "Bathsheba"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS0036/DEPOT/352386106_MS0036_0064/3374,625,2107,2420/full/0/default.jpg"
+}

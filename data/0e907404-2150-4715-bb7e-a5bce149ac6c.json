@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and cope, stands in the center of the image, holding a reliquary. He is surrounded by several other figures, some of whom are looking towards him. The figures are depicted in a somewhat stylized manner, with attention given to their clothing. The background is plain, suggesting an indoor setting or a focus on the figures themselves.",
+    "scene_interpretation": "Religious Procession/Veneration of Relics",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00047854_00384/104,765,297,381/full/0/default.jpg"
+}

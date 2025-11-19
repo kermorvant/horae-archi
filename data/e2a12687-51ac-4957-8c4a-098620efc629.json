@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A king, seated on a throne and wearing a crown and ermine-trimmed robe, gestures with his right hand while holding a scepter. He is surrounded by several figures, including a man in armor to his left and other men standing behind him. To the king's right, a figure with long hair, possibly representing a prophet or a significant biblical character, stands and appears to be speaking or listening. The scene is framed by an arched architectural element, suggesting an interior setting, possibly a throne room or a courtly audience.",
+    "scene_interpretation": "This scene likely depicts a royal audience or a moment of judgment, possibly related to a biblical narrative involving a king and a supplicant or advisor. Without further context, a specific interpretation is difficult, but it evokes themes of authority, justice, and counsel.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0029/4999,433,564,937/full/0/default.jpg"
+}

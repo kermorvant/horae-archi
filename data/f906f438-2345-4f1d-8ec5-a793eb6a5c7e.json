@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A man wearing a hooded garment and a cap sits at a table, holding a bowl and a spoon. The table is covered with a cloth and set with a plate and a small dish. Behind him, a bottle sits on a shelf. The background features a dotted pattern, possibly representing a starry sky or a decorative textile. To the right, a window with Gothic tracery is visible. The scene depicts a solitary meal, suggesting a moment of contemplation or religious observance.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "tracery_window"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0058/3453,3435,305,417/full/0/default.jpg"
+}

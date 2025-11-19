@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, seated in the foreground. Behind them stands a nun, also with a halo, reading from a book. The background features a walled town with several buildings, including houses with gabled roofs and a fortified gatehouse. Figures can be seen walking in the distance within the town. The overall composition suggests a devotional scene, possibly depicting a saintly figure in contemplation with the Virgin and Child.",
+    "scene_interpretation": "Madonna and Child with a Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "gatehouse",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "roof",
+        "gable",
+        "wall",
+        "fortification_wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00113507_00449/303,228,524,627/full/0/default.jpg"
+}

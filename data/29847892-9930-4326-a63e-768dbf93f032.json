@@ -1,0 +1,29 @@
+{
+    "scene_description_enriched": "A grand architectural setting features a prominent, multi-tiered structure with arches and ornate detailing, suggesting a palace or temple. A crowd of people gathers, some looking up towards a raised platform where a bishop, adorned in ceremonial robes and a mitre, is being presented with a book by attendants. Below, a regal woman in a blue gown, holding a basket with doves, stands on a wide staircase, facing the viewer. Other figures, including children and men in various attire, are also present, some ascending the stairs. The scene is set against a backdrop of elaborate buildings with towers and windows, under a blue sky with clouds.",
+    "scene_interpretation": "Presentation of the Virgin",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "roof",
+        "stairs",
+        "wall",
+        "pinnacle",
+        "tower",
+        "arcade",
+        "capital",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Bishop",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0059/1214,356,2107,3048/full/0/default.jpg"
+}

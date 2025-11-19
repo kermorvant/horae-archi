@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Virgin Mary standing on the right, her hands clasped in front of her chest, and a pensive expression on her face. She wears a blue mantle over a red tunic. To the left, the Angel Gabriel kneels, his head tilted upwards, with a red wing visible behind him. He is dressed in a pink robe and his hands are raised as if in supplication or greeting. A scroll unfurls above them, bearing Latin text. The figures are set against a dark background with a repeating gold pattern. The floor is a checkered pattern of black and white squares. Decorative borders frame the scene.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://images.lib.cam.ac.uk/iiif/MS-II-00006-00002-000-00062.jp2/1432,2240,2333,3517/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, dressed in a blue mantle over an orange tunic, is seated and holds the Christ Child on her lap. The Christ Child is reaching out towards the kneeling figure of one of the Magi, who is offering a golden chalice. Another Magus, dressed in green, stands behind the kneeling figure, also holding a golden chalice and gesturing with his free hand. A third figure, possibly another Magus or an attendant, stands to the left, draped in an orange robe over a blue garment. The background is a decorative pattern of gold, blue, and red diamonds, suggesting a rich and possibly divine setting. The figures are rendered with stylized features and flowing drapery, characteristic of medieval manuscript illumination.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_MS021/DEPOT/773796202_MS0021_0059/3748,1315,1241,1578/full/0/default.jpg"
+}

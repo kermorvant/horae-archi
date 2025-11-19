@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A tonsured monk, wearing a brown habit and white undergarment, stands in a green, hilly landscape. He holds an open book in his left hand and a small, dark, frog-like creature in his right. In the background, a body of water is visible, with a city or town featuring towers and buildings on the far bank. The scene is framed by a decorative border.",
+    "scene_interpretation": "This image likely depicts a scene related to monastic life or a specific legend involving a monk and a creature. Without further context or inscription, a precise interpretation is difficult, but it could represent a didactic tale or a symbolic representation of overcoming temptation or a spiritual struggle.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525011578/f401/93,188,292,315/full/0/default.jpg"
+}

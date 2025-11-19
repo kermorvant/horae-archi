@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a woman standing amidst flames, clad in a white skirt. Above her, in a blue celestial sphere, the Virgin Mary is shown with a golden halo, looking down. To the right, a winged demon carries away a struggling figure in a pink garment, while another man in blue and red attire tends to a fire. The overall composition suggests a narrative of martyrdom and divine intervention.",
+    "scene_interpretation": "Martyrdom of Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f363/1718,462,638,726/full/0/default.jpg"
+}

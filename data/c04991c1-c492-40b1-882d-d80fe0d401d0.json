@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an architectural setting. On the left, a tonsured cleric in a monastic habit holds a censer, gesturing towards a central figure. This central figure, a bearded man in elaborate robes, appears to be officiating or receiving something from the cleric. To the right, a young woman in a white garment stands behind a stone structure, possibly an altar or a baptismal font, with another robed figure behind her. The architecture features pointed arches and decorative elements, suggesting a Gothic style. The overall scene likely represents a sacrament or a significant religious event.",
+    "scene_interpretation": "Sacrament",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "column",
+        "capital",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100345449/f37/3356,1194,488,620/full/0/default.jpg"
+}

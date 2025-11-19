@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary cradling the dead body of Christ. Mary, dressed in a dark mantle and white wimple, looks down with sorrow at Christ's emaciated body, which is shown with wounds. The background is a landscape with rolling hills and trees, suggesting an outdoor setting. The composition is somber and emphasizes the pathos of the moment.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_MS0091/DEPOT/330636101_MS0091_0027/3101,572,709,874/full/0/default.jpg"
+}

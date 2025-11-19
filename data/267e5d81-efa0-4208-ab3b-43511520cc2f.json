@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene is divided by a large column. On the left, a bearded man wearing a blue robe adorned with gold patterns and a red and gold crown stands outdoors, looking upwards and touching his crown. He is identified by the inscription 'DAVID' at his feet. Behind him, a landscape with rolling hills, trees, and a distant castle with spires is depicted. To the right of the column, a nun in a black habit and white wimple kneels indoors, reading from an open book. She is holding a rosary. Above her, a banner displays the inscription 'DOMER PLAUD'. The interior features a tiled floor, a wooden structure that appears to be an altar or lectern, and windows with diamond-shaped tracery. The overall scene suggests a juxtaposition of the earthly realm and spiritual devotion.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "castle"
+    ],
+    "architectural_elements": [
+        "column",
+        "window",
+        "tracery_window",
+        "roof",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0383.jp2/4244,2738,1445,1313/full/0/default.jpg"
+}

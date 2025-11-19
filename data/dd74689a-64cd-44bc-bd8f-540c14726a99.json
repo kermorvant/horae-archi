@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bearded king, wearing a crown and regal attire, is depicted from the chest up. He holds a bunch of grapes in his left hand and gestures with his right hand, palms facing outwards in a gesture of blessing or supplication. The figure is framed by architectural elements suggesting a niche or a decorative architectural surround, with a textured background. The scene is likely a devotional image, possibly representing a king in prayer or a symbolic representation of royalty and abundance.",
+    "scene_interpretation": "King in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0070/2912,3973,499,707/full/0/default.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a devotional gathering within an architectural setting that suggests a chapel or oratory. In the foreground, a man kneels in prayer, his hands clasped, wearing a pink robe and a black pouch at his waist. Beside him, a woman in a pink gown and a blue headdress also prays with clasped hands. To the right, another woman in an orange robe stands, her hands raised. Behind them, a group of men and boys, some kneeling and some standing, look towards the central focus of the scene. The background features an altar draped with a blue cloth adorned with a golden pattern, upon which rests a golden monstrance containing a sacred relic. The architectural space is characterized by a vaulted blue ceiling with golden ribs, large windows with tracery, and pink walls. The overall atmosphere is one of reverence and adoration.",
+    "scene_interpretation": "Adoration of the Blessed Sacrament",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "tracery_window",
+        "roof",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550058850/f106/534,286,686,1162/full/0/default.jpg"
+}

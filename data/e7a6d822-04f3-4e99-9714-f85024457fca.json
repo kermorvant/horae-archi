@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with rolling hills, scattered sheep, and sparse trees. In the foreground, a shepherd in a red tunic and blue trousers sits on the ground, looking upwards with an expression of awe or surprise. To his left, another shepherd stands, playing a bagpipe and looking towards the sky. Above them, an angel with outstretched wings and a golden halo descends from a bright, cloud-filled sky, gesturing with one hand. The overall impression is one of a divine revelation or visitation occurring in a rural setting.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bpun/bpun-A0028/bpun-A0028_059v.jp2/1856,830,2160,3314/full/0/default.jpg"
+}

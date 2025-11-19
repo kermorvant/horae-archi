@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The central panel depicts Saint Christopher carrying the Christ Child on his shoulders, wading through water with a large staff. The Christ Child holds a globe. Above Saint Christopher, a dove representing the Holy Spirit descends towards a figure in a red and gold robe, likely God the Father. Surrounding the central panel are smaller vignettes. The top left shows a man in a pink tunic and green hose playing a pipe, standing next to a cross on a pedestal, with a horse and rider in the background. The middle left shows a kneeling figure in a red robe praying, with a child figure reaching towards a plant. The bottom left depicts a bearded man in a red robe standing before a group of soldiers and a king seated on a throne. The top right shows a naked, bound figure, likely a martyr, being attended by figures in regal attire, with a scene of torture in the background. The middle right shows a young boy in a red shirt and white shorts standing before a group of soldiers, with a beheaded figure on the ground and a king kneeling. The bottom right shows a group of figures in a courtyard with a walled building, one figure in a blue and gold robe holding a staff, and another figure working with a stone block. The overall composition is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "The central image is a depiction of Saint Christopher, a popular saint invoked for protection during travel. The surrounding scenes likely illustrate various episodes from the lives of saints or biblical events, possibly related to martyrdom and faith. The presence of the Christ Child with Saint Christopher is a common motif, symbolizing Christ's divine presence and guidance.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "portal",
+        "stairs"
+    ],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105326055/f368/1198,360,1479,1904/full/0/default.jpg"
+}

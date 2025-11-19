@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men in prayer before a sacrificial ram, which stands on a white, checkered surface. The background is a deep blue sky adorned with numerous golden stars. The men are dressed in richly colored robes, predominantly blue and red, with gold trim. Some are standing, while others are kneeling. The ram has horns and appears to be the focus of their devotion. To the left, a figure in a pink robe stands with hands clasped. The architectural elements are minimal, suggesting an altar or raised platform, with a patterned floor in the foreground.",
+    "scene_interpretation": "Sacrifice of the Lamb",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f65/1980,1414,791,1475/full/0/default.jpg"
+}

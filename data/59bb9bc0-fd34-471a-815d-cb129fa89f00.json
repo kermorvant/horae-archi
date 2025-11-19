@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, his body pale and draped in a white loincloth. A wound is visible on his side, and blood drips from his feet. To the right of Christ, the Christ Child, also with a halo, reaches out towards him. The background is a richly patterned mosaic of gold, blue, and red squares, suggesting a divine or heavenly setting. The base of the cross rests on a rocky outcrop, with sparse green foliage at the bottom of the image.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f159/1896,885,780,1576/full/0/default.jpg"
+}

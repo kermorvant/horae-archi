@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a group of four figures, three of whom are clearly identifiable as women wearing crowns and halos, suggesting they are saints or important religious figures. The woman on the far left wears a crown with fleur-de-lis motifs and a feather, a cape fastened with a circular brooch, and a belted tunic. Next to her, a man with a stern expression and a receding hairline is partially visible. To their right, another crowned woman with a halo and a similar headdress is depicted, followed by a fourth crowned woman with a halo, also wearing a headdress and a garment fastened with a brooch. The figures are rendered in a woodcut style, with bold outlines and minimal shading, suggesting a devotional context. The lack of specific architectural elements or a detailed setting implies a focus on the figures themselves and their symbolic representation.",
+    "scene_interpretation": "Saints",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00145/648,2663,780,732/full/0/default.jpg"
+}

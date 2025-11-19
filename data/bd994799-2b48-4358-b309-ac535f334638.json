@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, seated on a green grassy area with scattered flowers. To the left, an angel in a red robe plays a harp-like instrument. To the right, another angel in a blue robe plays a viol. Behind them, a patterned tapestry hangs, with architectural elements suggesting a backdrop. The overall impression is one of a serene, devotional gathering, possibly a heavenly court or a symbolic representation of divine harmony.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fx476tb0662%2FW186_000560_1200/4180,1699,2019,2687/full/0/default.jpg"
+}

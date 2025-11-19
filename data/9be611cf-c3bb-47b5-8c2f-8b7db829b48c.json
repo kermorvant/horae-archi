@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with the Virgin Mary riding a donkey and holding the Christ Child. Saint Joseph walks beside them, carrying a staff. In the background, a walled city with numerous domed buildings and towers is visible on a hill. The figures are rendered in a stylized manner, with the Virgin and Child illuminated by golden halos. The landscape is rocky and sparsely populated with trees.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "dome",
+        "tower",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550092764/f192/675,331,1058,1849/full/0/default.jpg"
+}

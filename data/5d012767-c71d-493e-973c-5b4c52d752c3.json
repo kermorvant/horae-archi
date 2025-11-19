@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed man, identified as Saint Mark by the presence of his attribute, the lion, is depicted writing in a manuscript. He is seated at a wooden desk, holding a quill pen and a feather, with an inkwell and a book of texts nearby. The lion, also seated, appears to be assisting or observing the writing process. The scene is set within an interior space with stone walls and a window revealing a landscape outside. The architectural elements suggest a study or scriptorium.",
+    "scene_interpretation": "Saint Mark Writing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Saint Mark",
+        "Lion"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3781/Vat.lat.3781_0027.jp2/682,275,667,1112/full/0/default.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. Christ's body, marked with wounds and wearing a crown of thorns, is held by the Virgin Mary. Another woman, likely Mary Magdalene, supports his head. A fourth figure, possibly another mourner, stands to the right. The figures are rendered with somber expressions, conveying grief. The background is a simple, stylized landscape with a blue sky. The overall composition is intimate and emotionally charged, focusing on the sorrow of the mourners and the suffering of Christ.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yk435gb3262%2FW178_000406_1200/3423,2793,1320,1421/full/0/default.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A haloed female figure, likely a saint, is depicted seated in a red robe adorned with gold trim. She holds an open book in her left hand and a palm frond, a symbol of martyrdom, in her right. The background is a stylized landscape with rolling hills, sparse trees, and distant, silhouetted buildings under a blue sky. The scene is framed by decorative architectural elements on the left and right, suggesting an illuminated manuscript page. The figure's posture and the presence of the palm frond indicate a devotional context, possibly representing a saint in contemplation or prayer.",
+    "scene_interpretation": "Saint in contemplation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:47:6:wdl_19476:Varia_76_007/554,1664,714,520/full/0/default.jpg"
+}

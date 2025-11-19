@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts a funerary rite within an architectural setting. In the foreground, a sarcophagus, draped in a blue cloth adorned with golden fleur-de-lis and a white cross, stands centrally. Two figures in black monastic habits stand to the right, their faces conveying sorrow. To the left, two clerics in blue and gold robes are engaged in reading from an open book. The background reveals a curved wall with arched windows containing tracery, and a vaulted ceiling decorated with blue and gold stars. Several candelabra with lit candles surround the sarcophagus, illuminating the solemn occasion. The floor is tiled in green squares.",
+    "scene_interpretation": "Funeral Vigil",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "vault",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Cleric",
+        "Monk"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_074/DEPOT/M490075203_MS2003_1_074_0123/4181,1174,1090,1682/full/0/default.jpg"
+}

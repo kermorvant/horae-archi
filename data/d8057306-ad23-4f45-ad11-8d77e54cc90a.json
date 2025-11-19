@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within an ornate, illuminated initial 'O'. The Virgin Mary, seated and wearing a blue robe and white veil, cradles the Christ Child, who is dressed in green. Three Magi, identified by their crowns and regal attire, approach them. The first Magus, kneeling and with a long white beard, offers a golden chalice. The second, bearded and wearing blue, also holds a chalice. The third, younger and dressed in green, stands behind them, holding his own chalice. Above, a star shines in a blue sky, and a building with a pointed roof and arched entrance is visible in the background. The entire scene is framed by a decorative border of gold and purple.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_120%2Flewis_e_120_jp2.zip%2Flewis_e_120_jp2%2Flewis_e_120_0045.jp2/2978,3508,1202,1309/full/0/default.jpg"
+}

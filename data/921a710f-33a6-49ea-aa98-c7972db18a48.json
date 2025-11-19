@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a celestial hierarchy with God enthroned at the apex, surrounded by a radiant halo and attended by cherubic figures. Below Him, a host of angels, some with swords, stand in formation. Further down, a multitude of winged figures, identified as angels, descend from the heavens, some appearing to be in distress or falling, amidst swirling golden flames and smoke. On the left and right sides, rows of figures, possibly saints or the blessed, are depicted within architectural niches, seated and looking upwards. The overall composition suggests a divine judgment or a cosmic event.",
+    "scene_interpretation": "Apocalypse",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "niche",
+        "microarchitecture"
+    ],
+    "persons": [
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0069/1142,329,2241,3351/full/0/default.jpg"
+}

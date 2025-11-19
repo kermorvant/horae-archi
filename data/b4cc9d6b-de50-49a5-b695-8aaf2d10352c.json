@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A group of figures, some with beards and wearing blue and pink robes, look upwards with hands clasped in prayer or supplication towards a large, bearded figure in a blue robe. This figure, with a golden halo, is reaching down to assist a smaller, nude figure who is being lowered onto a wooden cross. The scene is set against a backdrop of a patterned mosaic-like wall and a starry blue sky. In the foreground, an open book with illegible text lies on the ground, partially covered by the cross.",
+    "scene_interpretation": "The Raising of the Cross",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f379/1855,1382,852,1516/full/0/default.jpg"
+}

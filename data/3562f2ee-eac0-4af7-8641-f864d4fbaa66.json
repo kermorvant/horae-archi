@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a procession of figures within an architectural setting. On the left, a hooded figure, possibly a monk or nun, is shown in profile, with hands clasped. To their right, three men are grouped together. The central figure wears a helmet and holds a staff. The figure to his right has a beard and also holds a staff, with floral motifs visible behind them. On the far right, a crowned figure is depicted, holding what appears to be a swaddled infant. The figures are framed by architectural elements suggesting arches and decorative borders, with a dotted pattern filling the background spaces. The overall impression is one of a religious or royal procession, possibly depicting a biblical narrative or a scene of veneration.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Magi",
+        "Magi",
+        "Magi",
+        "Magi"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0038/1365,3356,1433,609/full/0/default.jpg"
+}

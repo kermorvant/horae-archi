@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in the foreground, one reclining and the other standing and gesturing. The reclining figure appears to be ill or distressed, with their head resting on a pillow and their eyes closed. The standing figure, dressed in a hooded garment, has their hands clasped in prayer or supplication and is looking towards the reclining figure. Behind them, a cityscape is rendered with stylized buildings, including towers and arched windows, suggesting an urban setting. The overall composition is framed by architectural elements, possibly representing a niche or a decorative border.",
+    "scene_interpretation": "Visitation of the Sick",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tower",
+        "wall",
+        "roof",
+        "gable",
+        "microarchitecture"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0036/652,3370,752,1316/full/0/default.jpg"
+}

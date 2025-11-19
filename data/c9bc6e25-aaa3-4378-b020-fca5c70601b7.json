@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a calendar page on the left, featuring decorative initials and text. Below the calendar, a man in red trousers and a blue tunic, wearing a red cap, herds cattle and wild boars. He holds a stick, seemingly guiding the animals. In the background, a town with towers and walls is visible on a hill. To the right, a building with an arched opening reveals a butcher's stall with a hanging carcass, suggesting the month of November and its associated activities. The sky above is a pale blue with a stylized sun.",
+    "scene_interpretation": "November",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Cappon.218/Cappon.218_0035_fr_0015r.jp2/173,185,862,1303/full/0/default.jpg"
+}

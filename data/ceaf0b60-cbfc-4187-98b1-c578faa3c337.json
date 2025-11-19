@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. On the left, a woman with long hair stands beside a decorative architectural element. In the center, a table is set with a large, conical object, possibly a loaf of bread or a cake, and a palm frond. Two women are seated at the table, one holding a book and gesturing towards the object. Another woman stands behind them. To the right, a man with a beard is shown in profile, looking towards the central group. The scene is framed by architectural elements suggesting an interior space, possibly a hall or a room within a building, with decorative arches and columns.",
+    "scene_interpretation": "The presence of a palm frond and the context of a gathering around a table with food suggests a scene related to a religious feast or commemoration, possibly the Feast of Palms or a related event in the Christian calendar. The woman holding a book could be a reader or a participant in a devotional act.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Woman",
+        "Woman",
+        "Woman",
+        "Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0035/1306,3322,1565,603/full/0/default.jpg"
+}

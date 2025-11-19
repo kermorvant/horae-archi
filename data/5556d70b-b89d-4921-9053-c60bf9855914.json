@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded man, likely Saint Joseph, holds the Christ Child in his arms. Saint Joseph wears a green robe draped with a pink sash and holds a staff. The Christ Child, dressed in a blue tunic, reaches out with one hand and holds a golden orb in the other. Behind them, a landscape with rolling hills is visible, and a haloed figure, possibly the Virgin Mary, is depicted in the background. The scene is framed by a golden border and a decorative column on the left.",
+    "scene_interpretation": "The Holy Family",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column"
+    ],
+    "persons": [
+        "Saint Joseph",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yk435gb3262%2FW178_000441_1200/296,3438,1417,1417/full/0/default.jpg"
+}

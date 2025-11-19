@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts a religious ceremony within an arched architectural setting. A kneeling figure, likely the Virgin Mary, presents a swaddled infant, the Christ Child, to a robed figure wearing a mitre and holding an open book. This figure, presumably a priest or bishop, gestures with one hand. Behind the kneeling figure stand two individuals, one holding a staff and the other a basket. Another man stands behind the priest. The architecture features a vaulted ceiling with a hanging lamp, columns, and patterned walls. The floor is tiled in a checkerboard pattern. This scene is interpreted as the Presentation of Christ in the Temple, a significant event in Christian liturgy and devotion.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "column",
+        "window",
+        "wall",
+        "door",
+        "roof",
+        "stairs",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3072/DEPOT/B441096101_MS3072_0081/3670,507,1142,1895/full/0/default.jpg"
+}

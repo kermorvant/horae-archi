@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a long white beard and halo, seated on the ground with his hands clasped in prayer. He is partially undressed, wearing only a white loincloth. Behind him, a detailed architectural structure with ornate carvings and a pointed arch is visible. To the right, three figures in elaborate white robes and distinctive hats stand and observe. The figure in the foreground on the right gestures towards the seated man. The background is a dark, textured pattern, possibly representing foliage or a rocky landscape. The architectural element features a frieze with a relief scene of figures, possibly depicting a biblical narrative.",
+    "scene_interpretation": "Job",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Job"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f118/272,378,1974,2955/full/0/default.jpg"
+}

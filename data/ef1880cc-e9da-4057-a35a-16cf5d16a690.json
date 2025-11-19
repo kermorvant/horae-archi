@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in a pastoral setting, surrounded by sheep and what appear to be dogs. One figure, seated and looking upwards, holds a staff and a bucket. The other figure, standing, points upwards with their index finger. Above them, an angel with outstretched wings descends, holding a scroll with Latin text. The overall composition is framed by decorative foliage and an arched border, suggesting a manuscript illumination. The presence of sheep and the angelic visitation strongly suggest a biblical scene, likely the Annunciation to the Shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Douai/Bibliotheque_municipale/591786101_MS0188/DEPOT/591786101_MS0188_0117/1282,732,1029,1852/full/0/default.jpg"
+}

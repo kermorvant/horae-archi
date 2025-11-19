@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A woman, richly dressed and wearing a headdress, is seated at a round table covered with a white tablecloth. She is holding a piece of bread to her mouth. A young boy in a white tunic stands beside her, holding a platter of bread. To the left, another young person, also in white, stands behind the seated woman. In the background, a small vignette depicts a nude figure pouring liquid from a jug into a vessel, set against a cloudy, ethereal sky. The interior setting features a dark, patterned wall and a large, ornate golden base supporting the table.",
+    "scene_interpretation": "The scene likely depicts a meal or a moment of sustenance. The vignette in the background, showing a figure pouring liquid, could allude to the sacrament of the Eucharist or a more general theme of nourishment and divine provision.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Woman",
+        "Boy"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1059728/2401,389,1003,926/full/0/default.jpg"
+}

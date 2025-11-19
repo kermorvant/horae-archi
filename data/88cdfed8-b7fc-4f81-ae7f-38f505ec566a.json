@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a man with a beard, wearing a reddish-brown robe adorned with gold patterns, seated on a wooden structure that appears to be a bench or a bed. He is looking upwards and to the left, with his left arm extended. Behind him, another figure, possibly an angel, is leaning in and touching his head or shoulder. This figure wears a blue robe and has green wings visible. The background is a textured blue sky with some greyish elements. The overall impression is one of divine intervention or inspiration.",
+    "scene_interpretation": "The scene is likely an illustration of the Annunciation, where the Angel Gabriel appears to the Virgin Mary. However, the figure depicted as receiving the message is male, which could suggest a different biblical event, such as the calling of a prophet or a vision. Given the presence of what appears to be an angel and the upward gaze of the central figure, it is plausible that this represents a divine revelation or a moment of spiritual insight. Without further context, a definitive interpretation is challenging, but the elements strongly suggest a religious or devotional theme.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_004/DEPOT/762595409_A_10_004_0018/1535,896,632,1083/full/0/default.jpg"
+}

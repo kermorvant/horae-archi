@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit, also known as Pentecost. In the center, the Virgin Mary, with a golden halo, is kneeling and looking upwards, her hands open. Around her, several figures, also with golden halos, are gathered. Some are kneeling in prayer, while others stand. They are dressed in colorful robes of red, green, and yellow. Above them, a figure representing God the Father, with a halo and a beard, is depicted in a celestial setting with golden clouds, from whom golden rays descend, symbolizing the Holy Spirit. The background suggests an interior space with architectural elements like windows and walls, but the focus is on the divine event and the figures.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fx384wm8694/W179_000052_1200/3583,1929,1574,2552/full/0/default.jpg"
+}

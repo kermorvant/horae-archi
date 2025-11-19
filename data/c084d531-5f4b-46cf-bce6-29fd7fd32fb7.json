@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "In an outdoor setting, three figures are engaged in various activities. In the foreground, a woman kneels, tending to a circular object on the ground, possibly a brazier, with a stick. To her right, a man kneels on a large, scaly creature, appearing to be skinning or preparing it with a long, thin tool. Behind them, another figure stands, holding a stick and gesturing towards the sky where a goat-like creature is depicted within clouds. In the background, several buildings with pitched roofs and windows are visible, suggesting a settlement. The scene likely depicts a pastoral or agricultural activity, possibly related to the zodiac sign Capricorn, given the celestial goat.",
+    "scene_interpretation": "Capricorn",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1059739/2378,358,977,928/full/0/default.jpg"
+}

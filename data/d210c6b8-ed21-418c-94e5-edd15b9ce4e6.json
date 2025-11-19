@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, likely a saint, stands in a landscape. He wears a black hooded robe with gold trim over a patterned blue tunic and red shoes. A blue halo encircles his head, and he holds a hammer in his right hand and a staff in his left. Beside him, a small brown animal, possibly a dog or a fox, looks towards him. Behind the figure, a red curtain with gold ornamentation is visible, suggesting an indoor setting or a symbolic representation. To the right, a simplified rural landscape unfolds with rolling green hills, a path, and a small, rustic building with a pitched roof. The overall scene is rendered in a stylized, medieval manner.",
+    "scene_interpretation": "Saint Eligius",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Eligius"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537191/46160491.tif/690,637,1098,1464/full/0/default.jpg"
+}

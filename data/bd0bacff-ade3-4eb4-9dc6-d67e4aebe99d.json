@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "An elderly, bearded figure, identified as God, stands on a green, grassy landscape dotted with small flowers. He is depicted with a golden halo and rays of light emanating from above, suggesting divine presence. He wears a pink robe over a golden tunic and points with his right hand towards a swirling, cloud-like orb. A scroll unfurls from beneath his left arm, bearing Latin inscriptions: \"et terra\" (and earth) and \"fiat lux\" (let there be light). The background is a deep blue, adorned with golden stars, representing the cosmos.",
+    "scene_interpretation": "The Creation of Light and Earth",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "God"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f14/371,1038,1002,1633/full/0/default.jpg"
+}

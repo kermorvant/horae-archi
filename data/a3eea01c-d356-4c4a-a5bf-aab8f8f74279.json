@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body emaciated and marked by wounds. Below the cross, to the left, stands the Virgin Mary, clad in a blue mantle and white veil, her hands clasped in sorrow. Beside her, a kneeling figure in a pink robe, possibly a donor or a saint, also clasps their hands in prayer. To the right of the cross, a figure in a red robe with a golden undertunic looks up towards Christ with an expression of anguish or devotion. The setting is an outdoor landscape with rolling hills, sparse trees, and a distant city with prominent towers and spires under a dramatic orange and purple sky. A shield with omega symbols is placed at the base of the cross.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vn362wg6218%252FW437_000118_300/557,249,823,1197/full/0/default.jpg"
+}

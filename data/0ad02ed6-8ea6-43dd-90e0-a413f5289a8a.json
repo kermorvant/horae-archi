@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, dressed in a blue robe, meeting Elizabeth, who is kneeling and wearing a golden gown and a white veil. They are holding hands, suggesting a moment of embrace and recognition. Behind them, a rocky landscape transitions to a settlement with several buildings, including a prominent tower and a larger structure with a red roof and multiple windows. The sky is a vibrant blue, and the overall setting appears to be outdoors, possibly on a hillside overlooking a town or castle.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0063/DEPOT/M601415401_MS0063_0038/1437,497,1795,2378/full/0/default.jpg"
+}

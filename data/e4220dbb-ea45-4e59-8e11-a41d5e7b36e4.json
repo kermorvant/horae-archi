@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, identified by her halo and blue mantle, meeting Saint Elizabeth, who is older and wears a white wimple and veil. They are shown reaching out to embrace each other. Behind them, a stone building with pilasters and a crenellated top is visible, suggesting an architectural setting. The background is a deep blue sky with distant hills. The entire scene is framed by an ornate, gilded architectural arch with foliate motifs.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "pillar",
+        "battlement"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0135/DEPOT/315556101_MS0135_0035/3833,676,2199,2875/full/0/default.jpg"
+}

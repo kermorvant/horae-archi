@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, dressed in a blue robe, holds the Christ Child on her lap. Three Magi are present: one kneels before them, offering a gift; another stands, pointing towards the child and holding a chalice; and the third stands to the side, also holding a chalice. Behind them, a simple, grey building with a pitched roof and a single window is visible, suggesting a humble dwelling. The background features rolling green hills and trees under a blue sky. The figures are richly dressed, with the Magi wearing crowns and elaborate garments, indicating their royal status.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "window",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021262r/f120/540,133,988,1315/full/0/default.jpg"
+}

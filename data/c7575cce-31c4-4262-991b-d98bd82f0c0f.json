@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "Two angels, with large, feathered wings in red, blue, and white, are shown leaning over a large open book. They are dressed in white robes. Below them, two figures kneel. One figure, dressed in a blue robe adorned with gold patterns, kneels on the left. The other figure, on the right, wears a vibrant red robe with similar gold embellishments. The background is a decorative tapestry-like pattern of squares and circles in blue, red, and gold. The ground beneath the figures is depicted as green grass.",
+    "scene_interpretation": "The scene likely depicts a moment of divine revelation or instruction, possibly related to the transmission of sacred knowledge or scripture. The angels presenting a book to kneeling figures suggests a theme of teaching, prophecy, or the presentation of divine will.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Angel",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55005889s/f140/748,1885,831,660/full/0/default.jpg"
+}

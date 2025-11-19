@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The image depicts Christ, identifiable by his halo and beard, dressed in a blue tunic and a red mantle. He holds a globe surmounted by a cross in his left hand, symbolizing his dominion over the world. His right hand is raised, possibly in blessing or teaching. The background features a stylized architectural element resembling a latticed window or screen, rendered in dark blue and black lines, suggesting an indoor setting. The overall impression is one of divine authority and cosmic rule.",
+    "scene_interpretation": "Christ Pantocrator",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502553b/f227/215,568,585,677/full/0/default.jpg"
+}

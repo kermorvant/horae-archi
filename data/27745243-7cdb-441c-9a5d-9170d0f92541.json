@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bishop, identified by his mitre and crozier, stands to the right, gesturing with his left hand towards a group of three young boys submerged in a wooden tub. The boys, depicted with halos, appear to be praying or in a state of supplication. Behind them, a pink textile, possibly a curtain or tapestry, is adorned with golden sunburst motifs. The scene is framed by a decorative border, and architectural elements suggesting an interior setting are visible at the top, including a patterned frieze and what appears to be a window with blue and grey panes.",
+    "scene_interpretation": "Miracle of Saint Nicholas",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Saint Nicholas"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/68534352/68570540.tif/1170,1468,1045,996/full/0/default.jpg"
+}

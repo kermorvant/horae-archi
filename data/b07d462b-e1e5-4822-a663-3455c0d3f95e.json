@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, his body pierced by a lance. A scroll above him reads 'Iesus Nazarenus Rex Iudaeorum'. Below, a group of mourners are gathered. The Virgin Mary, draped in a blue mantle, is shown swooning and supported by another woman. Other figures, including men in various attire and a woman in pink, express grief. To the right, a soldier in red and blue attire points upwards, while another soldier in green stands with a shield. The background is a starry blue sky, suggesting a dramatic or celestial setting.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515743q/f361/441,513,1031,1189/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Michael the Archangel in full armor, standing triumphantly over two defeated dragons. He is clad in a golden cuirass adorned with a lion's head motif, a blue cloak with gold stars, and golden greaves. In his right hand, he holds a golden horn to his lips, and in his left, a shield emblazoned with a blue field and gold stars. His wings are spread, and his gaze is directed downwards. The background features a stylized landscape with rolling blue hills, scattered trees, and small, simplified buildings, suggesting a rural or mountainous setting. The entire scene is framed by an illuminated arch with decorative elements.",
+    "scene_interpretation": "The Triumph of Saint Michael",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8596871g/f180/707,198,830,1294/full/0/default.jpg"
+}

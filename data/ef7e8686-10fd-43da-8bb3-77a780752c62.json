@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint James the Greater by the scallop shell on his blue hat and the pilgrim's staff to his left, is depicted holding an open book in his hands. He wears a blue cloak over an orange tunic. The background is a lush, green landscape with rolling hills, trees, and in the distance, a walled city with towers and spires. The scene is rendered in a stylized, illustrative manner typical of medieval manuscript illumination.",
+    "scene_interpretation": "Saint James the Greater",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Saint James the Greater"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0147/bge-lat0147_0160r.jp2/691,883,3393,4300/full/0/default.jpg"
+}

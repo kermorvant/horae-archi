@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure, likely Christ, seated and wearing a crown of thorns. Two figures stand on either side, one on the left and one on the right, actively placing or adjusting the crown on the central figure's head. The figure on the left wears a blue tunic and a red cap, while the figure on the right wears an orange tunic and a yellow cap. The central figure is robed in blue with gold accents and appears to be in a state of suffering. The background is a textured, brick-like pattern, suggesting an interior setting. This scene represents the Crowning with Thorns, a pivotal moment in the Passion of Christ.",
+    "scene_interpretation": "Crowning with Thorns",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Rennes/Bibliotheque_municipale/352386106_MS1219/DEPOT/352386106_MS1219_0009/1196,710,621,846/full/0/default.jpg"
+}

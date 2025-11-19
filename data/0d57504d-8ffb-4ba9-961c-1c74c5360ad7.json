@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint or religious figure, stands in the foreground, wearing a black mantle over a white habit and holding a black bag. The figure raises two fingers in a gesture of blessing or teaching. Above and to the left, within an oval frame, a smaller haloed figure, possibly Christ, is depicted seated on a throne, with arms outstretched, wearing a red garment and holding a golden orb. The background features a patterned tapestry in red and gold, and a blue sky with golden clouds. The ground is a green and white checkered pattern.",
+    "scene_interpretation": "Vision of Saint Dominic",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Dominic",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501939c/f328/857,229,932,1357/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, with a halo, cradles the Christ Child, who is also haloed and naked. They are positioned within a simple wooden stable. The first Magus, an elderly man with a long white beard, kneels and offers a golden chalice filled with coins. Behind him, another Magus, wearing a crown, looks on, holding a golden orb. A third Magus is partially visible behind them. In the background, a procession of figures with spears and crowns approaches, with a walled city and castle visible on the horizon under a blue sky with a yellow sunset. Golden rays emanate from the upper left, suggesting divine light.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "door"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.3781/Vat.lat.3781_0057.jp2/1630,354,730,1124/full/0/default.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "A funeral procession is depicted outdoors, with a group of clerics in black hooded robes and several priests in white albs and ornate vestments. Some priests hold crosses and read from a book. In the foreground, two figures, likely gravediggers, are preparing a burial, one holding a shroud and the other tending to a body wrapped in white. A skull and bones are visible in the grassy ground, suggesting a cemetery. Behind the procession, a church building with a tiled roof and arched windows is visible, with a statue of a saint on its facade. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Funeral Mass",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Cleric",
+        "Priest",
+        "Gravedigger"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS0034/DEPOT/M441095203_MS0034_0091/3484,549,1540,2208/full/0/default.jpg"
+}

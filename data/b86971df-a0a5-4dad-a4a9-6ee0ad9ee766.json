@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A sorrowful Virgin Mary, with a blue halo and wings, gently touches the arm of Christ, who is depicted with a crown of thorns and wounds from his Passion. Christ is partially draped in a white loincloth, and blood stains are visible on his body. The background is dark and indistinct, suggesting an interior or a somber setting. The scene evokes the Pieta, a devotional image of the Virgin Mary mourning over the body of Christ.",
+    "scene_interpretation": "Pieta",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0092/1667,863,815,1141/full/0/default.jpg"
+}

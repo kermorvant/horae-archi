@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a man in a pink robe and crown, with a long beard, kneeling outdoors with his hands clasped in prayer. He is looking upwards towards a figure of Christ, who is depicted in the sky, gesturing with his right hand. To the left, a tall, imposing stone tower with crenellations and arched windows is visible. Through a barred window in the tower, several figures in red robes can be seen. The background features a lush green forest and distant blue mountains with a castle on a hilltop. The overall scene suggests a moment of divine intervention or supplication.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "battlement",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0057/2422,968,706,1468/full/0/default.jpg"
+}

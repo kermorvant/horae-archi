@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "Three men are depicted in an outdoor setting, engaged in the activity of sawing a piece of wood. The central figure, with a beard and wearing a hat, holds one end of the saw, while the man to his left, also wearing a cap, holds the other end. The man on the right, wearing a hood, appears to be assisting or observing. Behind them, a stylized tree with dense foliage is visible, and in the background, simplified architectural structures with arched openings and gabled roofs are suggested. The scene is rendered in a woodcut style with strong outlines and hatching for shading.",
+    "scene_interpretation": "This scene likely depicts a secular activity, possibly representing a craft or labor, rather than a specific biblical or religious event. Without further context or iconographic clues, a precise religious interpretation is not possible.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "gable",
+        "roof",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0064/5989,3488,714,1191/full/0/default.jpg"
+}

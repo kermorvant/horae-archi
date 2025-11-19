@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts the martyrdom of Saint Stephen. A haloed figure, presumably Saint Stephen, kneels on the ground, looking upwards. Two figures are shown in the act of stoning him. One figure on the left raises a stone above his head, while another on the right, wearing a cap, also prepares to throw a stone. A sword is visible stuck in the ground behind the latter figure. Rays of light emanate from a dark, arched area above, suggesting divine intervention or heavenly light. The setting is outdoors, with grass and some foliage visible on the ground. The scene is framed by an ornamental border at the top.",
+    "scene_interpretation": "Martyrdom of Saint Stephen",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Stephen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f260/944,312,873,1316/full/0/default.jpg"
+}

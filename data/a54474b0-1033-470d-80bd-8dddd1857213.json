@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man seated on the ground, with his arms crossed and a pensive expression. He is dressed in a blue robe over white undergarments, and his feet are bare. To his left, a group of musicians plays instruments: one plays a lute, and another plays a flute. They are elaborately dressed in colorful medieval attire, including feathered hats. Behind them, a walled city with towers and buildings is visible, suggesting an urban setting. The entire scene is framed by an ornate, gilded architectural archway, possibly representing a portal or a decorative border.",
+    "scene_interpretation": "This scene likely represents David in Prayer, a common theme in Books of Hours, often associated with Psalm 51 (Miserere mei, Deus). David, often depicted in penitence or contemplation, is shown here in a state of humility and supplication, possibly after his sin with Bathsheba. The musicians could symbolize the worldly distractions or the courtly life from which David is seeking solace, or perhaps they are part of the narrative context of his life.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000003/MAA_00003_113.jpg/2138,332,887,1140/full/0/default.jpg"
+}

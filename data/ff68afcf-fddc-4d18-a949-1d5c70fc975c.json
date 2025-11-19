@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, depicted as a saint, stands holding a staff in his right hand and a blue, jeweled book in his left. He wears a golden miter with decorative elements and a rich, red cloak over a golden tunic. The background is a stylized landscape with rolling hills, scattered trees, and small buildings, suggesting an outdoor setting. The saint is illuminated with a golden halo, indicating his holy status.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A7F0C4994-C579-11E7-8646-155E6EE4309A%3ADS.263/1102,1977,717,595/full/0/default.jpg"
+}

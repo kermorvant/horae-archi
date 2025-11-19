@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A man with a beard and a hooded garment is depicted within an architectural setting. He is shown with his hands clasped together, holding something small. The architecture features a pointed arch above his head, decorated with what appear to be stylized birds or finials, and vertical elements that suggest a niche or a decorative architectural frame. The overall impression is of a devotional scene, possibly depicting a saint or a figure in prayer.",
+    "scene_interpretation": "Devotional Scene",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "pointed_arch",
+        "niche",
+        "undefined_element"
+    ],
+    "persons": [
+        "Man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0044/3044,3753,326,614/full/0/default.jpg"
+}

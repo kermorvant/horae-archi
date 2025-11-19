@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts two young women seated outdoors near a decorative fountain. The woman on the left wears a yellow robe and a blue cap, and is looking down at a book in her lap. The woman on the right wears a blue dress and a white veil, and appears to be looking towards the fountain. In the background, a walled city with towers and a large arched building is visible, with a figure in royal attire leaning out of a window. The overall setting suggests a peaceful, perhaps contemplative, moment in a garden or courtyard.",
+    "scene_interpretation": "The scene likely represents a moment of leisure or study, possibly within a devotional context, given the presence of a book and the contemplative postures of the figures. The background architecture and the figure in the window might allude to a narrative or allegorical meaning, but without further context, a specific biblical or devotional event cannot be definitively identified. It could represent a scene from a romance, a contemplation of worldly affairs versus spiritual study, or a general depiction of virtuous women.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "tower",
+        "window",
+        "roof",
+        "gable",
+        "portal"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/vc281hf3102%2FW427_000270_1200/3850,2523,1569,2497/full/0/default.jpg"
+}

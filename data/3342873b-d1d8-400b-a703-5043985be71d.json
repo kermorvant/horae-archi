@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered under a dark, beamed canopy, suggesting an interior or sheltered outdoor space. On the left, a haloed woman, likely the Virgin Mary, holds a swaddled infant, the Christ Child, who is reaching out. To their right, a kneeling figure, possibly a donor or saint, holds a chalice. Behind them, two figures stand, one with a crown and a raised finger, possibly a king or prophet, and another woman holding a chalice. The background is indistinct, with hints of architectural elements or a stylized landscape. The overall composition suggests a devotional scene, possibly related to the Nativity or a saint's life, with an emphasis on veneration and the presentation of offerings.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_MS0094/DEPOT/330636101_MS0094_0059/1212,666,1169,1811/full/0/default.jpg"
+}

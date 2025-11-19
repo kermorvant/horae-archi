@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Presentation of Christ in the Temple. The Virgin Mary, holding the Christ Child, stands before an elderly man, likely Simeon, who is dressed in ornate robes. To the left, a young woman and an older man stand behind Mary. The background suggests an interior architectural setting with columns, arches, and a glimpse of a church facade with a window. An altar is visible in the background, further reinforcing the religious context.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "altar"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010116g/f126/189,174,1936,2870/full/0/default.jpg"
+}

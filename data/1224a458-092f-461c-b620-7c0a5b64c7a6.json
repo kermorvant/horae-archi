@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A man kneels in prayer on a grassy hill, with flames erupting around him and a divine figure in a golden halo above. In the background, a landscape with rolling hills and trees unfolds. To the right, a crowd of people, some wearing crowns and elaborate robes, stand before several conical tents adorned with gold. The scene depicts a moment of divine intervention or judgment, possibly related to a biblical narrative where a figure is tested or judged by God, with onlookers observing.",
+    "scene_interpretation": "Job Tested by God",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "tent"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Job"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f254/1352,4198,3124,1437/full/0/default.jpg"
+}

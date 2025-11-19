@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, bound to a green column, being scourged by two figures. Christ, with a halo, is partially draped in a white loincloth. One tormentor, on the left, wears a blue tunic and orange leggings, and is blindfolded with a white cloth. He holds a bundle of reeds or branches, ready to strike. The other tormentor, on the right, wears an orange tunic and blue leggings, and appears to be striking Christ with a whip or similar implement. The background is a rich red with gold scrolling ornamentation, framed by an arched border. The floor is a green and white checkered pattern.",
+    "scene_interpretation": "Flagellation of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00095049_00330/437,30,503,716/full/0/default.jpg"
+}

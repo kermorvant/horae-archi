@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo, interacting with a man afflicted with a skin disease, possibly leprosy, who is emerging from a tomb-like structure. Christ, dressed in a purple robe, gestures towards the afflicted man. To Christ's left, three other figures stand, one of whom is kneeling and praying, dressed in green and red robes. In the background, a city with towers and spires is visible, suggesting an urban setting. The architecture includes arched doorways and walls, with a sense of depth created by receding structures. The overall scene is interpreted as Christ healing the leper, a significant miracle in Christian narrative.",
+    "scene_interpretation": "Healing of the Leper",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "door",
+        "tower"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.11%2F111_B.13.11_f108v-f109r.jpg/726,232,829,1362/full/0/default.jpg"
+}

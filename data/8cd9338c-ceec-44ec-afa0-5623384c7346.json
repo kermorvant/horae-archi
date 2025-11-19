@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a seated figure, likely a bishop or king, wearing a crown and a bishop's miter, adorned with a rich red cloak over a green tunic. He holds a globe in his left hand and raises his right hand in a gesture of blessing or authority. Before him kneels a woman in a blue robe, her hands clasped in prayer or supplication. To her left, an angel with green wings and a white robe holds a crown, seemingly offering it to the kneeling woman. The background is a deep blue, decorated with golden flame-like motifs and architectural elements suggesting a throne room or a sacred space. The overall composition suggests a divine or royal investiture or a moment of spiritual significance.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/HMML/HMML%2000534/HMML_00534_032v.JPG/2386,1352,1869,2859/full/0/default.jpg"
+}

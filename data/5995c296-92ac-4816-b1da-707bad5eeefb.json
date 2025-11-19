@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling on the ground, blindfolded with a white cloth, and wearing a blue robe. He is being struck with a whip by another man. Behind him, several figures observe the scene, one of whom is praying with clasped hands. In the background, a classical-style building with columns and arches is visible. The overall impression is one of suffering and persecution, likely representing a biblical martyrdom.",
+    "scene_interpretation": "Martyrdom of Saint Stephen",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Stephen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chartres/Bibliotheque_municipale/B280856201_Impr_8_GR0045/DEPOT/B280856201_Impr_8_GR0045_0103/3513,2152,967,1347/full/0/default.jpg"
+}

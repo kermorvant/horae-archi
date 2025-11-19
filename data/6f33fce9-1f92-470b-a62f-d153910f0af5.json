@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "An elderly man with a long white beard and a halo is seated on an ornate chair, dressed in a blue robe with gold trim. He is holding a quill and appears to be writing or transcribing from an open book placed on a triangular lectern. The book has illuminated text. The background consists of green drapery and architectural elements suggesting an interior space. The chair has a carved face on its armrest.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892049/446,1732,534,552/full/0/default.jpg"
+}

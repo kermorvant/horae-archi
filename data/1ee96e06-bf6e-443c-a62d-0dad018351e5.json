@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "Two angels, identified by their halos and wings, stand flanking a large, ornate golden chalice topped with a jeweled crown. The angels wear blue robes with gold and red trim over white undergarments. Their wings are depicted in deep red with intricate gold patterns. The chalice itself is elaborately decorated with foliate motifs and is crowned with a regal circlet adorned with rubies and emeralds. Rays of golden light emanate from the crown, illuminating the scene. Behind the figures, a Gothic architectural setting is visible, characterized by pointed arches and tracery windows, suggesting a sacred or ecclesiastical space. The floor is tiled in a checkered pattern of red and white. The overall impression is one of divine reverence and the presentation of a sacred relic or symbol.",
+    "scene_interpretation": "The scene likely depicts the Holy Grail, a sacred relic in Christian tradition, presented by angels. The chalice, adorned with a crown, symbolizes its supreme importance and divine association. The radiant light further emphasizes its sacred nature. The Gothic architecture reinforces the ecclesiastical context.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550093038/f428/342,424,2406,3699/full/0/default.jpg"
+}

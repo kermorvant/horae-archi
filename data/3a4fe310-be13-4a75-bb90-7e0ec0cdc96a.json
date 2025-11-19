@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A young woman with long blonde hair, wearing a reddish-brown tunic and a blue mantle with gold trim, is depicted holding a grey tower. The tower has a conical roof and appears to be made of stone. The background is a pale blue sky with some distant green hills and trees. The woman's gaze is directed downwards and slightly to the side, with a melancholic expression. This iconography is strongly suggestive of Saint Barbara, a Christian martyr often depicted with a tower, her attribute, symbolizing her imprisonment by her pagan father.",
+    "scene_interpretation": "Saint Barbara",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Saint Barbara"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_086%2Flewis_e_086_jp2.zip%2Flewis_e_086_jp2%2Flewis_e_086_0308.jp2/890,2877,1278,1374/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts two distinct vignettes framed by decorative arches. In the left vignette, a seated figure, possibly a woman, is shown under a tree with abundant foliage. An angel with outstretched arms appears to be communicating with her. In the right vignette, another angel, holding a book, stands in a landscape with a suggestion of hills or clouds. The background in both vignettes is filled with stippling, suggesting a starry or celestial sky. The overall composition suggests a narrative of divine communication or revelation.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0073/1297,3323,1587,644/full/0/default.jpg"
+}

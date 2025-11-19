@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a landscape setting with architectural elements. In the foreground, a bearded man with a halo rides a donkey, holding a book and gesturing with his right hand. He is accompanied by several other haloed figures. To the right, a man in a yellow tunic stands next to a pink cloth draped over a structure. Behind him, two figures peer out from an opening in a blue, turreted building. In the background, two figures are positioned in trees, gathering fruit or branches. The overall scene is set against a vibrant red, patterned backdrop.",
+    "scene_interpretation": "Entry into Jerusalem",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "tower",
+        "window"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b520004510/f129/1103,1233,1154,1351/full/0/default.jpg"
+}

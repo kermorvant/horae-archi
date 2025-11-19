@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo, dressed in a blue robe, standing next to a donkey. He is gesturing towards a figure in a red tunic who is seated in a tree, seemingly reaching for something. To Christ's left, several faces are visible, suggesting onlookers. In the foreground, a man in a green tunic is attending to a donkey laden with a bundle. A group of men, one in an orange robe and another in a pink robe, stand to the right, observing the scene. The background features stylized trees and a patterned textile, suggesting an outdoor setting with decorative elements.",
+    "scene_interpretation": "Raising of Lazarus",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029188_00110/441,312,903,1288/full/0/default.jpg"
+}

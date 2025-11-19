@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts agricultural labor in a field, likely representing the month of August. Three figures are engaged in harvesting or gathering wheat. One figure, standing under a wooden structure that suggests a barn or shelter, is partially visible, holding a bundle of wheat. Another figure, in the center, uses a tool to gather the stalks. A third figure, kneeling on the right, is also working with the harvested wheat. Above the field, a blue sky with stylized birds is depicted. To the right of the figures, a page from a Book of Hours displays text in Latin, with decorative initial letters and gold leaf, indicating the liturgical context of the image.",
+    "scene_interpretation": "Labor of the Month (August)",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "barn"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0068/DEPOT/M601415401_MS0068_0016/1115,805,2611,3393/full/0/default.jpg"
+}

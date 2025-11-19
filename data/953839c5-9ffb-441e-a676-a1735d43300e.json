@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts two figures within a circular frame. On the left, a bearded figure, likely Christ, stands holding a staff and wearing a robe. His halo suggests divinity. He is reaching towards the right. On the right, a woman, possibly Mary Magdalene, kneels with her hands clasped in prayer, also with a halo. She is looking towards the figure on the left. Behind them, a curtain or drapery is visible, suggesting an interior setting. The overall composition evokes a devotional encounter, possibly the Noli me tangere, where Christ appears to Mary Magdalene after his resurrection.",
+    "scene_interpretation": "Noli me tangere",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Mary Magdalene"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0106/DEPOT/751045102_impr_8_RES_0106_0088/5234,645,639,685/full/0/default.jpg"
+}

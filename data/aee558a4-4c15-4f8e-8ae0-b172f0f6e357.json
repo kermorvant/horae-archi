@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "An angel, identified by a golden halo and large, red-feathered wings, stands over a dark-skinned, demonic figure that lies prostrate on the ground. The angel is clad in a white robe and holds a sword aloft, its tip adorned with a cross, which is poised to strike the demon. The angel also holds a red scroll inscribed with a complex, cross-like symbol. The background depicts a stylized landscape with rolling green hills, a body of water, and a distant castle with multiple towers. The sky is a deep blue, dotted with gold stars. The scene is framed by an arched border with decorative elements.",
+    "scene_interpretation": "The Triumph of Saint Michael",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Saint Michael"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.14935/Vat.lat.14935_0261_fa_0127r.jp2/239,231,516,789/full/0/default.jpg"
+}

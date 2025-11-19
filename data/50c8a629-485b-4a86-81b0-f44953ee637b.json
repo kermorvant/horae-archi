@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a Nativity, with the Virgin Mary lying in a bed covered by a large orange blanket, resting her head on a pillow. Behind her, within a simple wooden stable structure, are a cow and a donkey, their heads visible. To the right of the bed, an elderly man, likely Joseph, is seated, leaning on a staff and appearing to be asleep or weary. The setting is humble, suggesting the traditional depiction of the birth of Christ in a stable.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000006/MAA_00006_039.jpg/2218,484,706,882/full/0/default.jpg"
+}

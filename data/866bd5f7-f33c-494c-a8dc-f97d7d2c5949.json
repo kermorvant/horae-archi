@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt. The Virgin Mary, cloaked in blue and wearing a veil, rides a donkey, holding the Christ Child who is dressed in red. To their right, an older man, presumably Saint Joseph, walks alongside, also dressed in robes and a red cloak. The background features a pastoral landscape with trees, a winding river, a windmill, and in the distance, a fortified castle or town on a hill. The overall impression is one of travel and perhaps seeking refuge.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100252641/f163/420,72,1049,1542/full/0/default.jpg"
+}

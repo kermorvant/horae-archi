@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a landscape rendered in shades of blue with gold accents, framed by an ornate, gilded border featuring a cherubic figure. In the middle ground, a stone bridge with multiple arches spans a body of water. Beyond the bridge, a fortified complex is visible, including a prominent round tower with crenellations and an adjacent building with arched entrances. The surrounding terrain is hilly and dotted with trees, some of which are stylized with gold foliage. The sky is a light blue with wispy clouds and a few birds in flight. The overall impression is one of a serene, albeit somewhat stylized, medieval setting.",
+    "scene_interpretation": "This scene does not depict a specific biblical or devotional event. It is a landscape illustration, likely intended as a decorative element within a Book of Hours, possibly representing a journey or a specific location relevant to the text.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "bridge",
+        "tower"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "battlement",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510074b/f106/2009,5298,1694,1174/full/0/default.jpg"
+}

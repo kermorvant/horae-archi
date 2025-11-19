@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A figure, likely a saint or a warrior, stands in armor, holding a sword upright and a small, box-like object in their left hand. The figure is depicted within an architectural setting featuring arched openings. To the left, a stylized lion-like creature is visible. The background through the openings suggests an outdoor landscape with trees and possibly water. The overall composition is framed by decorative borders. The figure's attire and the presence of the sword suggest a martial or saintly context, possibly representing a martyr or a warrior saint.",
+    "scene_interpretation": "Saint George and the Dragon",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint George"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Douai/Bibliotheque_municipale/591786101_MS0182/DEPOT/591786101_MS0182_0184/3394,793,1243,1494/full/0/default.jpg"
+}

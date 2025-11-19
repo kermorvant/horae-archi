@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo, carrying the cross. He is accompanied by the Virgin Mary, dressed in blue and holding her hands to her chest, and another figure, possibly Simon of Cyrene, dressed in green and blue, who appears to be assisting or interacting with Christ. The figures are set against a gold, speckled background, suggesting a divine or symbolic space. The scene is framed by a decorative initial 'D' with floral motifs and text above.",
+    "scene_interpretation": "The Carrying of the Cross",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1414904/1435,1685,1242,1374/full/0/default.jpg"
+}

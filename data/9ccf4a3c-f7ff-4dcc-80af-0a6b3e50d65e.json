@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit, with the Virgin Mary seated centrally, hands clasped in prayer, and an open book before her. Around her, several figures, presumably Apostles, are gathered, some kneeling and others standing, with expressions of awe and devotion. A dove, representing the Holy Spirit, descends from above, radiating golden light. The figures are positioned within an architectural setting characterized by tall, fluted columns and an arched frame, suggesting an interior space, possibly a room or a chapel.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100248249/f144/1041,212,1037,1530/full/0/default.jpg"
+}

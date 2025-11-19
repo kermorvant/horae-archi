@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a divine coronation. A bearded man, crowned and robed in red and green, extends his hand towards a kneeling woman who is also crowned and dressed in blue. Above them, an angel descends, holding a golden halo with a crown over the woman's head. The background is a rich red tapestry with gold floral motifs. The figures are positioned on a raised platform with architectural elements suggesting a throne or a sacred space. The overall impression is one of divine investiture and exaltation.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_MS2005_1_1/DEPOT/M441095203_MS2005_1_1_0054/3797,786,1421,1759/full/0/default.jpg"
+}

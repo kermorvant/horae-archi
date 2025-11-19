@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act of infanticide, likely the Massacre of the Innocents. A king, seated on a raised platform and wearing a crown and royal regalia, presides over the scene. To his left, a soldier in armor is in the process of striking down a child, while another soldier appears to be holding a child aloft, possibly to be killed. A woman, dressed in a grey habit, cradles a baby, her face etched with sorrow. In the foreground, a woman in a pink garment lies prostrate, mourning over a dead child. The background is adorned with a rich, red and gold geometric pattern, suggesting an interior setting or a stylized representation of a royal court.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [
+        "King",
+        "Soldier",
+        "Woman",
+        "Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8496557x/f197/538,751,1119,1425/full/0/default.jpg"
+}

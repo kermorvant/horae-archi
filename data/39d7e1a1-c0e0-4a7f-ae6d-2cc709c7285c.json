@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher wading through water, carrying a young Christ Child on his shoulders. Saint Christopher, a bearded man with a halo, wears a red cloak over a blue tunic and holds a staff. The Christ Child, also with a halo and radiating golden rays, points upwards with his right hand. They are in a body of water, with rocky formations on either side. A solitary tree stands to the left. The background is a rich red with intricate gold scrollwork, suggesting a divine or elevated setting. The border of the illumination is composed of gold, blue, and red bands.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/62939059/63503842.tif/999,1007,1771,2787/full/0/default.jpg"
+}

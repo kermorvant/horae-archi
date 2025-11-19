@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Last Judgment. Christ, with wounds visible on his hands and side, sits enthroned in the heavens, supported by a golden arc. He is flanked by two angels, one on each side, holding staffs. Below, the Virgin Mary, cloaked in blue, and another figure in red and grey robes, with hands clasped in prayer, witness the resurrection of the dead. Numerous heads and hands emerge from a green, grassy landscape, representing souls rising from their graves.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Fécamp/Musee_du_Palais_Benedictine/762595409_A_10_013/DEPOT/762595409_A_10_013_0068/1463,989,1387,2309/full/0/default.jpg"
+}

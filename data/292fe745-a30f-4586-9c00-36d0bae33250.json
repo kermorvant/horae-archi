@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Bathsheba, a nude woman with long red hair, standing in a pool of water surrounded by lush greenery and trees laden with red fruit. Behind her, a multi-story building with classical architectural elements, including columns and decorative friezes, is visible. Within an upper loggia of this building, several figures are observing the scene, including a man wearing a crown and royal attire, and others in various colored garments. In the distance, a castle or fortress is perched on a hill under a blue sky. The inscription above the building appears to be in Latin, possibly referencing David and Bathsheba.",
+    "scene_interpretation": "Bathsheba bathing",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Bathsheba",
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10020246c/f136/436,242,1739,3080/full/0/default.jpg"
+}

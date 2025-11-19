@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man lying on the ground, covered in what appears to be straw or hay, with his body partially exposed and his beard long and disheveled. Three other men stand over him, dressed in medieval attire and hats. One man, in the center, is reaching out towards the reclining figure. Behind them, a simple building with a pitched roof and a visible window is depicted. The overall setting suggests a rustic or perhaps a scene of hardship or illness.",
+    "scene_interpretation": "Job and His Friends",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Job",
+        "Job's friends"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038542s/f128/1307,46,499,813/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Baptism of Christ in the Jordan River. Christ, with a halo, stands in the water, while John the Baptist, also with a halo, pours water from a vessel onto Christ's head. A dove, representing the Holy Spirit, descends from a radiant sun above. To the left, an angel in a blue robe holds a dark garment. The background features a rolling landscape with trees, a rocky outcrop, a distant castle on a hill, and a windmill. The entire scene is framed by an illuminated border.",
+    "scene_interpretation": "Baptism of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "John the Baptist",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10549444b/f103/350,509,1418,1661/full/0/default.jpg"
+}

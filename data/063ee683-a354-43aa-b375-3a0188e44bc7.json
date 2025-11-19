@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ's body, pale and limp, is being lowered by two figures standing on ladders. One figure, dressed in a red robe, holds Christ's arm, while another, in a blue robe and yellow head covering, appears to be supporting his legs or torso. Below, a group of mourners gazes upwards. The Virgin Mary, in a blue mantle, kneels with hands clasped in prayer, flanked by other figures. To the right, a woman in a pink gown also kneels, reaching towards Christ's wound. The setting is an outdoor landscape with rolling green hills, scattered trees, and rocky outcrops. The cross itself is a simple wooden structure.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "stairs"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000442d/f154/511,72,721,1039/full/0/default.jpg"
+}

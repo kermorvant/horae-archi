@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a large, red lobster with golden accents, positioned on a green and white checkered surface. Above the lobster, a blue background is adorned with intricate gold patterns, including stylized floral motifs and what appear to be basket-like shapes. The scene is framed by an arched architectural element, suggesting an interior or a decorative border.",
+    "scene_interpretation": "Zodiacal Sign: Cancer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100241503/f18/296,835,525,724/full/0/default.jpg"
+}

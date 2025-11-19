@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "An angel with large white wings and a golden halo is seated on the edge of an open stone sarcophagus, gesturing with one hand towards the other figures. The sarcophagus is ornate, with bands of pink and white stone. To the right of the sarcophagus, three women, each with a golden halo, are gathered. One woman in a green tunic and pink cloak kneels before the sarcophagus, holding a golden vessel. Behind her, two other women in blue robes and white head coverings stand, also holding golden vessels. The scene is set outdoors, with green grass and a hint of trees in the background, all enclosed within a circular frame decorated with floral motifs.",
+    "scene_interpretation": "The Resurrection of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel",
+        "Mary Magdalene",
+        "Holy Women"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f248/1948,2749,780,841/full/0/default.jpg"
+}

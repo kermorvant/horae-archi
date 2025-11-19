@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body pale and marked by wounds. Below the cross, the Virgin Mary, draped in a blue mantle, kneels in sorrow, her head bowed. To her left, a figure in a red robe, likely Saint John the Evangelist, stands with his hand on Mary's shoulder, offering comfort. The background is a rich red tapestry adorned with swirling gold patterns, suggesting a divine or symbolic setting rather than a literal landscape. The ground beneath is depicted as green and undulating, possibly representing the earth or the sea.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024827n/f518/1094,525,914,1431/full/0/default.jpg"
+}

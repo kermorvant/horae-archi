@@ -1,0 +1,27 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ, with the body of Jesus laid out on a white shroud atop a sarcophagus. The Virgin Mary, in a blue robe, cradles Christ's head, while other mourners, including women in white veils and men in robes, surround the body with expressions of grief. A woman in a golden robe kneels at the foot of the sarcophagus, tending to Christ's wounds. In the background, a stylized landscape unfolds with a body of water, a castle with spires, rolling hills, and three crosses on Golgotha, two of which bear figures. The scene is framed by ornate architectural elements, suggesting a devotional context.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "spire",
+        "tower",
+        "microarchitecture",
+        "column",
+        "capital",
+        "niche"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f315/1031,1311,2758,3759/full/0/default.jpg"
+}

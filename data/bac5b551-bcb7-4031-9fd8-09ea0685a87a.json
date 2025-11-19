@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, likely the Flight into Egypt or the Nativity. The Virgin Mary, with a golden halo, is seated on a donkey, holding the Christ Child, who also has a halo. Joseph, with a fur-lined hat and a red cloak, leads the donkey. The background features a landscape with rolling hills, a body of water, and in the distance, a city with prominent spires and domes, suggesting a destination or origin. The scene is framed by an ornate, decorative border typical of Books of Hours.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire",
+        "dome",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_11%2F1945_65_11_jp2.zip%2F1945_65_11_jp2%2F1945_65_11_0119.jp2/5801,1877,4434,6002/full/0/default.jpg"
+}

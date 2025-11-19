@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A figure, likely a woman, is depicted holding a sword upright in front of her. She wears a headdress and ornate clothing. To her left, a banner with text is visible. Above her, a decorative architectural element, possibly part of a larger structure, is suggested. The scene is rendered in a woodcut style, typical of early printed books.",
+    "scene_interpretation": "This image likely represents a figure from the Old Testament or a saint, possibly Judith, known for her bravery and the sword she used to defeat Holofernes. The text on the banner may provide further context or identification.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0064/2650,2895,428,514/full/0/default.jpg"
+}

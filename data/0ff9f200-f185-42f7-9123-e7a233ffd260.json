@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a grassy outdoor setting, framed by an arched border with ornate blue and gold foliage. In the center, a figure in a blue robe, identified by a halo, is being apprehended by soldiers in armor. One soldier in red armor is holding a sword near the central figure's neck, while others surround them, some holding spears and weapons. A figure in a pink robe on the left appears to be reaching out towards the central figure. In the background, a person in a pink cap holds up a lantern. The ground is green and textured, with a wooden fence in the foreground. The overall impression is one of capture or arrest.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1003290/683,188,1515,2508/full/0/default.jpg"
+}

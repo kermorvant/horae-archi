@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable. At the center, the Virgin Mary, with hands clasped in prayer and a halo, kneels beside the Christ Child, who lies naked on a bed of straw. Joseph, also with clasped hands and a halo, stands behind them. To the left, several figures in medieval attire, some with hoods, observe the scene, one holding a staff. To the right, an angel descends from the sky, appearing to announce the birth to shepherds who are tending their flock. A cow and a donkey are also present in the stable. The architectural elements suggest a simple wooden structure with arched openings and columns, framing the central figures. The background shows a landscape with trees and buildings, and a star shines in the night sky.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0032/3580,685,1464,1341/full/0/default.jpg"
+}

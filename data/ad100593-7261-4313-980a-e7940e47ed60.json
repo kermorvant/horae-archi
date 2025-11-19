@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Expulsion from the Garden of Eden. Adam and Eve, naked and ashamed, are being driven out by an angel wielding a flaming sword. In the foreground, a bearded man, likely representing God or a divine messenger, gestures towards them. Behind Adam and Eve, a winged, demonic figure is visible near a tree bearing fruit, possibly representing the serpent or temptation. The background features a walled city with towers and crenellations, suggesting a transition from the idyllic garden to the fallen world. A swan is depicted in the water near the city walls.",
+    "scene_interpretation": "Expulsion from the Garden of Eden",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "roof",
+        "battlement",
+        "arch"
+    ],
+    "persons": [
+        "Adam",
+        "Eve",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0021/1479,700,1455,2087/full/0/default.jpg"
+}

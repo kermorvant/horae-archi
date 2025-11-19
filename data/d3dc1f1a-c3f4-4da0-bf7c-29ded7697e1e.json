@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a group of men in an outdoor setting with buildings in the background. On the left, a gaunt, bearded man, possibly representing a figure in distress or a penitent, sits on the ground, his body partially covered by a cloth. He gestures with his hands. To his right, three other men, dressed in robes and head coverings, are gathered. One man, in the center, points upwards with his index finger and extends his other hand towards the seated figure, seemingly in discourse or offering counsel. Another man stands behind him, looking on, while a third, further to the right, also observes the interaction. The background features a wall and a cluster of buildings, including houses with visible windows and a church spire, suggesting an urban or semi-urban environment. The overall palette is muted, dominated by earthy tones and gold leaf, typical of medieval manuscript illumination.",
+    "scene_interpretation": "The scene likely depicts a biblical or hagiographic event involving a spiritual encounter or a moment of healing or conversion. The seated, emaciated figure could represent a sick or suffering individual, perhaps a beggar or a penitent, and the gesturing men could be disciples or religious figures offering comfort, instruction, or performing a miracle. Without specific iconographic cues, a precise identification is difficult, but it evokes themes of compassion, faith, and divine intervention.",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "church"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "window",
+        "spire"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/49756662/481,224,1047,1419/full/0/default.jpg"
+}

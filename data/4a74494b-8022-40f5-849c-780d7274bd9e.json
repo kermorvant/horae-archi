@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist, identifiable by his halo and the act of writing in a book, seated on a rocky island. To his left, a bird, likely an eagle, stands attentively. To his right, a black demon is shown attempting to tempt him with a scroll or document, while also being bound by a chain. The background features a river flowing through a landscape dotted with rocky outcrops and lush greenery. In the distance, a city with towers and walls is visible, and boats navigate the river. The entire scene is framed by an ornate, gilded architectural border with foliate motifs.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010392r/f37/403,337,1017,1414/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around a central object. A man with a beard, wearing a conical hat and ornate robes, stands on the left, holding a baby. To the right, a woman in a veil holds the baby, while another woman stands behind her. Two other figures are visible behind the man. The figures are positioned in front of a stone structure that resembles a sarcophagus or altar, with decorative carvings. Above them, an arched architectural element frames the scene, adorned with foliage motifs. The overall impression is of a religious or ceremonial event, possibly related to the presentation or adoration of a child.",
+    "scene_interpretation": "Presentation of Christ Child",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Christ Child",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0037/621,1020,422,699/full/0/default.jpg"
+}

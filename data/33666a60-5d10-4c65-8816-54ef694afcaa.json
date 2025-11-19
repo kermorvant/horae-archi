@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identified by his halo, standing elevated above a rocky landscape. He is surrounded by several figures, some of whom appear to be disciples, looking up at him with awe and raised hands. Christ is depicted with flowing robes and his arms are outstretched. Above the scene, an architectural element resembling a decorative arch frames the composition. The overall impression is one of a divine event witnessed by humans.",
+    "scene_interpretation": "Ascension of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bordeaux/Bibliotheque_municipale/330636101_INC319/DEPOT/330636101_INC319_0026/4274,936,349,685/full/0/default.jpg"
+}

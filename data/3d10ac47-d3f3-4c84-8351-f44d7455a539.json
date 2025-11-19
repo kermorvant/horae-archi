@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene is divided into two parts. On the left, a bearded king, identified by the inscription 'DAVID' on his robe, is seated on a throne, surrounded by several courtiers. The king wears a crown and a richly decorated blue robe. To the right, a procession of soldiers on horseback and on foot, some carrying spears, moves through a landscape with rocky outcrops and trees. The soldiers are clad in armor and helmets. The division between the interior scene and the exterior procession is marked by an architectural element, possibly a doorway or an opening.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0370.jp2/2152,2404,1431,1400/full/0/default.jpg"
+}

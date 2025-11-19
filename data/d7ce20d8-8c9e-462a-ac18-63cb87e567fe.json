@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in a garden setting, framed by decorative borders. On the left, a bearded man with a halo, dressed in a red tunic and blue mantle, extends his hands towards a crowned man on the right. The crowned figure, wearing a blue robe and a pink mantle lined with ermine, clasps his hands together in a gesture of supplication or greeting. Behind them, a red tapestry with gold ornamentation serves as a backdrop, and beyond that, a line of stylized green trees suggests an outdoor environment. The ground is depicted as green grass. The interaction between the two figures, one divine and the other royal, suggests a significant encounter.",
+    "scene_interpretation": "The Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "King David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f39/1668,1585,663,774/full/0/default.jpg"
+}

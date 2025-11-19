@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ, with a halo and wounds, is being lowered from a wooden cross by two figures. One figure, wearing a gold garment and a patterned cap, uses tongs to assist in the removal of nails. Another figure, in a pink patterned robe, supports Christ's body. To the right, the Virgin Mary, veiled in blue and with a halo, clasps her hands in grief, while a youthful figure, also with a halo, looks on with sorrow. The background is a vibrant blue, and the ground is rendered in green with stylized grass. The entire scene is framed by a decorative border.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/kf642qf4553/W164_000127_1200/443,960,2589,3283/full/0/default.jpg"
+}

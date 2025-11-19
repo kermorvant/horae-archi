@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Catherine of Alexandria, identifiable by her crown and the sword she holds, standing over a defeated male figure who lies prostrate on the floor, also wearing a crown. She is dressed in royal attire, including a blue mantle over a white gown, and is adorned with a golden crown. Two winged figures, likely angels, are positioned behind her, their hands clasped in prayer or reverence. The background features a patterned textile, possibly a tapestry or curtain, with a geometric design of gold, blue, and green squares. The floor is tiled in a red diamond pattern. A broken wheel, a symbol of her martyrdom, is visible to the right of Saint Catherine. The overall setting appears to be an interior space, possibly a throne room or a chamber, suggested by the draped fabric and the tiled floor.",
+    "scene_interpretation": "Martyrdom of Saint Catherine",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fx476tb0662%2FW186_000583_1200/681,1609,2042,2544/full/0/default.jpg"
+}

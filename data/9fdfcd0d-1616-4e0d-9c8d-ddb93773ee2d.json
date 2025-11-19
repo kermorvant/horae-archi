@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Baptist in a wilderness setting, characterized by rolling hills, lush green foliage, and a distant body of water. He is clad in a rough, animal-skin garment and points with his left hand to a lamb resting on an open book. The lamb is a symbol of Christ, and the book likely represents scripture. Saint John's halo indicates his saintly status. The image is framed by decorative borders, typical of medieval illuminated manuscripts.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/hr678ct7683%2FW279_000361_1200/943,3886,2197,2416/full/0/default.jpg"
+}

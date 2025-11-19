@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a stable-like structure. The Virgin Mary, seated and wearing a blue robe, holds the Christ Child on her lap. Three Magi are present: one kneels before the child, offering a gift; another stands, holding a chalice; and a third, crowned, also holds a chalice. Behind them, a group of onlookers is visible through an arched opening. To the left, two donkeys and a bull are depicted. In the background, a landscape with a city skyline and figures on horseback can be seen. The architectural elements suggest a humble dwelling, with a thatched roof and wooden beams, framed by a larger arched structure.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025446v/f147/495,95,1120,1629/full/0/default.jpg"
+}

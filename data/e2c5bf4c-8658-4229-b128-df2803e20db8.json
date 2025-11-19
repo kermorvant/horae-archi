@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an architectural setting. On the left, the Angel Gabriel, adorned in a blue cloak with gold embellishments and a red tunic, kneels and gestures towards the Virgin Mary. He has wings and golden hair. The Virgin Mary, seated on a throne-like chair and dressed in a blue robe with a white veil, holds an open book. Behind them, a crowd of figures, likely representing onlookers or a congregation, are visible. The background opens to a landscape seen through an arched portal, where a dove, symbolizing the Holy Spirit, descends with rays of light. The architecture features classical columns and statues, suggesting a noble or sacred interior.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "door",
+        "portal",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022331s/f77/181,130,952,1336/full/0/default.jpg"
+}

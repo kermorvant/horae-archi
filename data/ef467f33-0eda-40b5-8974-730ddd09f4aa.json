@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts King Solomon seated on a throne, holding a sword. Before him, a soldier, clad in armor and a blue cap, raises a sword over a baby. A woman, dressed in a yellow gown and white head covering, holds the baby and appears to be pleading. The setting is an interior space with a tiled floor, arched doorways, and windows with tracery. The architectural elements suggest a royal or judicial chamber. This scene illustrates the biblical story of King Solomon's judgment, where he proposes to divide a disputed child between two women claiming to be its mother, a test designed to reveal the true mother by her maternal instinct.",
+    "scene_interpretation": "Judgment of Solomon",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "King Solomon",
+        "Soldier",
+        "Woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009271w/f219/385,196,820,1227/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary enthroned, holding the Christ Child. She is seated on a cushioned dais beneath a golden, tent-like canopy adorned with a sun motif. Two angels flank the Virgin and Child. The angel on the left wears a blue tunic with gold trim and white sleeves, while the angel on the right wears a red tunic with gold trim and white sleeves, holding a chalice. Another figure, possibly a saint or donor, kneels to the right of the angel in red. The background features architectural elements, including arched windows with tracery, suggesting an interior setting. The overall composition evokes a sense of divine presence and reverence.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "window",
+        "tracery_window",
+        "dais"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f247/398,113,1138,1679/full/0/default.jpg"
+}

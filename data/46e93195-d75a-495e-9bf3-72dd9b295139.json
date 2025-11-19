@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A crowned female saint, identified by her halo and palm frond, stands beside a spinning wheel. She wears a red robe with a white undergarment and a golden cape. The background is a vibrant blue with golden star-like motifs. The scene is framed by architectural elements suggesting an interior space with arched openings and columns. The saint's gaze is directed downwards, and her hand rests on the spinning wheel, symbolizing her martyrdom.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f28/535,372,686,929/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a procession of haloed figures carrying a richly decorated red ark, possibly the Ark of the Covenant, on poles. The figures are dressed in flowing robes of red, green, and pink. One figure in a blue robe, also haloed, walks in front of the ark, holding a book. The background is a simple blue sky with a hint of green landscape at the bottom. The entire scene is contained within a circular frame, surrounded by decorative floral motifs.",
+    "scene_interpretation": "Procession of the Ark of the Covenant",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Haloed figures"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f184/738,2710,885,858/full/0/default.jpg"
+}

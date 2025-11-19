@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, clad in a purple robe, gesturing with his hands towards a man lying in an open wooden coffin. The man, partially covered by white cloth, is kneeling with his hands clasped in prayer. A crowd of onlookers, some with expressions of astonishment and others with veiled faces, surround Christ. The setting appears to be an interior space with arched openings revealing a landscape beyond. The architecture features decorative arches and columns, with a tiled floor.",
+    "scene_interpretation": "Raising of Lazarus",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Lazarus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/15762987/942,162,997,1639/full/0/default.jpg"
+}

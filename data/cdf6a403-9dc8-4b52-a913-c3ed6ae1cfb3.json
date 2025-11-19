@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a group of people gathered around a table, engaged in what appears to be a meal or a social gathering. Several individuals are seated, while one person kneels. The figures are dressed in medieval attire, with head coverings for the women. The setting is indoors, suggested by the presence of an arched architectural element above the figures and the implied enclosure of a room. The overall impression is one of domestic life or a communal meal.",
+    "scene_interpretation": "domestic_scene",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0107/DEPOT/751045102_impr_8_RES_0107_0071/959,1989,509,704/full/0/default.jpg"
+}

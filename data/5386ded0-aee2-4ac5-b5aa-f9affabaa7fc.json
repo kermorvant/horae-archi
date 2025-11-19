@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, where Mary, veiled and with a halo, is embraced by an older woman, likely Elizabeth, who is also veiled and wears a red robe. A bearded man, possibly Zechariah, stands behind Elizabeth, his hand on her shoulder. They are positioned in front of a pale grey building with arched openings and small, diamond-paned windows. The architectural setting suggests a religious or domestic context, with the figures rendered in a devotional manner, emphasizing their spiritual connection.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f105/230,2737,895,839/full/0/default.jpg"
+}

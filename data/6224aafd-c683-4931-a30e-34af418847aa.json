@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts four men in a somewhat chaotic arrangement. One man, with a beard, lies on his back, seemingly unwell or incapacitated, with his head resting on a cushion or fabric. Three other men are gathered around him. Two of them are holding him, one by the arm and the other by the shoulder. The third man, standing slightly apart, appears to be offering a drink from a cup. In the background, stylized architectural elements suggest a building with arched windows and decorative gables. A cluster of grapes is visible in the lower left corner. The scene likely represents a medical or perhaps a devotional context, possibly illustrating a parable or a saint's life where healing or care is involved.",
+    "scene_interpretation": "The scene is not clearly identifiable as a specific biblical or hagiographic event without further context. However, the presence of a reclining figure being attended to, along with the offering of a drink, could allude to themes of healing, care for the sick, or even a parable involving sustenance or recovery. The grapes might symbolize the Eucharist or abundance.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "gable",
+        "window"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0091/5866,481,690,1216/full/0/default.jpg"
+}

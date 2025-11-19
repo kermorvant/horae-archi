@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two figures in what appears to be an outdoor setting, suggested by a green, undulating landscape and a pale blue sky. On the left, a woman in a blue mantle and white veil bows her head, her hands clasped in her lap. Her expression is somber. To her right, another figure, possibly a woman, touches her ear with her hand, her gaze directed downwards, also conveying a sense of distress or contemplation. A vertical, wooden beam or post is visible between the two figures, and a hint of architectural structure is suggested by a red border at the bottom, possibly indicating the edge of a building or a decorative element. The overall impression is one of shared sorrow or a moment of quiet reflection.",
+    "scene_interpretation": "Lamentation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/yk435gb3262%2FW178_000415_1200/713,3405,1045,1336/full/0/default.jpg"
+}

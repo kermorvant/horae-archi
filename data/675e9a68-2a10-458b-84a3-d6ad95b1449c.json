@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a seated woman in a blue robe, reading from an open book. An angel with yellow wings stands behind her, gesturing towards a bearded man wearing a red cap and a blue cloak over a patterned robe. The figures are positioned within an architectural setting characterized by a golden, vaulted ceiling with decorative tracery. Behind the figures, a red tapestry with a gold pattern is visible. The floor is tiled in a green and white checkered pattern. The overall scene is framed by a decorative border with floral motifs.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021255p/f67/135,1977,654,776/full/0/default.jpg"
+}

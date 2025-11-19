@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary seated centrally, hands clasped in prayer over an open book. She is surrounded by a group of figures, some looking upwards with expressions of awe and wonder, others gesturing. The figures are positioned within an architectural setting characterized by colorful columns and a vaulted ceiling. Above the central architectural element, a dove, symbolizing the Holy Spirit, is depicted with outstretched wings. The floor is tiled in a geometric pattern. The overall impression is one of divine inspiration and communal spiritual experience.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "capital",
+        "vault",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Mans (Le)/Bibliotheque_municipale/B721816101_INCRIA063/DEPOT/B721816101_INCRIA063_0027/3467,355,1946,3062/full/0/default.jpg"
+}

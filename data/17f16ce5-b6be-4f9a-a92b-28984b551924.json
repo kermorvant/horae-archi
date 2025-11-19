@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "In a mountainous landscape, two shepherds, one in a pink tunic and green headscarf, the other in a blue tunic and straw hat, tend to a flock of sheep. The shepherd on the left holds a long staff, while the one on the right leans on a similar staff. Above them, an angel in an orange garment descends from the sky, holding a scroll that reads \"Gloria in excelsis Deo.\" The scene depicts the Annunciation to the Shepherds, a pivotal moment in the Nativity narrative where angels announce the birth of Christ to humble shepherds.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd",
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.11.19%2F070_B.11.19_f054v-f055r.jpg/2295,224,737,1091/full/0/default.jpg"
+}

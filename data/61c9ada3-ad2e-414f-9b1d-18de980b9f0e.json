@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. In the foreground, the Virgin Mary, seated and holding the Christ Child, is attended by Saint Joseph. Three Magi, richly dressed and bearing gifts, approach them. One Magus kneels, offering a chalice, while another stands, holding a similar vessel. The third Magus, also standing, gestures towards the scene. Behind them, a crowd of onlookers and horses are visible, suggesting a procession. In the background, a complex architectural structure with Gothic elements, including pointed arches and pinnacles, rises above the figures. The setting appears to be a stable or makeshift shelter, indicated by the thatched roof structure on the left, juxtaposed with the grand architecture in the background.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "roof",
+        "pinnacle",
+        "wall",
+        "column",
+        "capital",
+        "ornamental_tracery"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0038/3532,388,1772,3205/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, stands within a richly decorated architectural niche. The figure wears a dark habit with a white collar and holds a bouquet of flowers. To the right, a lion is depicted lying down. The architectural setting features pointed arches and decorative elements, suggesting a Gothic style. The background shows a landscape with hills and possibly a distant building.",
+    "scene_interpretation": "Saint",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "niche",
+        "wall"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0157/2627,495,1649,1591/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act within an arched frame decorated with foliate motifs. In the foreground, a man in red attire and a blue hat wields a sword, seemingly in the act of striking a kneeling figure in a blue dress. Another figure, an elderly man with a long white beard and a red and blue headdress, stands to the right, gesturing with his hand, accompanied by two other figures. In the background, a rocky landscape rises, featuring stylized trees and buildings with spires. Above and to the left, a naked figure is suspended by a rope, with blood dripping from their body, suggesting a martyrdom or torture.",
+    "scene_interpretation": "Martyrdom of Saint Sebastian",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Sebastian"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN321296575/files/images/00000194.tif/1078,572,1359,2098/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a martyrdom, likely of a saint, being burned at the stake. A central figure, unclothed and engulfed in flames, lies on the ground. To the left, a crowd of onlookers dressed in medieval attire, some with beards and wearing turbans or hats, observe the event. One man in a blue robe points towards the burning figure, while another in a gold robe gestures with his hand. In the foreground, a man in a red tunic and blue leggings uses a stick to prod the flames. To the right, another figure in blue is pouring liquid, possibly oil, onto the fire. In the background, a fortified castle with towers and battlements is visible, set against a hilly landscape under a blue sky with scattered clouds. The scene is framed by ornate, gilded architectural elements resembling columns with decorative carvings.",
+    "scene_interpretation": "Martyrdom of a Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower",
+        "battlement",
+        "column",
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f565/858,1371,3070,3647/full/0/default.jpg"
+}

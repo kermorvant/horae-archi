@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated centrally, looking upwards with a book open on her lap. She is surrounded by a group of figures, all with halos, who are also looking upwards with expressions of awe and devotion. Behind them, an architectural structure with arched openings is visible. In the central arch, a radiant sun emanates light, with a dove descending from it, symbolizing the Holy Spirit. The figures are gathered in what appears to be an interior space with a patterned floor and a green, textured backdrop behind the Virgin.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009271w/f305/458,210,797,1223/full/0/default.jpg"
+}

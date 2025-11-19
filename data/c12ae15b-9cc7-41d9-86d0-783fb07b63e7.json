@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ on the cross, bleeding and crowned with thorns. To his left stands the Virgin Mary, draped in blue and white, with a sorrowful expression. To his right stands a figure, likely Saint John the Evangelist, in a blue robe and red cloak, looking upwards. The background features a turbulent sky with golden wavy lines, and a green, hilly landscape below. At the foot of the cross, a skull and bones are visible, symbolizing Golgotha. The inscription 'INRI' is present above Christ's head.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/236650f7-48bd-4a97-a70d-ed140f0cc105/2259,769,2285,3572/full/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man kneeling on the right, with his hands clasped in prayer or supplication. He is dressed in a flowing robe. To his left, three figures stand together, also appearing to be in a state of reverence or petition. Behind them, architectural elements suggest buildings with arched openings and tiered structures, possibly representing a city or religious complex. The overall impression is one of a devotional gathering or a plea being made.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0025/5829,494,601,1291/full/0/default.jpg"
+}

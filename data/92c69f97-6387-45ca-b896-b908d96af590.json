@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a golden chalice placed on a white cloth atop a golden altar. The chalice contains a white host, upon which is depicted a crucifixion scene with Christ on the cross. Rays of light emanate from the host and chalice, illuminating the pink background. The altar is draped with blue curtains, suggesting a sacred or ceremonial setting. The overall impression is one of divine presence and the sacrament of the Eucharist.",
+    "scene_interpretation": "The Eucharist",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "dais",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0004/DEPOT/210545209_004_0060/1201,651,1641,2089/full/0/default.jpg"
+}

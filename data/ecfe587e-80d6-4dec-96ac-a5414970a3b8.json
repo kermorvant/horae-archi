@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey, with the Virgin Mary, cloaked in blue and holding the Christ Child, riding a donkey. Beside them walks a bearded man, likely Saint Joseph, dressed in a red robe and leaning on a staff. In the background, a complex of buildings with pitched roofs and a tower with a blue dome suggests a town or settlement. The landscape is rendered with rolling hills and trees, under a pale blue sky with faint indications of birds or clouds.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "roof",
+        "tower",
+        "dome",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Bergues/Bibliotheque_patrimoniale/590676201_MS014/DEPOT/590676201_MS014_0056/1313,831,1218,1964/full/0/default.jpg"
+}

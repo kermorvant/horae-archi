@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a celestial court with Christ and the Virgin Mary enthroned, both wearing crowns. Christ holds an orb, symbolizing his dominion. They are seated on a golden, richly textured dais, draped with golden fabric. Below them, a multitude of figures, likely angels and perhaps the faithful, are gathered. Some are playing musical instruments, including a harp and a lute, while others look towards the enthroned figures. In the background, rows of figures in blue and red robes, possibly representing choirs of angels or saints, are arranged in tiered formations. To the right, architectural elements suggestive of a heavenly structure are visible, with gilded columns and decorative niches. An angel stands within one of these architectural frames.",
+    "scene_interpretation": "The Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy",
+        "column",
+        "niche"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f362/1534,1311,2697,3490/full/0/default.jpg"
+}

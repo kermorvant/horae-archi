@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identified by his halo and gesture, addressing a group of onlookers. To his left, the Virgin Mary, also haloed, stands with hands clasped in prayer, accompanied by other figures. In the foreground, a man, possibly Lazarus, is shown emerging from a tomb, supported by another figure. The setting appears to be an interior space with architectural elements such as columns and a window with tracery. The overall scene likely represents a miracle of resurrection or healing, possibly the Raising of Lazarus.",
+    "scene_interpretation": "Raising of Lazarus",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "window",
+        "tracery_window",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_008%2Fwidener_008_jp2.zip%2Fwidener_008_jp2%2Fwidener_008_0227.jp2/3066,909,2208,2786/full/0/default.jpg"
+}

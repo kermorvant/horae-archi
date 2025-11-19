@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a crowned female figure, likely a saint, standing indoors. She wears a blue tunic, a white surcoat with ermine trim, and a golden crown. A brown cloak drapes over her shoulders. In her left hand, she holds a large sword upright, and in her right, a book. To her left, on the floor, lies a broken wheel and two small tools, possibly a hammer and chisel. The background features a green tapestry with gold ornamentation, behind which are dark columns and two arched windows with diamond-shaped tracery. The floor is tiled in a grid pattern. The figure's attributes, particularly the broken wheel, identify her as Saint Catherine of Alexandria, a virgin martyr often depicted with these symbols of her torture and faith.",
+    "scene_interpretation": "Saint Catherine of Alexandria",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tracery_window",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Saint Catherine of Alexandria"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Auxerre/Tresor_de_la_Cathedrale/890245409_n_015/DEPOT/890245409_n_015_0132/3646,2207,1152,1137/full/0/default.jpg"
+}

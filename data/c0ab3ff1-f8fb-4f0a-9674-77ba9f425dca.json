@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a seated figure, likely the Virgin Mary, holding a cross with a figure of Christ. The Virgin Mary wears a blue mantle over a lighter garment and has a golden halo. She is seated on a throne-like structure, suggested by the white form behind her. The cross is rendered in a pale, textured color, and the figure of Christ is only partially visible. The background is a textured red, with areas of lighter parchment showing through, suggesting wear and tear on the manuscript. The overall impression is one of solemnity and religious devotion.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://images.lib.cam.ac.uk/iiif/MS-FF-00006-00008-000-00022.jp2/1634,2492,1772,2612/full/0/default.jpg"
+}

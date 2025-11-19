@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with the Virgin Mary, clad in a blue robe adorned with gold trim, meeting Elizabeth, who wears a red cloak over a blue garment and a white veil. They are shown holding hands, suggesting a moment of greeting and recognition. Behind them, a rocky landscape with green foliage rises on the left, while on the right, a building with a golden, steeply pitched roof and grey stone walls is visible. The sky is a deep blue, dotted with stars, and rays of golden light emanate from the upper center, possibly symbolizing divine presence or blessing. The figures are haloed, indicating their sanctity.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Elizabeth"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010383s/f90/943,190,1073,1583/full/0/default.jpg"
+}

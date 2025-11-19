@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely King David, kneeling in prayer outdoors. He is dressed in a royal red robe with a fur-lined collar and a blue undergarment, his hands clasped in supplication. A golden crown lies on the ground before him. In the background, a rocky landscape features a distant castle on a hill. Above, a divine figure, possibly God the Father, is depicted within a blue, cloud-like halo, radiating golden light. To the right of the kneeling figure, a golden harp stands upright, suggesting a musical or devotional context. The overall setting is a verdant, hilly landscape under a bright blue sky.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-manuscripta.ch/zuz/i3f/v20/1657492/603,516,2208,3331/full/0/default.jpg"
+}

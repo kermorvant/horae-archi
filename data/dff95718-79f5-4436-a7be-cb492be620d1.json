@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Lamentation of Christ. The body of Christ, with visible wounds, is cradled by the Virgin Mary, who is dressed in blue. To the left, a figure in red, likely Saint John the Evangelist, supports Christ's head. Behind them, a large, golden cross stands against a red background patterned with gold and white crosses. The figures are rendered with halos, indicating their sacred status. The overall composition evokes a sense of sorrow and devotion.",
+    "scene_interpretation": "Lamentation of Christ",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "cross"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ",
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://images.lib.cam.ac.uk/iiif/MS-FF-00006-00008-000-00150.jp2/1727,2237,2020,3037/full/0/default.jpg"
+}

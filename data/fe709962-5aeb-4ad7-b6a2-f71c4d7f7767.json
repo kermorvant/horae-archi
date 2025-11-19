@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A haloed female saint, identified by the palm frond she holds and the chalice offered by an angel, stands beside a stone tower. She wears a golden, patterned dress and a red cloak. The angel, with red wings, descends from the upper left, holding the chalice. The background depicts a rolling landscape with trees and distant buildings, suggesting an outdoor setting. The saint's posture and the presence of the palm frond, a symbol of martyrdom, indicate her sanctity. The scene likely represents a moment of divine affirmation or sustenance for the saint.",
+    "scene_interpretation": "Martyrdom of a Saint",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "door",
+        "roof"
+    ],
+    "persons": [
+        "Saint",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0034/bge-lat0034_111v.jp2/2479,479,2863,5031/full/0/default.jpg"
+}

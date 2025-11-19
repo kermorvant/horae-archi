@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts two figures, one on the left and one on the right, both with halos, suggesting they are saints or holy figures. The figure on the left, likely the Virgin Mary, is shown with her hands crossed over her chest and looking towards the right. The figure on the right, an angel, is gesturing with its right hand, pointing upwards, and holding a staff or rod in its left hand. Rays of light emanate from above, suggesting divine intervention or presence. Above the figures, a banner displays the text 'De cicophas seccon', and a bird is depicted in flight. The background is abstract, with diagonal lines and patterned areas, not clearly defining a specific setting.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0087/5149,411,755,1285/full/0/default.jpg"
+}

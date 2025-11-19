@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Pentecost, with the Virgin Mary seated at a wooden desk with an open book. She is surrounded by eleven figures, all with halos, indicating their saintly status. The figures are shown with hands clasped in prayer or raised in awe. Above them, a dove, representing the Holy Spirit, descends from a radiant blue background, surrounded by golden rays of light. The figures are positioned within an architectural setting characterized by arched openings and columns, suggesting an interior space. The overall composition emphasizes the divine descent of the Holy Spirit upon the apostles and the Virgin Mary.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10614745/536,347,1384,1974/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a violent act occurring outdoors, with a fortified castle visible in the background. In the foreground, a soldier in ornate armor is shown seizing a baby from a woman who is falling to the ground. The soldier holds a sword aloft, seemingly about to strike. Other soldiers and women are present, some appearing distressed. The ground is rendered with foliage and hints of blood, suggesting a massacre. The overall impression is one of chaos and brutality.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "military_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f78/237,247,1973,3038/full/0/default.jpg"
+}

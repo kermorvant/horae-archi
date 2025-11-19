@@ -1,0 +1,23 @@
+{
+    "scene_description_enriched": "The scene depicts a man, likely a prophet or saint, seated on a throne-like structure, wearing a green turban and a purple robe. He holds a scroll and a quill, appearing to be writing or dictating. Before him kneels an angel with white wings, dressed in white, holding a censer. The background features a patterned tapestry and architectural elements suggesting an interior space with arched windows and a vaulted ceiling. The overall composition suggests a divine revelation or inspiration.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "roof",
+        "wall",
+        "column",
+        "capital",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f36/687,259,1177,1608/full/0/default.jpg"
+}

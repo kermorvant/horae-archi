@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "Three men are depicted in an outdoor setting, with a tree providing some shade. The central figure, wearing a hat, is actively sawing a piece of wood held by another man. A third man stands behind them, observing. Architectural elements, possibly representing buildings or decorative frames, are visible on the left and right edges of the scene. The overall impression is of a scene of manual labor or craftsmanship.",
+    "scene_interpretation": "This scene does not depict a specific biblical, liturgical, or devotional event recognizable within the typical iconography of Books of Hours. It appears to be a genre scene illustrating everyday life or a craft.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0034/664,3439,665,1204/full/0/default.jpg"
+}

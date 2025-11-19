@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a humble stable. The Virgin Mary, seated and wearing a blue robe, cradles the Christ Child, who is illuminated by a golden halo. Three Magi approach, bearing gifts in ornate vessels. The first Magus, depicted as black and wearing a blue turban and golden robes, stands with a gift. The second Magus, in a green robe, also holds a gift. The third Magus, in a red robe, kneels before the Virgin and Child, presenting his offering. The architectural setting is rudimentary, with a thatched roof supported by wooden beams and a brick wall visible. A window looks out onto a green landscape.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall",
+        "window"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/fq804fm0409%2FW433_000185_1200/854,1343,1537,1860/full/0/default.jpg"
+}

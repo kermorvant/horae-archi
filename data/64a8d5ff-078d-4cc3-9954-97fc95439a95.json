@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A figure, likely a female saint or noblewoman, is depicted in a bust view, facing left with her head turned slightly towards the viewer. She wears a headdress, a cape draped over her shoulders, and a richly decorated garment with a prominent jeweled pendant. Her right hand points outwards, while her left hand holds a tall, cylindrical object topped with flame, resembling a torch or a candle. The figure is framed by architectural elements that suggest an interior setting, with decorative arches and microarchitecture visible on the sides. Below, a decorative band with intricate patterns further encloses the scene.",
+    "scene_interpretation": "Saintly Figure with Torch",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "microarchitecture",
+        "undefined_element"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0013/1031,609,474,558/full/0/default.jpg"
+}

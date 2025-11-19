@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A figure, likely a monk or cleric, is seated at a table, holding a stack of books. The figure wears a hooded robe and appears to be engaged in study or contemplation. The table is set with a plate and a small bowl. Behind the figure, a patterned background suggests an interior space, possibly a monastic cell or study. The scene depicts a moment of scholarly or devotional activity.",
+    "scene_interpretation": "Devotional Study",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0055/3487,3416,322,407/full/0/default.jpg"
+}

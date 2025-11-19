@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man, likely Christ, seated at a wooden desk, writing on a parchment. He wears a pink robe and a blue mantle, and has a golden halo. To his left, a winged lion, a symbol of Saint Mark, is seated. Behind them, a large window with three columns reveals a landscape with rolling green hills and a blue sky dotted with dark shapes that could represent clouds or birds. The overall setting appears to be an interior space with architectural elements suggesting a room or study.",
+    "scene_interpretation": "Evangelist Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "window",
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_15%2F1945_65_15_jp2.zip%2F1945_65_15_jp2%2F1945_65_15_0033.jp2/4668,1212,4883,7294/full/0/default.jpg"
+}

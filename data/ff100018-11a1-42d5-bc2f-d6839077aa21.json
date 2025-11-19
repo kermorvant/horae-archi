@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A bearded man, likely a saint or evangelist, is depicted in profile, looking towards the left. He wears a blue tunic, a pink mantle draped over his shoulders, and orange sleeves. He holds a quill in his right hand, poised over a scroll of parchment that unfurls across his lap. To his left, an angelic figure with feathered wings, rendered in vibrant colors, looks towards the man. The angel holds a book or tablet with musical notation. Both figures are set against a dark, undefined background, suggesting a spiritual or contemplative setting. The man has a halo, indicating his sanctity.",
+    "scene_interpretation": "Saint Matthew Dictating",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Matthew",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8447767x/f13/286,411,489,585/full/0/default.jpg"
+}

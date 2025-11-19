@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene is divided into two parts. On the left, a man identified as 'David' kneels in prayer outdoors, with his hands raised. He wears a blue robe adorned with gold fleur-de-lis and a red and gold trim. A harp rests at his feet. Above him, in the sky, a depiction of the Virgin Mary is visible within a starry blue circle. The background on the left features rolling hills, trees, rocky outcrops, and a distant city with spires. On the right, a group of figures stands in an architectural setting, possibly an entrance or doorway. One figure, identified as 'Saul', is on the far right, wearing a royal blue robe and a crown. He is speaking to or gesturing towards a group of three men. The central figure in this group wears a blue tunic with gold trim and a pointed hat, holding a sword. Another figure beside him wears a red tunic and a similar hat, holding a spear. The third figure is in a green tunic. The architecture on the right consists of a pink wall with windows featuring diamond-shaped tracery.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "tracery_window"
+    ],
+    "persons": [
+        "David",
+        "Saul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0247.jp2/2480,3120,1703,1450/full/0/default.jpg"
+}

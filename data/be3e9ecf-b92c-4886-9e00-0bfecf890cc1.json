@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A man, wearing a simple tunic, breeches, and distinctive orange leg coverings, is depicted in the act of threshing grain with a flail. He is inside a rustic structure with a thatched roof, where bundles of harvested wheat are stored. The background reveals an opening to the outside, showing a landscape with what appears to be a stone structure. The scene likely represents agricultural labor, possibly alluding to the cycle of harvest and sustenance.",
+    "scene_interpretation": "Agricultural Labor",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "barn"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008559f/f20/1154,2220,736,661/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "A group of three men, one with a halo, are gathered around a seated figure who is also depicted with a halo and wearing a cap. The seated figure is on a raised platform. The men on the left are gesturing towards the seated figure, with one of them holding a flower or a small object. The scene is framed by a decorative border. The overall impression is one of a religious or devotional scene, possibly depicting a moment of judgment or recognition.",
+    "scene_interpretation": "The scene likely depicts the Presentation of Christ in the Temple, where Simeon recognizes the infant Jesus. The haloed figure on the left could represent Simeon, and the seated figure, though depicted as an adult, might symbolize Christ or a figure of authority receiving recognition. The flower could be a symbolic offering.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "dais",
+        "wall"
+    ],
+    "persons": [
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f118/701,624,999,1287/full/0/default.jpg"
+}

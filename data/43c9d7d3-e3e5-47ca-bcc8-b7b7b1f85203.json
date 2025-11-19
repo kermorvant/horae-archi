@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity, with the Virgin Mary reclining and cradling the Christ Child. Two women attend to her, one with her hands clasped in prayer and the other leaning forward to touch the infant. Behind them, a man in a red cap and a richly colored robe appears to be observing or perhaps offering a blessing. The setting is outdoors, under a thatched canopy supported by wooden posts, with a backdrop of a blue sky filled with golden clouds and a stylized representation of a city or buildings in the distance. Rays of light descend from above, suggesting divine intervention. The ground is rendered with green grass and scattered red flowers.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f264/499,953,925,1674/full/0/default.jpg"
+}

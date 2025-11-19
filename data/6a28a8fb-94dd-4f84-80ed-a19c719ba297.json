@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A figure, likely a saint or a religious person, stands draped in flowing robes. They hold a chalice in their hands, which is emitting rays or flames. Behind the figure, a cityscape with buildings and a body of water with a boat is depicted. The overall scene appears to be a devotional illustration, possibly representing a saint associated with the Eucharist or a miraculous event involving a chalice.",
+    "scene_interpretation": "Eucharist",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0017/613,392,615,727/full/0/default.jpg"
+}

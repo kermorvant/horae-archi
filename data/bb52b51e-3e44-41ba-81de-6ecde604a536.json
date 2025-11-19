@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Deposition of Christ from the cross. Christ's body, bloodied and pale, is being carefully lowered by several figures using ladders. One figure in blue and green, standing on a ladder, supports Christ's torso, while another in red assists from below. To the left, the Virgin Mary, clad in a blue mantle, looks up with sorrow, her hands outstretched. Beside her, another figure in red, possibly Saint John the Evangelist, places a hand on her shoulder. A figure in yellow and blue, also on a ladder, helps support Christ's legs. In the background, a green landscape stretches towards a distant castle with towers. The scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Deposition of Christ",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "arch",
+        "ladder",
+        "wall"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/utp/utp-0106/utp-0106_218r.jp2/1043,458,2629,4007/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, depicted as a pilgrim, stands in a grassy area. He wears a simple tunic, a hat with a wide brim, and a satchel slung over his shoulder. He holds a staff in his right hand and a book in his left. The background is a dark, decorative pattern of swirling vines and leaves. The overall impression is of a solitary traveler on a journey.",
+    "scene_interpretation": "Pilgrim",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Pilgrim"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f446/831,662,908,1084/full/0/default.jpg"
+}

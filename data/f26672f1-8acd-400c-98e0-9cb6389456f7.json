@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi within a humble stable. The Virgin Mary, in a blue robe, is seated on a bed of straw, holding the Christ Child. Three Magi, identified by their crowns and rich attire, approach. The first, kneeling, offers a golden chalice. The second, in a purple robe, holds a similar offering. The third, with dark skin and a red and gold patterned robe, also carries a chalice. Behind them, a rough stone wall and wooden beams suggest the stable's structure. A star shines in the blue sky above.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024825r/f98/630,357,1137,1512/full/0/default.jpg"
+}

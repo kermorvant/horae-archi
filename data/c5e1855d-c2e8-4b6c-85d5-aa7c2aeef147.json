@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Coronation of the Virgin Mary. Christ, shown with stigmata on his hands and side, is on the left, placing a crown on the head of the kneeling Virgin Mary, who is dressed in blue. To the right, an older bearded man, likely God the Father, also places a crown on her head. They are seated on a golden throne-like structure with architectural detailing, possibly representing a heavenly setting. The background is a golden, textured wall, and the foreground is a golden platform. The entire scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/BMC_MS25%2FBMC_MS25_jp2.zip%2FBMC_MS25_jp2%2FBMC_MS25_0133.jp2/2549,1310,2666,3745/full/0/default.jpg"
+}

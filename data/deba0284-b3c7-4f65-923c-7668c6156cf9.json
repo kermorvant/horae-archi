@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "A bearded man, identified as Saint Matthew, sits on a wooden bench, illuminated by a golden halo. He is dressed in a grey robe with gold trim and is diligently writing in an open book with a quill. Beside him stands an angel, also with a halo, wearing a white robe and holding another open book. The angel appears to be dictating or inspiring Matthew, as suggested by the direction of his gaze and the open book he holds. The background depicts an architectural setting with a vaulted ceiling and decorative elements, suggesting an interior space.",
+    "scene_interpretation": "The scene depicts Saint Matthew, one of the four Evangelists, being divinely inspired by an angel to write his Gospel. This is a common iconographic representation of the Evangelists, emphasizing the divine origin of their writings.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Saint Matthew",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022330b/f23/330,94,986,1528/full/0/default.jpg"
+}

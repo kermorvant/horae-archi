@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in what appears to be a courtyard or an area adjacent to a building. On the left, the Virgin Mary, identifiable by her blue mantle and halo, is looking towards the right. Beside her, another woman, possibly Elizabeth, also wears a head covering and a blue garment with an orange sash. They are facing an older man with a white beard and a red robe, who is extending his hand towards them. Behind the figures, a classical-style building with arches and columns is visible, suggesting a significant architectural setting. To the left of the figures, a lush green landscape with trees and foliage is depicted, under a blue sky from which golden rays descend, possibly symbolizing divine intervention or blessing. The interaction between the figures and the architectural and natural elements suggests a narrative scene from the Gospels.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall",
+        "roof",
+        "portal"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/bge/bge-lat0147/bge-lat0147_0034r.jp2/712,478,3488,4779/full/0/default.jpg"
+}

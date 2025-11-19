@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "A group of figures are gathered, with a man in the foreground kneeling with his hands clasped in prayer. He is looking towards a woman who is gesturing with her right hand, her face partially obscured by a veil. Behind the kneeling man, several other figures, mostly men with beards, are also depicted with their hands raised in prayer or contemplation. The scene is framed by an architectural element resembling an arch with decorative foliage or patterns. The overall impression is one of a devotional gathering or a significant religious event.",
+    "scene_interpretation": "The scene likely depicts a moment of prayer or supplication, possibly related to a biblical event or a saint's life. The gesture of the woman and the prayerful posture of the men suggest a plea, a blessing, or a revelation. Without further context, a specific interpretation is difficult, but it aligns with devotional imagery common in Books of Hours.",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0050/5781,3307,575,1093/full/0/default.jpg"
+}

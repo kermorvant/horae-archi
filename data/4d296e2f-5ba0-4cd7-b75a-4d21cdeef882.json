@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts a figure, likely a saint or a holy person, with a halo, looking upwards and holding their hands clasped in prayer or devotion. To the left, a bird, possibly a parrot, is perched on a branch. The background is filled with foliage, suggesting an outdoor setting. The figure's attire and the presence of a halo indicate a religious context.",
+    "scene_interpretation": "Saint Jerome in the Wilderness",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0028/5145,3364,435,449/full/0/default.jpg"
+}

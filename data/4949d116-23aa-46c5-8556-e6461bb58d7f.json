@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Christ in the center on the cross, flanked by two thieves on crosses. A crowd of soldiers and onlookers surrounds the base of the crosses. Above Christ, God the Father is depicted in a radiant halo, blessing the scene. The sky is dark, with a crescent moon visible. The scene is framed by an ornate border with floral motifs. The overall impression is one of solemnity and divine witness to the sacrifice.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "God the Father"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0065/DEPOT/M601415401_MS0065_0157/3729,524,2152,2986/full/0/default.jpg"
+}

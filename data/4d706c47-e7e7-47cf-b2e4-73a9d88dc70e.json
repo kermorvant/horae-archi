@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts three figures in what appears to be an architectural setting. On the left, a figure with a distinctive hat is shown from the chest up, gesturing with their left hand. In the center, a figure, possibly a child, is held by another figure whose hands are clasped around it. To the right, a bearded figure, also shown from the chest up, wears a garment and appears to be looking towards the central figures. The background suggests architectural elements, with what look like towers or buildings with gabled roofs on either side, and a horizontal band above the figures that might represent a frieze or entablature. The overall style is a pen-and-ink drawing, characteristic of early manuscript illumination or woodcuts.",
+    "scene_interpretation": "The scene is too abstract and lacks clear iconographic markers to definitively interpret a specific religious or biblical event. However, the grouping of figures, particularly the central embrace, could suggest a devotional theme involving family or protection, but without further context or clearer depiction, a precise interpretation is not possible.",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "tower",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Provins/Bibliotheque_municipale/773796202_INC010/DEPOT/773796202_INC010_0027/777,3624,526,990/full/0/default.jpg"
+}

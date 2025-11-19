@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a religious presentation, likely the Presentation of Christ in the Temple. On the right, a bishop, identifiable by his mitre and beard, stands before an altar. On the left, a woman, possibly the Virgin Mary, holds the Christ Child, who is reaching towards the bishop. Behind her, another woman holds a basket containing doves, and a bearded man stands next to her. The figures are all depicted with halos, indicating their sanctity. The background is a decorative tapestry-like pattern. The altar is a prominent architectural element in the foreground.",
+    "scene_interpretation": "Presentation of Christ in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "altar",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036640k/f92/987,589,752,840/full/0/default.jpg"
+}

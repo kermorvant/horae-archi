@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity. The Virgin Mary, with hands clasped in prayer and a halo, is seated on a donkey. Before her lies the Christ Child, depicted as an infant. Behind Mary, Joseph is shown holding a candle, illuminating the scene. The figures are situated within a rudimentary architectural structure, possibly a stable, suggested by the presence of beams and a wall-like element behind Joseph. The overall composition is rendered in a woodcut style with strong linework.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0080/1103,2048,552,1065/full/0/default.jpg"
+}

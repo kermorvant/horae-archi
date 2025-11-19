@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The image depicts a bust of a bearded man wearing a crown, with his hands clasped in prayer. He is positioned within an architectural frame, suggested by the presence of decorative elements and what appears to be a column on the right. The style is reminiscent of woodcut illustrations, with heavy hatching for shading. The man's posture and attire suggest he is a figure of importance, possibly a king or a saint.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0063/4198,4019,439,689/full/0/default.jpg"
+}

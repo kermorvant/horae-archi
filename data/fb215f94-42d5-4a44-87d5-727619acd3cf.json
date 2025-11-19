@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a brutal martyrdom. In the foreground, a pale, emaciated figure lies on a stone block, seemingly undergoing torture or execution. Two men are actively engaged in the violence: one, dressed in a blue patterned tunic, raises a hammer-like object to strike, while another in a yellow tunic appears to be using a sharp instrument on the victim's torso. A crowd of onlookers, some in elaborate hats and robes, observe the gruesome event. Behind them, a colonnade of classical columns frames a distant landscape featuring castles and buildings, suggesting an urban or semi-urban setting. The architectural elements include ornate columns and decorative carvings on the wall behind the onlookers, hinting at a grand interior space.",
+    "scene_interpretation": "Martyrdom of Saint Lawrence",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f606/1222,1120,2862,4002/full/0/default.jpg"
+}

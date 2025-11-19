@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands on the right, gesturing with his right hand. He is dressed in a pink undergarment and a blue cope adorned with gold embroidery. To the left, three nude children are depicted in a basket-like structure, their hands clasped in prayer. The background suggests an interior setting with dark, wooden architectural elements behind the children, and a blue, possibly curtained, backdrop behind the bishop. The scene likely depicts a saintly intervention or a miracle involving children.",
+    "scene_interpretation": "Miracle of Saint Nicholas",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Bishop",
+        "Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_0005/DEPOT/210545209_005_0148/3776,1762,864,841/full/0/default.jpg"
+}

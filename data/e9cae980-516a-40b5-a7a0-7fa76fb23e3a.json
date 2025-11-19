@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "Three figures, two of whom are identifiable as Christ and Saint John the Baptist by their halos, are depicted walking outdoors on a path. The central figure, likely Christ, wears a simple tunic and hat, while the figure to his right, possibly Saint John, also wears a tunic and hat and carries a staff. The figure to Christ's left, with a hood covering his head and a staff, appears to be an older companion. They are walking through a landscape with trees and rocks, and in the background, a fortified city with towers and walls is visible. The scene is framed by a gold border with floral motifs, typical of a Book of Hours illumination.",
+    "scene_interpretation": "Road to Emmaus",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:20:14:9:wdl_20149:Ms.IB51_296/2963,538,966,1188/full/0/default.jpg"
+}

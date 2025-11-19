@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a presentation of a child, likely the Christ Child, on a stone altar or table. The child is held by a woman, presumably the Virgin Mary, who is seated. To her left stands another woman, possibly a companion or attendant, holding a basket and a candle. To the right of the altar stands an older man with a beard, likely Joseph, who appears to be receiving or observing the child. The figures are rendered with halos, indicating their sacred status. The setting is framed by a decorative border with floral motifs and geometric patterns, suggesting it is an illustration within a manuscript. The checkered pattern on the floor beneath the altar adds to the architectural context.",
+    "scene_interpretation": "Presentation of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "undefined_element"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024823v/f90/749,523,990,1260/full/0/default.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a kneeling figure, possibly a supplicant, extending their hands towards a bearded man who is also reaching out. Behind the bearded man stand two other figures, observing the interaction. To the left, another figure is visible, seemingly gesturing towards a small animal, perhaps a lamb, which is also present. The background features architectural elements, including a tower-like structure with windows, suggesting an urban or fortified setting. The overall composition is framed by an arch, indicative of a decorative border or architectural element within the manuscript.",
+    "scene_interpretation": "The scene likely represents a moment of supplication or petition, possibly within a biblical narrative or a devotional context. The kneeling figure could be seeking favor or forgiveness, while the bearded man might be an authority figure or a saint. The presence of the animal could allude to a sacrifice or a specific biblical event involving an animal.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "tower",
+        "window",
+        "wall"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0063/883,2190,464,730/full/0/default.jpg"
+}

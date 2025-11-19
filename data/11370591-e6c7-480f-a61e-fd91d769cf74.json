@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts two figures, likely saints, standing before a richly decorated, ornate doorway or gate. The figure on the left, dressed in pink and green robes, holds a large, ornate key. The figure on the right, in blue and green robes, also holds a key. Both figures have halos, indicating their saintly status. Behind them, a patterned screen or curtain is visible, suggesting an interior or a sacred space. The overall composition is framed by an arched border with decorative elements.",
+    "scene_interpretation": "Saint Peter",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "door",
+        "arch"
+    ],
+    "persons": [
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_5%2F1945_65_5_jp2.zip%2F1945_65_5_jp2%2F1945_65_5_0537.jp2/3418,2741,1050,1052/full/0/default.jpg"
+}

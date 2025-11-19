@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A female figure, likely a saint or a holy woman, stands centrally, draped in a voluminous blue mantle over a pink garment. She wears a golden halo and a jeweled crown, suggesting her sanctity and royal lineage. In her right hand, she holds a golden chalice from which a green flame or serpent emerges, and her left hand is raised in a gesture of blessing or teaching. The background is a richly patterned tapestry of gold squares interspersed with red and blue diamonds, framed by a red border with gold ornamentation. The lower portion of the scene depicts a checkered floor, rendered in gold and black, suggesting an interior space. The overall presentation is stylized and devotional, typical of medieval manuscript illumination.",
+    "scene_interpretation": "The figure holding a chalice with a flame or serpent is a common iconographic representation of Saint Margaret of Antioch, who is often depicted with a dragon (sometimes interpreted as a serpent) and a chalice, symbolizing her victory over demonic forces and her martyrdom. Alternatively, it could represent a female saint associated with the Eucharist or a specific miracle.",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Margaret of Antioch"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525095563/f352/1736,1404,2294,3251/full/0/default.jpg"
+}

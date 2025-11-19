@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Last Judgment. Christ, with wounds visible on his chest and hands, sits enthroned on a globe, surrounded by a rainbow and a richly patterned red background. Two angels with trumpets are positioned above him. Below, on a green ground, figures emerge from the earth, some in prayer, others reaching upwards. To the left, a kneeling figure in a blue robe, likely the Virgin Mary, looks up at Christ. To the right, a bearded man in a golden robe, possibly a saint or a supplicant, also kneels in prayer. The overall composition suggests a divine judgment where souls are being resurrected and judged.",
+    "scene_interpretation": "Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0066/DEPOT/M601415401_MS0066_0109/2939,417,1041,1621/full/0/default.jpg"
+}

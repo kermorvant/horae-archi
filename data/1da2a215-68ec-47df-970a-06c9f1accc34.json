@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a profile view of a woman with long, flowing hair, wearing a garment with a fur collar. Her hands are clasped in front of her. The scene is framed by decorative borders, suggesting it is an illustration within a manuscript. The style is reminiscent of early woodcuts or engravings, with bold outlines and hatching for shading. No specific architectural elements or setting are clearly visible beyond the decorative framing.",
+    "scene_interpretation": "This image likely represents a devotional figure, possibly a saint or a noblewoman, within the context of a Book of Hours. Without further context or identifying attributes, a specific scene interpretation is not possible. However, the posture of clasped hands often signifies prayer or contemplation.",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0117/3497,3314,201,1341/full/0/default.jpg"
+}

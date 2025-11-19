@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a solemn moment with a central figure, likely Christ, standing in a blue, gold-striped tunic, his hands clasped. To his left, a robed figure in red and blue, wearing a distinctive red and gold patterned hat, sits on a blue throne-like structure. A young attendant in blue and red, wearing a blue cap, stands beside the seated figure, holding a shallow bowl. Behind Christ, a group of soldiers in green armor and helmets are visible, their faces stern. The background is a stylized representation of a wall or partition with vertical lines. The overall impression is one of judgment or accusation, with Christ presented before a figure of authority.",
+    "scene_interpretation": "Christ Before Pilate",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Pilate"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://zas.bn.org.pl/iiif/42537261/46241441.tif/1094,2171,1021,1046/full/0/default.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a young Christ Child, adorned with a halo and holding a golden orb topped with a cross, standing and gesturing with his right hand. He is dressed in a blue robe. Behind and below him, a bearded man, also with a halo, looks upwards with his mouth open. He is dressed in a blue garment and a pink mantle, and holds a wooden staff. The figures are framed by a golden archway, suggesting an architectural setting. The background is a blue sky with distant, stylized mountains.",
+    "scene_interpretation": "Christ Child with Saint Christopher",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column"
+    ],
+    "persons": [
+        "Christ Child",
+        "Saint Christopher"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.vhmml.org/image/READING_ROOM/MAA/MAA%2000009/MAA_00009_118.jpg/2203,369,500,588/full/0/default.jpg"
+}

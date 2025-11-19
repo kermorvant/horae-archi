@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within an arched frame. On the left, the Angel Gabriel, dressed in a red robe, kneels and gestures towards the Virgin Mary. A scroll with Latin text, \"Ecce ancilla Domini\" (Behold the handmaid of the Lord), unfurls from his mouth. The Virgin Mary, on the right, is seated and dressed in a blue robe. She is shown reading from a book placed on a table covered with a pink cloth. Behind her, a green curtain hangs, suggesting an interior setting. The floor is depicted as a green grid pattern. The background is a rich gold, indicating a divine or elevated space. The overall scene is framed by decorative borders with floral motifs.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Arras/Bibliotheque_municipale/620416201_MS0751_0780/DEPOT/620416201_MS0751_0780_0031B/3381,1229,2089,3016/full/0/default.jpg"
+}

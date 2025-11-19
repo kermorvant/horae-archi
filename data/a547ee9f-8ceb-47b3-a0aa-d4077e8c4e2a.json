@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Crucifixion of Christ, with Jesus on the cross, his body showing signs of suffering. To the left, the Virgin Mary is shown in grief, with another figure, possibly Saint John the Evangelist, standing beside her. To the right, a group of soldiers, some in armor, and a figure on horseback, likely a Roman centurion, are present. A skull is visible at the base of the cross, a common symbol of Golgotha. The background is a simple landscape with some indistinct structures, suggesting an outdoor setting. The scene is framed by an ornamental border.",
+    "scene_interpretation": "Crucifixion",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS0359/DEPOT/B514546101_MS0359_0067/2122,339,808,1018/full/0/default.jpg"
+}

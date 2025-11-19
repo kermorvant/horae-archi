@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a banquet within an opulent interior, framed by tall columns and an arched opening revealing a distant landscape with a castle on a hill. Several men, richly dressed and wearing elaborate hats, are seated at a long table laden with food. One man, seated at the head of the table and wearing a golden robe and crown, looks towards the viewer. Another figure, dressed in a golden robe, stands and appears to be serving or presenting food. The inscription above the figures reads 'MANE THECEL FARES', referencing the biblical story of Belshazzar's feast from the Book of Daniel, where these words appeared as a divine judgment written on the wall. This scene likely illustrates the divine judgment and downfall of Belshazzar.",
+    "scene_interpretation": "Belshazzar's Feast",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Belshazzar"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f684/1443,727,2190,3322/full/0/default.jpg"
+}

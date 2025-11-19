@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a royal court setting where a man, identified as David, kneels before a seated king, who is adorned with a crown and sits on a raised dais under a canopy. David, dressed in a yellow patterned robe and green sleeves, holds a red object in his hand and gestures towards the king. He is accompanied by a group of women, one of whom, in a blue robe, stands beside him and points towards the king. The king, in a golden robe and blue sleeves, is seated on a red cushion, holding a golden staff. The background features a richly decorated wall with medallions containing busts and inscriptions, suggesting a historical or biblical narrative. The overall atmosphere is one of supplication or presentation within an opulent interior.",
+    "scene_interpretation": "David and Goliath",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "dais",
+        "wall"
+    ],
+    "persons": [
+        "David",
+        "King"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f649/936,1015,2714,3352/full/0/default.jpg"
+}

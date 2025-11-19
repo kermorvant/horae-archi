@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "Three figures, each with a halo and large blue wings, are seated on a wooden throne-like structure. The central figure, appearing to be Christ, holds a cross in his left hand and raises his right hand in a gesture of blessing. The figures on either side also raise a hand in blessing and hold a golden orb in their laps. The background is a richly decorated wooden architectural element, possibly a screen or reredos, with fluted details and vertical panels. The scene is framed by a decorative border with floral motifs.",
+    "scene_interpretation": "The Trinity",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f179/256,199,1603,2428/full/0/default.jpg"
+}

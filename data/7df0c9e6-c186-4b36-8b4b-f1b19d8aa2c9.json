@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a confrontation between a demonic figure and a robed man. The demon, with a grotesque face, pointed ears, and clawed hands, is positioned on the left, appearing to hold something or gesture towards the man. The man, on the right, wears a cap and a long robe, his hands clasped in front of him. Behind the figures, architectural elements suggest an interior setting, possibly a hall or chamber, with arches and shadowed forms. The overall impression is one of spiritual struggle or temptation.",
+    "scene_interpretation": "Temptation of Saint Anthony",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Anthony"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Saumur/Chateau_Musee/493285201_INC0040/DEPOT/493285201_INC0040_0024/1148,3433,627,1028/full/0/default.jpg"
+}

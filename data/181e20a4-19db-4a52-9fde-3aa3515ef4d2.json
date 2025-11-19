@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures in a verdant, grassy setting, with a richly patterned, starry sky above. In the foreground, a table is set with a patterned cloth and several objects, including a round fruit, a chess piece, and a cup. To the left, a figure in blue kneels with hands raised in prayer. In the center, a seated figure in blue, wearing a tall, conical hat, places a hand on the head of a child in red. Behind them, a figure in gold raises a sword. To the right, another figure in gold holds a miniature house with a red roof. Above, a figure in red, with a halo, extends hands downwards, seemingly blessing the scene. The overall impression is one of a devotional or ritualistic event, possibly related to a saint's life or a biblical narrative, with elements of sacrifice, blessing, and the offering of a dwelling.",
+    "scene_interpretation": "Martyrdom of Saint Stephen",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Saint Stephen"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f455/1830,1333,1050,1545/full/0/default.jpg"
+}

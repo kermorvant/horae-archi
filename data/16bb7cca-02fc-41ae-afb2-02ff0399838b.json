@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family during their flight into Egypt. The Virgin Mary, cloaked in a vibrant blue mantle adorned with gold trim, tenderly holds the Christ Child. Her head is bowed in a gesture of maternal affection and devotion. To her left, Saint Joseph, with a long grey beard and wearing a red tunic and hood, leads a donkey. The donkey's head is visible, with its ears perked. The background features a rolling green landscape with scattered trees and a bright blue sky, suggesting an outdoor setting for their journey. The figures are rendered with delicate detail and illuminated halos, signifying their divine status.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10532602t/f84/221,316,1378,1339/full/0/default.jpg"
+}

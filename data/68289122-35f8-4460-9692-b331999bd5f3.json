@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a man kneeling on the ground, holding a horn to his lips and pointing with his other hand. He is accompanied by a dog. Behind him, two other figures in white robes stand, one pointing towards the kneeling man. The background shows a wooden structure, possibly a stable or barn, with a glimpse of a landscape with a distant building through an opening. The kneeling man wears a white robe with gold trim and a hood, and the other figures also wear white robes. The overall impression is one of an announcement or a call to attention.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "barn"
+    ],
+    "architectural_elements": [
+        "wall",
+        "door",
+        "roof"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455949b/f62/277,278,1945,3051/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Saint John the Evangelist in a contemplative pose, seated outdoors with a scroll unfurled before him. A raven is perched on his lap, looking towards him. The background features a dark, hilly landscape with silhouetted structures resembling castles or towers, and a body of water. Rays of divine light descend from the upper left corner, illuminating the saint. The overall composition suggests a moment of divine inspiration or revelation for the saint.",
+    "scene_interpretation": "Saint John the Evangelist",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint John the Evangelist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Langres/Bibliotheque_municipale/B522696201_MS0004/DEPOT/B522696201_MS0004_0018/2811,430,1337,1604/full/0/default.jpg"
+}

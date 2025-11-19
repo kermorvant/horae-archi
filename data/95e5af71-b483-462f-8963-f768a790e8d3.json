@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family journeying through a wooded landscape. The Virgin Mary, in a blue robe and white veil, is at the center, holding the Christ Child who is dressed in blue and has his hands clasped over his chest. To the right, Saint Joseph, an elderly man with a grey beard, wears a blue tunic and a pink overgarment, and leans on a walking stick. They are surrounded by trees with green foliage and yellow blossoms, set against a hilly terrain and a starry blue sky. The figures are all depicted with golden halos, indicating their sanctity. The scene is framed by an ornamental border with floral motifs.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f159/1601,488,784,686/full/0/default.jpg"
+}

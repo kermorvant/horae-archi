@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, wearing a blue mantle and a golden halo, holds the Christ Child, who is also depicted with a golden halo and is reaching towards a chalice. One of the Magi, kneeling and wearing a crown, offers a golden chalice. Another Magus, standing and wearing a green robe and a crown, holds a golden chalice. A third Magus, standing and wearing a blue robe adorned with golden fleur-de-lis and a crown, looks towards the kneeling Magus. Behind the figures is a stylized architectural structure with arches and decorative patterns, suggesting an indoor setting or a representation of a building. The background features a patterned textile and a blue sky with golden wavy lines.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Bibliotheque_municipale/B441096101_MS3340/DEPOT/B441096101_MS3340_0065/1294,609,1505,2249/full/0/default.jpg"
+}

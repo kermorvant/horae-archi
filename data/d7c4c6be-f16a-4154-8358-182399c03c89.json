@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts the Kiss of Judas, a pivotal moment in the Passion of Christ. Jesus, identified by his halo, is being embraced and kissed by Judas Iscariot, who is also haloed. Jesus's hands are clasped, and he looks towards Judas. A group of figures, some armed with helmets and swords, surround them, indicating their arrest. One figure in the foreground, a young boy with clasped hands, appears to be praying or witnessing the event. The background is a rich gold, suggesting a divine or significant context, framed by an ornamental border.",
+    "scene_interpretation": "Kiss of Judas",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Jesus",
+        "Judas Iscariot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0062/DEPOT/M601415401_MS0062_0136/4171,1324,1381,1579/full/0/default.jpg"
+}

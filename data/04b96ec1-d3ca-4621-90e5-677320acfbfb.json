@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed male figure, identified by the inscription \"S. Bartolomeu\" as Saint Bartholomew, stands in a landscape. He wears a blue tunic and a pink mantle. In his right hand, he holds a large, curved knife, and in his left, he clutches a green book. The background depicts rolling hills under a blue sky with radiating lines, suggesting divine light. The scene is framed by a decorative border with blue and red floral motifs.",
+    "scene_interpretation": "Saint Bartholomew",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Bartholomew"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527644s/f73/815,2179,484,486/full/0/default.jpg"
+}

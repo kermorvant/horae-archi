@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "A bearded man, possibly King David, is seated and playing a large, multi-stringed instrument resembling a harp or lyre. He wears a turban-like headdress and a flowing robe. Behind him, a winged angel leans in, appearing to whisper or guide him. The scene is set within an architectural space with columns and what appears to be a decorative screen or wall behind the figures. To the left, a table holds a chalice and other objects, suggesting a devotional or scholarly setting.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "arch"
+    ],
+    "persons": [
+        "King David",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0081/4955,675,424,823/full/0/default.jpg"
+}

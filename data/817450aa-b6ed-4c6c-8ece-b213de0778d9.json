@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts Christ seated on a wooden chest, wearing a crown of thorns. Two figures, presumably soldiers, stand on either side of him, holding ropes or cords that are being used to mock or torment him. The figure on the left wears a red tunic over blue armor and a helmet, while the figure on the right wears a blue tunic over red armor and a helmet. The background is a dark, textured wall, suggesting an interior setting. The overall scene represents the mocking of Christ before his crucifixion.",
+    "scene_interpretation": "Mocking of Christ",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/f34/629,1356,768,882/full/0/default.jpg"
+}

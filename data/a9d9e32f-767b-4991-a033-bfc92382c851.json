@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a rustic stable. The Virgin Mary, with a halo, kneels to the left, her hands extended in a gesture of reverence or welcome. To her right, Saint Joseph, also with a halo, is seated, his hands clasped in prayer and leaning on a staff. Between them, a radiant infant Christ lies in a manger, depicted with a halo and emanating light. Behind them, a thatched roof covers the stable, supported by wooden beams. In the background, a star shines brightly above a fortified building, possibly a castle or city wall, suggesting the setting is near a settlement. A figure, possibly a shepherd, is visible in the far left background.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032335w/f91/1085,99,532,800/full/0/default.jpg"
+}

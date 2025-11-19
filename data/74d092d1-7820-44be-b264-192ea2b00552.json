@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A woman, depicted in a medieval style, is shown holding a rose in her right hand and gesturing with her left index finger raised. She wears a headdress with decorative elements and a floral brooch. The scene is framed by an architectural arch. The overall impression is one of devotional contemplation or symbolic representation.",
+    "scene_interpretation": "Saint Dorothy",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Dorothy"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Beaune/Archives_hospitalieres/210545209_impr_layette_123_8/DEPOT/210545209_impr_layette_123_8_0065/860,491,432,591/full/0/default.jpg"
+}

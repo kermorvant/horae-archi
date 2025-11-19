@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A woman with long, wavy hair, adorned with a diadem and elaborate headwear, stands holding a round, oval object in her left hand. She wears a richly decorated garment with a beaded necklace. Behind her, a stylized flower and celestial bodies (stars and circles) are depicted against a textured background. To the left, a partial view of a column suggests an architectural setting. The overall composition is stylized and symbolic, possibly representing an allegorical figure or a saint.",
+    "scene_interpretation": "Allegory",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00070331_00171/1035,2658,653,727/full/0/default.jpg"
+}

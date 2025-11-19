@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a chaotic urban street where soldiers are violently attacking women and children. In the foreground, a woman in a red dress, holding a baby, is being pulled by a soldier in blue armor. Another soldier in the background is engaged in combat with a sword. Several dead infants and severed heads are scattered on the ground, emphasizing the brutality of the event. Behind the figures, a cityscape with various buildings, including houses with tiled roofs and tall towers, is visible under a blue sky. The overall impression is one of extreme violence and tragedy.",
+    "scene_interpretation": "Massacre of the Innocents",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "house",
+        "tower"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892120/1004,194,1103,1806/full/0/default.jpg"
+}

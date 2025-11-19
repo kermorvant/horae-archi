@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "Three identical figures of Christ, each with a halo and dressed in a pink tunic and blue mantle, are seated behind a table. Each figure holds an open book and gestures with one hand. Between them on the table are three chalices. The background features ornate architectural elements with gold leaf, suggesting a divine or heavenly setting. The figures' repetition and the presence of chalices likely allude to the Last Supper and the Eucharist.",
+    "scene_interpretation": "Last Supper",
+    "spatial_context": "metaphysical",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8470209d/f462/634,624,1909,2632/full/0/default.jpg"
+}

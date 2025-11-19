@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a group of individuals in prayer. In the foreground, a woman in a yellow gown with intricate red patterns and a black veil kneels on a blue cushion, her hands clasped in prayer. To her left, several other figures, predominantly women in red robes, also kneel with clasped hands. Behind them, a group of men in blue and orange tunics with red caps stand, some with their hands clasped. The background features a dark, patterned tapestry and architectural elements suggesting an interior space, possibly a chapel or a hall, with a column visible on the right.",
+    "scene_interpretation": "Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "column",
+        "wall",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85397092/f14/390,464,1797,2400/full/0/default.jpg"
+}

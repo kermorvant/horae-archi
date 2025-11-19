@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The scene depicts two male figures standing against a green, patterned background. The figure on the left wears a red hat, a white alb with a red cape over it, and holds a red book. He has a long beard and a white collar. The figure on the right is dressed in a grey monastic habit with a hood and a rope belt. He has stigmata visible on his hands. The floor is tiled with a diamond pattern. The overall impression is of a devotional image, possibly representing two saints or religious figures in conversation or contemplation.",
+    "scene_interpretation": "Saints",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digi.vatlib.it/iiifimage/MSS_Reg.lat.165/Reg.lat.165_0113_fa_0055r.jp2/243,542,532,535/full/0/default.jpg"
+}

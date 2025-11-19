@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Descent of the Holy Spirit, with the Virgin Mary and the Apostles gathered in a room with arched windows. The Holy Spirit, in the form of a dove, descends from above, radiating golden rays and tongues of fire towards the assembled figures. The Virgin Mary is centrally positioned, her hands clasped in prayer, while the Apostles, depicted with halos, also pray or look upwards in awe. The architectural setting features blue walls with arched windows and a vaulted ceiling, suggesting an interior space. The overall composition conveys a sense of divine inspiration and spiritual fervor.",
+    "scene_interpretation": "Descent of the Holy Spirit",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "vault",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/10149532/3005,476,1512,2134/full/0/default.jpg"
+}

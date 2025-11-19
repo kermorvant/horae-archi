@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a flock of sheep resting on a grassy hill. A shepherd, dressed in a red tunic and blue trousers, lies on the ground, looking upwards with his arms outstretched. Beside him, a dog stands alert. Another figure, possibly a monk or a traveler, stands over the shepherd, leaning on a staff and looking towards the sky. Above them, a winged, golden figure, possibly an angel or a divine messenger, descends from a blue, star-filled sky, holding a scroll. In the background, a walled city with towers and a church spire is visible.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church",
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Shepherd"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314754601/files/images/00000124.tif/659,473,1028,1394/full/0/default.jpg"
+}

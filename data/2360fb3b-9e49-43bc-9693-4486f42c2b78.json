@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural frame. On the left, the Virgin Mary, with a halo, stands beside the Christ Child, who is seated on a stool and holds an object in his hand. The Christ Child also has a halo. Facing them on the right is a bearded man, likely a scholar or elder, with his hands extended in a gesture of teaching or discussion. Behind him are three other figures, also wearing conical hats, who appear to be listening. Above the figures, a green oil lamp with a flame hangs from the ceiling. The architectural setting is suggested by a decorative frame with pointed arches and columns, and a golden background that implies a sacred or elevated space.",
+    "scene_interpretation": "Jesus Teaching in the Temple",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "temple"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/dn556rp6795%2FW37_000026_1200/3302,1946,1873,2739/full/0/default.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated on a gilded throne, holding the Christ Child. She is dressed in a blue robe and has a golden halo. The Christ Child, also with a halo, is reaching out. To the left, a tonsured monk in a white habit kneels, holding a staff and with his hands clasped in prayer. He also has a halo. Behind the monk, an arched window with red and gold bars is visible, suggesting an interior setting. The throne is elaborately decorated with gold ornamentation, and red drapery hangs behind it. The scene is framed by a decorative border.",
+    "scene_interpretation": "Madonna and Child with a kneeling donor",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "window",
+        "roof",
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/gv754dg7958/W182_000078_300/333,201,512,739/full/0/default.jpg"
+}

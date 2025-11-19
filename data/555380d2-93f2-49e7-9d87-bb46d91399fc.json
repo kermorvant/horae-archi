@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts Christ seated on a throne, with his wounds visible on his chest, suggesting his sacrifice. He is flanked by two figures, likely angels, on either side, who gesture towards him. Below Christ, two figures, one appearing to be the Virgin Mary and the other a male saint or apostle, are shown in prayer. At the very bottom, several heads of people are depicted, possibly representing humanity or the faithful. The background features architectural elements that resemble stylized towers or buildings with arched openings, suggesting a celestial or divine setting.",
+    "scene_interpretation": "The Last Judgment",
+    "spatial_context": "metaphysical",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "tower"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0101/1015,1948,627,1216/full/0/default.jpg"
+}

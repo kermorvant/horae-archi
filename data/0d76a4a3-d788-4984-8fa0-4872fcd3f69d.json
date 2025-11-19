@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a woman with long, wavy hair, wearing a dress with a scalloped neckline and a belt. She is holding a long-stemmed rose with a large bloom and leaves. The background is plain, suggesting an outdoor setting or a simplified representation. The woman's posture and the presence of the rose suggest a symbolic or allegorical representation, possibly related to purity, love, or a specific devotional theme.",
+    "scene_interpretation": "Allegory of the Rose",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "woman"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0022/3555,3268,737,863/full/0/default.jpg"
+}

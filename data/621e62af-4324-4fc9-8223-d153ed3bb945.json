@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, kneels in a verdant landscape with rolling hills and a body of water in the background. The figure wears a blue tunic and a rose-colored mantle, holding a book in their left arm and a stalk of wheat in their right hand. To the left, a grey tower with a blue conical roof stands prominently. The scene is illuminated with a golden halo around the figure's head and a starry sky above.",
+    "scene_interpretation": "Saint John the Baptist",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "tower"
+    ],
+    "architectural_elements": [
+        "roof"
+    ],
+    "persons": [
+        "Saint John the Baptist"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024149q/f41/366,625,685,720/full/0/default.jpg"
+}

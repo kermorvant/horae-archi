@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Visitation, with Saint Elizabeth kneeling and looking upwards towards the Virgin Mary, who is standing and holding a red book. An angel, with feathered wings and a halo, kneels before the Virgin, reaching up towards her. Behind Saint Elizabeth stands an elderly man with a long white beard, also looking towards the Virgin. Above them, a group of angels with halos are depicted in a celestial setting against a starry blue background, with golden rays emanating downwards. The figures are set in an outdoor landscape with a green ground and a stylized tree on the left. The lower part of the image contains a decorative border with text and an illuminated initial.",
+    "scene_interpretation": "Visitation",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Saint Elizabeth",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f149/186,221,2654,3920/full/0/default.jpg"
+}

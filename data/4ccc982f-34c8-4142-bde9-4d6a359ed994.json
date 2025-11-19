@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "Two male figures, identified as Saint Peter and Saint Paul, stand within an architectural setting that opens to a landscape. Saint Peter, on the left, wears a papal tiara and vestments, holding a large key and an open book. Saint Paul, on the right, is depicted with a sword and a red cloak over a blue tunic. They are positioned between two large columns, with a glimpse of a house and rolling hills in the background. The scene is framed by an ornamental border typical of Books of Hours.",
+    "scene_interpretation": "Saints Peter and Paul",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "house"
+    ],
+    "architectural_elements": [
+        "column",
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Saint Peter",
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://www.e-codices.ch/loris/zhl/zhl-P0006-4/zhl-P0006-4_218r.jp2/967,331,3260,4436/full/0/default.jpg"
+}

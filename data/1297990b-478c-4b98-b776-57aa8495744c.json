@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint or scholar, is seated at a wooden lectern, diligently writing in a large illuminated manuscript. The figure wears a blue robe over a golden garment and a black cap. To the right, a lion with a halo sits attentively, its tongue extended. The scene is set within an architectural space featuring a vaulted ceiling with red and orange hues, large windows with tracery, and decorative patterned walls. A circular table with books, an inkwell, and a quill is also visible. The overall impression is one of scholarly pursuit and divine inspiration, possibly depicting a saint known for their writings or theological work, with the lion symbolizing strength, courage, or perhaps a specific attribute of the saint.",
+    "scene_interpretation": "Saint Jerome in His Study",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "window",
+        "tracery_window",
+        "wall",
+        "column",
+        "capital"
+    ],
+    "persons": [
+        "Saint Jerome"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_5%2F1945_65_5_jp2.zip%2F1945_65_5_jp2%2F1945_65_5_0042.jp2/732,821,2168,3148/full/0/default.jpg"
+}

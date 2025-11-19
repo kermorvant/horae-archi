@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "A bearded male saint, identified by a halo, stands holding a book in his left arm and a sword in his right hand. He is dressed in a red tunic and a blue mantle lined with green. The scene is framed by architectural elements, suggesting an interior space looking out onto a landscape. The floor is tiled in a pink and white checkerboard pattern. The background depicts a green landscape with trees and a large rock formation under a blue sky. The saint's posture and attributes suggest he is a martyr, possibly Saint Paul, given the sword.",
+    "scene_interpretation": "Saint Paul",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "column",
+        "arch"
+    ],
+    "persons": [
+        "Saint Paul"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/47957790/418,819,1029,1135/full/0/default.jpg"
+}

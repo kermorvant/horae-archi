@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered under an arched architectural element, possibly representing a canopy or a stylized building entrance. In the foreground, a kneeling, bearded man with clasped hands looks upwards. To his right, a central figure, likely female, holds a plant or flower and looks towards the viewer. Behind her, another figure, possibly male, also looks towards the viewer. Several other figures, some wearing crowns or elaborate headwear, are visible in the background, their faces turned in various directions. The overall impression is one of a devotional or supplicatory scene, possibly related to a saint or a biblical event.",
+    "scene_interpretation": "Supplication",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0024/5055,2983,610,1038/full/0/default.jpg"
+}

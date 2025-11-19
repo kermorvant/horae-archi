@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts a bearded man kneeling in prayer, with his hands clasped and his gaze directed upwards. He is dressed in a long, ornate robe with fur trim and a crown rests on the ground before him. To his left, a harp is visible. In the background, a rocky landscape transitions to a pastoral setting with trees and a winding path leading to a cluster of buildings with spires. Above, in a celestial realm depicted with clouds and stars, Christ is shown gesturing towards the praying man, with rays of light descending. The overall scene suggests a divine revelation or a moment of intense spiritual communion.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038211z/f85/3375,208,1200,1817/full/0/default.jpg"
+}

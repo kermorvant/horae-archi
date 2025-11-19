@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, seated and reading from a book, with a golden halo. To her left stands a young boy holding a staff, and to her right, a man kneels, his head bowed. The figures are positioned in a landscape with rolling green hills and a distant body of water under a blue sky with scattered clouds. In the far distance, a solitary figure walks along a path. The scene is framed by an ornate, gilded archway, suggesting it is an illustration within a manuscript.",
+    "scene_interpretation": "The Virgin Mary reading a book, accompanied by a young boy and a kneeling man, strongly suggests the \"Rest on the Flight into Egypt.\" The young boy could represent the Christ Child, and the kneeling man might be Saint Joseph. The peaceful, pastoral setting emphasizes the respite the Holy Family found during their journey.",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/f104/1633,1504,818,2495/full/0/default.jpg"
+}

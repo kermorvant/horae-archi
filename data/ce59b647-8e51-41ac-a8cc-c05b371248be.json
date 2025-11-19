@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "The scene depicts a bishop, identified by his mitre and robes, crowning a kneeling woman, presumably the Virgin Mary, with a golden crown. The bishop holds a golden orb in his left hand. Behind the kneeling woman are two other women, also with hands clasped in prayer. To the left, a winged figure, likely an angel, is partially visible. The background features a blue, patterned drapery and a green canopy with gold embellishments. Rays of golden light emanate from above, suggesting divine intervention. The overall setting appears to be a celestial or sacred space, indicated by the presence of divine light and angelic figures.",
+    "scene_interpretation": "Coronation of the Virgin",
+    "spatial_context": "metaphysical",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary",
+        "Bishop",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/15963776/216,309,1006,1537/full/0/default.jpg"
+}

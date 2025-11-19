@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures gathered around the Virgin Mary, who is kneeling and appears to be in prayer or contemplation. She is dressed in a blue mantle and red undergarment. The other figures, all with golden halos, are also shown with hands clasped in prayer, suggesting a devotional gathering. Behind the figures, architectural elements are visible, including columns supporting an arched structure and windows with diamond-shaped tracery. The overall setting suggests an interior space, possibly a chapel or a room within a religious building.",
+    "scene_interpretation": "Pentecost",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "window",
+        "tracery_window",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_MS0130/DEPOT/315556101_MS0130_0030/1766,1296,1353,2199/full/0/default.jpg"
+}

@@ -1,0 +1,29 @@
+{
+    "scene_description_enriched": "The scene depicts a religious service or prayer within an arched architectural setting. In the foreground, a robed figure stands with hands clasped in prayer before a tomb or altar, which is adorned with fleur-de-lis motifs. Behind this figure, a group of three individuals are gathered around a lectern, engaged in reading or singing from a large open book. The architecture features ribbed vaults, arched windows with tracery, and decorative tiling on the floor. The overall impression is one of solemn devotion and liturgical practice.",
+    "scene_interpretation": "Funeral Service",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "vault",
+        "ribbed_vault",
+        "window",
+        "tracery_window",
+        "column",
+        "capital",
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Clergy",
+        "Clergy",
+        "Clergy",
+        "Mourner"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f403/251,13,1268,1751/full/0/default.jpg"
+}

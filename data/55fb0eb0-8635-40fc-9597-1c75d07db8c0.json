@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and central placement, interacting with a crowd. To the left, a figure, likely Lazarus, emerges from a tomb, kneeling with hands clasped in prayer and wrapped in a white shroud. Christ, dressed in a blue robe, gestures towards Lazarus, while a man in a green robe stands beside him, seemingly in conversation. A group of onlookers, dressed in various colored garments and hats, observe the event. Behind them, a large, ornate building with Gothic architectural elements, possibly a church, is visible, with other buildings in the background. The scene is set outdoors on a grassy area.",
+    "scene_interpretation": "Resurrection of Lazarus",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "window"
+    ],
+    "persons": [
+        "Christ",
+        "Lazarus"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100212547/f226/718,271,1544,2621/full/0/default.jpg"
+}

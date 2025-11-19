@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The image depicts a bearded man, likely a scholar or prophet, seated and holding an open book. He is dressed in a robe with a high collar and two visible buttons. The background is filled with a textured pattern resembling small dots or seeds, and the scene is framed by architectural elements that suggest an interior setting, possibly a niche or a decorative architectural surround with pointed arches and ornamental tracery. The man's gaze is directed downwards towards the book, suggesting contemplation or study. The overall impression is one of learned piety or scholarly pursuit.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "ornamental_tracery",
+        "wall"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0048/5340,3997,464,727/full/0/default.jpg"
+}

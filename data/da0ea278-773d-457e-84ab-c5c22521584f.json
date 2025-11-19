@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a rocky, hilly landscape with scattered trees and a distant walled city. In the foreground, a figure identified as Christ kneels in prayer, his hands clasped. To his right, another figure, likely an apostle, looks towards Christ. In the lower left, a bearded man in blue and red robes is seated, holding a book. Above Christ, a chalice rests on a rocky outcrop, illuminated by divine light. In the upper right, a figure, possibly God the Father or a prophet, is depicted in a cloud, holding a small figure, perhaps Christ as a child, or a symbolic representation of the Eucharist. The overall scene suggests a moment of divine revelation or prayer.",
+    "scene_interpretation": "Agony in the Garden",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city",
+        "house"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof",
+        "arch"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1455782/1271,550,1322,2116/full/0/default.jpg"
+}

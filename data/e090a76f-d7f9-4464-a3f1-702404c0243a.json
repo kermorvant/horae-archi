@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Christopher carrying the Christ Child across a river. Saint Christopher, a large, bearded man with a halo, is wading through water, holding a tall staff for support. He is barefoot and wears a simple robe. The Christ Child, also with a halo, sits on Saint Christopher's shoulders, holding a globe and raising one hand in blessing. The river is populated with fish. In the background, framed by an arched border adorned with foliage, a city with numerous towers and buildings is visible under a radiant sun. The overall composition suggests a journey of faith and spiritual burden.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch"
+    ],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032954j/f221/1078,232,965,1463/full/0/default.jpg"
+}

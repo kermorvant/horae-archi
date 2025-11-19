@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts a group of figures within an architectural setting. In the foreground, a person lies on the ground, seemingly ill or deceased. Behind this figure, three individuals stand. The central figure, a bearded man with clasped hands, appears to be praying or interceding. To his left, two women are also present, one with her hand raised towards the praying man. The background features architectural elements suggesting a building with arches and decorative motifs, possibly representing a church or a grand hall. The overall composition suggests a moment of supplication or healing.",
+    "scene_interpretation": "Healing of the Paralytic",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "roof",
+        "gable",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Paralytic"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0085/1065,469,640,1266/full/0/default.jpg"
+}

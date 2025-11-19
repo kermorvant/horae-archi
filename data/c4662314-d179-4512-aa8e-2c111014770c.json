@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A haloed male figure, likely a saint, stands in a landscape. He wears a golden tunic with pleats and a white, ruffled undersleeve. In his right hand, he holds a grid-like object, possibly a tool or a symbol of martyrdom. The background depicts a blue sky with stylized clouds and distant, pale blue architectural structures, suggesting a city or town. Green foliage is visible in the foreground.",
+    "scene_interpretation": "Saint Lawrence",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Lawrence"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/492830/1022,2530,851,746/full/0/default.jpg"
+}

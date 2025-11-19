@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts a man, identified as Saint Christopher by his halo and staff, wading through a body of water. He is carrying a child, also with a halo, on his shoulders. The child holds a sphere. In the background, a monk in a dark habit kneels by a small building, holding a lantern. Beyond them, rolling hills are dotted with trees and crowned with fortified buildings featuring towers and spires. The sky is a vibrant blue with stylized clouds. The overall scene suggests a journey or a significant event involving the saint and the child.",
+    "scene_interpretation": "Saint Christopher",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "tower",
+        "spire",
+        "wall"
+    ],
+    "persons": [
+        "Saint Christopher",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/1455761/1114,585,1331,2193/full/0/default.jpg"
+}

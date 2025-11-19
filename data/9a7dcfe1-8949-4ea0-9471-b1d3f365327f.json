@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "A group of men are gathered, with one seated figure in blue and gold robes pointing towards a kneeling figure who is presenting a golden object. Behind the kneeling figure, several other men stand, observing the scene. The figures are positioned within an architectural setting characterized by pointed arches and decorative elements, with a red curtain forming the backdrop. Above this structure, buildings with tiled roofs and towers are visible against a blue, cloud-filled sky. The floor is decorated with a geometric pattern of green and black triangles. This scene likely depicts a moment of presentation or judgment, possibly related to a biblical narrative or a historical event.",
+    "scene_interpretation": "Presentation of Gifts",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "wall",
+        "roof",
+        "tower"
+    ],
+    "persons": [
+        "man"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515749d/f197/1907,933,786,1636/full/0/default.jpg"
+}

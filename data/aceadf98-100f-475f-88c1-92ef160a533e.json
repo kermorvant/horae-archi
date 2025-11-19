@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts Saint Jerome kneeling in a rocky, grassy landscape, looking upwards with a halo around his head. He is dressed in a blue tunic and a pink cloak, and he holds an open book and a quill, appearing to be writing. To his right, a bird, possibly an eagle, stands over a small, dark, demonic figure that is being held by a chain attached to a black object. In the sky above, a vision unfolds: a figure representing God the Father, surrounded by seraphim (red winged figures), is depicted within a celestial mandorla. Descending from this divine vision is an angel, also with wings, holding a child, likely representing the Christ Child, and pointing towards Saint Jerome. In the background, a distant city with towers and a body of water with a boat are visible, suggesting a broader world beyond the immediate scene.",
+    "scene_interpretation": "Saint Jerome in the Wilderness",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Jerome",
+        "God the Father",
+        "Angel",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://ids.lib.harvard.edu/ids/iiif/5981150/486,441,1584,2213/full/0/default.jpg"
+}

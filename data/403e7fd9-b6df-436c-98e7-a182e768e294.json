@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A bishop, identifiable by his mitre and crozier, stands in a richly decorated interior. He wears a blue dalmatic beneath a pink cope, both adorned with gold embroidery. His right hand, clad in a white glove, points outwards, while his left hand holds a small, round object, possibly a relic or a fruit. The background features dark, textured walls with decorative bands and what appears to be an arched architectural element. The scene is likely a devotional image of a saintly bishop.",
+    "scene_interpretation": "Saintly Bishop",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "wall",
+        "microarchitecture"
+    ],
+    "persons": [
+        "Bishop"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892309/1576,206,427,2138/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A seated figure with a long grey beard and wearing a golden robe and a white collar is depicted. He holds a staff. To his left, a child in a blue tunic stands holding a shallow bowl containing red material. Behind the child, two figures are visible, one wearing a red cap and the other a blue cap. The scene appears to be set within an interior space, suggested by the presence of a throne-like seat and drapery.",
+    "scene_interpretation": "This scene likely depicts a biblical or historical figure, possibly a king or prophet, in a moment of contemplation or judgment, with attendants present. The child holding the bowl might be offering something, or the bowl could represent a symbolic offering or sacrifice. Without further context or clearer iconography, a definitive interpretation is difficult, but it suggests a scene of authority and service.",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "canopy"
+    ],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Toulouse/Bibliotheque_municipale/315556101_INC_Paris_0149/DEPOT/315556101_INC_Paris_0149_0037/1792,3019,765,1154/full/0/default.jpg"
+}

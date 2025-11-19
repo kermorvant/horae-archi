@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary holding the Christ Child, who is standing and reaching out. To their right, Saint Peter, identifiable by his halo and the keys he holds, stands behind a kneeling donor. Behind Saint Peter and the donor are a group of onlookers. The figures are positioned within an architectural setting characterized by a large archway and columns, with richly patterned draperies in red, green, and blue serving as backdrops. The overall composition suggests a devotional scene, likely a presentation or a prayer before the Virgin and Child, with Saint Peter acting as an intercessor.",
+    "scene_interpretation": "Presentation of the Christ Child",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Peter"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100254479/f532/814,297,1213,2018/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "A bearded man, wearing a golden hat and a richly decorated blue and green robe, is seated at a desk, writing with a quill on a parchment. To his left, a winged, lion-like creature with blue and red wings is depicted. The background consists of draped curtains in various colors, suggesting an interior setting. The scene is framed by a golden border.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://digital.blb-karlsruhe.de/blbhs/i3f/v20/492669/562,1503,956,982/full/0/default.jpg"
+}

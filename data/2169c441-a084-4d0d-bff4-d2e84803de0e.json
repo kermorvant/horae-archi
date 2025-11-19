@@ -1,0 +1,22 @@
+{
+    "scene_description_enriched": "The scene depicts the Adoration of the Magi. The Virgin Mary, seated and holding the Christ Child, is within a simple wooden stable structure. The Christ Child is reaching towards a basket of gold offered by one of the kneeling Magi. Two other Magi, one presenting a chalice and the other a crown, are also present. A donkey and ox are visible behind the Virgin. The background features a mountainous landscape under a blue sky with rays of light emanating from the upper left, possibly symbolizing divine intervention or the Star of Bethlehem. In the distance, a small figure stands atop a tower-like structure, holding a spear and shield.",
+    "scene_interpretation": "Adoration of the Magi",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "chapel"
+    ],
+    "architectural_elements": [
+        "arch",
+        "roof",
+        "wall",
+        "tower"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/widener_005%2Fwidener_005_jp2.zip%2Fwidener_005_jp2%2Fwidener_005_0170.jp2/1093,1369,2227,2798/full/0/default.jpg"
+}

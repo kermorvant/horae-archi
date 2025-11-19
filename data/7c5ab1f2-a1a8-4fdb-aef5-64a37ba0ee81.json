@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A haloed figure, likely a saint, kneels with hands clasped in prayer, holding a cross. To the left, a monstrous, dragon-like creature with sharp teeth and a coiled tail is depicted, seemingly subdued or defeated by the saint's presence. The scene is framed by architectural elements suggesting an interior space, with ornate columns and arches visible. The background is filled with a stippled pattern, possibly representing a divine or symbolic space. This imagery is characteristic of depictions of saints triumphing over evil or temptation, often associated with martyrdom or spiritual victory.",
+    "scene_interpretation": "Saint overcoming a demon",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital"
+    ],
+    "persons": [
+        "Saint"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0097/4096,1581,652,1028/full/0/default.jpg"
+}

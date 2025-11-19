@@ -1,0 +1,21 @@
+{
+    "scene_description_enriched": "The scene depicts the Nativity within a simple wooden stable structure. The Virgin Mary, in a blue robe, kneels with her hands clasped in prayer, looking down at the Christ Child who lies on a golden cloth on the green tiled floor. The Christ Child is depicted as a naked infant with a halo. To the right, Saint Joseph, with a white beard and wearing a pink robe over a blue garment, also kneels with his hands in prayer, leaning on a staff. Behind them, a donkey and a cow are visible within the stable. The background features a patterned tapestry and a landscape beyond. Rays of golden light emanate from above, illuminating the scene.",
+    "scene_interpretation": "Nativity",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "wall",
+        "roof"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Angers/Musee_des_Beaux_Arts/M490075203_MS2003_1_074/DEPOT/M490075203_MS2003_1_074_0068/2038,1165,1147,1728/full/0/default.jpg"
+}

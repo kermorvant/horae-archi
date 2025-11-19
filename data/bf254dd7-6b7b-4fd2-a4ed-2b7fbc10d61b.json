@@ -1,0 +1,24 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation within a richly decorated architectural setting. On the left, the Angel Gabriel, clad in a red robe and green tunic, kneels and presents a scroll to the Virgin Mary. The scroll bears the inscription \"Ave gratia plena dominus tecum.\" A lily, symbolizing purity, stands in a vase between them. The Virgin Mary, dressed in a blue mantle, kneels on the right, her hands clasped in prayer, with a halo around her head. Behind her, a bookshelf filled with books suggests a domestic or scholarly environment. Sunlight streams through an open window, illuminating a dove, representing the Holy Spirit, flying into the room. To the far left, a walled garden or courtyard is visible through an arched opening, with a figure in the upper left corner, possibly God the Father, observing the scene. The overall composition is framed by ornate architectural elements, including columns and decorative friezes.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "capital",
+        "window",
+        "wall",
+        "roof",
+        "stairs",
+        "undefined_element"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/1945_65_2%2F1945_65_2_jp2.zip%2F1945_65_2_jp2%2F1945_65_2_0058.jp2/721,735,2878,3490/full/0/default.jpg"
+}

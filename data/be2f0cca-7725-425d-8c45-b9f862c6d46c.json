@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "A woman, identified as Saint Margaret, kneels with her hands clasped in prayer, holding a cross. She is seated on the back of a large, scaly dragon, which appears to be subdued. The dragon's head is turned towards the saint, and it is draped with a cloth. Behind the figures, an architectural setting is depicted with ornate walls featuring fleur-de-lis motifs and decorative patterns. Above these walls, arched windows with tracery are visible, suggesting an interior space with a view to the outside or a representation of a building's upper level. The overall scene suggests a moment of triumph over evil, with the saint's faith overcoming the monstrous dragon.",
+    "scene_interpretation": "Saint Margaret and the Dragon",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "window",
+        "tracery_window"
+    ],
+    "persons": [
+        "Saint Margaret"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Reims/Bibliotheque_municipale/B514546101_MS0359/DEPOT/B514546101_MS0359_0124/2014,290,758,1083/full/0/default.jpg"
+}

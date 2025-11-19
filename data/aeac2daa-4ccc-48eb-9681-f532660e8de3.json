@@ -1,0 +1,16 @@
+{
+    "scene_description_enriched": "A bearded man with long, wavy hair, wearing a hat and ornate clothing, stands with his left arm raised, holding a whip or flail. His right hand rests on a chain attached to a key. He is depicted in a richly decorated tunic adorned with circular motifs and a star-like emblem on his sash. Behind him, a window with diamond-shaped panes is visible, suggesting an indoor setting. The man's gesture and attire imply a figure of authority or a specific devotional representation, possibly related to a saint or biblical character associated with judgment or guidance.",
+    "scene_interpretation": "David in Prayer",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "window"
+    ],
+    "persons": [
+        "David"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Annecy/Bibliotheque_municipale/740106201_INC0009/DEPOT/740106201_INC0009_0054/5278,1803,723,959/full/0/default.jpg"
+}

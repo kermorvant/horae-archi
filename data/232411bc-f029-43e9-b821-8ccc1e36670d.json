@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts the Annunciation, with the Angel Gabriel kneeling on the left and the Virgin Mary kneeling on the right. The angel, with feathered wings and a halo, points a golden staff towards Mary. He is dressed in a golden robe. Mary, also with a halo, is shown with her hands clasped in prayer, wearing a blue mantle over a grey dress. Behind her is a red canopy with gold trim, and to her right, a book rests on a green-covered table supported by stacked books. Above the angel, a dove, representing the Holy Spirit, descends with rays of light. The background suggests an interior space with a stone wall and a tiled floor.",
+    "scene_interpretation": "Annunciation",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Angel Gabriel",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.archive.org/image/iiif/2/lewis_e_107%2Flewis_e_107_jp2.zip%2Flewis_e_107_jp2%2Flewis_e_107_0088.jp2/1464,2424,5450,6647/full/0/default.jpg"
+}

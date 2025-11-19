@@ -1,0 +1,28 @@
+{
+    "scene_description_enriched": "The scene depicts a funerary vigil within a church interior. Several figures, likely clergy or mourners, are present. One figure, dressed in a monastic habit, stands before an open book, seemingly reading or chanting. In the center, a catafalque, draped with fabric and adorned with numerous lit candles and crosses, is the focal point. Other figures in dark robes are positioned around the catafalque, some appearing to be in prayer or contemplation. The architectural setting features ribbed vaults and pointed arches, characteristic of Gothic architecture, with traceried windows visible in the background.",
+    "scene_interpretation": "Funeral Vigil",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pointed_arch",
+        "vault",
+        "ribbed_vault",
+        "window",
+        "tracery_window",
+        "wall",
+        "column",
+        "capital",
+        "door"
+    ],
+    "persons": [
+        "Cleric",
+        "Mourner"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10034277r/f171/931,324,848,1272/full/0/default.jpg"
+}

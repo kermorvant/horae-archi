@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with rolling green hills, a winding river, and a walled city in the background. In the foreground, three figures are present: a woman in blue and pink, seated and cradling a lamb; a man in a blue tunic and pink hose, holding a shepherd's crook and looking upwards; and another figure, also in pink, holding a crook and gazing skyward. Above them, an angel with wings and a halo, clad in orange, flies on a white scroll, seemingly descending from the sky. Sheep are scattered across the hillsides, and a dark-colored dog rests near the seated woman. The overall impression is one of a peaceful, idyllic rural setting, possibly representing a biblical narrative or a devotional scene.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "civic_architecture",
+    "building_types": [
+        "walled_city"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Angel Gabriel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000424g/f113/288,134,759,1101/full/0/default.jpg"
+}

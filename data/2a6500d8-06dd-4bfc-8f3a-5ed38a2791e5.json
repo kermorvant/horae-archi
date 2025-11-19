@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts Christ, identifiable by his halo and gesture of placing his hand on his chest, confronting a group of men. Some of these men appear to be soldiers, armed with staffs or spears, and are shown in various states of distress or aggression. One man is falling, while another seems to be recoiling. In the background, architectural elements suggest a structured setting, possibly a courtyard or a building facade with decorative arches and pinnacles. The overall composition conveys a moment of confrontation or arrest.",
+    "scene_interpretation": "Arrest of Christ",
+    "spatial_context": "mixed_indoor_outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "pinnacle",
+        "wall"
+    ],
+    "persons": [
+        "Christ"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Albi/Bibliotheque_municipale/810046101_inc_Roch_12429/DEPOT/810046101_inc_Roch_12429_0061/865,1960,652,1229/full/0/default.jpg"
+}

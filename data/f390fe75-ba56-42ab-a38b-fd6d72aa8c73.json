@@ -1,0 +1,19 @@
+{
+    "scene_description_enriched": "The scene depicts Adam and Eve standing within a large, stone vessel, possibly representing the womb or the earth from which they were created. Adam, on the left, is shown with his arm around Eve. Eve, on the right, has long, flowing hair. They are both unclothed, signifying their state before the Fall. The background is a landscape with stylized trees and bushes, and in the distance, a castle or fortified structure is visible on a hill. Below the stone vessel, two objects resembling shoes or sandals are depicted on the ground. The overall impression is of the creation of humanity in a primordial setting.",
+    "scene_interpretation": "Creation of Adam and Eve",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "castle"
+    ],
+    "architectural_elements": [
+        "wall"
+    ],
+    "persons": [
+        "Adam",
+        "Eve"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511766t/f10/746,1218,471,433/full/0/default.jpg"
+}

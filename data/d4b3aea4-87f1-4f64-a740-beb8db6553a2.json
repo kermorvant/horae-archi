@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Holy Family on a journey. The Virgin Mary, with a golden halo, rides a donkey, holding the Christ Child, who also has a halo. Saint Joseph, with a grey beard and wearing a dark hat and orange hood, walks beside the donkey, holding a staff. They are traveling through a landscape with rolling green hills, scattered trees, and a body of water in the background. In the distance, on the left, a town with several spires and buildings is visible. The overall impression is one of a pilgrimage or flight.",
+    "scene_interpretation": "Flight into Egypt",
+    "spatial_context": "outdoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [
+        "church"
+    ],
+    "architectural_elements": [
+        "spire"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Saint Joseph"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://stacks.stanford.edu/image/iiif/wn505gm7074%2FW262_000105_1200/974,806,3364,4459/full/0/default.jpg"
+}

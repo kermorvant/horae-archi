@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "The image depicts a woman seated and cradling a deceased figure, likely Christ, in her lap. She wears a head covering and a long robe, her gaze downcast in sorrow. To her right, a stylized plant with large leaves and a flower emerges from a vase-like structure. The scene is rendered in a woodcut style with strong outlines and hatching for shading. The lower border of the image features a decorative band with circular motifs.",
+    "scene_interpretation": "Pietà",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Paris/Bibliotheque_Historique_de_la_Ville_de_Paris/751045102_IMPR_8_RES_0105/DEPOT/751045102_impr_8_RES_0105_0048/2539,3356,293,474/full/0/default.jpg"
+}

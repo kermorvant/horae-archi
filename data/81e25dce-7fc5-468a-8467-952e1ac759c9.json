@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary, crowned and seated, holding the Christ Child on her lap. She is adorned in a blue mantle over an orange robe. Two winged figures, likely angels, flank the central figures. The angel on the left plays a lute, while the angel on the right plays a wind instrument. A white dove, symbolizing the Holy Spirit, hovers above. The figures are positioned within an architectural setting that appears to be a domed or vaulted chamber, suggested by the curved walls and decorative frieze. A red canopy hangs above the Virgin and Child. The ground is rendered as a patterned surface with blue, cloud-like forms at the bottom. The overall impression is one of celestial celebration and divine presence.",
+    "scene_interpretation": "Madonna and Child with Angels",
+    "spatial_context": "indoor",
+    "architectural_context": "religious_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "column",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Autun/Bibliotheque_municipale/710146101_S_119_099_A/DEPOT/710146101_S_119_099_A_0142/1277,507,1463,2064/full/0/default.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "scene_description_enriched": "An elderly man with a halo, dressed in a dark monastic robe over a purple tunic, is depicted in prayer with his hands clasped. Before him lies an open book. To his left, a small, bristly pig looks up at him. The scene is set outdoors in a landscape with rolling green hills and a backdrop of stylized trees under a pale blue sky. The overall impression is one of quiet contemplation and devotion.",
+    "scene_interpretation": "Saint Anthony Abbot",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Saint Anthony Abbot"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0086/DEPOT/M601415401_MS0086_0209/4105,986,921,1156/full/0/default.jpg"
+}

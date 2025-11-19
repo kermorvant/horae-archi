@@ -1,0 +1,15 @@
+{
+    "scene_description_enriched": "The scene depicts a pastoral landscape with a body of water, likely a river or sea, dotted with sailing vessels. On the left, three shepherds stand in a grassy field, looking upwards. The central shepherd, dressed in blue, clasps his hands in prayer. In the upper portion of the image, a winged angelic figure emerges from a radiant sky, holding a scroll that reads \"Gloria in excelsis Deo.\" In the middle ground, on a rocky outcrop, other figures are visible, including one seated and another standing, also seemingly observing the celestial event. A flock of sheep grazes peacefully in the foreground.",
+    "scene_interpretation": "Annunciation to the Shepherds",
+    "spatial_context": "outdoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [
+        "Shepherd",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010383s/f122/942,212,1072,1600/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts a central figure, likely a prophet or saint, kneeling with hands clasped in prayer, looking upwards towards two flying figures in the sky. The central figure is surrounded by a landscape with rudimentary buildings and vegetation. On the left and right edges of the image, two robed figures with beards and distinctive hats stand as observers or participants. The overall composition is framed by decorative architectural elements, suggesting a stylized representation of a divine vision or revelation.",
+    "scene_interpretation": "The scene appears to represent a divine revelation or prophecy, possibly depicting a prophet receiving a vision from heaven. The flying figures could be angels or divine messengers, and the praying central figure is likely a recipient of this divine communication. The flanking figures might represent witnesses or other significant individuals in the narrative.",
+    "spatial_context": "outdoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [
+        "undefined_building"
+    ],
+    "architectural_elements": [
+        "arch",
+        "wall"
+    ],
+    "persons": [
+        "Prophet",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://iiif.irht.cnrs.fr/iiif/France/Nantes/Musee_Dobree/M441095203_IMPR690_2776/DEPOT/M441095203_IMPR690_2776_0052/1275,3344,1535,576/full/0/default.jpg"
+}

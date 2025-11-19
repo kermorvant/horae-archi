@@ -1,0 +1,17 @@
+{
+    "scene_description_enriched": "The scene depicts a seated, elderly man with a white beard, wearing a blue robe and a red cloak, adorned with a jeweled crown. He is seated on a bed with a red and gold patterned coverlet, within a room featuring green striped drapery. Facing him are three figures. The central figure, dressed in a blue robe, has a halo and appears to be speaking or being presented. To his left, a man in a yellow tunic points towards the central figure, while another man in a blue tunic stands behind the central figure, placing a hand on his shoulder. The inscription \"rayphe\" is visible above the bed canopy. The overall scene is framed by an illuminated border with floral motifs.",
+    "scene_interpretation": "The scene likely represents the Presentation of Christ in the Temple, with the seated figure being Simeon, who recognized Jesus as the Messiah. The inscription \"rayphe\" might be a phonetic rendering of \"Raphael\" or a similar name, or perhaps a misinterpretation of \"Simeon\" or a related text. However, the presence of a haloed figure being presented to an elder in a domestic setting strongly suggests a biblical narrative related to recognition or prophecy.",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "roof",
+        "wall"
+    ],
+    "persons": [
+        "Simeon"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/f236/685,1512,742,786/full/0/default.jpg"
+}

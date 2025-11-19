@@ -1,0 +1,12 @@
+{
+    "scene_description_enriched": "This is a portrait of a woman depicted within an oval frame. She is shown from the chest up, with her head turned slightly to her left. She wears a dark garment with a white, ruffled collar. Her hair is styled in curls, and she wears a dark headdress with a pointed front. The background is dark and indistinct, suggesting an indoor setting or a dark studio portrait.",
+    "scene_interpretation": "Portrait",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [],
+    "persons": [],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10035936n/f226/1242,405,614,884/full/0/default.jpg"
+}

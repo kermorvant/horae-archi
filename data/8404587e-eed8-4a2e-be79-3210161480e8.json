@@ -1,0 +1,18 @@
+{
+    "scene_description_enriched": "The scene depicts a banquet or feast, likely a significant religious event, with several figures gathered around a table laden with food and drink. At the center, a figure identified as Christ, with a halo, gestures with his right hand while speaking. To his right sits the Virgin Mary, also with a halo, dressed in blue. Other figures, including men and women, are present at the table. A servant in the foreground, wearing bright orange boots, carries a jug and a goblet, suggesting he is serving the guests. The setting appears to be an interior space, possibly a hall, with a rich red drapery forming a backdrop and a patterned floor. The presence of Christ, Mary, and the context of a meal strongly suggests the Wedding at Cana.",
+    "scene_interpretation": "Wedding at Cana",
+    "spatial_context": "indoor",
+    "architectural_context": "no_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "wall",
+        "canopy"
+    ],
+    "persons": [
+        "Christ",
+        "Virgin Mary"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://collections.library.yale.edu/iiif/2/14892128/1034,294,1173,1745/full/0/default.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "scene_description_enriched": "The scene depicts the Virgin Mary seated, holding the Christ Child who is reaching towards her face. To the left, an angel with wings kneels and plays a portative organ. The figures are positioned within an architectural setting that appears to be a room, suggested by the patterned walls and a draped canopy above. The overall composition is framed by an ornamental arch, hinting at a manuscript illumination.",
+    "scene_interpretation": "Madonna and Child with an Angel playing an organ",
+    "spatial_context": "indoor",
+    "architectural_context": "undefined_architecture",
+    "building_types": [],
+    "architectural_elements": [
+        "arch",
+        "canopy",
+        "wall"
+    ],
+    "persons": [
+        "Virgin Mary",
+        "Christ Child",
+        "Angel"
+    ],
+    "error_type": null,
+    "error_message": null,
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036619c/f178/2293,234,992,1664/full/0/default.jpg"
+}
