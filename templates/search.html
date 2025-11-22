@@ -2,12 +2,23 @@
 
 {% block content %}
 
-<div class="columns" style="width: 100%; margin: 0;">
+<div class="level" style="margin-bottom: 0.5rem;">
 
+</div>
+
+<div class="columns" style="width: 100%; margin: 0;">
+    
     <!-- LEFT FILTER COLUMN -->
     <div class="column is-2" style="min-width: 260px;">
 
-        <div style="position: sticky; top: 20px;">
+        <div style="
+            position: sticky;
+            top: 0;
+            max-height: 100vh;      /* limit to viewport height */
+            overflow-y: auto;       /* enable scrolling */
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+        ">
 
             <form method="POST" class="box" style="height: fit-content;">
 
@@ -101,12 +112,10 @@
     <!-- RIGHT RESULTS COLUMN (FULL WIDTH) -->
     <div class="column is-10" style="padding-left: 30px;">
 
-        <h2 class="title is-4">
-            Results: {{ total_results }}
-            {% if total_results > 0 %}
-                (page {{ page }} / {{ total_pages }})
-            {% endif %}
-        </h2>
+    <!-- TOTAL RESULTS -->
+    <div class="has-text-grey is-size-4" style="margin-bottom: 0.3rem;">
+        {{ total_results }} results found
+    </div>
 
         {% include "pagination.html" %}
 
@@ -130,18 +139,30 @@
                         <!-- CARD CONTENT -->
                         <div class="card-content" style="padding: 6px;">
                             <p><strong>Description:</strong><br>
-                                {{ rec.scene_description_enriched }}
+                                <span class="desc-short">{{ rec.scene_description_enriched | truncate(100, True, '...') }}</span>
+                                {% if rec.scene_description_enriched and rec.scene_description_enriched|length > 100 %}
+                                    <span class="desc-full" style="display:none;">{{ rec.scene_description_enriched }}</span>
+                                    <a href="#" class="see-more" title="See more" onclick="event.preventDefault(); toggleDesc(this);" style="margin-left:6px;">🔽</a>
+                                {% endif %}
                             </p>
                             <p><strong>Interpretation:</strong><br>{{ rec.scene_interpretation }}</p>
-                            <p><strong>Spatial:</strong> {{ rec.spatial_context }}</p>
-                            <p><strong>Architecture:</strong> {{ rec.architectural_context }}</p>
+                            <p><strong>Spatial:</strong>
+                                <span class="tag is-primary is-light is-size-7">{{ rec.spatial_context }}</span>
+                                 </p>
+                            <p><strong>Architecture:</strong> 
+                                <span class="tag is-danger is-light is-size-7">{{ rec.architectural_context }}</span>
+                                </p>
 
                             <p><strong>Buildings:</strong><br>
-                                {{ rec.building_types | join(", ") }}
+                                {% for b in rec.building_types %}
+                                    <span class="tag is-success is-light is-size-7">{{ b }}</span>
+                                {% endfor %}
                             </p>
 
                             <p><strong>Elements:</strong><br>
-                                {{ rec.architectural_elements | join(", ") }}
+                                {% for e in rec.architectural_elements %}
+                                    <span class="tag is-warning is-light is-size-7">{{ e }}</span>
+                                {% endfor %}
                             </p>
 
                             <p><strong>Persons:</strong><br>
@@ -176,3 +197,5 @@
 </div>
 
 {% endblock %}
+
+
