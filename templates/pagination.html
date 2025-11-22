@@ -1,69 +1,142 @@
-{% if total_results > 48 %}
 
-<nav class="pagination is-centered" role="navigation">
+<nav class="level" style="margin: 1rem 0; text-align:center;">
 
-    <!-- Previous -->
-    {% if page > 1 %}
-    <a class="pagination-previous"
-       href="{{ url_for('search_page',
-           query=query,
-           f_scene_desc=f_scene_desc,
-           f_scene_interp=f_scene_interp,
-           f_spatial=f_spatial,
-           f_arch=f_arch,
-           f_buildings=f_buildings,
-           f_elements=f_elements,
-           f_persons=f_persons,
-           page=page-1) }}">
-        Previous
-    </a>
-    {% else %}
-    <span class="pagination-previous" disabled>Previous</span>
-    {% endif %}
+  <!-- CENTERED CONTAINER -->
+  <div class="level-item" style="flex-direction: column;">
 
-    <!-- Next -->
-    {% if page < total_pages %}
-    <a class="pagination-next"
-       href="{{ url_for('search_page',
-           query=query,
-           f_scene_desc=f_scene_desc,
-           f_scene_interp=f_scene_interp,
-           f_spatial=f_spatial,
-           f_arch=f_arch,
-           f_buildings=f_buildings,
-           f_elements=f_elements,
-           f_persons=f_persons,
-           page=page+1) }}">
-        Next
-    </a>
-    {% else %}
-    <span class="pagination-next" disabled>Next</span>
-    {% endif %}
+    {% if total_pages > 1 %}
+    <!-- PAGINATION LINE -->
+    <div class="field has-addons" style="justify-content: center;">
 
-    <ul class="pagination-list">
-        {% for p in range(1, total_pages + 1) %}
-            <li>
-                {% if p == page %}
-                <span class="pagination-link is-current">{{ p }}</span>
-                {% else %}
-                <a class="pagination-link"
-                   href="{{ url_for('search_page',
-                       query=query,
-                       f_scene_desc=f_scene_desc,
-                       f_scene_interp=f_scene_interp,
-                       f_spatial=f_spatial,
-                       f_arch=f_arch,
-                       f_buildings=f_buildings,
-                       f_elements=f_elements,
-                       f_persons=f_persons,
-                       page=p) }}">
-                    {{ p }}
-                </a>
-                {% endif %}
-            </li>
-        {% endfor %}
-    </ul>
+        <!-- FIRST -->
+        {% if page > 1 %}
+          <p class="control">
+            <a class="button is-small"
+               href="{{ url_for('search_page',
+                   query=query,
+                   f_scene_desc=f_scene_desc,
+                   f_scene_interp=f_scene_interp,
+                   f_spatial=f_spatial,
+                   f_arch=f_arch,
+                   f_buildings=f_buildings,
+                   f_elements=f_elements,
+                   f_persons=f_persons,
+                   page=1) }}">
+              « First
+            </a>
+          </p>
+        {% else %}
+          <p class="control"><button class="button is-small" disabled>« First</button></p>
+        {% endif %}
+
+        <!-- PREV -->
+        {% if page > 1 %}
+          <p class="control" style="margin-left:0.3rem;">
+            <a class="button is-small"
+               href="{{ url_for('search_page',
+                   query=query,
+                   f_scene_desc=f_scene_desc,
+                   f_scene_interp=f_scene_interp,
+                   f_spatial=f_spatial,
+                   f_arch=f_arch,
+                   f_buildings=f_buildings,
+                   f_elements=f_elements,
+                   f_persons=f_persons,
+                   page=page-1) }}">
+              ‹ Prev
+            </a>
+          </p>
+        {% else %}
+          <p class="control" style="margin-left:0.3rem;"><button class="button is-small" disabled>‹ Prev</button></p>
+        {% endif %}
+
+        <!-- PAGE JUMP FORM -->
+        <form method="get" class="field has-addons" style="margin-left:0.5rem; margin-right:0.5rem; display:flex;">
+
+            <!-- KEEP FILTERS -->
+            <input type="hidden" name="query" value="{{ query }}">
+            <input type="hidden" name="f_scene_desc" value="{{ f_scene_desc }}">
+            <input type="hidden" name="f_scene_interp" value="{{ f_scene_interp }}">
+            <input type="hidden" name="f_spatial" value="{{ f_spatial }}">
+            <input type="hidden" name="f_arch" value="{{ f_arch }}">
+            <input type="hidden" name="f_buildings" value="{{ f_buildings }}">
+            <input type="hidden" name="f_elements" value="{{ f_elements }}">
+            <input type="hidden" name="f_persons" value="{{ f_persons }}">
+
+            <p class="control">
+              <span class="button is-static is-small">Page</span>
+            </p>
+
+            <p class="control">
+              <input class="input is-small"
+                     style="width:4rem; text-align:center;"
+                     type="number"
+                     name="page"
+                     min="1"
+                     max="{{ total_pages }}"
+                     value="{{ page }}">
+            </p>
+
+            <p class="control">
+              <span class="button is-static is-small">/ {{ total_pages }}</span>
+            </p>
+
+            <p class="control">
+              <button class="button is-small is-link" type="submit">Go</button>
+            </p>
+        </form>
+
+        <!-- NEXT -->
+        {% if page < total_pages %}
+          <p class="control" style="margin-right:0.3rem;">
+            <a class="button is-small"
+               href="{{ url_for('search_page',
+                   query=query,
+                   f_scene_desc=f_scene_desc,
+                   f_scene_interp=f_scene_interp,
+                   f_spatial=f_spatial,
+                   f_arch=f_arch,
+                   f_buildings=f_buildings,
+                   f_elements=f_elements,
+                   f_persons=f_persons,
+                   page=page+1) }}">
+              Next ›
+            </a>
+          </p>
+        {% else %}
+          <p class="control" style="margin-right:0.3rem;">
+            <button class="button is-small" disabled>Next ›</button>
+          </p>
+        {% endif %}
+
+        <!-- LAST -->
+        {% if page < total_pages %}
+          <p class="control">
+            <a class="button is-small"
+               href="{{ url_for('search_page',
+                   query=query,
+                   f_scene_desc=f_scene_desc,
+                   f_scene_interp=f_scene_interp,
+                   f_spatial=f_spatial,
+                   f_arch=f_arch,
+                   f_buildings=f_buildings,
+                   f_elements=f_elements,
+                   f_persons=f_persons,
+                   page=total_pages) }}">
+              Last »
+            </a>
+          </p>
+        {% else %}
+          <p class="control">
+            <button class="button is-small" disabled>Last »</button>
+          </p>
+        {% endif %}
+
+    </div>
+{% endif %}
+  </div>
 
 </nav>
 
-{% endif %}
+
+

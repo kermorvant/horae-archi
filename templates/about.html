@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="container">
+  <div class="section">
+    <h1 class="title is-2">About HORAE miniature search engine</h1>
+
+    <div class="content">
+      <p>
+        This web applcation is a simple search interface for exploring a dataset of miniatures
+        automatically extracted from a corpus of digitized Books of Hours collected by 
+         Dominique Stutzmann and his team at CNRS-IRHT. 
+      </p>
+      Each miniature has been automatically described using Gemini-2.5-flash-lite and 
+      the description is stored in json format file.
+      </p>
+      The prompt for the description was : 
+        <pre>
+CENTRAL_PROMPT_TEXT = (
+    "You are an expert in medieval manuscript illumination and medieval architecture. "
+    "You analyze images from Books of Hours and must extract structured visual and iconographic information."
+
+    "Your workflow must follow these steps:"
+    "1. First, produce an objective visual description of the scene (figures, actions, architecture, setting)."
+    "2. Then interpret the religious, biblical, liturgical, or devotional meaning of the scene when possible."
+    "3. Using only information grounded in the description and interpretation, derive:"
+    "   • the spatial_context"
+    "   • the architectural_context"
+    "   • the list of building_types"
+    "   • the list of architectural_elements"
+    "   • the list of persons"
+    "Do not invent elements that are not clearly supported by the image."
+
+    "INSTRUCTIONS:"
+    "• spatial_context — choose one of: ['indoor', 'outdoor', 'mixed_indoor_outdoor', 'metaphysical']"
+    "   - indoor: the scene occurs inside an enclosed architectural space (church interior, domestic room, hall)."
+    "   - outdoor: the scene occurs in open air (landscape, fields, courtyards, streets)."
+    "   - mixed_indoor_outdoor: both interior and exterior elements are visible (cutaway view, open doorway, porch, loggia)."
+    "   - metaphysical: the scene is set in a spiritual or otherworldly realm (heaven, cloud throne, golden background)."
+
+    "• architectural_context — identify the dominant architectural type:"=
+    "   - no_architecture: no built structures visible."
+    "   - religious_architecture: churches, chapels, cloisters, monastic buildings, altars."
+    "   - civic_architecture: houses, palaces, markets, bridges, streets."
+    "   - military_architecture: castles, fortresses, city walls, towers."
+    "   - undefined_architecture: architecture present but not identifiable."
+
+    "• building_types — list only the buildings clearly visible, choosing from:"
+    "  ['church','cathedral','chapel','monastery','cloister','abbey','shrine','temple','synagogue',"
+    "   'house','manor_house','palace','hall','tower','gatehouse','city_gate','walled_city','fortress',"
+    "   'castle','keep','market_building','barn','stable','bridge','pavilion','tent',"
+    "   'heavenly_jerusalem','ideal_city','undefined_building']"
+
+    "• architectural_elements — list only visible features, selecting from:"
+    "  ['arch','pointed_arch','round_arch','column','capital','buttress','flying_buttress','vault',"
+    "   'ribbed_vault','dome','pillar','arcade','triforium','clerestory','window','tracery_window',"
+    "   'rose_window','ogee_window','door','portal','city_gate_portal','roof','gable','pinnacle','spire',"
+    "   'tower','turret','battlement','crenellation','canopy','dais','niche','microarchitecture',"
+    "   'ornamental_tracery','arcature','wall','fortification_wall','bridge','courtyard','stairs',"
+    "   'undefined_element']"
+
+    "• persons — list all visible persons, identified by name when possible (e.g. 'Virgin Mary', 'Angel Gabriel',"
+    "  'Christ Child'). If uncertain, ignore the person."
+
+    "• scene_interpretation — identify with a keyword the biblical, liturgical, hagiographic, or devotional event if recognizable. "
+    "       Use standard art-historical keywords : Annunciation, Visitation, David in Prayer)," 
+    "• scene_description_enriched — provide a concise paragraph combining:"
+    "   (1) an objective visual description of figures, actions, architecture, and setting,"
+    "   (2) a religious or devotional interpretation when identifiable."
+    "Blend both into one coherent description."
+
+    "Return your output in strict JSON format:"
+    "{"
+    "  "scene_description_enriched": "...","
+    "  "scene_interpretation": "...","
+    "  "spatial_context": "...","
+    "  "architectural_context": "...","
+    "  "building_types": ["..."],"
+    "  "architectural_elements": ["..."],"
+    "  "persons": ["..."]"
+    "}"
+
+    "Only return valid JSON. Do not add explanations, comments, or text outside the JSON block."
+)
+
+    
+        </pre>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}

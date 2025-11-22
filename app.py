@@ -232,6 +232,11 @@ def search_page():
     )
 
 
+@app.route('/about')
+def about_page():
+    return render_template('about.html')
+
+
 
 if __name__ == "__main__":
     print(f"Loaded {len(DATA)} JSON records.")

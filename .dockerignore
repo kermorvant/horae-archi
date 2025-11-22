@@ -1,0 +1,21 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+.eggs/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.cache/
+.DS_Store
+.git
+.github
+node_modules
+*.sqlite3
+# Keep data in the image (don't ignore `data/`), it's required by the app
