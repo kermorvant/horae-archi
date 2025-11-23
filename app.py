@@ -1,10 +1,25 @@
 import os
 import json
 import re
+import logging
 from flask import Flask, render_template, request, redirect, url_for
 
 JSON_DIR = "data"   # directory containing individual JSON files
 RESULTS_PER_PAGE = 48   # 4 cards × 12 rows per page
+
+
+logging.basicConfig(level=logging.INFO)
+
+def log_usage(query, filters, results_count):
+    logging.info(
+        json.dumps({
+            "event": "search",
+            "query": query,
+            "filters": filters,
+            "results": results_count
+        })
+    )
+
 
 app = Flask(__name__)
 
@@ -205,9 +220,21 @@ def search_page():
         f_elements=f_elements,
         f_persons=f_persons
     )
-
+    
     total_results = len(results_all)
     total_pages = max(1, (total_results + RESULTS_PER_PAGE - 1) // RESULTS_PER_PAGE)
+
+    filters_used = {
+        "scene_desc": f_scene_desc,
+        "scene_interp": f_scene_interp,
+        "spatial": f_spatial,
+        "architectural": f_arch,
+        "buildings": f_buildings,
+        "elements": f_elements,
+        "persons": f_persons,
+    }
+    log_usage(query, filters_used, total_results)
+
 
     # Slice for the current page
     start = (page - 1) * RESULTS_PER_PAGE
